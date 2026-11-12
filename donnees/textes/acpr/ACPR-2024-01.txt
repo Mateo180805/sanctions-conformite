@@ -1,0 +1,570 @@
+===== Page 1 =====
+Décision de la Commission des sanctions – procédure n°2024-01
+BANQUE CHAABI DU MAROC
+(BCDM)
+Procédure no 2024-01
+–––––
+Blâme et sanction pécuniaire de
+250 000 euros
+Publication sous une forme
+nominative pendant 5 ans
+–––––
+Audience du 16 octobre 2025
+Décision rendue le 7 novembre 2025
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 20 juin 2024 par laquelle le président de l’Autorité de contrôle prudentiel et de
+résolution (ACPR) informe la Commission des sanctions (ci-après la « Commission ») de ce que le
+Collège de supervision de l’ACPR (ci-après le « Collège »), statuant en sa formation de sous-collège
+sectoriel de la banque, a décidé d’ouvrir une procédure disciplinaire à l’encontre de la banque Chaabi
+du Maroc (ci-après la « BCDM ») ;
+Vu la notification des griefs du 20 juin 2024 ;
+Vu les mémoires en défense des 27 septembre 2024, 22 janvier 2025 et du 27 mars 2025, par lesquels
+la BCDM demande à la Commission des sanctions (i) d’écarter ou, à tout le moins, de fortement
+relativiser les griefs qui lui ont été notifiés et (ii), si une sanction devait être prononcée, de tenir compte
+de sa situation financière dégradée, du fait qu’elle a toujours agi en totale transparence avec ses
+régulateurs et qu’elle a déjà consacré d’importantes ressources à l’amélioration constante de son
+dispositif de LCB-FT ;
+Vu les mémoires en réplique du 2 décembre 2024 et du 5 mars 2025, par lesquels le Collège,
+représenté par M. Christian Lajoie puis par Mme Agnès de Clermont-Tonnerre, maintient tous les griefs
+et estime que ces derniers mettent en évidence un non-respect étendu des dispositions législatives et
+réglementaires portant sur le contrôle interne et le dispositif de LCB-FT ;
+Vu le rapport du 12 septembre 2025 de M. Georges. Decocq, rapporteur, qui conclut que tous les
+griefs relatifs au dispositif de LCB-FT sont établis (griefs 3 à 7), le grief 7 dans un périmètre toutefois
+réduit, tandis que les griefs relatifs au contrôle interne sont écartés (griefs 1 et 2) ;
+Vu les courriers du 12 septembre 2025 convoquant à l’audience les parties ainsi que la direction
+générale du Trésor et les informant de la composition de la Commission ;
+Vu les observations présentées le 29 septembre 2025 par le Collège et la BCDM en réponse au
+rapport du rapporteur ;
+Autorité de contrôle prudentiel et de résolution 1
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure n°2024-01
+Vu les autres pièces du dossier, notamment le rapport de contrôle signé le 4 janvier 2024 et le procès-
+verbal de l’audition de la BCDM réalisée à sa demande par le rapporteur le 5 juin 2025 ;
+Vu la convention européenne de sauvegarde des droits de l’homme et des libertés fondamentales
+(CESDHLF), notamment ses articles 6 et 7 ;
+Vu le code monétaire et financier (ci-après le « CMF »), notamment ses articles L. 318-1 à L. 318-
+5, L. 561-2-1, L. 561-5-1, L. 561-6, L. 561-15, L. 561-16, L. 561-32, L. 561-36-1, L. 612-38, L. 612-
+39, L. 612-40, R. 612-35 et s., R. 561-12-1 et R. 561-38-4 ;
+Vu l’arrêté du 3 novembre 2014 relatif au contrôle interne des entreprises du secteur de la banque,
+des services de paiement et des services d'investissement soumises au contrôle de l'Autorité de contrôle
+prudentiel et de résolution, notamment ses articles 11, 12 et 38 ;
+Vu l’arrêté du 6 janvier 2021 relatif au dispositif et au contrôle interne en matière de lutte contre le
+blanchiment de capitaux et le financement du terrorisme (ci-après « LCB-FT ») et de gel des avoirs et
+d'interdiction de mise à disposition ou d'utilisation des fonds ou ressources économiques (ci-après
+l’ « arrêté du 6 janvier 2021 »), notamment ses articles 4 et 13;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACPR, composée de M. Pierre Collin, Président, Mmes Claire
+Castanet, Edith Sudre et Gaëlle Dumortier, et de M. François Rosier, membres de la Commission ;
+Après avoir entendu, lors de sa séance non publique du 16 octobre 2025 :
+• M. Georges. Decocq, rapporteur, assisté de M. Fabien Patris, son adjoint ;
+• Mme de Clermont-Tonnerre, représentante du Collège, assistée de […] adjoint à la directrice des
+affaires juridiques, de […] adjoint à la cheffe du service des affaires institutionnelles et du droit
+public, et de […] juriste au sein de ce service ; Mme de Clermont-Tonnerre a proposé à la
+Commission de prononcer un blâme et une sanction pécuniaire de 300 000 euros par une décision
+publiée sous une forme nominative pendant 5 ans ;
+• La BCDM, représentée par […] son directeur général et […] son directeur de la conformité et de
+la LCB-FT, et assistée [par] Mes Philippe Goutay et Charles Smith (cabinet JONES-DAY),
+préalablement informée de son droit de se taire par le Président ;
+En l’absence de la direction générale du Trésor, dûment convoquée ;
+Après avoir délibéré en la seule présence de M. Collin, Président, Mmes Claire Castanet, Edith Sudre,
+Gaëlle Dumortier, de M. François Rosier, membres de la Commission ainsi que de Mme Lysiane
+Dauphin, experte juridique au service de la Commission des sanctions, faisant fonction de secrétaire de
+séance ;
+1. La BCDM est la filiale française du groupe Banque Centrale Populaire du Maroc (« groupe
+BCP »), qui affichait en 2024 un total de bilan d’environ 54 milliards d’euros.
+Le groupe BCP, issu du regroupement des Caisses populaires régionales du Maroc, a
+historiquement contribué à l’accompagnement bancaire des Marocains résidant en dehors du
+Maroc, appelés Marocains du Monde (ci-après « MDM »). C’est à cette fin, dans le cadre de
+l’article 13 de la convention de main-d’œuvre franco-marocaine du 1er juin 1963, permettant aux
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure n°2024-01
+travailleurs marocains en France de pouvoir transférer au Maroc leurs économies dans le cadre de la
+législation et réglementation en vigueur, que le groupe BCP a créé, le 30 juin 1972, la BCDM.
+Agréée en tant qu’établissement de crédit, cette dernière propose en France, ainsi que dans
+d’autres pays européens où elle a établi des succursales, une activité bancaire conventionnelle qui
+consiste en l’ouverture et la tenue de comptes courants ou d’épargne, l’offre de crédits et la
+fourniture de services de paiement, principalement des services de transfert de fonds.
+Pour répondre aux besoins spécifiques des MDM, qui souhaitaient sécuriser leurs opérations de
+transfert de fonds vers le Maroc et pouvoir disposer dans leur pays d’origine de comptes bancaires, le
+groupe BCP a également offert à ces derniers la possibilité d’ouvrir des comptes dans ses livres depuis
+l’étranger. Les services bancaires du groupe BCP, conclus et exécutés au Maroc, étaient distribués
+initialement par les services consulaires marocains établis en Europe et dans des bureaux de
+représentation. A la fermeture de ceux-ci en 2010, cette activité historique d’intermédiation de services
+bancaires pour le compte de la BCP, appelée « activité MDM », a été transférée à la BCDM, qui l’a
+exercée aussi bien en France que dans les pays où elle disposait de succursales, à l’exception des Pays-
+Bas où ces opérations avec le Maroc ont été interdites dès 2011. Cette activité est devenue la principale
+source de revenus de la BCDM, puisqu’à la fin de 2022, les commissions perçues de la BCP en
+rémunération de ce service d’intermédiation bancaire représentaient 77% de son produit d’exploitation
+bancaire.
+2. En 2014, la loi n° 2014-773 du 7 juillet 2014 relative à la politique de développement et de
+solidarité internationale a introduit un cadre juridique spécifique pour l’exercice d’opérations de banque
+sur le territoire français par des établissements de crédit ayant leur siège social en dehors de l’Espace
+économique européen et bénéficiant de l’aide publique au développement de l’OCDE. Les articles
+L.318-1 à L. 318-5 du CMF, issus de cette loi, permettent ainsi aux organismes susvisés d’offrir des
+services bancaires en France à condition d’avoir reçu l’autorisation de l’ACPR. C’est dans ce contexte
+que la BCP a demandé le 27 octobre 2015 à l’ACPR l’autorisation requise par l’article L. 318-2 du
+CMF.
+Compte tenu [d’une précédente sanction] pour des manquements dans le domaine de la LCB-FT,
+le Collège de l’ACPR a décidé, lors de sa séance du 9 novembre 2015, de n’autoriser la BCP à offrir,
+par le biais de la BCDM, des opérations de banque à des personnes physiques résidant en France que
+sous les trois conditions suspensives suivantes : i) la signature effective d’une convention de
+commercialisation entre la BCP et BCDM, ii) la communication au Secrétariat général de l’ACPR
+(SGACPR) d’un rapport de synthèse de l’audit interne de la BCDM attestant de la mise en œuvre
+effective des mesures correctrices des manquements en matière de LCB-FT ayant fait l’objet de la
+[précédente] sanction disciplinaire, iii) la validation des conclusions de ce rapport par une mission
+d’inspection de l’ACPR.
+Un rapport de contrôle sur place signé le 9 mai 2017 ayant encore constaté des insuffisances dans
+le dispositif de LCB-FT, les conditions suspensives n’ont pu être levées par le Collège de l’ACPR que
+le 30 avril 2020.
+3. […] Le 12 décembre 2022, le SGACPR a rappelé à la BCDM que la portée de l’autorisation
+accordée dans le cadre de la loi du 7 juillet 2014 était limitée aux opérations bancaires fournies à des
+personnes physiques résidant en France et qu’elle devait, en conséquence, s’assurer du respect du cadre
+légal applicable dans l’Etat de chacune de ses succursales européennes pour l’exercice de l’activité
+MDM.
+4. La BCDM dispose d’environ 400 salariés, dont 38 étaient, au moment du contrôle, affectés à la
+fonction conformité.
+En 2023, elle a comptabilisé [plusieurs dizaines de milliers de] nouveaux clients, ce qui portait à
+environ [plusieurs centaines de milliers] son stock de clients, quasiment tous des particuliers personnes
+physiques, dont [une majorité de] clients occasionnels. La taille de son bilan était d’environ 400 millions
+d’euros, dont environ 57 millions d’euros de fonds propres. Elle avait réalisé au 31 décembre 2023 un
+produit net bancaire (PNB) de 52 millions d’euros et une perte de 1,365 millions d’euros.
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure n°2024-01
+Au 31 décembre 2024, la BCDM a de nouveau enregistré une perte de 3,5 millions d’euros, pour
+un PNB de 51 millions d’euros. Ses fonds propres sont évalués à 50,7 millions d’euros.
+5. La BCDM a fait l’objet, du 7 février au 9 juin 2023, d’un contrôle sur place portant sur son
+dispositif de LCB-FT et la commercialisation des produits de sa société-mère, qui a donné lieu à la
+signature, le 4 janvier 2024, d’un rapport (ci-après « le rapport de contrôle »).
+Au vu de ce rapport, le Collège de l’ACPR a décidé, lors de sa séance du 31 mai 2024 d’ouvrir la
+présente procédure disciplinaire, dont la Commission a été saisie par une lettre du 20 juin 2024.
+I- SUR LE CONTRÔLE INTERNE DE L’ACTIVITE DE COMMERCIALISATION
+DES PRODUITS ET SERVIVES MDM DANS LES SUCCURSALES
+EUROPEENNES
+Les griefs 1 et 2
+6. Aux termes de l’article 38 de l’arrêté du 3 novembre 2014 relatif au contrôle interne des
+entreprises du secteur de la banque, « les entreprises assujetties mettent en place des procédures
+permettant de suivre et d’évaluer la mise en œuvre effective des actions visant à remédier à tout
+dysfonctionnement dans la mise en œuvre des obligations de conformité ».
+L’article 11 du même arrêté précise que « Le contrôle interne a notamment pour objet, dans des
+conditions optimales de sécurité, de fiabilité et d’exhaustivité, de : / (…) f) Vérifier l'exécution dans des
+délais raisonnables des mesures correctrices décidées au sein des entreprises assujetties ».
+7. Selon le grief 1, la BCDM a commercialisé via ses succursales aux Pays-Bas, en Belgique, en
+Espagne, en Italie et en Allemagne, les produits et les services MDM de sa société-mère, la BCP. Or un
+risque de non-conformité associé à cette commercialisation avait été identifié par la BCDM en Espagne
+dès 2008 (puis aux Pays-Bas le 14 février 2011. Ce risque s’est de nouveau manifesté en Belgique le 13
+novembre 2020, et en Italie le 21 janvier 2021. Pourtant, sauf pour les Pays-Bas et l’Italie, ce n’est qu’à
+la suite d’un courrier du Secrétariat Général de l’ACPR du 12 décembre 2022, lui rappelant que
+l'autorisation qui lui avait été délivrée de commercialiser des produits et des services de sa société-mère
+ne valait que pour les personnes physiques résidant en France et l'appelant à respecter le cadre légal des
+pays d'implantation de ses succursales, que la BCDM a, d'une part, transmis des instructions d'arrêt de
+l'activité MDM à ses succursales espagnole, belge et allemande, et, d'autre part, recherché les conditions
+d'une reprise de l'activité MDM conforme à la réglementation de chacun des pays où elle est proposée.
+Les mesures correctrices propres à remédier au risque de non-conformité constaté ont ainsi été tardives.
+Position de la Commission
+8. Dans sa décision Société La Banque Postale n°428292 du 15 novembre 2009, point 7, le
+Conseil d’État a jugé qu’il résultait des dispositions citées au point 6 que « que les entreprises
+soumises au contrôle de l’ACPR sont tenues, lorsqu’un dysfonctionnement au regard des
+obligations de conformité ou un risque de non-conformité est identifié, non seulement de définir,
+sans délai, les mesures propres à remédier à ce dysfonctionnement ou à ce risque, mais également
+de veiller à leur mise en œuvre ainsi qu’à leur respect ».
+Le grief est tiré de ce que la BCDM, ayant identifié un risque de non-conformité de son activité
+de distribution MDM au travers de certaines de ses succursales établies dans d’autres États
+membres de l’UE, aurait tardé à remédier à ce risque en s’assurant de la conformité de cette activité
+au droit de chacun des États concernés et, le cas échéant, en cas de non-conformité avérée, de mettre
+fin à son activité.
+9. Selon l’article 5, alinéa 1, de la directive 2006/48/CE du Parlement européen et du Conseil
+du 14 juin 2006 concernant l’accès à l’activité des établissements de crédit et son exercice, seuls
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure n°2024-01
+les établissements de crédit au sens de la directive, c’est-à-dire agréés par un État membre de l’UE,
+peuvent exercer sur le territoire de l’UE l’activité de réception de dépôts ou d’autres fonds
+remboursables du public. L’alinéa 2 de ce même article précise toutefois que les États membres
+peuvent prévoir des dérogations à ce principe, à condition que ces activités soient soumises à des
+règlements et contrôles visant à la protection des déposants et des investisseurs. L’article 5 de la directive
+de 2006 a été repris en des termes identiques, respectivement aux paragraphes 1 et 2 de l’article 9 de la
+directive 2013/36/UE du Parlement européen et du Conseil du 26 juin 2013.
+Il résulte de ces dispositions que la possibilité, pour la BCDM, de distribuer sur le territoire de l’UE
+les services bancaires de sa société-mère située hors de l’Espace économique européen, activité qui ne
+relève pas de son passeport européen, dépend de la réglementation de chacun des pays concernés. Par
+suite, l’identification, dans un pays donné, d’un risque de non-conformité attaché à la commercialisation
+par la BCDM des services bancaires proposés par la BCP ne permet pas de déduire l’existence d’un
+risque similaire dans un autre État membre. Il convient en conséquence d’apprécier pour chacune des
+trois succursales concernées si les éléments dont disposait la BCDM permettaient de caractériser un
+risque de non-conformité auquel elle aurait tardé à remédier.
+10. S’agissant de la succursale espagnole
+Si, selon le Collège, la BCDM avait été alertée, par un mémorandum [d’un cabinet d’avocats
+spécialisé] réalisé à sa demande en mars 2008 sur le régime juridique et fiscal applicable à la succursale
+bancaire sur le territoire espagnol, d’un risque de non-conformité associé à l’activité MDM, le caractère
+général et non conclusif de ce document ne permettait pas de caractériser l’existence d’un tel risque. Sa
+recommandation principale, au point 4.18, consistait à inviter l’établissement à se rapprocher du
+régulateur espagnol pour lui décrire l’activité MDM et obtenir son accord. Or la BCDM avait déjà
+présenté de manière détaillée son activité d’intermédiation bancaire pour le compte de la BCP dans son
+dossier de notification de libre établissement déposé le 12 octobre 2007, sans que la Banque d’Espagne,
+à qui il incombait, selon l’article 26 de la directive 2006/48/CE, d’indiquer à l’établissement les
+conditions dans lesquelles les activités notifiées dans la demande de passeport européen pouvaient être
+exercées, n’ait émis la moindre objection. Il n’apparaît pas dans le dossier de procédure que le régulateur
+espagnol ait davantage exprimé de désaccord ou de réserves lors de la nouvelle présentation, qui lui a
+été faite en décembre 2017 par la BCDM, de son activité exercée pour le compte de la BCP. Il n’est
+ainsi pas démontré que la BCDM disposait des éléments lui permettant d’identifier un risque de non-
+conformité de l’activité de sa succursale espagnole auquel elle aurait dû remédier avant le courrier du
+SGACPR de décembre 2022.
+11. S’agissant de la succursale belge
+La BCDM ne conteste pas avoir détecté un risque de non-conformité lorsqu’elle a pris connaissance
+de l’analyse juridique réalisée le 13 novembre 2020 par un cabinet d’avocats spécialisé, qui concluait
+sans ambiguïté que l’ouverture d’un compte bancaire directement dans les comptes de la BCP à partir
+de la Belgique pouvait s’assimiler à une opération de réception de dépôts et fonds remboursables sur le
+territoire belge auprès d’un organisme ne disposant pas de l’agrément requis, puisqu’établi en dehors de
+l’espace économique européen. Elle indique toutefois, sans être contredite par le Collège, qu’elle a
+immédiatement décidé, après cette consultation, de modifier les conditions d’exercice de l’activité
+MDM, en cessant de démarcher activement les clients et en se contentant de répondre à leurs
+sollicitations, nouvelle approche compatible, selon les conclusions de l’étude juridique précitée, avec la
+réglementation belge. Il ne peut dès lors être considéré que la remédiation au risque de non-conformité,
+qu’elle avait identifié, a été tardive.
+12. S’agissant de la succursale allemande
+Le Collège estime que la BCDM aurait dû identifier le risque de non-conformité associé à la
+commercialisation en Allemagne des services bancaires proposés par la BCP, dès lors que ce risque
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure n°2024-01
+avait été détecté dans d’autres succursales, en particulier en Espagne en 2008, aux Pays-Bas en 2011,
+en Belgique en 2020 et en Italie en 2021. Toutefois, ainsi qu’il a été dit au point 9, la diversité des
+réglementations nationales ne permettait pas d’inférer avec certitude l’existence d’un risque de non-
+conformité dans un pays du fait de l’existence d’un tel risque dans une autre succursale européenne.
+13. Le grief 1 est donc écarté.
+14. Selon le grief 2, si la BCDM a bien transmis, après le courrier du SGACPR du 12 décembre
+2022, des instructions d’arrêt de l’activité MDM à ses succursales, aucune procédure n’avait cependant
+été mise en place, à la date du rapport de contrôle, pour permettre de suivre et d’évaluer la mise en œuvre
+effective de ces mesures visant à remédier aux dysfonctionnements aux obligations de conformité
+identifiés. Le contrôle de l’arrêt de l’activité MDM dans les succursales n’a pas non plus été inscrit au
+plan de contrôle de 2023.
+Position de la Commission
+15. Il résulte, ainsi qu’il a été dit au point 8, de la combinaison des articles 38 et 11 f) de l’arrêté du
+novembre 2014 que tout organisme assujetti doit définir sans délai les mesures propres à remédier à un
+défaut de conformité constaté et l’article 11 f) de l’arrêté du 3 novembre 2014 impose de vérifier que
+ces mesures ont été mises en œuvre dans des « délais raisonnables ». S’il en résulte que cette vérification
+doit elle-même nécessairement intervenir dans des délais raisonnables, il était en l’espèce
+matériellement difficile, comme le soutient à juste titre la BCDM, de mettre en place une procédure de
+vérification 3 comportant des développements informatiques dans le laps de temps compris entre les
+décisions prises par la banque à la suite de la lettre du 12 décembre 2022 et la date du rapport de contrôle.
+La Commission observe au demeurant que le rapport de contrôle a indiqué avoir « une assurance
+raisonnable que l’établissement ne commercialisait plus les services bancaires de la BCP qu’à des
+personnes physiques résidant en France ».
+16. Dans ces conditions, le grief 2 est écarté.
+II- SUR LE DISPOSITIF DE LCB-FT
+A- Sur la défaillance du dispositif de gestion des risques
+Le grief 3
+17. En vertu des dispositions de l’article L. 561-32 du CMF, telles que précisées par l’article
+4 de l’arrêté du 6 janvier 2021 relatif au dispositif et au contrôle interne en matière de LCB-FT et
+de gel des avoirs, les établissements assujettis mettent en place un dispositif de gestion des risques
+permettant de « (…) traiter les alertes, sur la base d’une analyse documentée, qui donnent lieu à
+un classement sans suite dûment motivé, à un examen renforcé (…) ou à une déclaration de soupçon
+(…) » et ce afin d’être en mesure, le cas échéant, de se conformer à leur obligation, édictée à l’article
+L. 561-16 du CMF, de déclaration sans délai des opérations suspectes dont la réalisation n'a pu être
+empêchée.
+18. Selon le grief 3, la BCDM n’était pas en mesure, au moment du contrôle, de traiter dans
+des délais raisonnables les éventuelles opérations atypiques ou suspectes détectées par son outil de
+surveillance automatisé, puisque 63 % des alertes émises entre le 1er janvier 2021 et le 15 mars
+2022 (24 000 alertes sur un total de 38 020) étaient encore en attente de traitement.
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure n°2024-01
+Position de la Commission
+19. Ainsi que la Commission l’a précisé à de nombreuses reprises, il appartient aux organismes
+assujettis de paramétrer correctement leur dispositif de surveillance automatisé et de disposer d’effectifs
+suffisants pour traiter avec célérité les alertes qui en sont issues (décision n° 2013-01 du 25 novembre
+2013, point 48, décision n° 2020-01 du 24 décembre 2020, point 20, décision n° 2020-05 du 7 mai 2021,
+point 5). La Commission a ainsi pu estimer dans sa décision n° 2024-02 du 19 juin 2025 qu’un délai
+supérieur à quatre mois pour analyser un quart des alertes émises par un dispositif de surveillance,
+caractérise un manquement à l’article 4 de l’arrêté du 6 janvier 2021 précité. A fortiori, il en va de même
+lorsque plus de la moitié des alertes n'a pas été traitée dans le délai d’un an.
+20. La BCDM ne conteste pas le manquement. Elle se borne à tenter d’en minimiser la portée en
+soulignant i) que ce stock d’alertes non traitées est un phénomène conjoncturel résultant de
+l’augmentation transitoire du nombre des scenarios d’alertes relatifs aux opérations de transmission de
+fonds, ii) que 25 % des alertes concernaient seulement 50 clients et iii) que les opérations correspondant
+aux 24 000 alertes a posteriori avaient été analysées par son outil d’alertes a priori, bloquantes. Elle
+indique enfin qu’elle avait commencé à déployer des moyens humains complémentaires pour traiter ce
+stock d’alertes avant la venue de la mission de contrôle et que ce dernier était entièrement résorbé au 27
+septembre 2024.
+21. Toutefois, la Commission relève que le SGACPR avait déjà signalé en 2017 à la BCDM que
+son dispositif de surveillance automatisé était mal calibré. Le fait qu’un quart des alertes se concentre
+sur un faible nombre de clients ne peut par ailleurs être un facteur minorant du risque de BC-FT. En
+outre, si le dispositif d’alertes a priori avait correctement fonctionné, comme le soutient l’établissement,
+les opérations concernées auraient logiquement dû être bloquées : elles n’auraient donc pas dû générer
+des alertes a posteriori. Enfin, la décision d’engager des mesures correctrices avant la venue de la
+mission de contrôle sur place n’est pas de nature à écarter le constat, sur la période incriminée, de la
+défaillance de l’établissement dans sa capacité à traiter avec célérité les alertes issues de son dispositif
+de surveillance automatisé.
+22. Le grief 3 est fondé et ne saurait être minoré.
+B- Sur les défauts de connaissance des clients considérés à tort comme clients
+occasionnels et de vigilance constante à leur égard
+Le grief 4
+23. Aux termes de l’article L. 561-2-1 du CMF « une relation d’affaires est nouée lorsqu’une
+personne mentionnée à l’article L. 561-2 engage une relation professionnelle ou commerciale qui est
+censée, au moment où le contact est établi, s'inscrire dans une certaine durée. La relation d'affaires
+peut être prévue par un contrat selon lequel plusieurs opérations successives seront réalisées entre les
+cocontractants ou qui crée à ceux-ci des obligations continues. Une relation d'affaires est également
+nouée lorsqu'en l'absence d'un tel contrat un client bénéficie de manière régulière de l'intervention d'une
+personne susmentionnée pour la réalisation de plusieurs opérations ou d'une opération présentant un
+caractère continu ou, s'agissant des personnes mentionnées au 12° et au 12° bis de l'article L. 561-2,
+pour l'exécution d'une mission légale ».
+En application des L. 561-5 et L. 561-6 du CMF, les personnes assujetties, avant d’entrer en relation
+d’affaires, « recueillent les informations relatives à l'objet et à la nature de cette relation et tout autre
+élément d'information pertinent » puis, pendant toute la relation d’affaires « actualisent ces
+informations» et, dans les conditions fixées par décret en Conseil d'État « exercent, dans la limite de
+leurs droits et obligations, une vigilance constante et pratiquent un examen attentif des opérations
+effectuées en veillant à ce qu'elles soient cohérentes avec la connaissance actualisée qu'elles ont de leur
+relation d'affaires ».
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure n°2024-01
+24. Selon le grief 4, la BCDM n’a pas respecté ses propres critères de distinction entre client
+occasionnel et client en relation d’affaires pour onze de ses clients. Sa procédure LCB-FT PR en date
+du 24 janvier 2022 précise en effet, pour les opérations de transfert de fonds, qu’à compter de la 7ème
+opération sur une année glissante, quel que soit le montant unitaire ou cumulé des opérations, un client
+ne peut plus être considéré comme un client occasionnel, mais doit être requalifié en relation d’affaires.
+Or, les onze clients identifiés par la mission de contrôle avaient tous réalisé sept opérations ou davantage,
+pour des montants compris entre 2000 et 12 000 euros, tout en restant qualifiés de clients occasionnels,
+ce qui a empêché l’établissement de respecter à leur endroit les obligations imposées par les articles L.
+561-5 et L. 561-6 du CMF. Cette mauvaise qualification avait d’ailleurs été constatée par le contrôle
+permanent de la BCDM dans 38 % des 528 dossiers qu’il avait examinés au titre du premier semestre
+2022. Enfin, la Commission des sanctions a déjà sanctionné la BCDM pour des manquements similaires
+[…] .
+Position de la Commission
+25. La réalisation par des clients de sept opérations ou plus sur une année glissante, au surplus pour
+des montants totaux compris entre 2000 et 12 000 euros, devait nécessairement conduire la BCDM,
+conformément aux critères qu’elle avait elle-même fixés, à qualifier ces clients de relations d’affaires
+au sens de l’article L. 561-2-1 du CMF (voir en ce sens les décisions précédentes de la Commission,
+n°2017-06 du 13 juin 2018, considérant 8 et n° 2017-07, du 13 juin 2018, considérant 11), ce que cette
+dernière ne conteste pas.
+26. Pour tenter de relativiser la portée du manquement, la BCDM soutient, d’une part, que cette
+défaillance, qui résulterait d’une erreur de paramétrage des outils informatiques, avait été constatée par
+son contrôle permanent et que des actions de remédiation étaient en cours de mise en œuvre au
+démarrage de la mission de contrôle ; d’autre part, que, nonobstant leur qualification erronée en client
+occasionnel, elle avait collecté auprès des onze clients concernés les éléments d’identité et de
+connaissance du client.
+Toutefois, il ne ressort pas du dossier de procédure que ces erreurs de qualification, qui auraient dû
+être corrigées avant le 28 novembre 2022, selon la fiche du contrôle permanent, l’avaient été au moment
+du démarrage de la mission de contrôle le 7 février 2023. En outre, si des éléments relatifs à l’identité
+ainsi que, dans certains cas, l’origine des fonds ont pu en effet être demandés par la BCDM,
+l’établissement ne disposait pas d’informations sur les revenus et le patrimoine de ces onze clients, alors
+que de telles informations sont indispensables à une bonne connaissance de ces derniers et à l’exercice
+d’une vigilance constante de leurs opérations.
+27. Le grief 4 est ainsi fondé pour les onze clients visés.
+C- Sur la mise en œuvre des obligations de déclaration de soupçon à Tracfin
+Les griefs 5 et 6
+Sur les déclarations de soupçon effectuées tardivement
+28. Aux termes de l’alinéa 2 de l’article L. 561-16 du CMF, « Lorsqu'une opération devant
+faire l'objet de la déclaration prévue à l'article L. 561-15 a déjà été réalisée, soit parce qu'il a été
+impossible de surseoir à son exécution, soit que son report aurait pu faire obstacle à des
+investigations portant sur une opération suspectée de blanchiment des capitaux ou de financement
+du terrorisme, soit qu'il est apparu postérieurement à sa réalisation qu'elle était soumise à cette
+déclaration, la personne mentionnée à l'article L. 561-2 en informe sans délai le service prévu à
+l'article L. 561-23. »
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure n°2024-01
+29. Selon le grief 5, la mission d’inspection a identifié, durant ses investigations, vingt-cinq
+opérations qui auraient dû faire l’objet d’une déclaration de soupçon (« DS »). Pour remédier à
+cette carence, la BCDM a déclaré à Tracfin, entre le 4 mai et le 21 juin 2023, soit pendant le contrôle
+sur place, vingt-trois des opérations précitées. Toutefois, ces déclarations de soupçon demeurent
+tardives au regard du texte susvisé, qui impose de déclarer de telles opérations sans délai dès lors
+qu’elles ont déjà été exécutées. En effet, le délai moyen de transmission de ces déclarations est de 768,83
+jours à compter de la date à partir de laquelle les opérations auraient pu apparaître comme suspectes.
+Certaines opérations ont eu lieu entre 2018 et 2021, ou en 2022, pour une déclaration intervenue en
+2023.
+Position de la Commission
+30. La Commission a récemment considéré que « Les délais moyens très élevés dans lesquels un
+établissement adresse à Tracfin ses DS sont excessifs et caractérisent donc par eux-mêmes un
+manquement à informer « sans délai » Tracfin des opérations suspectes qui ont déjà été exécutées, quel
+que soit le sens que l’on donne à ces termes dès lors que l’établissement ne fait état d’aucune diligence
+précise dans ces différents dossiers de nature à les justifier » (Décision n° 2022-07 du 9 avril 2024,
+point 58).
+31. La BCDM ne conteste pas les délais constatés par la mission de contrôle, compris entre 83 jours
+et 1997 jours, pour une moyenne de plus de 768 jours pour les vingt-trois DS concernées. Elle ne fait
+état d’aucune diligence précise, ni de difficulté particulière d’investigation. Si elle fait valoir que le
+traitement du stock important d’alertes issues du dispositif automatisé des opérations a généré un surplus
+de travail, empêchant que les examens renforcés qui avaient été initiés pour les vingt-trois dossiers aient
+pu être achevés, cette circonstance n’est pas de nature à minimiser le manquement. En effet, ainsi qu’il
+a été rappelé au grief 3, les établissements doivent en tout état de cause se doter de moyens humains
+suffisants pour leur permettre de traiter les alertes issues du dispositif de surveillance dans les meilleurs
+délais.
+32. Le grief 5 est fondé.
+Sur les défauts de déclaration de soupçon
+33. Aux termes de l’article L. 561-15 du CMF, « I. – Les personnes mentionnées à l'article L. 561-
+2 sont tenues, dans les conditions fixées par le présent chapitre, de déclarer au service mentionné à
+l'article L. 561-23 les sommes inscrites dans leurs livres ou les opérations portant sur des sommes dont
+elles savent, soupçonnent ou ont de bonnes raisons de soupçonner qu'elles proviennent d'une infraction
+passible d'une peine privative de liberté supérieure à un an ou sont liées au financement du terrorisme.
+/ II. – Par dérogation au I, les personnes mentionnées à l'article L. 561-2 déclarent au service mentionné
+à l'article L. 561-23 les sommes ou opérations dont ils savent, soupçonnent ou ont de bonnes raisons de
+soupçonner qu'elles proviennent d'une fraude fiscale lorsqu'il y a présence d'au moins un critère défini
+par décret. / III. – A l'issue de l'examen renforcé prescrit à l'article L. 561-10-2, les personnes
+mentionnées à l'article L. 561-2 effectuent, le cas échéant, la déclaration prévue au I du présent
+article. »
+34. Selon le grief 6, la BCDM a omis de procéder à deux déclarations de soupçon (« DS »)
+concernant les opérations de deux de ses clients.
+35. Dans le dossier 6-1, le client […] travaillait dans une ambassade. Il percevait à ce titre une
+rémunération mensuelle de 16 647 euros. Alors qu’il était le seul mandataire du compte de l’ambassade,
+ses comptes personnels ont enregistré des opérations créditrices, sous forme de virements sans
+justificatifs, dont certaines en provenance directe du compte de l'ambassade, pour un montant total de
+240 837 euros en 2019. La BCDM, qui avait bloqué les comptes de son client, sans procéder à une DS,
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure n°2024-01
+a indiqué à la mission de contrôle que « la situation de ce dossier s'inscrit dans le cadre d'une procédure
+disciplinaire de 5 collaborateurs en raison d'un défaut important de contrôle de 1er niveau et du non-
+respect de nos procédures internes. Les opérations douteuses ont pu être écartées dans le cadre de
+l'enquête menée notamment au regard de la collecte des justifications et justificatifs permettant de lever
+le doute sur ces opérations ». Elle n’a toutefois fourni à la mission aucun des justificatifs en cause.
+36. Dans le dossier 6-2, le client, […] avait indiqué à l’établissement que son activité principale
+consistait à proposer des formations en ligne sur des questions liées à la religion musulmane, à permettre
+à ses « followers » d’acheter des produits proposés par des entreprises partenaires et à vendre des
+espaces publicitaires sur ses vidéos hébergées par une plateforme internet à destination du grand public.
+Il percevait au titre de ces trois activités plus de 200 000 euros de revenus annuels. La mission de
+contrôle a constaté par ailleurs que le client était imam d’une mosquée et gérait une agence de voyages
+spécialisée dans le pèlerinage islamique, activité qui lui procurait un revenu mensuel complémentaire
+de 18 000 euros. Le compte personnel du client comportait de nombreux mouvements, au débit et au
+crédit, relatifs à ses activités professionnelles. Au terme d’un examen renforcé des opérations, la
+direction de la conformité de la BCDM a demandé la clôture du compte du client, sans toutefois procéder
+à une DS. Un second examen renforcé lié à la restitution des fonds à la suite de la clôture du compte, n'a
+pas non plus donné lieu à une déclaration de soupçon, bien que l'examen renforcé ait conduit
+l'établissement à ne pas réaliser l'opération, compte tenu de liens possibles avec le financement d'un
+mouvement salafiste.
+Position de la Commission
+37. S’agissant [du client 6.1] les opérations réalisées notamment en 2019 présentaient un caractère
+atypique au regard de la connaissance que la BCDM avait de son client. À défaut d’avoir reçu, dans le
+cadre de l’examen renforcé qu’elle avait initié, des éléments justificatifs probants quant à l’origine des
+fonds et au fonctionnement du compte, la BCDM aurait dû procéder sans délai à une déclaration de
+soupçon auprès de Tracfin, ce que l’établissement n’a fait que le 19 juillet 2024.
+38. Concernant [le client 6.2], l’examen renforcé n’ayant pas permis d’écarter le soupçon que
+les mouvements constatés puissent provenir d’une infraction passible d’une peine privative de
+liberté supérieure à un an ou être liées à du financement du terrorisme, la BCDM aurait dû déclarer
+sans délai ces opérations suspectes à Tracfin, ce que l’établissement n’a réalisé qu’en septembre
+2024, soit après la mission de contrôle.
+39. La circonstance alléguée par la BCDM d’un surcroît de charge de travail provoqué par la
+résorption du stock de 24 000 alertes en attente et de la venue de la mission de contrôle n’est pas
+de nature à l’exonérer de son obligation de déclaration sans délai à Tracfin.
+40. Le grief 6 est donc fondé pour les deux dossiers.
+D- Sur le caractère lacunaire du dispositif de contrôle interne de LCB-FT
+41. Aux termes de l’article L. 561-32 du CMF, « I. Les personnes mentionnées à l'article L. 561-2
+mettent en place une organisation et des procédures internes pour lutter contre le blanchiment des
+capitaux et le financement du terrorisme, tenant compte de l'évaluation des risques prévue à l'article L.
+561-4-1/ (…) /II. Pour veiller au respect des obligations prévues au chapitre I du présent titre, les
+personnes mentionnées à l'article L. 561-2 mettent également en place des mesures de contrôle interne
+(…) ».
+L’article R. 561-38-4 de ce code précise que « (…) le dispositif défini à l'article R. 561-38-3
+comprend au moins : (…) 2° Un contrôle interne permanent réalisé selon les procédures définies ci-
+dessus par des personnes exerçant des activités opérationnelles d'une part et par des personnes dédiées
+à la seule fonction de contrôle des opérations d'autre part ; 3° Un contrôle interne périodique réalisé
+Autorité de contrôle prudentiel et de résolution 10
+
+===== Page 11 =====
+Décision de la Commission des sanctions – procédure n°2024-01
+par des personnes dédiées, de manière indépendante à l'égard des personnes, entités et services qu'elles
+contrôlent. Les procédures et contrôles mentionnés ci-dessus s'appliquent à l'intégralité des activités
+réalisées par les personnes mentionnées au premier alinéa. Les contrôles sont réalisés dans des
+conditions qui assurent leur sécurité et leur fiabilité ».
+L’article 12 de l’arrêté du 3 novembre 2014 dispose que : « b) Le deuxième niveau de contrôle est
+assuré par des agents au niveau des services centraux et locaux, exclusivement dédiés à la gestion des
+risques y compris le risque de non-conformité ».
+42. Selon le grief 7, la direction de la conformité de la BCDM (conformité siège) ne disposait pas,
+au moment du contrôle, d'un accès direct aux outils de surveillance et de filtrage de ses succursales
+belge, italienne et espagnole, alors que ces dernières utilisaient des outils qui leur étaient propres. Dès
+lors, les équipes de la conformité siège ne pouvaient pas s’assurer de la cohérence du paramétrage de
+ces outils, ni diligenter en autonomie des contrôles de deuxième niveau. Elles devaient se contenter
+d'exercer leurs contrôles sur la base des extractions et reportings - au demeurant lacunaires - qui leur
+étaient fournis par ces succursales, sans pouvoir en vérifier la fiabilité, ce qui est de nature à remettre en
+cause l'indépendance et l'efficacité des contrôles réalisés.
+Cette difficulté d’accès aux outils de ces trois succursales et l’insuffisance des informations pour
+pouvoir contrôler ces dernières sont des carences qui avaient été relevées par l’inspection générale du
+groupe BCP, dans le cadre de sa mission relative au dispositif de gouvernance, de contrôle interne et de
+gestion des risques de la BCDM. Pour autant, les plans de contrôle 2022 et 2023 ne comportaient aucun
+point de contrôle sur le paramétrage des outils de surveillance et de filtrage utilisés par ces succursales.
+Par ailleurs, le contrôle permanent de deuxième niveau de la BCDM ne couvrait pas les examens
+renforcés réalisés, aussi bien en France que dans les succursales européennes.
+Position de la Commission
+43. En premier lieu, si la BCDM a fait le choix, dans le cadre d’une organisation en filière des
+fonctions de la conformité et du contrôle interne, de confier le contrôle de deuxième niveau à la direction
+de la conformité de son siège, d’une part, et aux responsables de la conformité et du contrôle permanent
+de ses succursales, d’autre part, il ne résulte pas de l’article 12 de l’arrêté du 3 novembre 2014 qu’un tel
+choix d’organisation exonérait le siège de son obligation de garantir la sécurité et la fiabilité du contrôle
+de deuxième niveau, ni ferait obstacle à ce que la direction du siège puisse procéder elle-même à des
+contrôles de deuxième niveau dans les succursales.
+À cet égard, il n’apparaît pas, alors que les succursales en cause utilisent des outils de surveillance
+et de filtrage qui leur sont propres, que la BCDM était en mesure de garantir, en l’absence d’accès direct
+à ces outils, la sécurité et la fiabilité du contrôle de deuxième niveau.
+La BDCM ne saurait utilement faire valoir à cet égard l’existence d’un troisième niveau de contrôle
+interne, le contrôle périodique n’ayant pas pour objet de se substituer au contrôle permanent.
+Cette première branche du grief est ainsi fondée.
+44. En second lieu, la BCDM ne conteste pas les deux autres branches du grief, respectivement
+relatives à l’absence de plan de contrôle permanent pour s’assurer du bon paramétrage des outils de
+surveillance et à l’absence de vérification, par le contrôle de deuxième niveau, des examens renforcés
+conduits par le siège et les filiales. Or, ainsi que la Commission l’a rappelé à plusieurs reprises, les
+établissements assujettis doivent mettre en place un dispositif de contrôle interne exhaustif et fiable, qui
+couvre la totalité de leurs risques et de leurs activités, y compris au sein des succursales (voir par
+exemple la décision n° 2020-0l, du 24 décembre 2020, points 45 à 47 et la décision n° 2023-02 du 9
+octobre 2024, point 5). Les deux autres branches du grief sont établies.
+45. Le grief 7 est fondé.
+*
+* *
+Autorité de contrôle prudentiel et de résolution 11
+
+===== Page 12 =====
+Décision de la Commission des sanctions – procédure n°2024-01
+46. Il résulte de tout ce qui précède qu’en dépit de la sanction prononcée en 2013 et du suivi régulier
+des services de l’ACPR dans le cadre de l’octroi de l’autorisation prévue à l’article L. 318-2 du CMF,
+le dispositif de LCB-FT de la BCDM présentait encore, au moment du contrôle, des lacunes. Le mauvais
+calibrage du dispositif automatisé de surveillance des opérations avait ainsi généré un important stock
+d’alertes, non traitées au moment du contrôle (grief 3). La BCDM avait en outre qualifié à tort onze de
+ses clients de clients occasionnels (grief 4), omis de déclarer à Tracfin les opérations suspectes de deux
+clients (grief 6), tandis que le délai de traitement de vingt-trois DS, qui s’établissait en moyenne à 768
+jours, était excessif (grief 5). Enfin, le contrôle permanent du dispositif de LCB-FT était incomplet (grief
+7).
+Il convient toutefois de tenir compte du fait que la problématique des alertes non traitées avait été
+identifiée par la BCDM avant le contrôle et que l’accroissement temporaire de ses effectifs a permis de
+résorber le stock des 24 000 alertes en septembre 2024. En outre, l’erreur de qualification de onze clients
+doit être rapportée au nombre des [plusieurs dizaines de milliers] nouveaux clients enregistrés par la
+BCDM sur la même période.
+47. Par ailleurs, les griefs relatifs à la commercialisation des produits et services MDM pour le
+compte de la BCP (griefs 1 et 2) ont été totalement écartés.
+48. Enfin, il convient également de tenir compte, dans une certaine mesure, de l’ampleur et du coût,
+évalué à 7,5 millions d’euros, des actions engagées par la BCDM depuis 2013 pour corriger son
+dispositif de LCB-FT. La BCDM est en outre un établissement de taille modeste, dont le produit net
+bancaire s’est élevé à 51,4 millions d’euros en 2024 et qui, depuis 2019, réalise chaque année des pertes.
+À la fin de ce même exercice, elle disposait de 50,7 millions d’euros de fonds propres.
+49. Compte tenu des éléments mentionnés aux points 46 à 48, les manquements retenus par la
+Commission justifient le prononcé d’un blâme et d’une sanction pécuniaire de 250 000 euros. Par
+ailleurs, la BCDM ne fournit aucun élément permettant de considérer qu’une publication nominative de
+la présente décision serait de nature à lui causer un préjudice disproportionné et qu’elle méconnaîtrait,
+en l’espèce, l’équilibre entre l’intérêt général auquel elle répond et ses intérêts. Il y a donc lieu de publier
+la présente décision au registre de l’ACPR sous forme nominative pendant une durée de cinq ans. Elle
+y sera ensuite maintenue sous forme non nominative.
+*
+* *
+PAR CES MOTIFS
+DÉCIDE :
+ARTICLE 1ER – Il est prononcé à l’encontre de la BCDM un blâme et une sanction pécuniaire de
+250 000 euros.
+ARTICLE 2 – La présente décision sera publiée au registre de l’ACPR pendant 5 ans sous une
+forme nominative, puis sous une forme ne permettant pas d’identifier la BCDM, et pourra être consultée
+au secrétariat de la Commission.
+Le Président de la Commission
+des sanctions
+[Pierre Collin]
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification et
+dans les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 12
