@@ -7,15 +7,16 @@ Journal de bord du projet. La session la plus récente est en haut.
 
 ## Session 2 – 12 novembre 2026 (en cours) – Fiches d'analyse ACPR
 
-### État après le lot 2
+### État après le lot 3a
 
 - [x] Format des fiches choisi et validé par Matéo.
 - [x] Essai de la grille sur 3 décisions (2024-06, 2024-02, 2022-07), validé.
 - [x] Lot 1 : 5 décisions (2024-01, 2023-01, 2022-05, 2022-06, 2022-03). Déposé sur GitHub par Matéo et vérifié (dépôt identique à la copie de travail, collecte du lundi intacte).
 - [x] Lot 2 : 5 décisions (2022-04, 2022-02, 2022-01, 2021-05, 2021-01).
+- [x] Lot 3a : 3 décisions (2020-11, 2020-09, 2020-08), dans une nouvelle conversation.
 - [ ] Lots suivants : voir « Prochaine étape ».
 
-**13 fiches faites sur 66 décisions LCB-FT** : toutes les décisions LCB-FT et gel des avoirs rendues entre mars 2022 et avril 2026. Aucune n'a encore été relue par Matéo (statut « à lire »).
+**16 fiches faites sur 66 décisions LCB-FT** : toutes les décisions LCB-FT et gel des avoirs rendues entre octobre 2021 et avril 2026. Aucune n'a encore été relue par Matéo (statut « à lire »).
 
 | Décision | Établissement | Sanction | Griefs (retenus / en partie / écartés) |
 |---|---|---|---|
@@ -32,13 +33,16 @@ Journal de bord du projet. La session la plus récente est en haut.
 | 2022-01 | Axa Banque | blâme, 1 M€ | 1 / 5 / 0 |
 | 2021-05 | Crédit agricole du Languedoc | blâme, 1,5 M€ | 2 / 2 / 0 |
 | 2021-01 | W-HA (Orange Money France) | blâme, 700 000 € | 5 / 0 / 0 |
+| 2020-11 | Office des postes et télécommunications de Nouvelle-Calédonie | blâme, 150 000 € | 7 / 1 / 0 |
+| 2020-09 | MMA IARD (gel des avoirs seulement) | blâme, 4 M€ | 5 / 0 / 0 |
+| 2020-08 | anonymisé (« société A », banque luxembourgeoise, monnaie électronique) | blâme, 120 000 € | 4 / 4 / 1 |
 
 ### Le format retenu
 
 - **Une fiche source par décision** : `donnees/fiches/acpr/ACPR-2024-06.json`. Format structuré, pour que le site (session 3) et l'étude comparative (session 4) puissent compter sans ressaisie.
 - **Une version lisible** : `fiches/acpr/ACPR-2024-06.md`, fabriquée automatiquement. C'est elle qu'on lit, à côté du PDF. Il ne faut pas la modifier à la main.
 - **Un programme** : `analyse/fiches.py`. Il n'écrit aucune analyse. Il vérifie chaque fiche (catégories de la grille, pages citées existant dans le PDF, paragraphe « En bref » présent) puis fabrique la version lisible. En cas de problème, il s'arrête en erreur.
-- **Un glossaire commun** : `donnees/glossaire.json` (47 termes). Le programme ajoute en bas de chaque fiche un lexique avec les seuls termes qu'elle emploie.
+- **Un glossaire commun** : `donnees/glossaire.json` (59 termes depuis le lot 3a). Le programme ajoute en bas de chaque fiche un lexique avec les seuls termes qu'elle emploie.
 - Pour marquer une fiche comme lue ou y mettre des notes : modifier les deux lignes `"statut"` et `"mes_notes"` au début du fichier .json, puis relancer le programme.
 
 ### Choix faits
@@ -53,6 +57,18 @@ Journal de bord du projet. La session la plus récente est en haut.
 - **Aucun nom de personne physique** dans les fiches.
 - **Issue d'un grief** : la fiche suit la formule de la décision. Quand la décision dit « fondé » tout en écartant un argument, la fiche indique « retenu » et le précise.
 - **Lecture des textes (à partir du lot 2)** : avant lecture, les en-têtes et pieds de page répétés et les longues citations entre guillemets (articles de loi recopiés) sont retirés ; les numéros d'articles et tout le raisonnement restent. Gain : 5 à 15 % de texte.
+
+### Lot 3a (2020-11, 2020-09, 2020-08) – ce qu'il faut savoir
+
+- Nouvelle conversation. L'espace de travail était vide au départ : aucun fichier laissé par un passage interrompu. Le dépôt a été cloné depuis GitHub (état « lot 2 »).
+- Contrôle fait après rédaction : `analyse/fiches.py` (16 fiches, 0 problème) ; un contrôle automatique a recherché chaque nombre cité dans les pages indiquées du texte (tous retrouvés) ; les issues ont été comparées à la phrase de conclusion de chaque grief.
+- Contrairement à ce qu'indiquait ce journal, 2020-11 et 2020-09 sont nominatives. Les décisions anonymisées commencent à 2020-08 et vont jusqu'à 2017-10.
+- **MMA IARD (2020-09)** : publication nominative pour 5 ans à compter du 30 novembre 2021. La décision devrait être anonymisée sur le site de l'ACPR fin novembre 2026. La collecte la retéléchargera ; il faudra alors retirer le nom de la fiche (champs `etablissement`, `groupe`, « En bref », résumés). Même sujet en février 2027 pour 2020-11. À prévoir pour le site : une fiche ne doit pas garder un nom que l'ACPR a retiré.
+- **2020-08 (anonymisée)** : la fiche ne reprend que ce qui sert à comprendre (siège au Luxembourg, groupe japonais de commerce en ligne). Deux anomalies du texte officiel notées dans la fiche, sans rien corriger : l'addition 634 + 2 314 donnée pour 2 978 (p. 6-7) et l'article « L. 562-2-1 » cité pour « L. 561-2-1 » (p. 4).
+- Glossaire : 12 termes ajoutés (Direction générale du Trésor, mesure restrictive, « exact match » et recherche floue, homonymie, courtier, assurance non-vie, tacite reconduction, vigilance simplifiée, porte-monnaie électronique, place de marché, franc Pacifique, établissement de crédit). Conséquence normale : 8 fiches lisibles anciennes (.md) ont été refaites, leur lexique s'étant allongé. Leur contenu n'a pas changé.
+- Aucun champ de la base à corriger pour ces trois décisions.
+- Type d'établissement : deux nouveaux libellés (« prestataire de services de paiement (office des postes) », « établissement de crédit »). À harmoniser en session 3 avec la question 4.
+- Issues : « périmètre réduit » = « retenu en partie » (2020-11 grief 1, 2020-08 griefs 3, 5, 8, 9). « Fondé » avec un exemple écarté ou une « portée limitée » = « retenu », avec la précision.
 
 ### Incident au dépôt du lot 1
 
@@ -75,7 +91,7 @@ Pour limiter ce risque : des lots plus courts (3 décisions), et une conversatio
 
 ### Questions ouvertes pour Matéo
 
-1. Faut-il une catégorie « agents et externalisation » ? Le thème revient dans 6 des 13 fiches (MoneyGram, Treezor, SFPMEI, Abeille Vie, BMW Finance, Nickel). Pour l'instant : mots-clés + précision de catégorie. Question posée à Matéo, sans réponse à ce stade.
+1. Faut-il une catégorie « agents et externalisation » ? Le thème revient dans 6 des 13 fiches (MoneyGram, Treezor, SFPMEI, Abeille Vie, BMW Finance, Nickel). Pour l'instant : mots-clés + précision de catégorie. Réponse de Matéo (12 novembre) : non pour l'instant, continuer avec des mots-clés. Le thème revient aussi dans 2020-08 (agent et distributeur) et 2020-09 (courtiers).
 2. Longueur des fiches : 2 à 3 pages en version lisible. À raccourcir ou non pour la suite.
 3. Le grief sur les informations qui accompagnent les transferts de fonds (W-HA, règlement UE 2015/847) est classé « autre ».
 4. Type d'établissement : les fiches reprennent le terme de la décision (« banque », « établissement de crédit spécialisé », « établissement de paiement », « établissement de monnaie électronique », « assureur »). À harmoniser pour les filtres du site.
@@ -89,14 +105,17 @@ Décision à lire en premier pour la méthode : 2022-01 (Axa Banque), pages 11 e
 
 ### Prochaine étape
 
-Suite des fiches LCB-FT, des plus récentes aux plus anciennes. Les groupes ci-dessous donnent l'ordre ; mieux vaut les traiter par 3 décisions à la fois :
+Suite des fiches LCB-FT, des plus récentes aux plus anciennes, par lots de 3. Toutes les décisions restantes sont anonymisées : ne jamais chercher à retrouver l'établissement.
 
-- Lot 3 : 2020-11, 2020-09, 2020-08, 2020-06, 2020-05 – 65 pages.
-- Lot 4 : 2020-03, 2020-02, 2019-08, 2020-01, 2019-07 – 69 pages.
-- Lot 5 : 2019-06, 2019-04, 2018-08, 2018-06, 2018-03 – 59 pages.
-- Lot 6 : 2018-04, 2017-10, plus 2018-05 si elle relève bien de la LCB-FT. On atteint alors janvier 2019 et 30 fiches (31 avec 2018-05).
+- Lot 3b : 2020-06, 2020-05, 2020-03 – 43 pages.
+- Lot 4a : 2020-02, 2019-08, 2020-01 – 35 pages.
+- Lot 4b : 2019-07, 2019-06, 2019-04 – 47 pages.
+- Lot 5 : 2018-08, 2018-06, 2018-03 – 34 pages.
+- Lot 6 : 2018-04, 2017-10, 2018-05 – 28 pages. 2018-05 (radiation, 5 pages) est marquée « hors LCB-FT » dans la base : vérifier à la lecture ; fiche courte si c'est confirmé. On atteint alors janvier 2019 et 31 fiches.
 
-Conseil : commencer le lot 3 dans une nouvelle conversation (celle de la session 2 est devenue très longue), en redonnant PROJET.md, JOURNAL.md et le dépôt ; puis une nouvelle conversation tous les deux lots. Message de reprise possible : « Session 2, suite : lis PROJET.md et JOURNAL.md, récupère le dépôt, prends une fiche existante comme modèle (par exemple ACPR-2021-01) et traite le lot 3. » À partir de 2020-08, les décisions sont anonymisées : ne jamais chercher à retrouver l'établissement.
+Calendrier visé : 30 fiches le 13 novembre au soir, site le 14, étude comparative le 15. Si les crédits manquent : s'arrêter après le lot 4b (25 fiches, tout 2020-2026 couvert) et garder le site, qui compte plus pour un recruteur que cinq fiches de 2018-2019.
+
+Une nouvelle conversation tous les deux lots. Message de reprise : « Session 2, suite : lis PROJET.md et JOURNAL.md, récupère le dépôt, prends ACPR-2020-08 comme modèle de fiche anonymisée et traite le lot suivant du journal. »
 
 Reste hors de portée d'ici le 15 novembre : les 36 décisions LCB-FT antérieures à 2019 et les 45 fiches courtes « hors LCB-FT ».
 

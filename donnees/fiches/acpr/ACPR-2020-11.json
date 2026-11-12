@@ -1,0 +1,196 @@
+{
+  "id": "ACPR-2020-11",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT et gel des avoirs",
+  "resume_court": "L'Office des postes et télécommunications de Nouvelle-Calédonie (OPT-NC) est la poste du territoire : il tient aussi des comptes chèques et des livrets d'épargne pour environ 160 000 clients, souvent éloignés de Nouméa et sans autre banque. Il pensait ne pas être vraiment soumis aux règles anti-blanchiment, parce que la liste générale des professions concernées ne le cite pas. La Commission répond qu'un autre article de loi le vise expressément. Presque tout manquait : une cartographie des risques à jour, un responsable qui ait du poids et du temps (6,5 % de son temps en 2018), des outils de surveillance adaptés, l'identification des personnes qui se cachent derrière les sociétés clientes, le repérage des responsables politiques et un contrôle interne indépendant. L'Office ne conteste rien. Les huit reproches sont retenus. La sanction reste modérée, un blâme et 150 000 euros, parce que l'Office remplit une mission de service public, perd de l'argent sur cette activité et a lancé un plan de remise à niveau.",
+  "identite": {
+    "etablissement": "Office des postes et télécommunications de Nouvelle-Calédonie (OPT-NC)",
+    "type_etablissement": "prestataire de services de paiement (office des postes)",
+    "precision_type": "Établissement public industriel et commercial (EPIC) transféré à la Nouvelle-Calédonie en 2002. Services postaux, télécommunications et services financiers : chèques postaux, cartes, mandats, envois contre remboursement, distribution du livret A. La décision le qualifie de prestataire de services de paiement « sous réserve de certaines exclusions ».",
+    "groupe": "non précisé (établissement public de la Nouvelle-Calédonie)",
+    "pays": "France – Nouvelle-Calédonie (siège à Nouméa)",
+    "activite_et_taille": "Environ 160 000 clients, surtout des particuliers ; plus de 100 000 livrets d'épargne, 55 000 comptes chèques postaux, près de 120 000 cartes de retrait et de paiement. Les services financiers pèsent environ 3 % du chiffre d'affaires.",
+    "pages": [1, 2, 9]
+  },
+  "controle": {
+    "controle_sur_place": "du 2 au 13 décembre 2019 : mission de vérification menée par l'Inspection générale des finances (et non par les contrôleurs de l'ACPR)",
+    "rapport_de_controle": "rapport de vérification signé le 8 juin 2020",
+    "ouverture_de_la_procedure": "décidée le 14 décembre 2020, Commission saisie le 23 décembre 2020",
+    "antecedents": "Pas de contrôle ni de sanction antérieurs mentionnés. En 2016, l'Institut d'émission d'outre-mer avait rappelé à l'Office qu'il était soumis aux règles LCB-FT ; ce point figurait aussi dans un compte rendu rédigé par l'Office après une présentation de l'ACPR, le 7 mai 2019.",
+    "pages": [2, 3]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 150000,
+    "publication": "nominative",
+    "duree_publication_nominative": "5 ans, puis forme anonymisée",
+    "proposition_du_college": "blâme et 150 000 euros, publication nominative pendant 5 ans (la Commission prononce exactement ce qui était proposé)",
+    "pages": [1, 2, 10]
+  },
+  "procedure": {
+    "questions_de_procedure": "L'Office soutenait qu'un doute avait longtemps existé sur le fait qu'il soit soumis aux obligations LCB-FT, l'article L. 561-2 du CMF (la liste des professions assujetties) ne le citant pas. La Commission écarte l'argument : l'article L. 745-7-2 du CMF lui rend ces obligations applicables, et ses termes suffisent. Le représentant du Trésor, présent à l'audience, n'a pas formulé d'observations.",
+    "pages": [1, 2, 3]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Classification des risques incomplète",
+      "resume": "La cartographie des risques oubliait des produits (les paiements par carte Visa, pourtant en forte hausse ; les dépôts de chèques au nom de tiers), ne traitait le risque pays que pour les virements vers l'étranger, sans citer l'Australie ni la Nouvelle-Zélande, et ignorait des clientèles particulières, comme les vendeurs de kava, une plante importée du Vanuatu, pays que l'Office jugeait lui-même risqué.",
+      "textes": ["CMF L. 561-4-1"],
+      "chiffres_cles": ["paiements par carte Visa multipliés par 2,5 entre 2014 et 2018", "virements vers l'étranger arrêtés depuis novembre 2018 mais encore cités dans la version du 25 novembre 2019", "nouvelle classification diffusée le 10 mai 2021"],
+      "issue": "retenu en partie",
+      "precision_issue": "Fondé et non contesté, mais « dans un périmètre très légèrement réduit » : citer encore une activité arrêtée (les virements vers l'étranger) n'est pas en soi un manquement.",
+      "categorie": "classification des risques",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [3, 4]
+    },
+    {
+      "numero": "2",
+      "titre": "Un responsable LCB-FT sans poids ni temps, des outils dépassés",
+      "resume": "Le responsable de la LCB-FT était placé trop bas dans la hiérarchie, en dessous du directeur du réseau dont dépendent les guichetiers qui appliquent les règles, et n'y consacrait presque plus de temps. Les outils informatiques étaient obsolètes : requêtes inadaptées, contournements par un second outil qui ne voyait pas toutes les données, paiements par carte hors de toute surveillance, seuil d'alerte très supérieur au montant moyen d'une opération. Conséquence relevée : très peu de déclarations de soupçon.",
+      "textes": ["CMF L. 561-32 (I)", "CMF R. 561-38"],
+      "chiffres_cles": ["part du temps du responsable consacrée à la LCB-FT : 50 % en 2016, 52 % en 2017, 6,5 % en 2018", "scénario « CCP 937 » : seuil de 500 000 XPF, « très supérieur » au montant moyen d'une opération en 2019 (montant moyen non chiffré)", "nouveau responsable recruté en juin 2021"],
+      "issue": "retenu",
+      "precision_issue": "Fondé, non contesté.",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "",
+      "categories_secondaires": ["gouvernance, moyens et formation"],
+      "pages": [4, 5]
+    },
+    {
+      "numero": "3",
+      "titre": "Bénéficiaires effectifs jamais identifiés",
+      "resume": "L'Office n'identifiait pas les bénéficiaires effectifs de ses clients (les personnes physiques qui possèdent ou contrôlent une société cliente) et ne vérifiait donc pas leur identité.",
+      "textes": ["CMF L. 561-5"],
+      "chiffres_cles": ["aucun chiffre : la pratique était générale", "note interne du 10 mai 2021 prévoyant désormais cette identification"],
+      "issue": "retenu",
+      "precision_issue": "Fondé. La note de 2021 n'est qu'une mesure corrective, dont l'application reste à vérifier.",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "bénéficiaires effectifs",
+      "categories_secondaires": [],
+      "pages": [5]
+    },
+    {
+      "numero": "4",
+      "titre": "Mêmes questions pour tous les clients, réponses incomplètes",
+      "resume": "L'Office demandait les mêmes informations à tous ses clients, quel que soit leur risque, y compris aux personnes politiquement exposées qu'il classait pourtant en risque élevé. Les ressources des clients se déclarant sans profession n'étaient pas demandées, et la situation financière des sociétés clientes ne l'était pas toujours.",
+      "textes": ["CMF L. 561-5-1", "CMF R. 561-12"],
+      "chiffres_cles": ["3 dossiers cités en exemple (2 particuliers, 1 société)", "projet pilote de mise à jour des dossiers du 26 janvier au 25 mars 2021"],
+      "issue": "retenu",
+      "precision_issue": "Fondé. La Commission précise toutefois que les deux dossiers de particuliers cités par la poursuite n'illustrent pas le reproche, puisqu'ils contenaient des informations sur les revenus.",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "",
+      "categories_secondaires": ["personnes politiquement exposées et vigilance renforcée"],
+      "pages": [5, 6]
+    },
+    {
+      "numero": "5",
+      "titre": "Signalements classés sans analyse, espèces non vérifiées",
+      "resume": "Des signalements remontés par les agences étaient clos avec un simple « RAS » alors que rien ne justifiait l'opération au regard du profil du client. L'Office ne vérifiait pas non plus la cohérence de retraits et de versements d'espèces, faute d'informations sur les clients. Enfin, il ne tirait aucune conséquence des réquisitions judiciaires reçues sur ses clients.",
+      "textes": ["CMF L. 561-6", "CMF R. 561-12-1"],
+      "chiffres_cles": ["8 des 32 signalements transmis en 2019 auraient dû être analysés", "37 retraits d'espèces supérieurs à 100 000 XPF et 21 versements d'espèces exécutés sans pouvoir en vérifier la cohérence"],
+      "issue": "retenu",
+      "precision_issue": "Fondé, non contesté.",
+      "categorie": "vigilance constante et mise à jour des dossiers",
+      "categorie_precision": "",
+      "categories_secondaires": ["analyse des alertes et examen renforcé"],
+      "pages": [6, 7]
+    },
+    {
+      "numero": "6",
+      "titre": "Une liste de personnes politiquement exposées réduite aux élus locaux",
+      "resume": "La liste servant à repérer les personnes politiquement exposées ne contenait que les députés et sénateurs de Nouvelle-Calédonie et des personnes exerçant des fonctions locales. Les guichetiers qui ouvrent les comptes n'y avaient pas accès. Rien n'était vérifié pour les bénéficiaires effectifs des sociétés clientes.",
+      "textes": ["CMF L. 561-32 (I)", "CMF R. 561-20-2"],
+      "chiffres_cles": ["aucun chiffre", "note « Le filtrage » du 10 mai 2021, qui laisse encore de nombreux points à préciser"],
+      "issue": "retenu",
+      "precision_issue": "Fondé, non contesté.",
+      "categorie": "personnes politiquement exposées et vigilance renforcée",
+      "categorie_precision": "détection des personnes politiquement exposées",
+      "categories_secondaires": [],
+      "pages": [7]
+    },
+    {
+      "numero": "7",
+      "titre": "Contrôle interne partiel, non indépendant et sans suite",
+      "resume": "Les contrôles reposaient sur une note de 2012 et ne couvraient que trois types d'opérations, sans rien sur le gel des avoirs. Ceux dits de second niveau étaient faits par des responsables opérationnels, notamment les chefs d'agence, qui se contrôlaient donc eux-mêmes. Les recommandations de l'audit interne restaient en grande partie lettre morte.",
+      "textes": ["CMF L. 561-32 (II)", "CMF R. 561-38-3", "CMF R. 562-1"],
+      "chiffres_cles": ["contrôles limités à trois sujets : retraits et versements, mandats, ouvertures de comptes chèques postaux", "recommandations de l'audit interne mises en œuvre : 4 sur 5 (2017), 4 sur 27 (2018), 4 sur 20 (2019)", "nouvelle organisation à trois niveaux de contrôle, à achever fin 2023"],
+      "issue": "retenu",
+      "precision_issue": "Fondé, non contesté.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "",
+      "categories_secondaires": ["gel des avoirs et sanctions financières"],
+      "pages": [7, 8]
+    },
+    {
+      "numero": "8",
+      "titre": "Gel des avoirs : mandataires et bénéficiaires effectifs non filtrés",
+      "resume": "L'Office ne comparait pas aux listes de gel les mandataires (les personnes qui ont procuration sur un compte) ni les bénéficiaires effectifs de ses clients. Le dispositif n'était donc pas exhaustif, alors que le gel des avoirs est une obligation de résultat.",
+      "textes": ["CMF R. 562-1"],
+      "chiffres_cles": ["aucun chiffre", "nouvelle procédure diffusée le 20 mai 2020"],
+      "issue": "retenu",
+      "precision_issue": "Fondé, non contesté.",
+      "categorie": "gel des avoirs et sanctions financières",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [8, 9]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "« Graves carences » touchant plusieurs aspects essentiels du dispositif ; les obligations de vigilance n'étaient que « très partiellement respectées ».", "pages": [9]},
+      {"texte": "Un contrôle interne « parcellaire, inadapté et inefficace », qui contribuait à l'état très dégradé du dispositif.", "pages": [9]},
+      {"texte": "Plan de remise à niveau engagé tardivement.", "pages": [9]}
+    ],
+    "elements_attenuants": [
+      {"texte": "Longue incertitude stratégique : projet de banque de plein exercice (convention avec une banque partenaire en 2010, filiale créée en 2015) abandonné en 2019, puis arrêt envisagé des services financiers ; décision de les maintenir prise seulement en février 2021.", "pages": [9]},
+      {"texte": "Rôle de « service public d'aménagement du territoire » : l'Office est le seul à offrir des services financiers à une population éloignée de Nouméa, à faibles revenus, qui sans lui n'aurait pas de compte.", "pages": [9]},
+      {"texte": "Gouvernance instable (changements fréquents du conseil d'administration et de sa présidence) : cela ne justifie pas les carences mais « contribue à les expliquer ».", "pages": [9]},
+      {"texte": "Plan de remédiation sur trois ans, très coûteux au regard du poids des services financiers (environ 3 % du chiffre d'affaires) ; volonté affichée de remettre le dispositif à niveau.", "pages": [9, 10]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Nouvelle classification des risques diffusée le 10 mai 2021, établie avec un cabinet extérieur.", "pages": [4]},
+      {"texte": "Responsable LCB-FT mieux placé dans la hiérarchie, recruté en juin 2021 ; projets informatiques commandés au printemps 2021 (données clients, filtrage, surveillance, notation des risques).", "pages": [5]},
+      {"texte": "Notes internes du 10 mai 2021 sur la connaissance du client, les mesures de vigilance et le filtrage ; refonte des procédures lancée le 17 mars 2021 avec un cabinet d'audit.", "pages": [5, 6, 7]},
+      {"texte": "Trois niveaux de contrôle distincts, à déployer d'ici fin 2023.", "pages": [8]},
+      {"texte": "Nouvelle procédure de gel des avoirs diffusée le 20 mai 2020.", "pages": [9]}
+    ],
+    "situation_financiere": {"texte": "Les télécommunications, où l'Office a un monopole, rapportent de l'ordre de 45 millions d'euros par an et financent les pertes de l'activité financière, de l'ordre de 15 millions d'euros par an. Résultats stables en 2020 grâce à des produits exceptionnels, prévisions défavorables, fonds propres encore « très significatifs ».", "pages": [10]},
+    "cause_profonde": {"texte": "Selon l'Office lui-même, le doute sur son assujettissement a entraîné des divergences d'interprétation qui « expliquent les carences » ; ses dirigeants n'ont pris conscience que récemment de leur responsabilité. La Commission ajoute l'incertitude sur l'avenir des services financiers et l'instabilité de la gouvernance.", "pages": [3, 9]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "L'établissement a-t-il vérifié par écrit à quels textes LCB-FT il est soumis, y compris par des articles spécifiques à son statut ou à son territoire ?",
+      "La classification des risques couvre-t-elle tous les produits réellement vendus, et est-elle revue quand un produit décolle ou s'arrête ?",
+      "Le responsable LCB-FT est-il placé au moins au niveau des directions qu'il doit surveiller ? Quelle part de son temps y consacre-t-il réellement ?",
+      "Les seuils d'alerte sont-ils comparés au montant moyen des opérations ?",
+      "Tous les moyens de paiement entrent-ils dans la surveillance, cartes comprises ?",
+      "Un signalement peut-il être clos par « RAS » sans justification écrite ?",
+      "Une réquisition judiciaire sur un client déclenche-t-elle une revue de son dossier ?",
+      "La liste des personnes politiquement exposées dépasse-t-elle les élus locaux, et le guichet y a-t-il accès à l'ouverture du compte ?",
+      "Ceux qui contrôlent sont-ils distincts de ceux qui exécutent ? Les recommandations de l'audit sont-elles suivies jusqu'à leur clôture ?",
+      "Mandataires et bénéficiaires effectifs sont-ils filtrés contre les listes de gel ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["outre-mer", "office des postes", "assujettissement contesté", "inclusion bancaire", "espèces", "responsable LCB-FT", "autocontrôle", "audit interne non suivi", "proportionnalité de la sanction"],
+    "pages_prioritaires": [
+      {"pages": [3], "pourquoi": "comment la Commission tranche la question « suis-je soumis aux règles ? »"},
+      {"pages": [4], "pourquoi": "le positionnement et le temps du responsable LCB-FT"},
+      {"pages": [8], "pourquoi": "ce qu'est un contrôle interne en autocontrôle"},
+      {"pages": [9, 10], "pourquoi": "comment la mission de service public et les pertes font baisser la sanction"}
+    ],
+    "confiance": "élevée",
+    "a_verifier": [
+      "Grief 1 : j'ai retenu « retenu en partie » à cause de la formule « périmètre très légèrement réduit » ; le reste du grief est entièrement fondé.",
+      "Grief 4 : j'ai retenu « retenu » car la Commission dit le grief fondé ; elle écarte seulement deux exemples. Le rapporteur proposait de le « relativiser légèrement » (p. 1).",
+      "Montants en francs Pacifique (XPF) : la décision ne donne pas d'équivalent en euros. Avec la parité fixe (1 000 XPF = 8,38 euros), 500 000 XPF font environ 4 190 euros et 100 000 XPF environ 838 euros : conversion faite par moi.",
+      "Type d'établissement : la décision ne parle ni de banque ni d'établissement de crédit ; j'ai repris « prestataire de services de paiement ». À harmoniser pour les filtres du site.",
+      "La décision écrit « LBC-FT » ; la fiche garde « LCB-FT » comme les autres."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Fable 5.2), à partir du texte extrait du PDF officiel", "date": "2026-11-12", "relue_par_mateo": false}
+}
