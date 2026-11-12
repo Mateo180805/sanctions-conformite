@@ -1,0 +1,203 @@
+{
+  "id": "ACPR-2020-01",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT",
+  "resume_court": "La « société A » est une banque installée en France, avec des succursales dans cinq autres pays européens, qui appartient à un groupe bancaire présent en Afrique. Son métier principal : permettre à des clients originaires du Maghreb ou d'Afrique subsaharienne d'envoyer de l'argent au pays, souvent à partir d'espèces. Elle exécute aussi des virements pour le compte d'autres banques. La Commission lui reproche d'avoir classé en risque « normal » des activités qui auraient dû l'être en risque élevé : les transferts à partir d'espèces, jusqu'à 20 000 euros, le financement du commerce international, les envois vers le Mali. Trois personnes seulement s'occupaient de plus de 11 000 alertes par an ; les déclarations à Tracfin partaient en moyenne au bout de 96 jours, et près de 8 000 alertes attendaient encore fin 2019. Seize opérations ou séries d'opérations suspectes n'ont pas été déclarées. La banque avait déjà été mise en demeure après un contrôle de 2012. Plusieurs reproches sont réduits, la poursuite ayant elle-même abandonné une vingtaine de dossiers. Sanction : un blâme et 500 000 euros.",
+  "identite": {
+    "etablissement": "anonymisé (« société A »)",
+    "type_etablissement": "établissement de crédit",
+    "precision_type": "Banque exerçant en France et, par des succursales, en Allemagne, en Belgique, en Espagne, en Italie et aux Pays-Bas. Elle propose notamment des transferts de fonds à une clientèle originaire du Maghreb ou d'Afrique subsaharienne, finance des opérations de commerce international et agit comme banque correspondante pour d'autres banques. 61 agences, pour moitié en France.",
+    "groupe": "Groupe bancaire présent en Afrique (non nommé), via une société holding",
+    "pays": "France ; succursales dans cinq autres pays européens",
+    "activite_et_taille": "En 2019 : produit net bancaire de 46,4 millions d'euros, perte nette d'environ 5 millions d'euros, 45,6 millions d'euros de fonds propres. Le groupe compte environ 20 000 collaborateurs et plus de 10 millions de clients.",
+    "pages": [2, 3, 11]
+  },
+  "controle": {
+    "controle_sur_place": "du 3 octobre 2018 au 1er février 2019",
+    "rapport_de_controle": "signé le 12 juillet 2019",
+    "ouverture_de_la_procedure": "décidée le 13 décembre 2019, Commission saisie par lettre du 8 janvier 2020",
+    "antecedents": "Contrôle sur place en 2012, suivi d'une mise en demeure sur le contrôle interne et la LCB-FT. En 2014, une mission de suivi constate que la remédiation n'est pas terminée, malgré plusieurs actions correctives.",
+    "pages": [1, 2]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 500000,
+    "publication": "anonymisée aujourd'hui",
+    "duree_publication_nominative": "décidée nominative pendant 5 ans, puis forme non nominative",
+    "proposition_du_college": "blâme et 500 000 euros, publication nominative",
+    "pages": [1, 2, 12, 13]
+  },
+  "procedure": {
+    "questions_de_procedure": "La société soutenait qu'aucun texte ne l'obligeait à classer telle activité en risque élevé, et qu'on ne pouvait donc pas la sanctionner sans violer le principe de légalité des délits et des peines : elle aurait seulement usé de sa « liberté d'appréciation ». La Commission répond que ce principe est moins exigeant pour une sanction administrative que pour une sanction pénale : il suffit que les textes renvoient à des obligations claires et connues des professionnels. Une banque adapte les règles à son activité, mais sa liberté n'est pas sans limite : si une activité est réellement à risque élevé, la classer en risque normal est un manquement. La société demandait aussi que la décision ne soit pas publiée sous son nom, à cause de l'avantage qu'en tireraient ses concurrents : demande rejetée. Audience non publique.",
+    "pages": [1, 3, 4, 12]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Des activités à risque élevé classées en risque « normal »",
+      "resume": "Trois activités étaient sous-évaluées dans la classification des risques. D'abord le produit phare : le transfert d'espèces vers un compte ouvert dans une banque du groupe en Afrique, jusqu'à 20 000 euros, par plusieurs canaux, et parfois au profit d'un proche. Ensuite le financement du commerce international, alors que la plupart des pays concernés présentent des risques. Enfin les transferts d'espèces vers le Mali, pays dont le dispositif anti-blanchiment était jugé très insuffisant par l'organisme régional d'Afrique de l'Ouest. La société faisait valoir l'utilité de son produit pour l'accès à la banque en Afrique : la Commission ne le conteste pas, mais cela ne change rien au niveau de risque. Un quatrième point est écarté : la restauration, secteur sensible selon Tracfin, car rien ne montre que la banque avait des clients dans ce secteur.",
+      "textes": ["CMF L. 561-4-1", "arrêté du 3 novembre 2014, art. 58"],
+      "chiffres_cles": ["transferts à partir d'espèces jusqu'à 20 000 euros", "Mali : 9 services de transfert proposés en France, 5 dans les succursales italienne et espagnole", "8 défauts de déclaration de soupçon rattachés par la poursuite à ce mauvais classement"],
+      "issue": "retenu en partie",
+      "precision_issue": "Fondé « dans un périmètre réduit » : la branche sur la restauration est écartée.",
+      "categorie": "classification des risques",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [3, 4, 5]
+    },
+    {
+      "numero": "2",
+      "titre": "Personnes politiquement exposées : rien sur le patrimoine ni l'origine des fonds",
+      "resume": "Pour des clients qui sont des personnes politiquement exposées, la banque doit se renseigner sur leur patrimoine et sur l'origine des fonds. La poursuite visait 21 dossiers sans information précise. Elle en a abandonné 14 en cours de procédure, et la Commission en écarte un de plus à cause d'un doute sur l'identité du client. Restent 6 dossiers, pour lesquels la banque n'apporte aucun élément.",
+      "textes": ["CMF R. 561-20 (II, 3°)", "CMF R. 561-20-2"],
+      "chiffres_cles": ["61 dossiers examinés par les contrôleurs", "21 dossiers reprochés : 14 abandonnés par la poursuite, 1 écarté, 6 retenus"],
+      "issue": "retenu en partie",
+      "precision_issue": "Fondé « dans un périmètre fortement réduit ». La clôture des comptes pendant ou après le contrôle ne change rien.",
+      "categorie": "personnes politiquement exposées et vigilance renforcée",
+      "categorie_precision": "vigilance complémentaire",
+      "categories_secondaires": [],
+      "pages": [5, 6]
+    },
+    {
+      "numero": "3",
+      "titre": "Trois personnes pour plus de 11 000 alertes par an",
+      "resume": "L'équipe de sécurité financière comptait trois personnes pour toutes ses missions, dont le traitement des alertes de l'outil de surveillance. Des alertes restaient ouvertes d'un trimestre à l'autre en attendant une réponse des agences. Les contrôles sur la qualité du traitement ne portaient que sur une petite partie des alertes. Les déclarations de soupçon partaient tard. La banque invoquait la lenteur de certains clients à répondre, parfois plus d'un an : la Commission répond que, dans ce cas, il faut pousser l'examen et, s'il y a lieu, déclarer. Un outil mal réglé qui produit trop d'alertes inutiles explique les retards sans les excuser.",
+      "textes": ["arrêté du 3 novembre 2014, art. 51"],
+      "chiffres_cles": ["3 collaborateurs à la sécurité financière", "13 036 alertes en 2017 ; 11 293 sur les 10 premiers mois de 2018", "alertes en attente d'une réponse des agences : 41 sur 220, puis 61 sur 361, puis 30 sur 361 aux trois premiers trimestres 2018", "environ 900 alertes seulement contrôlées", "délai moyen d'envoi des déclarations de soupçon : 96 jours sur les 11 premiers mois de 2018 ; 416 jours pour un dossier", "près de 8 000 alertes encore en attente le 13 novembre 2019, malgré une équipe externe de 3 personnes"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 3 est donc fondé. » La société demandait seulement qu'il soit relativisé.",
+      "categorie": "gouvernance, moyens et formation",
+      "categorie_precision": "moyens humains",
+      "categories_secondaires": ["analyse des alertes et examen renforcé"],
+      "pages": [6, 7]
+    },
+    {
+      "numero": "4",
+      "titre": "Aucun scénario de surveillance pour la correspondance bancaire",
+      "resume": "La banque exécutait des virements pour le compte d'autres banques et de leurs clients. Elle classait elle-même cette activité en risque élevé, comme le font les standards internationaux, mais ses outils de surveillance n'avaient aucun critère ni scénario propre à cette activité. Elle n'a envisagé de renforcer ses contrôles qu'à partir de juin 2018, ce que la Commission juge tardif.",
+      "textes": ["CMF L. 561-32 (I)", "arrêté du 3 novembre 2014, art. 46"],
+      "chiffres_cles": ["11 dossiers de correspondance bancaire cités en illustration : 7 défauts d'examen renforcé, 4 défauts de déclaration de soupçon", "renforcement envisagé à partir de juin 2018"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 4 est donc fondé. »",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "surveillance de la correspondance bancaire",
+      "categories_secondaires": ["dispositif de groupe, filiales et correspondance bancaire"],
+      "pages": [7]
+    },
+    {
+      "numero": "5",
+      "titre": "Sept examens renforcés non faits",
+      "resume": "Sept dossiers de virements importants aux motifs vagues (« alimentation de compte », « personnel », « familial »), souvent vers l'étranger. Exemples : près de 10 millions d'euros de transferts pour une société importatrice camerounaise, avec des factures émises par une autre société que le bénéficiaire et des montants qui ne correspondent pas ; deux virements de 200 000 euros vers l'Égypte ; plus de 500 000 euros entre des associations des Émirats arabes unis et une association au Niger. La banque disait ne pas pouvoir s'immiscer dans les affaires de ses clients, les virements étant le plus souvent faits au profit du client lui-même ou d'un proche. La Commission répond que demander des explications à celui qui donne l'ordre n'est pas une ingérence, que des virements entre les comptes d'une même personne peuvent justifier un examen renforcé, et que la banque ne peut pas se reposer sur les vérifications faites par la banque du client.",
+      "textes": ["CMF L. 561-10-2"],
+      "chiffres_cles": ["7 dossiers, tous retenus, dont un en partie (5.5)", "près de 10 millions d'euros (5.1) ; 2 virements de 200 000 euros (5.2) ; plus de 500 000 euros (5.3) ; 15 000 et 250 000 euros vers Malte (5.4)", "plus de 90 000 euros en 6 opérations en moins de 6 mois (5.5) ; 63 000 euros en un mois environ (5.6) ; 217 000 euros en 2017 et 199 000 euros en 2018 vers les États-Unis (5.7)"],
+      "issue": "retenu en partie",
+      "precision_issue": "Fondé « dans un périmètre très légèrement réduit » : dans le dossier 5.5, les virements d'aide familiale du client à sa fille n'appelaient pas d'examen particulier.",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": ["dispositif de groupe, filiales et correspondance bancaire"],
+      "pages": [7, 8, 9]
+    },
+    {
+      "numero": "6",
+      "titre": "Seize déclarations de soupçon non faites",
+      "resume": "Treize dossiers de clients particuliers : des opérations, souvent en espèces, trop importantes au regard des revenus connus, sans justificatif sérieux de l'origine des fonds (une attestation d'un tiers, de simples bordereaux de retrait d'espèces, un document trop ancien), ou de gros mouvements sur le compte d'un mineur. Trois dossiers de correspondance bancaire : des virements de montants ronds et élevés pour des personnes physiques, des fonds d'origine en partie injustifiée, des clients cités dans une base de données de journalistes sur les comptes ouverts dans des paradis fiscaux, de l'argent destiné à un trust des Îles Vierges britanniques. Des alertes avaient été classées sans aucun justificatif ni explication du client, l'une au motif que les opérations étaient de « petit montant » alors que leur total était élevé.",
+      "textes": ["CMF L. 561-15 (I et II)", "CMF D. 561-32-1"],
+      "chiffres_cles": ["22 dossiers reprochés : 6 abandonnés par la poursuite, 16 retenus (13 de transfert de fonds et banque de détail, 3 de correspondance bancaire)", "8 dossiers relèvent du soupçon général, 5 du soupçon de fraude fiscale", "plus de 14 millions de dollars dans un dossier, plus de 1 million dans un autre", "33 transferts entre le 24 janvier 2017 et le 1er octobre 2018, dont 6 entre 30 000 et 45 000 euros"],
+      "issue": "retenu en partie",
+      "precision_issue": "Fondé « dans un périmètre réduit à 16 dossiers ». La Commission relie ces défauts au traitement défaillant des alertes.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": ["analyse des alertes et examen renforcé"],
+      "pages": [9, 10]
+    },
+    {
+      "numero": "7",
+      "titre": "Des succursales européennes presque jamais contrôlées par le siège",
+      "resume": "Dans chaque succursale, un correspondant local contrôlait le dispositif anti-blanchiment. Mais en 2018, le siège n'a vérifié ce travail que dans deux succursales, la belge et la néerlandaise. La Commission parle d'une « carence majeure » du contrôle de second niveau.",
+      "textes": ["CMF L. 561-33 (II, 3°)", "arrêté du 3 novembre 2014, art. 41 et 71"],
+      "chiffres_cles": ["2 missions de contrôle de second niveau en 2018, pour 5 pays de succursales"],
+      "issue": "retenu",
+      "precision_issue": "Fondé. La société contestait ce grief sans apporter d'élément.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "contrôle permanent de second niveau",
+      "categories_secondaires": ["dispositif de groupe, filiales et correspondance bancaire"],
+      "pages": [11]
+    },
+    {
+      "numero": "8",
+      "titre": "Un audit interne sans effectifs",
+      "resume": "Trois personnes étaient chargées du contrôle périodique (l'audit interne) des 61 agences. En 2017, moins de la moitié des missions prévues ont été faites, et les autres ont été repoussées. Des agences n'avaient pas été auditées depuis des années, certaines jamais. La banque l'expliquait par le départ d'auditeurs remplacés seulement l'année suivante.",
+      "textes": ["CMF L. 561-32 (II)", "CMF R. 561-38 (5°)"],
+      "chiffres_cles": ["3 personnes pour 61 agences", "4 missions réalisées sur 10 prévues en 2017 ; sur les 6 autres, 3 reportées à 2018 et 3 à 2019", "12 agences non auditées depuis 2013, dont une au moins depuis 2012 ; 6 agences jamais auditées"],
+      "issue": "retenu",
+      "precision_issue": "Fondé. La société ne contestait pas le faible taux de réalisation du plan d'audit.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "contrôle périodique",
+      "categories_secondaires": ["gouvernance, moyens et formation"],
+      "pages": [11]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "La décision ne liste pas de circonstances aggravantes. Elle rappelle en ouverture la mise en demeure qui a suivi le contrôle de 2012 et le suivi de 2014.", "pages": [2]},
+      {"texte": "Le transfert de fonds présente « en lui-même » un risque élevé, encore renforcé vers certaines zones ; les contrôles permanent et périodique présentaient de « sérieuses insuffisances ».", "pages": [12]},
+      {"texte": "Les défauts d'examen renforcé et de déclaration découlent des carences de moyens et d'outils (griefs 3 et 4).", "pages": [10, 12]}
+    ],
+    "elements_attenuants": [
+      {"texte": "Actions correctives prises en compte « dans une certaine mesure » : elles montrent une volonté de mise à niveau, mais leur portée devra être vérifiée.", "pages": [12]},
+      {"texte": "Griefs 1, 2, 5 et 6 retenus dans un périmètre réduit.", "pages": [5, 6, 9, 10]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Classification des risques refaite.", "pages": [12]},
+      {"texte": "Détection et analyse des opérations inhabituelles améliorées ; délais de traitement et stock d'alertes fortement réduits en 2020.", "pages": [7, 12]},
+      {"texte": "Risques de la correspondance bancaire mieux pris en compte.", "pages": [12]},
+      {"texte": "Formation du personnel ; directions des risques et de la conformité renforcées.", "pages": [12]},
+      {"texte": "Plan d'audit 2017-2019 exécuté avec le renfort de l'audit du groupe.", "pages": [11]}
+    ],
+    "situation_financiere": {"texte": "En 2019 : produit net bancaire de 46,4 millions d'euros, perte nette d'environ 5 millions, 45,6 millions de fonds propres. La Commission fixe l'amende « eu égard à la situation financière », au niveau demandé par la poursuite.", "pages": [2, 12]},
+    "cause_profonde": {"texte": "La décision relie les manquements entre eux : pas assez de personnel pour traiter les alertes et pas d'outil adapté à la correspondance bancaire, d'où des examens renforcés et des déclarations de soupçon non faits. Elle ne dit pas pourquoi ces moyens manquaient.", "pages": [10, 12]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Le classement de chaque activité dans la classification des risques s'appuie-t-il sur les publications du GAFI, de la Commission européenne, des autorités européennes et de Tracfin ?",
+      "Les transferts à partir d'espèces sont-ils en risque élevé ? Le pays de destination modifie-t-il le niveau de risque ?",
+      "Combien d'alertes par analyste et par an ? Quel est le stock en attente, et son ancienneté ?",
+      "Quel est le délai moyen entre une alerte et la déclaration de soupçon ? Quel est le délai le plus long ?",
+      "Que se passe-t-il quand un client ne répond pas à une demande de justificatif : existe-t-il un délai au-delà duquel le dossier est examiné à fond et, s'il y a lieu, déclaré ?",
+      "Une alerte peut-elle être close sans justificatif ? Le total des « petites » opérations est-il comparé aux revenus du client ?",
+      "L'activité de correspondance bancaire a-t-elle ses propres scénarios de surveillance ?",
+      "En tant que banque correspondante, l'établissement fait-il ses propres vérifications, sans se reposer sur la banque du client ?",
+      "Un justificatif d'origine des fonds est-il jugé sur sa qualité (qui l'a établi, de quand il date) ?",
+      "Les comptes de mineurs avec de gros mouvements sont-ils surveillés ?",
+      "Pour les personnes politiquement exposées : le dossier contient-il le patrimoine et l'origine des fonds ?",
+      "Le siège contrôle-t-il chaque année le dispositif de chaque succursale à l'étranger ?",
+      "Le plan d'audit est-il réalisé ? Quelles agences n'ont pas été auditées depuis plus de trois ans ?",
+      "Après une mise en demeure, la remédiation est-elle suivie jusqu'à son terme ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["transfert de fonds", "espèces", "diaspora", "Afrique", "Mali", "commerce international", "correspondance bancaire", "succursales européennes", "légalité des délits et des peines", "liberté d'appréciation", "stock d'alertes", "moyens humains", "délai de déclaration", "non-ingérence", "fraude fiscale", "trust", "paradis fiscaux", "compte de mineur", "contrôle de second niveau", "audit interne", "mise en demeure antérieure"],
+    "pages_prioritaires": [
+      {"pages": [3, 4], "pourquoi": "peut-on être sanctionné pour un mauvais classement de risque qu'aucun texte n'impose ? La réponse de la Commission"},
+      {"pages": [6, 7], "pourquoi": "les chiffres du manque de moyens : alertes, délais, stock"},
+      {"pages": [8, 9], "pourquoi": "examen renforcé : demander des explications n'est pas une ingérence ; la banque correspondante a ses propres obligations"},
+      {"pages": [10], "pourquoi": "les indices de soupçon, côté particuliers et côté correspondance bancaire"},
+      {"pages": [11], "pourquoi": "contrôle de second niveau et audit interne"}
+    ],
+    "confiance": "élevée",
+    "a_verifier": [
+      "Décision anonymisée : je n'ai pas cherché à identifier l'établissement. J'ai repris ce qui sert à comprendre (banque française, succursales européennes, groupe présent en Afrique, clientèle) et laissé de côté les détails qui n'apportent rien à l'analyse, dont ceux qui touchent des clients personnes physiques.",
+      "Grief 2 : la décision donne 14 dossiers abandonnés et 1 écarté sur 21, puis parle de « 6 dossiers restants ». Le compte tombe juste.",
+      "Grief 5 : « 7 dossiers, tous retenus, dont un en partie » est ma lecture des pages 8 et 9 ; la décision dit seulement « périmètre très légèrement réduit ».",
+      "Grief 6 : la répartition « 8 dossiers au titre du I, 5 au titre du II » vient de la page 9. Les 6 dossiers abandonnés sont comptés avec les 16 retenus dans « retenu en partie » : pour l'étude comparative, ce sont des abandons de la poursuite, pas des pratiques validées (question ouverte 6 du journal). Même remarque pour les 14 dossiers du grief 2.",
+      "Grief 4 : rangé dans « dispositif de surveillance », avec la correspondance bancaire en catégorie secondaire. L'inverse se défend.",
+      "Grief 1 : la décision parle d'un classement en risque « normal » (p. 3) puis, pour le commerce international, d'un classement « en risque faible » (p. 5). Je reprends « normal ».",
+      "Page 12, la conclusion parle du contrôle permanent « sur ses filiales » ; le grief 7 porte sur les succursales.",
+      "Grief 8 : la décision écrit « 3 personnes fin 2017 et 3 personnes en décembre 2018 », repris tel quel.",
+      "Publication : décidée nominative pour 5 ans (p. 12 et 13) ; le texte en ligne est aujourd'hui anonymisé."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Fable 5.2), à partir du texte extrait du PDF officiel", "date": "2026-11-12", "relue_par_mateo": false}
+}

@@ -1,0 +1,217 @@
+{
+  "id": "ACPR-2019-08",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT",
+  "resume_court": "La « société A » est une toute petite entreprise qui gère un site de cagnottes en ligne : chacun peut y ouvrir une collecte pour un pot de départ, un mariage ou une cause humanitaire, et la société vit des pourboires laissés par les donateurs. Toute la question était de savoir si elle devait appliquer les règles anti-blanchiment. Elle disait que non, parce qu'une simple cagnotte n'est pas du financement participatif. La Commission lui donne raison pour l'essentiel de son activité, mais relève que certaines collectes finançaient de vrais projets au coût chiffré d'avance (construction d'immeubles, création d'entreprises) : pour celles-là, la société était bien soumise aux règles. Or elle n'avait presque rien mis en place : pas de classement sérieux des risques, des procédures très incomplètes, un seuil d'examen à 50 000 euros quand le don moyen est de 28 euros, un dirigeant jamais formé, et des collectes vers des pays en guerre qui n'ont été ni examinées ni signalées à Tracfin. La Commission tient compte de sa petite taille et du flou de sa situation : un simple avertissement, sans amende, là où la poursuite demandait un blâme et 100 000 euros.",
+  "identite": {
+    "etablissement": "anonymisé (« société A »)",
+    "type_etablissement": "intermédiaire en financement participatif",
+    "precision_type": "Société par actions simplifiée à associé unique créée le 1er février 2016. Elle exploite un site de cagnottes en ligne qui ne fait appel qu'à des dons. Inscrite au registre de l'Orias comme intermédiaire en financement participatif le 23 mars 2018, radiée à sa demande le 6 mars 2020. Les fonds passent par un prestataire de services de paiement, qui ne fait de virements qu'au sein de l'Union européenne.",
+    "groupe": "non précisé (société créée et détenue par une seule personne)",
+    "pays": "France",
+    "activite_et_taille": "De 2016 à 2018 : plus de 20 000 cagnottes, environ 11 millions d'euros collectés. Le chiffre d'affaires vient uniquement des pourboires laissés par les donateurs : un peu plus de 100 000 euros en 2016, environ 160 000 euros en 2017, 654 000 euros en 2019. Don moyen : 28 euros.",
+    "pages": [1, 2, 3, 7, 8]
+  },
+  "controle": {
+    "controle_sur_place": "du 15 janvier au 1er mars 2019",
+    "rapport_de_controle": "du 17 juin 2019",
+    "ouverture_de_la_procedure": "décidée le 14 novembre 2019, Commission saisie par lettre du 9 décembre 2019",
+    "antecedents": "non précisé",
+    "pages": [1, 2]
+  },
+  "sanction": {
+    "nature": ["avertissement"],
+    "montant_euros": null,
+    "publication": "anonymisée aujourd'hui",
+    "duree_publication_nominative": "décidée nominative pendant 3 ans, puis forme anonyme",
+    "proposition_du_college": "blâme et 100 000 euros, publication nominative",
+    "pages": [1, 2, 10]
+  },
+  "procedure": {
+    "questions_de_procedure": "Question préalable, qui occupe deux pages : la société était-elle un intermédiaire en financement participatif, donc soumise aux règles anti-blanchiment et au contrôle de l'ACPR ? La loi vise ceux qui mettent en relation, par un site internet, les porteurs d'un « projet » défini à l'avance (objet, montant, calendrier) et ceux qui le financent, y compris par de simples dons depuis une ordonnance du 1er décembre 2016. La Commission répond en deux temps. Collecter pour un mariage, un pot de départ ou une cause que l'organisateur ajuste selon les dons reçus, c'est une simple cagnotte, pas du financement participatif. Mais une partie des collectes, parfois pour des montants élevés et par des appels largement ouverts, finançait des projets au coût estimé d'avance (construction d'immeubles, création d'entreprises) : la société exerçait donc aussi, de façon habituelle, l'activité réglementée. Tracfin l'a confirmé par courrier, et la société s'était elle-même inscrite à l'Orias. Sa radiation en 2020 ne change rien pour la période contrôlée. Audience non publique. Pour la poursuite elle-même, le grief sur le contrôle interne n'était pas fondé ; le rapporteur retenait neuf griefs sur dix.",
+    "pages": [1, 3, 4]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Une classification des risques lacunaire",
+      "resume": "La société ne classait pas ses collectes selon leur risque. Elle ne tenait pas assez compte de la nature des projets (humanitaires, médicaux, éducatifs, cultuels, ou au profit de personnes incarcérées, que Tracfin signale depuis 2014 comme exposés aux détournements), ni de qui collecte et qui donne (associations récentes, donateurs qui financent leur propre projet), ni des pays d'où vient et où va l'argent. Sa procédure disait qu'elle ne travaillait pas avec les pays « sous embargo, sensibles ou en guerre », sans en donner la liste complète, et des collectes visaient pourtant des pays à risque. La société répondait que ses collectes sont trop diverses pour être classées ; la Commission répond que cette diversité n'empêche pas de les ranger par catégories, même quand une catégorie pèse peu.",
+      "textes": ["CMF L. 561-4-1"],
+      "chiffres_cles": ["aucun chiffre dans la décision pour ce grief"],
+      "issue": "retenu",
+      "precision_issue": "La décision ne dit pas « fondé » grief par grief. Elle répond aux arguments de la société (p. 5) et conclut à « une classification des risques insatisfaisante » (p. 10).",
+      "categorie": "classification des risques",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [4, 5, 10]
+    },
+    {
+      "numero": "2",
+      "titre": "Des procédures très incomplètes",
+      "resume": "Les deux procédures internes de la société ne disaient rien sur cinq sujets : la détection des personnes politiquement exposées, la vigilance complémentaire (pour ces personnes et pour les relations nouées à distance), la mise à jour de la connaissance des clients, la conservation écrite des résultats des examens renforcés, et la façon de faire une déclaration de soupçon.",
+      "textes": ["CMF L. 561-32 (I)"],
+      "chiffres_cles": ["5 sujets absents des procédures"],
+      "issue": "retenu",
+      "precision_issue": "La société invoquait le volume et la nature de son activité, mais « n'apporte pas d'élément de réponse » (p. 5). La Commission conclut à des « procédures internes incomplètes » (p. 10).",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [5, 10]
+    },
+    {
+      "numero": "3",
+      "titre": "Vérification de l'identité des organisateurs et des donateurs réguliers",
+      "resume": "La poursuite reprochait à la société de ne recueillir que le recto de la carte d'identité des organisateurs de collectes, et de ne pas identifier systématiquement les donateurs réguliers, qui deviennent pour elle des clients à part entière. La Commission ne suit pas. Pour les organisateurs, la société a produit les pièces et montre que l'information était bien recueillie. Pour les donateurs, sept dossiers ne suffisent pas à établir un manquement général.",
+      "textes": ["CMF L. 561-5", "CMF R. 561-5", "CMF R. 561-5-1"],
+      "chiffres_cles": ["4 dossiers d'organisateurs ou de leurs représentants (3.1 à 3.4)", "7 dossiers de donateurs (3.5 à 3.11)"],
+      "issue": "écarté",
+      "precision_issue": "La décision ne conclut pas par une formule, mais écarte les deux branches (p. 6) et ne reprend pas ce grief dans sa conclusion (p. 10).",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "identification et vérification de l'identité",
+      "categories_secondaires": [],
+      "pages": [5, 6]
+    },
+    {
+      "numero": "4",
+      "titre": "Des collectes dont la réalité n'était pas vérifiée",
+      "resume": "La société savait peu de chose de l'objet des collectes et ne pouvait pas s'assurer que les projets annoncés existaient vraiment : les justificatifs recueillis ne le permettaient pas. Elle connaissait mal aussi les personnes : rien de suffisant sur la situation professionnelle et financière des donateurs réguliers ni sur l'origine de leurs fonds, ni sur la situation financière des associations organisatrices.",
+      "textes": ["CMF L. 561-5", "CMF R. 561-12"],
+      "chiffres_cles": ["2 collectes citées en exemple, 3 projets aux justificatifs insuffisants", "4 dossiers d'associations"],
+      "issue": "retenu",
+      "precision_issue": "« La société A ne conteste pas le reproche général » (p. 6). La décision n'ajoute rien, et ne reprend pas ce grief dans sa conclusion (p. 10).",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "objet de la relation et réalité des projets financés",
+      "categories_secondaires": [],
+      "pages": [6]
+    },
+    {
+      "numero": "5",
+      "titre": "Des collectes de 2017 effacées de la base",
+      "resume": "Les documents sur les clients et les opérations doivent être gardés cinq ans. À la suite d'une panne, plusieurs collectes de 2017 ont été effacées de la base de données : la société ne pouvait plus dire d'où venait l'argent ni où il était allé.",
+      "textes": ["CMF L. 561-12"],
+      "chiffres_cles": ["nombre de collectes effacées non précisé"],
+      "issue": "retenu",
+      "precision_issue": "Le fait, « qui fait suite à une défaillance technique ponctuelle, n'est pas contesté » (p. 7). La décision n'ajoute rien, et ne reprend pas ce grief dans sa conclusion (p. 10).",
+      "categorie": "autre (à préciser)",
+      "categorie_precision": "conservation des documents et des données",
+      "categories_secondaires": [],
+      "pages": [6, 7]
+    },
+    {
+      "numero": "6",
+      "titre": "Une surveillance des collectes inadaptée",
+      "resume": "Le système d'alerte reposait sur une liste de critères. Aucun ne visait les collectes liées à un pays à risque, alors que certaines finançaient des projets hors d'Europe (peu importe que les virements, eux, restent dans l'Union européenne). Il tenait peu compte des donateurs liés au projet qu'ils financent et des versements fractionnés. Le seuil de vérification, 50 000 euros collectés, était trop haut pour une plateforme où le don moyen est de quelques dizaines d'euros, et rien ne comparait le montant recueilli à la durée de la collecte ou au type de projet. Enfin, le « contrôle renforcé » maison ne se déclenchait que si plusieurs critères étaient réunis à la fois, alors que la loi en exige un seul, et il ne prévoyait pas de se renseigner sur l'origine des fonds.",
+      "textes": ["CMF L. 561-32", "CMF L. 561-10-2"],
+      "chiffres_cles": ["seuil de vérification : 50 000 euros de fonds collectés"],
+      "issue": "retenu",
+      "precision_issue": "La Commission répond point par point (p. 7) et conclut à une « surveillance des opérations » insuffisante (p. 10).",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "",
+      "categories_secondaires": ["analyse des alertes et examen renforcé"],
+      "pages": [7, 8, 10]
+    },
+    {
+      "numero": "7",
+      "titre": "Un dirigeant jamais formé",
+      "resume": "Au moment du contrôle, le dirigeant de la société n'avait suivi aucune formation à la lutte contre le blanchiment.",
+      "textes": ["CMF L. 561-34"],
+      "chiffres_cles": ["aucun chiffre dans la décision pour ce grief"],
+      "issue": "retenu",
+      "precision_issue": "La société « ne conteste pas la matérialité du grief » (p. 8). La Commission conclut à « une absence de formation appropriée du dirigeant » (p. 10).",
+      "categorie": "gouvernance, moyens et formation",
+      "categorie_precision": "formation",
+      "categories_secondaires": [],
+      "pages": [8, 10]
+    },
+    {
+      "numero": "8",
+      "titre": "Contrôle interne : des règles maison non respectées",
+      "resume": "Deux exemples donnés par la poursuite : des projets concernant des pays que la société disait exclure ont été financés ; et une collecte avec un seul participant n'a pas été annulée alors que les conditions générales en exigent plusieurs. La Commission répond que rien ne montre que la société « travaillait » avec ces pays, puisque les virements restaient dans l'Union européenne, et qu'un seul exemple ne suffit pas à juger tout le contrôle interne.",
+      "textes": ["CMF L. 561-32 (II)"],
+      "chiffres_cles": ["1 collecte à participant unique"],
+      "issue": "écarté",
+      "precision_issue": "La Commission réfute les deux exemples (p. 8), et la poursuite elle-même ne jugeait pas ce grief fondé (p. 1). Pourtant la conclusion cite encore « des dispositifs de contrôle interne insuffisants » (p. 10) : voir les points à vérifier.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "contrôle interne",
+      "categories_secondaires": [],
+      "pages": [1, 8, 10]
+    },
+    {
+      "numero": "9",
+      "titre": "Trois examens renforcés non faits",
+      "resume": "Trois dossiers. Une collecte de 2017 pour financer des repas en Syrie : deux dons représentant un cinquième du total, très au-dessus du don moyen, sans aucune information sur l'association ni sur la destination exacte des fonds, dans un pays en guerre. Un donateur qui verse plus de 27 000 euros en treize fois depuis une banque des Émirats arabes unis. Un autre qui fait vingt-trois dons pour plus de 5 500 euros aux projets d'une même association.",
+      "textes": ["CMF L. 561-10-2"],
+      "chiffres_cles": ["3 dossiers", "2 dons d'un total de 1 500 euros, soit 20 % de la collecte, pour un don moyen de 28 euros", "plus de 27 000 euros en 13 opérations entre juin 2017 et novembre 2018", "23 dons pour plus de 5 500 euros"],
+      "issue": "retenu",
+      "precision_issue": "Pour chacun des trois dossiers, la décision écrit qu'un examen renforcé « aurait dû être effectué » (p. 8 et 9). La conclusion parle de « quelques carences » (p. 10).",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [8, 9, 10]
+    },
+    {
+      "numero": "10",
+      "titre": "Sept déclarations de soupçon non faites",
+      "resume": "Sept dossiers. Dans le premier, la seule donatrice d'une collecte en est aussi la trésorière : plus de 23 000 euros versés en onze virements sur cinq jours, sans justificatif sérieux de l'origine des fonds. Dans cinq autres, le contenu réel des projets n'était pas établi et certains visaient des pays à risque (Yémen, Turquie, Syrie, Somalie, Niger, Bénin, Géorgie), parfois sans rien sur l'origine des dons et avec un doute sur l'usage de l'argent ; dans l'un, les coûts de construction annoncés étaient nettement inférieurs à ceux affichés par des organisations non gouvernementales. Dans le dernier, l'organisatrice se servait de la cagnotte pour encaisser les revenus de son activité, comme le montraient les intitulés des collectes.",
+      "textes": ["CMF L. 561-15 (I)"],
+      "chiffres_cles": ["7 dossiers", "plus de 23 000 euros en 11 virements sur 5 jours (dossier 10.1)"],
+      "issue": "retenu",
+      "precision_issue": "La décision décrit les sept dossiers sans en écarter aucun (p. 9) et conclut à « quelques carences en matière d'examen renforcé ou déclaration de soupçon » (p. 10).",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [9, 10]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "La décision n'en relève pas en tant que tels. Elle constate, pour la période contrôlée, des insuffisances sur presque tout le dispositif.", "pages": [10]}
+    ],
+    "elements_attenuants": [
+      {"texte": "Entreprise de très petite taille et de création récente.", "pages": [10]},
+      {"texte": "Elle pouvait avoir du mal à savoir ce que les règles exigeaient d'elle, l'essentiel de son activité étant de simples cagnottes, hors du champ du financement participatif.", "pages": [10]},
+      {"texte": "Les exemples cités par la poursuite sont, pour l'essentiel, des cagnottes dont il n'apparaît pas qu'elles relèvent du financement participatif.", "pages": [10]}
+    ],
+    "mesures_correctrices": [],
+    "situation_financiere": {"texte": "La décision ne dit rien de la situation financière au moment de fixer la sanction. Elle donne seulement le chiffre d'affaires : environ 160 000 euros en 2017, 654 000 euros en 2019.", "pages": [2]},
+    "cause_profonde": {"texte": "La société pensait ne pas être soumise aux règles anti-blanchiment. Elle ne s'était inscrite à l'Orias en 2018 qu'à la demande de son prestataire de services de paiement. La Commission admet que la frontière entre cagnotte et financement participatif « peut être délicate » à tracer.", "pages": [3, 10]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "L'entreprise sait-elle exactement quelles activités la soumettent aux règles anti-blanchiment, y compris quand elles ne sont qu'une petite part de son chiffre d'affaires ?",
+      "Les collectes sont-elles rangées par catégories de risque (objet, organisateur, pays visé), même quand elles sont très diverses ?",
+      "Le pays où le projet se réalise est-il pris en compte, et pas seulement le pays du compte qui reçoit le virement ?",
+      "Les seuils d'alerte sont-ils fixés par rapport aux montants habituels de l'activité (don moyen, durée de la collecte) ?",
+      "Un seul critère suffit-il à déclencher un examen renforcé, avec une question sur l'origine des fonds ?",
+      "Un donateur qui finance sa propre collecte, ou qui fractionne ses versements, est-il repéré ?",
+      "Pour une collecte importante : existe-t-il un justificatif de la réalité du projet et de l'usage des fonds ?",
+      "Les règles que l'entreprise s'est fixées (pays exclus, nombre minimal de participants) sont-elles contrôlées ?",
+      "Les données sur les opérations sont-elles sauvegardées de façon à tenir cinq ans ?",
+      "Le dirigeant et les salariés ont-ils été formés ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["financement participatif", "cagnotte en ligne", "dons", "Orias", "assujettissement", "très petite entreprise", "avertissement", "pays à risque", "associations", "financement du terrorisme", "fractionnement", "seuil inadapté", "formation du dirigeant", "conservation des données"],
+    "pages_prioritaires": [
+      {"pages": [3, 4], "pourquoi": "cagnotte ou financement participatif : le raisonnement qui décide de tout"},
+      {"pages": [7, 8], "pourquoi": "ce qu'on attend d'un système d'alerte, même dans une très petite structure"},
+      {"pages": [9], "pourquoi": "les indices de soupçon propres aux collectes en ligne"},
+      {"pages": [10], "pourquoi": "pourquoi un simple avertissement"}
+    ],
+    "confiance": "moyenne",
+    "a_verifier": [
+      "Décision anonymisée : je n'ai pas cherché à identifier l'établissement, ni les associations et les particuliers que la décision remplace par des lettres.",
+      "Cette décision est rédigée autrement que les autres : elle ne conclut jamais « le grief est fondé ». Toutes les issues de cette fiche sont donc ma lecture, à partir de la réponse de la Commission à chaque grief et de sa conclusion (p. 10). À relire en priorité.",
+      "Grief 8 : classé « écarté » parce que la Commission réfute les deux exemples (p. 8) et que la poursuite elle-même ne le soutenait plus (p. 1). Mais la conclusion (p. 10) cite « des dispositifs de contrôle interne insuffisants ». Les deux passages ne se concilient pas facilement.",
+      "Griefs 4 et 5 : classés « retenu » parce qu'ils ne sont pas contestés, mais la conclusion (p. 10) ne les reprend pas. Grief 3 : classé « écarté », la conclusion ne le reprend pas non plus.",
+      "Le rapporteur retenait neuf griefs sur dix (p. 1) ; ma lecture en donne huit. L'écart vient du grief 3.",
+      "Mesures correctrices : la décision n'en cite aucune.",
+      "Page 4, la décision écrit « article L. 6122 du CMF » : probable coquille pour L. 612-2. Page 5, elle range le Yémen et la Tunisie sur la liste du GAFI : je reprends l'information sans l'avoir vérifiée ailleurs.",
+      "Le recueil de l'ACPR indique « intermédiaire en financement participatif » ; c'est un nouveau type d'établissement pour les filtres du site (question ouverte 4).",
+      "Publication : décidée nominative pour 3 ans (p. 10) ; le texte en ligne est aujourd'hui anonymisé."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Fable 5.2), à partir du texte extrait du PDF officiel", "date": "2026-11-12", "relue_par_mateo": false}
+}

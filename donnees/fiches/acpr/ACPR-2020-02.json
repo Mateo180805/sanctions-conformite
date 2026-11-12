@@ -1,0 +1,230 @@
+{
+  "id": "ACPR-2020-02",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT et gel des avoirs",
+  "resume_court": "La « société A » est la succursale française d'un groupe bancaire européen. Elle fait deux métiers : une banque en ligne pour les particuliers et des services aux grandes entreprises. La Commission juge que son dispositif anti-blanchiment était « globalement défaillant », surtout côté banque en ligne. Deux logiciels sans lien entre eux pouvaient donner au même client deux niveaux de risque différents, et presque tous les clients ressortaient en risque faible. L'outil de surveillance n'avait aucun scénario pour les crédits à la consommation ni pour repérer les particuliers qui se servent de leur compte pour une activité professionnelle. Résultat : treize dossiers qui auraient dû être signalés à Tracfin ne l'ont pas été, souvent des comptes de particuliers qui brassaient des opérations avec des sociétés du bâtiment. Dix-neuf personnes politiquement exposées n'avaient pas été repérées. Les dix reproches sont retenus, deux d'entre eux pour un peu moins de dossiers. La banque a dépensé 26 millions d'euros pour se remettre à niveau, mais trop tard aux yeux de la Commission. Sanction : un blâme et 3 millions d'euros.",
+  "identite": {
+    "etablissement": "anonymisé (« société A »)",
+    "type_etablissement": "établissement de crédit",
+    "precision_type": "Succursale française d'un groupe bancaire européen (« groupe E »), née en 2013 du regroupement des activités françaises de banque de détail et de banque de financement et d'investissement du groupe. Banque en ligne pour des particuliers résidents fiscaux en France ; services variés pour une clientèle surtout composée de grandes entreprises.",
+    "groupe": "Groupe bancaire européen (non nommé)",
+    "pays": "France (succursale) ; pays du siège du groupe non précisé",
+    "activite_et_taille": "En 2019 : produit net bancaire d'environ 290 millions d'euros, résultat net de 37 millions d'euros, environ 940 millions d'euros de fonds propres. Nombre de clients non précisé. Le nombre et l'encours des prêts à la consommation sont masqués dans le texte publié.",
+    "pages": [1, 2, 3]
+  },
+  "controle": {
+    "controle_sur_place": "du 5 septembre 2018 au 8 février 2019",
+    "rapport_de_controle": "signé le 19 juillet 2019",
+    "ouverture_de_la_procedure": "décidée le 13 février 2020, Commission saisie le 10 mars 2020",
+    "antecedents": "Aucune sanction ni mise en demeure antérieure n'est mentionnée. La décision relève seulement que certaines carences étaient connues avant le contrôle : l'audit interne avait émis dès 2017 une recommandation de niveau de risque élevé sur la mise à jour des dossiers clients.",
+    "pages": [1, 2, 7, 11]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 3000000,
+    "publication": "anonymisée aujourd'hui",
+    "duree_publication_nominative": "décidée nominative pendant 5 ans, puis forme non nominative",
+    "proposition_du_college": "blâme et sanction pécuniaire « qui ne saurait être inférieure à 3 millions d'euros », publication nominative pendant 5 ans",
+    "pages": [1, 2, 11, 12]
+  },
+  "procedure": {
+    "questions_de_procedure": "La société soutenait que les mêmes faits lui étaient reprochés plusieurs fois sous des qualifications différentes. La Commission répond que le principe non bis in idem n'interdit pas, dans une même procédure, de tirer plusieurs manquements des mêmes faits, mais elle en tient compte pour fixer la sanction. Audience non publique, à la demande de la société. Le rapporteur concluait que tous les griefs étaient fondés, dont un dans un périmètre très légèrement réduit ; la Commission réduit aussi le grief 7.",
+    "pages": [1, 2, 11]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Une classification des risques incomplète",
+      "resume": "La classification des risques est le document où la banque dit quels produits, quels clients et quels pays l'exposent le plus au blanchiment. Celle de la société ne disait rien de précis sur les prêts à la consommation (montant, retraits d'espèces qui suivent), alors que Tracfin alertait sur ce sujet depuis 2015. Elle pesait mal les risques liés aux clients : un patrimoine venant d'une vente immobilière était noté « risque nul », et des secteurs signalés par Tracfin (automobile, pharmacie, fret, services aux collectivités) n'étaient pas traités comme plus risqués. La Commission rappelle qu'une classification doit recenser les risques, mais aussi les évaluer.",
+      "textes": ["CMF L. 561-4-1", "arrêté du 3 novembre 2014, art. 58"],
+      "chiffres_cles": ["prêts à la consommation : une mention générale sur des demandes successives de prêts de 2 000 à 2 999 euros, jugée insuffisante", "nombre de prêts et encours fin 2018 masqués dans le texte"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 1 est donc fondé. » La société reconnaissait un dispositif « perfectible » et des erreurs d'appréciation.",
+      "categorie": "classification des risques",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [3, 4]
+    },
+    {
+      "numero": "2",
+      "titre": "Deux logiciels, deux profils de risque pour un même client",
+      "resume": "Dans la banque en ligne, un premier outil attribuait un profil de risque à l'ouverture du compte, un second calculait le sien pour surveiller les opérations. Sans lien entre eux, ils pouvaient donner au même client des niveaux de risque contradictoires (ils ne pesaient pas de la même façon, par exemple, le fait d'être une personne politiquement exposée ou la catégorie socio-professionnelle). Les profils étaient peu discriminants : l'essentiel des clients ressortait en risque faible. Et le profil changeait peu de chose aux contrôles réellement faits.",
+      "textes": ["CMF L. 561-32 (I)"],
+      "chiffres_cles": ["2 applications sans lien entre elles", "score du second outil désactivé en octobre 2019, remplacé par celui du premier"],
+      "issue": "retenu",
+      "precision_issue": "Fondé. L'argument selon lequel une banque en ligne appliquait de toute façon une vigilance complémentaire à tous ses clients ne répond pas au reproche.",
+      "categorie": "classification des risques",
+      "categorie_precision": "profil de risque des relations d'affaires",
+      "categories_secondaires": ["dispositif de surveillance des opérations (outils, scénarios, seuils)"],
+      "pages": [4]
+    },
+    {
+      "numero": "3",
+      "titre": "Virements reçus : des informations sur l'expéditeur jamais contrôlées sur le fond",
+      "resume": "Une banque qui reçoit un virement doit vérifier qu'il est accompagné des informations requises sur celui qui l'envoie et celui qui le reçoit. Pour les virements SEPA reçus par ses clients particuliers, la société vérifiait seulement que les champs n'étaient pas vides, pas que leur contenu avait un sens. La Commission juge qu'une information dépourvue de sens équivaut à une information manquante. La société n'avait pas non plus de procédure pour repérer les banques qui omettent régulièrement ces informations et les signaler à l'ACPR. Elle s'en remettait au groupe et à un autre établissement, ce qui ne la dispensait pas de ses propres obligations.",
+      "textes": ["CMF L. 561-32 (I)", "règlement (UE) 2015/847, art. 7 et 8"],
+      "chiffres_cles": ["orientations des autorités européennes du 16 janvier 2018", "principes d'application sectoriels de l'ACPR d'octobre 2010"],
+      "issue": "retenu",
+      "precision_issue": "« Entièrement fondé. » La société contestait ce grief.",
+      "categorie": "autre (à préciser)",
+      "categorie_precision": "informations accompagnant les transferts de fonds",
+      "categories_secondaires": ["procédures et contrôle interne"],
+      "pages": [5]
+    },
+    {
+      "numero": "4",
+      "titre": "Un outil de surveillance des opérations plein de trous",
+      "resume": "L'outil de surveillance de la banque en ligne n'avait pas de scénario pour les crédits à la consommation (remboursements anticipés, par exemple) ni pour repérer les clients qui utilisent leur compte personnel à des fins professionnelles. Les seuils d'alerte ne tenaient pas compte du profil de risque du client. Une opération inhabituelle ne déclenchait une alerte que si elle se répétait. Enfin, à la suite d'une erreur informatique, deux journées d'opérations n'ont jamais été chargées dans l'outil, donc jamais analysées.",
+      "textes": ["CMF L. 561-32", "arrêté du 3 novembre 2014, art. 46 et 49"],
+      "chiffres_cles": ["600 000 opérations non analysées (journées des 3 et 4 août 2017)", "3 scénarios sur les comptes dormants, seuls à pouvoir alerter dès la première opération"],
+      "issue": "retenu",
+      "precision_issue": "« Entièrement fondé. » La société admettait des lacunes.",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [6]
+    },
+    {
+      "numero": "5",
+      "titre": "Des dossiers clients incomplets et jamais mis à jour",
+      "resume": "Deux reproches. D'abord, des dossiers sans information sur l'usage prévu du compte, et, pour les clients à risque élevé, aucun justificatif exigé sur l'origine et la répartition du patrimoine : le courrier type ne les présentait pas comme obligatoires. Ensuite, aucune mesure efficace pour mettre à jour les dossiers, notamment quand un événement important survient. La Commission qualifie ce second point de manquement grave, que l'audit interne avait signalé dès 2017. Elle retire sept dossiers du premier reproche : l'information avait bien été demandée plus tard, à l'ouverture du compte courant.",
+      "textes": ["CMF L. 561-5-1 (I)", "CMF R. 561-12"],
+      "chiffres_cles": ["66 dossiers examinés par les contrôleurs", "16 dossiers reprochés, 7 écartés (5.2, 5.4, 5.6, 5.7, 5.8, 5.14, 5.15)", "recommandation de l'audit interne, de niveau de risque élevé, dès 2017"],
+      "issue": "retenu en partie",
+      "precision_issue": "Fondé « dans un périmètre légèrement réduit ». Le défaut de mise à jour n'était pas contesté.",
+      "categorie": "vigilance constante et mise à jour des dossiers",
+      "categorie_precision": "",
+      "categories_secondaires": ["connaissance du client à l'entrée en relation"],
+      "pages": [7]
+    },
+    {
+      "numero": "6",
+      "titre": "Dix-neuf personnes politiquement exposées passées inaperçues",
+      "resume": "Dix-neuf clients étaient des personnes politiquement exposées sans que la banque l'ait vu : onze à cause de difficultés techniques d'un outil, huit parce que les listes fournies par un autre outil étaient mises à jour en retard. La Commission répond que la règle impose de détecter toutes ces personnes et que la banque doit s'assurer de la fiabilité des bases externes qu'elle utilise. Pour les clients déjà identifiés comme tels, la fiche sur l'origine et la composition du patrimoine manquait presque toujours. Enfin, l'outil de surveillance tenait trop peu compte de cette qualité.",
+      "textes": ["CMF R. 561-20-2", "CMF L. 561-10"],
+      "chiffres_cles": ["19 personnes politiquement exposées non détectées (11 + 8)", "fiche de renseignements complémentaires absente dans 19 des 20 dossiers examinés", "informations sur le patrimoine demandées seulement au-dessus de 500 000 euros, pour tous les clients", "un des dossiers : membre du bureau national d'un parti politique, catégorie entrée dans la définition le 1er octobre 2018"],
+      "issue": "retenu",
+      "precision_issue": "« Entièrement fondé. »",
+      "categorie": "personnes politiquement exposées et vigilance renforcée",
+      "categorie_precision": "détection et vigilance complémentaire",
+      "categories_secondaires": [],
+      "pages": [8]
+    },
+    {
+      "numero": "7",
+      "titre": "Défauts d'examen renforcé",
+      "resume": "Six dossiers dans lesquels la banque aurait dû regarder de près des opérations inhabituelles. Elle l'admettait pour cinq. La Commission écarte le sixième : des virements venant de l'employeur du client, un virement de sa mère de plus de 50 000 euros, des virements vers sa compagne et vers un compte ouvert à son nom chez un intermédiaire financier en ligne n'avaient rien d'inhabituel au regard de ses revenus.",
+      "textes": ["CMF L. 561-10-2"],
+      "chiffres_cles": ["6 dossiers reprochés, 1 écarté (7.4)"],
+      "issue": "retenu en partie",
+      "precision_issue": "Fondé « dans un périmètre réduit ».",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [9]
+    },
+    {
+      "numero": "8",
+      "titre": "Treize déclarations de soupçon non faites",
+      "resume": "Dans treize dossiers, ce que la banque savait du client (profession, revenus, patrimoine) ne collait pas avec les mouvements du compte. Le cas le plus fréquent : un compte de particulier qui enregistre de nombreuses opérations avec des sociétés, surtout du bâtiment. Autres cas : de très nombreuses ventes de voitures d'occasion, des retraits d'espèces répétés, des chèques et virements de montants ronds. Des alertes de l'outil avaient été classées sans suite. Dans un dossier, vingt-cinq alertes ont été classées alors que la banque avait elle-même conclu à un usage professionnel et menacé par courrier de fermer le compte ; rien n'a changé, et rien n'a été déclaré. Dans trois dossiers, une demande de Tracfin ou de la justice n'a déclenché ni analyse du compte ni déclaration.",
+      "textes": ["CMF L. 561-15 (I)"],
+      "chiffres_cles": ["13 dossiers, tous retenus", "25 alertes classées sans suite dans un même dossier (8.6)", "3 dossiers avec demande de Tracfin ou réquisition judiciaire restée sans suite (8.6, 8.9, 8.10)"],
+      "issue": "retenu",
+      "precision_issue": "« Entièrement fondé. » La société l'admettait.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": ["analyse des alertes et examen renforcé"],
+      "pages": [9, 10]
+    },
+    {
+      "numero": "9",
+      "titre": "Des déclarations de soupçon jamais complétées",
+      "resume": "Quand un client déjà déclaré à Tracfin recommence, il faut le dire à Tracfin sans délai. Dans sept dossiers, des opérations du même genre que celles déjà déclarées, pour des montants significatifs, sont réapparues sur les comptes sans déclaration complémentaire, alors que l'outil avait parfois donné l'alerte.",
+      "textes": ["CMF L. 561-15 (IV)"],
+      "chiffres_cles": ["7 dossiers", "alertes déclenchées dans 2 d'entre eux (9.1 et 9.6)"],
+      "issue": "retenu",
+      "precision_issue": "Fondé, non contesté.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "déclaration complémentaire",
+      "categories_secondaires": [],
+      "pages": [10]
+    },
+    {
+      "numero": "10",
+      "titre": "Gel des avoirs : tuteurs et noms de naissance oubliés",
+      "resume": "Le filtrage qui compare les clients aux listes de gel des avoirs ne portait que sur le nom d'usage, pas sur le nom de naissance. Il ne couvrait pas non plus les tuteurs et curateurs, c'est-à-dire les personnes qui gèrent le compte d'un majeur protégé.",
+      "textes": ["arrêté du 3 novembre 2014, art. 47"],
+      "chiffres_cles": ["aucun chiffre dans la décision"],
+      "issue": "retenu",
+      "precision_issue": "Fondé, non contesté. La société en soulignait la portée limitée ; la Commission écrit que la détection « n'était pas pleinement efficace » (p. 11).",
+      "categorie": "gel des avoirs et sanctions financières",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [10, 11]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "Des « carences importantes » qui révèlent un dispositif « globalement défaillant ».", "pages": [11]},
+      {"texte": "Un grand établissement de crédit, qui ne pouvait ignorer ni ses risques ni ses obligations.", "pages": [11]},
+      {"texte": "Des corrections importantes mais tardives : la succursale est installée en France depuis longtemps et certaines carences avaient été repérées avant le contrôle.", "pages": [11]}
+    ],
+    "elements_attenuants": [
+      {"texte": "Dans certains cas, plusieurs manquements découlent des mêmes faits : la Commission en tient compte.", "pages": [11]},
+      {"texte": "Un vaste plan de remédiation, dont l'ampleur exacte et l'efficacité « devront être vérifiées ».", "pages": [11]},
+      {"texte": "Griefs 5 et 7 retenus pour un peu moins de dossiers.", "pages": [7, 9]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "« Plan de renforcement LCB-FT » : 26 millions d'euros dépensés en 2019 et 2020, dont plus de 12 millions en investissements structurels.", "pages": [11]},
+      {"texte": "Un seul calcul du score de risque depuis octobre 2019.", "pages": [4]},
+      {"texte": "Chaque mois, liste des virements rejetés pour informations manquantes, analysée en vue d'un éventuel signalement à l'ACPR.", "pages": [5]},
+      {"texte": "Scénarios de surveillance enrichis, nouvelle version de l'outil, procédures sur les alertes, les examens renforcés et les déclarations de soupçon refondues.", "pages": [6, 9, 10]},
+      {"texte": "Mise à jour des dossiers clients à une fréquence qui dépend du profil de risque, ou lors d'événements déclencheurs.", "pages": [7]},
+      {"texte": "Tuteurs, curateurs et noms de naissance ajoutés au filtrage gel des avoirs.", "pages": [11]}
+    ],
+    "situation_financiere": {"texte": "En 2019 : produit net bancaire d'environ 290 millions d'euros, résultat net de 37 millions, environ 940 millions de fonds propres. La Commission fixe l'amende « eu égard à la situation financière » de la société, sans autre détail.", "pages": [2, 11]},
+    "cause_profonde": {"texte": "La décision ne désigne pas de cause unique. Elle montre un enchaînement : les défauts du profil de risque (grief 2) expliquent une partie des défauts de la surveillance (grief 4). Elle note aussi que l'application du règlement sur les transferts de fonds « relève principalement du groupe », si bien que la succursale en ignorait les modalités.", "pages": [5, 11]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Chaque produit vendu (crédit à la consommation compris) a-t-il sa ligne dans la classification des risques et au moins un scénario dans l'outil de surveillance ?",
+      "Les publications de Tracfin et du GAFI sont-elles relues chaque année pour mettre la classification à jour (secteurs, produits) ?",
+      "Un client a-t-il un seul profil de risque, partagé par tous les outils ?",
+      "Quelle part des clients est en risque faible ? Si c'est presque tous, le profil sert-il à quelque chose ?",
+      "Le profil de risque change-t-il vraiment les justificatifs demandés et les seuils d'alerte ?",
+      "Un contrôle vérifie-t-il chaque jour que toutes les opérations ont bien été chargées dans l'outil de surveillance ?",
+      "Un compte de particulier utilisé comme compte professionnel est-il détecté, puis traité jusqu'au bout (clôture ou déclaration) ?",
+      "Une opération isolée mais inhabituelle déclenche-t-elle une alerte ?",
+      "Une demande de Tracfin ou une réquisition judiciaire entraîne-t-elle une revue du compte ?",
+      "Après une déclaration de soupçon, le compte est-il suivi pour envoyer une déclaration complémentaire si les opérations reprennent ?",
+      "Les listes de personnes politiquement exposées fournies par un prestataire sont-elles testées (fraîcheur, taux de détection) ?",
+      "Le filtrage gel des avoirs couvre-t-il le nom de naissance, les mandataires, les tuteurs et les curateurs ?",
+      "Pour les virements reçus : le contenu des champs est-il contrôlé, et les banques qui envoient régulièrement des informations incomplètes sont-elles suivies ?",
+      "Les recommandations de l'audit interne classées en risque élevé sont-elles closes dans un délai fixé ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["succursale", "groupe européen", "banque en ligne", "banque de financement et d'investissement", "crédit à la consommation", "profil de risque", "deux outils incohérents", "virements SEPA", "règlement 2015/847", "compte de particulier à usage professionnel", "bâtiment", "déclaration de soupçon complémentaire", "personnes politiquement exposées", "bases de données externes", "tuteurs et curateurs", "non bis in idem", "plan de remédiation"],
+    "pages_prioritaires": [
+      {"pages": [3, 4], "pourquoi": "ce qu'une classification des risques doit contenir : recenser et évaluer"},
+      {"pages": [5], "pourquoi": "transferts de fonds : une information sans queue ni tête vaut une information manquante"},
+      {"pages": [8], "pourquoi": "il faut détecter toutes les personnes politiquement exposées, quelle que soit la panne"},
+      {"pages": [9, 10], "pourquoi": "les indices de soupçon sur un compte de particulier, et le dossier des 25 alertes"},
+      {"pages": [11], "pourquoi": "plusieurs manquements pour les mêmes faits ; des corrections « tardives »"}
+    ],
+    "confiance": "élevée",
+    "a_verifier": [
+      "Décision anonymisée : je n'ai pas cherché à identifier l'établissement. La fiche ne reprend que ce que dit le texte publié (succursale française d'un groupe européen, banque en ligne et grandes entreprises).",
+      "Grief 5 : la décision ne donne pas le nombre de dossiers retenus. 16 moins 7, soit 9, est mon calcul.",
+      "Grief 7 : de même, 5 dossiers retenus sur 6 est mon calcul (la décision dit « périmètre réduit »).",
+      "Grief 2 : classé dans « classification des risques » avec la précision « profil de risque », comme dans la fiche 2022-07. À toi de voir si ce choix te convient.",
+      "Grief 3 : classé « autre », comme le grief équivalent de la fiche 2021-01 (question ouverte 3 du journal).",
+      "Page 5, la décision écrit une fois « règlement (UE) 2015/487 » : probable coquille pour 2015/847, cité partout ailleurs. Rien n'est corrigé.",
+      "Antécédents : la décision n'en cite aucun au sens strict. Ce que j'indique (recommandation d'audit de 2017, carences connues) vient des pages 7 et 11.",
+      "Publication : décidée nominative pour 5 ans (p. 12) ; le texte en ligne est aujourd'hui anonymisé."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Fable 5.2), à partir du texte extrait du PDF officiel", "date": "2026-11-12", "relue_par_mateo": false}
+}
