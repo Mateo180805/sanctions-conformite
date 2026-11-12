@@ -1,0 +1,200 @@
+{
+  "id": "ACPR-2018-03",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT et gel des avoirs",
+  "resume_court": "La « société A » est un petit établissement de monnaie électronique d'une quarantaine de salariés, tourné vers les jeux en ligne. Elle vendait deux produits : un coupon de 250 euros au plus, acheté surtout en espèces chez les buralistes, et un second produit payé par carte bancaire, jusqu'à 10 000 euros, utilisé surtout par des joueurs résidant en Norvège sur des sites de jeux installés à Malte. Elle pensait que son coupon échappait aux vérifications d'identité grâce à une dispense prévue par la loi. La Commission dit non : ce coupon servait sur trop de sites différents pour y avoir droit. Tout le reste en découle : clients non identifiés, base de données inutilisable (une date de naissance fictive pour plus de 86 % des clients), plus de 23 000 alertes jamais traitées, des distributeurs qui ne répondaient pas à ses demandes, et des réponses inexactes au questionnaire annuel de l'ACPR. Les huit griefs sont retenus, et la société avait déjà été sanctionnée en 2015. Pourtant elle ne reçoit qu'un blâme, sans amende : sa situation financière était trop dégradée.",
+  "identite": {
+    "etablissement": "anonymisé (« société A »)",
+    "type_etablissement": "établissement de monnaie électronique",
+    "precision_type": "Société anonyme agréée depuis 2010. Deux supports de monnaie électronique, non rechargeables, qui servent à payer sur les sites internet partenaires. Le premier (« ME1 ») : un coupon plafonné à 250 euros, alimenté surtout en espèces chez des buralistes rattachés à des réseaux de distribution. Le second (« ME2 ») : approvisionné seulement par carte bancaire, plafonné à 10 000 euros, utilisé notamment pour alimenter des comptes de joueurs, pour la plupart résidents norvégiens, sur des sites de jeux en ligne majoritairement domiciliés à Malte.",
+    "groupe": "Indépendante au moment du contrôle. En février 2019, l'ACPR a accepté sous conditions sa prise de contrôle par un groupe de services financiers et commerciaux (non nommé).",
+    "pays": "France",
+    "activite_et_taille": "Une quarantaine de collaborateurs. En 2017, les deux produits représentaient 23 % et 73 % du chiffre d'affaires (montants masqués par l'ACPR). En 2018, arrêt du second produit et activité du premier divisée par deux.",
+    "pages": [1, 2, 3]
+  },
+  "controle": {
+    "controle_sur_place": "entre septembre et novembre 2017",
+    "rapport_de_controle": "établi le 26 février 2018",
+    "ouverture_de_la_procedure": "décidée le 29 mai 2018, Commission saisie le 12 juin 2018",
+    "antecedents": "Déjà sanctionnée par la Commission en 2015. Les défauts d'identification et de connaissance des clients (grief 7) avaient déjà été sanctionnés dans cette première décision.",
+    "pages": [1, 3, 10, 12]
+  },
+  "sanction": {
+    "nature": ["blâme"],
+    "montant_euros": null,
+    "publication": "anonymisée aujourd'hui",
+    "duree_publication_nominative": "décidée nominative pendant 5 ans, puis forme anonyme",
+    "proposition_du_college": "blâme et 100 000 euros, publication nominative",
+    "pages": [1, 2, 12]
+  },
+  "procedure": {
+    "questions_de_procedure": "Trois questions générales. 1) La société jugeait inopportun d'ouvrir une procédure pendant les discussions sur son rachat : la Commission ne juge pas le choix du Collège de poursuivre, elle statue sur les faits. 2) La société disait qu'on ne pouvait pas la sanctionner pour des faits situés entre l'ordonnance de décembre 2016 et son décret d'avril 2018, période de « confusion » : la Commission refuse une réponse globale et vérifie, grief par grief, si le texte appliqué était clair. Elle conclut chaque fois que oui. 3) Le coupon avait-il droit à la dispense de vérification d'identité ? Un support rechargeable en espèces n'y a droit que s'il sert dans un « réseau limité » de commerçants ou pour un « éventail limité » de biens ou de services. La société disait que ces notions n'avaient été précisées par l'ACPR qu'en octobre 2017. La Commission répond qu'elles sont claires et anciennes (directive de 2009 : cartes d'enseigne, cartes d'essence, titres-repas), qu'une exception se lit strictement, et que la société les connaissait puisqu'elle avait demandé sans succès une dérogation fondée sur les mêmes critères. Or le coupon servait sur un grand nombre de sites, dans des domaines sans rapport entre eux, et la société ne connaissait même pas tous les sites couverts par l'un de ses partenaires. Audience non publique.",
+    "pages": [1, 3, 4, 5]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Aucune trace du mode de paiement des coupons achetés chez les buralistes",
+      "resume": "La société ne savait pas comment étaient payés les coupons vendus chez les buralistes, ce qui est le cas le plus fréquent. Elle ignorait donc la part des espèces, là où le risque de blanchiment est le plus fort, et ne pouvait pas repérer les opérations à examiner de près ou à déclarer. Elle soutenait que les textes ne disent pas précisément quelles informations recueillir. La Commission répond que le grief vise plus largement l'absence de procédure de traçabilité des chargements, et que les textes étaient clairs.",
+      "textes": ["arrêté du 3 novembre 2014, art. 66 et 67", "CMF L. 561-12 (I)"],
+      "chiffres_cles": ["interface modifiée en juin 2018 pour recevoir l'information sur le moyen de paiement (après le contrôle)"],
+      "issue": "retenu",
+      "precision_issue": "Établi.",
+      "categorie": "autre (à préciser)",
+      "categorie_precision": "traçabilité et conservation des données sur le chargement de la monnaie électronique",
+      "categories_secondaires": ["procédures et contrôle interne"],
+      "pages": [6]
+    },
+    {
+      "numero": "2",
+      "titre": "Une partie de l'activité hors surveillance, des alertes restées sans réponse",
+      "resume": "Un réseau de distribution, qui pesait près d'un cinquième des coupons, n'était pas raccordé à l'outil de surveillance : la société n'en recevait que des totaux par point de vente, qui ne permettent pas de repérer une opération anormale. Un autre réseau, le plus important, n'a jamais répondu aux demandes de la société sur les alertes, malgré de très nombreuses relances depuis avril 2016 : les alertes ne pouvaient donc pas être traitées. Celles du second produit ne l'étaient pas non plus. La Commission pose une règle nette : une alerte non traitée est un manquement de l'établissement, même si c'est le distributeur qui ne coopère pas.",
+      "textes": ["arrêté du 3 novembre 2014, art. 46"],
+      "chiffres_cles": ["réseau non raccordé : près de 20 % de la monnaie électronique émise sur le coupon", "réseau qui ne répondait pas : 41,5 % du volume total de transactions ; ventes du 1er janvier 2016 au 31 décembre 2017", "selon la société, les alertes en cause ne représentaient que 0,12 % du flux du coupon : sans effet"],
+      "issue": "retenu",
+      "precision_issue": "Établi. Le raccordement du réseau en novembre 2017 est postérieur au contrôle.",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "",
+      "categories_secondaires": ["analyse des alertes et examen renforcé"],
+      "pages": [6, 7]
+    },
+    {
+      "numero": "3",
+      "titre": "Détection des personnes visées par un gel et des personnes politiquement exposées : un outil qui tournait à vide",
+      "resume": "Le dispositif mis en place en 2016 laissait de côté tous les clients du coupon. Pour le second produit, il ne servait à rien, tant les données sur les clients étaient mauvaises : date de naissance fictive, lieu de naissance absent, noms illisibles parce que la base ne gérait pas l'alphabet norvégien, noms réduits à une lettre. Les clients d'un site marchand n'étaient pas filtrés du tout, faute de nom. Les alertes produites au démarrage de l'outil attendaient toujours. La société le savait : son propre comité des risques avait écrit en janvier 2017 qu'elle était « en situation de non-conformité ». Elle faisait valoir que les banques des cartes bancaires faisaient déjà ces contrôles : cela ne la dispense pas des siens.",
+      "textes": ["CMF R. 561-20 (II, 1°)", "CMF L. 561-10", "arrêté du 3 novembre 2014, art. 47"],
+      "chiffres_cles": ["date de naissance fictive (1er janvier 1900) pour plus de 86 % des clients", "lieu de naissance absent pour 90 % des clients", "plus de 30 000 clients au nom ou prénom illisible ; plus de 5 000 dont le nom tient en une lettre", "23 260 alertes générées en 2016, toujours non traitées au moment du contrôle"],
+      "issue": "retenu",
+      "precision_issue": "Établi. Le rapporteur proposait un périmètre réduit ou de relativiser ; la décision ne le fait pas.",
+      "categorie": "gel des avoirs et sanctions financières",
+      "categorie_precision": "le grief couvre à la fois le gel des avoirs et la détection des personnes politiquement exposées ; qualité des données clients",
+      "categories_secondaires": ["personnes politiquement exposées et vigilance renforcée"],
+      "pages": [7, 8]
+    },
+    {
+      "numero": "4",
+      "titre": "Personne ne vérifiait que le coupon avait droit à la dispense",
+      "resume": "De janvier à septembre 2017, le contrôle interne n'a jamais vérifié que le coupon remplissait les conditions de la dispense (réseau limité de commerçants ou éventail limité de biens et de services). La société appliquait donc une exception sans s'assurer qu'elle y avait droit.",
+      "textes": ["arrêté du 3 novembre 2014, art. 11 a)", "CMF R. 561-16 (5°, c)"],
+      "chiffres_cles": ["période : janvier à septembre 2017"],
+      "issue": "retenu",
+      "precision_issue": "Établi, non contesté sur les faits. Le rapporteur proposait d'écarter ce grief ; la Commission le retient.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "contrôle de conformité d'un produit sous dispense",
+      "categories_secondaires": [],
+      "pages": [8]
+    },
+    {
+      "numero": "5",
+      "titre": "Des distributeurs peu contrôlés",
+      "resume": "Les contrats imposaient aux distributeurs d'identifier le client en cas de soupçon. La grille de contrôle de la société ne vérifiait pas ce point. Et quand deux réseaux ne répondaient pas à ses demandes sur les alertes, elle n'a pris aucune mesure. La Commission admet que ces faits recoupent en partie ceux des griefs 2 et 6, mais juge qu'ils peuvent aussi être reprochés au titre du contrôle des activités confiées à des tiers.",
+      "textes": ["arrêté du 3 novembre 2014, art. 233 à 239"],
+      "chiffres_cles": ["2 réseaux de distribution qui ne répondaient pas de façon satisfaisante"],
+      "issue": "retenu",
+      "precision_issue": "Établi. Le rapporteur proposait un périmètre réduit ou de relativiser ; la Commission en tient compte seulement au stade de la sanction (mêmes faits sous plusieurs qualifications, p. 12).",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "contrôle des distributeurs (activité externalisée)",
+      "categories_secondaires": [],
+      "pages": [8, 9]
+    },
+    {
+      "numero": "6",
+      "titre": "Un défaut connu, corrigé trop lentement",
+      "resume": "Dès le second semestre 2016 (rapport d'audit interne) puis en janvier 2017 (comité des risques), la société savait que sa détection des personnes visées par un gel et des personnes politiquement exposées ne fonctionnait pas, à cause de la mauvaise qualité des données. Au début du contrôle, à l'automne 2017, elle n'avait toujours pas d'outil pour recueillir l'information nécessaire sur les clients du second produit. Elle invoquait le changement de dirigeants et d'actionnaire : cela explique le retard, sans le justifier.",
+      "textes": ["arrêté du 3 novembre 2014, art. 38 et 11 f)"],
+      "chiffres_cles": ["alerte interne au second semestre 2016 et le 20 janvier 2017", "processus manuel mis en place en octobre 2017 ; régularisation effective après le contrôle"],
+      "issue": "retenu",
+      "precision_issue": "Établi. La Commission note que ce grief est « connexe » au grief 3 (p. 12).",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "suivi des actions correctrices",
+      "categories_secondaires": ["gel des avoirs et sanctions financières"],
+      "pages": [9, 10]
+    },
+    {
+      "numero": "7",
+      "titre": "Des clients ni identifiés ni connus",
+      "resume": "Quatre reproches. Sur le coupon : dans 28 cas, des dizaines de coupons ont été vendus en une minute ou moins dans un même point de vente, pour 2 000 à 5 000 euros, donc par un seul client qui fractionnait pour rester sous le plafond de 250 euros, sans que personne l'identifie. L'outil avait bien donné l'alerte, mais ce n'est pas la question : il fallait identifier le client. Sur le second produit : l'identité des acheteurs était seulement déclarée par eux sur les sites marchands, jamais vérifiée, pour des montants très importants. Sur les deux produits : rien sur la connaissance des clients. Sur les sites marchands partenaires, que la société traitait elle-même comme des clients : aucun élément sur leur situation financière, et pour l'un d'eux, des bénéficiaires effectifs connus par un simple organigramme d'origine inconnue.",
+      "textes": ["CMF L. 561-5", "CMF L. 561-6", "CMF L. 561-5-1", "CMF R. 561-12", "CMF R. 561-16 (5°)"],
+      "chiffres_cles": ["28 séries d'achats de coupons entre juin 2016 et juin 2017, de 2 000 à 5 000 euros chacune", "seuil d'alerte interne : 1 500 euros de coupons dans un même point de vente en moins de 10 minutes", "second produit : 15 000 adresses e-mail, près de 250 000 opérations de plus de 250 euros, environ 150 millions d'euros entre le 1er janvier et le 30 octobre 2017", "8 dossiers de sites marchands examinés, aucun avec des éléments financiers"],
+      "issue": "retenu",
+      "precision_issue": "« Entièrement établi ». Le rapporteur proposait un périmètre réduit ou de relativiser. Manquements déjà sanctionnés en 2015.",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "identification, vérification de l'identité, bénéficiaires effectifs ; fractionnement",
+      "categories_secondaires": [],
+      "pages": [10, 11]
+    },
+    {
+      "numero": "8",
+      "titre": "Des réponses inexactes au questionnaire annuel de l'ACPR",
+      "resume": "Dans son questionnaire anti-blanchiment sur l'année 2016, la société a déclaré qu'elle vérifiait l'application de ses procédures par ses prestataires, qu'elle détectait les personnes politiquement exposées à l'entrée et en cours de relation, et qu'elle respectait ses obligations de gel des avoirs. Elle savait que c'était faux sur les trois points : ses distributeurs ne lui répondaient pas et son outil de détection était défectueux.",
+      "textes": ["instruction ACPR n° 2012-I-04 du 28 juin 2012"],
+      "chiffres_cles": ["questions 40, 49, 50, 71, 73 et 186 du questionnaire portant sur 2016"],
+      "issue": "retenu",
+      "precision_issue": "Établi.",
+      "categorie": "autre (à préciser)",
+      "categorie_precision": "informations inexactes transmises au superviseur (questionnaire annuel LCB-FT)",
+      "categories_secondaires": [],
+      "pages": [11]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "Tous les griefs sont établis ; ce sont des « manquements substantiels ».", "pages": [12]},
+      {"texte": "Société déjà sanctionnée en 2015, notamment pour les mêmes défauts d'identification des clients.", "pages": [10, 12]},
+      {"texte": "Le coupon permet des mouvements d'espèces, qui présentent un risque particulier.", "pages": [12]}
+    ],
+    "elements_attenuants": [
+      {"texte": "Actions correctrices prises en compte « dans une certaine mesure ».", "pages": [12]},
+      {"texte": "Les mêmes faits sont reprochés sous plusieurs qualifications (griefs 2, 5 et 6) ; les griefs 3 et 6 sont connexes.", "pages": [12]},
+      {"texte": "Situation financière : c'est elle qui conduit à ne prononcer aucune amende.", "pages": [12]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Réseau de distribution raccordé à l'outil de surveillance en novembre 2017 ; contrôle des distributeurs renforcé.", "pages": [7, 12]},
+      {"texte": "Depuis juin 2018, la société reçoit sans délai l'information sur le moyen de paiement des chargements.", "pages": [6, 12]},
+      {"texte": "Arrêt de la vente du second produit en septembre 2018.", "pages": [7, 10, 12]},
+      {"texte": "Coupon recentré sur les jeux en ligne ; meilleur contrôle des nouveaux sites qui l'acceptent.", "pages": [12]},
+      {"texte": "Nouvelle version de l'interface demandant aux clients de déclarer leur identité ; traitement manuel des données défectueuses depuis octobre 2017 ; compte de gestion centralisé créé en juin 2018.", "pages": [9]},
+      {"texte": "Effectifs du département Conformité renforcés.", "pages": [12]}
+    ],
+    "situation_financiere": {"texte": "Montants masqués par l'ACPR. Résultat positif en 2017 ; en 2018, forte baisse du chiffre d'affaires et perte ; nouvelle perte attendue en 2019. Fin mars 2019, les fonds propres étaient inférieurs au minimum réglementaire, et l'augmentation de capital décidée le 21 mars 2019 n'avait pas été versée au jour de l'audience. La Commission en conclut qu'il n'y a pas lieu de prononcer d'amende.", "pages": [3, 12]},
+    "cause_profonde": {"texte": "La décision ne désigne pas une cause en ces termes, mais son raisonnement en montre une : la société appliquait au coupon une dispense à laquelle il n'avait pas droit. Elle n'identifiait donc pas ses clients, et sans identité fiable, ni le filtrage ni le traitement des alertes ne pouvaient fonctionner. S'y ajoute la dépendance à des distributeurs qui ne répondaient pas.", "pages": [5, 8, 9]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Pour chaque produit qui bénéficie d'une dispense ou d'une vigilance allégée : qui a vérifié, par écrit, que toutes les conditions sont remplies ? Le contrôle interne le revérifie-t-il quand le produit évolue (nouveaux sites, nouveaux usages) ?",
+      "Connaît-on la liste exacte des commerçants qui acceptent le produit ? Peut-elle s'allonger sans que l'établissement le sache ?",
+      "Les ventes rapprochées dans un même point de vente (fractionnement sous le plafond) sont-elles détectées, et le client est-il alors identifié ?",
+      "Que se passe-t-il quand un distributeur ne répond pas à une demande sur une alerte ? Y a-t-il un délai, une relance, une sanction prévue au contrat, jusqu'à l'arrêt de la relation ?",
+      "Toute l'activité est-elle raccordée à l'outil de surveillance, avec des données opération par opération et non des totaux ?",
+      "La base de clients permet-elle le filtrage : date et lieu de naissance réels, noms complets, alphabets étrangers correctement enregistrés ? Existe-t-il un indicateur de qualité des données ?",
+      "Combien d'alertes de filtrage sont en attente, et depuis quand ?",
+      "Une non-conformité constatée par l'audit ou un comité a-t-elle un responsable, une échéance et un suivi ?",
+      "Les réponses au questionnaire annuel de l'ACPR sont-elles relues par quelqu'un qui connaît l'état réel du dispositif ?",
+      "L'identité d'un client seulement déclarée sur un site partenaire est-elle vérifiée ensuite sur une pièce ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["monnaie électronique", "jeux en ligne", "coupons", "buralistes", "espèces", "dispense R. 561-16", "réseau limité", "fractionnement", "Norvège", "Malte", "qualité des données", "alertes non traitées", "distributeurs", "externalisation", "questionnaire annuel", "déjà sanctionnée", "blâme sans amende", "situation financière", "textes clairs", "agent et distributeur"],
+    "pages_prioritaires": [
+      {"pages": [4, 5], "pourquoi": "la dispense de la monnaie électronique et la notion de réseau limité ; une exception se lit strictement"},
+      {"pages": [7], "pourquoi": "une alerte non traitée reste un manquement, même si le distributeur ne répond pas"},
+      {"pages": [7, 8], "pourquoi": "ce que donne un filtrage sur une base de données inutilisable"},
+      {"pages": [10], "pourquoi": "le fractionnement des achats de coupons"},
+      {"pages": [12], "pourquoi": "pourquoi il n'y a pas d'amende"}
+    ],
+    "confiance": "élevée",
+    "a_verifier": [
+      "Décision anonymisée : je n'ai pas cherché à identifier l'établissement. Je n'ai repris que ce qui sert à comprendre (jeux en ligne, joueurs résidant en Norvège, sites à Malte).",
+      "Antécédent : la décision donne la date exacte de la sanction de 2015 (p. 10). Je ne l'ai pas reprise, parce qu'elle permettrait de retrouver l'établissement dans le recueil de l'ACPR. Même raison pour ne pas relier cette fiche à celle de 2015 sur le site. À décider par toi.",
+      "Le texte officiel laisse passer, page 7, le nom d'un outil informatique. Je ne le reprends pas. Même consigne que pour les autres noms résiduels (session 3).",
+      "Grief 3 : rangé dans « gel des avoirs », avec les personnes politiquement exposées en catégorie secondaire, alors qu'il couvre les deux à égalité. À valider pour les comptages.",
+      "Griefs 1 et 8 : classés « autre ». Le grief 1 est le même sujet que le grief 3 de la fiche 2018-08.",
+      "Les 8 griefs sont « retenu » : la décision dit « tous les griefs sont établis » (p. 12), alors que le rapporteur proposait d'écarter le grief 4 et de réduire ou relativiser les griefs 3, 5 et 7.",
+      "Sanction : le dispositif (article 2) dit seulement « publiée au registre » ; la durée de 5 ans sous forme nominative est dans les motifs (p. 12).",
+      "Page 11, la décision donne à l'instruction de 2012 un titre qui parle des « changeurs manuels », différent du titre cité page 2. Probable coquille, non corrigée."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Fable 5.2), à partir du texte extrait du PDF officiel", "date": "2026-11-12", "relue_par_mateo": false}
+}

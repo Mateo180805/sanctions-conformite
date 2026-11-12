@@ -1,0 +1,242 @@
+{
+  "id": "ACPR-2018-06",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT et gel des avoirs",
+  "resume_court": "L'« établissement A » est une petite banque d'une soixantaine de salariés qui fait trois métiers très différents : de la banque privée, des transferts d'argent vers des pays émergents, surtout africains, et du courtage en ligne. Entre 2015 et 2018, elle a aussi ouvert des comptes à des exportateurs français pour encaisser des paiements venus d'un pays que la décision ne nomme pas. La Commission lui reproche d'abord de mal connaître ses clients : dans la majorité des dossiers examinés, rien de précis sur leurs revenus ou leur patrimoine, la banque se reposant sur des relations anciennes avec eux ou leur famille. Faute de cette connaissance, des opérations importantes n'ont été ni examinées ni déclarées à Tracfin. Elle retient aussi une classification des risques qui traitait tous les pays de destination de la même façon, et un contrôle interne qui n'avait pas regardé deux de ses trois métiers en cinq ans. En revanche, elle écarte presque tout le reproche sur le contrôle des opérations liées à ce pays, que la banque a su justifier. Sanction : un blâme et 200 000 euros, la moitié de ce que demandait la poursuite.",
+  "identite": {
+    "etablissement": "anonymisé (« établissement A »)",
+    "type_etablissement": "établissement de crédit",
+    "precision_type": "Trois activités : banque privée ; transferts d'argent pour des personnes originaires de pays émergents, en relation avec des banques étrangères, principalement africaines ; un site de courtage en ligne. De 2015 à novembre 2018, elle a aussi ouvert des comptes à des sociétés qui exportent vers le « pays A », pour faciliter l'encaissement de leurs créances, en relation avec des banques de ce pays.",
+    "groupe": "non précisé",
+    "pays": "France",
+    "activite_et_taille": "Une soixantaine de salariés fin 2018. Nombre de clients, produit net bancaire, résultat et fonds propres masqués par l'ACPR.",
+    "pages": [1, 2]
+  },
+  "controle": {
+    "controle_sur_place": "du 4 mai au 7 septembre 2017",
+    "rapport_de_controle": "signé le 9 avril 2018",
+    "ouverture_de_la_procedure": "décidée le 10 septembre 2018, Commission saisie le 25 septembre 2018",
+    "antecedents": "Contrôle sur place au second semestre 2011, suivi d'une lettre de suite du 19 avril 2012. La poursuite relève que plusieurs demandes de cette lettre n'avaient pas été suivies d'effet (griefs 1, 2, 5 et 6).",
+    "pages": [1, 3]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 200000,
+    "publication": "anonymisée aujourd'hui",
+    "duree_publication_nominative": "décidée nominative pendant 5 ans, puis forme anonyme",
+    "proposition_du_college": "blâme et 400 000 euros, publication nominative",
+    "pages": [1, 2, 13]
+  },
+  "procedure": {
+    "questions_de_procedure": "La banque contestait la régularité de la procédure : la poursuite se serait écartée du rapport de contrôle, aurait utilisé une pièce d'origine inconnue qui n'y était pas annexée, et lui reprochait de ne pas avoir suivi la lettre de 2012 alors que le contrôle ne portait pas là-dessus. La Commission rejette tout : chacun peut verser de nouvelles pièces au dossier dès lors qu'elles sont discutées par les deux parties ; rien n'interdit de rappeler les suites d'un contrôle plus ancien ; et le rapport de contrôle ne lie pas le Collège, seul compétent pour dire ce qu'il reproche. Autre débat (grief 1) : les textes de fin 2016 s'appliquaient-ils avant leurs décrets ? Oui, parce qu'ils étaient clairs. Audience non publique. Le rapporteur jugeait les 11 griefs établis, dont au moins 3 à relativiser (4, 7 et 9).",
+    "pages": [1, 3, 4]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Une classification des risques qui ne distinguait pas les pays",
+      "resume": "Le document de mars 2017 affirmait que les pays de destination des transferts n'étaient « en pratique » pas utilisés pour blanchir, surtout en monnaie locale, et que la petite taille des envois réduisait beaucoup le risque. Or trois de ces pays présentent, selon le GAFI et son équivalent ouest-africain, un risque élevé de financement du terrorisme, et des fonds illicites peuvent très bien être envoyés en petites opérations fractionnées. Le même seuil de surveillance s'appliquait à tous les pays. Les risques liés aux relations avec les banques étrangères et aux personnes politiquement exposées n'y figuraient pas non plus. La banque répondait qu'elle appliquait une vigilance renforcée à tous ses transferts ; la Commission répond que cela ne dispense pas d'évaluer et de hiérarchiser les risques pays par pays, et que choisir ses clients à l'entrée n'est pas classer ses risques. La classification peut tenir en plusieurs documents, mais l'ensemble doit faire ressortir une évaluation détaillée.",
+      "textes": ["CMF L. 561-4-1", "CMF R. 561-38 (ancien)", "arrêté du 3 novembre 2014, art. 57 à 59"],
+      "chiffres_cles": ["document « Dispositif LCB-FT » de mars 2017", "deux pays sous surveillance rapprochée de l'organisme ouest-africain ; un troisième jugé « non conforme » pour 24 des 49 recommandations du GAFI", "7 personnes politiquement exposées identifiées parmi les clients, sans que ce risque figure dans la classification"],
+      "issue": "retenu",
+      "precision_issue": "« Établi dans son ensemble ».",
+      "categorie": "classification des risques",
+      "categorie_precision": "risque pays, correspondance bancaire, personnes politiquement exposées",
+      "categories_secondaires": [],
+      "pages": [3, 4, 5]
+    },
+    {
+      "numero": "2",
+      "titre": "Des personnes politiquement exposées non recherchées",
+      "resume": "Aucune procédure ne prévoyait de repérer les personnes politiquement exposées parmi les clients des transferts de fonds, ni de vérifier, pour les autres activités, si un client le devenait en cours de relation. Une procédure de mars 2017 le prévoyait pour les conseillers de banque privée, mais son entrée en vigueur attendait la mise à jour d'un formulaire, qui n'était pas faite. La banque invoquait le dispositif d'un établissement tiers et le faible nombre ou montant des opérations : sans effet, elle reste responsable de sa propre détection. Ce manquement avait déjà été signalé dans la lettre de 2012.",
+      "textes": ["CMF L. 561-32", "CMF R. 561-20 (II, 1°)"],
+      "chiffres_cles": ["7 clients de transferts de fonds dont l'identité correspondait à celle de personnes politiquement exposées, non détectés", "abonnement à une base de données spécialisée souscrit en janvier 2017"],
+      "issue": "retenu",
+      "precision_issue": "Établi, mais « relativisé » : 7 dossiers seulement, rapportés au nombre de clients.",
+      "categorie": "personnes politiquement exposées et vigilance renforcée",
+      "categorie_precision": "détection",
+      "categories_secondaires": ["procédures et contrôle interne"],
+      "pages": [5, 6]
+    },
+    {
+      "numero": "3",
+      "titre": "Un contrat d'externalisation sans clause de confidentialité",
+      "resume": "La banque confiait une partie de son contrôle interne à un prestataire. Le contrat ne prévoyait rien pour protéger les informations confidentielles sur la banque et ses clients, alors que le prestataire avait accès aux dossiers des clients, aux répertoires du back-office et à l'outil de gestion de la relation client.",
+      "textes": ["arrêté du 3 novembre 2014, art. 239 b)"],
+      "chiffres_cles": ["contrat du 19 décembre 2016"],
+      "issue": "retenu",
+      "precision_issue": "Établi : la banque n'apporte aucun élément contraire.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "externalisation du contrôle interne ; grief hors LCB-FT (protection des informations confidentielles)",
+      "categories_secondaires": [],
+      "pages": [6]
+    },
+    {
+      "numero": "4",
+      "titre": "Contrôle permanent : un reproche presque entièrement écarté",
+      "resume": "Premier reproche : aucune des opérations d'avril 2017 liées au « pays A » n'aurait été contrôlée, et des écarts entre factures et virements seraient restés sans explication. Écarté : la banque a montré l'existence de contrôles de premier et de second niveau (attestation d'un ancien directeur, notes d'un comité dédié), a expliqué les écarts (des commandes payées en partie seulement, jamais plus que le montant facturé), et il n'est pas démontré que ces opérations, menées à l'initiative et sous la surveillance des pouvoirs publics, présentaient un risque très élevé. Second reproche : six clients de transferts de fonds avaient dépassé le seuil interne de 1 500 euros sur trente jours sans que la banque les interroge sur l'origine des fonds. Retenu pour trois d'entre eux seulement ; pour les trois autres, les explications recueillies sur simple déclaration étaient conformes à la procédure de la banque.",
+      "textes": ["arrêté du 3 novembre 2014, art. 11 a) et 71"],
+      "chiffres_cles": ["83 opérations en avril 2017 pour 28,8 millions d'euros selon la poursuite, 67 selon la banque (branche écartée)", "7 écarts entre factures et virements entre décembre 2015 et mars 2017 (branche écartée)", "seuil interne : 1 500 euros sur trente jours glissants pour les opérations en espèces ou par chèque", "6 dossiers reprochés, 3 retenus"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Établi que dans un périmètre très fortement réduit ». Les trois dossiers retenus représentent une très faible part de l'activité.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "contrôle permanent",
+      "categories_secondaires": ["analyse des alertes et examen renforcé"],
+      "pages": [7, 8]
+    },
+    {
+      "numero": "5",
+      "titre": "Deux métiers sur trois jamais audités en cinq ans",
+      "resume": "Le contrôle périodique n'avait pas examiné, en cinq ans, le dispositif anti-blanchiment de la banque traditionnelle ni celui du courtage en ligne, alors que la classification des risques de la banque y voyait elle-même un risque de fraude fiscale pour la première et un risque de blanchiment maquillé en gains de marché pour le second. La banque disait le courtage peu risqué parce que les clients interviennent sur des marchés organisés : cela ne se déduit pas de manière générale. Un tableau de suivi des suites du contrôle précédent n'est pas une mission d'audit indépendante. Point déjà relevé en 2012.",
+      "textes": ["CMF R. 561-38", "arrêté du 3 novembre 2014, art. 25 et 17"],
+      "chiffres_cles": ["5 ans sans contrôle périodique sur deux activités"],
+      "issue": "retenu",
+      "precision_issue": "Établi. L'absence de contrôle du courtage en ligne n'était pas contestée.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "contrôle périodique",
+      "categories_secondaires": [],
+      "pages": [8]
+    },
+    {
+      "numero": "6",
+      "titre": "Bénéficiaires effectifs de deux banques étrangères et d'une fiducie non identifiés",
+      "resume": "La banque n'avait pas identifié les bénéficiaires effectifs de deux banques du « pays A » avec lesquelles elle travaillait : elle connaissait leurs dirigeants, mais sans document sur la répartition du capital, rien ne permettait de dire qu'ils en étaient les bénéficiaires effectifs. Pour une fiducie cliente, elle n'avait pas le contrat de fiducie, pièce décisive pour savoir à qui elle profite. Point déjà relevé en 2012.",
+      "textes": ["CMF L. 561-5", "CMF R. 561-1", "CMF R. 561-3", "CMF R. 561-7"],
+      "chiffres_cles": ["3 dossiers : 2 banques étrangères, 1 fiducie"],
+      "issue": "retenu",
+      "precision_issue": "Établi, mais « relativisé » : ces entrées en relation se sont faites dans des circonstances particulières, en lien avec les autorités publiques.",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "bénéficiaires effectifs",
+      "categories_secondaires": ["dispositif de groupe, filiales et correspondance bancaire"],
+      "pages": [8, 9]
+    },
+    {
+      "numero": "7",
+      "titre": "Revenus et patrimoine des clients inconnus dans la majorité des dossiers",
+      "resume": "La banque privée demande une connaissance approfondie du client : la banque le reconnaissait elle-même, ces comptes ayant des mouvements irréguliers et hétérogènes. Pourtant la plupart des dossiers examinés ne contenaient rien de précis ni de justifié sur les revenus ou le patrimoine, et les fiches étaient anciennes, jamais mises à jour. Même constat pour des clients qui avaient fait au moins dix transferts de fonds. La banque faisait valoir que l'arrêté de 2009 liste des informations « susceptibles d'être recueillies », donc facultatives : la Commission répond qu'il faut dans tous les cas une connaissance suffisante du client. Pour un compte peu actif ou inactif, il faut soit mettre les informations à jour, soit mettre fin à la relation.",
+      "textes": ["CMF L. 561-6", "CMF R. 561-12", "arrêté du 2 septembre 2009"],
+      "chiffres_cles": ["52 dossiers reprochés, 50 retenus (la poursuite en abandonne 2)", "34 dossiers de particuliers sur 55 examinés, 9 dossiers de sociétés sur 19 examinés, 9 clients de transferts de fonds", "échantillon total : 74 dossiers"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Établi dans un périmètre légèrement réduit à 50 dossiers sur les 52 reprochés ». La Commission juge ce taux de non-conformité « très élevé ».",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "revenus et patrimoine ; banque privée",
+      "categories_secondaires": ["vigilance constante et mise à jour des dossiers"],
+      "pages": [9, 10]
+    },
+    {
+      "numero": "8",
+      "titre": "Trois dossiers sans examen renforcé",
+      "resume": "Premier dossier : quatre virements pour plus de 148 000 euros, ordonnés par la mère de la cliente, et un dépôt de 12 500 euros en espèces, sans aucun document ; que les fonds circulent entre deux comptes de la même banque ne dispense pas de rechercher leur origine. Deuxième dossier : un retrait de 50 000 euros en espèces, déclaré en douane à l'arrivée dans un autre pays. Troisième dossier : huit transferts en espèces, chacun au-dessus du seuil interne, avec pour seul motif « aide familiale », d'un client dont la banque ignorait profession, revenus et patrimoine.",
+      "textes": ["CMF L. 561-10-2 (II)"],
+      "chiffres_cles": ["3 dossiers, tous retenus", "4 virements pour plus de 148 000 euros entre mars 2015 et août 2016 ; dépôt de 12 500 euros en espèces", "retrait de 50 000 euros en espèces le 10 mai 2017", "8 transferts pour 37 900 euros entre janvier 2016 et février 2017 ; transfert moyen en espèces de la banque : 820 euros"],
+      "issue": "retenu",
+      "precision_issue": "« Établi en totalité ».",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [10]
+    },
+    {
+      "numero": "9",
+      "titre": "Six dossiers qui auraient dû être déclarés à Tracfin",
+      "resume": "Deux dossiers de comptes. Dans le premier, 110 000 euros reçus en trois virements, présentés comme le prix d'un bien immobilier vendu à l'étranger, mais passés par une société de change d'un pays tiers, sans rien qui relie la vente aux fonds et sans pouvoir identifier qui payait. Dans le second, des dépôts d'espèces et des virements très élevés sur le compte d'un client dont le dossier disait seulement « gérant », puis un virement vers une société des îles Vierges britanniques justifié par deux factures de joaillier : la Commission parle d'une banque « particulièrement négligente ». Quatre dossiers de transferts vers l'Afrique, pour des montants cumulés élevés et sans origine des fonds justifiée. Rappels : que les fonds viennent d'une autre banque ne dispense pas de déclarer ; bloquer les opérations d'un client ne remplace pas la déclaration.",
+      "textes": ["CMF L. 561-15 (I)", "CMF L. 561-15 (III)"],
+      "chiffres_cles": ["6 dossiers, tous retenus", "deux virements de 40 000 euros et un de 30 000 euros en décembre 2016", "2 millions d'euros reçus d'un établissement financier ; environ 300 000 dollars reçus d'une banque à Genève ; 390 700 dollars virés le 18 avril 2016", "transferts cumulés de près de 20 000 à plus de 120 000 euros par client"],
+      "issue": "retenu",
+      "precision_issue": "« Entièrement établi ». Le rapporteur proposait de le relativiser ; la décision ne le fait pas.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [10, 11]
+    },
+    {
+      "numero": "10",
+      "titre": "Des clients déjà déclarés qui continuent, sans nouvelle déclaration",
+      "resume": "Quand un client déjà déclaré à Tracfin poursuit le même type d'opérations, il faut en informer Tracfin par une déclaration complémentaire. Cinq clients ont continué : dépôts d'espèces présentés comme des loyers perçus à l'étranger, remises de chèques tirés sur le compte personnel du client ou sur sa société, nouveaux transferts sans rapport avec la profession connue. Le silence de Tracfin après une déclaration ne dispense pas de le tenir informé de la suite.",
+      "textes": ["CMF L. 561-15 (V)"],
+      "chiffres_cles": ["5 dossiers, tous retenus : 2 sur des comptes courants, 3 sur des transferts de fonds", "un client déclaré en 2008 puis en 2012"],
+      "issue": "retenu",
+      "precision_issue": "« Entièrement établi ».",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "déclarations complémentaires",
+      "categories_secondaires": [],
+      "pages": [11, 12]
+    },
+    {
+      "numero": "11",
+      "titre": "Gel des avoirs : un filtrage des transferts trop strict sur l'orthographe",
+      "resume": "L'outil qui comparait les donneurs d'ordre des transferts aux listes de gel n'a donné aucune alerte pour dix clients qui portaient le même nom et le même prénom que des personnes visées. La poursuite l'expliquait par un réglage exigeant une correspondance parfaite (« exact match »), qu'une simple inversion du nom et du prénom mettait en échec. La banque le contestait et disait appliquer 90 % depuis 2016 ; faute de preuve contraire, la Commission écarte ce point précis. Mais l'absence d'alerte sur ces dix homonymes suffit à montrer des critères trop restrictifs, quel que soit le pourcentage. Les contrôleurs avaient aussi constaté qu'une alerte disparaissait si l'on ajoutait un espace dans le nom.",
+      "textes": ["arrêté du 3 novembre 2014, art. 47"],
+      "chiffres_cles": ["68 transferts exécutés pour 10 clients homonymes de personnes visées, sans alerte", "8 de ces clients portaient le nom d'une même personne, visée depuis 2012", "taux de concordance de 90 % selon la banque depuis 2016"],
+      "issue": "retenu en partie",
+      "precision_issue": "Établi, « sous réserve de ce qui a été indiqué sur le taux de concordance paramétré » : l'affirmation d'un réglage à 100 % est écartée, le défaut de détection est retenu.",
+      "categorie": "gel des avoirs et sanctions financières",
+      "categorie_precision": "paramétrage du filtrage des transferts",
+      "categories_secondaires": [],
+      "pages": [12]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "Nature et durée des manquements.", "pages": [13]},
+      {"texte": "Le défaut de connaissance des clients porte sur une part très élevée de l'échantillon et a entraîné, dans plusieurs dossiers, des défauts d'examen renforcé et de déclaration.", "pages": [10, 13]},
+      {"texte": "Plusieurs insuffisances avaient déjà été signalées dans la lettre de suite de 2012 (rappelé par la poursuite ; la Commission ne le reprend pas dans ses motifs sur la sanction).", "pages": [6, 8, 9]}
+    ],
+    "elements_attenuants": [
+      {"texte": "Grief 2 relativisé (7 dossiers).", "pages": [6, 13]},
+      {"texte": "Les reproches liés aux banques du « pays A » (griefs 4 et 6) s'apprécient au regard de la nature des opérations et du contexte dans lequel la banque y a pris part, en lien avec les autorités publiques.", "pages": [7, 9, 13]},
+      {"texte": "Peu de dossiers retenus sur le contrôle des transferts de fonds.", "pages": [8, 13]},
+      {"texte": "Actions correctrices prises en compte « dans une certaine mesure » et « sous réserve de vérification ».", "pages": [13]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Classification des risques actualisée.", "pages": [13]},
+      {"texte": "Courtage en ligne ajouté au plan d'audit.", "pages": [13]},
+      {"texte": "Base de clients améliorée pour y faire figurer les éléments de patrimoine.", "pages": [13]},
+      {"texte": "Activité avec les exportateurs vers le « pays A » arrêtée en novembre 2018 ; convention de compte avec une banque de ce pays résiliée après une demande de retrait d'espèces non justifiée.", "pages": [1, 2]}
+    ],
+    "situation_financiere": {"texte": "Chiffres masqués par l'ACPR. La décision ne dit pas comment la situation financière a pesé sur le montant.", "pages": [2, 13]},
+    "cause_profonde": {"texte": "La décision fait le lien elle-même : la banque ne réunissait pas d'informations précises et justifiées sur ses clients, et ce défaut « a eu pour conséquence », dans plusieurs dossiers, l'absence d'examen renforcé et de déclaration. En banque privée, des relations de proximité, parfois anciennes, avec les clients ou leur famille tenaient lieu de connaissance du client : cela ne suffit pas.", "pages": [13]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "La classification des risques donne-t-elle un niveau de risque pays par pays, à partir des publications du GAFI et des organismes régionaux, y compris quand toute l'activité vise des pays jugés sensibles ?",
+      "Les seuils de surveillance des transferts tiennent-ils compte du pays de destination ?",
+      "Chaque dossier de banque privée contient-il des éléments précis et justifiés sur les revenus et le patrimoine, avec une date de mise à jour ?",
+      "Les comptes peu actifs ou inactifs sont-ils mis à jour ou clôturés ?",
+      "Les clients de transferts de fonds sont-ils comparés aux listes de personnes politiquement exposées ? Les clients existants sont-ils repassés régulièrement ?",
+      "Une procédure adoptée est-elle réellement en vigueur, ou attend-elle un formulaire ou un outil ?",
+      "Pour une banque cliente ou partenaire étrangère : a-t-on un document sur la répartition du capital ? Pour une fiducie : a-t-on le contrat ?",
+      "Après une déclaration de soupçon, les opérations suivantes du client sont-elles suivies, avec une déclaration complémentaire si elles continuent ?",
+      "Le filtrage gel des avoirs résiste-t-il à une inversion nom/prénom, à un espace ajouté, à une variante d'orthographe ? Est-il testé avec des cas réels ?",
+      "Le plan d'audit couvre-t-il toutes les activités sur un cycle court, y compris les petites ?",
+      "Les contrats d'externalisation protègent-ils les données des clients ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["banque privée", "transferts de fonds", "Afrique", "courtage en ligne", "correspondance bancaire", "risque pays", "GAFI", "fractionnement", "revenus et patrimoine", "relation de proximité", "fiducie", "bénéficiaires effectifs", "déclaration complémentaire", "homonymes", "« exact match »", "lettre de suite de 2012", "contrôle périodique", "externalisation", "recours rejeté par le Conseil d'État"],
+    "pages_prioritaires": [
+      {"pages": [3], "pourquoi": "le rapport de contrôle ne lie pas le Collège ; pièces nouvelles admises"},
+      {"pages": [4, 5], "pourquoi": "ce qu'on attend d'une classification des risques, pays par pays"},
+      {"pages": [7, 8], "pourquoi": "comment une banque fait tomber un grief avec des preuves de contrôle"},
+      {"pages": [9, 10], "pourquoi": "connaissance du client en banque privée"},
+      {"pages": [11, 12], "pourquoi": "exemples de soupçon et déclarations complémentaires"},
+      {"pages": [13], "pourquoi": "le lien entre mauvaise connaissance du client et défauts de déclaration"}
+    ],
+    "confiance": "moyenne à élevée",
+    "a_verifier": [
+      "Décision anonymisée : je n'ai pas cherché à identifier l'établissement ni le « pays A ». Les pays sont désignés par des lettres dans le texte officiel ; je les ai laissés ainsi.",
+      "Le texte officiel laisse passer, page 4, le titre d'une procédure interne qui cite une zone géographique précise, et page 11 une ville et un territoire. Je n'ai repris que ce qui sert à comprendre un indice de soupçon (Genève, îles Vierges britanniques). À toi de voir pour le site.",
+      "Grief 11 : classé « retenu en partie » parce que la Commission écarte expressément « cet aspect du grief » (le réglage à 100 %) tout en disant le grief établi. On pourrait aussi lire « retenu ». À trancher.",
+      "Grief 3 : marqué « grief hors LCB-FT » (confidentialité chez un prestataire), donc exclu des comptages de l'étude. La décision le range pourtant sous le titre « contrôle interne du dispositif de LCB-FT ». À valider.",
+      "Grief 7 : la décision est confuse sur les numéros de dossiers. Elle annonce les particuliers en 7.1 à 7.34 puis parle de « 6 clients de courtage en ligne (dossiers 7.1 à 7.6) » ; elle cite les transferts de fonds en 7.44 à 7.52 puis en 7.45 à 7.51. Je reprends le total de la décision : 50 dossiers sur 52.",
+      "Grief 4 : « 3 retenus sur 6 » est mon décompte à partir de la page 8 (dossiers 4.1 à 4.3 écartés, « 3 autres clients » retenus).",
+      "Grief 9, dossier 9.1 : le total de 110 000 euros est mon addition (40 000 + 40 000 + 30 000).",
+      "Griefs 2 et 6 : classés « retenu » ; la Commission les dit établis mais relativisés.",
+      "Suite : selon le recueil de l'ACPR (et non la décision), le Conseil d'État a rejeté le recours de l'établissement par un arrêt du 15 octobre 2020, n° 432873. Je n'ai pas lu cet arrêt.",
+      "Publication : décidée nominative pour 5 ans (p. 13) ; le texte en ligne est aujourd'hui anonymisé."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Fable 5.2), à partir du texte extrait du PDF officiel", "date": "2026-11-12", "relue_par_mateo": false}
+}

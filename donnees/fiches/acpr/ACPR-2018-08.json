@@ -1,0 +1,182 @@
+{
+  "id": "ACPR-2018-08",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT et gel des avoirs",
+  "resume_court": "La « société A » est un établissement de monnaie électronique agréé au Royaume-Uni, qui vend en France des cartes prépayées chez les buralistes et les marchands de journaux, sans y avoir de filiale : elle y travaille grâce au passeport européen. Certaines de ses cartes sont dites « anonymes » : la loi permet de ne pas vérifier l'identité du porteur tant que la carte reste sous des plafonds très bas. La Commission constate que ces plafonds étaient dépassés sur plus d'un millier de cartes, que la société ne savait pas si ses cartes étaient rechargées en espèces, et surtout que 72 opérations qu'elle jugeait elle-même suspectes n'ont jamais été déclarées à Tracfin, certaines ayant été envoyées par erreur à l'autorité britannique. Elle ne recherchait pas non plus, parmi ses clients, les personnes visées par les mesures françaises de gel des avoirs. La société ne contestait presque rien. Sanction : un blâme et un million d'euros.",
+  "identite": {
+    "etablissement": "anonymisé (« société A »)",
+    "type_etablissement": "établissement de monnaie électronique",
+    "precision_type": "Agréée au Royaume-Uni, avec un service de lutte anti-blanchiment situé en Irlande. Elle exerce en France sous passeport européen. Elle émet la monnaie électronique et fournit des cartes vierges ; des « gestionnaires de programme » les vendent sous leur propre enseigne, directement sur internet ou par des grossistes dont les points de vente sont des buralistes et des points presse. Le principal gestionnaire de programme est aussi son représentant permanent en France. Deux familles de cartes : des cartes non rechargeables dites « anonymes » ou « SDD », vendues sans vérification d'identité, et des cartes rechargeables dites « KYC », qui supposent cette vérification.",
+    "groupe": "non précisé",
+    "pays": "Royaume-Uni (agrément), Irlande (service LCB-FT) ; activité en cause exercée en France",
+    "activite_et_taille": "Effectifs, chiffre d'affaires et bénéfice masqués par l'ACPR. Le bénéfice de 2018 est dit « en forte progression » par rapport à 2016 et 2017. Le principal grossiste représentait plus de 10 000 points de vente. Pour la plupart des clients, la société fait elle-même les vérifications ; pour ceux de trois gestionnaires de programme, elles sont déléguées.",
+    "pages": [1, 2]
+  },
+  "controle": {
+    "controle_sur_place": "du 29 novembre 2017 au 23 février 2018",
+    "rapport_de_controle": "établi le 7 mai 2018",
+    "ouverture_de_la_procedure": "décidée le 12 novembre 2018, Commission saisie le 7 décembre 2018",
+    "antecedents": "non précisé",
+    "pages": [1, 2]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 1000000,
+    "publication": "anonymisée aujourd'hui",
+    "duree_publication_nominative": "décidée nominative pendant 5 ans, puis forme anonyme",
+    "proposition_du_college": "blâme et sanction pécuniaire « qui ne saurait être inférieure à un million d'euros », publication nominative",
+    "pages": [1, 2, 8]
+  },
+  "procedure": {
+    "questions_de_procedure": "Aucune question de procédure. La société ne contestait la réalité d'aucun grief : elle demandait seulement de réduire le périmètre des griefs 1 et 5 et de relativiser le grief 1. Le rapporteur concluait que les 7 griefs étaient établis. Audience non publique. Décision rédigée en « Considérant que ».",
+    "pages": [1, 2]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Des cartes « anonymes » qui dépassaient les plafonds de la dispense",
+      "resume": "Un émetteur de monnaie électronique peut ne pas vérifier l'identité du client si plusieurs conditions sont réunies, dont un plafond de 250 euros stockés sur la carte et une vérification obligatoire pour tout retrait d'espèces de plus de 100 euros. De janvier à novembre 2017, ces conditions n'étaient pas respectées sur une partie des cartes « anonymes » : soldes supérieurs à 250 euros, retraits de plus de 100 euros en France et à l'étranger. La société l'expliquait par les difficultés techniques d'un prestataire, qu'elle a remplacé par sa propre plateforme. Un troisième reproche (une carte anonyme rechargée depuis une autre carte anonyme) est écarté : la société a produit la copie d'une pièce d'identité, et la poursuite ne prouve pas que la vérification n'avait pas été faite à temps.",
+      "textes": ["CMF L. 561-5", "CMF R. 561-5", "CMF L. 561-5-1", "CMF R. 561-12", "CMF R. 561-16 (5°)"],
+      "chiffres_cles": ["1 038 cartes avec plus de 250 euros stockés au 30 novembre 2017", "871 retraits d'espèces de plus de 100 euros en France à partir de 670 cartes, et 156 à l'étranger à partir de 67 cartes", "selon la société : moins de 0,3 % des cartes de ce type ; 1 027 retraits à comparer à 13 741 demandes, refusées à 93 %", "2 chargements de carte à carte les 10 et 12 octobre 2017 (reproche écarté)", "nouvelle plateforme de traitement : environ 4,5 millions d'euros d'investissement"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Établi dans un périmètre réduit » : les deux premiers reproches sont retenus, le troisième écarté. Les explications de la société relativisent les faits sans les remettre en cause.",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "dispense propre à la monnaie électronique (cartes prépayées anonymes)",
+      "categories_secondaires": [],
+      "pages": [3, 4]
+    },
+    {
+      "numero": "2",
+      "titre": "Des porteurs de cartes rechargeables mal connus",
+      "resume": "Pour les cartes rechargeables, qui n'ont droit à aucune dispense, les procédures de la société prévoyaient bien de recueillir des informations sur le client. En pratique, plus de la moitié des dossiers examinés ne disaient rien de la profession, des revenus ou des ressources du client, ou de l'activité et de la solidité financière pour les sociétés.",
+      "textes": ["CMF L. 561-6", "CMF L. 561-5-1", "CMF R. 561-12"],
+      "chiffres_cles": ["22 dossiers en défaut sur un échantillon de 41", "14 particuliers sans profession, revenus ni ressources ; 6 sans revenus ni ressources ; 2 sociétés sans activité ni surface financière connues"],
+      "issue": "retenu",
+      "precision_issue": "Établi, non contesté. Les mesures prises à partir du 5 février 2018, après le début du contrôle, n'y changent rien.",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [4]
+    },
+    {
+      "numero": "3",
+      "titre": "Impossible de savoir si une carte était rechargée en espèces",
+      "resume": "Dans 82 % des cas, les cartes étaient rechargées avec des « coupons » achetés en point de vente. La société ne recueillait ni ne conservait le mode de paiement de ces coupons : elle ignorait donc quelle part des chargements se faisait en espèces. Or la dispense de vérification d'identité est soumise à des conditions strictes sur les chargements en espèces, et un autre texte plafonne ces chargements sur les cartes prépayées. Sans cette information, elle ne pouvait appliquer correctement ni l'un ni l'autre.",
+      "textes": ["CMF L. 561-12", "CMF R. 561-16 (5°)", "CMF D. 315-2", "CMF L. 315-9"],
+      "chiffres_cles": ["82 % des chargements faits par coupon"],
+      "issue": "retenu",
+      "precision_issue": "Établi, non contesté. La solution annoncée à l'audience (traiter tout rechargement par coupon comme un rechargement en espèces, en attendant que le détaillant saisisse l'information) ne répond pas au grief.",
+      "categorie": "autre (à préciser)",
+      "categorie_precision": "recueil et conservation des données sur le chargement de la monnaie électronique",
+      "categories_secondaires": [],
+      "pages": [4, 5]
+    },
+    {
+      "numero": "4",
+      "titre": "Cinq clients aux opérations inhabituelles, sans examen renforcé",
+      "resume": "Les opérations de cinq clients étaient très élevées par rapport à l'opération moyenne de la société. Comme elle ne savait presque rien de ces clients, elle ne pouvait pas en comprendre la raison économique et aurait dû les examiner de près.",
+      "textes": ["CMF L. 561-10-2"],
+      "chiffres_cles": ["5 dossiers, tous retenus", "2 cartes avec un solde supérieur à 10 000 euros", "plus de 10 000 euros de coupons en un mois sur une carte", "un client : 422 chargements par coupon (jusqu'à 3 par jour) pour plus de 84 000 euros en 8 mois, environ 7 000 euros de retraits d'espèces et plus de 50 000 euros d'achats auprès d'une seule société"],
+      "issue": "retenu",
+      "precision_issue": "« Intégralement établi », non contesté.",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [5]
+    },
+    {
+      "numero": "5",
+      "titre": "72 déclarations de soupçon jamais parvenues à Tracfin",
+      "resume": "Un établissement étranger qui distribue de la monnaie électronique en France par des agents ou des distributeurs doit y désigner un représentant permanent, chargé de faire les déclarations à Tracfin en son nom. Entre février 2017 et le début du contrôle, la société avait repéré des opérations suspectes sur son activité française sans que son représentant permanent les déclare toutes. La société discutait le nombre : son rapport annuel serait faux, des déclarations auraient été comptées en double auprès de l'autorité britannique (la National Crime Agency), et 11 lui auraient été envoyées par erreur. La Commission ne réduit pas le chiffre : les doublons ne sont pas expliqués, l'erreur de destinataire n'excuse rien, et les déclarations envoyées en décembre 2017, après le début du contrôle, ne comptent pas.",
+      "textes": ["CMF L. 561-3 (IV, B)", "CMF L. 561-15"],
+      "chiffres_cles": ["72 déclarations de soupçon non transmises à Tracfin entre février et fin novembre 2017", "arguments de la société : total à ramener à 116 ; 27 déclarations comptées « en doublon » ; 11 envoyées par erreur à l'autorité britannique ; 31 adressées en décembre 2017"],
+      "issue": "retenu",
+      "precision_issue": "Établi. La société demandait un périmètre réduit ; la Commission ne le réduit pas. Le rapporteur proposait de relativiser ce grief ; la décision ne le fait pas.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "transmission par le représentant permanent en France",
+      "categories_secondaires": [],
+      "pages": [5, 6]
+    },
+    {
+      "numero": "6",
+      "titre": "Huit dossiers qui auraient dû être déclarés",
+      "resume": "Sept dossiers relèvent du soupçon « classique » : rechargements en espèces ou par coupon de montants inhabituels sans origine des fonds connue, paiements ou transferts sans objet connu, retraits d'espèces au-delà du plafond réglementaire de 1 000 euros par mois, plus de 10 000 euros stockés sur une carte, et, pour deux clients, des informations publiques très défavorables qui n'ont pas été prises en compte. La société avait parfois bloqué la carte : la Commission rappelle que bloquer ne remplace pas déclarer. Le huitième dossier relève du soupçon de fraude fiscale : une carte utilisée comme compte de passage, qui recevait des virements d'une société (souvent 500 euros, plusieurs fois par jour) aussitôt transférés ou retirés en espèces. La société a parlé de salaires après coup, sans pouvoir le justifier.",
+      "textes": ["CMF L. 561-15 (I)", "CMF L. 561-15 (II)", "CMF D. 561-32-1 (II, 7°)"],
+      "chiffres_cles": ["8 dossiers, tous retenus : 7 au titre du I, 1 au titre du II (fraude fiscale)", "cartes bloquées sans déclaration dans 4 dossiers"],
+      "issue": "retenu",
+      "precision_issue": "« Établi dans sa totalité », non contesté.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [6, 7]
+    },
+    {
+      "numero": "7",
+      "titre": "Les mesures françaises de gel des avoirs absentes du dispositif",
+      "resume": "Le dispositif de la société ne prenait pas en compte les mesures de gel décidées par la France (à côté des listes européennes). Elle ne pouvait donc ni repérer un porteur de carte visé par une telle mesure, ni bloquer sa carte, ni prévenir le ministre de l'économie. Deux clients visés n'ont pas été détectés ; l'un a continué à payer et à retirer des espèces. La Commission rappelle que le gel des avoirs est une obligation de résultat.",
+      "textes": ["CMF R. 562-2", "CMF L. 562-4 (I)", "CMF L. 562-2", "CMF L. 562-3"],
+      "chiffres_cles": ["2 clients visés par une mesure nationale de gel non détectés", "plusieurs paiements et retraits d'espèces exécutés pour le premier"],
+      "issue": "retenu",
+      "precision_issue": "Établi, non contesté. Le nouvel outil de filtrage, mis en place après le contrôle, n'y change rien.",
+      "categorie": "gel des avoirs et sanctions financières",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [7]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "Nature et durée des manquements ; ils touchent notamment les obligations de déclaration et le gel des avoirs.", "pages": [8]},
+      {"texte": "« Dans un nombre significatif de cas », le représentant permanent n'a pas informé Tracfin d'opérations que la société jugeait elle-même suspectes.", "pages": [7]},
+      {"texte": "Mesures correctrices tardives (argument retenu pour justifier la publication nominative).", "pages": [8]}
+    ],
+    "elements_attenuants": [
+      {"texte": "Actions correctrices prises en compte « dans une certaine mesure », en LCB-FT comme en gel des avoirs.", "pages": [8]},
+      {"texte": "Périmètre du grief 1 réduit.", "pages": [8]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Achat d'une plateforme de traitement propre, à la place du prestataire externe (environ 4,5 millions d'euros).", "pages": [3]},
+      {"texte": "Questionnaire d'accueil sur la relation d'affaires, la profession, les revenus et l'usage prévu de la carte ; application de la limite réglementaire de stockage de 10 000 euros ; alerte sur les retraits d'espèces au-delà d'un seuil.", "pages": [5, 7]},
+      {"texte": "Chaque déclaration est relue par un spécialiste de la conformité situé en France avant son envoi à Tracfin.", "pages": [6]},
+      {"texte": "Nouveaux outils de contrôle et de détection, recours à un prestataire externe, effectifs du département LCB-FT renforcés.", "pages": [7]},
+      {"texte": "Nouveau prestataire de filtrage : toute la base de clients est comparée aux listes de personnes sanctionnées.", "pages": [7]}
+    ],
+    "situation_financiere": {"texte": "Chiffres masqués par l'ACPR. La Commission fixe l'amende « au regard de l'assise financière » de la société ; le bénéfice de 2018 est dit en forte progression.", "pages": [2, 8]},
+    "cause_profonde": {"texte": "La décision ne désigne pas de cause unique. Pour le grief 1, la société met en avant les défaillances techniques d'un prestataire externe ; pour le grief 5, des erreurs de comptage et de destinataire entre l'autorité britannique et Tracfin. Plusieurs griefs (4 et 6) découlent, selon la Commission, de ce que la société ne connaissait pas assez ses clients.", "pages": [3, 5, 6]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Quand un produit bénéficie d'une dispense de vérification d'identité, les plafonds (solde, retraits d'espèces) sont-ils bloqués par le système lui-même, et testés ?",
+      "Quand un prestataire technique fait appliquer ces plafonds, qui vérifie qu'il le fait bien ?",
+      "Sait-on, pour chaque chargement, s'il a été payé en espèces ? L'information est-elle conservée cinq ans ?",
+      "Pour une activité exercée dans un autre pays sous passeport européen : les déclarations de soupçon partent-elles vers la cellule de renseignement du bon pays ? Le nombre de déclarations décidées est-il rapproché du nombre de déclarations réellement reçues par Tracfin ?",
+      "Le représentant permanent a-t-il les moyens et les informations pour déclarer ?",
+      "Bloquer une carte ou un compte déclenche-t-il toujours la question « faut-il déclarer ? »",
+      "Les listes de gel utilisées comprennent-elles les mesures nationales françaises, et pas seulement les listes européennes ou celles du pays du siège ?",
+      "Les informations publiques défavorables sur un client sont-elles recherchées et versées à l'analyse de ses opérations ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["monnaie électronique", "cartes prépayées", "cartes anonymes", "passeport européen", "représentant permanent", "Royaume-Uni", "buralistes", "coupons de rechargement", "espèces", "dispense R. 561-16", "déclarations envoyées à la mauvaise autorité", "gel national", "obligation de résultat", "prestataire technique", "agent et distributeur"],
+    "pages_prioritaires": [
+      {"pages": [2], "pourquoi": "le montage : émetteur britannique, gestionnaires de programme, grossistes, buralistes"},
+      {"pages": [3], "pourquoi": "les conditions de la dispense pour la monnaie électronique"},
+      {"pages": [5, 6], "pourquoi": "le rôle du représentant permanent et les déclarations perdues entre deux pays"},
+      {"pages": [7], "pourquoi": "gel des avoirs : obligation de résultat, mesures nationales"}
+    ],
+    "confiance": "élevée",
+    "a_verifier": [
+      "Décision anonymisée : je n'ai pas cherché à identifier l'établissement. Je n'ai repris que ce qui sert à comprendre (agrément au Royaume-Uni, service LCB-FT en Irlande).",
+      "Grief 5 : le chiffre de 72 est celui de la poursuite, que la Commission ne réduit pas. Le calcul de la société (116, 27, 11, 31) n'est pas détaillé dans la décision : je n'ai pas cherché à le reconstituer.",
+      "Grief 6 : la décision numérote ses dossiers 5.1 à 5.8 (et non 6.1 à 6.8). Probable décalage de numérotation, non corrigé.",
+      "Grief 3 : classé « autre », comme la conservation des données dans la fiche 2019-08. À valider.",
+      "Page 2 : la décision date l'audience du « 6 septembre 2018 » ; l'en-tête et le reste du texte disent 6 septembre 2019. Coquille probable, non corrigée.",
+      "Le rapporteur proposait de relativiser les griefs 1 et 5 ; la décision ne retient comme atténuation que la réduction du grief 1 (p. 8).",
+      "Antécédents et appartenance à un groupe : rien dans la décision.",
+      "Publication : décidée nominative pour 5 ans (p. 8) ; le texte en ligne est aujourd'hui anonymisé."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Fable 5.2), à partir du texte extrait du PDF officiel", "date": "2026-11-12", "relue_par_mateo": false}
+}

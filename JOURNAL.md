@@ -7,7 +7,7 @@ Journal de bord du projet. La session la plus récente est en haut.
 
 ## Session 2 – 12 novembre 2026 (en cours) – Fiches d'analyse ACPR
 
-### État après le lot 4b
+### État après le lot 5
 
 - [x] Format des fiches choisi et validé par Matéo.
 - [x] Essai de la grille sur 3 décisions (2024-06, 2024-02, 2022-07), validé.
@@ -17,9 +17,10 @@ Journal de bord du projet. La session la plus récente est en haut.
 - [x] Lot 3b : 3 décisions (2020-06, 2020-05, 2020-03). Lot 3a déposé sur GitHub par Matéo et vérifié avant de commencer (dépôt identique à la copie de travail).
 - [x] Lot 4a : 3 décisions (2020-02, 2019-08, 2020-01), dans une nouvelle conversation. Dépôt cloné depuis GitHub : il contenait bien le lot 3b.
 - [x] Lot 4b : 3 décisions (2019-07, 2019-06, 2019-04), dans la même conversation. Lot 4a poussé sur GitHub par Matéo et vérifié avant de commencer (dépôt identique à la copie de travail).
-- [ ] Lots suivants : voir « Prochaine étape ».
+- [x] Lot 5 : 3 décisions (2018-08, 2018-06, 2018-03), dans une nouvelle conversation. Dépôt cloné depuis GitHub : il contenait bien le lot 4b (25 fiches, dernier dépôt « Session 2 : lot 4b »).
+- [ ] Lot 6 : repoussé après le site et l'étude (voir « Prochaine étape »).
 
-**25 fiches faites sur 66 décisions LCB-FT** : toutes les décisions LCB-FT et gel des avoirs rendues entre février 2020 et avril 2026. Aucune n'a encore été relue par Matéo (statut « à lire »).
+**28 fiches faites sur 66 décisions LCB-FT** : toutes les décisions LCB-FT et gel des avoirs rendues entre juillet 2019 et avril 2026. Aucune n'a encore été relue par Matéo (statut « à lire »).
 
 | Décision | Établissement | Sanction | Griefs (retenus / en partie / écartés) |
 |---|---|---|---|
@@ -48,13 +49,16 @@ Journal de bord du projet. La session la plus récente est en haut.
 | 2019-07 | anonymisé (établissement de paiement hybride, micro-paiement) | blâme, 20 000 € | 6 / 11 / 4 |
 | 2019-06 | anonymisé (établissement de monnaie électronique luxembourgeois, cagnottes et places de marché) | blâme, 150 000 € | 5 / 1 / 0 |
 | 2019-04 | anonymisé (établissement de paiement, boutiques outre-mer, activité arrêtée) | blâme, 70 000 € | 9 / 1 / 0 |
+| 2018-08 | anonymisé (établissement de monnaie électronique britannique, cartes prépayées vendues chez les buralistes) | blâme, 1 M€ | 6 / 1 / 0 |
+| 2018-06 | anonymisé (petite banque : banque privée, transferts de fonds vers l'Afrique, courtage en ligne) | blâme, 200 000 € | 8 / 3 / 0 |
+| 2018-03 | anonymisé (établissement de monnaie électronique, coupons pour les jeux en ligne) | blâme, sans amende | 8 / 0 / 0 |
 
 ### Le format retenu
 
 - **Une fiche source par décision** : `donnees/fiches/acpr/ACPR-2024-06.json`. Format structuré, pour que le site (session 3) et l'étude comparative (session 4) puissent compter sans ressaisie.
 - **Une version lisible** : `fiches/acpr/ACPR-2024-06.md`, fabriquée automatiquement. C'est elle qu'on lit, à côté du PDF. Il ne faut pas la modifier à la main.
 - **Un programme** : `analyse/fiches.py`. Il n'écrit aucune analyse. Il vérifie chaque fiche (catégories de la grille, pages citées existant dans le PDF, paragraphe « En bref » présent) puis fabrique la version lisible. En cas de problème, il s'arrête en erreur.
-- **Un glossaire commun** : `donnees/glossaire.json` (97 termes depuis le lot 4b). Le programme ajoute en bas de chaque fiche un lexique avec les seuls termes qu'elle emploie.
+- **Un glossaire commun** : `donnees/glossaire.json` (109 termes depuis le lot 5). Le programme ajoute en bas de chaque fiche un lexique avec les seuls termes qu'elle emploie.
 - Pour marquer une fiche comme lue ou y mettre des notes : modifier les deux lignes `"statut"` et `"mes_notes"` au début du fichier .json, puis relancer le programme.
 
 ### Choix faits
@@ -126,6 +130,30 @@ Journal de bord du projet. La session la plus récente est en haut.
 - Glossaire : 14 termes ajoutés (établissement de paiement hybride, micro-paiement, compte de paiement, protection des fonds des clients, piste d'audit, états réglementaires, risque de liquidité, libre établissement, CSSF, cellule de renseignement financier, COSI, hameçonnage, clientèle non bancarisée, financement participatif). 5 fiches lisibles anciennes refaites pour leur lexique.
 - Thèmes qui reviennent : seuils d'alerte sans rapport avec le montant moyen des opérations (2019-04, après 2019-08) ; seuils internes plus souples que la loi (2019-06) ; gel des avoirs non appliqué au premier euro ou pas assez souvent (les trois décisions) ; comptes bloqués pour fraude sans déclaration à Tracfin (2019-07, 2019-06) ; réquisition judiciaire reçue sans déclaration (2019-07, 2019-06, après 2020-02) ; très petite structure et forte baisse de l'amende (2019-07, 2019-06, après 2019-08) ; argument « les textes n'étaient pas clairs », rejeté (2019-06, 2019-04, 2019-07 grief 6, après 2020-01).
 
+### Lot 5 (2018-08, 2018-06, 2018-03) – ce qu'il faut savoir
+
+- Mêmes contrôles : `analyse/fiches.py` (28 fiches, 0 problème), recherche automatique de chaque nombre dans les pages citées (seul écart : le total de 110 000 euros de la fiche 2018-06, grief 9, addition faite par Claude et signalée), issues comparées à la phrase de conclusion de chaque grief. Aucun champ de la base à corriger.
+- Les trois décisions concluent grief par grief (« le grief est établi ») : le modèle 2020-08 a suffi. Les textes ont été lus en entier, sans retirer les citations d'articles (seuls les en-têtes et pieds de page ont été retirés).
+- **2018-08, intérêt pour Matéo** : établissement agréé au Royaume-Uni qui travaille en France sous passeport européen, avec un représentant permanent chargé des déclarations à Tracfin. 72 déclarations ne sont jamais arrivées à Tracfin, certaines parties par erreur vers l'autorité britannique (grief 5). À relire avec 2019-06 avant les sessions CSSF et FINMA. La société ne contestait presque rien : décision courte (8 pages), confiance élevée.
+- **2018-06** : seule fiche à ce stade sur la banque privée. La Commission y fait elle-même le lien entre mauvaise connaissance des clients et défauts de déclaration (p. 13) : utile pour l'étude. Un grief presque entièrement écarté grâce aux preuves apportées par la banque (grief 4, p. 7-8). Recours rejeté par le Conseil d'État le 15 octobre 2020 (information du recueil, arrêt non lu).
+- **2018-06, classements à valider** : grief 11 (gel des avoirs) classé « retenu en partie » parce que la Commission écarte « cet aspect du grief » (réglage à 100 %) tout en le disant établi ; grief 3 (contrat d'externalisation sans clause de confidentialité) marqué « grief hors LCB-FT », donc exclu des comptages de l'étude.
+- **2018-03, intérêt pour l'étude** : deuxième décision sans amende de la base, après 2019-08, mais pour une autre raison (situation financière très dégradée) et alors que les 8 griefs sont retenus et que la société avait déjà été sanctionnée en 2015. La Commission retient un grief que le rapporteur proposait d'écarter (grief 4). Règle nette p. 7 : une alerte non traitée est un manquement, même si c'est le distributeur qui ne répond pas.
+- **2018-03, anonymisation** : la décision donne la date exacte de la sanction de 2015 (p. 10). La fiche dit seulement « sanctionnée en 2015 » : la date permettrait de retrouver l'établissement dans le recueil. Sur le site, ne pas relier les deux fiches. À confirmer par Matéo.
+- Noms résiduels dans les textes officiels, non repris dans les fiches : 2018-03 p. 7 (nom d'un outil informatique) ; 2018-06 p. 4 (titre d'une procédure interne citant une zone géographique). Même consigne que pour les lots 3b et 4a (session 3).
+- Coquilles et incohérences des textes officiels, notées dans les fiches sans rien corriger : 2018-08 p. 2 (audience datée du 6 septembre 2018 pour 2019) et p. 6 (dossiers du grief 6 numérotés 5.1 à 5.8) ; 2018-06 p. 9-10 (numéros de dossiers du grief 7 incohérents) ; 2018-03 p. 11 (titre de l'instruction de 2012 différent de celui de la p. 2).
+- Décomptes faits par Claude : 2018-06 grief 4 (3 dossiers retenus sur 6) et grief 9 (total de 110 000 euros).
+- Classements à valider : le recueil des données de chargement de la monnaie électronique (2018-08 grief 3, 2018-03 grief 1) est rangé dans « autre », comme la conservation des données en 2019-08 ; les réponses inexactes au questionnaire annuel de l'ACPR (2018-03 grief 8) dans « autre » ; le grief 3 de 2018-03, qui couvre à égalité le gel des avoirs et les personnes politiquement exposées, dans « gel des avoirs » avec l'autre catégorie en secondaire.
+- Glossaire : 12 termes ajoutés (représentant permanent, passeport européen, carte prépayée, coupon, gestionnaire de programme, banque privée, courtage en ligne, fiducie, obligation de résultat, réseau limité et éventail limité, questionnaire annuel LCB-FT, back-office). 9 fiches lisibles anciennes refaites pour leur lexique ; leur contenu n'a pas changé.
+- Thèmes qui reviennent : dispense de la monnaie électronique mal appliquée (2018-08, 2018-03, après 2020-08) ; mode de paiement des chargements inconnu, donc part des espèces inconnue (2018-08, 2018-03) ; bloquer une carte ou un compte ne remplace pas la déclaration (2018-08, 2018-06, après 2019-07 et 2019-06) ; mesures nationales de gel oubliées ou filtrage trop strict sur l'orthographe (2018-08, 2018-06, après 2020-09 et 2020-03) ; distributeurs ou prestataires qui ne font pas leur part, sans que cela excuse l'établissement (les trois décisions) ; demandes d'un contrôle précédent restées sans suite (2018-06, 2018-03, après 2020-01) ; argument « les textes n'étaient pas clairs », rejeté (2018-06, 2018-03).
+
+### Décisions de Matéo du 12 novembre (avant le lot 5)
+
+- **Question ouverte 8 (COSI)** : close. La communication systématique d'informations reste rangée avec les déclarations de soupçon à Tracfin, avec une précision de catégorie. Pas de nouvelle catégorie.
+- **Question ouverte 9 (griefs hors LCB-FT d'une décision LCB-FT)** : close. Ils restent dans les fiches, avec la mention « grief hors LCB-FT », et sont exclus des comptages de l'étude comparative.
+- **Fiche 2019-06** : l'indice religieux cité page 11 de la décision reste hors du résumé. La fiche n'est pas modifiée.
+- **Nouvel ordre de travail** : lot 5 (fait), puis le site (session 3), puis l'étude comparative (session 4), et le lot 6 en dernier s'il reste des crédits.
+- Budget : un lot coûte environ 7 % du quota Fable de Matéo ; il lui en restait 52 % avant le lot 5.
+
 ### Incident au dépôt du lot 1
 
 Pendant la copie des fichiers, le dossier `workflows` est sorti de `.github` : GitHub Desktop affichait `collecte.yml` comme supprimé, plus une copie à la racine. Corrigé avant validation (clic droit > Discard changes sur les deux lignes). À surveiller à chaque dépôt : aucune ligne rouge, et le bon nombre de fichiers.
@@ -154,8 +182,10 @@ Pour limiter ce risque : des lots plus courts (3 décisions), et une conversatio
 5. Les champs `statut` et `mes_notes` existent à la fois dans la base et dans la fiche. Proposition : la fiche fait foi ; à trancher en session 3.
 6. Faut-il une quatrième issue « abandonné par la poursuite » ? Un seul cas pour l'instant (2020-06, grief 13), classé « écarté » avec précision. À trancher avant l'étude comparative ; le changement est simple (une ligne dans `analyse/fiches.py`, un champ dans la fiche). Depuis le lot 4a, la poursuite abandonne aussi des dossiers à l'intérieur d'un grief (2020-01).
 7. Anonymisation : tranché le 12 novembre. Une fiche suit le texte officiel en ligne : nom si le PDF le donne, « anonymisé » sinon ; on ne cherche jamais un nom retiré.
-8. Faut-il une catégorie pour les obligations d'information à Tracfin autres que la déclaration de soupçon (COSI) ? Un seul cas pour l'instant (2019-04, grief 8).
-9. Griefs hors LCB-FT d'une décision LCB-FT (2019-07 : griefs 10 à 21, dont sept marqués « hors LCB-FT ») : les garder dans la fiche avec la mention, ou les sortir de l'étude comparative ? Proposition : les garder dans la fiche, les exclure des comptages.
+8. Faut-il une catégorie pour les obligations d'information à Tracfin autres que la déclaration de soupçon (COSI) ? Tranché le 12 novembre : non, la COSI reste avec les déclarations de soupçon, avec une précision.
+9. Griefs hors LCB-FT d'une décision LCB-FT (2019-07 : griefs 10 à 21, dont sept marqués « hors LCB-FT ») : les garder dans la fiche avec la mention, ou les sortir de l'étude comparative ? Tranché le 12 novembre : ils restent dans la fiche et sont exclus des comptages de l'étude.
+10. Fiche 2018-03 : faut-il taire la date exacte de la sanction de 2015 et ne pas relier les deux fiches sur le site ? Choix provisoire de Claude : oui.
+11. Fiche 2018-06 : le grief 11 est-il « retenu » ou « retenu en partie » ? Le grief 3 est-il bien « hors LCB-FT » ?
 
 ### Points à vérifier par Matéo dans les fiches
 
@@ -165,16 +195,19 @@ Décision à lire en premier pour la méthode : 2022-01 (Axa Banque), pages 11 e
 
 ### Prochaine étape
 
-Suite des fiches LCB-FT, des plus récentes aux plus anciennes, par lots de 3. Toutes les décisions restantes sont anonymisées : ne jamais chercher à retrouver l'établissement.
+Ordre décidé par Matéo le 12 novembre : le site d'abord, les fiches restantes ensuite.
 
-- Lot 5 : 2018-08, 2018-06, 2018-03 – 34 pages.
-- Lot 6 : 2018-04, 2017-10, 2018-05 – 28 pages. 2018-05 (radiation, 5 pages) est marquée « hors LCB-FT » dans la base : vérifier à la lecture ; fiche courte si c'est confirmé. On atteint alors janvier 2019 et 31 fiches.
+1. **Session 3 – le site (GitHub Pages)**, dans une nouvelle conversation. À traiter au passage : questions ouvertes 4 (types d'établissement à harmoniser pour les filtres) et 5 (statut et notes : la fiche fait foi ?) ; points ouverts 2 et 3 de la session 1 (adresses officielles et noms de personnes) ; noms résiduels des textes anonymisés à ne pas afficher ni rendre cherchables ; fiches 2020-09 puis 2020-11 dont le nom devra être retiré quand l'ACPR les anonymisera (fin novembre 2026, février 2027) ; question 10 (ne pas relier 2018-03 à la décision de 2015).
+2. **Session 4 – l'étude comparative et la liste des points de contrôle**, sur les 28 fiches. À trancher avant : question 6 (quatrième issue « abandonné par la poursuite ») et question 11. Règles déjà fixées : compter sur la catégorie principale ; exclure les griefs marqués « grief hors LCB-FT ».
+3. **Lot 6, s'il reste des crédits** : 2018-04, 2017-10, 2018-05 – 28 pages. 2018-05 (radiation, 5 pages) est marquée « hors LCB-FT » dans la base : vérifier à la lecture ; fiche courte si c'est confirmé. On atteindrait alors janvier 2019 et 31 fiches. Toutes ces décisions sont anonymisées : ne jamais chercher à retrouver l'établissement.
 
-Calendrier visé : 30 fiches le 13 novembre au soir, site le 14, étude comparative le 15. Si les crédits manquent : s'arrêter après le lot 4b (25 fiches, toutes les décisions rendues de 2020 à 2026) et garder le site, qui compte plus pour un recruteur que cinq fiches de 2018-2019.
+Avant la session 3, Matéo dépose le lot 5 sur GitHub (GitHub Desktop : copier les fichiers, vérifier qu'il n'y a aucune ligne rouge, « Commit to main », puis « Push origin »).
 
-Les lots 4a et 4b ont été faits dans la même conversation : ouvrir une nouvelle conversation pour le lot 5. Une nouvelle conversation tous les deux lots. Message de reprise : « Session 2, suite : lis PROJET.md et JOURNAL.md, récupère le dépôt, prends ACPR-2020-08 comme modèle de fiche anonymisée (ACPR-2019-08 si une décision ne conclut pas grief par grief, ACPR-2019-07 si elle mêle beaucoup de griefs hors LCB-FT) et traite le lot suivant du journal. »
+Message de reprise pour la session 3 : « Session 3 : lis PROJET.md et JOURNAL.md, récupère le dépôt, vérifie qu'il contient bien le lot 5 (28 fiches) et commence le site. »
 
-Reste hors de portée d'ici le 15 novembre : les 36 décisions LCB-FT antérieures à 2019 et les 45 fiches courtes « hors LCB-FT ».
+Message de reprise pour le lot 6, plus tard : « Session 2, suite : lis PROJET.md et JOURNAL.md, récupère le dépôt, prends ACPR-2020-08 comme modèle de fiche anonymisée (ACPR-2019-08 si une décision ne conclut pas grief par grief, ACPR-2019-07 si elle mêle beaucoup de griefs hors LCB-FT) et traite le lot 6 du journal. »
+
+Reste hors de portée pour l'instant : les 38 décisions LCB-FT restantes, toutes antérieures à juillet 2019 (dont celles du lot 6) et les 45 fiches courtes « hors LCB-FT ».
 
 ---
 
