@@ -1,0 +1,191 @@
+{
+  "id": "ACPR-2022-02",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT et gel des avoirs",
+  "resume_court": "La Financière des paiements électroniques propose le compte Nickel, ouvert chez les buralistes, et appartient à BNP Paribas depuis 2017. L'ACPR lui reproche une surveillance incomplète : pas de suivi des dépôts d'espèces alors qu'ils pèsent lourd dans l'activité, rien sur les paiements par carte dans les pays à risque, aucune alerte quand une caisse d'allocations demandait des informations sur un client. S'y ajoutent des erreurs dans l'application du gel des avoirs, 14 opérations suspectes non déclarées et 10 déclarées trop tard. La Commission écarte toutefois plusieurs reproches que la poursuite n'avait pas assez précisément formulés, notamment sur les virements à des détenus. Sanction : un blâme et 1 million d'euros.",
+  "identite": {
+    "etablissement": "Financière des paiements électroniques (FPE), compte Nickel",
+    "type_etablissement": "établissement de paiement",
+    "precision_type": "Société par actions simplifiée agréée comme établissement de paiement en juin 2013.",
+    "groupe": "BNP Paribas depuis juillet 2017 (95 % du capital ; 5 % à la confédération des buralistes)",
+    "pays": "France (siège à Charenton-le-Pont)",
+    "activite_et_taille": "Offre bancaire de base pour les particuliers : un compte sans découvert et une carte. L'ouverture du compte est validée par un agent : 5 680 au moment du contrôle, tous buralistes en métropole. Près d'un million de clients fin 2021, environ trois millions début 2023. Environ 40 % des clients ne déclarent aucun revenu hormis des aides sociales.",
+    "pages": [1, 2, 3, 6]
+  },
+  "controle": {
+    "controle_sur_place": "du 2 juillet 2020 au 1er janvier 2021",
+    "rapport_de_controle": "signé le 5 octobre 2021",
+    "ouverture_de_la_procedure": "décidée le 11 février 2022, Commission saisie le 21 février 2022",
+    "antecedents": "non précisé",
+    "pages": [3]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 1000000,
+    "publication": "nominative",
+    "duree_publication_nominative": "5 ans, puis forme anonymisée",
+    "proposition_du_college": "blâme et 2 millions d'euros, publication nominative pendant 5 ans",
+    "pages": [1, 2, 17]
+  },
+  "procedure": {
+    "questions_de_procedure": "Pas d'exception de procédure. Fil conducteur de la décision : c'est à la poursuite de démontrer précisément le manquement et l'obligation qui le fonde ; plusieurs reproches sont écartés « tels qu'ils sont formulés ».",
+    "pages": [4, 8, 12]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Classification des risques",
+      "resume": "La poursuite reprochait à la classification de ne pas traiter à part deux risques : les virements à des personnes détenues pour terrorisme, et les jeux de hasard et paris (les agents sont des buralistes). La Commission écarte les deux reproches : la poursuite n'explique pas pourquoi la loi imposerait un traitement spécifique de ces sujets dès la classification des risques, plutôt que dans la surveillance des opérations.",
+      "textes": ["CMF L. 561-4-1", "arrêté du 3 novembre 2014, art. 58", "arrêté du 6 janvier 2021, art. 2"],
+      "chiffres_cles": ["non précisé"],
+      "issue": "écarté",
+      "precision_issue": "Écarté « tel qu'il est formulé ».",
+      "categorie": "classification des risques",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [3, 4]
+    },
+    {
+      "numero": "2",
+      "titre": "Surveillance des opérations",
+      "resume": "Sont retenus : l'absence de détection des clients liés à une personne fichée pour terrorisme et elle-même cliente (même adresse, virements entre eux) ; aucun scénario sur les paiements par carte dans les pays à risque ; des zones à risque absentes du scénario sur les retraits d'espèces à l'étranger ; les demandes des caisses d'allocations familiales ou d'assurance maladie non traitées comme des signaux d'alerte ; aucune surveillance des dépôts d'espèces, que le plafonnement des dépôts ne remplace pas. Sont écartés : le retard à détecter les virements à des détenus (reproche trop incertain) et l'absence de scénario dédié aux achats en armurerie.",
+      "textes": ["CMF L. 561-6", "CMF R. 561-12-1", "CMF L. 561-32", "CMF R. 561-38", "arrêté du 3 novembre 2014, art. 46, 49 et 50"],
+      "chiffres_cles": ["les dépôts d'espèces sont la deuxième catégorie d'opérations des clients, en nombre comme en montant", "environ 40 % de clients sans autre revenu déclaré que des aides sociales"],
+      "issue": "retenu en partie",
+      "precision_issue": "Fondé dans un périmètre réduit. Sur les virements à des détenus, la Commission dit qu'un tel établissement doit pouvoir les détecter et les analyser, mais ne parvient pas à mesurer ce que la poursuite reproche exactement.",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [5, 6, 7, 8]
+    },
+    {
+      "numero": "3",
+      "titre": "Application du gel des avoirs",
+      "resume": "Sur 20 dossiers de clients sous mesure de gel : trois comptes ont été débloqués par erreur (de 9 jours à plusieurs mois) parce que la clôture automatique pour cotisation impayée s'était déclenchée, et un gel a été appliqué six jours après sa publication. Plus largement, le tableau de suivi des gels contenait des erreurs, l'outil de suivi était imprécis et les analystes manquaient d'expérience et de documentation.",
+      "textes": ["CMF L. 562-7", "arrêté du 3 novembre 2014, art. 47", "arrêté du 6 janvier 2021, art. 11"],
+      "chiffres_cles": ["20 dossiers examinés ; grief illustré par 4 dossiers", "anomalie de déblocage détectée vers le 10 novembre 2020, corrigée le 30 novembre 2020"],
+      "issue": "retenu",
+      "precision_issue": "Fondé : obligation de résultat. Trois dossiers sont écartés ou abandonnés, et la Commission relève qu'aucun fonds n'a été mis à la disposition d'une personne sous sanctions.",
+      "categorie": "gel des avoirs et sanctions financières",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [8, 9, 10]
+    },
+    {
+      "numero": "4",
+      "titre": "Contrôle interne du gel des avoirs",
+      "resume": "Avant novembre 2020, personne ne recontrôlait l'analyse des alertes de gel : le service conformité traitait les alertes et se contrôlait lui-même. Un compte a aussi été clôturé sans l'accord du Trésor alors que le gel était toujours en vigueur.",
+      "textes": ["CMF R. 562-1", "CMF R. 561-38-4"],
+      "chiffres_cles": ["contrôle de second niveau mis en place en novembre 2020"],
+      "issue": "retenu",
+      "precision_issue": "Fondé.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "contrôle interne du gel des avoirs",
+      "categories_secondaires": ["gel des avoirs et sanctions financières"],
+      "pages": [10]
+    },
+    {
+      "numero": "5",
+      "titre": "Défauts d'examen renforcé",
+      "resume": "Trois dossiers retenus : compte personnel apparemment utilisé pour une activité professionnelle, avec une demande d'un organisme de sécurité sociale ; virements reçus sans objet connu et envoyés vers le compte d'une personne fichée ; flux sans rapport avec ce que l'on savait de la cliente. Un dossier écarté : l'établissement avait bien interrogé le client et demandé des justificatifs.",
+      "textes": ["CMF L. 561-10-2"],
+      "chiffres_cles": ["4 dossiers reprochés, 3 retenus"],
+      "issue": "retenu en partie",
+      "precision_issue": "Fondé pour 3 dossiers sur 4.",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [10, 11]
+    },
+    {
+      "numero": "6",
+      "titre": "Défauts de déclaration de soupçon",
+      "resume": "Quatorze dossiers, tous retenus : soupçons de fraude aux allocations (fermer le compte ne suffit pas), gains de jeux nombreux et élevés au regard des revenus, flux entre le compte d'une salariée et celui du buraliste qui l'emploie, opérations inexpliquées après des demandes d'autorités, virements à un détenu après un droit de communication de Tracfin, opérations qui se poursuivent après une première déclaration.",
+      "textes": ["CMF L. 561-15 (I, III et IV)"],
+      "chiffres_cles": ["14 dossiers reprochés, 14 retenus"],
+      "issue": "retenu",
+      "precision_issue": "Fondé pour les 14 dossiers. Dans plusieurs cas, la déclaration s'imposait sans même passer par un examen renforcé.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [11, 12, 13]
+    },
+    {
+      "numero": "7",
+      "titre": "Qualité des déclarations de soupçon",
+      "resume": "Une déclaration doit décrire les opérations et les éléments qui fondent le soupçon. Cinq déclarations omettaient des opérations ou des liens entre personnes utiles à Tracfin. Quatre indiquaient à tort que le client était « occasionnel » : erreur réelle mais de très faible portée. Le reproche sur la mention erronée « PPE » a été abandonné par la poursuite.",
+      "textes": ["CMF R. 561-31 (III)"],
+      "chiffres_cles": ["12 déclarations visées sur 18 examinées", "5 déclarations incomplètes retenues sur 7"],
+      "issue": "retenu en partie",
+      "precision_issue": "Fondé dans un périmètre réduit.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "contenu des déclarations",
+      "categories_secondaires": [],
+      "pages": [13, 14, 15]
+    },
+    {
+      "numero": "8",
+      "titre": "Déclarations de soupçon tardives",
+      "resume": "Dix déclarations envoyées plusieurs mois, parfois plusieurs années, après les opérations, souvent seulement après une demande de Tracfin : flux importants sans rapport avec les revenus déclarés, gains de paris très élevés, virements au profit d'un détenu condamné pour terrorisme.",
+      "textes": ["CMF L. 561-16"],
+      "chiffres_cles": ["11 dossiers reprochés, 10 retenus", "exemple : 187 000 euros de gains de paris perçus d'octobre 2016 à mars 2019, déclaration le 13 mai 2020"],
+      "issue": "retenu en partie",
+      "precision_issue": "Fondé pour 10 dossiers sur 11 ; aucun retard n'est justifié par des diligences.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [15, 16]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "L'établissement a tardé à se mettre en conformité alors qu'il appartient depuis 2017 à un très grand groupe et dispose de tous les moyens nécessaires.", "pages": [16]},
+      {"texte": "Contribuer à l'inclusion bancaire ne dispense pas de prendre en compte les risques ; cela justifie au contraire une vigilance particulière.", "pages": [16]}
+    ],
+    "elements_attenuants": [
+      {"texte": "Plusieurs reproches écartés.", "pages": [16]},
+      {"texte": "Actions de correction et renforcement de la conformité, jugés trop tardifs et dont l'efficacité ne peut pas être mesurée précisément.", "pages": [16]},
+      {"texte": "Taille et situation financière de l'établissement.", "pages": [17]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Scénarios renforcés en avril 2021 pour les opérations dans les pays à risque ; scénario sur les fraudes aux allocations en mars 2021.", "pages": [6, 12]},
+      {"texte": "Scénario de surveillance des dépôts d'espèces (date à vérifier, voir plus bas).", "pages": [6, 8]},
+      {"texte": "Contrôle de second niveau des alertes de gel depuis novembre 2020 ; alignement ensuite sur les méthodes du groupe.", "pages": [10]}
+    ],
+    "situation_financiere": {"texte": "En 2021 : produit net bancaire de 88,2 millions d'euros, résultat net de 2,7 millions, fonds propres de 26,8 millions.", "pages": [3]},
+    "cause_profonde": {"texte": "Non précisé. La décision évoque seulement un « mode de fonctionnement très souple ».", "pages": [16]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Les dépôts et retraits d'espèces ont-ils leurs propres scénarios, même s'ils sont plafonnés ?",
+      "Les demandes d'information d'organismes sociaux, du fisc ou de la justice déclenchent-elles une analyse du compte ?",
+      "L'outil repère-t-il les clients liés entre eux (même adresse, virements réciproques) quand l'un d'eux est fiché ?",
+      "Le filtrage résiste-t-il à une inversion du nom et du prénom ?",
+      "Un traitement automatique (clôture, prélèvement de frais) peut-il lever un gel par erreur ?",
+      "Le tableau de suivi des gels est-il rapproché régulièrement des listes officielles ?",
+      "Celui qui contrôle les alertes de gel est-il différent de celui qui les traite ?",
+      "Quand un compte est fermé pour soupçon de fraude, la déclaration à Tracfin est-elle faite ?",
+      "Une déclaration cite-t-elle toutes les opérations et toutes les personnes liées utiles à Tracfin ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["compte de paiement grand public", "agents buralistes", "espèces", "fraude sociale", "financement du terrorisme", "jeux et paris", "charge de la preuve"],
+    "pages_prioritaires": [
+      {"pages": [4], "pourquoi": "classification des risques ou surveillance : pourquoi le grief 1 tombe"},
+      {"pages": [7, 8], "pourquoi": "virements à des détenus : ce que la Commission attend, et pourquoi elle écarte quand même"},
+      {"pages": [9], "pourquoi": "gel des avoirs : les erreurs concrètes"},
+      {"pages": [12, 13], "pourquoi": "typologies de soupçon (allocations, jeux, crypto)"},
+      {"pages": [16], "pourquoi": "inclusion bancaire et vigilance"}
+    ],
+    "confiance": "moyenne à élevée",
+    "a_verifier": [
+      "Dépôts d'espèces : le grief parle d'un scénario mis en place en décembre 2020 (p. 6), la Commission d'un scénario « à compter de septembre 2021 » (p. 8). Je n'ai pas tranché.",
+      "Grief 2 : beaucoup de sous-reproches, certains retenus avec une portée limitée (inversion nom et prénom). Relis les points 10 à 14 sur le PDF.",
+      "Grief 3 : la décision dit « illustré par 4 dossiers » (p. 10) ; d'après le point 19, ce sont trois déblocages et un retard de six jours. Ce rapprochement est le mien.",
+      "Le texte officiel contient des initiales de personnes et des références à des faits de terrorisme : la fiche n'en reprend aucune."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Fable 5.2), à partir du texte extrait du PDF officiel", "date": "2026-11-12", "relue_par_mateo": false}
+}

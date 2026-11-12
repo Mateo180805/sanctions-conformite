@@ -7,14 +7,15 @@ Journal de bord du projet. La session la plus récente est en haut.
 
 ## Session 2 – 12 novembre 2026 (en cours) – Fiches d'analyse ACPR
 
-### État après le lot 1
+### État après le lot 2
 
 - [x] Format des fiches choisi et validé par Matéo.
 - [x] Essai de la grille sur 3 décisions (2024-06, 2024-02, 2022-07), validé.
-- [x] Lot 1 : 5 décisions (2024-01, 2023-01, 2022-05, 2022-06, 2022-03).
+- [x] Lot 1 : 5 décisions (2024-01, 2023-01, 2022-05, 2022-06, 2022-03). Déposé sur GitHub par Matéo et vérifié (dépôt identique à la copie de travail, collecte du lundi intacte).
+- [x] Lot 2 : 5 décisions (2022-04, 2022-02, 2022-01, 2021-05, 2021-01).
 - [ ] Lots suivants : voir « Prochaine étape ».
 
-**8 fiches faites sur 66 décisions LCB-FT** : toutes les décisions LCB-FT et gel des avoirs rendues entre octobre 2023 et avril 2026. Aucune n'a encore été relue par Matéo (statut « à lire »).
+**13 fiches faites sur 66 décisions LCB-FT** : toutes les décisions LCB-FT et gel des avoirs rendues entre mars 2022 et avril 2026. Aucune n'a encore été relue par Matéo (statut « à lire »).
 
 | Décision | Établissement | Sanction | Griefs (retenus / en partie / écartés) |
 |---|---|---|---|
@@ -26,6 +27,11 @@ Journal de bord du projet. La session la plus récente est en haut.
 | 2022-05 | SFPMEI | blâme, 100 000 € | 5 / 0 / 1 |
 | 2022-06 | Mutuelle de Poitiers Assurances | blâme, 600 000 € | 3 / 0 / 0 |
 | 2022-03 | Abeille Vie | blâme, 3,5 M€ | 4 / 6 / 0 |
+| 2022-04 | BMW Finance | blâme, 500 000 € | 10 / 0 / 0 |
+| 2022-02 | Financière des paiements électroniques (Nickel) | blâme, 1 M€ | 3 / 4 / 1 |
+| 2022-01 | Axa Banque | blâme, 1 M€ | 1 / 5 / 0 |
+| 2021-05 | Crédit agricole du Languedoc | blâme, 1,5 M€ | 2 / 2 / 0 |
+| 2021-01 | W-HA (Orange Money France) | blâme, 700 000 € | 5 / 0 / 0 |
 
 ### Le format retenu
 
@@ -45,39 +51,52 @@ Journal de bord du projet. La session la plus récente est en haut.
 - **Blocs ajoutés à la grille** : contrôle et procédure (dates, antécédents, proposition du Collège), situation financière, mots-clés. PROJET.md (point 6) est à jour.
 - **Ce qui est déduit** est isolé dans le bloc « Ce qui aurait dû être fait » et marqué comme tel. Les montants masqués par l'ACPR restent masqués.
 - **Aucun nom de personne physique** dans les fiches.
+- **Issue d'un grief** : la fiche suit la formule de la décision. Quand la décision dit « fondé » tout en écartant un argument, la fiche indique « retenu » et le précise.
+- **Lecture des textes (à partir du lot 2)** : avant lecture, les en-têtes et pieds de page répétés et les longues citations entre guillemets (articles de loi recopiés) sont retirés ; les numéros d'articles et tout le raisonnement restent. Gain : 5 à 15 % de texte.
+
+### Incident au dépôt du lot 1
+
+Pendant la copie des fichiers, le dossier `workflows` est sorti de `.github` : GitHub Desktop affichait `collecte.yml` comme supprimé, plus une copie à la racine. Corrigé avant validation (clic droit > Discard changes sur les deux lignes). À surveiller à chaque dépôt : aucune ligne rouge, et le bon nombre de fichiers.
 
 ### Incident de session
 
 Un premier passage sur le lot 1 a été interrompu avant la fin : il n'apparaissait plus dans la conversation, mais trois fiches (2024-01, 2022-05, 2022-06) et une première version du lexique étaient restées dans l'espace de travail. Elles n'ont pas été reprises telles quelles : chaque fiche a été relue en entier contre le texte de la décision, puis corrigée (détails retirés car absents du texte, un décompte de griefs rectifié). Leçon : livrer un .zip à la fin de chaque lot.
 
+La même chose s'est produite pour le lot 2 : le passage qui l'a rédigé (lecture des cinq décisions, fiches, journal, .zip) s'est interrompu juste avant la livraison. Cette fois, les fiches n'ont pas été relues ligne à ligne : elles ont subi un contrôle ciblé contre les textes. Pour chaque grief, l'issue a été comparée à la phrase de conclusion de la décision ; chaque chiffre cité a été recherché dans les pages indiquées ; les décomptes de dossiers ont été relus dans le texte. Résultat : aucune erreur d'issue ni de chiffre, une référence de page complétée (fiche 2021-01, grief 3) et une phrase du « En bref » reformulée pour coller au texte (fiche 2021-05). Le lot 2 est donc un peu moins vérifié que le lot 1 : à relire par Matéo en priorité sur le PDF.
+
+Pour limiter ce risque : des lots plus courts (3 décisions), et une conversation neuve.
+
 ### Constats sur la base et les sources
 
-- Aucun champ de la base à corriger pour ces 8 décisions (montant, sanction, dates, publication concordent avec les textes).
+- Aucun champ de la base à corriger pour ces 13 décisions (montant, sanction, dates, publication concordent avec les textes).
 - Coquille probable dans un texte officiel : la décision 2024-06 cite page 4 une « décision n° 2025-01 du 7 novembre 2025 » ; la décision de cette date porte le n° 2024-01. Noté dans la fiche, rien n'est corrigé.
 - La décision 2018-05 (8 avril 2019, anonymisée) est marquée « hors LCB-FT » dans la base, mais son texte mentionne souvent le blanchiment. À vérifier quand on arrivera à 2019. Trois autres décisions « hors LCB-FT » en parlent un peu (2012-03, 2014-11, 2012-09) : à regarder aussi.
 - Deux décisions (2022-05, 2024-01) mêlent griefs LCB-FT et griefs d'un autre ordre (agent non enregistré, protection de la clientèle, activité des succursales). Ces griefs sont classés « autre » ou « procédures et contrôle interne » avec la mention « grief hors LCB-FT ».
 
 ### Questions ouvertes pour Matéo
 
-1. Faut-il une catégorie « agents et externalisation » ? Le thème revient dans 4 des 8 fiches (MoneyGram, Treezor, SFPMEI, Abeille Vie). Pour l'instant : mots-clés + précision de catégorie.
+1. Faut-il une catégorie « agents et externalisation » ? Le thème revient dans 6 des 13 fiches (MoneyGram, Treezor, SFPMEI, Abeille Vie, BMW Finance, Nickel). Pour l'instant : mots-clés + précision de catégorie. Question posée à Matéo, sans réponse à ce stade.
 2. Longueur des fiches : 2 à 3 pages en version lisible. À raccourcir ou non pour la suite.
-3. Les champs `statut` et `mes_notes` existent à la fois dans la base et dans la fiche. Proposition : la fiche fait foi ; à trancher en session 3.
+3. Le grief sur les informations qui accompagnent les transferts de fonds (W-HA, règlement UE 2015/847) est classé « autre ».
+4. Type d'établissement : les fiches reprennent le terme de la décision (« banque », « établissement de crédit spécialisé », « établissement de paiement », « établissement de monnaie électronique », « assureur »). À harmoniser pour les filtres du site.
+5. Les champs `statut` et `mes_notes` existent à la fois dans la base et dans la fiche. Proposition : la fiche fait foi ; à trancher en session 3.
 
 ### Points à vérifier par Matéo dans les fiches
 
-Chaque fiche a une rubrique « Points à vérifier ». Les plus utiles : 2022-03 (décision longue, issues des griefs 3, 4 et 5), 2024-06 (grief 8 : deux chiffres différents dans la décision), 2023-01 et 2022-07 (décomptes de dossiers faits par Claude).
+Chaque fiche a une rubrique « Points à vérifier ». Les plus utiles : 2022-03 (décision longue, issues des griefs 3, 4 et 5), 2022-02 (grief 2 très découpé ; deux dates différentes pour le scénario sur les espèces), 2024-06 (grief 8 : deux chiffres différents dans la décision), 2023-01, 2022-07, 2022-01 et 2021-05 (décomptes de dossiers faits par Claude).
+
+Décision à lire en premier pour la méthode : 2022-01 (Axa Banque), pages 11 et 12, où la Commission explique quand il faut un examen renforcé et quand il faut déclarer. Les décisions suivantes la citent souvent.
 
 ### Prochaine étape
 
-Suite des fiches LCB-FT, des plus récentes aux plus anciennes, par lots de 5 :
+Suite des fiches LCB-FT, des plus récentes aux plus anciennes. Les groupes ci-dessous donnent l'ordre ; mieux vaut les traiter par 3 décisions à la fois :
 
-- Lot 2 : 2022-04 (BMW Finance), 2022-02 (FPE), 2022-01 (Axa Banque), 2021-05 (Crédit agricole du Languedoc), 2021-01 (W-HA) – 73 pages.
 - Lot 3 : 2020-11, 2020-09, 2020-08, 2020-06, 2020-05 – 65 pages.
 - Lot 4 : 2020-03, 2020-02, 2019-08, 2020-01, 2019-07 – 69 pages.
 - Lot 5 : 2019-06, 2019-04, 2018-08, 2018-06, 2018-03 – 59 pages.
-- Lot 6 : 2018-04, 2017-10, plus 2018-05 si elle relève bien de la LCB-FT. On atteint alors janvier 2019 et 30 fiches.
+- Lot 6 : 2018-04, 2017-10, plus 2018-05 si elle relève bien de la LCB-FT. On atteint alors janvier 2019 et 30 fiches (31 avec 2018-05).
 
-Conseil : une nouvelle conversation tous les deux lots, en redonnant PROJET.md, JOURNAL.md et le dépôt. À partir de 2020-08, les décisions sont anonymisées : ne jamais chercher à retrouver l'établissement.
+Conseil : commencer le lot 3 dans une nouvelle conversation (celle de la session 2 est devenue très longue), en redonnant PROJET.md, JOURNAL.md et le dépôt ; puis une nouvelle conversation tous les deux lots. Message de reprise possible : « Session 2, suite : lis PROJET.md et JOURNAL.md, récupère le dépôt, prends une fiche existante comme modèle (par exemple ACPR-2021-01) et traite le lot 3. » À partir de 2020-08, les décisions sont anonymisées : ne jamais chercher à retrouver l'établissement.
 
 Reste hors de portée d'ici le 15 novembre : les 36 décisions LCB-FT antérieures à 2019 et les 45 fiches courtes « hors LCB-FT ».
 

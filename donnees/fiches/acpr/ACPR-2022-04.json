@@ -1,0 +1,211 @@
+{
+  "id": "ACPR-2022-04",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT et gel des avoirs",
+  "resume_court": "BMW Finance finance l'achat ou la location de voitures et de motos du groupe BMW. Au moment du contrôle, deux personnes seulement s'occupaient de toute la lutte anti-blanchiment pour plus de cent mille clients : la plupart des alertes n'étaient pas traitées, le traitement s'est même arrêté pendant huit mois en 2020, et les informations sur les clients n'étaient presque jamais mises à jour. La recherche des personnalités politiques et des personnes sous sanctions était confiée à un prestataire que personne ne contrôlait vraiment. La Commission retient les dix reproches, mais juge leur portée limitée, car le crédit automobile expose peu au blanchiment. Sanction : un blâme et 500 000 euros.",
+  "identite": {
+    "etablissement": "BMW Finance",
+    "type_etablissement": "établissement de crédit spécialisé",
+    "precision_type": "Société en nom collectif agréée en 1988 comme société financière, devenue établissement de crédit spécialisé en 2013 ; aussi enregistrée comme courtier d'assurance.",
+    "groupe": "Groupe BMW (BMW AG détient la quasi-totalité du capital)",
+    "pays": "France (siège à Montigny-le-Bretonneux) ; maison mère allemande",
+    "activite_et_taille": "Trois quarts de l'activité : location longue durée ou avec option d'achat de véhicules BMW, Mini et Motorrad pour des particuliers et des professionnels. Un quart : financement des 172 concessionnaires du groupe. Fin 2020, plus de 100 000 contrats actifs. Les chiffres financiers sont masqués dans la décision.",
+    "pages": [1, 2, 3]
+  },
+  "controle": {
+    "controle_sur_place": "du 4 février au 17 juin 2021",
+    "rapport_de_controle": "signé le 22 décembre 2021",
+    "ouverture_de_la_procedure": "décidée le 10 mai 2022, Commission saisie le 1er juin 2022",
+    "antecedents": "Pas de précédent contrôle de l'ACPR mentionné. L'audit interne de la société, achevé en novembre 2020, avait déjà relevé plusieurs des défaillances.",
+    "pages": [3, 10, 14]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 500000,
+    "publication": "nominative",
+    "duree_publication_nominative": "5 ans, puis forme anonymisée",
+    "proposition_du_college": "blâme et au moins 800 000 euros, publication nominative pendant 5 ans",
+    "pages": [1, 2, 14, 15]
+  },
+  "procedure": {"questions_de_procedure": "non précisé (aucune exception de procédure examinée)", "pages": []},
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Deux personnes pour toute la fonction LCB-FT",
+      "resume": "Deux salariés devaient à eux seuls traiter les alertes, mener les examens renforcés, rédiger les déclarations à Tracfin, répondre aux réquisitions, gérer la fraude et faire une partie des contrôles. C'était manifestement insuffisant, et à l'origine de plusieurs autres manquements. L'équipe n'est passée à cinq personnes qu'en 2022.",
+      "textes": ["CMF L. 561-32", "CMF R. 561-38", "CMF R. 561-38-3"],
+      "chiffres_cles": ["2 salariés pour plus de 100 000 contrats actifs", "694 alertes en décembre 2020, dont 64 traitées", "délai moyen d'envoi des déclarations de soupçon : 103 jours en 2021"],
+      "issue": "retenu",
+      "precision_issue": "Fondé. Les difficultés de recrutement et l'effort de formation ne justifient pas le retard.",
+      "categorie": "gouvernance, moyens et formation",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [3, 4]
+    },
+    {
+      "numero": "2",
+      "titre": "Registre des bénéficiaires effectifs non consulté",
+      "resume": "Depuis le 14 février 2020, un établissement doit recueillir un extrait du registre des bénéficiaires effectifs pour vérifier qui contrôle une société cliente. BMW Finance n'a demandé l'accès au registre qu'en novembre 2020 et n'a écrit de mode opératoire qu'en mars 2022. Avoir un autre moyen de vérification ne dispense pas de cette consultation.",
+      "textes": ["CMF L. 561-5", "CMF L. 561-47-1", "CMF R. 561-7"],
+      "chiffres_cles": ["plusieurs milliers de sociétés entrées en relation entre le 14 février et le 31 décembre 2020 sans extrait du registre"],
+      "issue": "retenu",
+      "precision_issue": "Fondé.",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "identification des bénéficiaires effectifs",
+      "categories_secondaires": [],
+      "pages": [4, 5]
+    },
+    {
+      "numero": "3",
+      "titre": "Informations sur les clients non mises à jour",
+      "resume": "La procédure ne prévoyait aucune mise à jour pour les clients à risque standard ou faible, soit presque toute la clientèle. Pour les clients à risque élevé, elle n'était presque pas appliquée. Et le niveau de risque d'un client ne changeait pas après une déclaration de soupçon ou une réquisition judiciaire.",
+      "textes": ["CMF L. 561-5-1", "CMF R. 561-12"],
+      "chiffres_cles": ["99,5 % des clients en risque standard ou faible, sans mise à jour prévue", "26 clients contactés sur 607 en risque élevé, 6 réponses"],
+      "issue": "retenu",
+      "precision_issue": "Fondé en ses trois branches, faits non contestés.",
+      "categorie": "vigilance constante et mise à jour des dossiers",
+      "categorie_precision": "",
+      "categories_secondaires": ["classification des risques"],
+      "pages": [6, 7]
+    },
+    {
+      "numero": "4",
+      "titre": "Personnes politiquement exposées non détectées",
+      "resume": "Onze clients étaient des personnes politiquement exposées sans avoir été repérés. Le tri des alertes était fait par un prestataire, dont les comptes rendus se limitaient à « correspond » ou « ne correspond pas », ce qui ne permettait pas de voir ses erreurs.",
+      "textes": ["CMF L. 561-32", "CMF R. 561-20-2"],
+      "chiffres_cles": ["11 PPE non détectées"],
+      "issue": "retenu",
+      "precision_issue": "Fondé. Avoir des procédures ne suffit pas : l'établissement doit veiller à leur efficacité.",
+      "categorie": "personnes politiquement exposées et vigilance renforcée",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [7]
+    },
+    {
+      "numero": "5",
+      "titre": "Alertes de gel des avoirs traitées avec retard",
+      "resume": "La base clients était comparée chaque jour aux listes de gel, mais le prestataire chargé d'analyser les alertes pouvait attendre des jours ou des semaines. Un gel ne pouvait donc pas être appliqué immédiatement.",
+      "textes": ["CMF L. 562-4", "CMF L. 562-4-1", "CMF R. 562-1"],
+      "chiffres_cles": ["en 2020, aucune alerte traitée du 1er au 24 juin, du 1er au 24 juillet et du 7 au 22 décembre"],
+      "issue": "retenu",
+      "precision_issue": "Fondé.",
+      "categorie": "gel des avoirs et sanctions financières",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [8]
+    },
+    {
+      "numero": "6",
+      "titre": "Surveillance des opérations incomplète, alertes non traitées",
+      "resume": "Les scénarios ne tenaient presque pas compte du niveau de risque ni des revenus des clients, n'avaient rien de spécifique pour les véhicules de luxe ni pour le financement du terrorisme, et s'appliquaient mal aux clients devenus PPE en cours de contrat. Côté traitement : les scénarios tournaient une fois par mois, une partie seulement des alertes était examinée, et rien n'a été traité entre février et octobre 2020.",
+      "textes": ["CMF L. 561-6", "CMF L. 561-32", "arrêté du 3 novembre 2014, art. 46, 49 et 50"],
+      "chiffres_cles": ["niveau de risque non renseigné dans l'outil pour 98 % des contrats", "241 alertes traitées sur 469 en 2020 pour les remboursements anticipés totaux", "un scénario appliqué à 110 clients PPE sur 257"],
+      "issue": "retenu",
+      "precision_issue": "Fondé en ses deux branches.",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "",
+      "categories_secondaires": ["analyse des alertes et examen renforcé"],
+      "pages": [9, 10]
+    },
+    {
+      "numero": "7",
+      "titre": "Défauts d'examen renforcé",
+      "resume": "Cinq dossiers : apport personnel très élevé au regard des revenus, payé par chèque de banque d'une autre banque ; contrat racheté par un tiers au bout de neuf mois ; remboursement anticipé sans rapport avec les revenus ; véhicule de luxe financé par un client aux revenus modestes ; location d'un véhicule à 114 000 euros par une association.",
+      "textes": ["CMF L. 561-10-2"],
+      "chiffres_cles": ["5 dossiers reprochés, 5 retenus"],
+      "issue": "retenu",
+      "precision_issue": "Fondé pour les 5 dossiers.",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [10, 11]
+    },
+    {
+      "numero": "8",
+      "titre": "Défauts de déclaration de soupçon",
+      "resume": "Cinq défauts de déclaration admis par l'établissement. Dans un sixième dossier, une déclaration avait été faite, mais des informations obtenues ensuite, qui confortaient le soupçon, n'ont pas été transmises à Tracfin.",
+      "textes": ["CMF L. 561-15 (I, III et IV)"],
+      "chiffres_cles": ["6 dossiers reprochés, 6 retenus"],
+      "issue": "retenu",
+      "precision_issue": "Fondé pour les 6 dossiers. Pour le sixième, la Commission relève que la première déclaration donnait déjà l'essentiel à Tracfin.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [11, 12]
+    },
+    {
+      "numero": "9",
+      "titre": "Contrat avec le prestataire muet sur le gel des avoirs",
+      "resume": "Le contrat de 2018 avec le prestataire ne disait pas qu'il était chargé de détecter les personnes sous mesure de gel : ni délai de traitement, ni règles sur les fausses alertes. L'avenant de 2021 est venu après le contrôle.",
+      "textes": ["CMF R. 561-38-2", "arrêté du 3 novembre 2014, art. 238", "arrêté du 6 janvier 2021, art. 10"],
+      "chiffres_cles": ["contrat du 27 juin 2018 ; avenant de septembre 2021"],
+      "issue": "retenu",
+      "precision_issue": "Fondé.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "encadrement contractuel d'une activité externalisée",
+      "categories_secondaires": ["gel des avoirs et sanctions financières"],
+      "pages": [12, 13]
+    },
+    {
+      "numero": "10",
+      "titre": "Prestataire non contrôlé",
+      "resume": "BMW Finance ne vérifiait ni que le prestataire traitait toutes les alertes, ni dans quel délai, ni pourquoi il les classait sans suite. Son contrôle de second niveau portait sur une trentaine d'alertes par an.",
+      "textes": ["CMF R. 561-38-5", "CMF R. 562-1", "arrêté du 3 novembre 2014, art. 234 et 238"],
+      "chiffres_cles": ["32 alertes contrôlées par an pour 73 095 traitées par le prestataire en 2020", "résultat non renseigné pour 5 % puis 8 % des alertes en 2020"],
+      "issue": "retenu",
+      "precision_issue": "Fondé.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "contrôle d'une activité externalisée",
+      "categories_secondaires": ["gel des avoirs et sanctions financières", "personnes politiquement exposées et vigilance renforcée"],
+      "pages": [13, 14]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "Agréée depuis 35 ans, la société a tardé à se mettre en conformité, alors que son appartenance à un grand groupe lui donnait des moyens importants.", "pages": [14]}
+    ],
+    "elements_attenuants": [
+      {"texte": "Activité peu exposée : clients pour la plupart en risque faible (classement non contesté), contrats de 42 mois en moyenne, payés uniquement par prélèvement. La portée des lacunes est jugée « relativement limitée ».", "pages": [14]},
+      {"texte": "Importantes actions de correction après l'audit interne de novembre 2020.", "pages": [14]},
+      {"texte": "Situation financière prise en compte.", "pages": [14]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Équipe LCB-FT portée de 2 à 5 salariés en 2022.", "pages": [4]},
+      {"texte": "Procédures refondues à partir de décembre 2021 : mise à jour des dossiers tous les 2, 3 ou 5 ans selon le risque.", "pages": [6]},
+      {"texte": "Avenant de septembre 2021 avec le prestataire : alertes traitées en 4 heures à l'entrée en relation et en 24 heures ensuite, contrôle quotidien.", "pages": [8]},
+      {"texte": "Scénarios améliorés entre avril 2021 et juillet 2022 (revenus des clients, véhicules haut de gamme).", "pages": [10]},
+      {"texte": "Coût total : 3,7 millions d'euros, dont un peu plus de 2 millions d'informatique et près de 0,9 million pour les effectifs.", "pages": [14]}
+    ],
+    "situation_financiere": {"texte": "Chiffres masqués. Résultat net 2022 en repli du fait de la hausse des coûts de refinancement.", "pages": [3]},
+    "cause_profonde": {"texte": "Le grief 1, retenu, présente l'insuffisance des effectifs comme étant à l'origine de plusieurs autres défaillances : alertes non traitées, interruption de la surveillance, déclarations tardives, contrôles non réalisés.", "pages": [4]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Les effectifs LCB-FT sont-ils proportionnés au nombre d'alertes, d'examens renforcés et de déclarations à traiter ?",
+      "Un extrait du registre des bénéficiaires effectifs est-il recueilli pour chaque société cliente ?",
+      "Tous les clients, y compris à risque faible, ont-ils une échéance de mise à jour de leur dossier ?",
+      "Le niveau de risque d'un client est-il relevé après une déclaration de soupçon ou une réquisition ?",
+      "Quel est le délai réel de traitement des alertes de gel des avoirs, y compris pendant les congés ?",
+      "Le contrat avec chaque prestataire décrit-il précisément ses tâches, ses délais et la façon dont il est contrôlé ?",
+      "Le prestataire justifie-t-il chaque alerte classée sans suite, et un échantillon suffisant est-il recontrôlé ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["crédit automobile", "externalisation", "moyens humains", "registre des bénéficiaires effectifs", "gel des avoirs", "proportionnalité"],
+    "pages_prioritaires": [
+      {"pages": [3, 4], "pourquoi": "ce que deux personnes devaient faire, et les conséquences"},
+      {"pages": [9, 10], "pourquoi": "défauts des scénarios et alertes laissées de côté"},
+      {"pages": [12, 13], "pourquoi": "contrat et contrôle d'un prestataire"},
+      {"pages": [14], "pourquoi": "comment le faible risque de l'activité fait baisser la sanction"}
+    ],
+    "confiance": "élevée",
+    "a_verifier": [
+      "Le rapporteur concluait que certains griefs étaient fondés « dans un périmètre ou avec une portée réduite » (p. 1) ; la décision les dit tous fondés et traite la portée au moment de fixer la sanction (p. 14).",
+      "La plupart des chiffres financiers et de volume sont masqués dans le texte officiel.",
+      "Type d'établissement : j'ai gardé « établissement de crédit spécialisé », terme de la décision, plutôt que « banque »."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Fable 5.2), à partir du texte extrait du PDF officiel", "date": "2026-11-12", "relue_par_mateo": false}
+}

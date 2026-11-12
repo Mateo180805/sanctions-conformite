@@ -1,0 +1,134 @@
+{
+  "id": "ACPR-2021-05",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT",
+  "resume_court": "La Caisse régionale de Crédit agricole du Languedoc est la première banque de quatre départements, avec environ un million de clients. Le reproche principal porte sur son outil de surveillance : il ne signalait les dépôts d'espèces qu'au-delà de 14 000 euros par semaine, alors que ses clients déposent en moyenne 400 à 700 euros, ne comparait pas les revenus connus aux sommes reçues et n'avait rien pour repérer les petits montants pouvant financer le terrorisme. Le reste se limite à des défaillances ponctuelles : quelques dossiers clients incomplets, 17 opérations non examinées, 9 non déclarées. La banque contestait aussi l'emploi, par les contrôleurs de l'ACPR, d'un logiciel d'intelligence artificielle, utilisé selon elle pour la première fois lors d'un contrôle sur place ; l'argument est rejeté. Sanction : un blâme et 1,5 million d'euros.",
+  "identite": {
+    "etablissement": "Caisse régionale de Crédit agricole mutuel du Languedoc",
+    "type_etablissement": "banque",
+    "precision_type": "Caisse régionale du Crédit agricole, banque de réseau.",
+    "groupe": "Groupe Crédit Agricole",
+    "pays": "France (siège à Lattes)",
+    "activite_et_taille": "Environ 2 700 collaborateurs dans l'Aude, le Gard, l'Hérault et la Lozère, où elle détient plus de 30 % du marché. Environ un million de clients, dont plus de 90 % de particuliers. En 2021 : produit net bancaire de 624 millions d'euros.",
+    "pages": [1, 2, 3]
+  },
+  "controle": {
+    "controle_sur_place": "du 29 juin 2020 au 15 janvier 2021",
+    "rapport_de_controle": "signé le 29 juin 2021",
+    "ouverture_de_la_procedure": "décidée le 15 octobre 2021, Commission saisie le 2 novembre 2021",
+    "antecedents": "non précisé",
+    "pages": [3]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 1500000,
+    "publication": "nominative",
+    "duree_publication_nominative": "5 ans, puis forme anonymisée",
+    "proposition_du_college": "blâme et 2 millions d'euros, publication nominative",
+    "pages": [1, 2, 13]
+  },
+  "procedure": {
+    "questions_de_procedure": "Deux moyens écartés. 1) La banque soutenait que l'utilisation par les contrôleurs, pour la première fois, du logiciel d'intelligence artificielle LUCIA (540 Go de données, 750 millions d'opérations) avait été déloyale et avait porté atteinte aux droits de la défense : la Commission regrette le manque d'explications de la poursuite, mais juge que la banque a pu se défendre et que les contrôleurs n'ont pas à décrire leurs outils. 2) Citer un même dossier à l'appui de plusieurs reproches n'est pas contraire au principe « non bis in idem ». L'audience était publique. D'après le recueil de l'ACPR (et non la décision), la banque a formé un recours.",
+    "pages": [3, 4, 5]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Connaissance et mise à jour des dossiers de clients à risque",
+      "resume": "Pour des clients que la banque avait elle-même classés en risque élevé, il manquait les justificatifs de revenus ou de patrimoine, ou les comptes pour des associations. Des dossiers n'avaient pas été mis à jour au rythme que la banque s'était fixé (2, 3 ou 5 ans selon le risque). La Commission retient ces cas mais souligne qu'ils sont peu nombreux et ne prouvent pas une carence générale ; le reproche sur 44 clients de la banque privée est écarté car trop imprécis.",
+      "textes": ["CMF L. 561-5-1", "CMF R. 561-12"],
+      "chiffres_cles": ["15 dossiers sans justificatif retenus sur 17, pour environ 12 000 clients en risque élevé", "27 dossiers non mis à jour retenus sur 41", "données trop anciennes sur la profession pour 12 % des clients et sur les revenus pour 2 %"],
+      "issue": "retenu en partie",
+      "precision_issue": "Fondé dans des limites réduites : des défaillances ponctuelles. Un compte inactif doit quand même être mis à jour, ou clôturé.",
+      "categorie": "vigilance constante et mise à jour des dossiers",
+      "categorie_precision": "",
+      "categories_secondaires": ["connaissance du client à l'entrée en relation"],
+      "pages": [4, 5, 6, 7]
+    },
+    {
+      "numero": "2",
+      "titre": "Scénarios de surveillance inadaptés et incomplets",
+      "resume": "Le scénario sur les dépôts d'espèces, repris du groupe sans adaptation, avait un seuil si haut qu'il écartait presque toutes les opérations. Aucun scénario ne visait les petits montants pouvant relever du financement du terrorisme, ni les écarts entre les revenus connus d'un client et ce qui arrive sur son compte. La vigilance humaine ne peut que compléter un outil automatique dans une banque de cette taille. Un reproche est écarté : le scénario sur les remises de chèques n'avait été que testé deux mois.",
+      "textes": ["CMF L. 561-6", "CMF R. 561-12-1", "CMF L. 561-32", "CMF R. 561-38", "arrêté du 3 novembre 2014, art. 46 et 49"],
+      "chiffres_cles": ["seuil de 14 000 euros par semaine pour les dépôts d'espèces ; dépôt moyen entre 400 et 700 euros", "ce seuil écartait 90 % des clients non professionnels, et plus de 99 % des particuliers « grand public »"],
+      "issue": "retenu",
+      "precision_issue": "Fondé : « défaillance significative » de la surveillance. C'est le seul grief qui révèle une carence du dispositif lui-même.",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [8, 9, 10]
+    },
+    {
+      "numero": "3",
+      "titre": "Défauts d'examen renforcé",
+      "resume": "Dix-sept dossiers retenus : sommes reçues sans rapport avec la situation financière connue, mouvements d'espèces, transferts de fonds, associations, opérations non documentées présentées comme le financement de projets immobiliers à l'étranger. Sept dossiers sont écartés pour une raison de droit : les opérations pouvaient relever d'une fraude fiscale (revenus de location ou de chauffeur VTC non déclarés), et non de blanchiment ou de financement du terrorisme.",
+      "textes": ["CMF L. 561-10-2"],
+      "chiffres_cles": ["24 dossiers reprochés, 17 retenus (dont 7 admis par la banque)"],
+      "issue": "retenu en partie",
+      "precision_issue": "Fondé pour 17 dossiers sur 24.",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [10, 11]
+    },
+    {
+      "numero": "4",
+      "titre": "Défauts de déclaration de soupçon",
+      "resume": "Neuf dossiers, dont sept admis : nombreux mouvements d'espèces, parfois après des remises de chèques, virements de l'étranger, envois fréquents par un service de transfert d'argent, société dont le compte ne montre presque aucun salaire versé, clients qui ne répondent pas aux questions.",
+      "textes": ["CMF L. 561-15"],
+      "chiffres_cles": ["9 dossiers reprochés, 9 retenus"],
+      "issue": "retenu",
+      "precision_issue": "Fondé pour les 9 dossiers.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [12]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "Le grief 2 est un manquement important à des obligations définies depuis longtemps et expliquées par de nombreuses décisions.", "pages": [12]},
+      {"texte": "Manquement d'autant plus critiquable que la caisse dispose, par sa taille et son groupe, de moyens importants.", "pages": [12]}
+    ],
+    "elements_attenuants": [
+      {"texte": "En dehors du grief 2, seules des défaillances ponctuelles sont établies, qui ne révèlent pas une carence d'ensemble.", "pages": [13]},
+      {"texte": "Actions de correction : effectifs de la sécurité financière renforcés, connaissance des clients et surveillance améliorées.", "pages": [13]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Renforcement des effectifs de la sécurité financière.", "pages": [13]},
+      {"texte": "Participation, parmi les deux premières caisses du groupe, à un programme de détection de la délinquance financière fondé sur des technologies innovantes.", "pages": [13]}
+    ],
+    "situation_financiere": {"texte": "En 2021 : produit net bancaire de 624 millions d'euros, résultat net de 211 millions, 4,7 milliards de fonds propres.", "pages": [3]},
+    "cause_profonde": {"texte": "Non précisé en tant que cause. La décision relève que le scénario sur les espèces était celui du groupe, appliqué « sans adaptation aux caractéristiques propres » de la caisse.", "pages": [9]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Les scénarios fournis par le groupe ont-ils été recalibrés sur la clientèle locale (montant moyen des dépôts, revenu médian) ?",
+      "Quelle part des opérations chaque seuil laisse-t-il passer sans alerte ?",
+      "Existe-t-il un scénario qui compare les revenus connus du client aux sommes créditées sur son compte ?",
+      "Existe-t-il un scénario pour les opérations de faible montant pouvant financer le terrorisme (retraits après un crédit à la consommation, par exemple) ?",
+      "Les clients classés en risque élevé ont-ils tous un justificatif de revenus ou des comptes dans leur dossier ?",
+      "Le rythme de mise à jour fixé par la procédure est-il tenu, y compris pour les comptes inactifs ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["banque de réseau", "seuils d'alerte", "espèces", "financement du terrorisme", "intelligence artificielle du superviseur", "défaillance ponctuelle ou carence du dispositif"],
+    "pages_prioritaires": [
+      {"pages": [3, 4], "pourquoi": "l'outil LUCIA des contrôleurs et les droits de la défense"},
+      {"pages": [6, 7], "pourquoi": "ce qu'il faut dans le dossier d'un client à risque élevé ; comptes inactifs"},
+      {"pages": [9, 10], "pourquoi": "le raisonnement sur le seuil de 14 000 euros"},
+      {"pages": [11], "pourquoi": "examen renforcé et fraude fiscale : pourquoi 7 dossiers tombent"},
+      {"pages": [12, 13], "pourquoi": "distinction entre carence d'un dispositif et défaillances ponctuelles"}
+    ],
+    "confiance": "élevée",
+    "a_verifier": [
+      "Grief 2 : la décision le dit « fondé » sans réserve (p. 10) alors qu'elle écarte le reproche sur un scénario (p. 10) et que le rapporteur parlait d'un périmètre réduit (p. 1). J'ai suivi la formule de la décision.",
+      "Grief 1 : les décomptes 15 sur 17 et 27 sur 41 sont les miens, à partir des points 12 à 14 et 16.",
+      "Recours : l'information vient du recueil de l'ACPR, pas de la décision ; son issue n'est pas dans la base.",
+      "Le dossier 4.6 est en partie masqué dans le texte officiel."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Fable 5.2), à partir du texte extrait du PDF officiel", "date": "2026-11-12", "relue_par_mateo": false}
+}

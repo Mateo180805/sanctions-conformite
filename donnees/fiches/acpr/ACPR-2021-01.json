@@ -1,0 +1,153 @@
+{
+  "id": "ACPR-2021-01",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT et gel des avoirs",
+  "resume_court": "W-HA est la filiale d'Orange qui gère Orange Money France : un compte sur téléphone, que l'on peut alimenter en espèces chez un buraliste, pour envoyer de l'argent vers le Mali, la Côte d'Ivoire, le Sénégal, la Guinée ou Madagascar. La société pensait maîtriser le risque en plafonnant les montants. L'ACPR lui reproche de ne rien demander à ses clients sur leurs revenus et leur métier, d'avoir une alerte réglée à 1 600 euros par mois quand un client transfère 256 euros en moyenne, et de n'avoir fait que 8 déclarations à Tracfin en 2019 alors que certains clients envoyaient de l'argent à plus de cent personnes. Les cinq reproches sont retenus. Sanction : un blâme et 700 000 euros.",
+  "identite": {
+    "etablissement": "W-HA (service Orange Money France)",
+    "type_etablissement": "établissement de monnaie électronique",
+    "precision_type": "Société anonyme créée en 2001, d'abord société financière, agréée établissement de monnaie électronique en septembre 2013 ; fournit aussi des services de paiement.",
+    "groupe": "Orange (détient 100 % du capital)",
+    "pays": "France (siège à Boulogne-Billancourt)",
+    "activite_et_taille": "Une quarantaine de salariés, plus à peu près autant de salariés d'Orange mis à disposition. Trois activités : paiement d'achats sur la facture de téléphone, solutions d'encaissement pour commerçants, et Orange Money France, lancé en février 2016 (550 points de vente ; 16 359 clients fin 2019 ; 16,4 millions d'euros transférés en 2019 contre 1,9 million en 2018).",
+    "pages": [1, 2, 3, 5]
+  },
+  "controle": {
+    "controle_sur_place": "du 12 novembre 2019 au 7 février 2020",
+    "rapport_de_controle": "signé le 6 août 2020",
+    "ouverture_de_la_procedure": "décidée le 9 février 2021, Commission saisie le 12 février 2021",
+    "antecedents": "Pas de précédent contrôle mentionné. En 2015, avant le lancement, la société avait présenté son produit et son dispositif LCB-FT aux services de l'ACPR, qui avaient répondu que le schéma « semblait conforme » aux règles de distribution de la monnaie électronique.",
+    "pages": [3, 4]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 700000,
+    "publication": "nominative",
+    "duree_publication_nominative": "5 ans, puis forme anonymisée",
+    "proposition_du_college": "blâme et 800 000 euros, publication nominative pendant 5 ans",
+    "pages": [1, 2, 13]
+  },
+  "procedure": {
+    "questions_de_procedure": "La société faisait valoir que l'ACPR connaissait son dispositif depuis 2015 et n'avait rien objecté. La Commission examine cette « prise de position antérieure » avec plusieurs questions (l'ACPR a-t-elle été clairement informée, dans quel cadre, a-t-elle donné un accord, le dispositif présenté a-t-il été appliqué, aurait-il dû évoluer ?). Conclusion : de simples échanges, sans accord exprès, sur un dispositif présenté comme provisoire ; pas d'exonération. La démarche spontanée de la société est seulement prise en compte pour fixer la sanction. Le représentant du Trésor, présent à l'audience, a estimé les griefs fondés.",
+    "pages": [2, 3, 4, 6, 8, 12]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Ni revenus ni profession demandés aux clients",
+      "resume": "À l'ouverture d'un compte Orange Money, la société ne demandait rien sur les revenus ni sur l'activité professionnelle du client. Or le produit est risqué : espèces et transferts hors d'Europe, vers des pays exposés. Plafonner les opérations ne suffit pas : pour juger si un transfert est anormal, il faut le comparer aux revenus. Et l'on ne peut pas justifier de ne pas collecter une information par le fait que ses propres scénarios ne l'utilisent pas.",
+      "textes": ["CMF L. 561-5-1", "CMF R. 561-12"],
+      "chiffres_cles": ["aucun des 58 dossiers examinés ne contenait d'information sur la profession ou la situation financière", "plafonds : 250 euros par mois pour un compte simplifié, 2 000 euros par mois pour un compte complet"],
+      "issue": "retenu",
+      "precision_issue": "Entièrement fondé.",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [4, 5, 6]
+    },
+    {
+      "numero": "2",
+      "titre": "Scénarios de surveillance trop peu nombreux et mal réglés",
+      "resume": "Cinq scénarios seulement, dont deux pour les transferts internationaux, qui font pourtant 90 % de l'activité. Le premier ne se déclenchait qu'au-delà de 1 600 euros par mois pendant trois mois, soit six fois le transfert mensuel moyen. Aucun scénario ne repérait un client qui envoie de l'argent à de très nombreux bénéficiaires.",
+      "textes": ["CMF L. 561-32", "CMF R. 561-38"],
+      "chiffres_cles": ["seuil de 1 600 euros par mois ; transfert mensuel moyen de 256 euros", "58 clients examinés en 2019 pour 140 000 transferts internationaux", "33 clients ont chacun envoyé des fonds à plus de 50 bénéficiaires en un an ; exemple : 11 000 euros vers 127 bénéficiaires en huit mois"],
+      "issue": "retenu",
+      "precision_issue": "Entièrement fondé.",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [6, 7, 8]
+    },
+    {
+      "numero": "3",
+      "titre": "Défauts de déclaration de soupçon",
+      "resume": "Vingt-quatre dossiers. Onze commerçants utilisant la solution d'encaissement : entreprises très récentes au chiffre d'affaires soudain élevé, paiements fractionnés, secteurs à risque (dépannage, serrurerie), absence de justificatifs, contrat résilié sans déclaration. Treize clients Orange Money : compte alimenté seulement en espèces, plafonds atteints chaque mois, transferts vers des dizaines de numéros à l'étranger, refus de s'expliquer ; parmi eux, des gérants de points de vente qui passaient par leur compte personnel les opérations de leurs clients.",
+      "textes": ["CMF L. 561-15 (I et III)"],
+      "chiffres_cles": ["24 dossiers reprochés, 24 retenus (4 admis par la société)", "8 déclarations de soupçon en 2019, 641 en 2021 selon la société (p. 13)"],
+      "issue": "retenu",
+      "precision_issue": "Entièrement fondé. Déclarer après le début du contrôle n'efface pas le manquement.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [8, 9, 10, 11, 13]
+    },
+    {
+      "numero": "4",
+      "titre": "Transferts envoyés sans le nom du bénéficiaire",
+      "resume": "Un règlement européen impose que tout transfert de fonds soit accompagné d'informations sur le payeur et le bénéficiaire. Les transferts vers l'Afrique ne portaient que le numéro de téléphone du bénéficiaire, pas son nom.",
+      "textes": ["règlement (UE) 2015/847, art. 4 et 6"],
+      "chiffres_cles": ["nom du bénéficiaire transmis systématiquement depuis juin 2020 seulement"],
+      "issue": "retenu",
+      "precision_issue": "Fondé : le numéro de téléphone ne vaut pas le nom.",
+      "categorie": "autre (à préciser)",
+      "categorie_precision": "informations accompagnant les transferts de fonds",
+      "categories_secondaires": [],
+      "pages": [11]
+    },
+    {
+      "numero": "5",
+      "titre": "Gel des avoirs : base clients vérifiée une fois par trimestre",
+      "resume": "Les listes françaises de gel étaient mises à jour chaque semaine dans l'outil, et la base des clients Orange Money n'y était comparée qu'une fois par trimestre. Une personne nouvellement visée pouvait donc rester cliente des semaines sans être repérée.",
+      "textes": ["CMF L. 562-4"],
+      "chiffres_cles": ["filtrage trimestriel ; quotidien depuis juin 2020"],
+      "issue": "retenu",
+      "precision_issue": "Fondé, non contesté. Manquement « d'une particulière gravité ».",
+      "categorie": "gel des avoirs et sanctions financières",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [11, 12]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "Produit à risque élevé comme toute activité de transfert de fonds, risque encore aggravé par les pays de destination et l'usage des espèces.", "pages": [12]},
+      {"texte": "Professionnel avisé intégré à un grand groupe, qui ne pouvait ignorer ni les risques ni ses obligations ; le lancement récent du produit et son faible poids dans l'activité ne sont pas des excuses.", "pages": [12]},
+      {"texte": "Gel des avoirs : obligation de résultat, manquement d'une particulière gravité.", "pages": [12]},
+      {"texte": "Situation financière solide.", "pages": [12]}
+    ],
+    "elements_attenuants": [
+      {"texte": "La société avait pris d'elle-même contact avec l'ACPR fin 2015 pour présenter son produit et son dispositif.", "pages": [12]},
+      {"texte": "Actions « volontaristes » après le contrôle, avec le soutien de la maison mère.", "pages": [12, 13]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Depuis juin 2020 : listes de gel mises à jour et base clients filtrée chaque jour ; nom du bénéficiaire transmis avec chaque transfert.", "pages": [11, 13]},
+      {"texte": "Depuis début 2021 : revenus et profession demandés aux clients.", "pages": [5, 13]},
+      {"texte": "Nouveau scénario sur les transferts vers plusieurs bénéficiaires.", "pages": [7, 8, 13]},
+      {"texte": "Effectifs de conformité et de contrôle interne à augmenter de 20 % en deux ans ; 1,6 million d'euros investis de 2019 à 2021.", "pages": [13]}
+    ],
+    "situation_financiere": {"texte": "Résultat de 1,5 million d'euros en 2018, attendu à environ 5,6 millions en 2021 pour un produit net bancaire de plus de 21 millions ; 17,6 millions de fonds propres en 2020. Le service Orange Money est encore déficitaire.", "pages": [12]},
+    "cause_profonde": {"texte": "La société « avait cru pouvoir faire reposer » son dispositif « essentiellement sur des plafonds imposés aux opérations », ce qui ne permettait pas de détecter et de traiter les opérations anormales. La Commission parle de « carence fondamentale ».", "pages": [12]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Un plafond par opération tient-il lieu de surveillance ? Les opérations sous le plafond sont-elles analysées ?",
+      "Les revenus et la profession sont-ils recueillis pour tout client d'un service de transfert de fonds ?",
+      "Le seuil d'alerte est-il proche du montant moyen réellement transféré ?",
+      "Un scénario repère-t-il un client qui envoie à de nombreux bénéficiaires, ou un bénéficiaire qui reçoit de nombreux clients ?",
+      "Les comptes personnels des gérants de points de vente sont-ils surveillés à part ?",
+      "Quand un contrat est résilié pour soupçon de fraude, la déclaration à Tracfin est-elle faite ?",
+      "Chaque transfert emporte-t-il le nom du bénéficiaire ?",
+      "La base clients est-elle refiltrée à chaque mise à jour des listes de gel ?",
+      "Un échange informel avec le superviseur avant un lancement est-il documenté, et le dispositif revu une fois le produit en service ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["monnaie électronique", "transfert de fonds vers l'Afrique", "espèces", "plafonds", "position antérieure du superviseur", "règlement sur les transferts de fonds", "gel des avoirs"],
+    "pages_prioritaires": [
+      {"pages": [3, 4], "pourquoi": "ce que vaut un échange préalable avec l'ACPR"},
+      {"pages": [5], "pourquoi": "pourquoi plafonner ne dispense pas de connaître le client"},
+      {"pages": [7], "pourquoi": "seuil d'alerte et schéma « un vers plusieurs »"},
+      {"pages": [9, 10], "pourquoi": "faisceaux d'indices qui imposent une déclaration"},
+      {"pages": [12, 13], "pourquoi": "ce qui aggrave et ce qui atténue"}
+    ],
+    "confiance": "élevée",
+    "a_verifier": [
+      "Poids d'Orange Money dans le produit net bancaire : 4 % en 2019 (p. 3), « 7 % environ » au moment du contrôle (p. 12). Les deux chiffres sont dans la décision.",
+      "Nombre de clients : 16 359 est mon addition des 7 103 comptes simplifiés et 9 256 comptes complets cités page 5.",
+      "Grief 4 : classé « autre », la grille n'ayant pas de catégorie pour les informations qui accompagnent les transferts de fonds."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Fable 5.2), à partir du texte extrait du PDF officiel", "date": "2026-11-12", "relue_par_mateo": false}
+}
