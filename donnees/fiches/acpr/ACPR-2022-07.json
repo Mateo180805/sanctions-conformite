@@ -1,0 +1,343 @@
+{
+  "id": "ACPR-2022-07",
+  "version_grille": 1,
+  "suivi": {
+    "statut": "à lire",
+    "mes_notes": ""
+  },
+  "perimetre": "LCB-FT",
+  "resume_court": "Treezor fournit à des fintechs des services de paiement en marque blanche ; ses clients finaux lui arrivent par ces intermédiaires. Au moment du contrôle, en 2021, 99,8 % de ces clients étaient notés à risque faible, et la surveillance automatique ne couvrait qu'environ 15 % des flux, avec des seuils d'alerte à 10 000 euros pour des opérations de 52 euros en moyenne chez les particuliers. La société repérait des fraudes et fermait les comptes, mais sans prévenir Tracfin : 55 déclarations manquantes. Sanction : un blâme et 1 million d'euros, la Commission tenant compte de la remise à niveau engagée après le rachat par la Société Générale et des pertes de la société.",
+  "identite": {
+    "etablissement": "Treezor",
+    "type_etablissement": "établissement de monnaie électronique",
+    "precision_type": "Société par actions simplifiée agréée comme établissement de monnaie électronique le 21 juin 2016, acteur du « Banking-as-a-Service ».",
+    "groupe": "Société Générale (acquisition en 2019)",
+    "pays": "France (siège à Paris)",
+    "activite_et_taille": "Fournit des services de paiement en marque blanche à des fintechs et à de grandes entreprises, qui sont le plus souvent enregistrées comme agents de prestataire de services de paiement ou distributeurs de monnaie électronique. 38 collaborateurs en 2019, 140 au moment du contrôle. Le nombre d'agents et de clients finaux est masqué dans la décision.",
+    "pages": [
+      1,
+      2
+    ]
+  },
+  "controle": {
+    "controle_sur_place": "du 14 juin au 15 octobre 2021",
+    "rapport_de_controle": "signé le 23 juin 2022",
+    "ouverture_de_la_procedure": "décidée le 21 novembre 2022, Commission saisie le 13 décembre 2022",
+    "antecedents": "Pas de précédent contrôle de l'ACPR mentionné. Un rapport de la direction de la conformité de la Société Générale du 4 mars 2020 avait déjà relevé plusieurs des faiblesses reprochées.",
+    "pages": [
+      2,
+      3,
+      4,
+      17
+    ]
+  },
+  "sanction": {
+    "nature": [
+      "blâme",
+      "sanction pécuniaire"
+    ],
+    "montant_euros": 1000000,
+    "publication": "nominative",
+    "duree_publication_nominative": "5 ans, puis forme anonymisée",
+    "proposition_du_college": "blâme et 1 million d'euros, publication nominative",
+    "pages": [
+      1,
+      2,
+      19,
+      20
+    ]
+  },
+  "procedure": {
+    "questions_de_procedure": "non précisé (aucune exception de procédure examinée ; la société demandait une audience non publique et une décision non nominative)",
+    "pages": [
+      1
+    ]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Profil de risque de la clientèle",
+      "resume": "Le modèle de notation plaçait presque tous les clients en risque faible, ce que ni l'activité ni le recours à des agents ne justifiait. Les bases de données d'identification et de connaissance des clients étaient peu fiables, et le profil de risque ne changeait rien aux informations collectées.",
+      "textes": [
+        "CMF L. 561-32 (I)",
+        "arrêté du 6 janvier 2021, art. 6"
+      ],
+      "chiffres_cles": [
+        "99,8 % des clients en risque « faible » ou « moyennement faible » ; 0,2 % en risque plus élevé (0,8 % selon la défense)",
+        "28 clients en risque « élevé » ou « moyennement élevé » sur environ 30 000 apportés par un agent",
+        "4 associations sur 9 examinées enregistrées à tort comme SARL",
+        "jusqu'en mars 2020 : ni classification des risques des clients finaux ni profil de risque formalisés"
+      ],
+      "issue": "retenu",
+      "precision_issue": "Fondé en ses trois branches. Un pourcentage très élevé de clients en risque faible ne suffit pas à lui seul, mais ici il n'est pas justifié par les caractéristiques de l'établissement.",
+      "categorie": "classification des risques",
+      "categorie_precision": "profil de risque des relations d'affaires",
+      "categories_secondaires": [
+        "connaissance du client à l'entrée en relation"
+      ],
+      "pages": [
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "numero": "2",
+      "titre": "Dispositif de surveillance des opérations",
+      "resume": "L'outil automatisé ne couvrait que les virements SEPA, avec quatre scénarios aux seuils sans rapport avec le montant moyen des opérations. Les scénarios ignoraient les revenus du client, le cumul d'opérations et les comptes ouverts chez plusieurs agents ; aucun ne visait le financement du terrorisme. Les outils anti-fraude sur les cartes ne pouvaient pas en tenir lieu. Le second reproche (un dispositif pensé pour la fraude plutôt que pour la LCB-FT) est écarté faute de manquement précis démontré.",
+      "textes": [
+        "CMF L. 561-32 (I)",
+        "CMF R. 561-38",
+        "arrêté du 6 janvier 2021, art. 4"
+      ],
+      "chiffres_cles": [
+        "virements SEPA : environ 15 % des flux en 2021 ; transferts entre comptes d'un même agent (8,81 % des flux) sans aucune surveillance automatisée",
+        "seuils de 10 000 et 50 000 euros par opération, pour un montant moyen de 52 euros (particuliers) et 819 euros (entreprises)",
+        "près de 6 500 clients avec un compte chez au moins deux agents, sans surveillance consolidée"
+      ],
+      "issue": "retenu en partie",
+      "precision_issue": "Première branche fondée ; seconde branche écartée.",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "numero": "3",
+      "titre": "Défauts d'examen renforcé",
+      "resume": "Six dossiers où des opérations atypiques n'ont pas été examinées : compte de passage, achats sans rapport avec l'objet social, achats de crypto-actifs très supérieurs au chiffre d'affaires déclaré, virements répétés juste sous le seuil de détection, flux d'une association à vérifier au regard de son objet.",
+      "textes": [
+        "CMF L. 561-10-2"
+      ],
+      "chiffres_cles": [
+        "6 dossiers reprochés, 6 retenus (montants masqués dans la décision)"
+      ],
+      "issue": "retenu",
+      "precision_issue": "Fondé pour les 6 dossiers.",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [
+        10,
+        11
+      ]
+    },
+    {
+      "numero": "4",
+      "titre": "Défauts de déclaration de soupçon",
+      "resume": "Cinquante-cinq dossiers sans déclaration à Tracfin. Dans beaucoup de cas, la société avait repéré une fraude et clôturé le compte, sans déclarer. La Commission rappelle que clôturer ou geler un compte ne suffit pas, qu'une réquisition judiciaire ne dispense pas de déclarer, et que citer un client dans la déclaration d'un autre dossier n'informe pas Tracfin de ses propres opérations.",
+      "textes": [
+        "CMF L. 561-15"
+      ],
+      "chiffres_cles": [
+        "56 dossiers reprochés, 55 retenus, 1 écarté (dossier 4.16)",
+        "35 dossiers non contestés par la société",
+        "9 dossiers avec réquisition judiciaire ou saisie pénale (8 retenus) ; 4 avec droit de communication de Tracfin (4 retenus) ; 8 autres dossiers (8 retenus)"
+      ],
+      "issue": "retenu en partie",
+      "precision_issue": "Fondé pour 55 dossiers sur 56.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "numero": "5",
+      "titre": "Déclarations de soupçon tardives",
+      "resume": "Sur le premier semestre 2021, une part importante des déclarations a été envoyée plus de 100 jours après l'alerte, sans diligence précise pour l'expliquer. La crise sanitaire, les mouvements de personnel et la nécessité d'interroger les agents ne sont pas admis comme justification.",
+      "textes": [
+        "CMF L. 561-16"
+      ],
+      "chiffres_cles": [
+        "63 DS sur 176 (35 % ; environ 27 % selon la défense) envoyées plus de 100 jours après l'alerte, du 1er janvier à mi-juillet 2021",
+        "cette part était de 8,2 % en 2020",
+        "6 dossiers cités en illustration, retard non justifié dans les 6"
+      ],
+      "issue": "retenu",
+      "precision_issue": "Fondé : carence d'organisation du dispositif sur la période visée.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [
+        16,
+        17
+      ]
+    },
+    {
+      "numero": "6",
+      "titre": "Contrôle interne : faiblesses connues depuis 2020 et non corrigées",
+      "resume": "La poursuite reprochait six défaillances relevées par l'audit du groupe en mars 2020 et toujours présentes lors du contrôle. La Commission écarte le grief : il était présenté comme une insuffisance du contrôle interne, or la poursuite ne critiquait ni son organisation ni son fonctionnement, seulement l'absence de corrections.",
+      "textes": [
+        "CMF L. 561-32 (II)",
+        "arrêté du 6 janvier 2021, art. 13",
+        "arrêté du 3 novembre 2014, art. 11"
+      ],
+      "chiffres_cles": [
+        "6 défaillances énumérées (profils de risque, agrégation des opérations, scénarios, seuils, fractionnement, qualité des données)"
+      ],
+      "issue": "écarté",
+      "precision_issue": "Écarté pour une raison de qualification juridique, pas parce que les faiblesses auraient été corrigées.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [
+        17,
+        18
+      ]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {
+        "texte": "Manquements « très sérieux », qui affectaient gravement le dispositif.",
+        "pages": [
+          18
+        ]
+      },
+      {
+        "texte": "Arguments rejetés : société récente et activité innovante (les risques de la monnaie électronique et du recours à des agents étaient décrits dès 2019) ; crise sanitaire (les carences touchent des aspects fondamentaux qui auraient dû être traités avant 2020).",
+        "pages": [
+          18,
+          19
+        ]
+      }
+    ],
+    "elements_attenuants": [
+      {
+        "texte": "Actions de mise à niveau engagées après le rachat par la Société Générale ; la société est « aujourd'hui très différente » de ce qu'elle était en 2016 ou 2019.",
+        "pages": [
+          19
+        ]
+      },
+      {
+        "texte": "Situation financière prise en compte au titre de la proportionnalité.",
+        "pages": [
+          19
+        ]
+      }
+    ],
+    "mesures_correctrices": [
+      {
+        "texte": "Nouvelle version de l'outil de notation déployée à partir de décembre 2022 (prise en compte de l'entrée en relation à distance, des canaux de distribution, des demandes de Tracfin et des réquisitions).",
+        "pages": [
+          4
+        ]
+      },
+      {
+        "texte": "Nouvel outil surveillant tous les flux entrants et sortants, déployé au second semestre 2023.",
+        "pages": [
+          9
+        ]
+      },
+      {
+        "texte": "Mise à niveau évaluée par la société à 3,2 millions d'euros au 1er mars 2023 : classification des risques, procédures, outils, réorganisation de la conformité et du contrôle interne, renforcement des effectifs. Attestée par un auditeur externe dont les travaux étaient encore en cours.",
+        "pages": [
+          19
+        ]
+      }
+    ],
+    "situation_financiere": {
+      "texte": "Perte nette cumulée de près de 48 millions d'euros sur 2019-2023 (20,2 millions en 2022, 11,8 millions en 2023) ; 5,9 millions d'euros de fonds propres fin 2023.",
+      "pages": [
+        19
+      ]
+    },
+    "cause_profonde": {
+      "texte": "Non précisé en tant que cause. La décision relève que la société regardait la fraude documentaire comme son risque principal et que sa surveillance répondait d'abord à une logique de prévention de la fraude.",
+      "pages": [
+        9
+      ]
+    }
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "La répartition des clients par niveau de risque est-elle plausible au regard de l'activité, ou presque tout le monde est-il en risque faible ?",
+      "Les événements connus (DS, droit de communication, réquisition) font-ils remonter automatiquement le profil de risque ?",
+      "La qualité des données clients (forme juridique, identité, revenus) est-elle contrôlée, puisqu'elle alimente la notation ?",
+      "La surveillance automatisée couvre-t-elle tous les types de flux, y compris les transferts internes entre comptes ?",
+      "Les seuils d'alerte sont-ils calibrés sur le montant moyen des opérations, et un cumul détecte-t-il le fractionnement ?",
+      "Un même client final est-il suivi de façon consolidée quand il a des comptes chez plusieurs agents ou distributeurs ?",
+      "Quand un compte est clôturé pour fraude, la question d'une DS est-elle posée et tracée ?",
+      "Le délai entre l'alerte et la DS est-il mesuré et les retards expliqués par des diligences écrites ?",
+      "Les constats de l'audit interne ou du groupe ont-ils un plan d'action daté, dont l'exécution est vérifiée ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": [
+      "Banking-as-a-Service",
+      "agents et distributeurs",
+      "fraude et LCB-FT",
+      "compte de passage",
+      "clôture de compte sans DS",
+      "fintech"
+    ],
+    "pages_prioritaires": [
+      {
+        "pages": [
+          4
+        ],
+        "pourquoi": "quand un taux de clients en risque faible devient un manquement"
+      },
+      {
+        "pages": [
+          8,
+          9
+        ],
+        "pourquoi": "insuffisances des scénarios, point par point"
+      },
+      {
+        "pages": [
+          9,
+          10
+        ],
+        "pourquoi": "différence entre lutte contre la fraude et LCB-FT"
+      },
+      {
+        "pages": [
+          12,
+          13
+        ],
+        "pourquoi": "réquisition judiciaire et obligation de déclarer"
+      },
+      {
+        "pages": [
+          17,
+          18
+        ],
+        "pourquoi": "pourquoi le grief 6 est écarté (bien qualifier un grief)"
+      },
+      {
+        "pages": [
+          18,
+          19
+        ],
+        "pourquoi": "arguments d'atténuation acceptés et refusés"
+      }
+    ],
+    "confiance": "élevée",
+    "a_verifier": [
+      "Beaucoup de montants et de dates sont masqués ([…]) dans le texte officiel : la fiche ne les reconstitue pas.",
+      "Grief 4 : le décompte 35 + 8 + 4 + 8 = 55 dossiers retenus est le mien, à partir des points 29, 41, 46 et 54 ; il concorde avec le total donné au point 55.",
+      "La durée de publication nominative proposée par le Collège n'est pas indiquée (p. 2) ; la Commission fixe 5 ans (p. 19)."
+    ]
+  },
+  "redaction": {
+    "redigee_par": "Claude (Fable 5.2), à partir du texte extrait du PDF officiel",
+    "date": "2026-11-12",
+    "relue_par_mateo": false
+  }
+}

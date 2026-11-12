@@ -1,0 +1,170 @@
+{
+  "id": "ACPR-2024-01",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT",
+  "resume_court": "La Banque Chaabi du Maroc est la filiale française d'un groupe bancaire marocain ; ses clients sont surtout des particuliers qui envoient de l'argent au Maroc. Déjà sanctionnée en 2013, elle l'est à nouveau : près des deux tiers des alertes de son outil de surveillance attendaient encore d'être examinées plus d'un an après, 23 signalements à Tracfin sont partis en moyenne plus de deux ans après les opérations, et le siège ne pouvait pas contrôler lui-même les outils de trois succursales européennes. Les deux reproches sur la vente des produits de la maison mère en Europe sont en revanche écartés. Sanction : un blâme et 250 000 euros, un montant qui tient compte des pertes de la banque et des corrections engagées.",
+  "identite": {
+    "etablissement": "Banque Chaabi du Maroc (BCDM)",
+    "type_etablissement": "banque",
+    "precision_type": "Établissement de crédit, filiale française créée en 1972, avec des succursales dans d'autres pays européens.",
+    "groupe": "Groupe Banque Centrale Populaire du Maroc (BCP), environ 54 milliards d'euros de total de bilan en 2024",
+    "pays": "France (succursales citées : Pays-Bas, Belgique, Espagne, Italie, Allemagne)",
+    "activite_et_taille": "Comptes, crédits et surtout transferts de fonds. La banque distribue aussi les services bancaires de sa maison mère aux Marocains résidant à l'étranger : fin 2022, les commissions reçues à ce titre faisaient 77 % de son produit d'exploitation bancaire. Environ 400 salariés, dont 38 à la conformité ; bilan d'environ 400 millions d'euros ; clientèle presque entièrement composée de particuliers, en majorité clients occasionnels.",
+    "pages": [2, 3, 4]
+  },
+  "controle": {
+    "controle_sur_place": "du 7 février au 9 juin 2023",
+    "rapport_de_controle": "signé le 4 janvier 2024",
+    "ouverture_de_la_procedure": "décidée le 31 mai 2024, Commission saisie le 20 juin 2024",
+    "antecedents": "Sanction disciplinaire prononcée en 2013 pour des manquements LCB-FT. En 2015, l'autorisation de vendre en France les services de la maison mère a été soumise à trois conditions liées à la correction de ces manquements ; un contrôle de 2017 ayant encore relevé des insuffisances, elles n'ont été levées que le 30 avril 2020.",
+    "pages": [3, 4, 12]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 250000,
+    "publication": "nominative",
+    "duree_publication_nominative": "5 ans, puis forme anonymisée",
+    "proposition_du_college": "blâme et 300 000 euros, publication nominative pendant 5 ans",
+    "pages": [1, 2, 12]
+  },
+  "procedure": {"questions_de_procedure": "non précisé (aucune exception de procédure examinée)", "pages": []},
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Vente des produits de la maison mère dans les succursales : correction jugée tardive par la poursuite",
+      "resume": "La poursuite reprochait à la banque d'avoir tardé à traiter un risque juridique : vendre, depuis ses succursales d'Espagne, de Belgique et d'Allemagne, les services d'une banque située hors d'Europe. La Commission écarte le reproche : la règle dépend de chaque pays, le risque n'était pas établi en Espagne ni en Allemagne, et en Belgique la banque a réagi tout de suite.",
+      "textes": ["arrêté du 3 novembre 2014, art. 38 et 11 f)"],
+      "chiffres_cles": ["risque évoqué en Espagne dès 2008, aux Pays-Bas en 2011, en Belgique en novembre 2020, en Italie en janvier 2021", "rappel de l'ACPR le 12 décembre 2022"],
+      "issue": "écarté",
+      "precision_issue": "Grief écarté. Un risque repéré dans un pays ne prouve pas le même risque dans un autre.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "grief hors LCB-FT : suivi d'un risque de non-conformité dans les succursales",
+      "categories_secondaires": ["dispositif de groupe, filiales et correspondance bancaire"],
+      "pages": [4, 5, 6]
+    },
+    {
+      "numero": "2",
+      "titre": "Suivi de l'arrêt de cette activité dans les succursales",
+      "resume": "Après le rappel de l'ACPR, la banque a ordonné l'arrêt de l'activité dans ses succursales, sans procédure pour vérifier que l'ordre était appliqué. La Commission admet qu'il était matériellement difficile de bâtir cette vérification, qui supposait des développements informatiques, entre décembre 2022 et le rapport de contrôle.",
+      "textes": ["arrêté du 3 novembre 2014, art. 38 et 11 f)"],
+      "chiffres_cles": ["non précisé"],
+      "issue": "écarté",
+      "precision_issue": "Grief écarté. Le rapport de contrôle lui-même avait une « assurance raisonnable » que l'activité était limitée aux résidents en France.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "grief hors LCB-FT",
+      "categories_secondaires": ["dispositif de groupe, filiales et correspondance bancaire"],
+      "pages": [6]
+    },
+    {
+      "numero": "3",
+      "titre": "Stock d'alertes non traitées",
+      "resume": "L'outil de surveillance produisait plus d'alertes que la banque ne pouvait en examiner. Les arguments de la banque sont rejetés un à un : la concentration d'un quart des alertes sur 50 clients ne réduit pas le risque, et si le contrôle avant exécution avait bien fonctionné, ces opérations n'auraient pas généré d'alertes après coup.",
+      "textes": ["CMF L. 561-32", "arrêté du 6 janvier 2021, art. 4", "CMF L. 561-16"],
+      "chiffres_cles": ["24 000 alertes sur 38 020 (63 %) émises entre le 1er janvier 2021 et le 15 mars 2022 encore en attente au moment du contrôle", "stock résorbé le 27 septembre 2024"],
+      "issue": "retenu",
+      "precision_issue": "Fondé, « et ne saurait être minoré ». L'ACPR avait déjà signalé en 2017 que l'outil était mal calibré.",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": ["dispositif de surveillance des opérations (outils, scénarios, seuils)", "gouvernance, moyens et formation"],
+      "pages": [6, 7]
+    },
+    {
+      "numero": "4",
+      "titre": "Clients réguliers traités comme des clients de passage",
+      "resume": "La procédure interne prévoyait qu'à partir de la septième opération de transfert sur un an, un client devenait une relation d'affaires. Onze clients au-delà de ce seuil étaient restés « occasionnels » ; la banque n'avait donc ni leurs revenus ni leur patrimoine. Le contrôle interne de la banque avait vu le problème, mais il n'était pas corrigé au début du contrôle de l'ACPR.",
+      "textes": ["CMF L. 561-2-1", "CMF L. 561-5", "CMF L. 561-6"],
+      "chiffres_cles": ["11 clients, pour des montants de 2 000 à 12 000 euros", "erreur de qualification constatée par le contrôle permanent dans 38 % de 528 dossiers au premier semestre 2022"],
+      "issue": "retenu",
+      "precision_issue": "Fondé pour les 11 clients.",
+      "categorie": "relation d'affaires et clients occasionnels",
+      "categorie_precision": "",
+      "categories_secondaires": ["connaissance du client à l'entrée en relation", "vigilance constante et mise à jour des dossiers"],
+      "pages": [7, 8]
+    },
+    {
+      "numero": "5",
+      "titre": "Déclarations de soupçon tardives",
+      "resume": "Vingt-trois opérations repérées par la mission de contrôle ont été déclarées à Tracfin pendant le contrôle, parfois des années après les faits. La surcharge liée au stock d'alertes n'est pas une excuse : il faut des effectifs suffisants.",
+      "textes": ["CMF L. 561-16"],
+      "chiffres_cles": ["25 opérations à déclarer repérées par la mission de contrôle ; 23 déclarées entre le 4 mai et le 21 juin 2023", "délai moyen de plus de 768 jours, de 83 à 1 997 jours"],
+      "issue": "retenu",
+      "precision_issue": "Fondé, délais non contestés.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [8, 9]
+    },
+    {
+      "numero": "6",
+      "titre": "Deux défauts de déclaration de soupçon",
+      "resume": "Dans deux dossiers, la banque avait elle-même jugé les opérations douteuses (comptes bloqués dans l'un, compte clôturé et restitution des fonds refusée dans l'autre) sans prévenir Tracfin. Les déclarations n'ont été faites qu'en juillet et septembre 2024, après le contrôle.",
+      "textes": ["CMF L. 561-15"],
+      "chiffres_cles": ["2 dossiers, dont un portant sur 240 837 euros de virements sans justificatif en 2019"],
+      "issue": "retenu",
+      "precision_issue": "Fondé pour les deux dossiers.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [9, 10]
+    },
+    {
+      "numero": "7",
+      "titre": "Contrôle interne incomplet sur les succursales et les examens renforcés",
+      "resume": "La conformité du siège n'avait pas d'accès direct aux outils de surveillance et de filtrage des succursales belge, italienne et espagnole : elle contrôlait sur la base d'extractions fournies par celles-ci, sans pouvoir en vérifier la fiabilité. Les plans de contrôle ne prévoyaient pas de vérifier le paramétrage de ces outils, ni de revoir les examens renforcés.",
+      "textes": ["CMF L. 561-32", "CMF R. 561-38-4", "arrêté du 3 novembre 2014, art. 12"],
+      "chiffres_cles": ["3 succursales avec leurs propres outils", "plans de contrôle 2022 et 2023 sans point sur le paramétrage"],
+      "issue": "retenu",
+      "precision_issue": "Fondé en ses trois branches. L'audit interne (troisième niveau) ne remplace pas le contrôle permanent.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "",
+      "categories_secondaires": ["dispositif de groupe, filiales et correspondance bancaire"],
+      "pages": [10, 11]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "Lacunes persistantes « en dépit de la sanction prononcée en 2013 » et du suivi régulier de l'ACPR.", "pages": [12]},
+      {"texte": "Mauvais calibrage de l'outil de surveillance déjà signalé par l'ACPR en 2017.", "pages": [7]}
+    ],
+    "elements_attenuants": [
+      {"texte": "Le problème des alertes avait été repéré par la banque avant le contrôle ; stock résorbé en septembre 2024 grâce à un renfort temporaire.", "pages": [12]},
+      {"texte": "Les 11 erreurs de qualification sont à rapporter à plusieurs dizaines de milliers de nouveaux clients sur la période.", "pages": [12]},
+      {"texte": "Griefs 1 et 2 totalement écartés.", "pages": [12]},
+      {"texte": "Ampleur et coût (7,5 millions d'euros) des actions engagées depuis 2013, pris en compte « dans une certaine mesure ».", "pages": [12]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Renfort d'effectifs pour traiter le stock d'alertes ; déclarations de soupçon régularisées pendant et après le contrôle.", "pages": [7, 9, 10]}
+    ],
+    "situation_financiere": {"texte": "Établissement de taille modeste, en perte chaque année depuis 2019 : perte de 3,5 millions d'euros en 2024 pour un produit net bancaire d'environ 51 millions ; 50,7 millions de fonds propres.", "pages": [4, 12]},
+    "cause_profonde": {"texte": "La décision relie le stock d'alertes au mauvais calibrage de l'outil de surveillance. La banque explique elle-même les déclarations tardives par la surcharge due à ce stock, et les erreurs de qualification par un mauvais paramétrage informatique.", "pages": [8, 9, 12]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Le nombre d'alertes produites est-il compatible avec les effectifs qui les traitent ? L'ancienneté du stock est-elle suivie ?",
+      "La règle interne de passage en relation d'affaires est-elle réellement appliquée par l'outil (test sur les clients au-delà du seuil) ?",
+      "Une anomalie relevée par le contrôle permanent a-t-elle une échéance de correction, et quelqu'un vérifie-t-il qu'elle est tenue ?",
+      "Quand un compte est bloqué ou clôturé pour doute, la décision de déclarer ou non à Tracfin est-elle écrite ?",
+      "Le siège a-t-il un accès direct aux outils des succursales, ou dépend-il de ce qu'elles lui envoient ?",
+      "Le contrôle de deuxième niveau revoit-il un échantillon d'examens renforcés ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["transfert de fonds", "récidive", "stock d'alertes", "succursales européennes", "relation d'affaires", "griefs écartés"],
+    "pages_prioritaires": [
+      {"pages": [5, 6], "pourquoi": "pourquoi un grief de contrôle interne peut être écarté"},
+      {"pages": [7], "pourquoi": "stock d'alertes : les arguments rejetés"},
+      {"pages": [8, 9], "pourquoi": "relation d'affaires et déclarations tardives"},
+      {"pages": [11], "pourquoi": "contrôle de deuxième niveau des succursales"},
+      {"pages": [12], "pourquoi": "ce qui fait baisser la sanction"}
+    ],
+    "confiance": "élevée",
+    "a_verifier": [
+      "La sanction de 2013 correspond très probablement à la décision ACPR-2012-08 de la base (même banque, 2 décembre 2013). La décision de 2025 ne donne pas le numéro : lien à confirmer.",
+      "Le nombre de clients est masqué dans le texte officiel.",
+      "Grief 7 : le rapporteur concluait à un périmètre réduit (p. 1), la Commission retient les trois branches (p. 11)."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Fable 5.2), à partir du texte extrait du PDF officiel", "date": "2026-11-12", "relue_par_mateo": false}
+}

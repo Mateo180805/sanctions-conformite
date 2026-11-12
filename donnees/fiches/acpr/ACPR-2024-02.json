@@ -1,0 +1,415 @@
+{
+  "id": "ACPR-2024-02",
+  "version_grille": 1,
+  "suivi": {
+    "statut": "à lire",
+    "mes_notes": ""
+  },
+  "perimetre": "LCB-FT et gel des avoirs",
+  "resume_court": "Banque familiale de taille modeste, déjà mise en demeure par l'ACPR en 2017. Le contrôle de 2023 retrouve une partie des mêmes faiblesses : un outil de surveillance qui ne regroupe pas les opérations d'un même client, des milliers d'alertes traitées en retard, des comptes fermés pour soupçon sans que Tracfin soit prévenu, 30 opérations suspectes non déclarées. Côté sanctions internationales, une partie des dirigeants et des propriétaires de sociétés clientes n'était jamais comparée aux listes de gel des avoirs, et plus de 65 000 virements n'ont pas été filtrés entre 2020 et 2022. Sanction : un blâme et 600 000 euros, un montant qui tient compte des pertes de la banque et des sommes investies pour corriger.",
+  "identite": {
+    "etablissement": "Banque Delubac & Cie",
+    "type_etablissement": "banque",
+    "precision_type": "Banque familiale fondée en 1924, société en commandite simple.",
+    "groupe": "non précisé",
+    "pays": "non précisé (la décision mentionne des bureaux de représentation en province et à La Réunion)",
+    "activite_et_taille": "Établissement de taille modeste : 1,2 milliard d'euros de total de bilan fin 2023, 343 salariés en équivalent temps plein. Spécialité historique : le financement d'entreprises en difficulté (« banque judiciaire »). Diversification récente : accompagnement d'entreprises pour des transactions avec des pays sous sanctions ou à risques spécifiques, plan de développement commercial lancé en 2021, correspondance bancaire, offre sur actifs numériques.",
+    "pages": [
+      2,
+      3
+    ]
+  },
+  "controle": {
+    "controle_sur_place": "du 6 février au 2 juin 2023",
+    "rapport_de_controle": "signé le 28 novembre 2023",
+    "ouverture_de_la_procedure": "décidée le 31 mai 2024, Commission saisie le 20 juin 2024",
+    "antecedents": "Précédent rapport de contrôle signé le 24 janvier 2017, suivi d'une lettre de suite (19 septembre 2017) et d'une mise en demeure (13 octobre 2017). Quatre des cinq recommandations de la mise en demeure avaient été clôturées le 9 mai 2018.",
+    "pages": [
+      3,
+      4
+    ]
+  },
+  "sanction": {
+    "nature": [
+      "blâme",
+      "sanction pécuniaire"
+    ],
+    "montant_euros": 600000,
+    "publication": "nominative",
+    "duree_publication_nominative": "5 ans, puis forme anonymisée",
+    "proposition_du_college": "blâme et 800 000 euros, publication nominative pendant 5 ans",
+    "pages": [
+      1,
+      2,
+      21,
+      22
+    ]
+  },
+  "procedure": {
+    "questions_de_procedure": "Trois moyens de la banque sont écartés : l'imprécision de certains griefs, l'atteinte à la confiance légitime (du fait de la clôture des observations de 2017) et le droit de ne pas s'incriminer soi-même pendant le contrôle sur place. La Commission rappelle aussi que le Collège apprécie seul l'opportunité d'ouvrir une procédure.",
+    "pages": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Outil de surveillance des opérations",
+      "resume": "L'outil automatisé ne tenait compte ni de la situation financière des clients ni du fonctionnement de compte annoncé à l'entrée en relation. Il ne regroupait pas toutes les opérations d'un même client, ses seuils étaient peu modulés selon le risque et il ne savait pas repérer les virements liés à un pays que la banque classait elle-même comme risqué.",
+      "textes": [
+        "CMF L. 561-32 (I)",
+        "CMF R. 561-38"
+      ],
+      "chiffres_cles": [
+        "4 des 58 codes d'activité (APE) classés en risque « élevé » pris en compte par certains modèles d'alerte",
+        "aucun des 16 codes APE classés en risque « très élevé » pris en compte"
+      ],
+      "issue": "retenu",
+      "precision_issue": "Entièrement fondé. L'absence de surveillance consolidée par client avait déjà été relevée dans le rapport de 2017.",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [
+        6,
+        7
+      ]
+    },
+    {
+      "numero": "2",
+      "titre": "Traitement des alertes et clôtures de comptes",
+      "resume": "Trois reproches : un stock d'alertes traité trop lentement ; une méthode qui n'analysait qu'un échantillon des alertes d'un client avant de statuer sur toutes ; des comptes clôturés pour motif LCB-FT par les directions commerciales sans prévenir la direction de la sécurité financière, donc sans examen renforcé ni déclaration de soupçon.",
+      "textes": [
+        "arrêté du 6 janvier 2021, art. 4"
+      ],
+      "chiffres_cles": [
+        "27 056 alertes de 2022 non traitées ou en cours au 7 février 2023",
+        "plus de 25 % émises depuis plus de 4 mois, soit environ 6 500 alertes"
+      ],
+      "issue": "retenu",
+      "precision_issue": "Fondé en ses trois branches. L'arrêté ne fixe pas de délai, mais il se lit au regard de l'obligation de déclarer « sans délai ».",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": [
+        "déclarations de soupçon à Tracfin",
+        "procédures et contrôle interne"
+      ],
+      "pages": [
+        8,
+        9
+      ]
+    },
+    {
+      "numero": "3",
+      "titre": "Vigilance complémentaire sur les pays listés par le GAFI ou l'Union européenne",
+      "resume": "Les liens d'un client avec un pays à risque n'étaient repérés qu'à partir de ce qu'il déclarait à l'entrée en relation, pas à partir de ses opérations réelles. La liste des pays « sensibles » ne recouvrait pas la classification des risques de la banque. Pour la correspondance bancaire, seuls les pays à risque « très élevé » étaient surveillés.",
+      "textes": [
+        "CMF L. 561-10 (3°)",
+        "CMF R. 561-20-4"
+      ],
+      "chiffres_cles": [
+        "13 pays de la liste grise du GAFI cités comme non pris en compte pour la correspondance bancaire (dont Émirats arabes unis, Panama, Gibraltar, Îles Caïmans)"
+      ],
+      "issue": "retenu",
+      "precision_issue": "Entièrement fondé.",
+      "categorie": "personnes politiquement exposées et vigilance renforcée",
+      "categorie_precision": "vigilance complémentaire sur les pays à haut risque",
+      "categories_secondaires": [
+        "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+        "dispositif de groupe, filiales et correspondance bancaire"
+      ],
+      "pages": [
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "numero": "4",
+      "titre": "Mise en œuvre de la vigilance renforcée",
+      "resume": "La procédure interne imposait de placer en vigilance renforcée les clients ayant fait l'objet d'une déclaration de soupçon ou d'un droit de communication de Tracfin : ce n'était pas toujours fait. Pour une partie des clients placés en vigilance renforcée, seuls certains de leurs comptes étaient réellement couverts.",
+      "textes": [
+        "CMF L. 561-10-1"
+      ],
+      "chiffres_cles": [
+        "entre 2020 et 2022 : 50 des 601 clients ayant fait l'objet d'une DS non placés en vigilance renforcée",
+        "9 des 67 clients visés par un droit de communication non placés en vigilance renforcée",
+        "700 des 1 949 clients en vigilance renforcée : application à une partie seulement de leurs comptes"
+      ],
+      "issue": "retenu",
+      "precision_issue": "Entièrement fondé, faits non contestés. Des carences du même ordre avaient été relevées par la précédente mission.",
+      "categorie": "personnes politiquement exposées et vigilance renforcée",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [
+        11,
+        12
+      ]
+    },
+    {
+      "numero": "5",
+      "titre": "Examens renforcés : retards et défauts",
+      "resume": "Un stock important d'examens renforcés attendait depuis plusieurs mois, ce qui empêchait de déclarer « sans délai » le cas échéant. S'y ajoutent des défauts d'examen renforcé sur des opérations d'un montant inhabituel ou sans justification économique apparente (compte de passage, flux vers un dirigeant ou un proche du bénéficiaire effectif).",
+      "textes": [
+        "CMF L. 561-10-2"
+      ],
+      "chiffres_cles": [
+        "au 5 avril 2023 : 115 dossiers en stock, dont 104 « à traiter » ; 66 en attente depuis plus de 120 jours",
+        "10 défauts reprochés sur 120 dossiers examinés : 7 retenus, 3 écartés (correspondance bancaire, reproche insuffisamment précis)"
+      ],
+      "issue": "retenu en partie",
+      "precision_issue": "Première branche (retards) entièrement fondée ; seconde branche fondée pour 7 dossiers sur 10.",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [
+        12,
+        13
+      ]
+    },
+    {
+      "numero": "6",
+      "titre": "Défauts de déclaration de soupçon",
+      "resume": "Trente dossiers sans déclaration alors que les opérations la justifiaient : hausse rapide et inexpliquée des flux, écart avec l'activité annoncée, comptes de passage, schémas compatibles avec la rémunération de travail dissimulé, sociétés liées entre elles. Plusieurs clients avaient fait l'objet de réquisitions ou de droits de communication.",
+      "textes": [
+        "CMF L. 561-15 (I et II)",
+        "CMF D. 561-32-1"
+      ],
+      "chiffres_cles": [
+        "30 dossiers sur les 120 examinés, tous retenus (11 non contestés, 19 contestés)",
+        "dans 6 dossiers, au moins 5 alertes automatiques avaient été classées sans suite ou étaient encore en cours"
+      ],
+      "issue": "retenu",
+      "precision_issue": "Fondé pour les 30 dossiers. La Commission précise que l'origine réelle ou supposée des personnes ne peut pas contribuer au soupçon : seules les caractéristiques des opérations comptent.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "numero": "7",
+      "titre": "Opérations exécutées avant déclaration et déclarations tardives",
+      "resume": "La banque a exécuté des opérations pour des sociétés d'un même groupe, déjà visé par plusieurs déclarations de soupçon, réquisitions et saisies pénales, avant de les déclarer. Plus largement, ses déclarations partaient en moyenne deux mois après l'opération, sans diligence précise pour le justifier.",
+      "textes": [
+        "CMF L. 561-16"
+      ],
+      "chiffres_cles": [
+        "délai moyen de 63 jours entre l'opération et la DS, de 2020 à 2022",
+        "10 DS transmises plus de 180 jours après l'opération, dont 2 après plus de 500 jours"
+      ],
+      "issue": "retenu",
+      "precision_issue": "Entièrement fondé.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "numero": "8",
+      "titre": "Procédures du contrôle permanent",
+      "resume": "Les trois procédures qui encadraient le contrôle permanent ne disaient ni quels contrôles faire, ni selon quels critères et seuils repérer un incident important ou une insuffisance LCB-FT. Une seule direction commerciale (la banque judiciaire) avait un plan de contrôle de premier niveau formalisé.",
+      "textes": [
+        "CMF L. 561-32 (II)",
+        "CMF R. 561-38-3",
+        "CMF R. 561-38-4",
+        "arrêté du 6 janvier 2021, art. 13"
+      ],
+      "chiffres_cles": [
+        "carences identifiées par la banque dès 2019 et relevées par son inspection générale",
+        "plan de contrôle de la banque d'entreprise défini seulement en avril 2023"
+      ],
+      "issue": "retenu",
+      "precision_issue": "Fondé. Les textes n'imposent pas un plan par direction, mais des procédures couvrant toute l'activité.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "numero": "9",
+      "titre": "Dispositif de gel des avoirs",
+      "resume": "Les procédures ne décrivaient ni la gouvernance du criblage et du filtrage (qui fait quoi, qui valide) ni le périmètre du criblage. Deux failles : des dirigeants et bénéficiaires effectifs non saisis dans l'outil, donc jamais criblés ; des flux non filtrés pendant plus de deux ans à cause d'un seuil de 1 000 euros.",
+      "textes": [
+        "CMF L. 562-4-1",
+        "arrêté du 6 janvier 2021, art. 11 et 12"
+      ],
+      "chiffres_cles": [
+        "au 31 décembre 2022 : aucun dirigeant renseigné pour 15,6 % des sociétés actives, aucun bénéficiaire effectif pour 28,5 %",
+        "bénéficiaires effectifs absents pour 25 contrats de fiducie sur 28 (13 mars 2023)",
+        "5 500 flux en devises et 60 000 flux SEPA non filtrés entre 2020 et 2022 ; seuil posé en mars 2018, corrigé le 21 novembre 2022 (euros) et le 6 mars 2023 (devises)"
+      ],
+      "issue": "retenu",
+      "precision_issue": "Fondé, non contesté. La Commission rappelle que le gel des avoirs est une obligation de résultat.",
+      "categorie": "gel des avoirs et sanctions financières",
+      "categorie_precision": "",
+      "categories_secondaires": [
+        "connaissance du client à l'entrée en relation"
+      ],
+      "pages": [
+        19,
+        20,
+        21
+      ]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {
+        "texte": "Persistance de carences majeures depuis la mission de 2017 et apparition de nouvelles insuffisances.",
+        "pages": [
+          21
+        ]
+      },
+      {
+        "texte": "Dispositif de gel des avoirs « encore une fois » gravement défaillant ; l'inspection interne relevait déjà une lacune de procédure en 2015.",
+        "pages": [
+          21
+        ]
+      },
+      {
+        "texte": "Répétition de schémas analogues de possible blanchiment, pour des montants élevés au regard de la taille de la banque : « à tout le moins une négligence ».",
+        "pages": [
+          15
+        ]
+      },
+      {
+        "texte": "Tous les reproches sont retenus en totalité, sauf le grief 5 légèrement réduit.",
+        "pages": [
+          21
+        ]
+      }
+    ],
+    "elements_attenuants": [
+      {
+        "texte": "Ampleur des actions correctives : environ 3 millions d'euros depuis 2020 selon la banque, dont 800 000 euros pour les outils LCB-FT.",
+        "pages": [
+          21
+        ]
+      }
+    ],
+    "mesures_correctrices": [
+      {
+        "texte": "Amélioration de l'outil de détection et renforcement des moyens après le début du contrôle.",
+        "pages": [
+          7
+        ]
+      },
+      {
+        "texte": "Création d'un poste de responsable d'équipe LCB-FT pour la correspondance bancaire ; groupe « pays sensibles » créé dans l'outil en septembre 2023.",
+        "pages": [
+          11
+        ]
+      },
+      {
+        "texte": "Stock d'examens renforcés divisé par trois entre janvier et août 2024.",
+        "pages": [
+          13
+        ]
+      },
+      {
+        "texte": "Procédure sur les embargos, sanctions et gel des avoirs publiée le 17 mai 2023 ; modes opératoires de filtrage et de criblage. La Commission juge ces actions « particulièrement tardives ».",
+        "pages": [
+          21
+        ]
+      }
+    ],
+    "situation_financiere": {
+      "texte": "Fin 2024 : 37 millions d'euros de fonds propres, perte nette de 3,9 millions pour un produit net bancaire de 86 millions.",
+      "pages": [
+        21
+      ]
+    },
+    "cause_profonde": {
+      "texte": "Non précisé en tant que cause. La décision parle d'une « prise en compte tardive et encore insuffisante des obligations de LCB-FT ».",
+      "pages": [
+        21
+      ]
+    }
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "L'outil de surveillance agrège-t-il toutes les opérations et tous les identifiants d'un même client ?",
+      "Les pays d'origine et de destination des virements sont-ils exploités par les scénarios, sur la base de la classification des risques de l'établissement ?",
+      "L'ancienneté du stock d'alertes et d'examens renforcés est-elle suivie, avec un seuil d'escalade ?",
+      "Chaque alerte est-elle analysée, ou une partie est-elle classée par échantillonnage ?",
+      "Toute clôture de compte pour motif LCB-FT passe-t-elle par la sécurité financière, avec une décision tracée sur l'envoi d'une DS ?",
+      "Tous les clients ayant fait l'objet d'une DS ou d'un droit de communication sont-ils en vigilance renforcée, sur l'ensemble de leurs comptes ?",
+      "Quand un groupe de clients a déjà été déclaré, ses nouvelles opérations sont-elles suspendues jusqu'à la déclaration ?",
+      "La base des tiers criblés est-elle complète (dirigeants, mandataires, bénéficiaires effectifs, fiducies) ?",
+      "Existe-t-il un seuil en dessous duquel des flux ne sont pas filtrés contre les listes de gel ? Qui l'a validé ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": [
+      "gel des avoirs",
+      "criblage et filtrage",
+      "correspondance bancaire",
+      "récidive après mise en demeure",
+      "stock d'alertes",
+      "clôture de compte sans DS"
+    ],
+    "pages_prioritaires": [
+      {
+        "pages": [
+          8,
+          9
+        ],
+        "pourquoi": "traitement des alertes et clôture de comptes sans DS"
+      },
+      {
+        "pages": [
+          14,
+          15
+        ],
+        "pourquoi": "typologies de soupçon retenues"
+      },
+      {
+        "pages": [
+          16,
+          17
+        ],
+        "pourquoi": "s'abstenir d'exécuter avant de déclarer"
+      },
+      {
+        "pages": [
+          20,
+          21
+        ],
+        "pourquoi": "gel des avoirs : les deux failles"
+      },
+      {
+        "pages": [
+          21
+        ],
+        "pourquoi": "synthèse et calcul de la sanction"
+      }
+    ],
+    "confiance": "élevée",
+    "a_verifier": [
+      "Pays de l'établissement : la décision ne l'écrit pas noir sur blanc ; je n'ai rien déduit.",
+      "Le texte porte deux titres « II » (pages 6 et 8) : c'est ainsi dans la décision.",
+      "Grief 3 : classé en « vigilance renforcée » alors qu'il s'agit juridiquement de vigilance complémentaire (L. 561-10) ; à garder ou à séparer selon ton choix sur la grille."
+    ]
+  },
+  "redaction": {
+    "redigee_par": "Claude (Fable 5.2), à partir du texte extrait du PDF officiel",
+    "date": "2026-11-12",
+    "relue_par_mateo": false
+  }
+}

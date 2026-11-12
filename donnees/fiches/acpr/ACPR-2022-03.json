@@ -1,0 +1,217 @@
+{
+  "id": "ACPR-2022-03",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT",
+  "resume_court": "Abeille Vie (ex-Aviva Vie) est un grand assureur vie : 1,1 million de clients, dont les épargnants des contrats AFER, gérés par une structure commune à qui elle avait délégué ses contrôles anti-blanchiment. L'ACPR lui reproche de ne pas avoir tenu à jour ce qu'elle savait de ses clients, d'avoir repéré tard ou pas du tout des personnalités politiques parmi eux, de surveiller contrat par contrat au lieu de client par client, et de ne pas avoir contrôlé le travail de cette structure. Des versements très élevés au regard des revenus connus n'ont été ni examinés ni signalés, et les déclarations à Tracfin partaient en moyenne près d'un an après les faits. Plusieurs reproches sont écartés, faute de preuve ou de clarté. Sanction : un blâme et 3,5 millions d'euros.",
+  "identite": {
+    "etablissement": "Abeille Vie (Aviva Vie au moment du contrôle)",
+    "type_etablissement": "assureur",
+    "precision_type": "Assureur vie : contrats d'assurance vie et de capitalisation, distribués par des agents généraux et des intermédiaires, et contrats AFER coassurés à parts égales avec une filiale.",
+    "groupe": "Au moment du contrôle : groupe Aviva (Royaume-Uni). Depuis le 30 septembre 2021 : Abeille Assurances Holding (Aéma Groupe).",
+    "pays": "France (siège à Bois-Colombes)",
+    "activite_et_taille": "Environ 1,1 million de clients, presque tous des particuliers résidant en France. Fin 2020 : près de 11 milliards d'euros d'encours sur ses propres contrats et 52 milliards sur les contrats AFER. La gestion des adhérents AFER, y compris les contrôles LCB-FT, était confiée à un groupement (le GIE AFER).",
+    "pages": [1, 2, 3, 5]
+  },
+  "controle": {
+    "controle_sur_place": "du 12 juin 2020 au 29 juin 2021, étendu au GIE AFER le 2 octobre 2020",
+    "rapport_de_controle": "signé le 21 décembre 2021",
+    "ouverture_de_la_procedure": "décidée le 19 avril 2022, Commission saisie le 28 avril 2022",
+    "antecedents": "non précisé",
+    "pages": [3]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 3500000,
+    "publication": "nominative",
+    "duree_publication_nominative": "5 ans, puis forme anonymisée",
+    "proposition_du_college": "blâme et 4 millions d'euros, publication nominative pendant 5 ans",
+    "pages": [1, 2, 20]
+  },
+  "procedure": {
+    "questions_de_procedure": "Pas d'exception de procédure. La Commission rappelle qu'elle peut retenir un défaut d'examen renforcé ou de déclaration dans un dossier précis sans avoir d'abord constaté une défaillance générale.",
+    "pages": [12]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Mise à jour de la connaissance des clients",
+      "resume": "La procédure du groupe prévoyait de revoir les informations sur les clients tous les 1, 2 ou 5 ans selon leur niveau de risque, mais elle n'était pas appliquée sur le terrain : un rapport interne de novembre 2020 parlait d'un « rythme de mise à jour non défini ». Le second reproche, sur les informations recueillies par les courtiers pour les contrats AFER, est écarté car la Commission ne parvient pas à comprendre ce qui est exactement reproché.",
+      "textes": ["CMF L. 561-5-1", "CMF R. 561-12"],
+      "chiffres_cles": ["35 dossiers sur 38 cités : revenus, patrimoine ou profession non actualisés, voire absents", "143 dossiers examinés par la mission de contrôle"],
+      "issue": "retenu en partie",
+      "precision_issue": "Première branche fondée ; seconde branche écartée (reproche trop incertain).",
+      "categorie": "vigilance constante et mise à jour des dossiers",
+      "categorie_precision": "",
+      "categories_secondaires": ["connaissance du client à l'entrée en relation"],
+      "pages": [3, 4, 5]
+    },
+    {
+      "numero": "2",
+      "titre": "Détection des personnes politiquement exposées",
+      "resume": "Les alertes signalant une possible personne politiquement exposée étaient traitées avec des mois de retard, alors que la procédure interne donnait dix jours. Pour les clients devenus PPE en cours de relation, l'outil de filtrage utilisait des listes et des réglages conçus pour le Royaume-Uni et les États-Unis, mal adaptés aux PPE françaises.",
+      "textes": ["CMF L. 561-32", "CMF R. 561-20-2"],
+      "chiffres_cles": ["1 seule des 47 alertes de janvier 2020 traitée dans le mois ; certaines après 5 mois", "trois mois après mars 2020, 18 % des alertes traitées", "13 clients devenus PPE non détectés"],
+      "issue": "retenu",
+      "precision_issue": "Fondé en ses deux branches. Le déploiement d'un nouvel outil, cause des retards, n'est pas une excuse. La règle impose de détecter toutes les PPE.",
+      "categorie": "personnes politiquement exposées et vigilance renforcée",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [6]
+    },
+    {
+      "numero": "3",
+      "titre": "Mesures obligatoires envers les PPE identifiées",
+      "resume": "Pour un client PPE, la loi exige qu'un dirigeant décide d'ouvrir ou de garder la relation et que l'origine du patrimoine et des fonds soit recherchée. Sur les 12 PPE identifiées : décision d'un dirigeant non justifiée dans 3 cas, tardive dans 8, origine du patrimoine ou des fonds insuffisamment recherchée dans 9.",
+      "textes": ["CMF L. 561-10", "CMF R. 561-20-2"],
+      "chiffres_cles": ["12 PPE identifiées", "3 dossiers retenus sur 4 (décision), 8 sur 8 (retard), 9 sur 10 (origine du patrimoine et des fonds)", "dans 6 cas de retard, le client avait lui-même déclaré être PPE"],
+      "issue": "retenu en partie",
+      "precision_issue": "Fondé dans un périmètre réduit.",
+      "categorie": "personnes politiquement exposées et vigilance renforcée",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [7]
+    },
+    {
+      "numero": "4",
+      "titre": "Vigilance renforcée appliquée par contrat et non par client",
+      "resume": "Le niveau de vigilance était calculé contrat par contrat : un client qui répartissait ses versements sur plusieurs contrats pouvait rester sous les seuils. Une panne informatique a par ailleurs faussé le niveau de vigilance d'une partie des opérations de 2017 à juin 2020. Le reproche sur des seuils jugés trop élevés (200 000 euros en principe) est écarté : la poursuite ne prouve pas qu'ils étaient inadaptés, compte tenu des modulations prévues.",
+      "textes": ["CMF L. 561-10-1"],
+      "chiffres_cles": ["74 des 204 opérations examinées sans la vigilance renforcée prévue par les règles internes", "selon l'assureur, non contredit : 1 500 opérations touchées sur 101 107", "moins de 8 % des entrées de fonds en vigilance renforcée"],
+      "issue": "retenu en partie",
+      "precision_issue": "Première branche fondée ; deuxième écartée ; troisième fondée dans la limite admise par la société.",
+      "categorie": "personnes politiquement exposées et vigilance renforcée",
+      "categorie_precision": "vigilance renforcée sur les opérations à risque élevé",
+      "categories_secondaires": ["dispositif de surveillance des opérations (outils, scénarios, seuils)"],
+      "pages": [8, 9]
+    },
+    {
+      "numero": "5",
+      "titre": "Surveillance automatisée des opérations",
+      "resume": "L'outil ne comportait aucun scénario fondé sur les revenus et le patrimoine des clients, ce que la Commission qualifie de carence majeure. Le scénario sur les rachats rapides avait été désactivé en mars 2020 parce qu'il calculait mal. L'outil suivait des numéros de client : une même personne passée par plusieurs intermédiaires n'était pas vue comme un seul client. Des alertes ne se sont pas déclenchées et d'autres ont été traitées tard. Sont écartés : l'obligation de noter l'origine des fonds sur chaque bordereau de versement, et celle d'avoir un scénario sur les contrats donnés en garantie pour un tiers.",
+      "textes": ["CMF L. 561-32", "CMF L. 561-6", "CMF R. 561-12-1", "code des assurances A. 310-8"],
+      "chiffres_cles": ["7 cas où une alerte aurait dû se déclencher", "13 % des alertes d'octobre 2019 à octobre 2020 encore en cours en mars 2021 ; 8,6 % clôturées après plus de 100 jours"],
+      "issue": "retenu en partie",
+      "precision_issue": "Première branche écartée ; seconde branche fondée, sauf sur un point.",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "",
+      "categories_secondaires": ["analyse des alertes et examen renforcé"],
+      "pages": [9, 10, 11]
+    },
+    {
+      "numero": "6",
+      "titre": "Défauts d'examen renforcé",
+      "resume": "Quatorze dossiers où des versements étaient élevés au regard des revenus connus, ou alors que l'assureur ne savait rien des revenus et du patrimoine du client, sans recherche de l'origine des fonds. Autres signaux retenus : un rachat total moins de deux ans après la souscription, une renonciation au contrat huit jours après le versement. Un justificatif fourni après coup ne rattrape pas l'absence d'examen au moment de l'opération.",
+      "textes": ["CMF L. 561-10-2"],
+      "chiffres_cles": ["15 dossiers reprochés, 14 retenus"],
+      "issue": "retenu en partie",
+      "precision_issue": "Fondé pour 14 dossiers sur 15.",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [12, 13, 14]
+    },
+    {
+      "numero": "7",
+      "titre": "Défauts de déclaration de soupçon",
+      "resume": "Sept dossiers retenus : clients qui ne répondent pas, ou de façon incohérente, sur l'origine de fonds importants ; justificatifs qui ne couvrent qu'une partie des versements ; montage opaque passant par plusieurs sociétés. Dans deux dossiers, la cellule LCB-FT du GIE AFER avait elle-même recommandé de déclarer dès 2017. La Commission précise que le silence d'un client n'impose pas à lui seul une déclaration, mais qu'il y conduit quand les opérations sont par ailleurs inexpliquées.",
+      "textes": ["CMF L. 561-15 (I, II et III)", "CMF D. 561-32-1"],
+      "chiffres_cles": ["10 dossiers reprochés : 7 retenus, 1 écarté, 2 abandonnés par la poursuite"],
+      "issue": "retenu en partie",
+      "precision_issue": "Fondé pour 7 dossiers sur 10.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [14, 15, 16]
+    },
+    {
+      "numero": "8",
+      "titre": "Défauts de déclaration complémentaire",
+      "resume": "Après une première déclaration, des clients ont fait de nouveaux versements importants, toujours sans justification de l'origine des fonds : il fallait le signaler à Tracfin. Un dernier dossier porte sur des bons de capitalisation au porteur de la même série que ceux déjà déclarés.",
+      "textes": ["CMF L. 561-15 (IV)"],
+      "chiffres_cles": ["7 dossiers reprochés, 7 retenus"],
+      "issue": "retenu",
+      "precision_issue": "Fondé pour les 7 dossiers.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [16, 17]
+    },
+    {
+      "numero": "9",
+      "titre": "Déclarations de soupçon tardives",
+      "resume": "Sur les contrats AFER, les déclarations partaient en moyenne près d'un an après les faits. L'assureur soutenait que huit dossiers relevaient de son coassureur : la Commission répond que chaque coassureur reste responsable de ses obligations de déclaration, même si l'autre agit pour les deux.",
+      "textes": ["CMF L. 561-16"],
+      "chiffres_cles": ["délai moyen de 366 jours en 2018 et 284 jours en 2019 (périmètre GIE AFER)", "12 déclarations tardives sur 18 analysées ; délai moyen de 401 jours sur ces 18"],
+      "issue": "retenu",
+      "precision_issue": "Fondé.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [17, 18]
+    },
+    {
+      "numero": "10",
+      "titre": "Aucun contrôle permanent sur l'activité déléguée au GIE AFER",
+      "resume": "Depuis mars 2018, l'assureur n'avait mené aucun contrôle permanent sur les tâches LCB-FT confiées au GIE AFER. Les trois contrôles ponctuels de 2020 sont des vérifications thématiques, dont deux lancées après le début du contrôle de l'ACPR. Avoir un droit de contrôle dans le contrat, ou un représentant dans un comité, ne remplace pas un contrôle effectivement exercé.",
+      "textes": ["CMF R. 561-38-2", "CMF R. 561-38-4", "CMF R. 561-38-5", "arrêté du 6 janvier 2021, art. 13"],
+      "chiffres_cles": ["43 dossiers, soit 69 % des relations d'affaires examinées côté GIE AFER, avec des diligences LCB-FT mal effectuées"],
+      "issue": "retenu",
+      "precision_issue": "Fondé. Celui qui délègue reste responsable.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "contrôle d'une activité externalisée",
+      "categories_secondaires": ["dispositif de groupe, filiales et correspondance bancaire"],
+      "pages": [18, 19]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "« Manquements importants à des obligations définies depuis longtemps », que l'établissement avait, vu sa taille et sa situation financière, tous les moyens de respecter à temps.", "pages": [20]},
+      {"texte": "Effort de correction « engagé trop tardivement ».", "pages": [20]}
+    ],
+    "elements_attenuants": [
+      {"texte": "Actions correctives détaillées depuis 2020, pour un investissement total de 14 millions d'euros au 14 juin 2022 selon l'assureur ; pris en compte au titre de la proportionnalité.", "pages": [20]},
+      {"texte": "Plusieurs griefs écartés ou réduits (parties des griefs 1, 4 et 5 ; dossiers des griefs 6 et 7).", "pages": [20]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Plan d'actions sur la mise à jour de la connaissance client après le rapport interne du 16 novembre 2020.", "pages": [4]},
+      {"texte": "Depuis le 1er avril 2021, le GIE AFER ne se contente plus d'une simple attestation des intermédiaires.", "pages": [3]},
+      {"texte": "Correction en mai 2020, selon l'assureur, du calcul des versements cumulés dans l'outil de surveillance.", "pages": [11]}
+    ],
+    "situation_financiere": {"texte": "Chiffre d'affaires d'environ 3 milliards d'euros en 2021 et 2022 ; résultat net de 229,7 millions en 2022 ; environ 2,3 milliards de fonds propres.", "pages": [3]},
+    "cause_profonde": {"texte": "Non précisé en tant que cause unique. La décision relève des procédures de groupe non appliquées sur le terrain, un outil de filtrage réglé pour d'autres pays, une logique « par contrat » et une délégation au GIE AFER jamais contrôlée en continu.", "pages": [4, 6, 9, 19]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "La fréquence de mise à jour des dossiers prévue par la procédure est-elle réellement appliquée ? Combien de dossiers sont en retard ?",
+      "Les listes utilisées pour repérer les PPE couvrent-elles bien les PPE du pays où l'on opère ?",
+      "Le délai de traitement des alertes PPE est-il mesuré par rapport au délai fixé en interne ?",
+      "Pour chaque PPE : trace de la décision d'un dirigeant, origine du patrimoine et des fonds documentée ?",
+      "La surveillance regroupe-t-elle tous les contrats et tous les identifiants d'une même personne ?",
+      "Un scénario désactivé est-il remplacé par un autre contrôle, avec une date de remise en service ?",
+      "Quand un client ne justifie pas l'origine de fonds importants, la décision de déclarer ou non est-elle prise et tracée dans un délai fixé ?",
+      "Les tâches LCB-FT confiées à un tiers font-elles l'objet d'un contrôle permanent par celui qui délègue ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["assurance vie", "AFER", "externalisation", "personnes politiquement exposées", "origine des fonds", "coassurance", "approche par contrat"],
+    "pages_prioritaires": [
+      {"pages": [6, 7], "pourquoi": "PPE : détection puis mesures obligatoires"},
+      {"pages": [8, 9], "pourquoi": "vigilance par contrat ou par client ; un reproche sur les seuils écarté faute de preuve"},
+      {"pages": [11], "pourquoi": "ce qu'un outil de surveillance doit au minimum prendre en compte"},
+      {"pages": [12, 13], "pourquoi": "exemples concrets d'opérations à examiner en assurance vie"},
+      {"pages": [17, 18], "pourquoi": "responsabilité de chaque coassureur"},
+      {"pages": [19], "pourquoi": "contrôle permanent d'une activité déléguée"}
+    ],
+    "confiance": "moyenne à élevée",
+    "a_verifier": [
+      "Décision longue et très découpée (10 griefs, nombreuses branches) : relis en priorité les issues des griefs 3, 4 et 5 sur le PDF.",
+      "Grief 3, troisième branche : j'ai compté 9 dossiers retenus sur 10 (5 pour le patrimoine seul, 4 pour le patrimoine et les fonds, 1 écarté), à partir du point 17.",
+      "Grief 4, troisième branche : le point 23 la dit « fondée dans la limite admise par la société », la synthèse du point 75 la range parmi les branches écartées ou réduites.",
+      "Presque tous les montants des dossiers individuels sont masqués dans le texte officiel.",
+      "La page 17 comporte des initiales de personnes qui ne se correspondent pas d'une phrase à l'autre (anonymisation du texte officiel)."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Fable 5.2), à partir du texte extrait du PDF officiel", "date": "2026-11-12", "relue_par_mateo": false}
+}

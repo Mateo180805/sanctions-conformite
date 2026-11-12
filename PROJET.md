@@ -1,6 +1,6 @@
 # PROJET – Sanctions Conformité
 
-Cahier des charges du projet. Version du 12 novembre 2026 (session 1).
+Cahier des charges du projet. Version du 12 novembre 2026 (session 2 : grille complétée au point 6, règle d'accessibilité ajoutée au point 7).
 Ce fichier est à redonner à Claude au début de chaque session, avec JOURNAL.md.
 
 ## 1. Qui je suis
@@ -52,27 +52,34 @@ e) Un site public, sobre et facile à comprendre, dont je mettrai le lien sur mo
 
 ## 6. La grille d'analyse (une fiche par décision)
 
+**En bref**
+- un paragraphe de quelques phrases, en langage courant, lisible par quelqu'un qui n'est pas du métier : qui est l'établissement, ce qui lui est reproché, la sanction.
+
 **Identité**
 - régulateur, numéro de procédure, date de la décision, lien vers le PDF officiel ;
 - établissement (ou « anonymisé »), type d'établissement (banque, établissement de paiement ou de monnaie électronique, assureur, changeur manuel, intermédiaire, société de gestion…), groupe et pays si la décision les mentionne.
 
 **Sanction**
-- nature (avertissement, blâme, interdiction…), montant en euros, publication nominative ou anonyme.
+- nature (avertissement, blâme, interdiction…), montant en euros, publication nominative ou anonyme, sanction proposée par le Collège ;
+- les dates du contrôle et de la procédure, et les antécédents (contrôle précédent, mise en demeure, sanction antérieure) si la décision les mentionne.
 
 **Manquements**
 - la liste des griefs, chacun résumé en une ou deux phrases, avec les textes visés et les chiffres clés (nombre de dossiers, montants, durée) ;
-- pour chaque grief : retenu ou écarté ;
-- chaque grief classé dans une catégorie commune : classification des risques ; connaissance du client à l'entrée en relation ; vigilance constante et mise à jour des dossiers ; personnes politiquement exposées et vigilance renforcée ; dispositif de surveillance des opérations (outils, scénarios, seuils) ; analyse des alertes et examen renforcé ; déclarations de soupçon à Tracfin ; gel des avoirs et sanctions financières ; procédures et contrôle interne ; gouvernance, moyens et formation ; dispositif de groupe, filiales et correspondance bancaire ; autre (à préciser).
+- pour chaque grief : retenu, retenu en partie ou écarté ;
+- chaque grief classé dans une catégorie commune : classification des risques ; relation d'affaires et clients occasionnels ; connaissance du client à l'entrée en relation ; vigilance constante et mise à jour des dossiers ; personnes politiquement exposées et vigilance renforcée ; dispositif de surveillance des opérations (outils, scénarios, seuils) ; analyse des alertes et examen renforcé ; déclarations de soupçon à Tracfin ; gel des avoirs et sanctions financières ; procédures et contrôle interne ; gouvernance, moyens et formation ; dispositif de groupe, filiales et correspondance bancaire ; autre (à préciser).
 
 **Contexte**
-- circonstances aggravantes ou atténuantes, mesures correctrices prises par l'établissement ;
+- circonstances aggravantes ou atténuantes, mesures correctrices prises par l'établissement, situation financière retenue par la Commission ;
 - cause profonde, seulement si la décision l'explique ;
 - « ce qui aurait dû être fait » : les points de contrôle qu'on peut en tirer, marqués comme déduits.
 
 **Pour moi**
-- les pages à lire en priorité ;
+- des mots-clés et les pages à lire en priorité ;
 - le niveau de confiance de Claude et les points que je dois vérifier ;
 - un statut (« à lire » ou « lue ») et un champ « mes notes » que je remplirai.
+
+**Lexique**
+- en bas de chaque fiche, les termes techniques qu'elle emploie, expliqués en une phrase à partir d'un glossaire commun (`donnees/glossaire.json`).
 
 Les décisions qui ne portent ni sur la LCB-FT ni sur le gel des avoirs (protection de la clientèle, prudentiel…) ont une fiche courte avec la mention « hors LCB-FT ».
 
@@ -83,6 +90,7 @@ Les décisions qui ne portent ni sur la LCB-FT ni sur le gel des avoirs (protect
 - Ne jamais chercher à retrouver l'identité d'un établissement ou d'une personne dans une décision anonymisée. Sur le site, ne mettre en avant aucun nom de personne physique.
 - Avant de traiter un lot, tester la méthode sur quelques décisions et me montrer le résultat.
 - Signaler les doutes au lieu de les cacher.
+- Les fiches doivent pouvoir être lues par quelqu'un qui ne baigne pas dans le sujet : phrases simples, sigles développés, vocabulaire juridique et financier expliqué dans le lexique, sans passer son temps à faire des définitions ni perdre le détail.
 - Le site cite toujours la source officielle et a une page « Méthode » qui dit honnêtement que la collecte et la première analyse ont été faites avec Claude (Fable), puis relues par moi.
 
 ## 8. Le site

@@ -1,0 +1,115 @@
+{
+  "id": "ACPR-2022-06",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "gel des avoirs",
+  "resume_court": "Une mutuelle d'assurance (auto, habitation, santé) sanctionnée uniquement pour son dispositif de gel des avoirs, c'est-à-dire l'obligation de repérer parmi ses clients les personnes visées par des sanctions officielles. Son outil ne reconnaissait un nom que s'il était écrit exactement comme sur la liste, puis ignorait près de la moitié des personnes listées parce que leur sexe n'y figurait pas ; la base des clients n'était comparée aux listes qu'une fois par an, puis une fois par mois. La mutuelle ne contestait rien et a corrigé vite, mais la Commission rappelle qu'il s'agit d'une obligation de résultat. Sanction : un blâme et 600 000 euros.",
+  "identite": {
+    "etablissement": "Mutuelle de Poitiers Assurances (MDPA)",
+    "type_etablissement": "assureur",
+    "precision_type": "Société d'assurance mutuelle fondée en 1838, active en assurance de dommages et en assurance de personnes (santé, accidents) ; pas d'assurance vie.",
+    "groupe": "non précisé (elle contrôle une filiale de prévoyance et un courtier)",
+    "pays": "France (siège à Ligugé)",
+    "activite_et_taille": "Près de 500 000 sociétaires fin 2022, surtout des particuliers, et environ 1,4 million de contrats (automobile et habitation pour l'essentiel), distribués par un réseau d'agents généraux. Chiffre d'affaires 2022 : 458 millions d'euros.",
+    "pages": [1, 2]
+  },
+  "controle": {
+    "controle_sur_place": "du 6 septembre 2021 au 24 janvier 2022",
+    "rapport_de_controle": "signé le 21 juin 2022",
+    "ouverture_de_la_procedure": "décidée le 10 octobre 2022, Commission saisie le 19 octobre 2022",
+    "antecedents": "non précisé",
+    "pages": [3]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 600000,
+    "publication": "nominative",
+    "duree_publication_nominative": "5 ans, puis forme anonymisée",
+    "proposition_du_college": "blâme et 1 million d'euros, publication nominative pendant 5 ans",
+    "pages": [1, 2, 6, 7]
+  },
+  "procedure": {"questions_de_procedure": "non précisé (griefs non contestés ; l'audience était publique)", "pages": [1, 2]},
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Un outil de détection qui laissait passer des personnes sous sanctions",
+      "resume": "Trois défauts. Le paramétrage : jusqu'en décembre 2020, seule une orthographe strictement identique à celle de la liste déclenchait une alerte ; ensuite, aucune alerte si le sexe de la personne n'était pas indiqué sur la liste. Le moment : les nouveaux sociétaires n'étaient pas toujours vérifiés avant la signature d'un contrat ou une opération. La fréquence : la base des clients n'était repassée contre les listes qu'une fois par an, puis une fois par mois.",
+      "textes": ["CMF L. 562-4-1 (I)", "CMF R. 562-1", "code des assurances A. 310-8", "arrêté du 6 janvier 2021, art. 11"],
+      "chiffres_cles": ["le sexe manquait pour près de 50 % des personnes inscrites sur les listes", "4 contrats conclus du 15 au 24 septembre 2021 avec une société dirigée par une personne sous mesure de gel", "filtrage annuel de mars 2017 à décembre 2020, mensuel à partir de juin 2021"],
+      "issue": "retenu",
+      "precision_issue": "Fondé. La mutuelle ne peut pas invoquer l'absence de « cahier des charges » : ces exigences étaient connues depuis des décisions de 2012, 2016 et 2019 et des lignes directrices de 2016.",
+      "categorie": "gel des avoirs et sanctions financières",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [3, 4]
+    },
+    {
+      "numero": "2",
+      "titre": "Mesures de gel non appliquées sans délai, Trésor non informé",
+      "resume": "Faute de détecter toutes les personnes visées, la mutuelle ne pouvait ni appliquer le gel immédiatement ni prévenir aussitôt la direction générale du Trésor. Trois clients sont cités. La mutuelle fait valoir qu'aucune indemnité ne leur a été versée directement.",
+      "textes": ["CMF L. 562-4", "CMF R. 562-3"],
+      "chiffres_cles": ["3 clients sous mesure de gel non déclarés immédiatement"],
+      "issue": "retenu",
+      "precision_issue": "Fondé : « conséquence directe » des carences du grief 1.",
+      "categorie": "gel des avoirs et sanctions financières",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [4, 5]
+    },
+    {
+      "numero": "3",
+      "titre": "Contrôle interne du dispositif de gel",
+      "resume": "Les contrôles de second niveau n'ont été définis qu'en septembre 2021, plus d'un an après un audit de juin 2020, et se limitaient à vérifier que les contrôles de premier niveau étaient bien faits. La mutuelle n'a donc repéré elle-même ni les défauts de son outil ni les lacunes de ses bases de données.",
+      "textes": ["CMF R. 562-1 (III)", "arrêté du 6 janvier 2021, art. 13"],
+      "chiffres_cles": ["audit en juin 2020, contrôles de second niveau définis en septembre 2021"],
+      "issue": "retenu",
+      "precision_issue": "Fondé, non contesté.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "contrôle interne du gel des avoirs",
+      "categories_secondaires": ["gel des avoirs et sanctions financières"],
+      "pages": [5]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "Manquements « d'une particulière gravité » : le gel des avoirs répond à un intérêt général impérieux et impose une obligation de résultat.", "pages": [6]},
+      {"texte": "Dispositif « structurellement défaillant ». L'argument selon lequel l'assurance non-vie est moins exposée est sans incidence sur la réalité des manquements.", "pages": [6]}
+    ],
+    "elements_attenuants": [
+      {"texte": "Volonté de coopérer dès le début du contrôle.", "pages": [6]},
+      {"texte": "Actions correctives engagées sur une très courte période, dont l'effectivité a été pour l'essentiel confirmée par un cabinet d'audit.", "pages": [6]},
+      {"texte": "Les griefs 1 et 2 reposent sur les mêmes faits.", "pages": [6]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Abandon de la correspondance orthographique exacte en décembre 2020 ; filtrage mensuel à partir de juin 2021.", "pages": [3, 4]},
+      {"texte": "Procédure du 25 octobre 2022 : tout doute d'homonymie non levé est transmis sans délai au Trésor.", "pages": [5]},
+      {"texte": "Contrôles permanents de second niveau menés en 2022 sur le nouveau dispositif. Coût total des actions masqué dans la décision.", "pages": [5, 6]}
+    ],
+    "situation_financiere": {"texte": "Société de taille moyenne : résultat de 1,9 million d'euros en 2022 pour 458 millions de chiffre d'affaires, 258 millions de fonds propres ; résultat 2023 jugé incertain du fait de la hausse des coûts d'indemnisation.", "pages": [2, 6]},
+    "cause_profonde": {"texte": "Selon la mutuelle elle-même, le choix d'un outil interne de filtrage est à l'origine des défaillances. La décision ajoute que le contrôle interne ne lui a pas permis de les détecter.", "pages": [1, 5]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "L'outil de filtrage tolère-t-il les variantes d'orthographe et les données manquantes dans les listes (sexe, date de naissance) ?",
+      "Chaque nouveau client, et son dirigeant s'il s'agit d'une société, est-il filtré avant la signature du contrat ?",
+      "La base des clients est-elle repassée contre les listes à chaque mise à jour de celles-ci, et non à date fixe ?",
+      "L'outil est-il testé avec des noms réellement présents sur les listes pour vérifier qu'il les détecte ?",
+      "Le contrôle de second niveau teste-t-il l'efficacité de l'outil, et pas seulement la réalisation des contrôles de premier niveau ?",
+      "Le délai entre une détection et l'information du Trésor est-il mesuré ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["gel des avoirs", "filtrage", "obligation de résultat", "assurance non-vie", "griefs non contestés", "outil interne"],
+    "pages_prioritaires": [
+      {"pages": [3, 4], "pourquoi": "les trois défauts d'un outil de filtrage"},
+      {"pages": [6], "pourquoi": "obligation de résultat et arguments rejetés"}
+    ],
+    "confiance": "élevée",
+    "a_verifier": [
+      "La décision est courte (7 pages) et les griefs ne sont pas contestés : peu de chiffres.",
+      "L'en-tête parle de « sanction financière », le dispositif de « sanction pécuniaire » : même chose."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Fable 5.2), à partir du texte extrait du PDF officiel", "date": "2026-11-12", "relue_par_mateo": false}
+}

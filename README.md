@@ -16,6 +16,10 @@ Prévus : AMF, CSSF (Luxembourg), FINMA (Suisse).
 | `donnees/decisions.csv` | Le même contenu en tableau, à ouvrir dans Excel. |
 | `donnees/textes/acpr/` | Le texte de chaque décision, extrait du PDF officiel, avec un repère à chaque page. |
 | `donnees/derniere_collecte.json` | Le bilan de la dernière mise à jour (date, nouvelles décisions, erreurs). |
+| `donnees/fiches/acpr/` | Les fiches d'analyse (une par décision), au format structuré. C'est la source. |
+| `fiches/acpr/` | Les mêmes fiches en version lisible, fabriquées automatiquement. À lire à côté du PDF officiel. |
+| `donnees/glossaire.json` | Le glossaire commun : les termes techniques expliqués en une phrase. |
+| `analyse/fiches.py` | Le programme qui vérifie les fiches et fabrique leur version lisible. |
 | `collecte/` | Le programme de collecte, en Python. |
 | `.github/workflows/collecte.yml` | La consigne donnée à GitHub : lancer la collecte chaque lundi. |
 | `PROJET.md` | Le cahier des charges du projet. |

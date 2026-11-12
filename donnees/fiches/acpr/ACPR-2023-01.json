@@ -1,0 +1,146 @@
+{
+  "id": "ACPR-2023-01",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT",
+  "resume_court": "La BRED est une grande banque du groupe BPCE (1,3 million de clients). L'ACPR lui reproche surtout les réglages de son outil de surveillance : les clients déjà signalés à Tracfin étaient retirés pendant cinq ans d'une partie des contrôles automatiques, plusieurs seuils d'alerte étaient trop hauts pour des clients modestes, les revenus manquaient pour une grande partie des clients et des milliers d'alertes étaient classées sans explication. S'y ajoutent 25 opérations suspectes non déclarées. En revanche, la Commission refuse de sanctionner l'absence d'outil automatique de recherche d'informations négatives sur les clients : compte tenu des règles de protection des données, cette obligation n'était pas assez claire. Sanction : un blâme et 2,5 millions d'euros.",
+  "identite": {
+    "etablissement": "BRED (Banque régionale d'escompte et de dépôts)",
+    "type_etablissement": "banque",
+    "precision_type": "Société anonyme coopérative de banque populaire.",
+    "groupe": "Groupe BPCE (Banques Populaires - Caisses d'Épargne), dont elle est l'une des principales sociétés",
+    "pays": "France (siège à Paris)",
+    "activite_et_taille": "Au moment du contrôle : 1,3 million de clients, 475 implantations, environ 6 300 salariés. Quatre pôles : banque commerciale en métropole (environ deux tiers du produit net bancaire), banque à l'international et outre-mer, marchés de capitaux, gestion des investissements. En 2023 : produit net bancaire consolidé de 1,3 milliard d'euros.",
+    "pages": [1, 2]
+  },
+  "controle": {
+    "controle_sur_place": "du 22 novembre 2021 au 15 avril 2022",
+    "rapport_de_controle": "signé le 3 octobre 2022",
+    "ouverture_de_la_procedure": "décidée le 11 janvier 2023, Commission saisie le 26 janvier 2023",
+    "antecedents": "Pas de précédent contrôle de l'ACPR mentionné. Plusieurs rapports de l'inspection générale de la banque (juin 2019, janvier 2021, juillet 2021) avaient relevé une partie des faiblesses.",
+    "pages": [3, 6, 7, 11, 12]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 2500000,
+    "publication": "nominative",
+    "duree_publication_nominative": "5 ans, puis forme anonymisée",
+    "proposition_du_college": "blâme et 3 millions d'euros, publication nominative pendant 5 ans",
+    "pages": [1, 2, 21]
+  },
+  "procedure": {
+    "questions_de_procedure": "Pas d'exception de procédure. La Commission rappelle un principe qui guide toute la décision : on ne peut pas sanctionner un manquement à une obligation définie de façon trop imprécise, et les seules « attentes du Collège » ne suffisent pas.",
+    "pages": [6]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Paramétrage de l'outil de surveillance et traitement des alertes",
+      "resume": "Quatre séries de reproches. Les exclusions : les comptes des clients ayant fait l'objet d'une déclaration de soupçon sortaient pendant cinq ans de 28 scénarios, et des comptes étaient exemptés de surveillance sans justification. Les scénarios : la profession et le secteur d'activité des clients n'étaient presque pas pris en compte, et huit scénarios avaient des seuils trop élevés. La base clients : les revenus ou le chiffre d'affaires manquaient pour une grande partie des clients, classés par défaut dans la tranche la plus basse. Les alertes : beaucoup étaient classées « opération normale et cohérente » sans motif réel.",
+      "textes": ["CMF L. 561-32", "CMF R. 561-38", "arrêté du 6 janvier 2021, art. 4"],
+      "chiffres_cles": [
+        "28 scénarios sur 82 désactivés pour les clients déjà déclarés ; les 29 visés au départ produisaient 47 % des alertes",
+        "368 comptes exemptés retenus (509 selon le rapport de contrôle, dont 141 clos)",
+        "exemple de seuil : alerte au-delà de 4 000 euros d'espèces versés en 7 jours pour des clients qui en versent 600 par mois en moyenne ; ou à partir de 50 000 euros pour un client gagnant moins de 18 000 euros par an",
+        "revenus non renseignés pour 24,5 % des particuliers et chiffre d'affaires absent pour 71 % des sociétés (14 % et 58 % selon la banque)",
+        "29 030 alertes (10,2 %) clôturées sans commentaire en un an, et 680 avec un commentaire de moins de cinq caractères (« Ok », « RAS »)"
+      ],
+      "issue": "retenu en partie",
+      "precision_issue": "Fondé dans un périmètre réduit. Sont écartés : les exemptions des comptes de clients institutionnels, le reproche sur les tranches de revenus trop larges, un scénario sur neuf (le montant cité était erroné) et le reproche sur l'ancienneté des données de revenus.",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "",
+      "categories_secondaires": ["analyse des alertes et examen renforcé", "vigilance constante et mise à jour des dossiers"],
+      "pages": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    },
+    {
+      "numero": "2",
+      "titre": "Absence d'outil automatique de recherche d'informations négatives",
+      "resume": "La poursuite reprochait à la banque de ne pas utiliser d'outil filtrant automatiquement les informations négatives publiques sur ses clients (condamnations, sanctions), en citant deux clients condamnés pour des faits liés au terrorisme et restés en risque standard. La Commission écarte le grief : un tel fichier traite des données sur des condamnations pénales, que le règlement européen sur la protection des données (RGPD) encadre strictement ; au moment du contrôle, l'obligation d'y recourir n'était donc ni claire ni prévisible.",
+      "textes": ["CMF L. 561-5-1", "CMF R. 561-12"],
+      "chiffres_cles": ["3 dossiers cités en exemple par la poursuite"],
+      "issue": "écarté",
+      "precision_issue": "Écarté pour une raison de droit. L'obligation de rechercher les informations négatives par des diligences suffisantes demeure, mais ce n'est pas elle que la poursuite invoquait.",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "recherche d'informations négatives (outil de type « watchlist »)",
+      "categories_secondaires": ["vigilance constante et mise à jour des dossiers"],
+      "pages": [12, 13, 14]
+    },
+    {
+      "numero": "3",
+      "titre": "Défauts d'examen renforcé",
+      "resume": "Deux dossiers retenus : un salarié qui dépose des espèces sans rapport avec son salaire et échange avec une plateforme de crypto-actifs ; un dirigeant du bâtiment dont le compte reçoit des chèques de montants ronds et envoie des virements vers un pays sous sanctions, avec 82 alertes classées souvent sans justification. Deux dossiers écartés : les opérations s'expliquaient par le patrimoine du client ou par la croissance de son activité.",
+      "textes": ["CMF L. 561-10-2"],
+      "chiffres_cles": ["4 dossiers reprochés, 2 retenus"],
+      "issue": "retenu en partie",
+      "precision_issue": "Fondé pour 2 dossiers sur 4.",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [15, 16]
+    },
+    {
+      "numero": "4",
+      "titre": "Défauts de déclaration de soupçon",
+      "resume": "Vingt-cinq dossiers retenus : 19 sans aucune déclaration et 6 où une première déclaration avait été faite mais où des opérations identiques ont continué sans déclaration complémentaire. La Commission précise deux règles : recevoir une réquisition judiciaire ne dispense pas de déclarer les opérations qu'elle ne couvre pas ; et quand des opérations déjà déclarées se poursuivent, il faut une nouvelle déclaration.",
+      "textes": ["CMF L. 561-15", "CMF D. 561-32-1"],
+      "chiffres_cles": [
+        "30 dossiers reprochés sur 73 examinés : 24 déclarations initiales et 6 complémentaires",
+        "25 retenus (19 initiales, 6 complémentaires), 5 écartés",
+        "11 défauts admis par la banque"
+      ],
+      "issue": "retenu en partie",
+      "precision_issue": "Fondé pour 25 dossiers sur 30. Dans les dossiers écartés, la banque a pu expliquer les opérations, ou le reproche était mal qualifié.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [16, 17, 18, 19, 20]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "« Plusieurs défaillances significatives » du dispositif de surveillance.", "pages": [20]},
+      {"texte": "La banque, qui juge son dispositif globalement satisfaisant, n'a pas présenté de programme de correction couvrant l'ensemble des carences.", "pages": [20]},
+      {"texte": "Établissement important, aux résultats élevés et aux fonds propres importants.", "pages": [20]},
+      {"texte": "La désactivation des scénarios visait justement des clients déjà déclarés, pour lesquels une surveillance particulièrement attentive était nécessaire.", "pages": [6]}
+    ],
+    "elements_attenuants": [
+      {"texte": "Plusieurs reproches du grief 1 sont écartés, ainsi que le grief 2 en entier.", "pages": [20]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Fin de la désactivation des scénarios pour les clients déclarés dès juillet 2022.", "pages": [7]},
+      {"texte": "Projet d'actualisation de la connaissance client lancé en 2020 selon la banque ; la collecte est restée lacunaire longtemps.", "pages": [11]},
+      {"texte": "La banque a admis qu'il fallait modifier les seuils d'un scénario sur les retraits d'espèces.", "pages": [10]}
+    ],
+    "situation_financiere": {"texte": "En 2023 : produit net bancaire consolidé de 1,3 milliard d'euros, résultat net de 332,5 millions, 6,7 milliards de capitaux propres.", "pages": [2]},
+    "cause_profonde": {"texte": "Non précisé. La décision note seulement que la banque justifiait les exclusions par la volonté d'éviter des alertes trop nombreuses, et que son propre audit interne avait jugé ces exclusions non justifiées.", "pages": [6, 7]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Existe-t-il des comptes ou des catégories de clients exclus de tout ou partie des scénarios ? Chaque exclusion est-elle justifiée par écrit et revue chaque année ?",
+      "Un client déjà déclaré à Tracfin est-il plus surveillé qu'avant, et non moins ?",
+      "Les seuils de chaque scénario sont-ils cohérents avec les revenus des clients auxquels il s'applique ?",
+      "Quelle part des clients n'a pas de revenu ou de chiffre d'affaires renseigné, et que fait l'outil dans ce cas ?",
+      "Le motif de clôture d'une alerte permet-il de comprendre ce qui a été vérifié ?",
+      "Après une déclaration de soupçon, la poursuite d'opérations identiques déclenche-t-elle une déclaration complémentaire ?",
+      "Les recommandations de l'audit interne sur la LCB-FT sont-elles suivies jusqu'à leur clôture ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["grande banque de réseau", "scénarios et seuils", "exemptions de surveillance", "watchlist et RGPD", "déclaration complémentaire", "espèces"],
+    "pages_prioritaires": [
+      {"pages": [6, 7], "pourquoi": "pourquoi on ne peut pas désactiver des scénarios pour les clients déjà déclarés"},
+      {"pages": [8, 9, 10], "pourquoi": "analyse des seuils, scénario par scénario"},
+      {"pages": [13, 14], "pourquoi": "watchlists et protection des données : le raisonnement qui écarte le grief 2"},
+      {"pages": [16, 17], "pourquoi": "réquisition judiciaire et obligation de déclarer"},
+      {"pages": [19], "pourquoi": "quand une déclaration complémentaire est nécessaire"}
+    ],
+    "confiance": "élevée",
+    "a_verifier": [
+      "Grief 4 : le décompte 19 déclarations initiales + 6 complémentaires = 25 est le mien, à partir des points 36 à 57 ; il concorde avec le total du point 58.",
+      "De nombreux montants sont donnés en ordre de grandeur entre crochets dans le texte officiel ; la fiche ne les précise pas.",
+      "La page 14 cite un règlement européen du 15 mai 2024 qui autorise désormais ces traitements sous conditions : la solution retenue pour le grief 2 pourrait donc ne plus valoir pour des faits récents. C'est une remarque de ma part, à vérifier."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Fable 5.2), à partir du texte extrait du PDF officiel", "date": "2026-11-12", "relue_par_mateo": false}
+}

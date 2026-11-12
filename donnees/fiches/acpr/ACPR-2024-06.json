@@ -1,0 +1,375 @@
+{
+  "id": "ACPR-2024-06",
+  "version_grille": 1,
+  "suivi": {
+    "statut": "à lire",
+    "mes_notes": ""
+  },
+  "perimetre": "LCB-FT",
+  "resume_court": "MoneyGram permet d'envoyer de l'argent à l'étranger, souvent en espèces, depuis des commerces de quartier. L'ACPR lui reproche d'avoir traité presque tous ses clients comme des clients de passage, si bien qu'elle ne cherchait pas à les connaître, d'avoir réglé ses alertes automatiques sur des montants bien trop élevés pour sa clientèle et de ne jamais avoir demandé de justificatif lors de ses vérifications approfondies. Conséquence : 29 opérations suspectes non signalées à Tracfin sur 53 dossiers examinés, et un réseau de plus de mille agents contrôlé par deux ou trois personnes. Sanction : un blâme et 1,3 million d'euros.",
+  "identite": {
+    "etablissement": "MoneyGram International SA",
+    "type_etablissement": "établissement de paiement",
+    "precision_type": "Établissement de paiement de droit belge, qui exerce en France depuis 2019 une activité de transmission de fonds par un réseau d'agents.",
+    "groupe": "Groupe américain MoneyGram (MoneyGram Payment Systems Inc)",
+    "pays": "Belgique (activité contrôlée : France)",
+    "activite_et_taille": "Quatre types d'agents : 1 156 agents de détail, trois « super-agents » (éditeurs de logiciels de caisse pour buralistes), 16 points de vente de la filiale MoneyGram Payment Services France, des partenaires dits stratégiques. En 2022 : 2,4 millions de clients (dont 24 000 en relation d'affaires), 8,6 millions d'opérations, 2,6 milliards d'euros transférés. Montant moyen : 296 euros à l'envoi, 371 euros à la réception.",
+    "pages": [
+      2,
+      3
+    ]
+  },
+  "controle": {
+    "controle_sur_place": "du 10 février au 28 septembre 2023",
+    "rapport_de_controle": "signé le 5 juin 2024",
+    "ouverture_de_la_procedure": "décidée le 18 novembre 2024, Commission saisie le 3 décembre 2024",
+    "antecedents": "Un précédent contrôle sur place avait donné lieu à une lettre de suite ; en juillet 2019, l'établissement s'était engagé à revoir ses critères de relation d'affaires.",
+    "pages": [
+      3,
+      4
+    ]
+  },
+  "sanction": {
+    "nature": [
+      "blâme",
+      "sanction pécuniaire"
+    ],
+    "montant_euros": 1300000,
+    "publication": "nominative",
+    "duree_publication_nominative": "5 ans, puis forme anonymisée",
+    "proposition_du_college": "blâme et 1,5 million d'euros, publication nominative pendant 5 ans",
+    "pages": [
+      1,
+      2,
+      15,
+      16
+    ]
+  },
+  "procedure": {
+    "questions_de_procedure": "non précisé (aucune exception de procédure examinée)",
+    "pages": []
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Distinction entre client occasionnel et relation d'affaires",
+      "resume": "Le critère interne pour classer un client en relation d'affaires (4 opérations abouties par mois pendant 3 mois consécutifs) était trop restrictif pour une clientèle qui fait en moyenne 4,7 opérations par an. Une large partie des clients réguliers échappait donc aux mesures de vigilance prévues pour les relations d'affaires.",
+      "textes": [
+        "CMF L. 561-2-1"
+      ],
+      "chiffres_cles": [
+        "96 % des 128 531 clients ayant fait 12 opérations ou plus en 2022 étaient classés clients occasionnels",
+        "exemples cités : 69 transactions en 17 mois pour 71 389 euros ; 29 opérations en 2 mois pour 89 650 euros",
+        "engagement pris en juillet 2019 (plus de 6 transactions en 6 mois) non tenu ; nouveau paramétrage seulement en octobre 2024"
+      ],
+      "issue": "retenu",
+      "precision_issue": "Grief fondé.",
+      "categorie": "relation d'affaires et clients occasionnels",
+      "categorie_precision": "",
+      "categories_secondaires": [
+        "connaissance du client à l'entrée en relation"
+      ],
+      "pages": [
+        3,
+        4
+      ]
+    },
+    {
+      "numero": "2",
+      "titre": "Connaissance de la clientèle en relation d'affaires",
+      "resume": "Aucune information n'était recueillie sur les revenus et le patrimoine des clients en relation d'affaires, et la profession était notée en termes trop vagues (« entrepreneur », « employé »...). Dans cinq dossiers, des déclarations contradictoires sur la profession n'avaient pas été analysées.",
+      "textes": [
+        "CMF L. 561-5-1",
+        "CMF R. 561-12"
+      ],
+      "chiffres_cles": [
+        "aucun des 18 dossiers examinés ne contenait d'information sur la situation financière",
+        "5 dossiers avec incohérence sur la profession non analysée"
+      ],
+      "issue": "retenu",
+      "precision_issue": "Grief fondé. La Commission admet que le recueil des revenus et du patrimoine n'est pas toujours systématique hors établissements de crédit, mais juge qu'il s'imposait ici (clientèle non bancarisée, espèces, pays à risque élevé).",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "",
+      "categories_secondaires": [
+        "vigilance constante et mise à jour des dossiers"
+      ],
+      "pages": [
+        5,
+        6
+      ]
+    },
+    {
+      "numero": "3",
+      "titre": "Vigilance renforcée sur les pays non coopératifs en matière fiscale",
+      "resume": "Six territoires figurant sur les listes de l'OCDE et de l'Union européenne (Gibraltar, Guam, Îles Vierges américaines, Samoa, Palaos, Fidji) étaient absents de la liste interne des pays à risque. Les opérations avec ces pays ne déclenchaient donc aucune vigilance renforcée.",
+      "textes": [
+        "CMF L. 561-10-1"
+      ],
+      "chiffres_cles": [
+        "en 2022 : 323 opérations vers les Fidji (69 520 euros), 124 vers les Îles Vierges américaines (78 386 euros), 136 en provenance de Guam (63 715 euros), 700 en provenance des Îles Vierges américaines (233 910 euros)"
+      ],
+      "issue": "retenu",
+      "precision_issue": "Grief fondé. L'erreur de paramétrage invoquée pour Gibraltar et le faible volume des flux ne sont pas retenus comme atténuants.",
+      "categorie": "personnes politiquement exposées et vigilance renforcée",
+      "categorie_precision": "",
+      "categories_secondaires": [
+        "classification des risques"
+      ],
+      "pages": [
+        6,
+        7
+      ]
+    },
+    {
+      "numero": "4",
+      "titre": "Dispositif automatisé de surveillance des transactions",
+      "resume": "Les seuils des scénarios étaient sans rapport avec le montant moyen des opérations. Les huit scénarios du groupe partaient de plus de 2 000 dollars ; les quatre scénarios propres à la France ne tenaient compte ni du profil de risque du client ni du pays, avec des seuils de 3 500, 7 000 et 10 000 euros sur 30 jours. Aucun scénario n'utilisait les revenus ou le patrimoine du client.",
+      "textes": [
+        "CMF L. 561-32 (I)",
+        "CMF R. 561-38"
+      ],
+      "chiffres_cles": [
+        "34 351 alertes en 2022 pour 8,6 millions d'opérations",
+        "8 scénarios sur 12 ne produisaient que 5 085 alertes, soit environ 15 %",
+        "montant moyen : 296 euros (envoi) et 371 euros (réception) ; 1 521 euros cumulés par client sur 12 mois"
+      ],
+      "issue": "retenu",
+      "precision_issue": "Grief fondé. Les nouveaux scénarios créés en décembre 2024 sont traités comme de la remédiation.",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "numero": "5",
+      "titre": "Examen renforcé sans justificatifs",
+      "resume": "Les examens renforcés reposaient uniquement sur les déclarations du client et sur une recherche d'informations négatives. La procédure ne prévoyait dans aucun cas de demander un justificatif. Selon le grief, les alertes étaient clôturées avec des commentaires stéréotypés.",
+      "textes": [
+        "CMF L. 561-10-2"
+      ],
+      "chiffres_cles": [
+        "non précisé (carence décrite comme structurelle, les dossiers individuels ne sont cités qu'à titre d'illustration)"
+      ],
+      "issue": "retenu",
+      "precision_issue": "Grief fondé, sans que la Commission se prononce sur les dossiers individuels.",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "numero": "6",
+      "titre": "Déclarations de soupçon tardives",
+      "resume": "Le grief visait 21 déclarations tardives sur 44 examinées. La Commission en retient 7 : six cas où l'alerte manuelle d'un agent suffisait à faire naître le soupçon et où l'examen renforcé n'a été mené qu'un mois et demi à deux mois plus tard, et un cas où une transaction oubliée a été déclarée plus de trois mois après.",
+      "textes": [
+        "CMF L. 561-16"
+      ],
+      "chiffres_cles": [
+        "21 dossiers visés sur 44 DS analysées, délai moyen de 190 jours selon le grief",
+        "7 dossiers retenus, 14 écartés (délai calculé depuis la première alerte, sans preuve que le soupçon existait dès ce moment)"
+      ],
+      "issue": "retenu en partie",
+      "precision_issue": "Fondé pour 7 dossiers sur 21.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [
+        10,
+        11
+      ]
+    },
+    {
+      "numero": "7",
+      "titre": "Défauts de déclaration de soupçon",
+      "resume": "Dans 29 dossiers, le volume ou le nombre des transactions dépassait très largement la moyenne des clients, sans élément sur la situation financière pour l'expliquer, ou en contradiction avec la profession déclarée, parfois avec de nombreux bénéficiaires sans lien apparent et des pays sous liste grise du GAFI.",
+      "textes": [
+        "CMF L. 561-15"
+      ],
+      "chiffres_cles": [
+        "30 défauts reprochés sur 53 dossiers examinés ; 29 retenus, 1 écarté (dossier 7.26)",
+        "25 dossiers avec plus de 3 000 euros par mois en moyenne ou plus de 50 opérations en 18 mois",
+        "15 de ces 25 dossiers concernaient des pays sous liste grise du GAFI"
+      ],
+      "issue": "retenu en partie",
+      "precision_issue": "Fondé pour 29 dossiers sur 30.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [
+        11,
+        12
+      ]
+    },
+    {
+      "numero": "8",
+      "titre": "Contrôle périodique du réseau d'agents",
+      "resume": "Les moyens humains du contrôle périodique ne permettaient pas de couvrir le réseau en cinq ans. L'établissement ne pouvait pas chiffrer les effectifs dédiés à la France. Le contrôle des sous-agents, délégué aux « super-agents », était trop rare et surtout formel ; un audit a conclu à « 0 % de défauts » chez un sous-agent où des transactions suspectes se poursuivaient.",
+      "textes": [
+        "CMF L. 561-32 (II)",
+        "CMF R. 561-38-3",
+        "CMF R. 561-38-4",
+        "arrêté du 6 janvier 2021, art. 16"
+      ],
+      "chiffres_cles": [
+        "2 contrôleurs (3 selon l'établissement) pour 1 156 agents de détail et 16 agences",
+        "99 contrôles programmés en 2022 (194 en ajoutant les contrôles dits réactifs)",
+        "une agence parmi les 30 plus gros agents n'avait pas été visitée depuis plus de 10 ans",
+        "chez un super-agent : 4 sous-agents contrôlés par mois, soit 240 en cinq ans, pour 678 sous-agents dont 390 actifs",
+        "chez un sous-agent : 5 clients représentant plus de 35 % des émissions sur un mois (6 juin - 6 juillet 2023)"
+      ],
+      "issue": "retenu",
+      "precision_issue": "Grief fondé. Un seul argument est écarté : les fausses pièces d'identité chez un autre sous-agent, que la poursuite ne prouve pas.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "",
+      "categories_secondaires": [
+        "gouvernance, moyens et formation",
+        "dispositif de groupe, filiales et correspondance bancaire"
+      ],
+      "pages": [
+        12,
+        13,
+        14
+      ]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {
+        "texte": "Activité à risque élevé de blanchiment et de financement du terrorisme : fonds essentiellement en espèces, pays d'origine et de destination.",
+        "pages": [
+          15
+        ]
+      },
+      {
+        "texte": "Engagement pris auprès de l'ACPR en juillet 2019 sur les critères de relation d'affaires, non tenu ; remédiation jugée « d'autant plus tardive ».",
+        "pages": [
+          4
+        ]
+      }
+    ],
+    "elements_attenuants": [
+      {
+        "texte": "Griefs 6 et 7 établis dans un périmètre réduit.",
+        "pages": [
+          15
+        ]
+      },
+      {
+        "texte": "Améliorations indiquées par l'établissement, dont la Commission tient compte.",
+        "pages": [
+          15
+        ]
+      }
+    ],
+    "mesures_correctrices": [
+      {
+        "texte": "Nouveaux seuils de relation d'affaires en octobre 2024 (au moins 2 transactions par mois sur 9 mois, ou 4 par mois sur 3 mois, sur 365 jours glissants).",
+        "pages": [
+          4
+        ]
+      },
+      {
+        "texte": "Système informatique modifié en 2023 pour préciser la profession des clients.",
+        "pages": [
+          6
+        ]
+      },
+      {
+        "texte": "Nouveaux scénarios de surveillance créés en décembre 2024 ; renforcement du dispositif de vigilance.",
+        "pages": [
+          8,
+          15
+        ]
+      }
+    ],
+    "situation_financiere": {
+      "texte": "En 2024 : chiffre d'affaires d'environ 230 millions d'euros, résultat net d'environ 2 millions, fonds propres d'environ 34 millions.",
+      "pages": [
+        3,
+        15
+      ]
+    },
+    "cause_profonde": {
+      "texte": "La décision ne désigne pas une cause unique. Elle écrit que les carences de vigilance et de surveillance « ont conduit » aux manquements déclaratifs, et relève que le contrôle interne est organisé au niveau international du groupe, sans effectifs identifiés pour la France.",
+      "pages": [
+        13,
+        15
+      ]
+    }
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Le seuil qui fait passer un client occasionnel en relation d'affaires est-il comparé au comportement réel du client type (nombre d'opérations par an) ?",
+      "Les engagements pris dans une lettre de suite sont-ils suivis jusqu'à leur mise en production, avec une date et un responsable ?",
+      "La liste interne des pays à risque est-elle rapprochée des listes UE, OCDE et GAFI à chaque mise à jour ?",
+      "Les seuils des scénarios sont-ils calibrés sur le montant moyen des opérations locales, et le nombre d'alertes par scénario est-il suivi ?",
+      "La procédure d'examen renforcé dit-elle dans quels cas un justificatif est exigé, et les motifs de clôture sont-ils propres à chaque dossier ?",
+      "Le délai entre une alerte manuelle qui exprime un soupçon et l'envoi de la DS est-il mesuré, et les diligences intermédiaires tracées ?",
+      "Le plan de contrôle périodique couvre-t-il tout le réseau d'agents en cinq ans, avec des effectifs chiffrés par pays ?",
+      "Les contrôles délégués à des tiers (super-agents) sont-ils eux-mêmes contrôlés sur le fond, pas seulement sur des statistiques ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": [
+      "transmission de fonds",
+      "réseau d'agents",
+      "espèces",
+      "libre prestation de services",
+      "relation d'affaires"
+    ],
+    "pages_prioritaires": [
+      {
+        "pages": [
+          3,
+          4
+        ],
+        "pourquoi": "relation d'affaires : le raisonnement sur les seuils"
+      },
+      {
+        "pages": [
+          8
+        ],
+        "pourquoi": "calibrage des scénarios par rapport au montant moyen"
+      },
+      {
+        "pages": [
+          9,
+          10
+        ],
+        "pourquoi": "quand le déclaratif ne suffit plus pour un examen renforcé"
+      },
+      {
+        "pages": [
+          13,
+          14
+        ],
+        "pourquoi": "contrôle d'un réseau d'agents"
+      },
+      {
+        "pages": [
+          15
+        ],
+        "pourquoi": "synthèse et calcul de la sanction"
+      }
+    ],
+    "confiance": "élevée",
+    "a_verifier": [
+      "Page 4, la décision cite une « décision n° 2025-01 du 7 novembre 2025 » : dans la base, la décision du 7 novembre 2025 porte le numéro 2024-01 (Banque Chaabi du Maroc). Probable coquille dans le texte officiel, à contrôler sur le PDF.",
+      "Grief 8 : le texte du grief parle de 2 sous-agents contrôlés par mois (p. 13), la Commission de 4 par mois (p. 14). La fiche retient le chiffre de la Commission.",
+      "Grief 8 : le rapporteur concluait à un périmètre réduit (p. 1) ; la décision dit seulement « fondé » (p. 14) tout en écartant un argument."
+    ]
+  },
+  "redaction": {
+    "redigee_par": "Claude (Fable 5.2), à partir du texte extrait du PDF officiel",
+    "date": "2026-11-12",
+    "relue_par_mateo": false
+  }
+}
