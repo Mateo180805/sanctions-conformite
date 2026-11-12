@@ -1,0 +1,517 @@
+===== Page 1 =====
+ÉTABLISSEMENT DE CRÉDIT B
+Procédure no 2017-08
+–––––
+Blâme et sanction pécuniaire
+de 8 millions d’euros
+–––––
+Audience du 22 février 2018
+Décision rendue le 22 mars 2018
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 26 juillet 2017 par laquelle le Président de l’Autorité de contrôle prudentiel et de résolution
+(ci-après l’« ACPR ») informe la Commission de ce que le Collège de supervision de l’ACPR (ci-après le
+« Collège »), statuant en sa formation de Collège restreint, a décidé d’ouvrir une procédure disciplinaire à
+l’encontre de l’établissement de crédit B ;
+Vu la notification des griefs du 26 juillet 2017 ;
+Vu les mémoires en défense des 9 octobre et 18 décembre 2017 et la réponse, le 15 janvier 2018, aux
+demandes du rapporteur, ainsi que les pièces qui les accompagnent, par lesquels l’établissement de crédit B
+conteste tous les griefs notifiés, à l’exception du sous-grief 3.1 relatif à l’information du personnel en matière
+de lutte contre le blanchiment des capitaux et le financement du terrorisme (ci-après « LCB-FT ») ; au sujet
+du grief 1, il demande subsidiairement à la Commission de tenir compte, à tout le moins, des difficultés qu’il
+a rencontrées, comme tous les établissements de la place, pour déterminer des scénarios de détection
+automatisée du risque de financement du terrorisme (ci-après « FT ») dans le cadre de l’utilisation de crédits
+à la consommation non affectés et pour les intégrer dans ses outils classiques de détection ; il demande aussi
+que ses efforts pour développer de nouveaux outils s’y rapportant soient pris en considération ; il sollicite
+également que la décision à intervenir soit publiée sous une forme non nominative et que la séance de la
+Commission se tienne à huis clos ;
+Vu les mémoires des 23 novembre 2017 et 4 janvier 2018, par lesquels M. Jean-Luc Guillotin,
+représentant du Collège, maintient l’ensemble des griefs ;
+Vu le rapport du 22 janvier 2018 de M. Denis Prieur, rapporteur, dans lequel celui-ci conclut que les 3
+griefs sont entièrement établis, mais que la portée du grief 1 relatif à l’insuffisante efficacité du dispositif de
+suivi des relations d’affaires de l’établissement de crédit B doit être relativisée ;
+Vu les courriers du 22 janvier 2018 convoquant les parties à l’audience et les informant de la composition
+de la Commission et de ce qu’il sera fait droit à la demande présentée par l’établissement de crédit B tendant
+à ce que cette audience ne soit pas publique ;
+Vu les observations présentées le 6 février 2018 par l’établissement de crédit B sur le rapport du
+rapporteur et la pièce produite le 20 février 2018 ;
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2017-08
+Vu les autres pièces du dossier, notamment le rapport de contrôle du 17 mars 2017 ;
+Vu le code monétaire et financier (ci-après le « CMF »), notamment ses articles L. 561-6, L. 561-10-2,
+L. 561-15, L. 561-33, L. 612-39 et R. 612-35 à R. 612-51, dans leur rédaction en vigueur au moment des
+faits ;
+Vu l’arrêté du 3 novembre 2014 relatif au contrôle interne des entreprises du secteur de la banque, des
+services de paiement et des services d’investissement soumises au contrôle de l’Autorité de contrôle
+prudentiel et de résolution (ci-après l’« arrêté du 3 novembre 2014 »), notamment ses articles 45, 46, 49
+et 50 ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACPR, composée de M. Rémi Bouchez, Président, et de Mme Claudie
+Boiteau, M. Yves Breillat et M. Thierry Philipponnat ;
+Après avoir entendu, lors de sa séance non publique du 22 février 2018 :
+− M. Prieur, rapporteur, assisté de Mme Lauriane Bonnet, son adjointe ;
+− Mme Priscille Merle, représentante de la directrice générale du Trésor, qui a indiqué ne pas avoir
+d’observations à formuler ;
+− M. Guillotin, représentant du Collège de l’ACPR, assisté du directeur des affaires juridiques, de la cheffe
+du service du droit de la lutte anti-blanchiment et du contrôle interne à la direction des affaires juridiques,
+du chef du service des affaires institutionnelles et du droit public à la direction des affaires juridiques, de
+spécialistes juridiques au sein de ce service, et du chef du service en charge du contrôle de cet
+établissement au sein de la direction compétente du contrôle des banques ; M. Guillotin a proposé à la
+Commission de prononcer un blâme assorti d’une sanction pécuniaire de 10 millions d’euros, dans une
+décision publiée sous une forme nominative ;
+− L’établissement de crédit B, représenté par […] ainsi que par Mes Martine Samuelian et Jennifer Chossis
+(cabinet d’avocats Jeantet), avocates à la Cour ;
+Les représentants de l’établissement de crédit B ayant eu la parole en dernier ;
+Après avoir délibéré en la seule présence de M. Bouchez, Président, de Mme Claudie Boiteau, M. Yves
+Breillat et M. Thierry Philipponnat ainsi que de M. Jean-Manuel Clemmer, chef du service de la Commission
+des sanctions faisant fonction de secrétaire de séance ;
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2017-08
+1. Considérant que l’établissement de crédit B est une société anonyme à conseil d’administration agréée
+en qualité d’établissement de crédit ;
+2. Considérant que le 19 décembre 2016, le directeur de Tracfin a adressé au Secrétaire général de
+l’ACPR une note dans laquelle il indiquait qu’une cliente de l’établissement de crédit B, Mme X, avait, entre
+le 25 juillet et le 24 octobre 2016, procédé, au bénéfice d’une personne détenue pour sa participation
+supposée à des infractions de terrorisme, à 4 virements pour un montant total de 650 euros, et réalisé, à
+compter de l’obtention d’un crédit à la consommation le 14 octobre 2016, d’importants retraits d’espèces ;
+qu’à la suite de cette note, un contrôle sur place a été effectué du 27 décembre 2016 au 3 février 2017 ; que
+ce contrôle a donné lieu à la signature d’un rapport définitif le 17 mars 2017 (ci-après le « rapport de
+contrôle ») ; qu’au vu de ce rapport, le Collège a décidé, lors de sa séance du 11 juillet 2017, d’ouvrir la
+présente procédure disciplinaire ;
+3.Considérant que si le titre VI du livre V du CMF, qui définit les obligations relatives à la lutte contre le
+blanchiment des capitaux et le financement du terrorisme (ci-après « LCB-FT »), a été, dans plusieurs de ses
+dispositions, modifié par l’ordonnance no 2016-1635 du 1er décembre 2016 renforçant le dispositif français
+de LCB-FT, les exigences qui en résultent sont au moins équivalentes à celles en vigueur au moment des
+faits concernés par la présente affaire, c’est-à-dire avant le 3 décembre 2016 ; que les dispositions du CMF à
+la lumière desquelles la Commission aura à examiner le bien-fondé des griefs sont celles qui étaient en
+vigueur à la date des faits, avant l’intervention de l’ordonnance ;
+I. Sur le dispositif de suivi automatisé des relations d’affaires
+4. Considérant que selon l’article 46 de l’arrêté du 3 novembre 2014, « Les entreprises assujetties se
+dotent de dispositifs de suivi et d’analyse de leurs relations d’affaires, fondés sur la connaissance de leur
+clientèle, permettant notamment de détecter les opérations qui constituent des anomalies au regard du profil
+des relations d’affaires et qui pourraient faire l’objet d’un examen renforcé mentionné au II de l’article
+L. 561-10-2 du code monétaire et financier ou d’une déclaration prévue à l’article L. 561-15 du même
+code. » ; que l’article 49 de cet arrêté précise que « Les dispositifs mentionnés aux articles 46 et 47 sont
+adaptés aux activités, aux clientèles, aux implantations de l’entreprise assujettie et aux risques identifiés par
+la classification. » ; que son article 50 prévoit que « Les dispositifs de suivi et d’analyse des opérations
+permettent de définir des critères et seuils de significativité spécifiques aux anomalies en matière de
+blanchiment des capitaux et de financement du terrorisme. » ;
+5. Considérant que, selon le grief 1, fondé sur ces dispositions, l’outil de suivi automatisé Y mis en place
+par l’établissement de crédit B pour détecter les opérations atypiques s’avère incomplet et insuffisamment
+efficace ; que, d’une part, il ne comporte aucun critère, scénario ou seuil en lien avec un crédit à la
+consommation alors que ce produit est largement distribué par l’établissement de crédit B et que les risques
+de FT auxquels cette activité l’expose ont été mentionnés dans (i) le rapport annuel de Tracfin de 2013, paru
+en 2014, (ii) la mesure no 7 du plan d’action du ministre des finances et des comptes publics pour lutter
+contre le FT publié en mars 2015et (iii) l’annexe 2 de l’instruction groupe publiée en 2015 relative à la LCB-
+FT ; que, d’autre part, les scénarios paramétrés dans cet outil et relatifs aux retraits d’espèces (nos 1128 et
+1143) ne mentionnent pas la détection du FT parmi les multiples objectifs qui leur sont assignés ; qu’en
+outre, le scénario relatif à des retraits d’espèces par des particuliers avait un seuil de déclenchement d’une
+alerte de 50 000 euros par mois, ce qui était inadapté au risque de FT ; que, de surcroît, l’outil Y n’était pas, à
+la date du contrôle, en mesure de cumuler les retraits d’espèces effectués par un même client sur un mois
+glissant ni de cumuler ceux réalisés sur plusieurs comptes ; qu’ainsi, l’établissement de crédit B n’a pas
+détecté les multiples retraits d’espèces effectués par une de ses clientes, Mme X, sur deux comptes (nos XXXX
+et XXXXX), retraits dont le montant cumulé entre le 19 octobre et le 10 novembre 2016 excédait 10 000
+euros, dont 9 000 euros en trois jours à compter du 14 octobre 2016, date du décaissement des fonds obtenus
+dans le cadre du crédit à la consommation ; que de telles opérations sont atypiques, seuls 0,3 % des prêts à la
+consommation octroyés par l’établissement de crédit B sur la période de janvier à novembre 2016 ayant
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2017-08
+donné lieu, dans les 31 jours suivant la mise à disposition des fonds, à des retraits excédant 50 % du montant
+du prêt et 10 000 euros ;
+Sur l’absence alléguée d’informations ou recommandations publiées à la date du contrôle
+au sujet de la nécessité de prendre en compte le risque d’utilisation d’un crédit
+à la consommation à des fins de financement du terrorisme
+6. Considérant que l’établissement de crédit B soutient qu’il n’y avait pas, à la date du contrôle, de
+publications ou de recommandations émises par des autorités nationales et internationales soulignant
+l’existence d’un risque de FT lié à la distribution de crédits à la consommation et que les discussions de place
+sont toujours en cours sur la façon d’appréhender les divers modes de financement du terrorisme ; qu’il
+produit notamment, à cet égard, une lettre adressée au Secrétaire général de l’ACPR le 22 novembre 2017
+par la directrice générale de la Fédération bancaire française mentionnant qu’il est admis, notamment par
+Tracfin, que la détection des opérations participant au FT « nécessite l’interprétation de « signaux faibles »
+divers, nombreux et anodins qui ne peuvent être paramétrés dans les outils de surveillance des opérations
+des banques. (…) » ; que beaucoup de ces signaux, « tels que l’achat d’un billet d’avion à destination de
+certains pays, la modification de l’apparence physique d’un client, les achats dans des magasins
+communautaires, l’utilisation des fonds provenant d’un crédit en inadéquation avec la raison invoquée lors
+de la souscription du crédit, les liens avec des individus radicalisés .... » restent inconnus des banques ou
+inexploitables par elles ;
+7. Considérant cependant, tout d’abord, que les dispositions précitées des articles 46, 49 et 50 de l’arrêté
+du 3 novembre 2014 sont claires ; qu’elles imposent à tous les organismes financiers auxquels elles
+s’appliquent de mettre en place un dispositif, adapté à leur clientèle et à leurs opérations, couvrant
+l’intégralité de leurs risques de blanchiment des capitaux et de financement du terrorisme ;
+8. Considérant, ensuite, qu’avant le dernier trimestre 2016, des indications avaient été données par
+plusieurs autorités publiques sur l’existence d’un risque de FT par l’utilisation d’un crédit à la
+consommation ; que si le rapport de Tracfin relatif à l’année 2013, publié en juillet 2014, mentionnait le cas
+d’un individu radicalisé qui veut rejoindre une zone de combat et produit en conséquence de faux documents
+afin d’obtenir un crédit, il n’en attirait pas moins l’attention des organismes financiers sur la démarche par
+laquelle, dans un but de FT, un client peut solliciter « plusieurs établissements spécialisés dans le crédit à la
+consommation », car « ces organismes sont en effet susceptibles de mettre à disposition des fonds dans des
+délais très courts, sous réserve que la demande n’excède pas quelques milliers d’euros » (p. 29) ; qu’un tel
+cas de micro-financement est, en l’absence même de mention plus précise dans un rapport annuel de Tracfin,
+jusqu’en décembre 2016, de démarche analogue à celle de Mme X, transposable à un établissement
+généraliste tel que l’établissement de crédit B ; que le plan d’action du ministère des finances et des comptes
+publics mentionné par la poursuite, publié en mars 2015, comportait la recommandation suivante (mesure
+no 7) : « Des mesures de vigilance renforcée (vérification de l’origine des fonds, du motif de la transaction
+ou de l’identité du bénéficiaire) seront déclenchées pour toute opération impliquant des montants
+inhabituellement élevés (y compris pour les crédits à la consommation et les transferts d’espèce). » ; que le
+1er juillet 2015, le directeur de Tracfin avait déclaré que les opérations de crédit à la consommation
+paraissaient jusqu’alors « des opérations à faible risque » mais que « l’expérience malheureuse de janvier a
+montré qu’il fallait remettre en question cette classification. » ; qu’au demeurant, les lignes directrices
+conjointes de l’ACPR et de Tracfin de novembre 2015 mentionnaient que « Le financement du terrorisme
+peut s’appuyer sur une grande variété d’opérations, telles que des (…) retraits d’espèces, (…) opérations de
+crédit, dont l’une des principales caractéristiques est de porter sur de faibles montants financiers (…) »
+(paragraphe 70 ter) et invitaient « les organismes financiers à suivre l’actualité nationale et internationale,
+notamment les communiqués du Ministère des finances ainsi que les rapports annuels de Tracfin ou les
+rapports typologiques du GAFI » (paragraphe 70 cinquies) ;
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2017-08
+9. Considérant, en outre, qu’au-delà des informations et recommandations émises par des autorités, la
+presse avait, courant janvier 2015, fait état de ce que l’un des auteurs des attentats commis quelques jours
+plus tôt avait eu recours au crédit à la consommation dans le cadre de la préparation de ceux-ci ;
+10. Considérant enfin que, comme le souligne la poursuite, l’établissement de crédit B avait lui-même
+pris conscience de ce risque puisque, dans sa procédure interne de 2015 relative à la LCB-FT, il était
+mentionné que « D’autres méthodes sont utilisées pour financer le terrorisme telles que le micro-crédit et le
+crédit à la consommation », l’exemple donné sur le sujet par cette instruction, relatif aux « objets financés
+(qui) peuvent être revendus via une remise d’espèces, le prêt faisant l’objet d’un défaut dans le même
+temps » (idem) ne pouvant être analysé comme le seul cas possible de détournement de l’objet d’un tel prêt ;
+qu’à la date de la mission de contrôle, pourtant, aucun scénario de l’outil Y non plus qu’aucun autre outil
+automatisé n’avait concrétisé au sein de l’établissement de crédit B la prise en compte de ce risque de FT par
+l’utilisation d’un crédit à la consommation ;
+Sur le risque de FT résultant de retraits d’espèces faisant suite notamment à l’octroi d’un prêt
+à la consommation
+11. Considérant que l’établissement de crédit B admet qu’aucun scénario de son outil Y n’était
+spécifiquement destiné à traiter le risque de FT pouvant résulter de retraits d’espèces mais fait valoir que
+divers scénarios de cet outil prenaient bien en compte le risque de FT et soutient que l’exclusion des prêts à
+la consommation du dispositif de communication systématique d’informations à Tracfin sur les opérations en
+espèces (COSI) montre que ces prêts n’étaient pas regardés comme présentant un risque par nature ; que,
+selon lui, les déclarations du directeur de Tracfin en juillet 2015 étaient imprécises quant à l’existence de ce
+risque ;
+12. Considérant cependant, tout d’abord, que l’exclusion de certaines opérations en espèces du dispositif
+COSI de Tracfin ne saurait, par elle-même, justifier l’absence de tout scénario relatif au risque de FT en
+relation avec des retraits d’espèces faisant suite à l’octroi d’un crédit à la consommation ; que le fait que
+certains scénarios utilisés par l’établissement de crédit B à la date du contrôle, dans un but de détection du
+FT, soient relatifs non à des retraits mais à des versements d’espèces ou à certaines opérations
+internationales, ne peut répondre au grief qui porte, ainsi que l’établissement de crédit B l’a rappelé lui-
+même, sur l’absence, dans son outil de détection automatisé, de scénario relatif à des retraits d’espèces
+faisant suite à l’octroi d’un crédit à la consommation ou de tout autre dispositif permettant de détecter de
+telles opérations ;
+13. Considérant, ensuite, que dans sa déclaration ci-dessus rappelée du 1er juillet 2015, le directeur de
+Tracfin ajoutait qu’en matière de crédit à la consommation, « Le préteur doit aussi s’intéresser à l’utilisation
+qui sera faite des fonds qui seront prêtés. » ; que, de plus, le rapport de Tracfin « Tendances et analyses des
+risques de blanchiment de capitaux et de financement du terrorisme en 2014 », soulignait, à propos de
+l’abaissement du plafond des paiements en espèces, que celles-ci « sont au cœur de presque toutes les
+opérations de micro-financement du terrorisme. » (p. 30) ; que, si l’établissement de crédit B invoque les
+propos tenus, lors d’une réunion, par un représentant de Tracfin qui aurait privilégié la vigilance humaine
+pour détecter les « signaux faibles » de FT, l’ACPR, autorité compétente pour apprécier la conformité aux
+dispositions légales applicables des dispositifs de lutte contre le financement du terrorisme (ci-après
+« LFT ») des organismes financiers, n’a à aucun moment indiqué qu’elle estimait inutile de mettre en place,
+dans les dispositifs automatisés de détection d’opérations atypiques, des scénarios permettant de détecter des
+cas de FT ; que pourtant, à la date de la mission de contrôle, aucun scénario de l’outil Y n’était relatif au
+risque de FT résultant d’opérations de retrait d’espèces, seul ou cumulativement avec d’autres critères,
+comme l’octroi récent d’un crédit à la consommation ; que l’absence d’agrégation des opérations de retraits
+d’espèces sur l’ensemble des comptes d’un même client de même que la référence, pour l’examen des
+opérations de la clientèle, à un mois calendaire, sont également des éléments d’inadaptation du dispositif de
+l’établissement de crédit B ; qu’il ne peut, toutefois, être reproché en outre à l’établissement de crédit B
+d’avoir mis en place un scénario comportant un seuil de déclenchement d’alerte trop élevé pour être adapté
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2017-08
+au risque de FT, dès lors que ce scénario visait à détecter d’autres types d’opérations par lesquelles des
+clients chercheraient à échapper à l’ISF ou commettraient des détournements dans le cadre de leur activité
+professionnelle ;
+14. Considérant, enfin, que les actions engagées par l’établissement de crédit B en matière de LFT avant
+le dernier trimestre 2016 ne sont pas de nature à répondre au reproche ; qu’en effet, les travaux relatifs à la
+mise au point d’un nouvel outil de détection, qui ont débuté en avril 2016 seulement, n’avaient pas encore
+eu, à la date du contrôle, de conséquence pratique sur le dispositif automatisé de détection de l’établissement
+de crédit B ; qu’au demeurant, les données utilisées par cet outil, initialement limitées à celles destinées aux
+communications systématiques d’informations, n’ont été enrichies par celles relatives aux tenues de comptes
+de la clientèle particulière qu’en avril 2017 ; que ces actions, pour ambitieuses et prometteuses qu’elles
+soient, ne dispensaient pas l’établissement de crédit B de mettre à jour rapidement son outil classique de
+détection ; que tel n’a pas été le cas, des scénarios relatifs au FT n’ayant été introduits dans l’outil
+informatique Y actuellement en place qu’en juillet 2017 ;
+Sur la possibilité matérielle d’intégrer dans les dispositifs de suivi automatisé des relations
+d’affaires des critères relatifs à l’octroi de prêts à la consommation suivis de retraits
+d’espèces, et d’analyser les alertes en résultant
+15. Considérant que l’établissement de crédit B souligne les difficultés que présente, au regard
+principalement du nombre d’alertes générées, l’introduction de critères pertinents relatifs aux prêts à la
+consommation ou renouvelables et aux opérations subséquentes de retrait des fonds ; qu’il rappelle à ce sujet
+qu’il est très fréquent qu’une part substantielle de ces fonds soit retirée sous forme d’espèces ; qu’ainsi,
+l’extrapolation à l’ensemble de la clientèle des tests réalisés sur un échantillon a fait ressortir sur un an, pour
+l’ensemble de la clientèle, un nombre d’alertes trop élevé pour être exploitable ;
+16. Considérant cependant qu’il ressort des tests effectués par l’établissement de crédit B que la prise en
+compte d’un critère supplémentaire de montant de retraits en valeur absolue et non plus seulement en
+pourcentage du prêt consenti, afin d’éliminer les conséquences sur la pertinence des alertes des retraits
+d’espèces de faible montant destinés au financement, par les clients, de leurs dépenses de consommation
+courante, réduit considérablement le nombre d’alertes ; que, de fait, l’établissement de crédit B a ajouté en
+juillet 2017 dans son outil Y deux nouveaux scénarios traitant de crédits à la consommation suivis de retrait
+d’espèces, en y intégrant de nouveaux critères, scénarios qui ont généré 284 alertes, soit une quantité
+exploitable, aboutissant à 27 déclarations de soupçon (ci-après « DS »), dont 4 en LFT ; que l’introduction de
+tels seuils dans le nouvel outil, en cours d’expérimentation depuis 2016, a donné des résultats analogues, le
+nombre d’alertes étant en outre sensiblement réduit par la prise en compte d’éventuelles demandes de
+déplafonnement ; qu’il n’est pas contesté qu’ainsi que l’indique la poursuite, seuls 0,3 % des prêts ont donné
+lieu, dans les 31 jours suivant la mise à disposition des fonds, à des retraits excédant à la fois 50 % du
+montant du prêt et 10 000 euros ; qu’il résulte du dossier que des retraits de niveau légèrement inférieur en
+valeur absolue et en pourcentage effectués après octroi d’un crédit à la consommation sont également très
+peu nombreux ; qu’ainsi, des opérations présentant des caractéristiques analogues à celles effectuées par Mme
+X étaient donc à la fois atypiques et susceptibles d’être détectées par des dispositifs automatisés produisant
+des alertes selon les opérations des clients, indépendamment de tout signal faible se rapportant à leur
+comportement ou à leur tenue, dont la détection relève davantage du personnel en agences que de dispositifs
+automatisés ; que la part minoritaire que représentent ces dispositifs dans la détection par l’établissement de
+crédit B, dans la période récente, de cas de FT potentiels, soit 26 % en 2016 et 12 % en 2017 n’implique pas
+qu’un organisme financier comme l’établissement de crédit B puisse, à cette fin, se reposer sur la seule
+détection humaine de signaux de radicalisation mais confirme plutôt les carences de son dispositif
+automatisé ;
+17. Considérant ainsi que, dans un périmètre très légèrement réduit par l’abandon du reproche relatif à
+l’existence d’un seuil trop élevé pour l’un des scénarios de l’outil Y utilisés au moment du contrôle, le grief
+1 est établi ;
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2017-08
+II. Sur le respect des obligations de vigilance et de déclaration
+18. Considérant que selon l’article L. 561-6 du CMF, « Pendant toute sa durée et dans les conditions
+fixées par décret en Conseil d’État, ces personnes [les personnes mentionnées à l’article L. 561-2] exercent
+sur la relation d’affaires, dans la limite de leurs droits et obligations, une vigilance constante et pratiquent
+un examen attentif des opérations effectuées en veillant à ce qu’elles soient cohérentes avec la connaissance
+actualisée qu’elles ont de leur client. » ; que selon le II de l’article L. 561-10-2 du même code, « Les
+personnes mentionnées à l’article L. 561-2 effectuent un examen renforcé de toute opération
+particulièrement complexe ou d’un montant inhabituellement élevé ou ne paraissant pas avoir de
+justification économique ou d’objet licite. Dans ce cas, ces personnes se renseignent auprès du client sur
+l’origine des fonds et la destination de ces sommes ainsi que sur l’objet de l’opération et l’identité de la
+personne qui en bénéficie. » ; que le I de l’article L. 561-15 du CMF prévoit que « Les personnes
+mentionnées à l’article L. 561-2 sont tenues, dans les conditions fixées par le présent chapitre, de déclarer
+au service mentionné à l’article L. 561-23 les sommes inscrites dans leurs livres ou les opérations portant
+sur des sommes dont elles savent, soupçonnent ou ont de bonnes raisons de soupçonner qu’elles proviennent
+d’une infraction passible d’une peine privative supérieure à un an ou participent au financement du
+terrorisme. » ;
+19. Considérant que, selon le grief 2, fondé sur ces dispositions, une cliente de l’établissement de crédit
+B, Mme X, s’est tout d’abord rendue, le 29 septembre 2016, à l’agence N1, pour l’obtention d’un crédit à la
+consommation non affecté de 20 000 euros sur un premier compte (no XXXX), dont elle est titulaire dans les
+livres de l’établissement de crédit B depuis le 5 octobre 2013 ; qu’une fois les fonds débloqués le 14 octobre
+2016, elle s’est ensuite présentée dans cette même agence les 19 et 21 octobre 2016, pour des demandes de
+déplafonnements de sa carte bancaire afin de retirer une partie des fonds ainsi prêtés ; que ses demandes,
+« insistantes et répétées », ont donné lieu à un « accrochage » entre le directeur de cette agence et la cliente
+qui a retiré 3 000 euros le 19 octobre 2016, à la suite d’un premier déplafonnement de ce montant, et à
+nouveau 3 000 euros le 20 octobre 2016, à la suite d’un deuxième ; que le motif invoqué par cette cliente lors
+de sa première demande de déplafonnement était « qu’elle devait régler en espèces une partie du véhicule
+acheté et rembourser ses études à sa mère » ; qu’après avoir atteint la limite maximale de retrait par carte au
+distributeur de l’agence N1 et faute d’obtenir le jour même un nouveau déplafonnement, cette cliente s’est
+rendue le 21 octobre 2016 à l’agence N2, dotée d’une caisse, pour un nouveau retrait, de 3 000 euros, portant
+le total de ses retraits à 9 000 euros en 3 jours, soit un peu moins de la moitié du crédit consenti ; qu’elle s’est
+ensuite rendue les 10 et 22 novembre 2016 à l’agence N3, respectivement pour un nouveau déplafonnement
+puis le transfert de ses comptes ; qu’elle a ainsi retiré 2 000 euros le 10 novembre 2016 sur un second compte
+(no XXXXX) ouvert le 3 novembre 2016 à l’agence N1, à la suite, également, d’une demande de
+déplafonnement relative aux retraits effectués en utilisant la carte bancaire attachée à ce second compte ; que
+l’objet de l’opération déclaré par la cliente, à savoir, la « participation au financement de travaux dans un
+bar à chicha en Belgique », amenait à s’interroger sur sa justification et son caractère licite, mais en outre,
+n’était pas cohérent avec les motifs avancés par Mme X pour l’ouverture du second compte, soit le règlement
+« par sa mère de ses factures en son absence avec la carte bancaire qu’elle lui aurait laissée » ; que
+l’établissement de crédit B, qui avait pourtant identifié les « déplafonnements CB et retraits importants »
+ainsi que les « opérations en lien avec crédits à la consommation » comme devant faire l’objet d’une
+surveillance au titre de la LFT et les avait même qualifiés de « signaux faibles pouvant créer un doute
+raisonnable » dans ce domaine, s’est contenté des explications de cette cliente ; qu’il a, dans le traitement de
+ces opérations, manqué à ses obligations de vigilance constante, d’examen renforcé et par suite de
+déclaration des opérations suspectes à Tracfin ;
+20. Considérant, en premier lieu, que si la demande, présentée par Mme X, d’un prêt à la consommation
+d’un montant de 20 000 euros n’était pas, en elle-même, incohérente avec les informations détenues par
+l’établissement de crédit B à son sujet et avait pour conséquence un taux d’endettement après octroi du prêt
+de 21,67 %, ce qui restait modéré, ce montant de 20 000 euros était néanmoins important par rapport aux
+revenus de Mme X et lui permettait de disposer, dans un délai très court, d’une somme librement utilisable
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2017-08
+représentant environ 18 mois de salaire ; que, surtout, les multiples retraits d’espèces qui ont suivi l’octroi de
+ce prêt, dont les montants étaient très élevés au regard des opérations antérieures de cette cliente et qui ont
+donné lieu à plusieurs demandes de déplafonnement de carte bancaire, à un incident avec le directeur
+d’agence concerné et à un déplacement de l’intéressée dans une autre agence pour retirer les fonds, auraient
+dû conduire à une actualisation des éléments de connaissance de cette cliente détenus par l’établissement de
+crédit B ; que les opérations effectuées n’ont pas entraîné de réaction de l’établissement, alors que l’exigence
+d’une vigilance renforcée au quotidien en ce qui concerne les opérations et comportements atypiques des
+clients, notamment relativement aux retraits d’espèces et aux crédits à la consommation, avait été rappelée
+par un dirigeant de l’établissement de crédit B dans une note aux responsables conformité diffusée en
+novembre 2015; que le caractère non affecté du prêt accordé à Mme X ne dispensait pas l’établissement de
+crédit B, au titre de la LCB-FT, de compléter les informations recueillies au sujet de la situation de cette
+cliente ; que la demande, moins de deux mois après, d’un second prêt, d’un montant de 5 000 euros,
+renouvelable, n’a pas davantage donné lieu à la recherche d’explications étayées par des documents, alors
+même que son utilisation quasi immédiate par un retrait en représentant 40 % avait pour conséquence
+d’accroître significativement le taux d’endettement de cette cliente ; que l’établissement de crédit B admet
+s’être contenté à l’époque des déclarations réitérées de Mme X et « ne lui a pas demandé de fournir des
+justificatifs : - lors de la demande de crédit à la consommation (…) / - lors de l’utilisation des fonds prêtés
+» ; que, ce faisant, il n’a pas exercé une vigilance suffisante ;
+21. Considérant, en deuxième lieu, que si les organismes assujettis ne peuvent procéder à un examen
+renforcé de toutes les opérations qui font suite à l’octroi d’un crédit à la consommation, l’accumulation, dans
+ce dossier, d’opérations de retraits d’espèces atypiques au regard des revenus et du fonctionnement du
+compte de la cliente, en raison de leur montant en valeur absolue et en proportion du prêt consenti (cf. supra
+considérant 16), ainsi que les motifs avancés à leur sujet, de manière parfois contradictoire, leur caractère
+prétendument très urgent, les déplafonnements de retraits par carte sollicités et le comportement en agence
+de la cliente et son déplacement dans une autre agence, rendaient un tel examen nécessaire dans ce dossier ;
+qu’il en va ainsi en l’absence même de tout changement de tenue de l’intéressée conduisant à supposer une
+radicalisation ou de toute réalisation d’opérations avec des personnes domiciliées dans un pays à risque ;
+qu’en particulier, aurait dû susciter des interrogations l’explication avancée par la cliente selon laquelle les
+retraits d’espèces effectués dans ces conditions étaient en partie destinés à rembourser les frais de ses études
+à sa mère, alors qu’elle fait régulièrement des virements à celle-ci ; qu’afin de vérifier la justification
+économique ou la licéité de l’objet des opérations de Mme X, cet examen devait inclure une analyse du
+fonctionnement antérieur de son compte no XXXX) ;
+22. Considérant, en troisième lieu, qu’il n’est pas contesté que, sur les relevés du compte no XXXX,
+apparaissaient plusieurs virements de faibles montants au profit d’une personne détenue pour sa participation
+supposée à des infractions de terrorisme ; que si la liste des opérations effectuées sur ce compte ne faisait pas
+apparaître leurs bénéficiaires, une recherche très simple dans l’outil Z aurait permis, en faisant apparaître la
+rubrique « motif » du virement », de connaître le nom de cette personne ; que ce nom apparaissait également
+sur les relevés de compte de la cliente auxquels les commerciaux ont accès par l’outil W ; qu’auraient
+également été relevés des mouvements sur le compte correspondant, depuis plusieurs mois, à des dépenses
+effectuées en Belgique, y compris en semaine ; que l’examen des opérations enregistrées sur le second
+compte de Mme X (no XXXXX) aurait également permis de constater qu’elles ne correspondaient pas à ce qui
+avait été annoncé par cette cliente lors de l’ouverture de ce compte ;
+23. Considérant, enfin, que le risque de FT qu’il est reproché à l’établissement de crédit B de ne pas avoir
+détecté ne porte pas sur les virements en faveur de la personne détenue pour sa participation supposée à des
+infractions de terrorisme, mais sur les retraits d’espèces de cette cliente susceptibles, en raison de ses liens
+avec cette dernière et son entourage, de participer au financement d’infractions de terrorisme à venir ; que
+l’établissement de crédit B seul, et non la Banque de France ou le Trésor Public, au titre de la tenue du
+compte de la régie de l’établissement pénitentiaire concerné, était informé de l’existence de ces nouvelles
+opérations ; qu’ainsi le grief 2 est entièrement établi, en ce que les défauts de vigilance et d’examen renforcé
+mentionnés ci-dessus ont eu pour conséquence certaine, en l’espèce, que l’établissement de crédit B n’a pas
+été en mesure de procéder à une DS ; que si l’établissement de crédit B souligne que les autorités publiques
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2017-08
+auraient dû l’informer immédiatement des virements au bénéfice de la personne détenue mentionnée ci-
+dessus, ce qui aurait entraîné le placement du compte de Mme X sous vigilance renforcée, il n’appartient pas à
+la Commission d’apprécier l’opportunité pour ces autorités d’alerter un organisme financier sur de telles
+opérations ;
+24. Considérant ainsi que le grief 2 est établi ;
+III. Sur le dispositif d’information et de formation du personnel
+25. Considérant que selon l’article L. 561-33 du CMF, « Les personnes mentionnées à l’article L. 561-2
+assurent la formation et l’information régulières de leurs personnels en vue du respect des obligations
+prévues aux chapitres Ier et II du présent titre. Pour l’application du présent article, les agents mentionnés à
+l’article L. 523-1 et les personnes auxquelles les établissements de monnaie électronique ont recours en vue
+de distribuer de la monnaie électronique, au sens de l’article L. 525-8, sont assimilés aux personnels des
+personnes mentionnées à l’article L. 521-1. » ; que l’article 45 de l’arrêté du 3 novembre 2014 prévoit
+qu’« Aux fins mentionnés à l’article 44, les entreprises assujetties veillent à ce que la formation et
+l’information de ces personnels, prévues à l’article L. 561-33 du CMF, soient adaptées à leurs activités, en
+tenant compte des risques identifiés par la classification et du niveau de responsabilité exercé. La formation
+et l’information des personnels portent notamment sur les procédures indiquant les opérations sur lesquelles
+ils doivent faire preuve d’une vigilance particulière au regard des risques identifiés par la classification
+établie par l’entreprise assujettie. » ;
+A. Sur l’information du personnel
+26. Considérant que, selon le sous-grief 3.1, fondé sur ces dispositions, la partie consacrée à la LCB-FT
+du site intranet de l’établissement de crédit Bn’était pas régulièrement actualisée, de sorte qu’au 3 février
+2017, elle ne mentionnait toujours pas (i) les rapports annuels ainsi que les rapports sur les tendances et
+analyses de risques de Tracfin, le site intranet faisant référence à des typologies de blanchiment de capitaux
+et de FT, en ne donnant pour seule source d’information que le rapport d’activités 2010 de la Cellule de
+traitement des informations financières de Belgique, (ii) les derniers principes d’application sectoriels et
+lignes directrices publiés par l’ACPR en matière de LCB-FT, notamment les lignes directrices de 2015 ainsi
+que les lignes directrices sur le gel des avoirs et (iii) le décret no 2016-1523 du 10 novembre 2016 relatif à la
+LFT, qui renforce les règles de vigilance à l’égard du crédit à la consommation ; qu’ainsi, l’information du
+personnel des agences de l’établissement de crédit B en matière de LCB-FT n’était pas actualisée dans des
+délais suffisamment rapides, ce qui nuisait à la mise en œuvre efficace par ce dernier des obligations de
+vigilance (cf. supra, grief 2) ;
+27. Considérant que l’établissement de crédit B ne conteste pas les insuffisances reprochées ; que les
+carences de l’information figurant sur le site intranet de l’établissement de crédit B sont générales et
+affectent donc, sur ce point, l’ensemble de son dispositif ; que les actions correctrices décrites, telle que la
+mise en place d’une page dédiée à la LFT sur le site intranet de l’établissement de crédit B, sont sans
+conséquence sur le sous-grief, qui est établi ;
+B. Sur la formation du personnel
+28. Considérant que, selon le sous-grief 3.2, fondé sur les mêmes dispositions, au moment du contrôle sur
+place, la formation générale du personnel des agences en matière de LCB-FT reposait sur une formation à
+distance sous forme d’« e-learning » proposée par le centre de formation de la profession bancaire et mise à
+jour en 2015 ; que, cependant, l’ensemble du personnel des agences n’a pas suivi la formation mise à jour ;
+qu’à titre d’exemple, en dehors de cas pratiques ajoutés en 2015 mais ne concernant pas le FT ou d’une
+formation sur les sanctions internationales, la dernière formation des directeurs d’agence N1 et N3 date de
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2017-08
+2011, soit plus de 5 ans avant les faits à l’origine de la mission de contrôle sur place ; qu’ainsi, l’ancienneté
+de la formation générale du personnel n’apparaît pas de nature à garantir un niveau suffisant de
+sensibilisation à la LCB-FT ;
+29. Considérant que le sous-grief 3.2 est un reproche général sur l’organisation et le contenu de la
+formation en LCB-FT, illustré par le cas des deux directeurs d’agence intervenus dans le dossier de Mme X ;
+que l’établissement de crédit B a apporté des éléments qui montrent que la formation dispensée à ses salariés
+en LCB-FT l’était en partie « en présentiel » ; que toutefois les exemples présentés en défense de supports de
+formation « en présentiel » comportant un volet LFT sont, pour partie, postérieurs au début des opérations
+atypiques effectuées par Mme X ; que, surtout, aucun élément produit par l’établissement de crédit B au sujet
+de telles actions ne permet de s’assurer du nombre de salariés qui les ont suivies ; que les interventions des
+agents de conformité de l’établissement de crédit B auprès de collaborateurs du réseau n’étaient pas
+formalisées ; que la diffusion de flashs d’information relatifs à la sécurité au quotidien, qui traitent parfois de
+la LCB-FT, peuvent compléter des actions de formation mais ne peuvent en tenir lieu ; qu’ainsi, il ne ressort
+pas du dossier que l’ensemble des agents de l’établissement de crédit B concernés étaient suffisamment
+formés à la LCB-FT ; qu’il ne résulte notamment pas des éléments produits que les actions de sensibilisation
+à la LCB-FT présentées par l’établissement de crédit B dans sa défense auraient été suivies par les directeurs
+d’agence concernés ; que le suivi par ces deux directeurs de modules d’e-learning de LCB-FT est
+relativement ancien (2011, 2012, 2013), sauf en ce qui concerne un module consacré aux sanctions
+internationales ; que l’expérience professionnelle antérieure, en qualité de conseiller clientèle, de ces deux
+directeurs ne suffit pas en elle-même à garantir une compétence suffisante et actualisée dans le domaine,
+évolutif, de la LCB-FT ; que, contrairement à ce que soutient l’établissement de crédit B, la façon dont ont
+été traitées les opérations de Mme X entre sa demande de prêt à la consommation et l’exercice du droit de
+communication de Tracfin ne démontre pas une sensibilisation suffisante des agents concernés à la LFT ; que
+les nouveaux modules d’e-learning présentés, de même que le planning de formation du réseau et la
+diffusion, en septembre 2017, d’un document relatif aux éléments essentiels de la sécurité financière
+s’analysent comme des actions correctrices ; que, dans un périmètre réduit en raison de l’organisation de
+formations « présentielles », le sous-grief 3.2 est établi ;
+30. Considérant ainsi que, sous réserve de cette réduction de périmètre, le grief 3 est établi ;
+*
+* *
+31. Considérant qu’il résulte tout d’abord de ce qui précède que la pertinence et l’efficacité du dispositif
+automatisé de détection du FT en place au sein de l’établissement de crédit B à la date du contrôle étaient
+insuffisantes en raison d’une absence de prise en compte du risque de FT dans le cas de retraits d’espèces
+faisant suite à l’octroi d’un crédit à la consommation (grief 1) ; que, de plus, dans le dossier individuel
+examiné par la mission de contrôle, cette carence n’a pas été palliée par la vigilance humaine ; qu’au
+contraire, les retraits d’espèces de cette cliente qui venait de bénéficier d’un crédit à la consommation, très
+importants au regard de ses ressources et dont les motifs ne ressortaient pas clairement de ses explications
+orales, parfois contradictoires, ont été facilités avant qu’un second crédit lui soit consenti, dont une partie a
+également été retirée en espèces ; qu’au regard des risques encourus, la LFT nécessite un niveau de vigilance
+et de réactivité supérieur à celui dont a fait preuve l’établissement de crédit B ; que les circonstances dans
+lesquelles cette cliente a effectué des retraits d’espèces et le montant de ceux-ci auraient dû entraîner une
+analyse de ses opérations qui aurait conduit à déceler des virements au profit d’une personne détenue pour sa
+participation supposée à des infractions de terrorisme; qu’au vu de ces informations l’établissement de crédit
+B, qui ne pouvait exclure que les nouvelles opérations de cette cliente contribuaient au FT, en lien ou non
+avec des proches du bénéficiaire de ces virements, aurait dû en informer Tracfin (grief 2) ; qu’un retard dans
+le dispositif de l’établissement de crédit B en matière d’information et de formation du personnel, qui peut
+expliquer pour partie les carences relevées dans le dossier de Mme X, a également été constaté (grief 3) ;
+Autorité de contrôle prudentiel et de résolution 10
+
+===== Page 11 =====
+Décision de la Commission des sanctions – procédure no 2017-08
+32. Considérant, toutefois, que l’établissement de crédit B a consenti d’importants efforts pour mettre à
+niveau son dispositif préventif, en renforçant son outil classique de détection mais aussi en élaborant un
+nouvel outil ; que si, ainsi qu’il a été dit, il résultait de communications Tracfin et de l’ACPR mais aussi
+d’autres informations rendues publiques que des opérations telles que celles en cause dans la présente affaire
+pouvaient comporter un risque particulier, ces communications et informations étaient à l’époque des faits
+encore récentes et générales ; que, notamment, c’est dans une actualisation de février 2018 des lignes
+directrices conjointes de l’ACPR et de Tracfin sur la déclaration de soupçon que les risques liés à l’utilisation
+d’espèces faisant suite à l’octroi d’un prêt à la consommation sont spécifiquement évoqués ; que, par ailleurs,
+l’insuffisante diligence reprochée à l’établissement de crédit B dans l’adaptation de son dispositif automatisé
+de détection pour traiter du risque de FT à petite échelle doit être appréciée en tenant compte de ce que, au
+moment du contrôle, les établissements de crédit de taille comparable étaient, comme l’établissement de
+crédit B, en phase de réflexion et d’échange sur la réponse appropriée à ce risque ; qu’au demeurant, des
+débats de place se sont poursuivis postérieurement sur la bonne configuration de tels dispositifs de détection,
+comme en atteste la lettre de la FBF produite par l’établissement de crédit B ;
+33. Considérant que les manquements retenus par la Commission justifient, compte tenu de leur nature et
+de leur gravité, le prononcé d’un blâme ; que pour les mêmes raisons et au vu des éléments d’atténuation
+mentionnés ci-dessus, dans le respect du principe de proportionnalité au regard de l’assise financière de
+l’établissement de crédit B, il y a lieu de prononcer en outre une sanction pécuniaire fixée à 8 millions
+d’euros ;
+34. Considérant qu’en l’espèce, pour les raisons mentionnées au considérant 32 notamment, la
+Commission estime qu’il convient de publier la présente décision sous une forme anonymisée ;
+PAR CES MOTIFS
+DÉCIDE :
+ARTICLE 1ER – Il est prononcé à l’encontre de l’établissement de crédit B un blâme et une sanction
+pécuniaire de 8 millions d’euros (huit millions d’euros).
+ARTICLE 2 – La présente décision sera publiée au registre de l’ACPR sous une forme anonymisée et
+pourra être consultée sous cette forme au secrétariat de la Commission.
+Le Président de la Commission
+des sanctions
+[Rémi BOUCHEZ]
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification et
+dans les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 11

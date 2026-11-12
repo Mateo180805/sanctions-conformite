@@ -1,0 +1,408 @@
+===== Page 1 =====
+Décision de la Commission des sanctions – procédure no 2013-07
+La société STATE BANK OF INDIA a formé STATE BANK OF INDIA
+Procédure no 2013-07
+un recours devant le Conseil d’Etat contre la
+_____
+décision de la Commission des sanctions du
+11 février 2015.
+Blâme et sanction pécuniaire
+de 300 000 euros
+_____
+Audience du 30 janvier 2015
+Décision rendue le 11 février 2015
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 23 décembre 2013 par laquelle le Président de l’Autorité de contrôle prudentiel et de
+résolution (ci-après l’ACPR) informe la Commission de ce que le Collège de supervision de l’ACPR
+(ci-après le Collège), statuant en sous-collège sectoriel de la banque, a décidé, lors de sa séance du 16
+décembre 2013, d’ouvrir une procédure disciplinaire à l’encontre de la société STATE BANK OF
+INDIA (ci-après SBI Paris), ayant son siège social 12-14, rond-point des Champs-Élysées, à Paris 8e,
+enregistrée sous le numéro 2013-07 ;
+Vu la notification des griefs du 23 décembre 2013 ;
+Vu les mémoires en défense des 3 avril, 18 juillet, 8 septembre et 17 novembre 2014, ainsi que les
+pièces qui les accompagnent, par lesquels SBI Paris indique avoir pris la décision de ne pas contester
+les griefs et demande à la Commission, d’une part, de prononcer le huis clos et, d’autre part, (i)
+d’écarter les griefs reprochés ou, à tout le moins, de ne pas ordonner de sanction de nature à
+compromettre son activité, (ii) dans l’hypothèse où une sanction serait prononcée, de ne pas la publier
+et (iii) à défaut, de la publier sous une forme non nominative ;
+Vu les mémoires des 3 juin, 25 juillet et 29 septembre 2014, par lesquels M. François Lemasson,
+représentant le Collège, maintient l’ensemble des griefs notifiés, qu’il souhaite voir fermement
+sanctionnés ;
+Vu le rapport du 29 décembre 2014 de M. Yves Breillat, rapporteur, dans lequel celui-ci conclut
+que tous les griefs reprochés sont établis ;
+Vu les courriers du 29 décembre 2014 convoquant les parties à la séance de la Commission du 30
+janvier 2015 et les informant de la composition de celle-ci lors de cette séance ;
+Vu les observations présentées le 13 janvier 2015 par SBI Paris sur le rapport du rapporteur ;
+Vu les autres pièces du dossier, notamment le rapport définitif signé le 26 mars 2013 par M. Hervé
+Dallerac, inspecteur général de la Banque de France ;
+Vu le code monétaire et financier (ci-après le CMF), notamment ses articles L. 612-39 et R. 612-35
+à R. 612-51 ;
+Autorité de contrôle prudentiel et de résolution 1
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2013-07
+Vu le règlement no 93-05 du 21 décembre 1993 modifié du Comité de la réglementation bancaire
+relatif au contrôle des grands risques (ci-après le règlement no 93-05), notamment ses articles 1.1 et
+10 ;
+Vu le règlement no 97-02 du 21 février 1997 modifié du Comité de la réglementation bancaire et
+financière relatif au contrôle interne des établissements de crédit et des entreprises d’investissement
+(ci-après le règlement no 97-02), dans sa version en vigueur au moment des faits, notamment ses
+articles 5, 11, 12, 19, 21 et 24 ;
+Vu l’arrêté du 3 novembre 2014 relatif au contrôle interne des entreprises du secteur de la banque,
+des services de paiement et des services d’investissement soumises au contrôle de l’Autorité de
+contrôle prudentiel et de résolution (ci-après l’arrêté du 3 novembre 2014), qui a abrogé et remplacé le
+règlement no 97-02, notamment ses articles 11, 28, 85, 86, 107, 108, 111 et 118 ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACPR, composée de M. Rémi Bouchez, Président, et de MM.
+Francis Crédot, Pierre Florin, André Icard et Jean-Pierre Jouguelet ;
+Après avoir décidé de faire droit à la demande de l’établissement tendant à ce que l’audience ne
+soit pas publique et entendu, lors de sa séance du 30 janvier 2015 :
+— M. Breillat, rapporteur, assisté de Mme Aline Waleffe, son adjointe ;
+— M. Yann Pouëzat, représentant du directeur général du Trésor, qui a indiqué ne pas avoir
+d’observations à formuler ;
+— M. Lemasson, représentant le Collège de l’ACPR, assisté de Mme Anne-Marie Moulin, adjointe au
+directeur des affaires juridiques de l’ACPR, de M. Laurent Schwebel, adjoint au chef du service
+des affaires institutionnelles et du droit public, de M. Tanguy Quintrie Lamothe, cadre au sein de ce
+service, de M. Jérôme Chevy, chef du service 2 de la première direction du contrôle bancaire, et de
+Mme Judith Azevedo, cadre au sein de ce service ; M. Lemasson a proposé le prononcé d’un blâme
+assorti d’une sanction pécuniaire de 500 000 euros, dans une décision publiée sous une forme
+nominative ;
+— le directeur général de SBI Paris et son directeur de la conformité, assistés de Mes Caroline
+Mercier-Havsteen et Serge Durox, avocats à la Cour (EY Société d’avocats), ainsi que de Mme
+Anne-Claire Bizouarne (Ernst & Young et Associés) ;
+Les représentants de SBI Paris ayant eu la parole en dernier ;
+Après avoir délibéré en la seule présence de MM. Bouchez, Crédot, Florin, Icard et Jouguelet, ainsi
+que de M. Jean-Manuel Clemmer, chef du service de la Commission des sanctions faisant fonction de
+secrétaire de séance ;
+1. Considérant que SBI Paris est la succursale française de la STATE BANK OF INDIA (ci-après
+SBI), première banque indienne qui a pour actionnaire majoritaire l’État indien (62,31 % du capital) ;
+qu’elle a été agréée en tant qu’établissement de crédit en 1981 ; que l’essentiel de son activité consiste
+en l’octroi de financements et l’émission de garanties aux entreprises actives dans le commerce
+international ; qu’à fin 2014, son total de bilan s’élevait à 518 millions d’euros et ses engagements
+hors bilan à environ 59 millions d’euros ; qu’elle emploie 17 salariés ;
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2013-07
+2. Considérant que SBI Paris avait fait l’objet d’un contrôle sur place par les services de la
+Commission bancaire du 23 juillet au 15 décembre 2009, qui avait donné lieu à la signature d’un
+rapport définitif le 22 juillet 2010, puis à l’envoi d’une lettre de suite par le Secrétariat Général de
+l’ACPR (ci-après SGACPR) le 5 octobre 2010 ; qu’à la suite d’une visite sur place le 17 avril 2012, de
+nouvelles remarques ont été adressées à l’établissement le 18 mai 2012 ; qu’un nouveau contrôle sur
+place, effectué du 10 septembre au 7 décembre 2012, a donné lieu à la signature d’un rapport définitif
+le 26 mars 2013 (ci-après le rapport de contrôle) ; qu’au vu de ce rapport, le Collège de l’ACPR,
+statuant en sous-collège sectoriel de la banque, a décidé, lors de sa séance du 16 décembre 2013,
+d’ouvrir la présente procédure disciplinaire ;
+3. Considérant que les griefs notifiés seront examinés selon la répartition suivante : 1. Sur les
+grands risques (grief 1) ; 2. Sur le fonctionnement du dispositif de contrôle permanent : 2.1. Sur
+l’organisation du dispositif de contrôle de la conformité (grief 2) ; 2.2. Sur le contrôle permanent de la
+comptabilité et des états réglementaires (grief 3) ; 3. Sur le risque de crédit : 3.1. Sur l’octroi des
+crédits (grief 4) ; 3.1.1. Sur la formalisation des procédures d’octroi des crédits (grief 4.1) ; 3.1.2. Sur
+l’appréciation du risque de crédit (grief 4.2) ; 3.2. Sur le suivi du risque de crédit (grief 5) ; 4. Sur la
+piste d’audit : 4.1. Sur la piste d’audit comptable (grief 6) ; 4.2. Sur les états réglementaires (grief 7) ;
+1. Sur les grands risques (grief 1)
+4. Considérant que l’article 3 du règlement no 93-05 susvisé dispose que « Pour l’application du
+présent règlement, sont considérées comme un même bénéficiaire les personnes physiques ou morales
+qui sont liées de telle sorte qu’il est probable que si l’une d’entre elles rencontrait des problèmes
+financiers, "notamment des difficultés de financement ou de remboursement, les autres connaîtraient
+également des difficultés de financement ou de remboursement" (Arrêté du 25 août 2010) (…) » ; que
+le premier alinéa de l’article 1.1 du même règlement impose à chacun de ces établissements de
+« respecter en permanence un rapport maximum de 25 % entre l’ensemble des risques nets pondérés
+qu’il encourt du fait de ses opérations par bénéficiaire et le montant de ses fonds propres » ; que selon
+le deuxième aliéna de l’article 10 de ce règlement, les établissements de crédit assujettis doivent
+mettre en œuvre « tous les moyens nécessaires à une centralisation exhaustive des engagements, en
+particulier ceux qui sont consentis à des bénéficiaires liés au sens de l’article 3 (…) » ;
+5. Considérant que, selon le grief 1, SBI Paris n’a pas mis en œuvre une centralisation exhaustive
+de ses risques sur des entités liées au sens de l’article 3 du règlement no 93-05 ci-dessus mentionné ;
+qu’en conséquence, ses engagements sur le groupe Z se sont élevés à 38,48 % de ses fonds propres ;
+6. Considérant que SBI Paris ne conteste ni son incapacité, à la date du contrôle, à mettre en œuvre
+une centralisation exhaustive des engagements sur des entités liées au sens des dispositions ci-dessus
+rappelées du règlement no 93-05, ni le dépassement reproché ; que les actions engagées pour améliorer
+le suivi de ses expositions consolidées et les contrôles s’y rapportant, qui ont notamment abouti à ce
+que la fonctionnalité de marquage des groupes de son outil Y soit activée en octobre 2014, sont sans
+conséquence sur le premier reproche ; que la régularisation en janvier 2013 du dépassement reproché
+est, par ailleurs, sans conséquence sur le second ; qu’ainsi, le grief est établi ;
+2. Sur le fonctionnement du dispositif de contrôle permanent
+(griefs 2 et 3)
+2.1. Sur l’organisation du dispositif de contrôle de la conformité (grief 2)
+7. Considérant que le premier alinéa de l’article 11 du règlement no 97-02, en vigueur au moment
+des faits, imposait aux entreprises assujetties de désigner un responsable chargé de veiller à la
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2013-07
+cohérence et à l’efficacité du contrôle du risque de non-conformité ; que le texte de cet article a été
+repris à l’article 28 de l’arrêté du 3 novembre 2014 susvisé ;
+8. Considérant que, selon le grief 2, en raison des absences répétées, depuis 2011, du dirigeant en
+charge du contrôle du risque de non-conformité, SBI Paris n’a pas respecté son obligation de disposer
+en permanence d’un responsable chargé de veiller à la cohérence et à l’efficacité du contrôle de ce
+risque ; que le document qui prévoyait les modalités d’intérim de cette fonction n’était pas à jour lors
+du contrôle ; qu’alors que le siège de SBI a approuvé le principe du départ de ce responsable en janvier
+2012, départ qui a été effectif en avril 2012, ce n’est que le 19 avril 2012, deux jours après une visite
+sur place du SGACP, que l’intérim a été organisé ; que cet intérim était en outre limité à la vérification
+des états réglementaires avant soumission à l’ACP ; que diverses mesures se rapportant au contrôle de
+ce risque n’ont été prises qu’en cours de mission, dont un intérim complet du responsable de la
+conformité le 12 septembre 2012 ; que les revues de conformité confiées au cabinet d’audit X
+couvraient un champ insuffisant pour que SBI Paris satisfasse à cette exigence réglementaire ; qu’à la
+suite de l’absence, à partir du 13 novembre 2012, de l’assistant manager chargé de l’intérim de la
+fonction conformité, cette fonction est restée vacante jusqu’au 2 janvier 2013 ; que le document
+adressé chaque mois au siège au sujet du degré de conformité de chaque domaine d’activité de la
+succursale portait la mention « complied » pour chacune de ses rubriques sans qu’aucune vérification
+ait été effectuée ; qu’il était par ailleurs pré-rempli et portait la mention « fully complied » jusqu’en
+mars 2012 alors qu’il ressort des constats du 17 avril 2012 et de ceux de la dernière mission de
+contrôle que cette affirmation était inexacte ;
+9. Considérant que SBI Paris ne conteste pas ces carences relatives à la fonction de contrôle du
+risque de non-conformité depuis 2010 ; que, faute de pouvoir remplacer définitivement le titulaire
+lorsque celui-ci était en arrêt-maladie, il revenait à l’établissement de mettre en place un dispositif
+permettant d’assurer en son sein la continuité de cette fonction ; que le champ de la mission confiée au
+cabinet d’audit X après le début du contrôle sur place était trop étroit pour répondre au grief ; que les
+mesures de régularisation présentées, notamment le recrutement en janvier 2013 d’un directeur
+responsable de la conformité, sont sans conséquence sur le grief, qui est établi pour la période sur
+laquelle il porte ;
+2.2. Sur le contrôle permanent de la comptabilité et des états réglementaires (grief 3)
+10. Considérant que le c) de l’article 5 du règlement no 97-02, en vigueur au moment des faits,
+imposait que le système de contrôle des opérations et des procédures internes ait notamment pour
+objet, dans des conditions optimales de sécurité, de fiabilité et d’exhaustivité, de vérifier la qualité de
+l’information comptable et financière, qu’elle soit destinée à l’organe exécutif ou à l’organe délibérant,
+transmise aux autorités de tutelle et de contrôle ou qu’elle figure dans les documents destinés à être
+publiés ; que le texte de cet article a été repris au c) de l’article 11 de l’arrêté du 3 novembre 2014 ;
+11. Considérant que, selon le grief 3, le contrôle permanent de la comptabilité est insuffisant ; que
+le contrôle des pièces d’écritures n’est pas systématique tandis que le registre qui le matérialise est
+parfois émargé en l’absence de justificatifs ; qu’il n’est pas toujours effectué en j+1 ; que des erreurs et
+absences de comptabilisation ont été constatées ; que le contrôle de deuxième niveau des états
+réglementaires, qui se limite à un rapprochement des principaux encours de la balance comptable avec
+le solde desdits états réglementaires, n’a pas identifié plusieurs erreurs dans l’élaboration des états
+COREP au 30 juin 2012 ; que des erreurs ont également été commises dans l’élaboration du
+coefficient de liquidité au 30 juin 2012 ; qu’ainsi, en l’absence de contrôle sur ce point, le trésorier a
+calculé un coefficient de liquidité de 113,6 % alors que le coefficient réglementaire transmis au
+SGACP était de 110 % et qu’après correction des erreurs d’imputation nombreuses et diverses
+affectant les liquidités et exigibilités déclarées à cette même date, SBI Paris aurait dû déclarer un
+coefficient de 104 % ;
+12. Considérant que SBI Paris ne conteste pas ces carences relatives au contrôle permanent de la
+comptabilité et des états réglementaires, au demeurant également constatées par le cabinet d’audit X
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2013-07
+dans le cadre de sa mission sur les états de SBI Paris au 30 juin 2012 ; que des insuffisances affectant
+le contrôle des informations comptables et des états réglementaires avaient déjà été constatées au cours
+de la mission de contrôle de 2009 et fait l’objet de recommandations dans la lettre de suite du 18 mai
+2010 ; que les diligences faites par l’établissement, en coopération avec son commissaire aux comptes,
+le cabinet W, afin de réviser les schémas comptables existants, sont postérieures à ce contrôle ; qu’en
+particulier, le courrier du 27 décembre 2012, par lequel le cabinet W aurait validé 37 schémas
+comptables après les avoir analysés, quelle que soit sa portée exacte, ne saurait, compte tenu de sa
+date, invalider le grief ; que, de même, si les procédures produites tardivement par SBI Paris
+démontrent que des efforts ont été entrepris pour améliorer, dans ce domaine, le dispositif de contrôle
+interne de l’établissement, elles sont postérieures au contrôle sur place ; que leur application devra en
+outre être vérifiée ; qu’ainsi, en tout état de cause, le grief est établi en ce qui concerne la période sur
+laquelle il porte ;
+3. Sur le risque de crédit (griefs 4 et 5)
+3.1. Sur l’octroi des crédits (grief 4)
+3.1.1. Sur la formalisation des procédures d’octroi des crédits (grief 4.1)
+13. Considérant que le premier alinéa de l’article 21 du règlement no 97-02, en vigueur au moment
+des faits, imposait que les procédures de décision de prêts ou d’engagements soient clairement
+formalisées ; que les éléments constitutifs de cette obligation ont été maintenus à l’article 111 de
+l’arrêté du 3 novembre 2014 ;
+14. Considérant que, selon la première partie du grief 4, les procédures d’octroi des prêts ou
+d’engagements ne sont pas suffisamment formalisées ; que si, selon le recueil de procédures « Scheme
+comptable », le Comité de crédit (« Branch Credit Committee », ci-après BCC) est l’instance chargée,
+notamment, « d’accepter ou de refuser la proposition de nouvelles lignes de crédit et des
+renouvellements », le processus d’organisation et de fonctionnement du BCC en tant qu’instance
+décisionnaire n’est pas précisé ; que, de plus, la procédure d’octroi de crédit acheteur ne prévoit la
+consultation de cette instance que pour information, une fois le compte ouvert ;
+15. Considérant que SBI Paris n’apporte aucun élément de nature à remettre en cause les constats
+du rapport de contrôle sur ce grief, dont il résulte que les modalités d’engagement ne faisaient pas
+l’objet d’une procédure cohérente et précise ; que cette carence avait déjà été constatée dans le rapport
+de contrôle du 22 juillet 2010 et mentionnée dans la lettre de suite du 5 octobre 2010, sans qu’il y soit
+remédié ; que les nouvelles procédures relatives à l’octroi des crédits, entrées en vigueur le 22 octobre
+2014, sont des mesures de régularisation du manquement reproché au titre de la première partie de ce
+grief, qui est établie ;
+3.1.2. Sur l’appréciation du risque de crédit (grief 4.2)
+16. Considérant qu’aux termes de l’article 19 du règlement no 97-02 susvisé, en vigueur au
+moment des faits, « (…) l’appréciation du risque de crédit doit notamment tenir compte des éléments
+sur la situation financière du bénéficiaire, en particulier sa capacité de remboursement, et, le cas
+échéant, des garanties reçues. Pour les risques sur des entreprises, elle doit tenir compte également de
+l'analyse de leur environnement, des caractéristiques des associés ou actionnaires et des dirigeants
+ainsi que des documents comptables les plus récents. / Les entreprises assujetties constituent des
+dossiers de crédit destinés à recueillir l'ensemble de ces informations de nature qualitative et
+quantitative et regroupent dans un même dossier les informations concernant les contreparties
+considérées comme un même bénéficiaire, sous réserve de l’application de réglementations étrangères
+limitant éventuellement la communication d’informations. / Les entreprises assujetties complètent ces
+dossiers au moins trimestriellement pour les contreparties dont les créances sont impayées ou
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2013-07
+douteuses ou qui présentent des risques ou des volumes significatifs » ; que les éléments constitutifs de
+ces obligations ont été maintenus aux articles 107 et 108 de l’arrêté du 3 novembre 2014 ;
+17. Considérant que, selon la seconde partie du grief 4, les dossiers contre-garantis par des
+établissements de crédit indiens ou français, soit la majeure partie du portefeuille de la succursale, ne
+sont pas documentés ; que cette carence affectant la connaissance du client a été relevée, à titre
+d’exemple, dans plusieurs dossiers, qui ne comportent en outre aucun contrat conclu avec SBI Paris ;
+18. Considérant que SBI Paris estime ne pas être tenue, dans le cadre de son appréciation du
+risque de crédit dans ces dossiers de crédit à court terme, de réunir des informations relatives au client
+final ou aux caractéristiques de l’opération financée, au motif que ces crédits devraient être qualifiés
+d’interbancaires ; que cependant, dès lors que le crédit consenti a directement pour objet le
+financement d’une opération effectuée par une société non financière, cette dernière doit être regardée
+comme en étant le bénéficiaire au sens des dispositions précitées ; que si SBI Paris soutient qu’elle
+n’est en risque que sur la banque qui garantit le financement, elle a pourtant, devant la Commission,
+défini cette partie de son activité comme consistant à « accorder des prêts à court terme à des sociétés
+indiennes importatrices, principalement sous forme de crédits acheteurs systématiquement contre-
+garantis à hauteur de 100 % par une banque d’origine indienne qui est généralement la banque de la
+société importatrice »; que de plus, dans la lettre d’engagement envoyée par SBI Paris dans ces
+affaires, il est demandé à la banque garante de confirmer qu’elle a, à l’égard du client, respecté ses
+obligations en matière de lutte contre le blanchiment des capitaux et le financement du terrorisme ; que
+l’argumentation selon laquelle ces opérations doivent être analysées comme des crédits interbancaires
+n’est pas en cohérence avec un procès-verbal d’un BCC de SBI Paris, réuni le 21 janvier 2014, dans
+lequel un financement est refusé après une observation du responsable de la conformité sur les risques
+de l’opération résultant de ce que l’exportateur est situé dans un pays à haut risque ; que le message
+Swift MT799 adressé par la banque de la société importatrice mentionne que celle-ci s’engage non en
+son nom propre mais pour le compte du client (« on behalf of our customer ») ; que, si, à la suite du
+rapport de contrôle du 26 mars 2013 qui soulignait ses insuffisances persistantes en matière de
+documentation de ces dossiers, l’établissement a demandé le 13 mai 2013 une requalification en
+crédits interbancaires de ses « crédits acheteurs » et de ses crédits documentaires, c’est bien au nom de
+l’importateur qu’ils ont jusqu’à présent été enregistrés dans ses comptes ; qu’ainsi, au vu de
+l’ensemble des pièces du dossier et nonobstant l’argumentation présentée in fine par SBI Paris, la
+seconde partie du grief 4 est donc également établie, et ce depuis au minimum cinq ans, puisque des
+constats analogues avaient été consignés dans le rapport de contrôle du 22 juillet 2010, et figuraient
+dans la lettre de suite à l’établissement le 5 octobre 2010 ; que cette carence doit être toutefois
+appréciée en tenant compte des garanties bancaires systématiquement reçues au titre de ces opérations
+dont, au demeurant, SBI Paris affirme, sans être démentie par la poursuite, qu’elles n’ont jamais,
+depuis le démarrage de son activité en 1981, entraîné de pertes ;
+3.2. Sur le suivi du risque de crédit (grief 5)
+19. Considérant que le premier alinéa de l’article 24 du règlement no 97-02, en vigueur au moment
+des faits, imposait aux entreprises assujetties de « procéder, à tout le moins trimestriellement, à
+l’analyse de l’évolution de la qualité de leurs engagements », cet examen devant « notamment
+permettre de déterminer, pour les opérations dont l’importance est significative, les reclassements
+éventuellement nécessaires au sein des catégories internes d’appréciation du niveau de risque de
+crédit, ainsi que, en tant que de besoin, les affectations dans les rubriques comptables de créances
+douteuses et les niveaux appropriés de provisionnement » ; que les éléments constitutifs de cette
+obligation ont été maintenus à l’article 118 de l’arrêté du 3 novembre 2014 ;
+20. Considérant que, selon le grief 5, plusieurs dossiers révèlent que les crédits présentant des
+signes de fragilité ne sont pas distingués des autres alors même que le manuel de procédures de SBI
+Paris prévoit, dans ce cas, la mise en place d’un suivi rapproché et, dans le but de les identifier comme
+compte sous « Watch List », la nécessité de les classer dans la catégorie « Special Mentioned
+Account » ; que le rapport du 14 septembre 2012 de l’inspection centrale de SBI mentionnait que deux
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2013-07
+de ces dossiers devaient être ainsi classés ; qu’il n’existe pas au sein de l’établissement de
+classification des encours dans les différentes catégories (encours restructurés, douteux et douteux
+compromis) prévues par le règlement du Comité de la réglementation comptable no 2002-03 du 12
+décembre 2002 relatif au traitement comptable du risque de crédit ; que SBI Paris a décidé de ne plus
+accorder de garanties à plusieurs de ces clients sans qu’ils fassent un dépôt de garantie de même
+montant ou qu’une banque validée par SBI Mumbai n’apporte de garantie supplémentaire, mais
+qu’elle n’a pas pour autant classé les engagements sur ces clients en « engagements douteux de hors-
+bilan » ;
+21. Considérant que SBI Paris ne conteste pas le grief ; que les modalités de suivi du risque de
+crédit avaient déjà fait l’objet d’un constat analogue dans le rapport de contrôle du 22 juillet 2010 et,
+en conséquence, d’une recommandation du SGACP ; que les mesures de régularisation présentées
+quant à la formalisation des procédures, à leur mise en œuvre et au traitement des dossiers mentionnés
+par la poursuite sont sans conséquence sur le grief, qui est établi ;
+4. Sur la piste d’audit (griefs 6 et 7)
+4.1. Sur la piste d’audit comptable (grief 6)
+22. Considérant que le 1o de l’article 12 du règlement no 97-02, en vigueur au moment des faits,
+disposait qu’ « En ce qui concerne l’information comprise dans les comptes de bilan et de résultats
+publiés ainsi que les informations de l'annexe issues de la comptabilité, l’organisation mise en place
+doit garantir l'existence d'un ensemble de procédures, appelé piste d’audit, qui permet : / a) De
+reconstituer dans un ordre chronologique les opérations ; / b) De justifier toute information par une
+pièce d’origine à partir de laquelle il doit être possible de remonter par un cheminement ininterrompu
+au document de synthèse et réciproquement ; / c) D’expliquer l’évolution des soldes d’un arrêté à
+l’autre par la conservation des mouvements ayant affecté les postes comptables ; (…) » ; que les
+éléments constitutifs de ces obligations ont été maintenus au premier alinéa de l’article 85 de l’arrêté
+du 3 novembre 2014 ;
+23. Considérant que, selon le grief 6, la piste d’audit est incomplète ; que les carences constatées
+portent sur (i) le transfert sans justificatif à fin 2011 de certains suspens sur un compte dénommé « our
+special remittance account number 11179066239 » par débit du compte détenu chez SBI Mumbai,
+suspens qui ont en conséquence disparu de la comptabilité de SBI Paris, (ii) le nombre élevé
+d’écritures non réconciliées entre les sept comptes Nostro de SBI Paris, (iii) l’insuffisance du contrôle
+journalier des écritures comptables, le nombre d’opérations non justifiées étant important, notamment
+en ce qui concerne les crédits documentaires, (iv) le défaut de justification de la rubrique 2.1, «
+Garanties d’ordre d’établissements de crédit » de l’état SURFI au 30 juin 2012 qui ne correspond pas
+aux soldes des comptes de la balance générale, et (v) le défaut de justification du montant comptabilisé
+des contre-garanties reçues ;
+24. Considérant que SBI Paris ne conteste pas le grief ; que les explications données à l’audience
+sur le motif des opérations, objet du premier reproche, relatives à des fonds non réclamés transférés à
+la Réserve fédérale indienne, ne répondent pas directement à ce reproche, qui porte sur une absence de
+justificatifs et donc de traçabilité pour ces opérations ; que les améliorations de sa piste d’audit
+décrites par SBI Paris sont postérieures au contrôle sur place ; qu’ainsi, le grief est établi ; que l’une
+des recommandations formulées par le SGACP à la suite du contrôle de 2009 portait déjà sur ce sujet ;
+que cette carence perdure donc depuis au moins cinq ans ;
+4.2. Sur les états réglementaires (grief 7)
+25. Considérant que le 2o de l’article 12 du règlement no 97-02, en vigueur au moment des faits,
+exigeait que les informations comptables qui figurent dans les situations destinées à l’ACPR
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2013-07
+respectent, au moins, les conditions décrites aux points a et b du 1o du même article ; que les éléments
+constitutifs de cette obligation ont été maintenus au premier alinéa de l’article 86 de l’arrêté du
+3 novembre 2014 ;
+26. Considérant que, selon le grief 7, SBI Paris n’est pas en mesure de justifier d’une piste d’audit
+complète pour les états réglementaires ; que, lorsqu’un montant est corrigé manuellement dans lesdits
+états sous le logiciel V, la piste d’audit correspondante disparaît ; qu’ainsi, le montant figurant dans
+l’état sur les réserves obligatoires (« RESERV_OBL ») au 30 juin 2012, ayant été modifié, ne peut plus
+être audité ; que l’identité de celui qui a procédé par saisie manuelle à la modification, et qui l’aurait
+éventuellement validée, n’est pas précisée ; que SBI Paris n’a pas été en mesure de justifier l’encours
+déclaré au titre de STATE BANK OF INDIA (siège et succursales) dans sa première version de l’état
+sur les grands risques (déclaration de juillet 2012) ;
+27. Considérant que SBI Paris reconnaît qu’au moment du contrôle, la piste d’audit pour les états
+réglementaires n’était pas conservée après correction manuelle sous le logiciel V ; qu’afin d’assurer la
+traçabilité de ces corrections, elle affirme désormais y procéder dans le fichier initial, qui est ensuite
+réimporté dans ce logiciel ; que, de plus, la procédure annoncée relative à la piste d’audit est encore en
+cours d’élaboration ; qu’en tout état de cause, les mesures correctrices évoquées ne remettent pas en
+cause le grief, qui est établi ; que cette carence dure depuis au moins cinq ans (cf. grief 6) ;
+* *
+*
+28. Considérant qu’il ressort du dossier que certaines des observations formulées depuis plusieurs
+années par le superviseur étaient restées sans effet ou n’avaient pas été suffisamment prises en compte
+à la date de la dernière mission de contrôle de l’ACPR ; que SBI Paris a indiqué ne pas contester les
+reproches qui lui sont adressés et qui portent sur le respect de la réglementation relative aux grands
+risques (grief 1), sur le dispositif de contrôle permanent (griefs 2 et 3), sur les modalités d’octroi des
+crédits et l’appréciation et le suivi du risque de crédit (griefs 4 et 5), ainsi que sur les carences de la
+piste d’audit comptable (grief 6) et réglementaire (grief 7) ; qu’il ressort de l’examen de ces griefs que
+tous étaient établis au moment du contrôle sur place ; que cependant, il y a lieu pour la Commission de
+tenir compte, dans une certaine mesure, des engagements pris par les dirigeants de SBI Paris, qui ont
+affirmé à l’audience leur volonté de rétablir une relation de confiance avec le superviseur et de
+poursuivre les efforts engagés après le contrôle pour améliorer le dispositif comptable et de contrôle
+interne de cette banque ; qu’il a été également indiqué lors de l’audience que le siège de SBI, informé
+de la présente procédure, souhaite clairement que SBI Paris privilégie le respect de la conformité sur la
+recherche de la rentabilité immédiate ; que la réaction de SBI Paris s’est d’ores et déjà traduite par le
+recrutement d’un directeur adjoint responsable de la conformité dont les compétences ont fait l’objet
+d’une lettre de mission de la part du siège de SBI, ainsi que par plusieurs actions visant à corriger les
+autres carences relevées ;
+29. Considérant qu’après avoir réalisé un résultat net de 600 000 euros en 2013, SBI Paris a
+enregistré une légère perte nette l’an passé ; que ses fonds propres s’élevaient à 82 millions d’euros fin
+2014 ;
+30. Considérant que les manquements constatés justifient le prononcé d’un blâme et d’une
+sanction pécuniaire de 300 000 euros, compte tenu des appréciations qui précèdent et de la situation
+financière de SBI Paris ;
+31. Considérant que SBI Paris soutient : (i) que la publication nominative de la décision rendue à
+son égard aurait des répercussions importantes sur sa clientèle ; (ii) que le public français n’est pas
+concerné par son activité, principalement exercée au bénéfice de groupes étrangers ; (iii) que la
+Commission doit tenir compte de ce qu’elle n’a pas contesté les griefs ; que cependant, le CMF prévoit
+qu’une telle publication est la règle ; que SBI Paris exerce son activité en France ; que, compte tenu de
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2013-07
+la nature et de la durée des manquements constatés, le préjudice pouvant résulter pour SBI Paris d’une
+telle publication ne paraît pas disproportionné ; que cette publication n’est pas davantage de nature à
+perturber gravement les marchés financiers ; qu’il convient donc que la présente décision soit publiée
+sous forme nominative ;
+PAR CES MOTIFS
+DÉCIDE :
+Article 1er – Il est prononcé à l’encontre de la société STATE BANK OF INDIA un blâme ainsi
+qu’une sanction pécuniaire de 300 000 (trois cent mille) euros ;
+Article 2 – La présente décision sera publiée au registre de l’ACPR et pourra être consultée au
+secrétariat de la Commission.
+Le Président
+de la Commission des sanctions
+[Rémi BOUCHEZ]
+Conseiller d’État
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification
+et dans les conditions prévues au IV de l’article L. 612-16 du CMF.
+Autorité de contrôle prudentiel et de résolution 9

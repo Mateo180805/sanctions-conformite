@@ -1,0 +1,526 @@
+===== Page 1 =====
+LEMON WAY
+Procédure no 2016-05
+–––––
+Blâme et sanction pécuniaire de
+80 000 euros
+–––––
+Audience du 13 mars 2017
+Décision rendue le 30 mars 2017
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 3 juin 2016 par laquelle le Président de l’Autorité de contrôle prudentiel et de
+résolution (ci-après l’ACPR) informe la Commission de ce que le Collège de supervision de l’ACPR
+(ci-après le Collège), statuant en sous-collège sectoriel de la banque, a décidé d’ouvrir une procédure
+disciplinaire à l’encontre de l’établissement de paiement Lemon Way – 14 rue de la Beaune,
+93100 Montreuil –, enregistrée sous le numéro 2016-05 ;
+Vu la notification des griefs du 3 juin 2016 ;
+Vu les mémoires en défense des 29 juillet, 15 novembre et 26 décembre 2016 ainsi que les pièces
+qui les accompagnent, par lesquels Lemon Way (i) conteste avoir manqué à son obligation
+d’identification de certains clients, avec lesquels elle estime ne pas avoir noué de relation d’affaires, et
+soutient que des circonstances exceptionnelles ne lui ont pas permis de respecter son obligation de
+vérification de l’identité d’autres clients ; (ii) estime avoir respecté les dispositions applicables en
+matière de détection des personnes politiquement exposées ; (iii) reconnaît ne pas avoir totalement
+respecté son obligation de connaissance de ses clients ; (iv) conteste les reproches relatifs à sa
+classification des risques, également en raison des circonstances qui ont rendu ses analyses en matière
+de financement participatif et de monnaie électronique inadaptées ; (v) conteste le grief relatif à son
+dispositif de suivi et d’analyse des relations d’affaires, en raison de l’absence, de sa part, de toute
+« volonté de nuire ou de ne pas respecter les dispositions réglementaires applicables » ; (vi) conteste,
+pour le même motif, les défauts de déclaration de soupçon (ci-après DS) reprochés (vii) conteste
+également les manquements alternativement qualifiés de défaut de DS ou de défaut d’examen renforcé
+et, enfin, (viii) reconnaît les carences, à la date du contrôle, de son dispositif de gel des avoirs ;
+Vu les mémoires des 30 septembre 2016 et 15 décembre 2016 par lesquels Mme Ariane Obolensky,
+représentante du Collège, estime que, nonobstant ces explications, tous les griefs sont établis ;
+Vu le rapport du 9 février 2017 dans lequel Mme Claudie Boiteau, rapporteur, estime que tous les
+griefs sont établis ;
+Vu les courriers du 9 février 2017 convoquant les parties à l’audience, les informant de la
+composition de la Commission et de ce qu’il sera fait droit à la demande présentée par Lemon Way
+tendant à ce que l’audience ne soit pas publique ;
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2016-05
+Vu les autres pièces du dossier, notamment le rapport de contrôle du 3 septembre 2015 ;
+Vu le code monétaire et financier (ci-après le CMF), notamment ses articles L. 561-5, L. 561-6,
+L. 561-8, L. 561-10-2 (II), L. 561-15, R. 561-12, R. 561-14, R. 561-20 (II) et R. 561-38 ;
+Vu le règlement no 97-02 du 21 février 1997 relatif au contrôle interne des établissements de crédit
+et des entreprises d’investissement (ci-après le règlement no 97-02) ;
+Vu l’arrêté du 3 novembre 2014 relatif au contrôle interne des entreprises du secteur de la banque,
+des services de paiement et des services d’investissement soumises au contrôle de l’Autorité de
+contrôle prudentiel et de résolution (ci-après l’arrêté du 3 novembre 2014), notamment ses articles 47,
+59, 60 et 61 ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions, composée de M. Rémi Bouchez, Président, Mme Claudie Aldigé,
+MM. Francis Crédot, Jean-Pierre Jouguelet et Christian Lajoie ;
+Après avoir entendu, dans sa séance non publique du 13 mars 2017 :
+̶ Mme Boiteau, rapporteur, assistée de Mme Lauriane Bonnet, son adjointe ;
+̶ M. Hubert Gasztowtt, représentant de la directrice générale du Trésor, qui a indiqué ne pas avoir
+d’observations à formuler ;
+̶ Mme Obolensky, représentante du Collège, assistée de l’adjointe au directeur des affaires
+juridiques de l’ACPR, du chef du service des affaires institutionnelles et du droit public, de
+cadres de ce service ainsi que de la cheffe du service des établissements spécialisés de la
+deuxième direction du contrôle des banques et de la cheffe du service des établissements
+spécialisés de la direction des agréments, des autorisations et de la réglementation ; Mme
+Obolensky a proposé le prononcé d’un blâme assorti d’une sanction pécuniaire qui ne saurait
+être inférieure à 100 000 euros, dans une décision publiée sous une forme nominative ;
+̶ Lemon Way, représentée par le président de son conseil de surveillance, un membre de ce
+conseil, son directeur général et sa responsable juridique, et assistée de son conseil ;
+Les représentants de Lemon Way ayant eu la parole en dernier ;
+Après avoir délibéré en la seule présence de M. Bouchez, Président, Mme Aldigé, MM. Crédot,
+Jouguelet et Lajoie, ainsi que de M. Jean-Manuel Clemmer, chef du service de la Commission des
+sanctions faisant fonction de secrétaire de séance ;
+1. Considérant que Lemon Way, créée le 15 octobre 2007, exerçait initialement une activité de
+commercialisation de logiciels informatiques de paiement ; qu’elle a été agréée le 24 décembre 2012
+en qualité d’établissement de paiement exerçant des activités de nature hybride, au sens de l’article
+L. 522-3 du CMF, en vue de fournir les services de paiement d’exécution de virements et d’émission
+d’instruments de paiement ou d’acquisition d’ordres de paiement ainsi que des services connexes ;
+qu’après avoir tenté de développer son activité en offrant un service de paiement mobile de personne à
+__________________________________________________________________________________
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2016-05
+personne, elle a réorienté son offre de services pour mettre sa plateforme de paiement à la disposition
+de sites partenaires de collecte en ligne, de financement participatif, de place de marché de
+e-commerce et, jusqu’en décembre 2015, de cartes prépayées et de bitcoins ; que depuis le 12 juillet
+2013, elle exerce également ses activités dans 29 pays européens ; qu’en 2015, elle a réalisé un chiffre
+d’affaires de (…) euros pour une collecte de (….) euros entrants ; que, cette même année, son résultat
+net s’est élevé à un peu plus de (…) euros ; qu’au titre de l’exercice 2016, elle a, sous réserve de
+l’approbation des comptes par le commissaire aux comptes, réalisé une perte nette de presque (…)
+euros, suivie d’une augmentation de capital de même montant; qu’à ce jour, elle emploie 80 salariés,
+contre 53 en juin 2016 et 11 en 2014 ;
+2. Considérant que Lemon Way a fait l’objet d’un contrôle sur place du 10 mars au 14 avril 2015,
+qui a donné lieu, à la suite de la réunion qui s’est tenue le 18 juin 2015 et de l’envoi, par
+l’établissement, de ses observations sur le projet de rapport, à la signature d’un rapport définitif le 3
+septembre 2015 ; qu’au vu de ce rapport, le Collège a décidé, lors de sa séance du 20 mai 2016,
+d’ouvrir la présente procédure disciplinaire ;
+3. Considérant que si le titre VI du livre V du CMF, qui définit les obligations relatives à la lutte
+contre le blanchiment et le financement du terrorisme (ci-après la LCB-FT), a été, dans plusieurs de
+ses dispositions, modifié par l’ordonnance no 2016-1635 du 1er décembre 2016 renforçant le dispositif
+français de lutte contre le blanchiment et le financement du terrorisme, les exigences qui en résultent
+sont au moins équivalentes à celles en vigueur au moment des faits de la présente affaire ; qu’il en va
+de même des obligations fixées par l’arrêté du 3 novembre 2014 susvisé, qui a remplacé le règlement
+no 97-02, applicable à une partie des faits ; que les dispositions du CMF citées ci-après sont celles en
+vigueur à la date des faits ;
+I. Sur le respect de l’obligation
+d’identifier les clients et de vérifier leur identité
+4. Considérant que, selon l’article L. 561-5 du CMF, « I.- Avant d’entrer en relation d’affaires avec
+leur client ou de l’assister dans la préparation ou la réalisation d’une transaction, les personnes
+mentionnées à l’article L. 561-2 identifient leur client et, le cas échéant, le bénéficiaire effectif de la
+relation d’affaires par des moyens adaptés et vérifient ces éléments d’identification sur présentation
+de tout document écrit probant. / Elles identifient dans les mêmes conditions leurs clients occasionnels
+et, le cas échéant, le bénéficiaire effectif de la relation d’affaires, lorsqu’elles soupçonnent que
+l’opération pourrait participer au blanchiment des capitaux ou au financement du terrorisme ou, dans
+des conditions fixées par décret en Conseil d’État, lorsque les opérations sont d’une certaine nature
+ou dépassent un certain montant (…) » ; que l’article L. 561-8 de ce code dispose que « Lorsqu’une
+personne mentionnée à l’article L. 561-2 n’est pas en mesure d’identifier son client ou d’obtenir des
+informations sur l’objet et la nature de la relation d’affaires, elle n’exécute aucune opération, quelles
+qu’en soient les modalités, et n’établit ni ne poursuit aucune relation d’affaires. (…) » ; que, selon
+l’article R. 561-14 du CMF, « Lorsqu’une personne mentionnée aux 1o à 7o de l’article L. 561-2 met
+un terme à la relation d’affaires avec son client, en application de l’article L. 561-8, elle effectue, le
+cas échéant, la déclaration prévue à l’article L. 561-15. » ; que, selon l’article L. 561-2-1 du CMF,
+une relation d’affaires est nouée lorsqu’un organisme assujetti « engage une relation professionnelle
+ou commerciale qui est censée, au moment où le contact est établi, s’inscrire dans une certaine
+durée » ; que ce même article prévoit qu’une telle relation « peut être prévue par un contrat selon
+lequel plusieurs opérations successives seront réalisées entre les cocontractants ou qui crée à ceux-ci
+des obligations continues » ;
+5. Considérant que, selon le grief 1, Lemon Way ne respecte pas ses obligations d’identification et
+de vérification de l’identité de tous ses clients et, le cas échéant, du bénéficiaire effectif de ses
+relations d’affaires ; qu’en effet, à la date du contrôle, elle demandait à chaque client, préalablement à
+__________________________________________________________________________________
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2016-05
+l’utilisation de sa plateforme de paiement, de signer un contrat-cadre de services de paiement composé
+des conditions générales d’utilisation, des conditions tarifaires et d’un formulaire d’ouverture de
+compte de paiement ; que, dans sa « procédure chapeau LCB-FT » du 31 mars 2014, il est indiqué
+qu’elle « entre en relation d’affaires avec des professionnels et des particuliers » et que « Toute
+relation d’affaire est contractualisée par l’acceptation par ces derniers des conditions générales
+d’utilisation. (…) » ; qu’étaient toutefois considérés comme des clients occasionnels, selon une note
+juridique du 1er décembre 2014, ceux qui utilisent ses services dans le cadre d’une collecte organisée
+en vue d’un mariage ; que pourtant, d’une part, 50 clients n’ont pas été identifiés alors qu’ils ont utilisé
+ses services de paiement par l’intermédiaire du site de financement participatif T, les nom et prénom
+renseignés étant fantaisistes et, d’autre part, l’identité de 34 clients n’a pas été vérifiée bien qu’ils aient
+utilisé ses services de paiement par l’intermédiaire du site d’échange de bitcoins U ;
+6. Considérant qu’il résulte des dispositions du CMF citées plus haut que c’est lorsqu’elle s’engage,
+et en vue de l’accomplissement de diligences qui s’imposent dès ce stade, que doit être appréciée
+l’existence d’une relation d’affaires ; que, s’agissant tout d’abord des utilisateurs-payeurs du site de
+financement participatif T, à la date du contrôle, les conditions générales du contrat-cadre de services
+de paiement relatif à cette activité, conclu sans limitation de durée et prévoyant l’envoi d’un relevé
+annuel, établissent l’intention de l’établissement d’engager une relation commerciale censée alors, au-
+delà de la participation à une opération ponctuelle, s’inscrire dans une certaine durée ; que les termes
+de la « procédure chapeau » de Lemon Way mentionnés dans la notification des griefs confirment qu’à
+cette date, la société estimait entrer en relation d’affaires dès l’acceptation des conditions générales
+d’utilisation et donc avant la signature du formulaire d’ouverture d’un compte de paiement ; qu’il est,
+en raison de la définition ci-dessus rappelée de l’entrée en relation d’affaires, sans conséquence que
+Lemon Way ne soit soumise à aucune obligation de restitution de fonds au payeur à partir du compte
+de paiement ouvert au nom du bénéficiaire et n’agisse qu’en qualité d’acquéreur pour le compte du
+bénéficiaire des ordres donnés par le payeur ; que Lemon Way aurait donc dû, dans ces 50 dossiers,
+procéder à une identification des clients et à une vérification de leur identité dès la signature de ces
+conditions générales ; que, toutefois, selon les affirmations de Lemon Way non contredites par la
+poursuite, il est apparu, a posteriori, qu’un seul des 50 clients avait utilisé des services de paiement au
+moyen de son compte de paiement, les autres n’ayant réalisé aucune opération ou n’ayant effectué que
+des opérations ponctuelles par carte à destination d’un projet et d’un destinataire désigné ; que,
+désormais, Lemon Way a corrigé ses procédures et n’impose plus aux utilisateurs-payeurs
+« systématiquement la signature du contrat-cadre de services de paiement », de sorte que les mêmes
+utilisateurs ne relèvent plus nécessairement de la catégorie des « relations d’affaires » ; qu’ainsi, ce
+reproche tient en grande part à des choix de procédure de Lemon Way et doit être largement
+relativisé ;
+7. Considérant, s’agissant ensuite des 34 clients qui ont utilisé les services de paiement que fournit
+Lemon Way pour effectuer des opérations d’achat et de vente de bitcoins sur le site de son agent U,
+qu’il lui incombait de vérifier leur identité ; que, dès lors que l’utilisation, par ces clients, de ces
+services n’est pas contestée, le fait que la position de l’ACPR sur les bitcoins n’ait été publiée que le
+29 janvier 2014, ou qu’ « Il n’existe toujours pas à ce jour de disposition légale permettant de
+qualifier les BitCoins », n’est pas de nature à remettre en cause le reproche ; que l’existence
+mentionnée par Lemon Way d’un dispositif de contrôle « sur mesure » de U n’y répond pas non plus;
+que les circonstances exceptionnelles invoquées, qui tenaient au transfert à Lemon Way le 9 octobre
+2013, à la demande de U, de 3 500 clients de l’établissement de paiement V dont seuls 367 disposaient
+d’un dossier client, et au traitement de transactions pour des montants importants dès 2014 (…) ne
+peuvent conduire à exonérer Lemon Way de sa responsabilité de vérification de l’identité de tous ses
+clients ; que les mesures entreprises après la mission de contrôle afin de remédier à cette carence sont
+sans conséquence sur ce second reproche, qui est établi ;
+8. Considérant ainsi que le grief 1 est établi, mais dans un périmètre réduit ;
+__________________________________________________________________________________
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2016-05
+II. Sur le respect de l’obligation
+de détection des personnes politiquement exposées
+9. Considérant que le II de l’article R. 561-20 du CMF dispose que, lorsque le client est une
+personne politiquement exposée (ci-après PPE) ou le devient pendant la relation d’affaires, les
+organismes assujettis « appliquent l’ensemble des mesures de vigilance complémentaire suivantes, en
+sus des mesures prévues aux articles L. 561-5 et L. 561-6 : / 1o Elles définissent et mettent en œuvre
+des procédures, adaptées au risque de blanchiment des capitaux et de financement du terrorisme,
+permettant de déterminer si leur client est une personne mentionnée à l’article R. 561-18 ; / 2o La
+décision de nouer une relation d’affaires avec cette personne ne peut être prise que par un membre de
+l’organe exécutif ou toute personne habilitée à cet effet par l’organe exécutif ; / 3o Elles recherchent,
+pour l’appréciation des risques de blanchiment de capitaux et de financement du terrorisme, l’origine
+du patrimoine et des fonds impliqués dans la relation d’affaires ou la transaction. » ;
+10. Considérant que, selon le grief 2, les procédures internes de Lemon Way ne prévoient la
+détection des PPE que si le montant des opérations dépasse un montant cumulé sur 12 mois de
+10 000 euros pour les clients placés en vigilance renforcée en raison de la nature de l’activité sous-
+jacente à l’opération de paiement (bitcoin) et de 100 000 euros pour les autres clients ; que les PPE ne
+sont ainsi pas détectées à l’entrée en relation d’affaires à moins que le client ne se déclare
+spontanément comme PPE ; qu’aucune mesure complémentaire n’est donc ainsi mise en œuvre ; que
+le rapport de contrôle mentionne une PPE, M. A, ambassadeur du (…) jusqu’en 2014, pour laquelle les
+mesures de vigilance complémentaire n’ont pas été mises en œuvre ; que, par ailleurs, « la qualité
+défectueuse de la base données clients », liée aux défauts ou insuffisances d’identification de la
+clientèle, ne permet pas de s’assurer que Lemon Way n’est pas entrée en relation d’affaires avec
+d’autres PPE sans mettre en place ces mesures de vigilance ;
+11. Considérant qu’à la date du contrôle, la procédure interne de Lemon Way relative à la détection
+des PPE ne prévoyait celle-ci qu’au-delà d’un certain seuil ; que la mission de contrôle relevait à ce
+sujet qu’« En pratique, l’information n’est connue de LEMON WAY que si l’utilisateur se déclare de
+lui-même PPE lors de la création du compte de paiement ou bien en cours de relation d’affaires », et
+que Lemon Way n’utilisait pas les bases de données externes permettant d’identifier les PPE ; que, si
+les lignes directrices de l’ACPR relatives à ce sujet mentionnent la possibilité de recueillir des
+informations communiquées par les clients, cela n’a ni pour objet ni pour effet de dispenser les
+organismes assujettis de leurs obligations légales ; que, sans être utilement contredit, le rapport de
+contrôle soulignait que la vérification manuelle mentionnée dans la procédure alors applicable n’était
+pas effectuée, faute pour Lemon Way de disposer des outils appropriés ; que Lemon Way reconnaît
+que ses diligences manuelles, dont la nature et l’étendue demeurent imprécises, « n’ont pas permis de
+réaliser les mesures de diligences complémentaires requises prévues par la procédure entre janvier
+2013 et avril 2015 » ; que le nouveau dispositif, qui repose sur une procédure mise à jour devant être
+appliquée à partir du 14 décembre 2015, soit après la signature du rapport de contrôle, mais aussi sur
+une détection automatisée des PPE, s’analyse comme une action correctrice sans incidence sur le grief,
+qui est établi ;
+III. Sur le respect de l’obligation
+de connaissance de la relation d’affaires
+12. Considérant que l’article L. 561-6 du CMF dispose qu’« Avant d’entrer en relation d’affaires
+avec un client, les personnes mentionnées à l’article L. 561-2 recueillent les informations relatives à
+l’objet et à la nature de cette relation et tout autre élément d’information pertinent sur ce client.
+/ Pendant toute la durée de la relation d’affaires et dans les conditions fixées par décret en Conseil
+d’État, [les organismes assujettis] exercent sur la relation d’affaires, dans la limite de leurs droits et
+__________________________________________________________________________________
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2016-05
+obligations, une vigilance constante et pratiquent un examen attentif des opérations effectuées en
+veillant à ce qu’elles soient cohérentes avec la connaissance actualisée qu’elles ont de leur relation
+d’affaires. » ; que l’article R. 561-12 de ce code prévoit que « Pour l’application de l’article L. 561-6,
+les personnes mentionnées à l’article L. 561-2 : / 1o Avant d’entrer en relation d’affaires, recueillent
+et analysent les éléments d’information, parmi ceux figurant sur la liste dressée par un arrêté du
+ministre chargé de l’économie, nécessaires à la connaissance de leur client ainsi que de l’objet et de
+la nature de la relation d’affaires, pour évaluer le risque de blanchiment de capitaux et de
+financement du terrorisme ; / 2o Pendant toute la durée de la relation d’affaires, recueillent, mettent à
+jour et analysent les éléments d’information, parmi ceux figurant sur une liste dressée par un arrêté
+du ministre chargé de l’économie, qui permettent de conserver une connaissance appropriée de leur
+client. La collecte et la conservation de ces informations doivent être réalisées en adéquation avec les
+objectifs d’évaluation du risque de blanchiment des capitaux et de financement du terrorisme et de
+surveillance adaptée à ce risque ; / 3o A tout moment, sont en mesure de justifier aux autorités de
+contrôle l’adéquation des mesures de vigilance qu’elles ont mises en œuvre aux risques de
+blanchiment de capitaux et de financement du terrorisme présentés par la relation d’affaires. » ;
+13. Considérant que, selon le grief 3, la fiche de renseignements que Lemon Way utilise pour
+satisfaire à son obligation de connaissance de sa relation d’affaires n’est pas systématiquement
+renseignée ; qu’ainsi, sur un échantillon de 71 clients qui auraient dû faire l’objet d’une demande de
+renseignements au titre de la mise en œuvre de mesures de vigilance renforcée conformément aux
+procédures internes de l’établissement, 46 ne l’avaient pas été ; qu’en outre, 30 de ces dossiers ne
+comportaient aucun justificatif de domicile ;
+14. Considérant que Lemon Way, qui ne conteste pas ces constatations relatives au non-respect des
+mesures de vigilance renforcée applicables aux utilisateurs de U, explique les failles de son dispositif à
+la date du contrôle sur place par un manque d’automatisation de ses contrôles et une insuffisance de
+ses ressources au regard de l’augmentation du nombre de ses clients, ce qui ne lui a pas permis, entre
+janvier 2013 et avril 2015, de faire les diligences complémentaires requises ; que ces explications et
+les mesures correctrices présentées sont sans conséquence sur la réalité du grief ;
+IV. Sur la classification des risques
+15. Considérant que le 2o du I de l’article R. 561-38 du CMF impose aux organismes assujettis
+d’élaborer « une classification des risques de blanchiment des capitaux et de financement du
+terrorisme présentés par leurs activités, selon le degré d’exposition à ces risques apprécié en fonction
+notamment de la nature des produits ou des services offerts, des conditions des transactions
+proposées, des canaux de distribution utilisés ainsi que des caractéristiques des clients » ; que les
+articles 59 à 61 de l’arrêté du 3 novembre 2014 prévoient, respectivement, que cette classification
+« évalue le niveau de risque des différents produits ou services offerts, des modalités ou des conditions
+particulières des opérations effectuées, des canaux de distribution utilisés ainsi que des
+caractéristiques de la clientèle ciblée », qu’elle « est mise à jour selon une fréquence régulière et à la
+suite de tout événement affectant significativement les activités, les clientèles ou les implantations de
+l’entreprise assujettie » et, enfin, que les organismes assujettis adoptent des procédures relatives à
+leurs obligations de vigilance en tenant compte des risques identifiés par leur classification ;
+16. Considérant que, selon le grief 4, la classification des risques de Lemon Way, qui s’appuie sur
+des seuils d’opérations en montants unitaire et cumulé sur un an, n’est pas suffisamment discriminante
+pour les activités de financement participatif et d’alimentation d’un compte de paiement en vue du
+rechargement, par un établissement de monnaie électronique, de cartes prépayées ; qu’ainsi, en
+application de cette classification, Lemon Way applique des mesures de vigilance renforcée lorsque
+les opérations réalisées par les utilisateurs sont supérieures à 100 000 euros en un an alors que ce seuil
+est inadapté au risque de blanchiment des capitaux et de financement du terrorisme (ci-après BC-FT)
+__________________________________________________________________________________
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2016-05
+présenté par le financement participatif sous forme de prêts ; qu’en effet, celui-ci est soumis par
+l’article D. 548-1 du CMF à un plafond fixé, à la date du contrôle, à 1 000 ou 4 000 euros, selon que
+les fonds sont ou non prêtés à intérêt ; qu’aucun client n’a atteint ce seuil de 100 000 euros ; que le
+financement participatif a été identifié par les instances nationales et internationales de LCB-FT dont
+Tracfin, comme présentant un risque élevé de BC-FT ; que, de même, ce seuil est inadapté s’agissant
+de l’alimentation d’un compte de paiement en vue du rechargement, par un établissement de monnaie
+électronique (ci-après un EME), de cartes prépayées, activité également analysée par Tracfin comme
+présentant un risque élevé de BC-FT ;
+17. Considérant que les activités de financement participatif et de rechargement de cartes prépayées
+sont porteuses de risques particuliers, de sorte qu’il appartenait à Lemon Way de prévoir des règles
+pertinentes à leur égard dans sa classification des risques ; que, tout d’abord, Lemon Way admet que le
+seuil de 100 000 euros pour déclencher une vigilance renforcée « peut s’avérer trop haut compte tenu
+de l’usage qui est fait en pratique du financement participatif » puisqu’ « En 2015, le panier moyen
+des investisseurs français se situe en-dessous de 200 euros par investisseurs » ; que la circonstance
+que les pouvoirs publics ont pris des mesures destinées à favoriser ce type de financement n’est pas de
+nature à exonérer un organisme assujetti de ses obligations en matière de LCB-FT ; que le seuil retenu
+était également trop élevé à la date du contrôle s’agissant des opérations sur les cartes prépayées, qui
+permettent l’anonymat en dessous d’un certain montant et le facilitent au-delà, du fait de leur
+portabilité ; que Tracfin avait alerté dès 2013 les organismes assujettis sur les risques de BC-FT
+attachés à ce type de produits ; que Lemon Way, qui ne conteste pas « l’utilisation non conforme qui
+peut être faite de ces cartes », a résilié les contrats conclus avec ses partenaires W et X, en 2014 et
+décembre 2015 respectivement ; que la modification invoquée par Lemon Way de sa classification, qui
+intègre désormais des seuils plus faibles, est sans conséquence sur le grief, qui est établi ;
+V. Sur le dispositif de suivi et d’analyse de la relation d’affaires
+18. Considérant que l’article 46 de l’arrêté du 3 novembre 2014 dispose que « Les entreprises
+assujetties se dotent de dispositifs de suivi et d’analyse de leurs relations d’affaires, fondés sur la
+connaissance de leur clientèle, permettant notamment de détecter les opérations qui constituent des
+anomalies au regard du profil des relations d’affaires et qui pourraient faire l’objet d’un examen
+renforcé mentionné au II de l’article L. 561-10-2 du code monétaire et financier ou d’une déclaration
+prévue à l’article L. 561-15 du même code. » ;
+19. Considérant que, selon le grief 5 , Lemon Way a paramétré certaines de ses alertes en fonction
+de seuils d’opérations prédéfinis en montant unitaire ou cumulé sur un an ; que, dans plusieurs
+dossiers, le franchissement de seuil n’a entraîné aucune analyse des opérations (dossiers B1, B2 et
+B3) ; que, par ailleurs, un même client peut avoir plusieurs identifiants entre lesquels Lemon Way
+n’est pas en mesure d’opérer un rapprochement, ce qui l’empêche d’agréger les opérations réalisées
+par un client et donc d’assurer un suivi adéquat de la relation d’affaires et une analyse appropriée des
+opérations atypiques ; qu’ainsi, malgré le dépassement de seuils d’alertes, aucune investigation
+complémentaire n’a été effectuée dans les dossiers B4 et B5 dont le client détient les identifiants (…)
+(B4) et (…) (B4 et B5) et a participé le même jour à une collecte de mariage pour un montant total de
+8 000 euros, dépassant le seuil de 2 500 euros en montant cumulé sur un an qui doit déclencher le
+recueil d’informations au titre de la connaissance du client ; qu’enfin, Lemon Way n’a pas été en
+mesure de détecter le rechargement de cartes prépayées auprès d’un EME, pour des montants
+inhabituellement élevés, par un même client qui a ouvert pour ce faire plusieurs comptes de
+paiement (dossier B6, identifiants (…), qui a alimenté ses comptes de paiement pour un montant total
+de 13 870 euros entre mai 2014 et avril 2015 afin de recharger des cartes prépayées auprès d’un EME ;
+dossier B7, dont le client détient les identifiants (...), et a, le 18 août 2014 et le 2 septembre 2014,
+alimenté ses comptes de paiement pour un montant total de 5 820 euros afin de recharger des cartes
+prépayées auprès d’un EME ;
+__________________________________________________________________________________
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2016-05
+20. Considérant que les explications de Lemon Way quant à un dysfonctionnement de son système
+d’information, qui aurait eu pour conséquence le défaut d’analyse de certaines alertes, sont utiles à la
+compréhension des circonstances dans lesquelles le manquement reproché a été commis, mais ne sont
+pas de nature à le remettre en cause ; que l’application de seuils par opération, si pertinente qu’elle
+soit, ne permettait pas, à la date du contrôle, de disposer d’un dispositif efficace de suivi et d’analyse
+des relations d’affaires ; qu’il n’est pas reproché à Lemon Way d’avoir mis en place une analyse par
+opération mais de ne pas avoir complété cette analyse par un examen agrégé des opérations du client,
+ce qui ne lui a pas permis de respecter les dispositions ci-dessus rappelées de l’arrêté du
+3 novembre 2014 ; que la mise en place d’un suivi par client, qui s’appuie sur de nouveaux
+développements informatiques mis en œuvre en 2015 et 2016, s’analyse comme une mesure de
+régularisation ; qu’en l’absence même, de la part de Lemon Way, de toute « volonté de nuire ou
+d’éluder la réglementation », le manquement est établi ;
+VI. Sur les obligations
+de déclaration de soupçon et d’examen renforcé
+21. Considérant que le I de l’article L. 561-15 du CMF dispose que « Les personnes mentionnées à
+l’article L. 561-2 sont tenues, dans les conditions fixées par le présent chapitre, de déclarer au service
+mentionné à l’article L. 561-23 les sommes inscrites dans leurs livres ou les opérations portant sur
+des sommes dont elles savent, soupçonnent ou ont de bonnes raisons de soupçonner qu’elles
+proviennent d’une infraction passible d’une peine privative de liberté supérieure à un an ou sont liées
+au financement du terrorisme. » ; que, selon le II de l’article L. 561-10-2 de ce code, « Les personnes
+mentionnées à l’article L. 561-2 effectuent un examen renforcé de toute opération particulièrement
+complexe ou d’un montant inhabituellement élevé ou ne paraissant pas avoir de justification
+économique ou d’objet licite. Dans ce cas, ces personnes se renseignent auprès du client sur l’origine
+des fonds et la destination de ces sommes ainsi que sur l’objet de l’opération et l’identité de la
+personne qui en bénéficie. » ;
+22. Considérant, tout d’abord, que, selon Lemon Way, les griefs relatifs au non-respect de ses
+obligations de déclaration ou, selon la qualification alternative retenue par la poursuite, au non-respect
+de ces obligations ou, à tout le moins, d’effectuer un examen renforcé de certaines opérations, ne sont
+pas établis car ils ne résultent pas « d’une volonté de nuire ou d’éluder la réglementation, mais
+uniquement de défaillances techniques qui ont fait l’objet de mise en conformité dans les plus brefs
+délais suivant le contrôle sur place » ; que toutefois, ainsi que cela a déjà été rappelé ci-dessus (cf.
+considérant 20), la Commission apprécie la réalité des manquements indépendamment de telles
+circonstances ;
+23. Considérant, ensuite, que Lemon Way, qui ne conteste pas la matérialité des faits, souligne les
+différentes actions entreprises depuis la mission de contrôle pour améliorer son dispositif, d’où il est
+résulté une forte progression du nombre de DS adressées à Tracfin ; que de telles actions ne peuvent,
+ainsi que cela a été précédemment souligné, remettre en cause les constats effectués par la mission de
+contrôle ;
+A. Sur le non-respect des obligations de déclaration de soupçon
+24. Considérant que, selon le grief 6, Lemon Way a manqué à ses obligations de déclaration dans 9
+dossiers ;
+25. Considérant que toutes les opérations faisant l’objet de ce grief ont été effectuées sur la
+plateforme de trading de bitcoins U ; que dans 7 cas, des éléments essentiels de connaissance du client
+__________________________________________________________________________________
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2016-05
+tels que le revenu et le patrimoine ainsi parfois que la profession ne figurent pas au dossier (C1, C2,
+C3, C4, C5, C6 et C7) ; que les opérations de ces clients ont porté sur des montants importants,
+compris entre 28 000 euros et 228 000 euros ; que, dans deux autres cas, les opérations effectuées sont
+en décalage avec la profession et les revenus déclarés ; qu’ainsi, C8, autoentrepreneur dont les revenus
+mensuels sont inférieurs à 1 500 euros et qui a déclaré un patrimoine inférieur à 10 000 euros, a réalisé
+en 10 mois, du 6 juin 2014 au 1er avril 2015, 46 opérations pour un montant total de 31 000 euros ;
+qu’enfin, C9, gestionnaire de portefeuille ayant déclaré 5 à 10 000 euros de revenus mensuels et un
+patrimoine supérieur à 500 000 euros, a réalisé en 15 mois, du 19 novembre 2013 au 2 février 2015, 31
+opérations pour un montant total de 239 500 euros ; que, dans tous ces dossiers, Lemon Way ne
+connaissait ni l’origine des fonds utilisés pour l’achat des bitcoins ni, à l’inverse, les circonstances
+dans lesquelles les clients étaient entrés en possession des bitcoins cédés ; qu’elle ne conteste pas
+l’exactitude de ces constats ; que si l’établissement fait valoir que des DS ont été faites dans tous ces
+dossiers, c’est postérieurement à la mission de contrôle sur place qu’elles l’ont été ; que le grief est
+établi ;
+B. Sur le non-respect des obligations de déclaration de soupçon
+ou, à tout le moins, d’examen renforcé
+26. Considérant que, selon le grief 7, 20 dossiers présentaient un défaut de DS ou, à tout le moins,
+d’examen renforcé ;
+27. Considérant, tout d’abord, que 14 de ces dossiers (D1, D2, D3, D4, D5, D6, D7, D8, D9, D10,
+D11, D12, D13 et D14) concernaient des opérations effectuées sur la plateforme U pour des montants
+significatifs, de 20 000 à 190 000 euros ; que Lemon Way ne connaissait ni l’origine des fonds utilisés
+pour l’achat des bitcoins ni, à l’inverse, les circonstances dans lesquelles les clients étaient entrés en
+possession des bitcoins cédés ; que le dossier D15 est relatif à des opérations effectuées sur la
+plateforme de collecte de mariage Y sur laquelle l’intéressé, qui réside à Dubaï, a participé le 19 juillet
+2014 à une même collecte sous 4 identifiants différents pour un montant total de 8 000 euros ; que
+Lemon Way a demandé des renseignements sur ces transactions le 27 avril 2015 ; que cette demande
+est restée sans réponse ; que, de même, dans le dossier D16, la cliente a effectué 4 opérations pour un
+montant cumulé de 16 000 euros en 3 semaines sur la plateforme de financement participatif Z alors
+que la grande majorité des opérations entrantes sur ce site porte sur des montants très inférieurs ; que
+Lemon Way, qui ne disposait d’aucun élément relatif à la profession, au revenu et au patrimoine de
+cette cliente, qui n’avait pas retourné complétée la fiche KYC qui lui avait été adressée, aurait dû
+déclarer ces opérations à Tracfin ; qu’au demeurant, dans ces 16 dossiers, Lemon Way a effectué une
+DS après le déroulement du contrôle sur place ;
+28. Considérant, ensuite, que, dans les 4 derniers dossiers, Lemon Way n’a pas, après le contrôle
+sur place, adressé de DS à Tracfin ;
+29. Considérant, en premier lieu, que dans le dossier D17 relatif à des interventions sur la
+plateforme de financement participatif Z à hauteur de 30 000 euros en 3 semaines, Lemon Way ne
+disposait, à la date du contrôle, d’aucune information sur la profession, les revenus et le patrimoine du
+client ; que, dans ce dossier également, une DS aurait dû être adressée à Tracfin ;
+30. Considérant, en deuxième lieu, que dans le dossier D18, l’acquisition et la vente de bitcoins
+pour un montant total de 60 000 euros par un client dont Lemon Way ne connaissait, à la date du
+contrôle, ni la profession, ni les revenus, ni le patrimoine, aurait également dû faire l’objet d’une DS ;
+31. Considérant, en troisième lieu, que dans le dossier D19, 17 opérations sur bitcoins ont été
+effectuées en 7 mois pour un montant de 49 000 euros ; que, si Lemon Way disposait d’éléments
+permettant de confirmer l’identité du client (extrait Kbis et statuts de sa société), elle ne connaissait ni
+__________________________________________________________________________________
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2016-05
+ses revenus ni son patrimoine ; que l’origine des fonds utilisés n’était pas non plus connue ; qu’une DS
+aurait dû être effectuée ;
+32. Considérant, en dernier lieu, que dans le dossier D20, client qui a acquis et cédé des bitcoins
+pour un montant total de 59 599 euros entre le 18 avril et le 14 août 2014, Lemon Way ne détenait
+alors aucune information lui permettant de respecter son obligation de connaissance de ce client ; que
+le montant des opérations sur bitcoins, au regard des revenus du client, aurait dû, malgré la réception
+ultérieure d’un acte notarié attestant de ce que celui-ci avait reçu 70 125 euros en héritage, conduire
+Lemon Way à adresser une DS à Tracfin ;
+33. Considérant ainsi que le grief 7 est entièrement établi ; que, dans ces 20 dossiers, un défaut de
+DS est retenu ;
+VII. Sur le dispositif de détection des personnes ou entités
+faisant l’objet d’une mesure de gel des avoirs
+34. Considérant que l’article 47 de l’arrêté du 3 novembre 2014 prévoit que « Les entreprises
+assujetties se dotent également de dispositifs adaptés à leurs activités permettant de détecter toute
+opération au bénéfice d’une personne ou d’une entité faisant l’objet d’une mesure de gel des fonds,
+instruments financiers et ressources économiques. » ;
+35. Considérant que, selon le grief 8, le dispositif de détection des personnes ou entités faisant
+l’objet d’une mesure de gel des avoirs n’est alimenté que par la « Sanction list CEE » et par la liste de
+l’OFAC (Office of Foreign Assets Control) ; que Lemon Way n’est donc pas en mesure de mettre en
+œuvre les mesures de gel des avoirs prises sur le fondement des articles L. 562-1 et L. 562-2 du CMF ;
+que, par ailleurs, le fait de ne pas identifier correctement ses clients (cf. grief 1) et donc de ne pas avoir
+une base client de qualité est un obstacle à la détection des personnes ou entités faisant l’objet d’une
+mesure nationale ou européenne de gel des avoirs ;
+36. Considérant que Lemon Way, qui ne conteste pas les constatations de la poursuite, indique
+avoir depuis le contrôle sur place revu sa base de données ; que cette action correctrice est sans
+conséquence sur le grief 8, qui est établi ;
+*
+* *
+37. Considérant qu’il résulte de ce qui précède qu’à la date du contrôle, Lemon Way ne respectait
+pas totalement ses obligations d’identification, de vérification de l’identité et de connaissance de ses
+clients (griefs 1 et 3) ; que la détection des PPE y était défaillante (grief 2), de même que la
+classification des risques (grief 4) et le dispositif de suivi et d’analyse de la relation d’affaires
+(grief 5) ; que des défauts de DS, nombreux au regard du développement récent de l’activité de
+l’entreprise, ont été détectés (griefs 6 et 7) ; que les carences constatées dans des dossiers individuels,
+relatives au respect des obligations de vigilance et de déclaration de soupçon, ont, pour une large part,
+concerné des clients qui effectuaient par l’intermédiaire du site U des opérations sur bitcoins,
+instrument qui présente un risque de BC-FT particulièrement élevé ; que les mesures visant à respecter
+les dispositions légales relatives à la détection des personnes faisant l’objet d’une mesure de gel des
+avoirs (grief 8) étaient également lacunaires ;
+38. Considérant, toutefois, qu’ainsi qu’il a été dit au considérant 6, la partie du grief 1 relative aux
+souscripteurs du site T doit être largement relativisée ; que Lemon Way a procédé, depuis le contrôle
+__________________________________________________________________________________
+Autorité de contrôle prudentiel et de résolution 10
+
+===== Page 11 =====
+Décision de la Commission des sanctions – procédure no 2016-05
+sur place, à une série d’actions correctrices ; qu’ainsi, elle indique avoir mis à jour les 34 dossiers
+d’utilisateurs du site U dont le caractère incomplet lui est reproché (grief 1) ; qu’il convient également
+de tenir compte, dans une certaine mesure, des autres mesures mises en œuvre par Lemon Way, qui a
+interrompu ses relations d’affaires avec le site U ainsi que, en raison de l’utilisation non conforme qui
+peut être faite de cartes prépayées, avec W et X; que, notamment, sa classification des risques a été
+modifiée (grief 4) ; qu’un suivi par client et non plus seulement par opération a été mis en place (grief
+5) ; que les procédures de l’établissement en matière de DS ont été actualisées (griefs 6 et 7) et son
+dispositif en matière de gel des avoirs mis à niveau ; qu’en outre, le changement radical de modèle de
+développement de l’entreprise (cf. considérant 1) était intervenu en 2014 seulement, soit peu avant le
+début du contrôle sur place dont elle a fait l’objet début 2015 ; qu’elle a, en mars 2016, nommé un
+directeur général ayant précédemment exercé des fonctions de dirigeant effectif au sein de plusieurs
+établissements du secteur bancaire et indiqué avoir renforcé ses équipes de contrôle, consacrant
+désormais plus du quart de la masse salariale à cette fonction ;
+39. Considérant que les manquements retenus par la Commission justifient, en raison de leur nature
+et de leur gravité et au vu des éléments d’atténuation mentionnés ci-dessus, le prononcé d’un blâme
+ainsi que, pour les mêmes raisons et dans le respect du principe de proportionnalité au regard de
+l’assise financière de Lemon Way, d’une sanction pécuniaire de 80 000 euros ;
+40. Considérant que Lemon Way fait valoir qu’une publication nominative de la présente décision
+lui causerait du tort alors qu’elle s’est développée et a considérablement renforcé son dispositif de
+LCB-FT depuis le contrôle, intervenu peu après son agrément ; que toutefois la Commission estime
+qu’en l’espèce, compte tenu des manquements rappelés ci-dessus, il ne résulte pas de cette publicité un
+préjudice disproportionné pour l’établissement au sens de l’article L. 612-39 du CMF ; qu’au
+demeurant, il est donné acte à Lemon Way par la présente décision des mesures correctrices prises et
+du changement d’orientation de son activité, qui notamment ne comporte plus d’opérations sur
+bitcoins ;
+PAR CES MOTIFS
+DÉCIDE :
+ARTICLE 1ER – Il est prononcé à l’encontre de la société Lemon Way un blâme et une sanction
+pécuniaire de 80 000 euros (quatre-vingt mille euros).
+ARTICLE 2 – La présente décision sera publiée au registre de l’ACPR et pourra être consultée au
+secrétariat de la Commission.
+Le Président de la Commission
+des sanctions
+Rémi BOUCHEZ
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa
+notification et dans les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+__________________________________________________________________________________
+Autorité de contrôle prudentiel et de résolution 11

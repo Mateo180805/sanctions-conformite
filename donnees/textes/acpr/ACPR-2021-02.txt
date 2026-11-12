@@ -1,0 +1,405 @@
+===== Page 1 =====
+Décision de la Commission des sanctions – procédure no 2021-02
+MUTEX
+Procédure no 2021-02
+–––––
+Blâme et sanction pécuniaire
+de 8 millions d’euros
+–––––
+Audience du 17 mars 2022
+Décision rendue le 30 mars 2022
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 12 avril 2021 par laquelle le Président de l’Autorité de contrôle prudentiel et de
+résolution (ACPR) informe la Commission des sanctions (ci-après la « Commission ») de ce que le
+Collège de supervision de l’ACPR (ci-après le « Collège »), statuant en sous-collège « assurance », a
+décidé d’ouvrir une procédure disciplinaire à l’encontre de la société Mutex, dont le siège social est 140,
+avenue de la République 92320 Châtillon ;
+Vu la notification des griefs du 12 avril 2021 et ses annexes ;
+Vu les mémoires en défense des 7 juillet 2021, 10 novembre 2021 et 12 janvier 2022, par lesquels
+Mutex admet plusieurs des reproches qui lui sont adressés, conteste cependant les griefs 1, 4 et 6, et met
+en avant les actions correctives qu’elle a mises en œuvre ;
+Vu les mémoires en réplique des 23 septembre et 6 décembre 2021, par lesquels le Collège, représenté
+par M. David Noguéro, estime que les actions de remédiation sont sans incidence sur les griefs, qu’il
+maintient dans leur intégralité ;
+Vu le rapport du 9 février 2022 de Mme Edith Sudre, rapporteur, qui conclut que tous les griefs sont
+fondés mais que le grief 5, par lequel une modification unilatérale des contrats est reprochée à Mutex,
+est dénué de portée et qui indique que la Commission pourra tenir compte, dans son appréciation
+générale du dossier, du fait que certains griefs ne portent que sur un nombre réduit des contrats analysés
+ainsi que des mesures de remédiation qui ont été engagées par l’établissement ;
+Vu les courriers du 9 février 2022 convoquant à l’audience les parties ainsi que la direction générale
+du Trésor (DGT) et les informant de la composition de la Commission ;
+Vu les autres pièces du dossier, notamment le rapport de contrôle signé le 16 décembre 2020 ;
+Vu le règlement délégué (UE) 2015/35 de la Commission du 10 octobre 2014 complétant la directive
+2009/138/CE du Parlement européen et du Conseil sur l'accès aux activités de l'assurance et de la
+réassurance et leur exercice (solvabilité II), notamment son article 266 ;
+Vu le code monétaire et financier (ci-après le « CMF »), notamment ses articles L. 612-1, L. 612-38,
+L. 6 12-39 et R. 612-35 à R. 612-51, dans leur rédaction applicable au moment du contrôle ;
+Vu le code des assurances, notamment ses articles L. 112-3, L. 132-8, L. 132-9-3, L. 132-9-5, L. 132-
+22 et R. 336-1, dans leur rédaction applicable au moment du contrôle ;
+Vu le règlement intérieur de la Commission des sanctions ;
+Autorité de contrôle prudentiel et de résolution 1
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2021-02
+La Commission des sanctions de l’ACPR, composée de M. Alain Ménéménis, Président, Mmes Gaëlle
+Dumortier, Dorothée de Kermadec-Courson, Élisabeth Pauly, et M. Thierry Philipponnat ;
+Après avoir entendu, lors de sa séance non publique du 16 février 2022 :
+- Mme Sudre, rapporteur, assistée de M. Fabien Patris, son adjoint ;
+- Le représentant du directeur général du Trésor, dûment convoqué, ne s’étant pas présenté ;
+- M. Noguéro, représentant du Collège, assisté de la directrice des affaires juridiques de l’ACPR,
+de l’adjoint au chef du service des affaires institutionnelles et du droit public et de deux cadres
+de ce service, ainsi que du chef de la mission de contrôle ; M. Noguéro a proposé à la Commission
+de prononcer un blâme et une sanction pécuniaire de 10 millions d’euros par une décision publiée
+sous une forme nominative pendant cinq ans ;
+- La société Mutex, représentée par son directeur général, assisté du directeur général délégué et
+du directeur des affaires juridiques et conformité, dont les avocats sont Mes Benoît Lapointe de
+Vaudreuil et Nicolas Mordaunt Crook, avocats à la Cour (PWC société d’avocats) ;
+Après avoir délibéré en la seule présence de M. Ménéménis, Président, Mmes Gaëlle Dumortier,
+Dorothée de Kermadec-Courson, Élisabeth Pauly, et M. Thierry Philipponnat, ainsi que de M. Jean-
+Manuel Clemmer, chef du service de la Commission des sanctions faisant fonction de secrétaire de
+séance ;
+1. Filiale à 87,5 % du groupe mutualiste VYV, Mutex est une société anonyme agréée pour les
+branches 1 accidents, 2 maladie, 20 vie-décès, 21 nuptialité-natalité et 22 assurances liées à des fonds
+d’investissements.
+En 2020, Mutex a réalisé un chiffre d’affaires de 952 millions d’euros, principalement au titre de son
+activité « prévoyance », l’activité « retraite » ne représentant qu’environ 10 % du total.
+Au titre de son activité « retraite », Mutex propose notamment des contrats individuels de type
+« Madelin » ainsi que des contrats collectifs « article 82 » ou « article 83 » du code général des impôts
+(CGI). Les premiers permettent aux travailleurs non-salariés de bénéficier d’une déduction fiscale lors
+de la constitution d’une retraite supplémentaire tandis que les seconds sont, respectivement, des contrats
+individuels ou de groupe à adhésion facultative souscrits par une entreprise au profit de ses salariés et
+des contrats collectifs à adhésion obligatoire souscrits par l’entreprise au profit de tous ses salariés ou
+d’une catégorie de personnel.
+Mutex assure en outre des contrats de retraite, souscrits avant le 31 décembre 2003, permettant à des
+élus locaux percevant une indemnité de fonction de se constituer une pension et des contrats gérés par
+[l’organisme A], qui a repris la gestion du portefeuille d’adhérents de [l’organisme B]. La gestion d’une
+partie de ces contrats, dont la souscription est très ancienne, n’a pas été informatisée.
+Les contrats de retraite supplémentaire comportent tous une phase de constitution du capital retraite
+et une phase de restitution, pendant laquelle l’assuré perçoit un capital ou une rente viagère.
+Au moment du contrôle, Mutex gérait environ 60 000 contrats de retraite, dont un peu plus de 40 000
+en phase de constitution, pour un montant total supérieur à 1 milliard d’euros.
+Les différents contrats de Mutex étaient gérés par cinq systèmes informatiques dont « NSI
+Prévoyance » (« contrats Madelin » multisupports Promultis), NSI Épargne (« contrats Madelin »
+multisupports, contrats « article 82 », contrats « article 83 » et contrats « RC2 élus locaux ») et Pegase
+(pour une partie des contrats de [l’organisme A]), le reste étant géré manuellement. Toutefois, la gestion
+d’une partie des contrats qui relèvent de NSI Prévoyance et des contrats « élus locaux » était déléguée.
+2. Mutex a fait l’objet, du 17 septembre 2019 au 11 septembre 2020, d’une mission de contrôle, qui
+a donné lieu à la signature, le 16 décembre 2020, d’un rapport (ci-après le « rapport de contrôle »). Au
+vu de ce rapport, le Collège de l’ACPR, statuant en sous-collège « assurance », a décidé, lors de sa
+séance du 24 mars 2021, d’ouvrir la présente procédure disciplinaire, dont la Commission a été saisie
+par lettre du 12 avril 2021.
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2021-02
+I. Sur les manquements relatifs à l’information des adhérents
+A. L’obligation générale d’informer annuellement les adhérents
+3. En vertu de l’article L. 132-22 du code des assurances, les entreprises d’assurance ont une
+obligation d’information annuelle du « contractant » sur la situation de son contrat, quel que soit son
+encours.
+4. Selon le grief 1, fondé sur ces dispositions, Mutex ne s’est pas conformée, pour une partie de ses
+adhérents, à son obligation d’information annuelle.
+En effet, sur un total de 24 345 adhérents à des contrats « article 83 », dans 8 019 cas (dont 6 598
+salariés ayant quitté l’entreprise qui avait souscrit le contrat), l’adresse de l’assuré n’était pas renseignée.
+S’y ajoutaient 2 203 assurés qui n’habitaient plus à l’adresse indiquée, dont 1 341 avaient quitté leur
+entreprise.
+Ainsi, en 2019, Mutex n’a pas été en mesure d’adresser à 7 939 des 24 345 adhérents à ses contrats
+« article 83 » les informations qu’elle était tenue de leur fournir annuellement.
+5. Sans contester les constats de la mission de contrôle, Mutex soutient que, pour les contrats
+d’assurance de groupe à adhésion obligatoire, tels que ceux qui sont en cause dans le présent grief, il
+résulte des dispositions de l’article L. 132-22 du code des assurances que l’entreprise d’assurance n’est
+débitrice d’une obligation d’information annuelle que vis-à-vis de l’entreprise qui a souscrit le contrat –
+laquelle doit, selon elle, être regardée comme le « contractant » au sens de ces dispositions - et non vis-
+à-vis de l’assuré, salarié de celle-ci.
+Il en résulterait en tout cas un doute qui doit, selon Mutex, conduire à apprécier ce grief avec prudence
+- un manquement aux dispositions précitées ne pouvant se déduire du seul fait que l’assureur ne détient
+pas dans ses bases de données l’adresse de certains adhérents au contrat, s’il est seulement tenu
+d’informer l’entreprise qui l’a souscrit.
+6. L’argumentation de Mutex ne peut être retenue.
+Il résulte en effet clairement des dispositions de l’article L. 132-22 du code des assurances que le
+« contractant » qu’elles mentionnent ne peut être que le salarié, adhérent au contrat de groupe souscrit
+par une entreprise – dont l’adhésion, ainsi que l’a jugé la Cour de cassation, crée un lien contractuel
+direct avec l’assureur - et non l’entreprise. Ainsi, ne peuvent avoir d’effet utile qu’à l’égard du salarié
+adhérent des obligations telles que celle de communiquer chaque année au contractant « le cas échéant
+le montant de la valeur de réduction de son contrat » (3ème alinéa), celle de communiquer « le rendement
+garanti et la participation aux bénéfices techniques de son contrat » (7ème alinéa) , celle
+de communiquer au contractant « les informations concernant la possibilité et les conditions de
+transformation de son contrat » (14ème alinéa) ou encore l’obligation, « pour les contrats comportant un
+terme », d’adresser au contractant, « un mois avant la date du terme, un relevé d’information
+spécifique » (17ème alinéa).
+À quoi s’ajoute que l’article L 132-22 ne limite pas le bénéfice des informations qu’il prévoit aux
+seuls salariés qui n’ont pas quitté l’entreprise qui a souscrit le contrat – ce qui implique aussi que c’est
+à l’adhérent et non au souscripteur que ces informations soient adressées.
+La circonstance, relevée par Mutex, que l’article L 141-4 du code des assurances fasse peser sur le
+souscripteur l’obligation d’information précontractuelle qu’il définit est à cet égard indifférente.
+7. Mutex demande que soit pris en considération le fait que la gestion de la moitié des contrats pour
+lesquels l’adresse de l’assuré était inconnue avait, jusqu’en 2010, été déléguée à [l’organisme C].
+8. Cependant, la délégation de gestion d’une partie des contrats « article 83 » est sans incidence sur
+l’obligation dans laquelle se trouve l’assureur de respecter, pour ce qui les concerne, son obligation
+d’information annuelle.
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2021-02
+9. Le grief 1 est donc fondé, sans qu’ait d’incidence la circonstance que, ainsi qu’elle le précise,
+Mutex ait fait, dès 2015, des efforts pour rechercher les adresses manquantes des adhérents, notamment
+en confiant des mandats de recherche à des sociétés privées et qu’elle ait défini un plan d’actions visant
+à contacter les assurés des contrats collectifs non liquidés. Il en va, a fortiori, de même pour les actions
+correctives mises en œuvre après le contrôle sur place (redéfinition de la procédure de traitement des
+plis non distribués, recours à trois prestataires externes pour accroître la qualité et la fiabilité des données
+concernant les adresses des adhérents, notamment), qui ne concernent d’ailleurs pas seulement le
+périmètre des contrats « article 83 ».
+B. L’obligation d’informer annuellement les adhérents à des contrats d’assurance
+dont les prestations sont liées à la cessation d’activité professionnelle
+10. En vertu du premier alinéa de l’article L. 132-9-5 du code des assurances, « les entreprises
+d'assurance proposant des contrats d'assurance vie dont les prestations sont liées à la cessation
+d'activité professionnelle informent annuellement les assurés ayant dépassé la date de liquidation de
+leur pension dans un régime obligatoire d'assurance vieillesse ou, à défaut, celle mentionnée à l'article
+L. 161-17-2 du code de la sécurité sociale, de la possibilité de liquider les prestations au titre du
+contrat ».
+11. Selon le grief 2, fondé sur ces dispositions, Mutex n’a pas informé au moins 1 233 adhérents à
+un contrat collectif d’assurance retraite « article 83 » ayant, à la date du contrôle sur place, quitté
+l’entreprise et étant sans domicile connu, de la possibilité de liquider leur contrat.
+12. Le grief 2, que Mutex ne conteste pas, est fondé, sans que les actions entreprises, selon la société,
+en 2018 ni les actions de remédiation mises en œuvre à partir de décembre 2020 conduisent à le remettre
+en cause.
+II. Sur les manquements relatifs à l’identification des
+personnes décédées
+13. L’article L. 132-9-3 du code des assurances dispose que : « I. - Les entreprises d'assurance
+mentionnées au 1° de l'article L. 310-1 du présent code ainsi que les institutions de prévoyance et unions
+régies par le titre III du livre IX du code de la sécurité sociale s'informent, au moins chaque année, dans
+les conditions prévues au II du présent article, du décès éventuel de l'assuré. / II. - Les organismes
+professionnels mentionnés à l'article L. 132-9-2 consultent chaque année, dans le respect de la loi n°
+78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, les données figurant au
+répertoire national d'identification des personnes physiques et relatives au décès des personnes (ci-
+après « RNIPP ») qui y sont inscrites. Les entreprises d'assurance ainsi que les institutions de
+prévoyance et unions mentionnées au I obtiennent de ces organismes professionnels communication de
+ces données en vue d'effectuer des traitements de données nominatives. Ces traitements ont pour objet
+la recherche des assurés, des souscripteurs et des bénéficiaires décédés des contrats d'assurance sur la
+vie et des bons ou contrats de capitalisation, à l'exception de ceux au porteur ».
+14. Selon le grief 3, fondé sur ces dispositions, en premier lieu, Mutex a mis en place tardivement
+un dispositif de consultation du répertoire national d’identification des personnes physiques (RNIPP) -
+en août 2015 pour les contrats du périmètre « NSI épargne » (« contrats Madelin »
+multisupports dits « passeports Madelin » et contrats « article 83 ») et, en octobre 2019 seulement, pour
+les contrats informatisés de [l’organisme A].
+En deuxième lieu, une fois mis en place, ce dispositif a été lacunaire puisque le décès d’au moins
+203 adhérents (pour 2,2 millions d’euros de capitaux) n’a pas été détecté.
+Cette défaillance résultait :
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2021-02
+- du mauvais paramétrage des requêtes envoyées par Mutex à l'Association pour la Gestion des
+Informations sur le Risque en Assurance (AGIRA), qui n’ont pas permis de détecter 41 décès dans
+le périmètre des contrats « NSI Épargne » et 49 décès dans le périmètre des contrats « NSI
+Prévoyance » (« contrats Madelin » monosupports et contrats d’épargne) : Mutex communiquait
+à l’AGIRA le nom d’usage des adhérents et non leur nom de naissance, alors même qu’elle
+disposait de cette information, requise par l’AGIRA ;
+- de défauts dans le traitement du résultat des requêtes dans le périmètre des contrats « NSI
+Épargne ». En raison d’une erreur dans le paramétrage de la comparaison entre le fichier envoyé
+à l’AGIRA et le fichier retour, les informations communiquées par l’AGIRA n’ont pas été
+transmises aux services en charge du traitement des dossiers dans 12 cas. De plus, dans 24 cas,
+les retours de l’AGIRA n’ont pas été pris en compte, en particulier pour les assurés dont le jour
+de naissance n’était pas connu ;
+- de la mauvaise qualité des données relatives aux adhérents dans la base clients, qui n’a pas permis
+d’effectuer les retraitements et corrections qui auraient permis de détecter 42 décès dans le
+périmètre des contrats « NSI Épargne ». Ainsi, 17 décès n’ont pas été détectés en raison d’une
+erreur sur le sexe de l’adhérent, 3 parce que le jour de naissance était inconnu et qu’il y avait une
+erreur sur le sexe de l’adhérent, 12 en raison d’erreurs sur le prénom, 7 en raison d’erreurs sur le
+nom et enfin 3 en raison d’erreurs sur les nom et prénom de l’adhérent.
+En troisième lieu, dans le périmètre des contrats informatisés de [l’organisme A], 35 autres décès
+n’ont pas été détectés.
+En quatrième lieu, dans le périmètre des contrats non informatisés de [l’organisme A], qui représente
+7 847 dossiers, une seule requête a été adressée à l’AGIRA en 2017 et la mission de contrôle a identifié
+1 150 décès supplémentaires.
+15. Ce grief, qui n’est pas contesté, est fondé. À partir de 2015, on relève un pic de détection des
+décès - 298 dont seulement 27 hors AGIRA - mais les défaillances du dispositif ont entraîné de nouveaux
+retards de détection, ce que l’établissement ne conteste pas.
+Les actions de remédiation décrites par Mutex, qui se sont notamment traduites par l’affectation d’un
+budget annuel de 55 000 euros pour améliorer la qualité et la conformité de son dispositif, sont sans
+incidence sur le bien-fondé du grief.
+III. Sur les manquements relatifs à la recherche des
+bénéficiaires des contrats
+16. En vertu du dernier alinéa de l’article L. 132-8 du code des assurances, « lorsque l'assureur est
+informé du décès de l'assuré, l'assureur est tenu de rechercher le bénéficiaire et, si cette recherche
+aboutit, de l'aviser de la stipulation effectuée à son profit ».
+17. Selon le grief 4, fondé sur ces dispositions, Mutex n’a pas totalement respecté son obligation de
+recherche des bénéficiaires après avoir eu connaissance du décès d’un assuré.
+En premier lieu, dans le périmètre des contrats « NSI Épargne », des défaillances dans le traitement
+des requêtes provenant de l’AGIRA ont entraîné, depuis 2015, un stock de 302 contrats non réglés, soit
+75 % des 404 contrats pour lesquels le décès de l’assuré a été identifié par l’AGIRA entre 2015 et 2018.
+Le délai entre la notification d’un décès par l’AGIRA et la demande d’un acte de décès en mairie était,
+dans 80 % des cas, supérieur à un an. À titre d’illustration, des délais supérieurs à un an ont été observés
+dans 19 des 29 dossiers sélectionnés par la mission de contrôle.
+En deuxième lieu, pour ce qui concerne les contrats d’épargne du périmètre « NSI Prévoyance », qui
+sont gérés soit par Mutex soit, par délégation, par [l’organisme D], Mutex n’a pas mis en œuvre des
+moyens suffisants pour la recherche des bénéficiaires dans 17 dossiers sur un échantillon de 18 dossiers
+étudiés par la mission de contrôle.
+En troisième lieu, dans ces deux périmètres, pour 9 dossiers sur les 32 sélectionnés par la mission de
+contrôle pour constituer les échantillons n°4 (« 9 contrats article 83 , non encore réglés, d’assurés
+décédés depuis plus de trois ans gérés par Mutex sous NSI Épargne »), n°5 (« 3 dossiers, non encore
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2021-02
+réglés, d’assurés décédés depuis plus de 3 ans (contrats Madelin) gérés sous NSI Prévoyance ») et n°7
+(« 20 dossiers - 9 réglés, 11 non encore réglés- d’assurés décédés, gérés par Mutex sous NSI Épargne
+(contrats article 83) ayant des dates de connaissance du décès en 2016 (début des requêtes AGIRA 2)
+ou 2018 (campagne de communication dans le cadre de la loi « Sapin II »), des délais de plusieurs
+années ont été constatés entre certaines actions de recherche et la réception des actes de décès, ainsi
+qu’un défaut d’application de la procédure « pli non distribué », lorsque l’adresse du bénéficiaire n’était
+pas disponible. Pour 13 de ces 32 dossiers, aucune action n’a été engagée par Mutex pour rechercher les
+bénéficiaires.
+En quatrième lieu, dans le périmètre des contrats non informatisés de [l’organisme A], Mutex n’avait
+toujours pas, au moment du contrôle sur place, traité les contrats de 2 645 adhérents pour lesquels elle
+avait pourtant eu en 2017, après consultation, un retour positif de l’Agira, accumulant ainsi un retard de
+plus de deux ans.
+Ainsi, sur le périmètre des contrats « épargne » et « retraite », l’analyse des dossiers des décès non
+réglés met en évidence une insuffisance des moyens mis en œuvre par Mutex pour rechercher les
+bénéficiaires des contrats.
+18. Mutex ne conteste pas le grief, qui est fondé, sans qu’aient d’incidence les actions correctives
+évoquées par la société.
+19. Mutex demande que sa portée soit « relativisée ». Elle soutient que des échantillons ont été
+déterminés par la mission de contrôle, notamment les quatrième et cinquième échantillons, selon des
+modalités qui, dans les périmètres « NSI Épargne » et « NSI Prévoyance », conduisent à exclure du
+périmètre examiné les dossiers pour lesquels aucune anomalie ne peut être reprochée, soit,
+respectivement, les deux tiers et environ 95 % des dossiers.
+20. Toutefois, ainsi qu’il a été dit, un nombre significatif de dossiers relevant des périmètres « NSI
+Epargne » et « NSI Prévoyance » ainsi qu’un nombre important de dossiers relevant du périmètre des
+contrats non informatisés de [l’organisme A] ont été traités avec retard ou ne l’ont pas été du tout. Alors
+même que, ainsi que le relève Mutex, de nombreux dossiers ont été traités de façon satisfaisante, les
+défaillances constatées illustrent la carence de Mutex dans la mise en œuvre de l’obligation définie par
+les dispositions citées ci-dessus, du fait de lacunes dans le traitement des requêtes provenant de l’AGIRA
+et de l’insuffisance des moyens consacrés à la recherche des bénéficiaires.
+IV. Sur la modification unilatérale de contrats par MUTEX
+21. En vertu du cinquième alinéa de l’article L. 112-3 du code des assurances, « toute addition ou
+modification au contrat d'assurance primitif doit être constatée par un avenant signé des parties (…) ».
+22. Selon le grief 5, fondé sur ces dispositions, les contrats « Passeport 83 » et « Passeport Madelin »
+(« contrats Madelin » multisupports), comportaient une clause stipulant que le capital continuait d’être
+revalorisé, à partir de la date du décès de l’assuré jusqu’à la réception de l’ensemble des pièces, comme
+s’il était investi dans le fonds en euros. Or, en 2016, Mutex a modifié les conditions générales de ces
+contrats pour en aligner le taux de revalorisation post mortem sur le minimum prévu à l’article R. 223-
+9 du code de la mutualité, sans qu’un avenant soit signé et sans que les adhérents en soient informés.
+Cette modification a eu pour effet de réduire le montant des intérêts versés aux bénéficiaires. Ainsi,
+les intérêts versés à ce titre aux bénéficiaires de 30 des 5 167 contrats souscrits avant 2016 ont été réduits,
+le décès de l’assuré étant intervenu entre cette modification et le contrôle.
+23. Comme le relève Mutex, le présent grief, au visa des dispositions ci-dessus rappelées de l’article
+L. 112-3 du code des assurances, ne saurait reprocher un manquement à l’obligation d’information que
+fait peser, sur le souscripteur, l’article L 141-4 du code des assurances. Il reproche à Mutex un
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2021-02
+manquement à l’obligation, prévue par les dispositions citées ci-dessus, de soumettre à l’approbation et
+à la signature des cocontractants la modification de ses contrats.
+24. Il incombait à Mutex, en vertu des dispositions de l’article L. 132-5 du code des assurances, de
+préciser dans un avenant les conditions dans lesquelles la revalorisation du capital garanti intervient à
+compter du décès de l’assuré, ce qu’elle admet n’avoir pas fait. Le grief est donc fondé.
+25. Si la poursuite affirme que ce manquement est d’autant plus grave que la modification à laquelle
+il a été procédé a été défavorable aux bénéficiaires au motif que la société a, à compter de 2016, retenu
+le taux d’intérêt minimum prévu par l’article R 223-9 du code la mutualité, alors qu’elle aurait appliqué
+auparavant des intérêts d’un montant supérieur, cette argumentation ne saurait être retenue, dès lors que
+Mutex fait valoir, sans être utilement contredite, qu’elle appliquait avant 2016 un taux de 0%. Au
+demeurant, il ne saurait être reproché à Mutex, au titre du présent grief, ni les conditions dans lesquelles
+elle a mis en œuvre les stipulations de ses contrats avant 2016, ni les effets, pour les bénéficiaires, de la
+modification des contrats intervenue en 2016.
+V. Sur les défaillances du dispositif interne de contrôle
+permanent
+26. En vertu de l’article R. 336-1 du code des assurances, un dispositif de contrôle permanent doit
+être mis en place.
+L’article 266 du règlement délégué (UE) 2015/35 du 10 octobre 2014 prévoit que « le système de
+contrôle interne garantit le respect, par l'entreprise d'assurance ou de réassurance, des dispositions
+législatives, réglementaires et administratives applicables, ainsi que l'efficacité et l'efficience de ses
+opérations au regard de ses objectifs; il garantit également la disponibilité d'informations financières
+et non financières et leur fiabilité ».
+27. Selon le grief 6, fondé sur ces dispositions, le dispositif de contrôle permanent mis en place par
+Mutex pour s’assurer du respect des dispositions réglementaires applicables en matière de protection de
+la clientèle ne couvrait pas le périmètre des contrats de retraite. Ainsi, aucun dossier relevant du
+périmètre des contrats « NSI Epargne » n’a été contrôlé en 2018 et en 2019.
+28. Ainsi que le représentant du Collège l’a admis, le grief ne peut être fondé que sur l’article 266 du
+règlement délégué cité ci-dessus, l’article R. 336-1 du code des assurances étant seulement applicable
+aux entreprises mentionnées à l’article L. 310-3-2 de ce code, c’est-à-dire à celles qui ne sont pas
+soumises à la directive « Solvabilité II ».
+29. Tout en admettant une absence de responsable du contrôle permanent de second niveau en 2018
+et 2019, Mutex soutient que les contrôles de premier niveau ont été effectués et que l’article 266 du
+règlement cité ci-dessus ne lui imposait pas la mise en place d’un second niveau de contrôle.
+Il apparaît cependant que les contrôles effectués, qui portaient sur la validation administrative des
+dossiers et des règlements correspondants, ne pouvaient permettre de s’assurer que l’entreprise
+respectait ses obligations, notamment en matière de détection des assurés décédés et de recherche des
+bénéficiaires et ne pouvaient être regardés comme constitutifs d’un véritable contrôle de premier niveau.
+En outre, contrairement à ce que soutient la société, même effectif, un contrôle de premier niveau ne
+saurait suffire. Or, sans qu’aient d’incidence à cet égard les difficultés de recrutement dont Mutex
+s’efforce de se prévaloir, il est constant que, pendant la période en cause, aucun contrôle de second
+niveau n’était mis en œuvre.
+30. Le grief est donc fondé, sans qu’aient d’incidence les actions de remédiation évoquées (mise en
+œuvre d’un contrôle de second niveau à nouveau opérationnel en janvier 2020, contrôles effectués
+notamment sur les plis non distribués et le « dispositif AGIRA »).
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2021-02
+*
+* *
+31. Il résulte de ce qui précède qu’au moment du contrôle sur place, Mutex méconnaissait de façon
+importante ses obligations d’information des adhérents des contrats « article 83 » (griefs 1 et 2).
+Par ailleurs, elle n’avait pas mis en place un dispositif approprié ni mobilisé les moyens nécessaires
+pour lui permettre, comme elle y était tenue, de détecter sans délai les décès intervenus parmi les
+adhérents de ses contrats de retraite et d’identifier des bénéficiaires des contrats (griefs 3 et 4).
+Elle s’est affranchie, pour modifier les conditions de revalorisation post mortem de certains contrats,
+de son obligation de conclure un avenant (grief 5).
+Enfin, son dispositif de contrôle interne permanent était défaillant (grief 6).
+32. Les manquements aux obligations d’information sont graves, notamment quand ils ne permettent
+pas aux adhérents des contrats de savoir que les prestations auxquelles ils ont droit peuvent être liquidées.
+Par ailleurs, Mutex ne pouvait ignorer l’importance de l’obligation que lui imposait la loi de se doter
+de dispositifs efficaces en matière de déshérence.
+Les textes sont sur ce point anciens et, après un rapport de la Cour des comptes de juillet 2013, les
+obligations des organismes d’assurance ont été encore renforcées par la loi n° 2014-617 du 13 juin 2014
+relative aux comptes bancaires inactifs et aux contrats d’assurance vie en déshérence, dite « loi Eckert ».
+Dans son rapport au Parlement sur les contrats d’assurance-vie remis le 29 avril 2016, l’ACPR a
+constaté que l’amélioration des pratiques de marché dans ce domaine était encore insuffisante,
+notamment en matière de contrats de retraite souscrits dans le cadre de l’entreprise.
+Enfin, la Commission elle-même a rendu, en 2014 et 2015, quatre décisions prononçant des sanctions,
+notamment en raison de manquements aux obligations de détection des décès et de recherche des
+bénéficiaires (décisions des 7 avril 2014 Cardif Assurance Vie, 31 octobre 2014 CNP Assurances, 19
+décembre 2014 Allianz Vie et 25 juin 2015 Groupama Gan Vie).
+33. Comme le demande Mutex, il y a lieu de prendre en compte les actions de remédiation qu’elle a
+engagées. Elles portent notamment sur l’information des assurés, sur la détection des décès, sur la
+recherche des bénéficiaires – avec, notamment, la mise à jour de la procédure de recherche des
+bénéficiaires et la définition d’outils de pilotage de la déshérence - ou encore sur l’amélioration de son
+dispositif de contrôle permanent.
+Certaines de ces actions, comme la consultation du RNIPP pour l’ensemble des adhérents en
+novembre 2021 seulement, sont tardives.
+En outre, l’efficacité des mesures prises reste à confirmer, comme cela ressort du rapport du cabinet
+qui a procédé à leur évaluation.
+34. La Commission relève enfin que la situation financière de Mutex est très solide, avec un résultat
+qui devrait atteindre environ 16 millions d’euros au titre de l’exercice 2021 et des fonds propres, fin
+2020, de 1,8 milliard d’euros.
+35. Compte tenu de l’ensemble des éléments mentionnés aux points 31 à 34, les manquements retenus
+par la Commission justifient le prononcé d’un blâme et il y a lieu de prononcer en outre à son encontre
+une sanction pécuniaire de huit millions euros.
+En l’absence d’éléments de nature à établir qu’une publication sous forme nominative causerait à
+Mutex un préjudice disproportionné et qu’elle méconnaîtrait, en l’espèce, l’équilibre entre l’exigence
+d’intérêt général à laquelle elle répond et les intérêts de la société, il y a en outre lieu de publier la
+présente décision au registre de l’ACPR sous forme nominative, pendant une durée de cinq ans. Elle y
+sera ensuite maintenue sous une forme non nominative.
+*
+* *
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2021-02
+PAR CES MOTIFS
+DÉCIDE :
+ARTICLE 1ER – Il est prononcé à l’encontre de Mutex un blâme et une sanction pécuniaire de huit
+millions d’euros.
+ARTICLE 2 – La présente décision sera publiée au registre de l’ACPR pendant cinq ans sous une
+forme nominative, puis sous une forme ne permettant pas d’identifier Mutex, et pourra être consultée au
+secrétariat de la Commission.
+Le Président de la Commission
+des sanctions
+[Alain Ménéménis]
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification
+et dans les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 9

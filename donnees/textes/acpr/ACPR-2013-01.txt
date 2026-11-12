@@ -1,0 +1,1116 @@
+===== Page 1 =====
+CAISSE D’ÉPARGNE
+La CAISSE D’ÉPARGNE ET DE
+ET DE PRÉVOYANCE
+PRÉVOYANCE DU LANGUEDOC-
+DU LANGUEDOC-ROUSSILLON
+ROUSSILLON a formé un recours Procédure no 2013-01
+devant le Conseil d'État contre la -----
+décision de la Commission des Blâme et sanction pécuniaire
+sanctions du 25 novembre 2013 de 1 000 000 d’euros
+-----
+Audience du 4 novembre 2013
+Décision rendue le 25 novembre 2013
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+––––––––––
+Vu la lettre du 15 janvier 2013 (et les pièces qui lui sont annexées) par laquelle le Président de l’Autorité
+de contrôle prudentiel (ACP), informe la Commission de ce que le Collège de l’ACP, statuant en sous-
+collège sectoriel de la banque, a décidé, lors de sa séance du 17 décembre 2012, d’ouvrir une procédure
+disciplinaire à l’encontre de la CAISSE D’ÉPARGNE ET DE PRÉVOYANCE DU LANGUEDOC-
+ROUSSILLON (ci-après la CELR), ayant son siège social 254 rue Michel Teule, ZAC d’Alco, BP 7330,
+34184 Montpellier Cedex 4, enregistrée sous le numéro 2013-01 ;
+Vu la notification de griefs du 15 janvier 2013 ;
+Vu les mémoires en défense des 27 mars, 19 juillet et 12 septembre 2013, ainsi que les pièces qui les
+accompagnent, par lesquels la CELR (i) présente une demande de renvoi préjudiciel pour interprétation par
+la Cour de justice de l’Union européenne (ci-après la CJUE) de la portée de la Charte des droits
+fondamentaux de l’Union européenne, (ii) soulève la nullité de l’« enquête », du rapport « d’enquête » et de
+la notification de griefs, (iii) conteste que les griefs notifiés soient constitutifs de manquements susceptibles
+de sanctions et (iv) sollicite, d’une part, que l’audience devant la Commission ne soit pas publique et, d’autre
+part, que la décision à intervenir ne soit pas publiée sous une forme nominative ;
+Vu les mémoires des 3 juin et 26 août 2013, par lesquels M. Olivier FOUQUET, représentant le Collège,
+conclut que la Commission ne doit pas transmettre à la CJUE la question préjudicielle posée par la CELR,
+estime que les exceptions de procédure doivent être rejetées et maintient l’ensemble des griefs notifiés ;
+Vu le rapport du 3 octobre 2013 de M. Charles CORNUT, rapporteur, dans lequel celui-ci conclut
+(i) qu’il n’y a pas de raison sérieuse conduisant à renvoyer à la CJUE la question préjudicielle posée, (ii) que
+les exceptions de procédure doivent être écartées et (iii) au fond, que sont établis les griefs 2.2 et 2.5 (sur le
+système automatisé de surveillance et de détection des opérations atypiques), les griefs 4 à 12 (défauts de
+déclaration de soupçon – ci-après DS), ainsi que 19 (sur le dispositif de contrôle permanent de premier
+niveau), 20 et 21 (sur le dispositif de contrôle permanent de second niveau) ; que sont également fondés mais
+dans un périmètre réduit les griefs 1 (sur la classification des risques), 2.1 et 2.3 (sur le système automatisé
+de surveillance et de détection des opérations atypiques), 13 à 17 (DS tardives), ainsi que 18 (sur le dispositif
+de contrôle permanent de premier niveau) ; que doivent être écartés le grief 2.4 (sur le système automatisé de
+surveillance et de détection des opérations atypiques) et le grief 3 (sur le traitement des alertes) en toutes ses
+parties ;
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2013-01
+Vu les courriers du 3 octobre 2013 convoquant les parties et les informant de la composition de la
+Commission ;
+Vu les observations présentées le 18 octobre 2013 par la CELR et le 25 octobre 2013 par le représentant
+du Collège sur le rapport du rapporteur ;
+Vu les autres pièces du dossier et notamment le rapport d’inspection du 10 août 2012 de M. Didier
+ORAIN, chef de mission ;
+Vu la Convention européenne de sauvegarde des droits de l’Homme et des Libertés fondamentales (ci-
+après la CESDHLF), notamment ses articles 6, paragraphe 3, et 8 ;
+Vu le Traité sur le fonctionnement de l’Union européenne (ci-après le TFUE) ;
+Vu la Charte des droits fondamentaux de l’Union européenne (ci-après la Charte des droits
+fondamentaux) ;
+Vu le Code monétaire et financier (ci-après le COMOFI), dans sa rédaction applicable aux faits ;
+Vu le règlement n° 97-02 du 21 février 1997 modifié relatif au contrôle interne des établissements de
+crédit et des entreprises d’investissement (ci-après le règlement n° 97-02), dans sa rédaction applicable aux
+faits ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’Autorité de contrôle prudentiel et de résolution (ci-après l’ACPR),
+composée de M. Rémi BOUCHEZ, Président, Mme Claudie ALDIGÉ et MM. Francis CRÉDOT et Pierre
+FLORIN ;
+Après avoir décidé de faire droit à la demande de l’établissement tendant à ce que l’audience ne soit pas
+publique et entendu, lors de sa séance du 4 novembre 2013 :
+— M. Charles CORNUT, rapporteur, assisté de Mme Aline WALEFFE et de M. Jean-Manuel CLEMMER,
+adjoints au rapporteur ;
+— M. Emmanuel SUSSET, représentant du directeur général du Trésor, qui a indiqué ne pas avoir
+d’observations à formuler ;
+— M. Olivier FOUQUET, représentant le Collège de l’ACPR, assisté de Mme Anne-Marie MOULIN,
+adjointe au directeur des affaires juridiques de l’ACPR, de M. Jean-Gaspard D’AILHAUD DE BRISIS,
+chef du service des affaires institutionnelles et du droit public, et de Mmes Sophie LE GOFF et Christelle
+MOLINA, juristes au sein du même service ; M. FOUQUET a proposé le prononcé d’un blâme assorti
+d’une sanction pécuniaire de 2 millions d’euros, dans une décision publiée de manière nominative ;
+— Mme Christine FABRESSE et Mme Frédérique BASTIDE-LOISEAU, respectivement présidente du
+directoire et directrice de la conformité et du contrôle permanent de la CELR, Mme Laurence MAY et
+Mme Pascale PARKET, respectivement directrice en fonction et désignée de la conformité et de la sécurité
+du groupe BPCE, assistées par Me Arnaud MOQUIN, avocat à la Cour ;
+Les représentants de la CELR ayant eu la parole en dernier ;
+Après avoir délibéré en la seule présence de M. Rémi BOUCHEZ, de Mme Claudie ALDIGÉ et de
+MM. Francis CRÉDOT et Pierre FLORIN ;
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2013-01
+Considérant que la CELR, société coopérative anonyme à directoire et conseil de surveillance issue de la
+fusion de 8 caisses d’épargne et affiliée à l’organe central BPCE exerce, depuis 1991, son activité dans
+l’ensemble de la région du Languedoc-Roussillon par l’intermédiaire d’un réseau de 183 agences et de
+2 centres d’affaires, situés à Montpellier et à Perpignan ; que son réseau se divise en 2 segments : la Banque
+de Développement Régional (BDR), qui gère les clients professionnels dont le chiffre d’affaires dépasse
+1,5 million d’euros, et la Banque de Détail (BDD), qui est chargée des autres clients ; que sa clientèle
+professionnelle est constituée principalement de PME et d’entités du secteur public territorial ; qu’en juin
+2012, elle avait en tout 1,2 million de clients ;
+Considérant qu’à la suite d’un contrôle sur place effectué par les services de l’ACP entre le 28 septembre
+2011 et le 19 janvier 2012 et qui a donné lieu, après un contradictoire oral et écrit, à la signature par
+M. Didier ORAIN, chef de mission, d’un rapport définitif le 10 août 2012 (ci-après le rapport d’inspection),
+le Collège de l’ACP, statuant en sous-collège sectoriel de la banque, a décidé, lors de sa séance du
+17 décembre 2012, d’ouvrir, à l’encontre de la CELR, la présente procédure disciplinaire ;
+Questions préalables
+1. Sur la transmission d’une question préjudicielle à la Cour de justice de l’Union européenne
+Considérant que l’article 267 du TFUE dispose que « La Cour de justice de l’Union européenne est
+compétente pour statuer, à titre préjudiciel : / a) sur l’interprétation des traités, / b) sur la validité et
+l’interprétation des actes pris par les institutions, organes ou organismes de l’Union. / Lorsqu’une telle
+question est soulevée devant une juridiction d’un des États membres, cette juridiction peut, si elle estime
+qu’une décision sur ce point est nécessaire pour rendre son jugement, demander à la Cour de statuer sur
+cette question. / Lorsqu’une telle question est soulevée dans une affaire pendante devant une juridiction
+nationale dont les décisions ne sont pas susceptibles d’un recours juridictionnel de droit interne, cette
+juridiction est tenue de saisir la Cour. / Si une telle question est soulevée dans une affaire pendante devant
+une juridiction nationale concernant une personne détenue, la Cour statue dans les plus brefs délais » ; que
+l’article 7 de la Charte des droits fondamentaux dispose que « Toute personne a droit au respect de sa vie
+familiale, de son domicile et de ses communications » ; qu’aux termes de l’article 47 de cette charte, « Toute
+personne dont les droits et libertés garantis par le droit de l’Union ont été violés a droit à un recours effectif
+devant un tribunal dans le respect des conditions prévues au présent article. / Toute personne a droit à ce
+que sa cause soit entendue équitablement, publiquement et dans un délai raisonnable par un tribunal
+indépendant et impartial, établi préalablement par la loi. Toute personne a la possibilité de se faire
+conseiller, défendre et représenter. Une aide juridictionnelle est accordée à ceux qui ne disposent pas de
+ressources suffisantes, dans la mesure où cette aide serait nécessaire pour assurer l’effectivité de l’accès à
+la justice. » ; que l’article 6, paragraphe 3, de la CESDHLF prévoit que « Tout accusé a droit notamment à :
+/ a. être informé, dans le plus court délai, dans une langue qu’il comprend et d’une manière détaillée, de la
+nature et de la cause de l’accusation portée contre lui ; / b. disposer du temps et des facilités nécessaires à
+la préparation de sa défense ; / c. se défendre lui-même ou avoir l’assistance d’un défenseur de son choix et,
+s’il n’a pas les moyens de rémunérer un défenseur, pouvoir être assisté gratuitement par un avocat d’office,
+lorsque les intérêts de la justice l’exigent ; / d. interroger ou faire interroger les témoins à charge et obtenir
+la convocation et l’interrogation des témoins à décharge dans les mêmes conditions que les témoins à
+charge ; / e. se faire assister gratuitement d’un interprète, s’il ne comprend pas ou ne parle pas la langue
+employée à l’audience » ;
+Considérant que la CELR soutient qu’il y aurait lieu pour la Commission des sanctions de transmettre à la
+CJUE une question qu’elle propose de formuler de la manière suivante : « Les articles 7 et 47 de la Charte
+des droits fondamentaux, éclairée par les dispositions des articles 6 § 3 et 8 CEDH, impliquent-ils que, - au
+cours des phases d’enquêtes menées dans les locaux de la personne sous enquête, par une autorité
+administrative indépendante, dotée de pouvoirs importants et contraignants d’investigation et de pouvoirs
+juridictionnels de sanctions, et dans la mesure où, d’une part ces enquêtes se déroulent sur place, c’est-à-
+dire au "domicile" du sujet de l’enquête et où d’autre part, au cours de ces enquêtes peuvent être recueillies
+directement par les enquêteurs, au moyen d’investigations dans les documents et systèmes de la personne
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2013-01
+contrôlée et auxquels la loi leur donne accès, sans possibilité pour la personne sous enquête de s’y opposer,
+des preuves ou des déclarations des personnes soumises à enquête, susceptibles de fonder des poursuites
+juridictionnelles ultérieures et d’être ainsi opposées à charge de la personne poursuivie, - la personne
+concernée soit informée, quel qu’en soit le procédé, de la faculté de se faire assister d’un conseil et de son
+droit à garder le silence, notamment de façon à ne pas être amenée, au cours de la phase d’enquête à s’auto
+incriminer et à permettre ainsi à la personne contrôlée, dès ce stade, de bénéficier de façon effective de son
+droit à un procès équitable ? Les mêmes articles impliquent-ils que l’ordre juridique national prévoit de
+façon effective cette faculté de manière à garantir à la personne concernée le bénéfice effectif des droits
+reconnus par les articles 7 et 47 de la Charte des droits fondamentaux ? » ;
+Considérant que, pour apprécier si l’organisme de renvoi possède le caractère d’une juridiction au sens de
+l’article 267 ci-dessus mentionné, la CJUE tient compte d’un ensemble d’éléments, tels que l’origine légale
+de l’organisme, sa permanence, le caractère obligatoire de sa juridiction, la nature contradictoire de la
+procédure, l’application, par l’organisme, des règles de droit ainsi que son indépendance ; que l’ordonnance
+n° 2010-76 du 21 janvier 2010 portant fusion des autorités d’agrément et de contrôle de la banque et de
+l’assurance a mis en place, au sein de l’ACP, devenue depuis ACPR, un Collège et une Commission des
+sanctions ; que, lorsqu’elle est saisie par le Collège, cette dernière est seule compétente pour statuer sur les
+manquements disciplinaires reprochés aux organismes assujettis au contrôle de l’ACPR ; que la procédure
+devant la Commission est contradictoire ; qu’elle applique des règles de droit et que des dispositions
+législatives garantissent son indépendance ; qu’elle est donc susceptible d’être qualifiée de juridiction au
+sens du droit de l’Union européenne bien qu’elle n’ait pas cette qualité en droit interne ;
+Considérant cependant, en premier lieu, que le IV de l’article L. 612-16 du COMOFI dispose que les
+décisions prononcées par la Commission des sanctions peuvent faire l’objet d’un recours de pleine
+juridiction devant le Conseil d’Etat ; qu’en conséquence, compte tenu des termes précités de l’article 267 du
+TFUE, et ainsi que l’a jugé le Conseil d’Etat dans une décision du 1er juin 1994, n° 129727, la Commission
+n’est en tout état de cause pas tenue de transmettre à la CJUE la question préjudicielle présentée par la
+CELR ;
+Considérant, en second lieu, que la Commission des sanctions de l’ACPR, au terme d’une instruction
+contradictoire au cours de laquelle sont examinés des manquements, par des organismes assujettis, à des
+obligations notamment prévues par le COMOFI et pouvant donner lieu au prononcé des sanctions prévues
+aux articles L. 612-39 et suivants de ce code, doit être regardée comme statuant sur le bien-fondé
+d’accusations en matière pénale ; que cependant, en amont de la saisine de la Commission, le législateur a
+doté l’ACPR de pouvoirs de contrôle mais non d’enquête, excluant toute coercition ; que ces contrôles ne
+peuvent concerner toute personne mais exclusivement une population de professionnels dont l’activité est
+soumise à agrément ou à déclaration et à surveillance constante ; que ces contrôles ne peuvent conduire à la
+mise en cause de personnes physiques indépendamment de la personne morale dont celles-ci seraient les
+dirigeants ; qu’ainsi, les « domiciles » où les vérifications sur place sont susceptibles d’être menées sont
+uniquement des locaux professionnels ; qu’en conséquence, l’arrêt Salduz de la Cour européenne des droits
+de l’homme (ci-après la Cour EDH) du 27 novembre 2008, n° 36391/02, relatif aux garanties dont doit
+disposer un prévenu lors d’interrogatoires de police préalables à une procédure pénale, n’est pas transposable
+aux contrôles exercés par une autorité administrative de régulation ; qu’à ce sujet, dans ses arrêts du
+21 septembre 1994 (Fayed c/ Royaume-Uni) et du 17 décembre 1996 (Saunders c/ Royaume-Uni), la Cour
+EDH a estimé que le fait d’assujettir aux garanties d’une procédure judiciaire une enquête administrative
+préparatoire, visant seulement à établir et consigner des faits susceptibles de servir de base à une action
+répressive ultérieure devant d’autres autorités compétentes, gênerait indûment la réglementation efficace,
+dans l’intérêt public, d’activités financières et commerciales complexes ;
+Considérant que le Conseil d’Etat a jugé (Sté Prédica, 30 mars 2007, n° 277991) que le moyen tiré de la
+méconnaissance du principe selon lequel « nul n’est tenu de s’incriminer lui-même » est inopérant à
+l’encontre des opérations d’un contrôle mené à titre préventif sous l’autorité du secrétaire général de la
+Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance ; que les locaux où
+les vérifications sur place sont susceptibles d’être menées sont uniquement des locaux professionnels, qui ne
+peuvent donc être qualifiés de « domicile » et auxquels les contrôleurs de l’ACPR ne peuvent avoir accès
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2013-01
+que s’ils y sont autorisés par les dirigeants ou préposés de la personne contrôlée, aucune disposition ne
+permettant, en cas d’opposition du responsable des lieux, qu’ils puissent malgré tout procéder à une visite
+avec l’autorisation du juge judiciaire ; que la solution retenue par le Conseil d’Etat dans son arrêt Inter
+Confort (6 novembre 2009, n° 304300) n’est donc pas transposable aux pouvoirs de contrôle dont dispose
+l’ACPR ; qu’au demeurant, dans un arrêt du 25 juillet 2007 (Société Dubus SA, n° 266735), il a estimé que
+« la seule circonstance que les contrôles administratifs auxquels procède la commission bancaire et les
+rapports établis à la suite de ceux-ci soient susceptibles d’entraîner l’ouverture d’une procédure
+juridictionnelle n’implique pas que les stipulations de l’article 6, § 1, de la convention leur soient
+applicables » ; que par deux décisions récentes, la Haute juridiction, saisie d’un recours contre une décision
+de sanction rendue par la Commission des sanctions de l’Autorité des marchés financiers (ci-après l’AMF), a
+estimé, s’agissant d’une autorité statuant sur le bien-fondé d’accusations en matière pénale au sens des
+stipulations de l’article 6 de la CESDHLF, que « le principe des droits de la défense, rappelé tant par
+l’article 6 § 1 de cette convention et précisé par son article 6 § 3 que par l’article L. 621-15 du code
+monétaire et financier, s’applique seulement à la procédure de sanction ouverte par la notification de griefs
+par le collège de l’Autorité des marchés financiers et par la saisine de la commission des sanctions, et non à
+la phase préalable des enquêtes réalisées par les agents de l’Autorité des marchés financiers ; que,
+cependant, il résulte de l’ensemble des dispositions citées aux points 2 et 3 que les enquêtes réalisées par les
+agents de l’Autorité des marchés financiers, ou par toute personne habilitée par elle, doivent se dérouler
+dans des conditions garantissant qu’il ne soit pas porté une atteinte irrémédiable aux droits de la défense
+des personnes auxquelles des griefs sont ensuite notifiés » (Conseil d’Etat, Alternative Leaders France,
+15 mai 2013, n° 356054) ; que par un arrêt publié peu après a été réaffirmé le principe selon lequel les droits
+de la défense ne s’appliquaient qu’à compter de l’ouverture, par le Collège, en l’espèce de l’AMF, de la
+procédure disciplinaire (Conseil d’Etat, Société Générale et autres, 12 juin 2013, n° 359245) ;
+Considérant, ainsi, que les jurisprudences européennes et française ne peuvent, s’agissant de la nécessité
+du respect des droits fondamentaux dans le cadre d’une procédure administrative pouvant, le cas échéant,
+aboutir au prononcé de sanctions disciplinaires, être, contrairement à ce que soutient la CELR, regardées
+comme contradictoires ; qu’il n’y a pas lieu de transmettre à la CJUE la question préjudicielle proposée par
+la CELR ;
+2. Sur la nullité de l’« enquête », du « rapport d’enquête » et de la notification de griefs
+Considérant, en premier lieu, que préalablement à la remise, par le rapporteur, de son rapport, la CELR a
+soutenu que ses droits fondamentaux, notamment les droits de la défense et le droit à un procès équitable, ont
+été méconnus au cours de la phase de contrôle qui a débouché sur l’ouverture de la présente procédure
+disciplinaire ; qu’elle invoque principalement à ce titre le non-respect sur plusieurs points de la Charte de
+l’ACP d’avril 2010 publiée le 22 juillet 2010 relative à la conduite d’une mission de contrôle sur place dans
+le secteur de la banque, des services de paiement et des services d’investissement (ci-après la Charte de
+conduite d’une mission de contrôle), le caractère « à charge » de la conduite du contrôle dont elle a fait
+l’objet, des manquements à l’information loyale en début de contrôle, le caractère tardif de certaines
+demandes de l’inspection, l’absence de prise en compte des contraintes d’exploitation de l’établissement, des
+manquements à l’obligation d’intégrité et d’impartialité dans la prise en compte des éléments communiqués
+par l’établissement tenant à la non-transmission au Secrétariat général et au Collège de sa réponse à la « vue
+d’ensemble » du rapport d’inspection et à la présence, dans le dossier de la procédure, de 40 pages illisibles
+comportant les réponses de la CELR au projet de rapport, dont la teneur était en conséquence ignorée tant par
+le Secrétariat général que par le Collège de l’ACPR lorsqu’ils ont eu à statuer sur les suites à donner à ce
+contrôle ; qu’elle invoque en outre l’absence d’information de la possibilité d’être assisté d’un conseil et
+enfin la circonstance que le rapport final d’enquête ne serait pas signé par le chef de mission et n’aurait été
+transmis qu’à son organe central ;
+Considérant cependant qu’il résulte de ce qui a été dit ci-dessus qu’il appartient seulement à la
+Commission des sanctions de s’assurer que le contrôle préalable à sa saisine a été réalisé dans des conditions
+garantissant qu’il n’ait pas été porté une atteinte irrémédiable aux droits de la défense des personnes
+auxquelles des griefs ont ensuite été notifiés ; qu’en l’absence d’une telle atteinte, les exceptions de
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2013-01
+procédure soulevées par la CELR ne peuvent être qu’écartées ; qu’au demeurant, la Charte de conduite d’une
+mission de contrôle est un document à vocation purement informative, dont la méconnaissance n’est pas, par
+elle-même, de nature à entacher le contrôle d’irrégularité ; que la non-transmission de la réponse à la vue
+d’ensemble ne peut constituer une atteinte irrémédiable aux droits de la défense, dès lors que les griefs ne
+reposent pas sur cette synthèse introductive au rapport et que l’établissement a été mis, au cours de
+l’instruction contradictoire devant la Commission, à même de présenter ses observations sur les faits qui lui
+sont reprochés ; qu’il n’appartient pas à la Commission de s’interroger sur ce qu’aurait pu être la décision du
+Secrétariat général puis de la formation compétente du Collège de l’ACP s’il avait disposé d’informations
+différentes de celles qui leur ont été communiquées mais seulement de statuer sur les griefs dont elle est
+saisie ; qu’au demeurant, le caractère illisible d’une partie du dossier, dans la version soumise au Collège, est
+contesté par la poursuite ; que l’absence, « sur la page prévue à cet effet » du rapport d’inspection, de la
+signature du chef de la mission de contrôle, qui au demeurant a signé la « vue d’ensemble » qui ouvre ce
+rapport et dont il n’est pas contesté qu’il a dirigé cette mission, ne saurait entraîner, comme a cru devoir le
+soutenir la CELR, la « nullité » de ce rapport et par suite celle de la présente procédure ; qu’il en va de même
+des conditions de communication du rapport d’inspection définitif, qui n’est au demeurant pas prévue par les
+textes, alors surtout que la CELR a pu, au cas où elle n’en n’aurait pas disposé antérieurement, prendre
+connaissance de ce rapport dans le cadre de la présente procédure ; qu’enfin, il n’est pas nécessaire que des
+constatations du rapport d’inspection aient été analysées par celui-ci comme pouvant constituer un
+manquement pour que le Collège puisse les retenir dans la notification de griefs ;
+Considérant, en second lieu, qu’en réponse au rapport du rapporteur, la CELR soutient qu’il est résulté
+des modalités de déroulement du contrôle préalable à la présente procédure disciplinaire que les droits de la
+défense ont été irrémédiablement compromis ; qu’elle soutient à ce sujet que le rapporteur estime plusieurs
+griefs fondés en s’appuyant sur des déclarations faites à la mission d’inspection ; que cette atteinte
+irrémédiable aurait été portée notamment au sujet des griefs 4, 6, 7, 9, 10, 11, 12 et 17 ;
+Considérant cependant que les défauts de DS ou les DS tardives reprochés dans ces griefs reposent sur
+des éléments objectifs tenant à l’absence de preuve des diligences accomplies par la CELR afin de
+déterminer si les opérations en cause devaient ou non donner lieu à l’envoi d’une DS ; que, plus
+généralement, la CELR, qui invoque à nouveau le droit à ne pas s’auto-incriminer et l’absence d’information
+de la possibilité d’être assisté d’un conseil de son choix, ne montre pas en quoi les conditions dans lesquelles
+ont été recueillis les éléments repris dans le rapport d’inspection seraient de nature à caractériser une atteinte
+irrémédiable aux droits de la défense ; que, de même, les déclarations recueillies au stade du contrôle au sujet
+d’un défaut d’examen approfondi n’auraient pu davantage constituer une telle atteinte, la Commission
+statuant sur les éventuelles carences d’un établissement en comparant la cohérence des opérations
+enregistrées sur un compte par rapport aux éléments de connaissance du client dont dispose l’établissement ;
+qu’au demeurant ce grief est écarté ;
+Considérant ainsi que les exceptions de procédure soulevées par la CELR ne peuvent qu’être écartées ;
+Au fond
+Considérant que les griefs notifiés seront examinés selon la répartition suivante, retenue par le
+rapporteur :
+1. Sur le dispositif de LCB-FT
+1.1. Sur la classification des risques (grief 1)
+1.2. Sur le système automatisé de surveillance et de détection des opérations atypiques (grief 2)
+1.3. Sur le traitement des alertes (grief 3)
+2. Sur le respect de l’obligation de déclarer à Tracfin certaines sommes et opérations suspectes et, à tout
+le moins, d’effectuer un examen renforcé
+2.1. Sur 9 dossiers qui n’ont pas fait l’objet d’une DS et, à tout le moins, d’un examen renforcé (griefs
+4 à 11)
+2.2. Sur 1 dossier qui n’a pas fait l’objet d’un examen renforcé (grief 12)
+3. Sur des DS tardives (griefs 13 à 17)
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2013-01
+4. Sur le dispositif de contrôle permanent en matière de LCB-FT
+4.1. Sur la non-réalisation par trois agences des contrôles au titre du contrôle permanent prévu par
+l’outil PILCOP (grief 18)
+4.2. Sur l’absence de constitution par les responsables d’agences, conformément à la procédure, de
+dossier justifiant le résultat des contrôles qu’ils réalisent au titre du contrôle permanent de
+premier niveau (grief 19)
+4.3. Sur la conduite des contrôles par le responsable d’agence (grief 20)
+4.4. Sur le contrôle de second niveau du traitement des alertes (grief 21)
+1. Sur le dispositif de LCB-FT
+Considérant que la CELR soutient à titre liminaire que c’est BPCE, son organe central, qui assure le
+« pilotage » du dispositif LCB-FT du groupe dans le cadre d’une approche consolidée ; qu’en application du
+principe de la personnalité des sanctions et des peines, la CELR ne peut être sanctionnée que pour les
+obligations qui lui sont propres et que devraient donc être exclues des poursuites toutes les parties de griefs
+qui se rapportent non à la mise en œuvre des outils et des procédures au sein de la CELR, mais aux
+procédures et outils eux-mêmes ;
+Considérant que si les organes centraux sont, en application de l’article L. 511-31 du COMOFI,
+notamment chargés de veiller à la cohésion de leur réseau et de s’assurer du bon fonctionnement des
+établissements qui leur sont affiliés, chaque établissement assujetti par l’article L. 561-2 au contrôle de
+l’ACPR est, à titre individuel, tenu de respecter l’ensemble des obligations législatives et réglementaires
+applicables aux établissements de crédit, notamment en matière de contrôle interne et de LCB-FT ; que
+l’article 1er du règlement n° 97-02 impose à toutes les entreprises assujetties, qu’elles appartiennent ou non à
+un groupe ou qu’elles soient affiliées ou non à un organe central, de veiller à « mettre en place un contrôle
+interne adéquat en adaptant l’ensemble des dispositifs prévus par le présent règlement à la nature et au
+volume de leurs activités, à leur taille, à leurs implantations et aux risques de différentes natures auxquels
+elles sont exposées » ; que, de même, s’agissant du dispositif de LCB-FT, les obligations imposées par le I de
+l’article R. 561-38 du COMOFI, sur lequel se fondent les griefs 1 et 3, s’appliquent aux « personnes
+mentionnées aux 1° à 7° de l’article L. 561-2 » précité ; que par ailleurs, le 1 de l’article 11-7 du règlement
+n° 97-02, sur lequel se fondent les griefs 1, 2 et 3, dispose que « Les entreprises assujetties se dotent d’une
+organisation, d’une classification des risques de blanchiment des capitaux et de financement du terrorisme,
+de procédures internes et d’un système de contrôle de ce dispositif » ; que si l’existence d’un dispositif de
+LCB-FT mis en place par un organe central peut entraîner la définition d’outils « groupe », il ne dispense pas
+les établissements de crédit qui y sont affiliés, eux-mêmes soumis à l’ensemble des dispositions précitées, de
+leur obligation d’adapter ou de compléter ces outils en tenant compte de leurs particularités ; qu’à ce sujet, la
+nécessité d’une approche consolidée des risques de blanchiment des capitaux et de financement du
+terrorisme (ci-après BC-FT), en ce qu’elle suppose une coordination des approches individuelles, n’est pas
+contradictoire avec l’obligation d’ajuster les dispositifs en place selon chaque situation individuelle ; qu’ainsi
+l’affiliation de la CELR à BPCE, pas plus que le 6° de l’article L. 512-107 du COMOFI relatif à la définition
+des principes et conditions d’organisation du dispositif de contrôle interne du groupe BPCE et de chacun des
+réseaux, ne la dispensent de ses obligations propres en matière de dispositif LCB-FT ; que celles-ci sont
+d’ailleurs rappelées en page de garde de la « procédure type lutte contre le blanchiment des capitaux et le
+financement du terrorisme/respect des mesures de gels des avoirs » émise par BPCE en mars 2011 ; que
+c’est précisément le principe de personnalité des peines qui conduit à imputer à la CELR les carences de son
+propre dispositif LCB-FT ; que la première observation préalable de la CELR doit en conséquence être
+écartée ;
+Considérant que la CELR soutient ensuite que si les obligations relatives à l’identification et à la
+connaissance de la clientèle lors de l’entrée en relation d’affaires peuvent être qualifiées d’obligations de
+résultat, les obligations relatives à la détection des opérations dites atypiques et à leur qualification au regard
+de la législation sur le blanchiment impliquent une appréciation subjective et ne peuvent donc être que des
+obligations de moyens ; qu’en conséquence, seul « un manquement suffisamment caractérisé pour être
+qualifié de grave et comme ne relevant pas des diligences moyennes attendues d’un établissement » pourrait
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2013-01
+justifier un grief et non le seul « constat d’un non résultat » ; que l’allégation selon laquelle un grief ne serait
+fondé qu’en cas de démonstration d’un « manquement grave » ou d’une « carence » est par ailleurs alléguée
+par l’établissement à diverses reprises ;
+Considérant qu’ainsi que l’a jugé le Conseil d’Etat, les dispositions qui imposent une obligation de
+vigilance constante n’ont pas pour effet « de mettre les assujettis devant une obligation de résultat
+insuffisamment définie dès lors qu’elles précisent la nature des moyens à mettre en place qui consistent
+notamment en l’organisation de procédures internes reposant sur des règles écrites portant aussi bien sur
+les méthodes à suivre que sur les indications relatives aux montants et à la nature des opérations à
+surveiller » (30 juillet 2003, Compagnie française de change, n° 247488) ; que, par suite, l’absence de
+détection et donc d’analyse d’une opération atypique constitue par elle-même un manquement, quelle que
+soit la pertinence des explications données a posteriori à son sujet ; que le comportement atypique d’un
+client n’est pas, contrairement à ce que soutient la CELR, une notion « particulièrement subjective », mais
+résulte, au contraire, de l’examen des opérations effectuées par celui-ci au regard de l’historique de son
+compte ; que si le III de l’article L. 561-36 prévoit l’ouverture d’une procédure disciplinaire « lorsque, par
+suite soit d’un grave défaut de vigilance, soit d’une carence dans l’organisation de ses procédures internes
+de contrôle », un établissement bancaire a manqué à ses obligations en matière de LCB-FT, le législateur n’a
+imposé au Collège aucune obligation formelle de constat de l’existence d’un tel grave défaut de vigilance ou
+d’une telle carence dans l’organisation lors de l’ouverture d’une procédure disciplinaire en matière de LCB-
+FT, de sorte qu’il suffit, pour que la régularité de cette procédure ne soit pas affectée, que les griefs qui la
+fondent relèvent, s’ils devaient être reconnus comme établis, d’au moins une des deux catégories
+susmentionnées ; que la seconde observation préalable de la CELR doit en conséquence être écartée ;
+1.1. Sur la classification des risques
+Considérant que le 2° du I de l’article R. 561-38 du COMOFI impose aux établissements d’élaborer une
+classification des risques de BC-FT présentés par leurs activités, selon le degré d’exposition à ces risques
+apprécié en fonction notamment de la nature des produits ou des services offerts, des conditions des
+transactions proposées, des canaux de distribution utilisés ainsi que des caractéristiques des clients ; que le 3,
+d) de l’article 11-7 du règlement n° 97-02 dispose que cette classification évalue le niveau de risque des
+différents produits ou services offerts, des modalités ou des conditions particulières des opérations
+effectuées, des canaux de distribution utilisés ainsi que des caractéristiques de la clientèle ciblée ;
+Considérant que, selon le grief 1, la CELR ne dispose pas d’une classification des risques adaptée à ses
+activités et aux risques encourus ; qu’elle n’a pas procédé à l’adaptation locale de la classification des risques
+définie au niveau du groupe, notamment de la liste des professions à risques ; que cette inadaptation de la
+classification des risques nuit à la pertinence des alertes qui ne reposent pas sur des critères établis en
+fonction de l’environnement économique et géographique de l’établissement ;
+Considérant que contrairement à ce que soutient la CELR, l’élaboration d’une classification des risques
+de BC-FT au seul niveau d’un organe central ne serait pas pertinente, sauf à établir que l’ensemble des
+établissements affiliés à cet organe central est exposé aux mêmes risques en la matière ; qu’il s’agit, pour un
+établissement affilié à un organe central, en tenant compte des particularités de son activité, d’élaborer une
+classification cohérente avec la classification préparée par cet organe central ; qu’à ce sujet, si la CELR
+évoque la décision du 24 octobre 2012 de la Commission des sanctions, les obligations respectives de la
+CELR et de BPCE ne peuvent se comparer à celles qui existent entre une maison mère et ses filiales à
+l’étranger ; qu’en outre, n’est pas reprochée l’absence de procédure, mais l’absence d’une classification des
+risques propre à la CELR ; que la disposition réglementaire qui fonde le grief, qui est claire, s’impose aux
+établissements assujettis sans qu’il ait été nécessaire qu’elle donne lieu à une recommandation ou à une ligne
+directrice de l’ACPR ; que la CELR n’explique pas en quoi l’obligation, pour tout établissement, de disposer
+d’une classification des risques serait contraire à l’instruction n° 2012-I-04 qui prévoit que, dans le cadre de
+l’approche groupe, les organismes doivent notamment contrôler la cohérence de ces classifications ; que si
+BPCE a défini une liste de professions à risque susceptible d’être enrichie par les entités du groupe, la CELR
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2013-01
+ne l’a pas adaptée et ne produit pas d’éléments établissant qu’elle a étudié la nécessité d’une telle
+adaptation ; que si, comme l’indique la poursuite, cette absence d’adaptation se traduit par la production d’un
+nombre très élevé d’alertes, dont une grande part est classée sans suite, il n’est cependant pas établi qu’il en
+ait résulté directement des carences dans la détection d’opérations atypiques ; que, dans ce périmètre réduit,
+le grief 1 est établi ;
+1.2. Sur le système automatisé de surveillance et de détection
+des opérations atypiques
+Considérant que le 2.2 de l’article 11-7 du règlement n° 97-02 impose aux entreprises assujetties de se
+doter de dispositifs de suivi et d’analyse de leurs relations d’affaires, fondés sur la connaissance de leur
+clientèle, permettant notamment de détecter les opérations qui constituent des anomalies au regard du profil
+des relations d’affaires et qui pourraient faire l’objet d’un examen renforcé mentionné au II de l’article
+L. 561-10-2 ou d’une déclaration prévue à l’article L. 561-15 du COMOFI ;
+Considérant que, par le grief 2, sont reprochées des insuffisances affectant le paramétrage du système
+automatisé de surveillance et de détection des opérations atypiques ;
+Considérant que la CELR fait valoir que le rapport d’inspection et donc la lettre de griefs ne visent que
+l’outil informatique DMS dans l’application VIGICLIENT alors que son dispositif comporte également des
+outils et des procédures manuelles, notamment en ce qui concerne le contrôle des chèques et que, dès lors
+qu’aucun texte ne lui impose d’organiser la détection des opérations atypiques exclusivement au travers d’un
+outil informatique, un grief ne peut être formulé à son encontre que si l’examen de l’ensemble de ces
+dispositifs fait apparaître de graves carences en la matière ; que les lignes directrices conjointes ACP-Tracfin
+précisent que les établissements peuvent, selon leur taille et leur activité, se dispenser d’instrument
+informatique ;
+Considérant cependant que, compte tenu de la masse d’alertes suscitées par son outil informatique, la
+coexistence, mentionnée par la CELR dès la phase du contrôle, d’autres dispositifs qui accroissent encore,
+même faiblement, le nombre d’opérations atypiques détectées, n’est pas de nature à répondre au grief par
+lequel est reproché un défaut de paramétrage de l’outil principal ; que de même, la CELR ne peut s’appuyer
+sur les mentions des lignes directrices ci-dessus mentionnées, dès lors qu’en raison du nombre d’opérations
+qu’elle traite, elle ne peut évidemment être considérée comme appartenant à la catégorie des établissements
+pouvant se dispenser de système automatisé ;
+1.2.1. Sur les insuffisances du paramétrage du système automatisé de surveillance
+et de détection des opérations atypiques
+Considérant que, selon le grief 2.1, le paramétrage des alertes a été modifié en décembre 2010 ; que le
+nombre d’alertes était de 39 200 en 2010, dont 38 416 classées « clos RAS AG » ; que suite à la modification
+intervenue en 2010, le nombre d’alertes générées a augmenté, pour atteindre 60 476 en 2011 ; que la majorité
+d’entre elles est toujours classée « clos RAS AG » ; que ces volumes d’alertes, et le classement sans suite de
+la majorité d’entre elles, démontrent l’absence de pertinence des alertes générées et les défaillances du
+paramétrage ;
+Considérant que la seule constatation d’un nombre élevé d’alertes et du classement sans suite d’une part
+importante d’entre elles (98 % en 2010 et 2011) ne peut suffire à caractériser des carences affectant le
+paramétrage de ce système, constitutives d’un manquement, dès lors notamment qu’il n’est pas
+simultanément reproché que des opérations atypiques n’auraient pas été détectées ; que les établissements
+assujettis peuvent choisir un paramétrage retenant un grand nombre d’opérations mais qu’il leur appartient
+alors de mettre en place un système d’analyse leur permettant de traiter toutes les alertes produites (cf. infra
+grief 3.2) ; que le grief 2.1 doit donc être écarté ;
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2013-01
+1.2.2. Sur les conditions de déclenchement d’une seconde alerte concernant un client
+Considérant que, selon le grief 2.2, aucune nouvelle alerte n’est générée tant que le cumul du montant des
+opérations atypiques détectées concernant une relation d’affaires n’est pas repassé sous le seuil atteint lors de
+la précédente alerte puis ne dépasse pas à nouveau ce seuil ; que des opérations atypiques peuvent être
+réalisées sans que le gestionnaire de clientèle n’en soit informé ;
+Considérant qu’en application de la procédure interne « 200806_SpecRegles Lot2 mars 2008 LOT 2 –
+2008-06-09 V5.doc », la réalisation d’opérations pour des montants supérieurs au seuil ayant entraîné le
+déclenchement d’une alerte pouvait ne pas en susciter une nouvelle ; que la conception, par BPCE, de ce
+système, qui reste à la main de l’organe central , est sans effet sur la responsabilité de la CELR dans sa mise
+en œuvre ; que si la CELR indique que cette configuration de DMS observée par la mission est sans
+conséquence car l’absence de classement de la première alerte entraîne en principe le placement sous
+vigilance renforcée du client, elle ne produit pas la procédure prévoyant qu’un tel placement serait
+systématique ; que même si le nombre total d’alertes reste élevé, le grief 2.2 n’en est pas moins établi ;
+1.2.3. Sur le paramétrage des alertes qui se limite à la distinction « particuliers » et
+« professionnels et entreprises », et ne tient pas compte des spécificités de certaines
+professions, ce qui entraîne un défaut de pertinence de certaines alertes
+Considérant que le 2.2 de l’article 11-7 du règlement n° 97-02 impose aux établissements assujettis de
+mettre en place un dispositif de LCB-FT « fondé sur la connaissance de la clientèle », permettant de détecter
+les opérations atypiques « au regard du profil de la relation d’affaires » ;
+Considérant que, selon le grief 2.3, le paramétrage des alertes se limite à la distinction « particuliers » ou
+« professionnels et entreprises » et ne tient pas compte des spécificités de certaines professions, comme
+celles qui enregistrent des versements cumulés d’espèces importants ; que des alertes peuvent donc se révéler
+non pertinentes ;
+Considérant qu’en s’en tenant à une nomenclature aussi simple de sa clientèle, la CELR ne s’est pas
+conformée aux exigences résultant de l’approche par les risques mise en place par l’ordonnance n° 2009-104
+du 30 janvier 2009 et les textes pris pour son application, qui impliquent, au sein de chacune des grandes
+catégories définies, d’appréhender les risques particuliers de BC-FT ; que le caractère trop général du
+paramétrage retenu ne permettait pas à la CELR, à la date du contrôle, de satisfaire à son obligation ; que la
+conséquence supposée de cette carence sur la pertinence de certaines alertes n’est pas démontrée et qu’il
+n’est pas soutenu que ce défaut de paramétrage aurait conduit à ne pas détecter des opérations atypiques ;
+que cependant, l’insuffisante précision de la nomenclature utilisée est une carence identifiée du dispositif
+susceptible, en elle-même, d’être sanctionnée ; qu’ainsi le grief 2.3 est établi mais doit être relativisé ;
+1.2.4. Sur le caractère inapproprié d’un seuil unique de 30 000 euros
+en matière de détection des chèques
+Considérant que, par le grief 2.4, concernant le contrôle des chèques, depuis novembre 2009, tous les
+chèques émis ou reçus ont vocation à être analysés quotidiennement par l’outil d’alerte VIGICLIENT ; que
+tout chèque de plus de 30 000 euros génère une alerte ; que ce seuil de détection ne fait l’objet d’aucune
+adaptation en fonction par exemple du type de clientèle, de l’émetteur, du montant cumulé des chèques ;
+Considérant que la CELR n’apporte pas d’élément contredisant les affirmations du rapport d’inspection
+sur le défaut de modulation du seuil de détection des chèques, qui traduit une insuffisante mise en œuvre de
+l’approche par les risques ; que, dans ses dernières écritures, le représentant du Collège fait état d’opérations
+atypiques sur chèques qui n’ont pas été détectées ; que les analyses de la DSB en 2011 sur les chèques
+Autorité de contrôle prudentiel et de résolution 10
+
+===== Page 11 =====
+Décision de la Commission des sanctions – procédure no 2013-01
+déclarés irréguliers, relatives à l’absence de mentions légales, à des surcharges et falsifications ne concernent
+pas la LCB-FT ; que si, en revanche, les diligences complémentaires invoquées par la CELR et relatives à la
+LCB-FT conduisent à relativiser le grief 2.4, celui-ci n’en est pas moins établi ;
+1.2.5. Sur la non-utilisation du score vert-orange-rouge (VOR) des clients
+dans la définition des critères d’alerte
+Considérant que, selon le grief 2.5, à la date du contrôle, il n’existait pas de critère d’alerte adapté au
+score VOR du client ; que des clients dont le score est rouge, c’est-à-dire présentant le niveau de risque le
+plus élevé, faisaient l’objet en pratique d’une vigilance moindre que celle dont ils auraient dû faire l’objet en
+application de la classification des risques définie au niveau du groupe ; que l’établissement a décidé de
+modifier le paramétrage de l’outil DMS pour l’adapter au score VOR attribué au client ; que ces
+modifications devaient être mises en production à la fin de l’année 2011 ; que l’Inspection n’a donc pu en
+vérifier ni la mise en production ni le caractère opérationnel ; qu’en tout état de cause, à la date de fin de
+mission, les griefs sont avérés ;
+Considérant que la CELR n’a pas utilisé le score VOR dans la définition de ses critères d’alerte ; que la
+CELR ne conteste pas qu’à la date de début de la mission, l’outil VIGICLIENT ne prenait pas en compte le
+score VOR du client ; que sa prise en compte pendant le contrôle apparaît comme une mesure de
+régularisation ; que la CELR ne conteste pas que certains clients affectés d’un score rouge aient ainsi pu faire
+l’objet d’une vigilance moindre que celle qui aurait dû leur être appliquée ; que si l’utilisation du score VOR
+ne correspond en elle-même à aucune obligation légale, les établissements assujettis doivent mettre en place
+un dispositif de suivi et d’analyse de leurs relations d’affaires, fondé sur la connaissance de leur clientèle,
+permettant notamment de détecter les opérations qui constituent des anomalies au regard du profil des
+relations d’affaires ; que cependant, la nouvelle version du système DMS, qui était opérationnelle à partir du
+5 décembre 2011, prend en compte le score VOR, de sorte que le manquement n’est constitué que pour la
+période du 28 septembre au 4 décembre 2011 ; que, par ailleurs, il n’est pas soutenu que cette absence
+d’utilisation du score VOR a eu pour conséquence la non-détection d’opérations atypiques ; que, dans cette
+période de temps très limitée, et ainsi relativisé, le grief 2.5 est établi ;
+1.3. Sur le traitement des alertes
+Considérant que le 4° du I de l’article R. 561-38 du COMOFI impose aux établissements assujettis de
+définir les procédures à appliquer notamment pour la mise en œuvre des mesures de vigilance relatives à la
+clientèle et pour la détection des transactions inhabituelles ou suspectes ; que le 5 de l’article 11-7 du
+règlement n° 97-02 précise que les procédures doivent prévoir les informations à recueillir et à conserver
+pour les opérations mentionnées au II de l’article L. 561-10-2 du COMOFI (c’est-à-dire les opérations
+particulièrement complexes ou d’un montant inhabituellement élevé ou ne paraissant pas avoir de
+justification économique ou licite, qui doivent faire l’objet d’un examen renforcé), à savoir : « / a) l’origine
+et la destination des sommes ainsi que l’objet de l’opération ; / b) l’identité du client donneur d’ordre et, le
+cas échéant, du bénéficiaire effectif ; / c) l’identité du ou des bénéficiaires ou de l’autre partie à l’opération
+(nom, adresse, le cas échéant profession) ; / d) les caractéristiques de l’opération (montant, date) et les
+modalités de son exécution (utilisation d’un système de paiement particulier notamment) ; / e) le cas
+échéant, les modalités et conditions de fonctionnement du compte ; / f) les éléments pertinents concernant le
+profil de la relation d’affaires » ; que le 2.2 de l’article 11-7 du règlement n° 97-02 exige que les entreprises
+assujetties se dotent de dispositifs de suivi et d’analyse de leurs relations d’affaires, fondés sur la
+connaissance de leur clientèle, permettant notamment de détecter les opérations qui constituent des
+anomalies au regard du profil des relations d’affaires et qui pourraient faire l’objet d’un examen renforcé
+mentionné au II de l’article L. 561-10-2 du COMOFI ou d’une déclaration prévue à l’article L. 561-15 du
+même code ; que le 2.3 de l’article 11-7 du règlement n° 97-02 impose aux entreprises assujetties de se doter,
+selon des modalités adaptées à leur taille, à la nature de leurs activités et aux risques identifiés par la
+classification des risques de BC-FT, de moyens humains suffisants pour analyser les anomalies détectées par
+les dispositifs de LCB-FT ;
+Autorité de contrôle prudentiel et de résolution 11
+
+===== Page 12 =====
+Décision de la Commission des sanctions – procédure no 2013-01
+Considérant que, selon le grief 3, le traitement des alertes est lacunaire ; qu’ainsi, aucune procédure ne
+prévoit les modalités de traitement des alertes (grief 3.1) ; que la détection des opérations qui constituent des
+anomalies présente de graves insuffisances (grief 3.2) ; que la qualité du traitement des alertes est très
+insuffisante (grief 3.3) ; que les moyens humains sont insuffisants pour analyser les anomalies (grief 3.4) ;
+1.3.1. Sur l’absence de procédure relative aux modalités de traitement des alertes
+Considérant que, selon le grief 3.1, aucune procédure ne prévoit les modalités de traitement des alertes ;
+que ne sont, notamment pas indiqués les éléments justificatifs qui doivent être recueillis par l’agence auprès
+du client en fonction de la nature de l’opération détectée, les informations à renseigner dans l’espace
+« commentaires » de l’application de détection et de gestion des alertes, non plus que les informations
+appropriées en fonction de la nature de l’opération à demander au client par l’agence ; que le dossier de M. A
+illustre ces dysfonctionnements dans le traitement des alertes, la CELR n’ayant pas pu, à la date de sa
+réponse au projet de rapport d’inspection, justifier que l’alerte avait pu être convenablement documentée et
+traitée ;
+Considérant que la CELR indique qu’il existe, depuis mai 2011, un guide de bonnes pratiques
+VIGICLIENT qui vaut procédure et fournit un ensemble de pièces définissant les diligences que ses préposés
+doivent accomplir dans ce domaine ; qu’elle ajoute que les modalités de traitement des alertes sont désormais
+mieux formalisées grâce à une évolution de l’outil VIGICLIENT qui, depuis mai 2012, cadre totalement les
+différentes zones de commentaires à travers des menus déroulants correspondants à l’ensemble des situations
+susceptibles de se présenter ; qu’il ressort du document interne intitulé « Lutte contre le blanchiment des
+capitaux et le financement du terrorisme », en particulier en son point 7 sur la « Surveillance et traitement
+via l’outil VIGICLIENT », du document intitulé « Traitement des alertes VIGICLIENT : Bonnes pratiques »,
+de même que du rapport d’inspection lui-même qui, à son annexe 8, fait référence à un communiqué diffusé
+par la direction de la Conformité et des Contrôles permanents (ci-après DCCP) le 7 décembre 2009, que la
+CELR a mis en place des procédures relatives au traitement des alertes ; qu’ainsi, alors même que ces
+documents seraient épars et présenteraient des carences, ils traitent notamment des éléments justificatifs de
+l’opération qui doivent être recueillis auprès du client et des informations à renseigner dans l’espace
+« commentaires » de l’outil VIGICLIENT ;
+Considérant qu’il résulte des éléments fournis par la CELR que le reproche tiré de l’absence de toute
+procédure sur ce sujet ne peut qu’être écarté ; que, si la poursuite souligne qu’il n’existe cependant pas un
+« document unique, à tout le moins un document facilement consultable et accessible aux agents, formalisé,
+cohérent, structuré et opérationnel », il ne résulte d’aucun texte ni d’aucune nécessité que seul un document
+répondant à l’ensemble de ces critères pourrait satisfaire à l’exigence d’une procédure formalisée ; que le
+dossier individuel mentionné, s’il peut faire apparaître un défaut dans la mise en œuvre d’une procédure, ne
+saurait suffire à établir son absence ; qu’ainsi, le grief 3.1, telle que formulé dans la notification de griefs,
+doit être écarté ;
+1.3.2. Sur la détection des opérations qui constituent des anomalies
+Considérant que, selon le grief 3.2, la détection des opérations qui constituent des anomalies présente de
+graves insuffisances ; que lorsqu’une opération suscite une alerte que le dossier client ne permet pas de
+traiter, dans la majeure partie des cas l’agence ne collecte pas auprès des clients les pièces justificatives sur
+l’opération ; qu’elle ne le fait que sur sollicitation du service de lutte anti-blanchiment de l’établissement
+(SLAB) ; qu’il en résulte que la très grande majorité des alertes, celles qui ne remontent pas au SLAB, est
+clôturée sans faire l’objet d’aucun recueil de justificatifs ; qu’ainsi, les opérations qui constituent des
+anomalies qui pourraient faire l’objet d’un examen renforcé ou d’une DS ne sont pas correctement
+détectées ;
+Autorité de contrôle prudentiel et de résolution 12
+
+===== Page 13 =====
+Décision de la Commission des sanctions – procédure no 2013-01
+Considérant que, dans un système générant chaque année plusieurs dizaines de milliers d’alertes sur des
+critères paramétrés largement, le seul fait qu’une opération ait donné lieu à une alerte ne suffit pas à répondre
+à l’exigence de détection des opérations inhabituelles ou suspectes ; que compte tenu de son libellé et des
+textes mentionnés, le grief 3.2 reproche à la CELR de ne pas avoir mis en place des procédures imposant aux
+agences, spontanément, et non pas seulement sur sollicitation du SLAB, de collecter les informations et, le
+cas échéant, les pièces justificatives nécessaires afin qu’à partir d’une simple alerte informatique, les
+opérations qui doivent donner lieu à un examen renforcé ou à une DS soient détectées ; que cette absence de
+procédure imposant aux agences d’analyser et de réunir les informations sur les opérations ayant fait l’objet
+d’une alerte ressort des éléments soumis à la Commission et constitue un manquement sérieux dans le
+dispositif LCB-FT de l’établissement, illustré, comme le soutient le représentant du Collège, par le dossier de
+M. A déjà mentionné ; que le grief 3.2 est donc établi ;
+1.3.3. Sur la qualité du traitement des alertes
+Considérant que, selon le grief 3.3, la qualité du traitement des alertes est très insuffisante ; que, lorsque
+le conseiller clientèle recueille des justificatifs, il ne le mentionne pas dans l’espace « commentaires » de
+l’application de gestion des alertes ; que les informations précises sur l’origine des fonds, leur destination,
+l’objet économique de l’opération ne sont donc pas renseignées dans l’application de gestion des alertes et ne
+permettent pas de justifier leur classement par l’agence ; que l’examen par l’inspection des alertes associées
+aux DS réalisées en 2010 et 2011 a fait ressortir des commentaires succincts ou insuffisamment explicites
+(« pas d’infos » « étude immo en cours » « du compte pro » comme dans les déclarations 2010-05, 2010-07
+et 2010-33), voire une absence de commentaires (déclarations 2010-04, 2010-33, 2011-01, 2011-12) ; que
+l’établissement n’est pas en mesure de justifier le classement des alertes ; que l’exemple donné au titre des
+griefs 3.1 et 3.2 illustre également l’incapacité de l’établissement à clôturer une alerte après collecte de
+pièces justificatives puisque dans sa dernière réponse au projet de rapport d’inspection, il indique qu’il est en
+attente de documents complémentaires ;
+Considérant que, par l’énoncé de ces constatations, la poursuite ne démontre pas suffisamment
+l’inadaptation des procédures visant à répondre aux exigences des textes précités ; qu’en particulier, des
+insuffisances dans le traitement des alertes ne sauraient être établies à la suite de l’examen d’un échantillon
+de dossiers individuels ayant donné lieu à l’envoi d’une DS ; qu’ainsi le grief 3.3, tel que formulé, doit être
+écarté ;
+1.3.4. Sur les moyens humains
+Considérant que, selon le grief 3.4, les moyens humains sont insuffisants pour analyser les anomalies ;
+que les moyens alloués en 2011 à la DCCP ne sont pas adaptés au nombre d’alertes générées ; que dans le
+réseau, le traitement des alertes est effectué directement par le responsable de l’agence ou par ses
+collaborateurs ; qu’une fois traitées, les alertes sont soit classées sans suite, soit transmises au SLAB pour
+investigation complémentaire ; qu’en 2011, sur les 60 476 alertes recensées, 1 142, soit un peu moins de 2 %,
+ont fait l’objet d’une transmission au SLAB ; que dans ce service, l’examen des alertes reçues est réalisé par
+un seul agent avec l’aide ponctuelle de son responsable ; qu’en outre, dans ses observations au projet de
+rapport d’inspection, l’établissement liste les très nombreuses tâches incombant au SLAB décrites dans la
+procédure interne ; que leur ampleur et leur diversité sont telles que le nombre des agents affectés à leur
+réalisation est insuffisant pour les remplir efficacement ;
+Considérant que l’adéquation au volume des tâches qui lui sont confiées des moyens, notamment
+humains, affectés au traitement des alertes suscitées par son dispositif de détection des opérations atypiques
+est une condition essentielle du respect par un établissement de crédit de son obligation de vigilance ; que
+l’argument selon lequel des faits de même nature ont pu donner lieu, pour d’autres établissements contrôlés,
+à une simple lettre de suite est inopérant, chaque contrôle présentant ses caractéristiques propres ; qu’il
+ressort du contrôle mené au sein de la CELR que le SLAB disposait de deux collaborateurs dont un seul
+participait au traitement des alertes avec l’assistance très ponctuelle de son responsable ; que, contrairement
+Autorité de contrôle prudentiel et de résolution 13
+
+===== Page 14 =====
+Décision de la Commission des sanctions – procédure no 2013-01
+à ce que soutient la CELR, le caractère suffisant des effectifs consacrés au traitement des alertes remontées
+du réseau ne peut se déduire de l’absence d’encours d’alertes non traitées dès lors que la vérification a
+montré, dans certains cas, l’absence d’analyse véritable des opérations concernées (au sujet de retraits
+d’espèces : « motif inconnu mais tout est possible, pas de doute » ou « la cliente a retiré cette somme en
+liquide pour une destination inconnue car le motif n’est pas crédible. Rien par ailleurs, opé (sic) très
+atypique mais provenance des fonds OK – à revoir au besoin ») ; qu’ainsi, s’il est loisible à un établissement
+de mettre en place un dispositif conduisant à la détection d’un très grand nombre d’opérations atypiques, il
+lui revient ensuite de mettre en place les moyens permettant une véritable analyse des opérations détectées ;
+que le grief est constitué en raison de l’absence de contrôle des motifs de classement des alertes par les
+agences qui n’en ont fait remonter que 2 %, alors que ce contrôle figure parmi les missions du SLAB ; qu’en
+revanche, les effectifs affectés du SLAB, en charge du contrôle de second niveau, étaient suffisants pour
+examiner les alertes transmises ; que, dans ce périmètre réduit, le grief 3.4 est établi ;
+2. Sur le respect de l’obligation de déclarer à Tracfin certaines sommes et
+opérations suspectes et, à tout le moins, d’effectuer un examen renforcé
+Considérant que, selon le I de l’article L. 561-15 du COMOFI, les établissements assujettis doivent
+déclarer à Tracfin les sommes inscrites dans leurs livres ou les opérations portant sur des sommes dont elles
+savent, soupçonnent ou ont de bonnes raisons de soupçonner qu’elles proviennent d’une infraction passible
+d’une peine privative de liberté supérieure à un an ou participent au financement du terrorisme ; que par
+dérogation au I, les organismes assujettis doivent déclarer à Tracfin les sommes ou opérations dont ils
+savent, soupçonnent ou ont de bonnes raisons de soupçonner qu’elles proviennent d’une fraude fiscale
+lorsqu’il y a présence d’au moins un critère défini par décret (II de l’article L. 561-15 susmentionné) ; que
+parmi ces critères, définis par le décret n° 2009-874 du 16 juillet 2009 (article D. 561-32-1 du COMOFI),
+sont visés : « (…) / 5o La progression forte et inexpliquée, sur une courte période, des sommes créditées sur
+les comptes nouvellement ouverts ou jusque-là peu actifs ou inactifs, liée le cas échéant à une augmentation
+importante du nombre et du volume des opérations ou au recours à des sociétés en sommeil ou peu actives
+dans lesquelles ont pu intervenir des changements statutaires récents ; (…) / 8o Le retrait fréquent d’espèces
+d’un compte professionnel ou leur dépôt sur un tel compte non justifié par le niveau ou la nature de l’activité
+économique ; (…) / 15o Le dépôt par un particulier de fonds sans rapport avec son activité ou sa situation
+patrimoniale connues (…) » ; que le II de l’article L. 561-10-2 de ce code impose aux organismes assujettis
+d’effectuer un examen renforcé de toute opération particulièrement complexe ou d’un montant
+inhabituellement élevé ou ne paraissant pas avoir de justification économique ou d’objet licite et, dans ce
+cas, de se renseigner auprès du client sur l’origine des fonds et la destination de ces sommes ainsi que sur
+l’objet de l’opération et l’identité de la personne qui en bénéficie ;
+Considérant que si la CELR a soutenu à divers stades de la présente procédure que les paiements en
+espèces inférieurs à 3 000 euros sont licites et que les paiements supérieurs à ce montant ne constituent pas
+un élément de fraude fiscale mais une simple infraction fiscale punie d’une amende, il ne lui est pas
+reproché, au sujet des retraits d’espèces effectués par plusieurs de ses clients (griefs 4, 6, 7, 11), de ne pas
+avoir informé Tracfin de l’existence possible de l’infraction fiscale résultant du non-respect des dispositions
+des articles L. 112-6 et D. 112-3 du COMOFI, mais de ne pas avoir adressé à ce service de déclaration au
+sujet d’opérations en espèces, alors qu’au regard des informations qu’elle détenait sur ces clients, elle ne
+pouvait exclure qu’elles portaient sur des sommes provenant d’une infraction punie d’au moins un an
+d’emprisonnement, susceptibles notamment d’être qualifiées de fraude fiscale ;
+Autorité de contrôle prudentiel et de résolution 14
+
+===== Page 15 =====
+Décision de la Commission des sanctions – procédure no 2013-01
+2.1. Sur 9 dossiers qui n’ont pas fait l’objet de DS ou, à tout le moins, d’examen
+renforcé
+2.1.1. Les opérations sur les comptes d’enfants mineurs
+2.1.1.1. Les opérations enregistrées sur les comptes de B1 et B2
+Considérant que, selon le grief 4, les livrets A ouverts au nom de deux mineurs, B1 et B2, ont
+enregistré plusieurs versements et retraits d’espèces ; qu’ainsi, sur le premier, des versements de
+55 100 euros et des retraits de 46 200 euros ont été enregistrés, dont 41 700 euros pour la seule période du
+1er juillet 2010 au 30 juin 2011 ; que, d’avril 2010 à décembre 2011, le second a enregistré des versements
+d’un montant de 12 000 euros ainsi que des retraits d’un montant de 17 000 euros dont 16 100 euros pour la
+seule période du 1er juillet 2010 au 30 juin 2011 ; que certaines de ces opérations sont réalisées à la même
+date ou à des dates proches de celles réalisées sur le premier livret ; que les alertes concernant les deux
+dossiers ont été clôturées par la CELR (« clos RAS AG ») alors que les justifications retenues n’apparaissent
+pas cohérentes avec le fonctionnement attendu des livrets (« origine salaire » pour un versement d’espèces
+de 10 000 euros, « vente, achat voiture ») ;
+Considérant que l’interdiction bancaire de Mme B, ne permet pas d’expliquer l’origine des espèces
+déposées sur les livrets de ses enfants ; que le fait que des montants équivalents aient pu être retirés et
+déposés sur ces comptes ne suffit pas à exclure tout risque d’enrichissement personnel pouvant résulter de la
+perception du produit d’une infraction, faute de disposer d’explications quant à l’origine des versements et
+au motif de ces mouvements ; que cette interdiction ne peut davantage, en raison de l’existence d’un
+dispositif de droit au compte dont l’intéressée aurait pu bénéficier, suffire à expliquer l’utilisation de comptes
+ouverts au nom de mineurs pour effectuer un nombre élevé d’opérations en liquide ; que les explications
+quant aux mouvements enregistrés sur le compte de l’enfant B2 n’ont pas été documentées ; qu’au sujet de
+ces opérations, la CELR a annoncé l’envoi d’une DS ; que le grief, qui porte notamment sur les mouvements
+d’espèces enregistrés sur le compte de B1 entre janvier 2009 et décembre 2011 et auquel est annexé un
+relevé de compte de l’enfant depuis le 12 janvier 2010 comprend nécessairement la nécessité de justifier le
+solde de ce compte à la même date ; que le grief 4 est établi ;
+2.1.1.2. Les opérations enregistrées sur les comptes de C1 et C2
+Considérant que, selon le grief 5, deux livrets A ont été ouverts, les 12 mars 2009 et 17 juin 1997,
+respectivement au nom de deux mineurs, C1 et C2, dont le père est chirurgien-dentiste ; que le premier a
+enregistré, entre sa date d’ouverture et décembre 2011, des remises de chèques d’un montant de
+102 000 euros et 80 retraits d’espèces d’un montant de 62 200 euros, dont 58 000 euros pour la seule période
+du 1er juillet 2010 au 30 juin 2011 ; que le livret du second a enregistré, entre janvier 2009 et décembre 2011,
+des remises de chèques d’un montant de 123 000 euros et des retraits espèces d’un montant de
+121 000 euros, dont 58 000 euros pour la seule période du 1er juillet 2010 au 30 juin 2011 ; que certaines
+opérations sont réalisées à la même date, ou à des dates proches, de celles réalisées sur le livret de son frère ;
+qu’en janvier 2012, la CELR indiquait que ces comptes présentaient un fonctionnement « très atypique qui
+dure depuis longtemps » ; que l’origine des fonds est le compte professionnel ou personnel du père ouvert
+[auprès de l’établissement de crédit Z] ; que les alertes générées par ces opérations sont, depuis juin 2011,
+« clos(es) RAS AG », « trésorerie parents, versement suivi de retrait » ; que si la CELR a indiqué à
+l’inspection avoir recueilli des explications et éléments complémentaires, ceux-ci n’ont pas été communiqués
+à la mission de contrôle ;
+Considérant que c’est par erreur que la notification de griefs mentionne de nombreux dépôts d’espèces
+alors que ces livrets n’en ont pas enregistré ; que les nombreuses remises de chèques sur les livrets de ces
+deux mineurs, pour des montants de plusieurs milliers d’euros, suivis de retraits pour des montants cumulés
+analogues, auraient dû conduire l’établissement, à adresser, une DS à Tracfin ; que la mention selon laquelle
+« même chez Tracfin, ils ne savent pas quoi penser d’un cas pareil dans la mesure où l’argent provient d’un
+compte parental, travaux réguliers au black, paiements réguliers en cash (prothèses) » ne peut exonérer la
+CELR de sa faute (i) en l’absence de document confirmant que Tracfin estimait inutile une DS dans ce cas ;
+Autorité de contrôle prudentiel et de résolution 15
+
+===== Page 16 =====
+Décision de la Commission des sanctions – procédure no 2013-01
+(ii) alors que les chèques remis provenaient soit du compte personnel soit du compte professionnel du père,
+les mouvements d’un compte professionnel vers le compte d’un mineur étant nécessairement suspects ; (iii)
+que les retraits sur un compte peuvent, indépendamment de l’origine des fonds mouvementés, donner lieu à
+DS ; (iv) que le fait que les fonds proviennent d’un compte ouvert dans les livres d’un autre établissement de
+crédit français ne suffit pas à exonérer la CELR de son obligation déclarative, alors qu’elle seule disposait
+d’une vision de l’ensemble des mouvements enregistrés sur ces comptes ; (v) que, si la CELR soutient que le
+8ème critère de l’article D. 561-32-1 issu du décret ci-dessus mentionné ne trouvait pas à s’appliquer, alors
+que les fonds provenaient également pour partie d’un compte professionnel, elle ne pouvait exclure que ces
+opérations portent sur le produit d’une infraction punie d’une peine d’emprisonnement supérieure à 1 an ;
+que, dans le périmètre réduit par l’abandon du reproche relatif aux dépôts d’espèces, le grief est établi ;
+2.1.1.3. Les opérations enregistrées sur le compte de D
+Considérant que, selon le grief 6, D, mineur, est titulaire d’un livret A ouvert le 20 septembre 2006 ; que
+ce livret a enregistré, entre janvier 2009 et décembre 2011, des remises de chèques d’un montant de
+26 400 euros, dont de nombreux à l’ordre du père de l’enfant et des retraits d’espèces de même montant, dont
+16 500 euros pour la seule période du 1er juillet 2010 au 30 juin 2011 ;
+Considérant que le compte de ce mineur a été notamment utilisé pour remettre des chèques établis à
+l’ordre de son père, qui serait artisan plâtrier depuis janvier 2010 ; que le fait que certaines remises
+proviennent d’un compte ouvert au nom de celui-ci, dans les livres d’un autre établissement de crédit
+français, ne dispensait pas la CELR, qui seule avait une vision d’ensemble du fonctionnement du compte de
+l’enfant, de l’envoi d’une DS ; qu’il ne peut résulter de la reconnaissance au stade du contrôle de la nécessité
+d’adresser une DS, d’atteinte irrémédiable aux droits de la défense, alors que le grief est établi par les pièces
+du dossier de procédure qui conduisent à constater un écart entre le fonctionnement de ce compte et celui
+attendu d’un compte de mineur ; qu’après l’ouverture de la présente procédure disciplinaire, la CELR a pu
+apporter toute explication qu’elle estimait utile ; que la CELR ne disposait d’aucun élément lui permettant
+d’exclure que les sommes remises sur ce compte proviennent d’une infraction punie d’une peine
+d’emprisonnement supérieure à un an ; que le grief est établi ;
+2.1.2. Les autres opérations
+2.1.2.1. Les opérations de M. E
+Considérant que, selon le grief 7, M. E, entrepreneur individuel dont l’activité est la maçonnerie, est
+titulaire d’un compte courant professionnel ouvert le 3 février 2010 ; que ce compte a enregistré, entre le
+1er juillet 2010 et le 30 juin 2011, des chèques remis et émis d’un montant total de 532 100 euros, ainsi que
+des retraits d’espèces d’un montant total de 67 200 euros ; que ces opérations n’apparaissent pas
+correspondre au chiffre d’affaires connu par la CELR, soit 168 600 euros en 2010 ; que les alertes générées
+suite à des retraits espèces de montant élevé sont « clos RAS AG » avec comme commentaires « origine
+= client pro vers chèques, destination = retraits espèces, objet = achat de matériaux, client qui règle souvent
+en espèces ses fournitures » (alerte n° 151400792) ou « entrepreneur maçonnerie doit régler en espèces les
+achats de matériaux faits en Espagne » (alerte n° 151256303) ;
+Considérant qu’il convient, comme le soutient la CELR, afin d’apprécier les retraits d’espèces effectués
+sur ce compte, de distinguer les chèques remis (205 023,76 euros en 2010 et 440 146,24 euros en 2011) et
+émis (200 569,49 euros en 2010 et 506 686,83 euros en 2011), montants qui paraissent proches du chiffre
+d’affaires déclaré (168 800 euros en 2010) ; que cependant, les retraits d’espèces effectués ne peuvent être
+justifiés par l’acquisition de fournitures en Espagne dès lors qu’il était possible d’y utiliser un autre moyen
+de paiement et qu’en tout état de cause, il ne ressort pas du dossier que les explications fournies par le client
+sur la cause de ces acquisitions aient été vérifiées ; que les montants retirés en espèces, rapportés aux
+encaissements ci-dessus rappelés, soit 35 050 euros en 2010 et 59 419 euros en 2011 auraient dû conduire
+l’établissement à adresser une DS, faute de s’être vue justifié le motif de retraits dont certains portaient sur
+plusieurs milliers d’euros, ce en application du critère 8 de l’article D. 561-32-1 du COMOFI ; que,
+Autorité de contrôle prudentiel et de résolution 16
+
+===== Page 17 =====
+Décision de la Commission des sanctions – procédure no 2013-01
+contrairement à ce que soutient la CELR, des paiements en espèces sont susceptibles de révéler une fraude
+fiscale ; que le grief est établi ;
+2.1.2.2. Les opérations de M. F
+Considérant que, selon le grief 8, M. F, entrepreneur individuel en maçonnerie, dispose d’un compte
+courant professionnel ouvert le 6 février 2008 ; que ce compte a enregistré, entre le 1er juillet 2010 et le
+30 juin 2011, de nombreux retraits d’espèces, pour un montant total de 93 400 euros ; que le montant de ces
+retraits est important et n’est pas cohérent avec le fonctionnement attendu du compte ; que le compte a
+suscité un certain nombre d’alertes mais que le dossier ne comportait aucune pièce justificative concernant
+ces retraits ;
+Considérant que les considérations générales de la CELR au sujet du caractère habituel de retraits
+d’espèces de tels montants ne suffisent pas à établir que ceux enregistrés sur le compte de ce client sont
+licites ; qu’ils ne sont justifiés ni par le niveau ni par la nature de l’activité du client ; que la CELR n’a
+produit aucune pièce justificative relative aux vérifications accomplies qui l’ont conduite à n’adresser une
+DS à Tracfin que le 21 septembre 2012 ; qu’en conséquence, la CELR n’était pas fondée à attendre de
+disposer des comptes de l’exercice 2011 pour adresser une telle déclaration ; que le grief est établi ;
+2.1.2.3. Les opérations de M. G
+Considérant que, selon le grief 9, M. G, mécanicien, est titulaire d’un compte de dépôt, ouvert le 9 avril
+2010 ; qu’il ressort du rapport que ce compte a enregistré, entre le 1er juillet 2010 et le 30 juin 2011, des
+chèques remis et émis d’un montant total de 51 200 euros ainsi que des retraits d’espèces de 28 000 euros ;
+que l’examen des relevés de compte du client, annexés à la lettre de griefs, montre que les opérations de
+remises de chèques sont suivies de retraits d’espèces de même montant et que ce client procède, dans
+certains cas le même jour, à des remises de chèques dont il est à la fois bénéficiaire et tireur ; que ces
+opérations ne correspondent pas au fonctionnement attendu d’un tel compte et ne sont pas cohérentes avec le
+revenu affiché de ce client, d’environ 1 400 euros net, selon les documents de la CELR versés au dossier ;
+Considérant que l’incohérence entre les importantes remises de chèques effectuées sur le compte de ce
+client, d’une part, et la profession de celui-ci, d’autre part, aurait dû conduire la CELR à adresser une DS à
+Tracfin ; qu’elle ne disposait d’aucune explication relative à la nécessité, pour un salarié ayant ce niveau de
+revenus, de disposer de comptes dans les livres de 3 établissements au moins ; qu’en particulier, la CELR,
+qui s’est contentée d’explications orales de son client, ne disposait d’aucun justificatif quant aux dépôts de
+chèques effectués par l’intéressé ; que l’examen de ces chèques, de même que des mouvements entre les
+différents comptes dont il est titulaire, notamment à la suite d’un « virement familial » de 15 000 euros,
+révèlent qu’ils étaient sans rapport avec son activité professionnelle ou sa situation patrimoniale connue ; que
+le grief est établi ;
+2.1.2.4. Les opérations de l’entreprise H
+Considérant que, selon le grief 10, ce client, artisan intervenant pour des chantiers de construction de
+maisons individuelles, dispose d’un compte courant professionnel, ouvert le 7 septembre 2010 ; que ce
+compte a enregistré, entre sa date d’ouverture et le 30 juin 2011, des chèques remis et émis d’un montant
+total de 336 400 euros ainsi que des retraits d’espèces d’un montant de 68 700 euros ; que ces opérations sont
+très largement supérieures au chiffre d’affaires de l’entreprise connu par la CELR, qui s’élève à 60 000 euros
+pour 2010, et ne correspondent pas au fonctionnement attendu d’un tel compte ; que dans un premier temps,
+la CELR a justifiées les opérations par chèques par l’activité de l’entreprise et les retraits d’espèces par le
+versement d’acomptes aux fournisseurs et salariés ; que le compte de résultat de l’exercice 2010 du client fait
+apparaître que les achats de marchandises s’élèvent à 12 800 euros et les rémunérations de personnel à
+18 500 euros, soit un total pour l’année de 31 300 euros ; que les retraits d’espèces enregistrés sur les
+comptes qui auraient été versés aux fournisseurs et aux salariés s’élèvent à 68 700 euros, soit plus du double
+du total des deux postes fournisseurs et salariés ;
+Autorité de contrôle prudentiel et de résolution 17
+
+===== Page 18 =====
+Décision de la Commission des sanctions – procédure no 2013-01
+Considérant que si la CELR soutient que la présentation de ces opérations est trompeuse car à cheval sur
+deux exercices, leur total par année demeure incohérent avec le chiffre d’affaires déclaré de ce client, les
+retraits d’espèces enregistrés sur ce compte s’étant élevés à 22 000 euros en 2010 et 54 000 euros en 2011 ;
+que ces retraits faisaient fréquemment suite à des remises de chèques de montant élevé au regard de la taille
+de l’entreprise ; que la CELR ne produit pas de justificatifs du paiement d’acomptes en espèces ; que
+certaines dépenses enregistrées pouvaient correspondre à l’utilisation de ce compte professionnel à des fins
+personnelles ; qu’au demeurant, la nécessité alléguée de disposer des comptes de l’exercice 2011 ne saurait
+justifier que la CELR ait attendu le 25 octobre 2012 pour adresser une DS à Tracfin ; que, dans cette DS, la
+CELR indiquait que si Mme I née H était « officiellement artisan maçon », il était « peu probable » qu’elle
+exerce elle-même cette profession, son installation « faisant apparemment suite à la cessation d’activité d’un
+membre de sa famille » ; que le grief est établi ;
+2.1.2.5. Les opérations de l’entreprise J
+Considérant que, selon le grief 11, le compte courant professionnel de ce client, dont l’activité est la
+maçonnerie, a enregistré pour la période du 1er juillet 2010 au 30 juin 2011 des remises de chèques pour un
+montant total de 304 300 euros, dont certains de montant rond, ce qui est atypique pour cette profession, et
+des chèques émis pour un montant total de 174 600 euros ; que ce compte a également enregistré de
+nombreux retraits d’espèces, d’un montant total de 51 400 euros ;
+Considérant que les opérations sur chèques effectuées par le client peuvent paraître cohérentes avec
+l’activité déclarée ; que cependant, si la CELR a fourni un tableau de synthèse relatif aux opérations sur les
+comptes personnel et professionnel de l’intéressé, ce document ne permet pas, à lui seul, de justifier par
+l’achat d’un véhicule le retrait de 30 000 euros effectué par le client en janvier 2010 ; que, malgré le montant
+des retraits d’espèces non documentés, ce compte n’a été placé en vigilance renforcée qu’après la fin de la
+mission de contrôle ; que, dans le périmètre réduit aux retraits d’espèces, le grief est établi ;
+2.2. Sur un dossier qui n’a pas fait l’objet d’un examen renforcé
+Considérant que, selon le grief 12, Mme K, ancienne employée, est titulaire d’un compte de dépôt ouvert
+le 30 janvier 2008 ; que cette cliente serait potentiellement victime d’un abus de faiblesse ; que son compte a
+enregistré de nombreux retraits d’espèces, pour un montant total de 48 500 euros entre avril et août 2011,
+dont un retrait de 30 000 euros le 26 août 2011 qui avait été précédé, le 16 août 2011, d’un virement
+créditeur de même montant ; que ces opérations ne correspondent pas au fonctionnement attendu d’un tel
+compte ; que l’alerte concernant ce compte en date du 27 août 2011 a été close par la CELR avec le
+commentaire suivant : « Si la cliente est sous influence, cela ne relève pas du SLAB. Dans la mesure où il ne
+reste quasiment plus de fonds, il ne devrait plus y avoir d’alerte » ; que la CELR, dans sa réponse du 29 mars
+2012, indique que « les éléments de collecte et d’explications permettent à ce jour de clôturer le dossier »
+sans pouvoir fournir ces éléments à l’inspection ; que la CELR n’avait pas constitué, à la date de fin de
+mission, de dossier d’examen renforcé comportant les éléments de renseignements recueillis auprès du client
+sur l’origine et la destination des sommes ainsi que sur l’objet de l’opération et l’identité de la personne qui
+en bénéficie ;
+Considérant toutefois que les opérations enregistrées sur le compte de la cliente, caractérisé par de
+nombreux retraits d’espèces, peuvent correspondre à l’analyse de l’établissement quant à un éventuel abus de
+faiblesse ; que la transmission au Parquet, le 2 juin 2009, d’un signalement relatif à des opérations
+enregistrées sur ce compte, dans un courrier dont l’objet mentionné était « signalement personne
+vulnérable », est cohérente avec cette analyse ; que la CELR a produit des pièces relatives au détail du
+virement créditeur intervenu le 26 août 2011, d’où il ressort que ces fonds provenaient d’un compte [ouvert
+auprès de l’établissement de crédit Y] dont la cliente était titulaire ; que, dès lors, les mouvements enregistrés
+sur ce compte ne paraissent pas susceptibles d’éveiller des soupçons sur l’origine illicite des sommes en
+question ; que le grief doit en conséquence être écarté ;
+Autorité de contrôle prudentiel et de résolution 18
+
+===== Page 19 =====
+Décision de la Commission des sanctions – procédure no 2013-01
+3. Sur des DS tardives
+Considérant que l’article L. 561-15 du COMOFI impose aux établissements assujettis de déclarer à
+Tracfin, sans délai, I) les sommes inscrites dans leurs livres ou les opérations portant sur des sommes dont
+elles savent, soupçonnent ou ont de bonnes raisons de soupçonner qu’elles proviennent d’une infraction
+passible d’une peine privative de liberté supérieure à un an ou participent au financement du terrorisme, et II)
+les sommes ou opérations dont ils savent, soupçonnent ou ont de bonnes raisons de soupçonner qu’elles
+proviennent d’une fraude fiscale lorsqu’il y a présence d’au moins un critère défini par l’article D. 561-32-1
+du même code ;
+Considérant que, dans ses observations générales, la CELR indique qu’à la suite des éléments justificatifs
+qu’elle avait fournis à l’inspection, celle-ci ne semblait plus considérer ce point comme un manquement
+significatif ; que cependant, ainsi que cela a été rappelé, les observations d’un rapport d’inspection ne lient
+pas le Collège ; que si l’annexe 11 au rapport de contrôle lui paraît trompeuse car elle ne mentionne que les
+alertes anciennes et non celles qui sont contemporaines des DS, la CELR a pu, devant la Commission,
+compléter autant que de besoin l’information figurant dans le rapport d’inspection ; que si elle fait valoir que
+la période au cours de laquelle lui sont reprochées des DS tardives correspondait au nécessaire « rodage »
+des nouvelles dispositions du COMOFI et du règlement n° 97-02 résultant de la transposition de la
+3e directive, le délai prévu par l’article 19 de l’ordonnance n° 2009-104 du 30 janvier 2009 pour la mise en
+œuvre des nouvelles obligations ne concernait que les obligations de vigilance et non les obligations
+déclaratives, sous réserve de la situation particulière du soupçon de blanchiment de fraude fiscale, soumis à
+un texte particulier en définissant les critères, publié au Journal officiel du 18 juillet 2009 ; que la
+Commission a précédemment estimé que « tout retard dans l’envoi à Tracfin de ces DS par rapport à la date
+à laquelle l’opération suspecte a été réalisée doit dès lors être justifié par l’énoncé, dûment documenté, des
+diligences accomplies pour passer du doute au soupçon » (décision Banque Populaire des Alpes du 29 juin
+2012, n° 2011-01) ; qu’il ne peut qu’être tenu compte, dans chaque dossier individuel, des informations
+communiquées par la CELR qui pourraient permettre de justifier le retard reproché ;
+3.1. Les opérations de M. L
+Considérant que, selon le grief 13, la DS relative aux opérations de M. L, adressée plus d’un an après le
+début des opérations atypiques enregistrées sur son compte, était tardive ;
+Considérant qu’entre le 13 février 2009 et le 10 février 2011, le compte professionnel de ce client,
+entrepreneur en bâtiment, a enregistré 28 retraits d’espèces pour un montant total de 105 100 euros ; que dès
+lors, la DS adressée le 8 mars 2011 est tardive par rapport à la réalisation des premières opérations atypiques
+début 2009 ; que, cependant, si la CELR a soupçonné des faits de fraude fiscale, elle était tenue, à compter
+de l’entrée en vigueur du décret ci-dessus mentionné, de rechercher si les opérations correspondaient à un
+des critères définis par le décret précisant les modalités d’application du II de l’article L. 561-15 du
+COMOFI ; que le champ du grief doit donc être limité aux opérations qui se sont poursuivies à compter des
+premières opérations qui ont suivi l’entrée en vigueur de ce texte ; qu’en l’absence de justificatifs des retraits
+d’espèces de montant important enregistrés à compter de cette date, soit 2 600 euros le 20 août 2009,
+4 000 euros le 18 novembre 2009 et 2 000 et 2 300 euros le 16 décembre 2009, elle aurait dû adresser une
+DS à Tracfin ; que, dans le périmètre réduit à ces mouvements d’espèces, le grief est établi ;
+3.2. Les opérations de Mme M
+Considérant que, selon le grief 14, la DS relative aux opérations de Mme M, adressée plus d’un an après le
+début des opérations atypiques enregistrées sur son compte, était tardive ;
+Considérant que la CELR a indiqué avoir eu, à son sujet, un soupçon de blanchiment de fraude fiscale, le
+compte ayant été crédité, sur 24 mois, de versements pour un montant total de 150 000 euros par chèques et
+67 000 euros euros en espèces ; que si la profession du conjoint, qui exerce son activité dans le commerce de
+Autorité de contrôle prudentiel et de résolution 19
+
+===== Page 20 =====
+Décision de la Commission des sanctions – procédure no 2013-01
+véhicules automobiles, a pu conduire la CELR à soupçonner des faits de fraude fiscale, elle était tenue, à
+compter de la publication du décret du 16 juillet 2009 et sans attendre que ces versements atteignent un tel
+montant, de rechercher si ces opérations correspondaient à l’un des critères définis par cet article ; qu’en
+l’espèce, de tels versements entraient dans les prévisions du 15° de l’article 2 de ce décret qui définit comme
+critère « le dépôt particulier de fonds sans rapport avec son activité ou sa situation patrimoniale connue » ;
+que la DS relative à ces opérations n’a été envoyée que le 10 février 2011 ; que les versements, enregistrés en
+2009 après la publication de ce décret auraient dû être déclarés ; que, dans ce périmètre réduit, le grief est
+établi ;
+3.3. Les opérations de Mme N
+Considérant que, selon le grief 15, la DS relative aux opérations de Mme N, adressée plus d’un an après le
+début des opérations atypiques enregistrées sur son compte, était tardive ; que la cliente, veuve retraitée
+percevant de faibles revenus, a encaissé des chèques pour un montant total supérieur à 55 000 euros entre le
+1er juillet 2010 et le 5 septembre 2011 ;
+Considérant que la CELR, qui a indiqué que ces encaissements pourraient être liés à l’activité du gendre
+de la cliente, a soupçonné une fraude sociale et fiscale sans pour autant adresser de déclaration à Tracfin
+avant le 8 septembre 2011 ; que, par rapport à la date d’encaissement des premiers chèques et aux
+observations du SLAB indiquant que les flux atypiques sur le compte avaient pris de l’ampleur à compter de
+juillet 2010, cette DS, adressée en septembre 2011, est tardive ; que le grief est établi ;
+3.4. Les opérations de M. O
+Considérant que, selon le grief 16, la DS relative aux opérations de M. O, adressée plus d’un an après le
+début des opérations atypiques enregistrées sur son compte, était tardive ;
+Considérant que le compte de ce client, retraité, a enregistré des dépôts d’espèces de 20 000 euros en
+2009 et en 2010 alors que le client perçoit une retraite mensuelle de 900 euros ; que la poursuite a précisé le
+détail des versements effectués en 2010 ; que la CELR a soupçonné l’exercice d’une activité non déclarée,
+donc d’une fraude fiscale mais aussi sociale ; qu’en conséquence, la DS, adressée le 9 février 2011, est
+tardive ; que, limité aux versements effectués en 2010, le grief est établi ;
+3.5. Les opérations de M. P
+Considérant que, selon le grief 17, la DS relative aux opérations de M. P, adressée plus d’un an après le
+début des opérations atypiques enregistrées sur son compte, était tardive ;
+Considérant que le compte personnel de ce client, commerçant, a enregistré 50 versements d’espèces
+entre le 1er janvier et le 10 mai 2011, pour un montant total de 29 420 euros ; que la poursuite a adressé un
+relevé de compte permettant d’isoler les opérations postérieures à l’entrée en vigueur du décret n° 2009-874 ;
+que, dès lors que le SLAB avait indiqué qu’il soupçonnait des faits de blanchiment de fraude fiscale, de tels
+versements auraient dû conduire la CELR à adresser une DS avant Tracfin sans attendre le 12 mai 2011 ; que
+le grief est établi ;
+4. Sur le dispositif de contrôle permanent en matière de LCB-FT
+Considérant que le 5° du I de l’article R. 561-38 du COMOFI impose aux établissements assujettis de
+mettre en œuvre des procédures de contrôle permanent des risques de BC-FT ;
+Autorité de contrôle prudentiel et de résolution 20
+
+===== Page 21 =====
+Décision de la Commission des sanctions – procédure no 2013-01
+4.1. Sur la non-réalisation par trois agences des contrôles au titre du contrôle
+permanent prévu par l’outil PILCOP
+Considérant que, selon le grief 18, il ressort de l’examen par l’inspection des dossiers de la clientèle que,
+sur les 31 agences sélectionnées, 3 agences (Barjac, Besseges et Port-la-Nouvelle) n’avaient pas réalisé les
+contrôles au titre du contrôle permanent prévus par l’outil PILCOP, qui précise, notamment, les contrôles
+incombant aux agences ;
+Considérant que l’outil groupe PILCOP de pilotage des contrôles permanents liste les contrôles internes
+incombant aux unités opérationnelles et permet un suivi de leur réalisation sur une base déclarative ; que ces
+contrôles portent sur des échantillons dont la taille est proportionnelle à l’agence mais dont la composition
+est laissée à l’initiative du responsable d’agence ; que la CELR, qui ne conteste pas les faits, précise que les
+contrôles étaient à nouveau mis en œuvre au quatrième trimestre 2011 à Besseges et Port-la-Nouvelle et au
+premier trimestre 2012 à Barjac ; que le choix par l’inspection de 31 agences dont la note générale était
+péjorative dans le dernier rapport d’audit est d’autant plus pertinent qu’il appartenait à la CELR de veiller,
+pour ce qui concerne ces agences, à rehausser la qualité des contrôles opérés ; que le manquement est
+indépendant des éventuelles conséquences de l’absence de ces contrôles ; que les éléments avancés (maladie
+de deux responsables), s’ils permettent d’expliquer la carence, ne pouvaient conduire à exonérer la CELR de
+ses obligations en matière de contrôle de premier niveau ; que le grief ne porte pas sur l’existence d’une
+procédure, qui n’est pas contestée, mais sur sa mise en œuvre, qui a été défaillante ; que si la CELR soutient
+que les agences concernées ont fait l’objet d’un suivi spécifique, elle mentionne, à l’appui de ses
+affirmations, des pièces qui concernent d’autres agences ; que le grief, relatif à une défaillance du contrôle
+permanent de premier niveau, est établi, même s’il porte, dans deux de ces agences, sur une période de temps
+très limitée ;
+4.2. Sur l’absence de constitution par les responsables d’agences, conformément à la
+procédure, de dossier justifiant le résultat des contrôles qu’ils réalisent au titre du
+contrôle permanent de premier niveau
+Considérant que, selon le grief 19, alors que la CELR dispose d’une procédure relative au contrôle
+permanent des risques de BC-FT sous la forme du communiqué diffusé le 7 décembre 2009 par la DCCP, les
+responsables des agences ne constituent pas de dossier justifiant le résultat des contrôles qu’ils réalisent au
+titre du contrôle permanent de premier niveau ; que par conséquent, s’il existe bien une procédure, sa mise en
+œuvre n’est pas établie ;
+Considérant qu’est reproché par ce grief le non-respect d’une procédure interne qui prévoit « la nécessité
+d’archiver la preuve de la réalisation du contrôle des alertes (référence dossier) pour chaque thème, dans un
+classeur dédié » ; que cette procédure n’impose pas que les pièces examinées par les responsables soient
+elles-mêmes archivées ; que si la poursuite a indiqué que la consultation des pièces examinées pouvait seule
+permettre de vérifier la réalité et l’étendue du contrôle effectué par les chefs d’agence, le rapport d’inspection
+ne mentionne pas que l’audit de ces contrôles était impossible, mais seulement qu’il ne pouvait être conduit
+qu’à travers la consultation des données dans les outils (GED, VIGICLIENT…) ; que le grief doit être
+écarté ;
+4.3. Sur la conduite des contrôles par les responsables d’agence
+Considérant que, selon le grief 20, l’outil groupe de contrôles permanents en matière LCB-FT, PILCOP,
+précise, notamment, les contrôles incombant aux agences, et qu’il est censé permettre un suivi de leur
+réalisation ; que les contrôles sont conduits sur des échantillons dont le volume est proportionnel à la taille de
+l’agence mais dont la composition est laissée à l’initiative du responsable de l’agence ; qu’il n’est pas
+demandé à celui-ci d’adresser au SLAB les pièces justificatives des résultats des contrôles ; que ledit
+Autorité de contrôle prudentiel et de résolution 21
+
+===== Page 22 =====
+Décision de la Commission des sanctions – procédure no 2013-01
+responsable transmet au SLAB une déclaration sur les contrôles dont il a la charge, sans fournir de document
+justifiant qu’il a effectivement réalisé les contrôles, ni leurs résultats ; qu’aucun dispositif de contrôle
+permanent n’est en place pour contrôler le traitement des alertes par le responsable d’agence lorsqu’il les
+traite lui-même ; qu’il en résulte que l’établissement n’est pas en mesure de s’assurer que le contrôle
+permanent de deuxième niveau est mis en œuvre ;
+Considérant que, si la rédaction du grief manque de précision, les explications apportées par la poursuite
+au cours de l’instruction ont permis à la CELR de comprendre le reproche qui lui est adressé et, en
+conséquence, de présenter utilement sa défense ; qu’il lui est reproché qu’en conséquence de la procédure
+PILCOP, le contrôle permanent de second niveau est déclaratif et opéré à partir d’échantillons dont le
+volume est proportionnel à la taille de l’agence mais qui sont constitués à l’initiative du chef d’agence ; que
+le fait qu’il s’agisse d’une procédure groupe ne suffit pas à exonérer la CELR de sa responsabilité dans cette
+défaillance ; qu’en effet, la composition de l’échantillon qui en résulte ne permet pas de mettre en œuvre un
+contrôle de second niveau efficace puisqu’elle permet à celui-ci d’introduire un biais dans cette
+composition ; qu’en outre, la CELR ne répond pas efficacement à la partie du grief sur le contrôle de second
+niveau du traitement des alertes lorsque c’est le responsable d’agence qui traite lui-même les alertes ; que le
+grief est établi ;
+4.4. Sur le contrôle de second niveau du traitement des alertes
+Considérant que le a) de l’article 6 du règlement n° 97-02 dispose que le contrôle permanent de la
+conformité, de la sécurité et de la validation des opérations réalisées et du respect des autres diligences liées
+aux missions de la filière « risques » est assuré, avec un ensemble de moyens adéquats, par (i) certains
+agents, au niveau des services centraux et locaux, exclusivement dédiés à cette fonction et (ii) d’autres agents
+exerçant des activités opérationnelles ;
+Considérant que, selon le grief 21, s’agissant des contrôles permanents de second niveau, en raison du
+volume important des alertes générées, le contrôle a posteriori du traitement des alertes par les agences n’est
+conduit que sur un échantillon réduit ; que, faute de moyens dédiés suffisants aux contrôles permanents de
+second niveau, le contrôle de la pertinence du traitement des alertes ne peut être assuré de façon
+satisfaisante ;
+Considérant que, si les faits reprochés par le grief 21 se rapportant à l’insuffisance des moyens recoupent,
+comme le souligne à juste titre la CELR, le grief 3.4, la qualification retenue n’est pas la même ; que le
+reproche ne porte pas sur l’absence de caractère exhaustif des contrôles mais sur le fait qu’ils portent sur un
+nombre trop limité d’alertes et que l’examen des opérations n’est pas assez approfondi ; que c’est le caractère
+superficiel des contrôles effectués qui permet de conclure à l’insuffisance du dispositif de contrôle
+permanent ; que les courriels produits, relatifs aux contrôles de la DCCP, montrent le caractère formel des
+analyses effectuées, sur un échantillon réduit ; que le grief est établi ;
+Conclusion
+Considérant qu’il résulte de l’ensemble de ce qui précède que la CELR, qui n’a pas mis en place de
+classification des risques de LCB-FT adaptée à son activité (grief 1), dispose d’un système automatisé de
+surveillance et de détection des opérations atypiques lacunaire car insuffisamment adapté au risque que
+représente chaque catégorie de clients, notamment ceux qui ont effectué des opérations atypiques supérieures
+à un certain seuil (griefs 2.2 à 2.5) ; que, surtout, si tout établissement peut mettre en place un dispositif
+automatisé générant un nombre élevé d’alertes (grief 2.1, écarté), il lui appartient ensuite de disposer de
+procédures qui permettent de détecter les opérations qui constituent des anomalies et d’assurer, avec des
+moyens appropriés, un traitement adéquat de celles-ci, ce qui n’était pas le cas à la CELR à la date du
+contrôle (grief 3), même si elle disposait de procédures prévoyant le traitement des alertes (grief 3.1) et si la
+poursuite n’a pas démontré, en se fondant sur un échantillon d’opérations ayant donné lieu à une DS, de
+Autorité de contrôle prudentiel et de résolution 22
+
+===== Page 23 =====
+Décision de la Commission des sanctions – procédure no 2013-01
+carence dans leur traitement (grief 3.3) ; que si, dans un dossier, le défaut d’examen approfondi ne paraît pas
+caractérisé (grief 12), il ressort de l’instruction que les carences susmentionnées ont eu pour conséquence de
+nombreux défauts de DS (griefs 4 à 11) ou des DS tardives (griefs 13 à 17) ; que si les manquements
+constatés dans des dossiers individuels ne portent pas sur des montants particulièrement élevés, ils
+démontrent les carences organisationnelles reprochées ; que de plus, le dispositif de contrôle permanent dans
+ce domaine présentait des insuffisances affectant ses premier et second niveaux (griefs 18, 20 et 21) ; que,
+compte tenu de l’ensemble de ces éléments et de l’assise financière de la CELR, qui a réalisé un produit net
+bancaire de 272,4 millions d’euros et un résultat net de 35,2 millions d’euros en 2012, la gravité des
+manquements constatés justifie le prononcé d’un blâme et d’une sanction pécuniaire d’un million d’euros ;
+que le préjudice résultant d’une publication de la présente décision en y faisant apparaître le nom de
+l’établissement ne paraît pas disproportionné par rapport aux manquements réprimés ; qu’il n’y a donc pas
+lieu de faire droit à la demande de la CELR que cette publication n’ait lieu que sous une forme non
+nominative ;
+PAR CES MOTIFS
+DÉCIDE :
+Article 1er : Il est prononcé un blâme à l’encontre de la CAISSE D’ÉPARGNE ET DE PRÉVOYANCE
+DU LANGUEDOC-ROUSSILLON, ainsi qu’une sanction pécuniaire d’un million d’euros ;
+Article 2 : La présente décision sera publiée au registre de l’Autorité de contrôle prudentiel et de
+résolution et pourra être consultée au secrétariat de la Commission.
+Le Président de la Commission des sanctions
+[Rémi BOUCHEZ]
+Conseiller d’État
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification et
+dans les conditions prévues au IV de l’article L. 612-16 du COMOFI.
+Autorité de contrôle prudentiel et de résolution 23

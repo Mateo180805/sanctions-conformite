@@ -1,0 +1,518 @@
+===== Page 1 =====
+LA BANQUE POSTALE
+Procédure no 2016-04
+–––––
+Blâme et sanction pécuniaire
+de 5 millions d’euros
+–––––
+Audience du 28 avril 2017
+Décision rendue le 18 mai 2017
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 24 mars 2016 par laquelle le Président de l’Autorité de contrôle prudentiel et de résolution
+(ci-après l’ACPR) informe la Commission de ce que le Collège de supervision de l’ACPR (ci-après le
+Collège), statuant en sa formation de collège restreint, a décidé d’ouvrir une procédure disciplinaire,
+enregistrée sous le numéro 2016-04, à l’encontre de l’établissement de crédit La Banque Postale (ci-après
+LBP), dont le siège social est au 115, rue de Sèvres, 75275 Cedex 06 ;
+Vu la notification des griefs du 24 mars 2016 ;
+Vu les mémoires en défense des 16 juin, 10 octobre et 8 décembre 2016 ainsi que les pièces qui les
+accompagnent, par lesquels LBP (i) considère que les dispositions du règlement no 97-02, reprises par
+l’arrêté du 3 novembre 2014, relatives au contrôle interne ne couvrent pas l’activité d’intermédiation en
+assurance exercée par LBP, ou qu’à tout le moins une telle interprétation n’était pas prévisible ; (ii) estime,
+dans l’hypothèse où les textes susvisés trouveraient à s’appliquer, avoir respecté le principe de
+proportionnalité concernant les contrôles permanent et périodique mis en place ; (iii) reconnaît ne pas avoir
+totalement respecté son obligation de conseil dans le cadre de la formalisation du recueil des informations
+relatives à la situation financière et aux objectifs de souscription du client ainsi que la précision de ses
+exigences et besoins ; et (iv) conteste les reproches relatifs au fait que les raisons qui motivent le conseil
+fourni quant à un contrat déterminé ne seraient pas adaptées aux exigences et besoins du client ;
+Vu les mémoires des 1er août 2016 et 15 novembre 2016 par lesquels M. Christian Poirier, représentant du
+Collège, estime que, nonobstant ces observations, tous les griefs sont établis ;
+Vu le rapport du 24 mars 2017 dans lequel M. Thierry Philipponnat, rapporteur, estime que tous les griefs
+sont établis, soit en totalité, soit, pour le dernier, dans un périmètre réduit ;
+Vu les courriers du 24 mars 2017 convoquant les parties à l’audience et y invitant la directrice générale du
+Trésor, les informant de la composition de la Commission et de ce qu’il sera fait droit à la demande présentée
+par LBP tendant à ce que l’audience ne soit pas publique ;
+Vu les observations de LBP du 10 avril 2017 en réponse au rapport du rapporteur ;
+Vu les autres pièces du dossier, notamment le rapport de contrôle du 3 septembre 2015 ;
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2016-04
+Vu le code des assurances, notamment ses articles L. 132-27-1, L. 520-1 (III) et R. 132-5-1-1 ;
+Vu le code monétaire et financier (ci-après le CMF), notamment son article L. 511-41 devenu L. 511-55 ;
+Vu le règlement no 97-02 du 21 février 1997 relatif au contrôle interne des établissements de crédit et des
+entreprises d’investissement (ci-après le règlement no 97-02), notamment ses articles 4, 6, 9, 11-1 et 11-4 ;
+Vu l’arrêté du 3 novembre 2014 relatif au contrôle interne des entreprises du secteur de la banque, des
+services de paiement et des services d’investissement soumises au contrôle de l’ACPR (ci-après l’arrêté du
+3 novembre 2014), notamment ses articles 13, 17, 25, 35 et 39 ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions, composée de M. Rémi Bouchez, Président, Mmes Claudie Aldigé, Claudie
+Boiteau et Elisabeth Pauly, et M. Denis Prieur ;
+Après avoir entendu, dans sa séance non publique du 28 avril 2017 :
+̶ M. Philipponnat, rapporteur, assisté de Mme Lauriane Bonnet, son adjointe ;
+̶ M. Poirier, représentant du Collège, assisté de l’adjointe au directeur des affaires juridiques de
+l’ACPR, d’un cadre de cette direction, de l’adjoint au chef du service de veille sur les contrats et les
+risques et d’un contrôleur au sein de ce service ; M. Poirier a proposé le prononcé d’un blâme assorti
+d’une sanction pécuniaire de 18 millions d’euros, dans une décision publiée sous une forme
+nominative ;
+̶ LBP, représentée par son directeur juridique et par son directeur de la conformité ;
+Les représentants de LBP ayant eu la parole en dernier ;
+Après avoir délibéré en la seule présence de M. Bouchez, Président, Mmes Aldigé, Boiteau et Pauly, et
+M.Prieur, ainsi que de M. Jean-Manuel Clemmer, chef du service de la Commission des sanctions faisant
+fonction de secrétaire de séance ;
+1. Considérant que LBP, autorisée par la loi no 2005-516 du 20 mai 2005 relative à la régulation des
+activités postales et agréée le 2 décembre 2005 par le Comité des établissements de crédit et des entreprises
+d’investissement (ci-après le CECEI), a débuté ses activités le 1er janvier 2006 ; qu’investie par la loi de la
+mission de proposer des services bancaires, financiers et d’assurance au plus grand nombre, elle fournit tout
+service ou produit usuel, accessible et simple (comptes de dépôt, moyens de paiement, crédits à la
+consommation ou immobilier, produits d’épargne) ; qu’elle est également inscrite à l’ORIAS en qualité de
+mandataire d’assurance agissant pour le compte des sociétés W, X et Y, et en qualité de courtier d’assurance
+et de réassurance ; qu’elle exerce son activité d’intermédiaire d’assurance, à travers le réseau de La Poste,
+dont les salariés agissent en son nom et pour son compte ; qu’au moment du contrôle sur place, la
+distribution des contrats d’assurance sur la vie était assurée par les 87 conseillers en gestion de patrimoine
+(CGP) de LBP et par les 3 724 conseillers clientèle (COCLI), 3 508 conseillers financiers (COFI) et 794
+conseillers spécialisés en patrimoine (CSP) de La Poste ; que LBP emploie directement 3 600 salariés et a
+recours à 27 400 collaborateurs du réseau La Poste ; qu’en 2016, le produit net bancaire (PNB) et le résultat
+net (part du groupe) de LBP se sont respectivement élevés à 5,6 et 0,7 milliards d’euros ; qu’en 2016, les
+encours d’assurance sur la vie ont progressé de 1,1 % pour atteindre 125,9 milliards d’euros ;
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2016-04
+2. Considérant que LBP a commercialisé des fonds communs de placement dénommés Progressio et
+Progressio 2006 (ci-après les FCP Progressio), directement ou en tant que supports d’unités de compte de
+contrats d’assurance sur la vie ; que ces fonds diversifiés ont été respectivement créés le 1er avril 2005 et le
+20 janvier 2006 et gérés par LBP Asset Management (ci-après LBPAM), société de gestion de portefeuille
+filiale à 100 % de LBP ; que ces FCP bénéficiaient, au terme de 8 ans de placement, d’une garantie du capital
+investi de 102,94 euros par part pour le premier fonds et de 102,43 euros pour le second ; qu’un
+désinvestissement effectué avant l’échéance privait le souscripteur du bénéfice de cette garantie ; que ces
+fonds ont, en 2011, subi une diminution de 15 % à 30 % de leur valeur liquidative, en raison principalement
+du choix, antérieur à la crise des dettes souveraines, de remplacer des actifs considérés comme risqués par
+des obligations d’État, notamment émises par la Grèce ; que la garantie du capital, initialement fournie par la
+société Z, a été reprise directement par LBP à la suite des difficultés de cet assureur affecté par la crise des
+subprimes ; que le montant total des pertes financières effectives subies par des clients (différence entre la
+valeur liquidative de désinvestissement et celle garantie à l’échéance) s’est élevé à 18,6 millions d’euros dont
+9,3 millions d’euros entre le 1er janvier 2012 et le 1er octobre 2014 ; que 43 % de ces pertes résultent
+d’opérations de rachat et d’arbitrage, le solde résultant de la fin du contrat à la suite du décès du
+souscripteur ;
+3. Considérant qu’en septembre 2011, les services de l’Autorité des marchés financiers (AMF) ont attiré
+l’attention de LBP et de LBPAM sur l’évolution très défavorable de la valeur liquidative des FCP
+Progressio ; que la direction Épargne et Assurance de LBP a en conséquence émis en décembre 2011, à
+l’intention de sa direction commerciale, de sa direction des opérations et de la direction générale de
+l’enseigne La Poste, une procédure interne spécifique (ci-après la procédure Progressio) destinée à « mettre
+en garde les clients qui souhaiteraient racheter par anticipation des parts des fonds diversifiés Progressio et
+Progressio 2006 contre le risque de perte financière » ; que cette procédure mentionnait, à l’intention des
+« conseillers généralistes, CSP, CGP », les mesures à prendre en cas de demande, par un client, de
+désinvestissement de ces deux FCP, qu’ils soient détenus directement sur un compte ordinaire d’instruments
+financiers ou au sein d’un contrat d’assurance sur la vie ; que le conseiller devait, en accord avec le client,
+trouver si possible une autre solution, lui communiquer la dernière valeur liquidative et celle garantie à
+l’échéance, et préciser que le rachat entraînerait le paiement d’une commission de 0,5 % ; que les héritiers de
+ces contrats devaient également bénéficier de cette mise en garde ; que la diffusion de cette procédure était
+en outre accompagnée de la mise en place d’une alerte informatique sur le poste de travail des conseillers en
+cas de demande de rachat ou d’arbitrage des unités de compte adossées aux FCP Progressio, qui rappelait
+aux conseillers qu’il convenait d’imprimer et de faire signer le formulaire « Désinvestissement des supports
+PROGRESSIO/PROGRESSIO 2006 dans le cadre d’un contrat d’Assurance-vie », par lequel le client
+reconnaissait avoir pris connaissance des modalités de sortie, et notamment de la non-garantie du capital en
+cas de sortie avant l’échéance (ci-après l’imprimé Progressio) ;
+4. Considérant que l’activité d’intermédiation en assurance de LBP a fait l’objet d’un contrôle sur place
+du 17 octobre 2014 au 5 juin 2015, qui a donné lieu, à la suite de la réunion qui s’est tenue le 22 juin 2015 et
+de l’envoi, par l’établissement, de ses observations sur le projet de rapport, à la signature d’un rapport
+définitif le 21 décembre 2015 ; qu’au vu de ce rapport, le Collège a décidé, lors de sa séance du 26 février
+2016, d’ouvrir la présente procédure disciplinaire ;
+I. Sur le contrôle par LBP
+de la bonne application de la procédure Progressio
+A. Sur le risque de non-conformité
+résultant du non-respect de la procédure Progressio
+5. Considérant que l’article 11-1 du règlement no 97-02 imposait aux entreprises assujetties de prévoir
+« des procédures spécifiques d’examen de la conformité, notamment : - des procédures d’approbation
+préalable systématique, incluant un avis écrit du responsable en charge de la conformité ou d’une personne
+dûment habilitée par ce dernier à cet effet, pour les produits nouveaux ou pour les transformations
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2016-04
+significatives opérées sur les produits préexistants, pour cette entreprise ou pour le marché ; - ou, pour la
+fourniture de services d’investissement, tout dispositif de nature à conseiller et assister les personnes
+concernées chargées des services d’investissement afin qu’elles se conforment à leurs obligations au titre du
+présent chapitre. / Elles prévoient également des procédures de contrôle des opérations réalisées. » ; que,
+selon l’article 11-4 de ce règlement, elles devaient assurer « à tous les membres de leur personnel concernés
+une formation aux procédures de contrôle de la conformité, adaptée aux opérations qu’ils effectuent. / Elles
+mettent en place un dispositif permettant de garantir un suivi régulier et le plus fréquent possible des
+modifications pouvant intervenir dans les textes applicables à leurs opérations et, à ce titre, l’information
+immédiate de tous les membres de leur personnel concernés » ; que ces dispositions, qui n’ont pas été
+substantiellement modifiées, figurent désormais aux articles 35 et 39 de l’arrêté du 3 novembre 2014 ;
+6.Considérant que, selon le grief 1, fondé sur ces dispositions, LBP n’a pas mis en place un dispositif de
+contrôle de la conformité concernant le respect de la procédure Progressio ; qu’en effet, d’une part, aucun
+dispositif technique n’a été prévu pour s’assurer que l’imprimé Progressio, dont cette procédure prévoit la
+signature par le client, serait effectivement renseigné et signé préalablement à l’enregistrement de
+l’opération ; que, d’autre part, aucun dispositif particulier d’accompagnement ou de formation des conseillers
+n’a été instauré afin de sensibiliser ces derniers à l’enjeu de l’application de la procédure et sur les solutions
+alternatives à proposer aux clients ; que cette procédure était d’autant plus nécessaire qu’elle permettait
+également de prévenir tout conflit d’intérêts pouvant naître du double rôle de LBP en tant que gestionnaire
+de la relation client et de garant des capitaux investis ;
+7. Considérant que LBP admet qu’un dispositif de blocage informatique de l’opération de rachat de FCP
+Progressio au sein d’un contrat d’assurance sur la vie, activé en l’absence de signature de l’imprimé
+Progressio, et une formation ciblée des conseillers auraient permis une mise en œuvre plus efficace de la
+procédure Progressio ; qu’elle soutient toutefois que, en tout état de cause, la Commission ne saurait la
+sanctionner pour n’avoir pas suffisamment veillé à la bonne application de cette procédure interne, qui
+prévoyait des diligences allant au-delà de ses obligations légales, dès lors qu’au titre de son activité
+d’intermédiaire d’assurance, elle n’était pas assujettie aux prescriptions du règlement no 97-02 ;
+8. Considérant, cependant, que les dispositions de l’article L. 511-41 du CMF, maintenues à l’article
+L.511-55 de ce code, imposent aux organismes qu’elles régissent, dont les établissements de crédit, de
+mettre en place un dispositif de gouvernance et de contrôle interne leur permettant notamment de mesurer et
+de gérer efficacement les risques inhérents au modèle d’entreprise et aux activités de l’établissement, ce
+dispositif devant être en outre « adapté à la nature, à l’échelle et à la complexité » de ces risques et
+activités ; que les travaux préparatoires de la loi no 99-532 du 25 juin 1999 relative à l’épargne et à la sécurité
+financière, qui a introduit ces dispositions dans la législation bancaire, montrent que l’objectif du législateur
+était, en imposant aux entreprises du secteur bancaire de se doter d’un dispositif de contrôle interne, de les
+conduire à apprécier les risques et la rentabilité de l’ensemble de leurs activités ; que, de même, le règlement
+no 97-02, remplacé désormais par l’arrêté du 3 novembre 2014, prévoyait notamment que le contrôle interne
+de ces entreprises doit comprendre en particulier « un système de contrôle des opérations et des procédures
+internes », « des systèmes de mesure des risques et des résultats » et « des systèmes de surveillance et de
+maîtrise des risques », tous ces éléments devant être adaptés « à la nature et au volume de leurs activités, à
+leur taille, à leurs implantations et aux risques de différentes natures auxquels elles sont exposées »
+(article 1er) ; que d’autres dispositions de ce règlement montrent que, conformément aux dispositions légales
+ci-dessus rappelées, le dispositif de contrôle interne d’un établissement de crédit, qui inclut le contrôle de la
+conformité des opérations, doit porter sur la totalité de ses activités ; qu’ainsi, son article 10 imposait aux
+organismes assujettis de s’assurer « que leur système de contrôle s’intègre dans l’organisation, les méthodes
+et les procédures de chacune des activités » et que les dispositifs de contrôle périodique de la conformité des
+opérations, du niveau de risque effectivement encouru et du respect des procédures, « s’appliquent à
+l’ensemble de l’entreprise » ; que son article 17 quater leur imposait « de mettre en place des systèmes et
+procédures permettant d’appréhender globalement l’ensemble des risques associés aux activités bancaires et
+non bancaires » ; que le rapport annuel sur la mesure et la surveillance des risques qu’ils doivent remettre en
+application de l’article 43 doit « permettre d’appréhender globalement et de manière transversale l’ensemble
+des risques, en y intégrant les risques associés aux activités bancaires et non bancaires » ;
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2016-04
+9. Considérant qu’ainsi, le dispositif de contrôle interne d’un établissement de crédit doit couvrir la
+totalité de ses risques et de ses activités ; que c’est dans ce cadre que doivent être interprétées les dispositions
+du p) de l’article 4 du règlement no 97-02 qui définissent le risque de non-conformité comme « le risque de
+sanction judiciaire, administrative ou disciplinaire, de perte financière significative ou d’atteinte à la
+réputation, qui naît du non-respect de dispositions propres aux activités bancaires et financières, qu’elles
+soient de nature législative ou réglementaire, ou qu’il s’agisse de normes professionnelles et déontologiques,
+ou d’instructions de l’organe exécutif prises notamment en application des orientations de l’organe
+délibérant » ; qu’en conséquence, contrairement à ce que soutient LBP et quelle qu’ait pu être, pour
+l’application d’autres dispositions réglementaires ou dans des documents ou rapports ayant un autre objet,
+l’acception retenue des termes « activités financières », l’activité d’intermédiation en assurance exercée par
+un établissement de crédit et les risques qui en résultent doivent être regardés comme entrant dans le champ
+des dispositions précitées du règlement no 97-02 puis de l’arrêté du 3 novembre 2014, notamment celles
+relatives au contrôle de conformité ;
+10. Considérant que les opérations de rachat avant échéance de la garantie en capital de FCP Progressio
+inclus dans des contrats d’assurance sur la vie faisaient naître, pour LBP, un risque de litige individuel avec
+des clients, un risque de réputation, mais aussi un risque de sanction disciplinaire pour manquement au
+devoir de conseil en cas de rachat de contrats ayant pour support des unités de compte adossées au FCP
+Progressio pour investir dans d’autres supports commercialisés par LBP (cf. ci-après grief 3), risques que la
+procédure Progressio avait pour objet de prévenir ; que, compte tenu des pertes financières importantes que
+pouvaient entraîner, pour les clients de LPB, de telles opérations de rachat, ces risques étaient réels,
+indépendamment même de la question de savoir si LBP était susceptible d’être condamnée, devant le juge
+civil, pour des manquements à son devoir de conseil ou à son obligation de mise en garde au titre de
+l’exécution des contrats en cause ; qu’en effet, s’il est exact que les unités de compte adossées aux FCP
+Progressio ne représentaient que 0,4 % des contrats d’assurance sur la vie à rapprocher, par exemple, des 4
+millions de contrats d’assurance sur la vie distribués par LBP pour la seule compagnie d’assurance W, les
+risques en résultant pour LBP doivent s’apprécier au regard du nombre élevé en valeur absolue de clients,
+soit 145 315 souscripteurs à fin mars 2015, et des pertes potentielles de ceux d’entre eux rachetant leurs
+contrats alors que la valeur liquidative des FCP Progressio était inférieure à la valeur de garantie (cf.
+considérant 2) ; qu’ainsi, la mauvaise application de la procédure Progressio, qui doit être regardée comme
+explicitant des obligations légales et réglementaires auxquelles était tenue LBP, peut être sanctionnée
+comme manquement aux exigences qui s’imposaient à elle en matière de contrôle de la conformité de ses
+opérations ;
+11. Considérant que si LBP soutient qu’une telle sanction ne répondrait pas à l’exigence de prévisibilité
+qui résulte du principe de légalité des délits et des peines, l’intermédiation en assurance n’étant pas
+expressément incluse dans le champ du règlement no 97-02, il résulte clairement de ce qui précède
+(considérants 8 et 9) que, en cohérence avec la volonté du législateur, le contrôle interne des établissements
+de crédit, y compris le contrôle de conformité de leurs opérations, régi par le règlement no 97-02 s’applique à
+l’ensemble de leurs risques et activités ; qu’au demeurant, le « questionnaire sur le respect des règles de
+protection de la clientèle banque » adressé annuellement aux établissements de crédit par l’ACPR comporte
+des questions relatives à la distribution de produits d’assurance ; que LBP avait elle-même intégré l’activité
+de commercialisation de contrats d’assurance sur la vie dans sa cartographie des risques liés à la protection
+de la clientèle, élément de son dispositif de contrôle interne ;
+12. Considérant qu’ainsi qu’il a été dit, la mauvaise application de la procédure Progressio n’est pas
+sérieusement contestée par LBP ; que si LBP soutient que le dispositif mis en place était proportionné aux
+risque encourus, fait valoir que les conseillers du réseau La Poste ont été informés de la mise en place de
+cette procédure via l’intranet de La Poste et relève que peu de réclamations ont été reçues, ces éléments ne
+sont pas de nature à répondre utilement au grief, qui est établi ;
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2016-04
+B. Sur les contrôles permanent et périodique
+de l’application de la procédure Progressio
+13. Considérant que les dispositions ci-dessus rappelées de l’article L. 511-41 du CMF, maintenues à
+l’article L. 511-55 de ce code (cf. supra considérant 8), imposent notamment aux organismes assujettis de
+mettre en place des procédures efficaces de détection, de gestion, de suivi et de déclaration des risques
+auxquels ils sont ou pourraient être exposés et en précisent les principales caractéristiques ; que les
+dispositions du a) de l’article 6 du règlement no 97-02, maintenues à l’article 13 de l’arrêté du 3 novembre
+2014, imposent que le contrôle permanent de la conformité, de la sécurité et de la validation des opérations
+réalisées soit assuré avec un ensemble de moyens adéquats, d’une part, par des agents exclusivement dédiés
+à cette fonction et, d’autre part, par d’autres agents exerçant des activités opérationnelles ; que, selon le b) de
+l’article 6 et le deuxième alinéa de l’article 9 du règlement no 97-02, dont les dispositions figurent désormais,
+respectivement, aux articles 17 et 25 de l’arrêté du 3 novembre 2014, le contrôle périodique de la conformité
+des opérations, du niveau de risque effectivement encouru, du respect des procédures, de l’efficacité et du
+caractère approprié des dispositifs de contrôle permanent est assuré au moyen d’enquêtes par des agents au
+niveau central et, le cas échéant, local, et doit bénéficier de moyens suffisants pour mener un cycle complet
+d’investigations de l’ensemble des activités sur un nombre d’exercices aussi limité que possible ;
+14. Considérant que, selon le grief 2, fondé sur ces dispositions, (i) LBP n’a pas mis en place un
+dispositif adéquat de contrôle, permanent et périodique, du respect de la procédure Progressio ; que, tout
+d’abord, alors que cette procédure prévoyait des contrôles de sa bonne application, LBP n’a réalisé aucun
+contrôle permanent s’y rapportant ; que dans 90 des 107 dossiers relatifs à des opérations de rachat ou
+d’arbitrage effectuées avant l’échéance des FCP Progressio, l’imprimé Progressio était absent ; que, pour 8
+des 17 opérations pour lesquelles il avait été établi, il n’était pas dûment renseigné ou signé ; que, de plus,
+pour 80 des 88 opérations de rachat total ou partiel, les diligences faites pour rechercher et conseiller une
+solution alternative n’étaient pas documentées ou ne l’étaient que partiellement (notamment les dossiers A1,
+A2, A3, A4, A5, A6 et A7) ; que le non-respect de cette procédure est d’autant plus caractérisé que la
+majorité des opérations de désinvestissement examinées, soit 57 sur 107, a donné lieu à une réorientation de
+l’épargne du client vers un autre contrat ou produit distribué par LBP ou La Poste ; que, dans certains cas, les
+pertes subies par les clients ayant effectué des rachats avant l’échéance des FCP Progressio se sont élevées à
+plusieurs milliers d’euros (dossiers A8 et A9) ; que, de plus, dans le dossier A9, une préconisation de rachat
+et de reversement sur le même contrat a été effectuée au motif, erroné, que le produit n’était pas arbitrable ;
+que la procédure Progressio n’a en outre été respectée dans aucune des 32 opérations de désinvestissement
+faisant suite au décès de l’assuré ; (ii) qu’aucun contrôle périodique du respect de la procédure Progressio n’a
+été effectué ;
+15. Considérant que LBP soutient qu’en raison du caractère très limité des risques pouvant résulter du
+non-respect de la procédure Progressio, des contrôles spécifiques permanents et périodiques plus importants
+auraient été disproportionnés ; que, toutefois, les dispositions citées plus haut du CMF et du règlement no 97-
+02 imposent que les dispositifs de contrôle interne soient adaptés et suffisants au regard de chacun des
+risques encourus par un établissement ; que le « principe de proportionnalité » invoqué par LBP ne saurait,
+en tout état de cause, autoriser un établissement à se dispenser de tout contrôle effectif sur l’une de ses
+activités présentant des risques au motif que ceux-ci seraient limités ; qu’ainsi qu’il a été dit ci-dessus (cf.
+supra considérants 8 et 9), l’activité d’intermédiation en assurance, exercée par LBP, devait entrer dans le
+champ de son dispositif de contrôle interne, et donc de contrôle permanent et périodique ;
+16. Considérant que les diligences présentées par LBP comme se rapportant au risque de pertes résultant
+pour les clients de rachats ou d’arbitrages avant l’échéance des FCP Progressio, effectuées dans le cadre du
+dispositif de contrôle permanent, sont trop générales pour répondre utilement au reproche ; que le dispositif
+centralisé de traitement des réclamations, mis en place au début de l’année 2014, bien que n’ayant pas fait
+ressortir une insatisfaction des clients sur la façon dont LBP répondait à leurs demandes expresses de rachat
+d’unités de compte de contrats d’assurance sur la vie adossés aux FCP Progressio, n’était pas de nature à
+satisfaire aux obligations de LBP en matière de contrôle permanent ; que les carences relevées par la
+poursuite dans plusieurs dossiers individuels, y compris en cas de décès de l’assuré, démontrent qu’il aurait
+été nécessaire d’adapter le dispositif de contrôle permanent afin de vérifier le respect de la procédure
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2016-04
+Progressio ; que le faible nombre de contentieux (une seule assignation reçue au moment du contrôle –
+dossier A6), constaté a posteriori, ne peut justifier l’absence de tout dispositif spécifique de contrôle, lequel
+doit être mis en place a priori ; que, pour les mêmes motifs, LBP aurait dû inclure ces contrats dans le champ
+de ses contrôles périodiques ; que les dossiers individuels mentionnés au titre de ce grief confirment que de
+tels contrôles auraient été nécessaires, même si certains de ces dossiers concernent des bénéficiaires des
+contrats à la suite du décès du souscripteur, dont LBP fait valoir qu’ils ne se sont pas présentés au guichet, de
+sorte que la procédure Progressio ne s’appliquait pas dans ce cas ; que les actions correctrices présentées,
+dont la mise en place, début 2015, d’un indicateur de risques et de contrôle spécifique aux unités de compte
+garanties à l’échéance, sont sans conséquence sur le grief, qui est établi ;
+II. Sur le devoir de conseil
+17. Considérant que le III de l’article L. 520-1 du code des assurances prévoit que « Avant la conclusion
+d’un contrat d’assurance individuel comportant des valeurs de rachat, d’un contrat de capitalisation, ou
+avant l’adhésion à un contrat mentionné à l’article L. 132-5-3 ou à l’article L. 441-1, l’intermédiaire est
+soumis au respect des dispositions de l’article L. 132-27-1 qui se substituent au 2o du II du présent article » ;
+que l’article L. 132-27-1 de ce code dispose que « I. - Avant la conclusion d’un contrat d’assurance
+individuel comportant des valeurs de rachat, d’un contrat de capitalisation, ou avant l’adhésion à un contrat
+mentionné à l’article L. 132-5-3 ou à l’article L. 441-1, l’entreprise d’assurance ou de capitalisation précise
+les exigences et les besoins exprimés par le souscripteur ou l’adhérent ainsi que les raisons qui motivent le
+conseil fourni quant à un contrat déterminé. Ces précisions, qui reposent en particulier sur les éléments
+d’information communiqués par le souscripteur ou l’adhérent concernant sa situation financière et ses
+objectifs de souscription, sont adaptées à la complexité du contrat d’assurance ou de capitalisation
+proposé. / Pour l’application du premier alinéa, l’entreprise d’assurance ou de capitalisation s’enquiert
+auprès du souscripteur ou de l’adhérent de ses connaissances et de son expérience en matière financière. /
+Lorsque le souscripteur ou l’adhérent ne donne pas les informations mentionnées aux premier et deuxième
+alinéas, l’entreprise d’assurance ou de capitalisation le met en garde préalablement à la conclusion du
+contrat. […] » ; que l’article R. 132-5-1-1 de ce code dispose que « Les précisions ainsi que, le cas échéant,
+la mise en garde prévues à l’article L. 132-27-1 sont communiquées au souscripteur par écrit, avec clarté et
+exactitude, sur support papier ou tout autre support durable à sa disposition et auquel il a facilement
+accès. [...] » ;
+18. Considérant que, selon le grief 3, fondé sur ces dispositions, LBP n’a pas, lors des souscriptions qui
+ont fait suite à des opérations de rachat relatives à des contrats d’assurance sur la vie adossés aux FCP
+Progressio, respecté les obligations qui lui incombaient au titre du devoir de conseil ; qu’elle n’a, sur ce sujet,
+pas respecté ses propres procédures, qui prévoient le recueil, par les conseillers, des informations relatives au
+client (situation financière et objectifs de souscription), la formalisation de ses besoins et exigences ainsi que
+des raisons qui motivent le conseil fourni, au moyen d’une « fiche de préconisation » et d’une « synthèse
+DRC » (dossier relation client) ;
+A. Sur le recueil des informations relatives à la situation financière
+et aux objectifs de souscription du client ainsi que sur la précision
+de ses exigences et besoins
+19. Considérant que, selon le sous-grief 3.1, sur les 30 souscriptions ou adhésions à un contrat
+d’assurance sur la vie ou de capitalisation ayant fait suite à des opérations de rachat relatives à des contrats
+ayant pour support le FCP Progressio ou le FCP Progressio 2006, 10 fiches de préconisation renseignées et
+signées étaient présentes dans les dossiers, au moment du contrôle ; que sur les 17 nouvelles souscriptions ou
+adhésions faisant suite au décès d’un assuré, seules 7 fiches de préconisation ont été communiquées à la
+mission de contrôle ; qu’ainsi, 30 fiches sur 47 étaient manquantes ; que, de plus, dans les fiches de
+préconisation présentes dans les 11 dossiers examinés par la mission de contrôle (B1, B2, B3, B4, B5, B6,
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2016-04
+B7, B8, B9, B10 et B11) manquaient des éléments pourtant déterminants pour l’évaluation de la situation
+financière du client et de ses objectifs de souscription, tels que ses charges financières (hors crédits), son
+horizon d’investissement ou la quote-part du patrimoine qu’il envisageait d’investir ; qu’en effet, les 6
+objectifs de souscription génériques prédéfinis par LBP, à savoir « Constituer un capital », « Valoriser un
+capital », « Transmettre un capital », « Percevoir des revenus », « Préparer la retraite », « Optimisation
+fiscale », ne sont pas hiérarchisés et ne permettent donc pas d’individualisation du client quant à la
+détermination de ses exigences et de ses besoins ; qu’en outre, les options de stratégies d’investissement sont
+décrites de manière insuffisamment précise dans les fiches de préconisation, les différents types de
+diversification, « prudente », « équilibrée » ou « dynamique », n’y étant pas définis, de sorte que le client ne
+peut valablement choisir sa stratégie d’investissement de manière éclairée ;
+20. Considérant que l’absence de 30 fiches de préconisation dans les dossiers examinés n’est pas
+contestée et traduit une méconnaissance de l’obligation légale de formaliser les exigences et besoins du
+client ; que le document intitulé « fiche confidentielle de renseignements » qu’évoque LBP, établi dans le
+cadre de la lutte contre le blanchiment et le financement du terrorisme n’est pas de nature à pallier cette
+insuffisance ; que les fiches manuscrites sur lesquelles ces renseignements seraient consignés ne sont au
+demeurant pas produites ; que si LBP soutient que la période couverte par le contrôle sur place a débuté le 1er
+janvier 2012, soit avant la publication de la recommandation de l’ACPR no 2013-R-01 du 8 janvier 2013 sur
+le recueil des informations relatives à la connaissance du client dans le cadre du devoir de conseil en
+assurance vie, 8 des 11 fiches relatives à ces clients sont postérieures à la publication de cette
+recommandation ; que pour les 3 autres, dès avant la publication de cette recommandation, les dispositions
+ci-dessus rappelées, introduites par l’ordonnance no 2009-106 du 30 janvier 2009 portant sur la
+commercialisation des produits d’assurance sur la vie et sur des opérations de prévoyance collective et
+d’assurance, imposaient déjà aux organismes assujettis de recueillir des informations sur la situation
+financière du client ; que les informations recueillies par LBP auprès de ses clients n’étaient pas
+suffisamment précises pour respecter l’obligation ci-dessus rappelée dès lors que, par exemple, aucune ne
+portait sur ses revenus ; que les objectifs étaient définis en des termes généraux qui n’offraient en outre pas la
+possibilité de les hiérarchiser alors que certains sont potentiellement contradictoires ; que les termes
+définissant la stratégie d’investissement du client n’étaient pas, en eux-mêmes, contrairement à ce que
+soutient LBP, suffisamment « porteurs de sens et compréhensibles » pour que leur mention suffise à
+respecter les dispositions légales applicables ; que les actions correctrices évoquées par LBP sont sans
+conséquence sur le reproche, qui est établi ;
+B. Sur les raisons qui motivent le conseil fourni
+21. Considérant que, selon le sous-grief 3.2, en premier lieu, pour les 30 nouvelles souscriptions ou
+adhésions faisant suite à une opération de rachat (20) ou à un décès (10) dans lesquelles la fiche de
+préconisation est manquante, LBP n’a pas satisfait à son devoir de conseil ; que concernant les 17 autres
+nouvelles souscriptions ou adhésions faisant suite à une opération de rachat (10) ou de décès de l’assuré (7),
+ni les fiches de préconisation ni la « synthèse DRC » ne prévoient de rubrique permettant au conseiller
+d’expliciter les raisons qui motivent le conseil fourni quant à un contrat déterminé ; que de plus, sur les 17
+fiches de préconisation présentes, 9 correspondent à un type de contrat et d’assureur, comportant des
+formules types pré-renseignées quant au nom commercial du produit souscrit, alors que la fiche de
+préconisation doit avoir pour objet d’amener le conseiller à proposer un contrat adapté au profil du client, au
+terme d’une démarche de prise de connaissance de sa situation et d’analyse de ses exigences et besoins ;
+qu’en second lieu, ces nouvelles souscriptions ou adhésions ne répondent pas aux exigences et besoins des
+clients ; qu’en effet, une préconisation de rachat de supports en vue de réinvestir les sommes rachetées sur un
+autre produit d’assurance sur la vie ou de capitalisation doit être effectuée à la lumière des exigences et des
+besoins du client, notamment de sa situation financière ; qu’en conseillant la souscription de nouveaux
+contrats alors que le rachat des anciens supports conduisait à une perte financière pour le client, LBP n’a pas
+pris en compte ses exigences et ses besoins, manquant ainsi à son devoir de conseil ; que ce reproche
+concerne 22 dossiers de nouvelles adhésions ou souscriptions retenus par la mission de contrôle parmi les
+dossiers de rachat et d’arbitrage qu’elle a examinés, dont 4 sont mentionnés à titre d’illustration (dossiers A9,
+C1, C2 et C3) ; que l’absence de motivation du conseil délivré pour ces contrats est d’autant plus grave que
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2016-04
+la souscription ou l’adhésion fait suite à un rachat, qui entraîne un désinvestissement à perte des supports
+Progressio et Progressio 2006, des coûts tels que les frais de rachat et ceux liés à l’ouverture d’un nouveau
+contrat, ainsi que des conséquences en terme de fiscalité, notamment la perte de l’antériorité fiscale attachée
+au contrat racheté ;
+22. Considérant, en premier lieu, que les fiches de préconisation présentes dans les dossiers examinés ne
+prévoient pas de rubrique permettant au conseiller d’expliciter les raisons qui motivent le conseil fourni
+quant à un contrat déterminé ; que la mention du nom commercial d’un contrat commercialisé, par exemple
+(….), ne suffit pas à satisfaire à l’exigence d’une démarche personnalisée, tenant compte des besoins du
+client ; que, de plus, l’utilisation dans ces fiches de formules standardisées, non complétées par des
+informations propres au client et ne précisant pas les caractéristiques du contrat qui justifient qu’il soit
+proposé, ne permet pas d’apprécier l’adéquation entre le besoin identifié du souscripteur et le contrat ;
+qu’ainsi, les exigences de formalisation de l’article R. 132-5-1-1 du code des assurances ont été méconnues,
+tant dans le cas où les fiches étaient présentes dans le dossier que, a fortiori, dans celui où elles en étaient
+absentes ; que ce reproche est donc établi ;
+23. Considérant, en second lieu, en ce qui concerne le reproche tenant à ce que les nouvelles
+souscriptions ou adhésions mentionnées au titre de ce grief ne répondaient pas aux exigences et besoins des
+clients, que LBP n’est pas mise en cause pour un non-respect de son devoir de conseil lors de la souscription,
+par ses clients, des contrats d’assurance sur la vie comportant des unités de compte adossés aux FCP
+Progressio ; que les articles L. 132-27-1 et R. 132-5-1-1 du code des assurances sur lesquels est fondé le grief
+ne prévoient pas d’obligation d’information ou de conseil à la charge de l’intermédiaire une fois le contrat
+souscrit ; que, par ailleurs, la méconnaissance d’une éventuelle obligation de mise en garde résultant de la
+jurisprudence civile, contestée par LBP, n’est en tout état de cause pas mentionnée par la notification des
+griefs ; qu’ainsi, le non-respect des obligations ci-dessus rappelées (cf. supra considérant 17) ne peut être
+sanctionné que s’il est établi que le rachat puis la souscription de nouveaux contrats sont liés ; qu’outre le cas
+d’une pièce qui établirait explicitement l’existence d’un tel lien, celui-ci peut être retenu en présence
+d’éléments tels que la date de la préconisation par rapport à la réalisation des opérations, la proximité dans le
+temps de celles-ci, la similitude de leurs montants et la perte résultant de l’opération, en l’absence d’élément
+montrant une volonté du client d’y procéder de sa propre initiative ou à tout le moins montrant qu’il a été
+dûment avisé des conséquences du rachat, lorsque la procédure Progressio était appliquée ;
+24. Considérant que l’examen des dossiers mentionnés par la poursuite montre (i) que pour 7 d’entre eux
+(C4, C5, C6, C7, C8, C9 et C10), les éléments factuels disponibles ne permettent pas de retenir l’existence
+d’un lien entre les deux opérations successives effectuées par les clients ; (ii) que dans les dossiers C11, C12,
+C13 et C14, il apparaît que le désinvestissement fait suite à un besoin immédiat de liquidités ou que les
+clients ont bien été mis en garde sur les conséquences du rachat du support Progressio ; (iii) que dans les
+dossiers C2, C15, C16, C17 et C18, l’écart entre les montants rachetés et investis ou la faiblesse de la perte
+ne permettent pas de regarder les deux opérations comme liées, en l’absence de tout élément en ce sens, le
+désinvestissement opéré pouvant au demeurant être un élément dans la réorientation, par le client, de son
+épargne ; qu’à titre d’exemple, dans le dossier C17, le client a procédé à un rachat partiel de son contrat L
+pour un montant de 1 796 euros le 30 janvier 2014, subissant une perte de 272 euros et, selon les
+informations communiquées par LBP, a investi, le 19 février 2014, 87 000 euros sur un contrat M ; (iv) que
+dans le dossier C3, la motivation, avancée par les clients, du désinvestissement effectué, qui fait suite à des
+donations et s’inscrit dans le cadre d’une réorientation de leur épargne qui avait notamment pour but de leur
+permettre de « sortir de l’ISF », peut expliquer un rachat en novembre 2013, afin de réduire leur base
+d’imposition, alors même que l’échéance de la garantie en capital était proche; qu’il n’existe donc pas, dans
+ces dossiers 1 à 17, d’élément suffisant permettant d’estimer que le rachat et la nouvelle souscription étaient
+liés ; (v) qu’à l’inverse, dans le dossier C1 le rachat et la souscription datent du même jour, entraînant une
+perte de plus de 5 000 euros pour le client, sans qu’aucune justification précise n’apparaisse ; que, de même,
+dans les dossiers C19, C20 et C21, malgré la différence entre les montants rachetés et investis, la proximité
+des opérations et le caractère significatif de la perte enregistrée par le client au regard du montant investi, en
+l’absence de toute indication sur l’intention du client, conduisent à retenir l’existence d’un lien entre les
+opérations de rachat et de souscription ; qu’il en va de même pour le dossier C22, malgré les indications
+figurant au dossier sur le souhait du client de réorienter son épargne, en raison des montants en cause et de la
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2016-04
+concomitance entre l’opération de rachat partiel et la préconisation de LBP ; qu’au final, le reproche tenant à
+la fourniture d’un conseil inadéquat par LBP est donc établi dans un périmètre fortement réduit à ces
+5 dossiers ;
+*
+* *
+25. Considérant qu’il résulte de ce qui précède que le dispositif de contrôle interne de LBP ne couvrait
+pas de manière satisfaisante, à la date du contrôle, son activité d’intermédiation en assurance et les risques
+afférents, notamment au titre de contrats d’assurance sur la vie en unités de compte tels que ceux en cause
+dans la présente procédure ; qu’en conséquence, les contrôles permanents comme périodiques mis en œuvre
+pour s’assurer du respect de la procédure Progressio, diffusée pour prévenir les clients des pertes liées au
+rachat, avant l’échéance de la garantie en capital à 100 % qu’ils comportaient, de contrats ayant pour support
+des unités de compte adossées aux FCP Progressio, ont été très insuffisants (grief 2) ; que cette procédure a
+été mal appliquée, ce dont il a résulté pour LBP un risque de non-conformité dont l’importance tient
+notamment au nombre de clients ayant souscrit des contrats comportant en leur sein des FCP Progressio et
+aux pertes financières qu’ils pouvaient subir en cas de rachat anticipé (grief 1) ; que, de plus, dans le cadre
+de cette même activité, il apparaît que le recueil des informations auprès des clients était lacunaire (grief
+3.1), de même que la communication au client des raisons qui motivent le conseil fourni (première partie du
+sous-grief 3.2), de sorte que les exigences relatives au devoir de conseil et en particulier à sa formalisation
+n’étaient pas correctement satisfaites ;
+26. Considérant, cependant, que si, ainsi que le souligne la poursuite, les pertes totales subies par les
+clients souscripteurs des unités de compte adossés aux FCP Progressio après la diffusion de la procédure
+Progressio se sont élevées à un peu plus de 9 millions d’euros (cf. supra considérant 2), il n’est pas établi que
+les clients auraient renoncé à l’ensemble des rachats correspondants ou les auraient différés, et donc
+n’auraient subi aucune perte, si la procédure Progressio avait été correctement appliquée (griefs 1 et 2) et si
+LBP avait mieux respecté son devoir de conseil (grief 3) ; qu’il n’est ni établi ni même soutenu que LBP,
+garante de la valeur liquidative des fonds après s’être substituée à la société Z, se serait volontairement
+abstenue de faire respecter sa procédure Progressio pour réduire le coût de cette garantie ; que, de plus, LBP
+rappelle qu’en avril 2009, l’attention des souscripteurs de ces unités de compte avait été spécialement attirée
+par l’envoi d’une lettre les informant de la reprise de la garantie de la société Z et soulignant « que la
+garantie du capital net investi n’est assurée qu’à la date de la garantie », ce que des courriers d’information
+ponctuels adressés au client ont ultérieurement rappelé (seconde partie du sous-grief 3.2) ; qu’en outre, LBP
+a procédé, depuis le contrôle sur place, à une série d’actions correctrices visant à renforcer la protection de la
+clientèle ; que ces actions comportent notamment un programme de modernisation du poste de travail du
+conseiller permettant que les exigences de conformité et de traçabilité soient intégrées dans le parcours que
+doit suivre le conseiller avant finalisation de la vente ; qu’elle a également engagé des mesures correctrices
+destinées à s’assurer du respect par les conseillers de l’obligation de remise au client de la fiche de
+préconisation, dont le contenu a été modifié pour se conformer aux attentes de l’ACPR ;
+27. Considérant que les manquements retenus par la Commission, qui ont principalement trait à
+l’organisation et au fonctionnement du dispositif de contrôle interne de LBP au titre des opérations de rachat
+de contrats d’assurance sur la vie incluant des unités de compte Progressio, justifient, compte tenu de leur
+nature et de leur gravité et au vu des éléments d’atténuation mentionnés ci-dessus, le prononcé d’un blâme ;
+que, pour les mêmes raisons et dans le respect du principe de proportionnalité au regard de l’assise financière
+de LBP, une sanction pécuniaire de 5 millions d’euros sera également prononcée ;
+28. Considérant qu’en raison de la nature de ces manquements, la Commission n’estime pas que la
+publication nominative de la présente décision causerait à LBP un préjudice disproportionné ; qu’elle n’est
+pas non plus de nature à perturber gravement les marchés financiers ; que la présente décision sera donc
+publiée sous cette forme ;
+Autorité de contrôle prudentiel et de résolution 10
+
+===== Page 11 =====
+Décision de la Commission des sanctions – procédure no 2016-04
+PAR CES MOTIFS
+DÉCIDE :
+ARTICLE 1ER – Il est prononcé à l’encontre de LBP un blâme et une sanction pécuniaire de 5 millions
+d’euros (cinq millions d’euros).
+ARTICLE 2 – La présente décision sera publiée au registre de l’ACPR et pourra être consultée au
+secrétariat de la Commission.
+Le Président de la Commission
+des sanctions
+Rémi BOUCHEZ
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification et
+dans les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 11

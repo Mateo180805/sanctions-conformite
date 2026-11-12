@@ -1,0 +1,536 @@
+===== Page 1 =====
+ÉTABLISSEMENT DE
+CRÉDIT A
+Procédure no 2018-01
+–––––
+Blâme et sanction pécuniaire de
+50 millions d’euros
+–––––
+Audience du 5 décembre 2018
+Décision rendue le 21 décembre 2018
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 5 avril 2018 par laquelle le Président de l’Autorité de contrôle prudentiel et de
+résolution (ci-après l’« ACPR ») informe la Commission de ce que le Collège de supervision de l’ACPR
+(ci-après le « Collège »), statuant en formation restreinte, a décidé d’ouvrir une procédure disciplinaire
+à l’encontre de l’établissement de crédit A, enregistrée sous le n° 2018-01;
+Vu la notification des griefs du 5 avril 2018 et les pièces qui y sont jointes ;
+Vu les mémoires en défense des 18 juin et 14 septembre 2018, ainsi que le courrier du 8 octobre
+2018, par lesquels l’établissement de crédit A (i) conteste les griefs (ii) et présente les actions correctrices
+mises en œuvre depuis le contrôle ;
+Vu les mémoires en réplique des 3 août et 1er octobre 2018, par lesquels Mme Martine Lefebvre,
+représentante du Collège, maintient l’ensemble des griefs notifiés ;
+Vu le rapport du 2 novembre 2018 de M. Denis Prieur, rapporteur, dans lequel celui-ci conclut que
+les 4 griefs notifiés sont établis ;
+Vu les courriers du 2 novembre 2018 convoquant les parties à l’audience et les informant de la
+composition de la Commission et de ce qu’il sera fait droit à la demande présentée par l’établissement
+de crédit A tendant à ce que cette audience ne soit pas publique ;
+Vu les autres pièces du dossier, notamment le rapport de contrôle du 21 novembre 2017 ;
+Vu la Convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales
+ainsi que le protocole n° 7 qui lui est annexé (ci-après la « CESDHLF ») ;
+Vu le code monétaire et financier (ci-après le « CMF »), notamment ses articles L. 561-36-1, L. 562-
+1, L. 562-2, L. 562-3, L. 562-4, L. 562-5, L. 612-38, L. 612-39, R. 562-2 et R. 612-35 dans leur rédaction
+applicable aux faits ;
+Vu le règlement no 97-02 du 21 février 1997 modifié relatif au contrôle interne des établissements de
+crédit et des entreprises d’investissement (ci-après le « règlement n° 97-02 »), notamment ses articles 5,
+11-3 et 11-7, dans sa rédaction applicable aux faits ;
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2018-01
+Vu l’arrêté du 3 novembre 2014 relatif au contrôle interne des entreprises du secteur de la banque,
+des services de paiement et des services d’investissement soumises au contrôle de l’Autorité de contrôle
+prudentiel et de résolution (ci-après l’« arrêté du 3 novembre 2014 »), notamment ses articles 11, 38, 47
+et 253 ;
+Vu l’instruction n° 2012-I-04 du 28 juin 2012 relative aux informations sur le dispositif de prévention
+du blanchiment de capitaux et du financement des activités terroristes modifiée par les instructions n°
+2014-I-01 du 10 février 2014, n° 2014-I-06 du 2 juin 2014, n° 2015-I-14 du 22 juin 2015 et n° 2016-I-
+22 du 3 octobre 2016 (ci-après l’« instruction du 28 juin 2012 ») ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACPR, composée de M. Rémi Bouchez, Président, de
+Mmes Claudie Aldigé et Claudie Boiteau et de MM. Francis Crédot et Thierry Philipponnat ;
+Après avoir entendu, lors de sa séance non publique du 5 décembre 2018 :
+- M. Denis Prieur, rapporteur, assisté de Mme Marie Mallard Saïh, son adjointe ;
+- Mme Alice Navarro, représentante de la directrice générale du Trésor ;
+- Mme Lefebvre, représentante du Collège, assistée du directeur des affaires juridiques de
+l’ACPR, du chef du service des affaires institutionnelles et du droit public, de deux juristes au
+sein de cette direction, ainsi que de l’adjoint à la cheffe du service des établissements du secteur
+public (1ère direction du contrôle des banques) ; Mme Lefebvre a proposé un blâme et une
+sanction pécuniaire de 50 millions d’euros dans une décision publiée sous une forme
+nominative ;
+- l’établissement de crédit A, représenté par son président du directoire, assisté du
+directeur Conformité et Juridique, ainsi que de Mes Christophe Ingrain, Tristan Gautier et Rémi
+Lorrain, avocats au Barreau de Paris (cabinet Darrois Villey Maillot Brochier) ;
+Après avoir délibéré en la seule présence de M. Bouchez, Président, de Mmes Aldigé et Boiteau et de
+MM. Crédot et Philipponnat, ainsi que de M. Jean-Manuel Clemmer, chef du service de la Commission
+des sanctions faisant fonction de secrétaire de séance ;
+1. Considérant que l’établissement de crédit A, filiale à 100 % du groupe B, propose des produits
+bancaires et financiers au travers de 17 000 points d’implantation ; qu’en 2017, cet établissement de
+crédit, qui comptait près de 11 millions de clients, a réalisé un produit net bancaire de 5,7 milliards
+d’euros et un résultat net part du groupe de 764 millions d’euros ;
+2. Considérant que, parmi ses activités, l’établissement de crédit A proposait, à la date du contrôle,
+un service de « mandats cash », service de paiement de transmission de fonds au sens de l’article L. 314-
+1 du CMF hérité du groupe B ; que ce service pouvait être fourni aux clients détenant un compte bancaire
+dans les livres de l’établissement de crédit A, les clients « en compte » soit 38 % des opérations réalisées,
+comme à ceux n’en détenant pas, les clients « hors compte », qui représentaient 62 % de ces opérations ;
+qu’à la date du contrôle, les mandats cash nationaux (ci-après « MCN ») pouvaient être « ordinaires »
+(paiement en J + 1) ou « urgents » (payables en J) ; qu’en 2016, ces deux catégories ont respectivement
+représenté 2,7 millions d’opérations (522 millions d’euros) et 2,8 millions d’opérations (826 millions
+d’euros), soit un total de 5,5 millions d’opérations et d’environ 1,3 milliard d’euros ; qu’en 2016
+toujours, la fourniture de ce service de MCN a généré une perte brute d’exploitation de (…) millions
+d’euros ;
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2018-01
+3. Considérant que l’établissement de crédit A a fait l’objet, du 2 mars au 28 juillet 2017, d’un
+contrôle sur place portant sur la conformité de son dispositif de lutte contre le blanchiment des capitaux
+et le financement du terrorisme (ci-après « LCB-FT ») ; que ce contrôle a donné lieu à la signature d’un
+rapport définitif le 21 novembre 2017 (ci-après le « rapport de contrôle ») ; qu’au vu de ce rapport, le
+Collège a décidé, lors de sa séance du 15 mars 2018, d’ouvrir la présente procédure disciplinaire ;
+I. Sur le respect de la règle non bis in idem
+4. Considérant que l’établissement de crédit A soutient, à titre liminaire, que l’ouverture de la
+présente procédure par le Collège ne respecte pas la règle non bis in idem, notamment consacrée au
+premier alinéa de l'article 4 du protocole n° 7 annexé à la CESDLH, qui interdit de poursuivre ou de
+sanctionner une personne en raison d'une infraction pour laquelle elle a déjà été acquittée ou condamnée
+par un jugement définitif ; qu’en effet, s’agissant de l’activité de MCN de l’établissement de crédit A,
+la presse a fait état de ce qu’après communication au Parquet du « pré-rapport » de contrôle, une enquête
+préliminaire avait été ouverte « pour les mêmes faits » ;
+5. Considérant, cependant, en premier lieu, que le protocole n° 7 annexé à la CESDLH ne peut être
+utilement invoqué par l’établissement de crédit A compte tenu de la réserve accompagnant l’instrument
+de ratification de ce protocole par la France, dont il se déduit que la règle « non bis in idem », telle qu'elle
+résulte de son article 4, ne trouve à s’appliquer que pour « les infractions relevant en droit français de
+la compétence des tribunaux statuant en matière pénale » et n'interdit ainsi pas le prononcé de sanctions
+administratives parallèlement aux décisions définitives prononcées par le juge répressif (Conseil d’État,
+Ass., 12 octobre 2018, SARL Super Coiffeur, n° 408567) ; qu’au surplus, aucun jugement définitif n’est
+intervenu dans cette affaire ; que, en second lieu, il résulte de la jurisprudence du Conseil constitutionnel
+(décision n° 2016-621 QPC du 30 mars 2017) que « le principe de nécessité des délits et des peines ne
+fait pas obstacle à ce que les mêmes faits commis par une même personne puissent faire l'objet de
+poursuites différentes aux fins de sanctions de nature différente en application de corps de règles
+distincts » et que « si l'éventualité que deux procédures soient engagées peut conduire à un cumul de
+sanctions, le principe de proportionnalité implique qu'en tout état de cause le montant global des
+sanctions éventuellement prononcées ne dépasse pas le montant le plus élevé de l'une des sanctions
+encourues. » ; que, au demeurant, la présente procédure disciplinaire porte seulement sur les carences
+du dispositif de gel des avoirs de l’établissement de crédit A (grief 1), l’absence, à la date du contrôle,
+d’actions correctrices permettant d’y remédier, plusieurs années après qu’elles ont été détectées (grief
+2), sans que son comité des risques en soit même informé (grief 4) et enfin sur la communication, à ce
+sujet, de renseignements erronés à l’ACPR (grief 3), et non sur des faits susceptibles d’entrer dans le
+champ de la procédure pénale mentionnée par l’établissement de crédit A ;
+6. Considérant ainsi que l’exception soulevée ne peut qu’être écartée ;
+II. Sur les griefs
+II.1. Sur les lacunes du dispositif de détection des opérations au bénéfice des
+personnes faisant l’objet d’une mesure restrictive
+7. Considérant que, selon le 2.2 de l’article 11-7 du règlement n° 97-02, dont les dispositions ont été
+maintenues à l’article 47 de l’arrêté du 3 novembre 2014, les entreprises assujetties doivent se doter de
+dispositifs adaptés à leurs activités, leur permettant de « détecter toute opération au bénéfice d’une
+personne ou d’une entité faisant l’objet d’une mesure de gel des fonds, instruments financiers ou
+ressources économiques » ;
+8. Considérant que, selon le grief 1, fondé sur ces dispositions, l’établissement de crédit A ne s’est
+pas doté d’un dispositif lui permettant de détecter, avant leur exécution, les opérations de MCN au
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2018-01
+bénéfice de personnes faisant l’objet d’une mesure européenne ou nationale de gel des
+avoirs (« personnes listées ») ; que ces opérations, bien que représentant des volumes importants (près
+de 25 millions de MCN exécutés entre le 1er janvier 2013 et le 31 mars 2017) et parfois effectuées par
+ou pour des personnes détenues, n’ont pas été intégrées dans ses outils de filtrage automatisé (F1) ou
+manuel (F2) ; que l’établissement de crédit A a, entre le 1er décembre 2009 et le 13 mars 2017, exécuté
+au moins 75 opérations de MCN pour le compte de 10 clients dont les éléments d’identité (nom, prénom
+et date de naissance) correspondent à ceux de personnes qui faisaient l’objet, à la date des opérations,
+d’une mesure de gel, dans 9 cas sur 10 en raison d’activités terroristes ; que l’établissement de crédit A
+n’était pas en mesure de détecter, avant l’exécution des opérations, si les clients, y compris les clients
+dits « hors compte » utilisateurs de MCN, qu’ils en soient émetteurs ou bénéficiaires, faisaient l’objet
+d’une mesure de gel et d’interdiction de mise à disposition de fonds ; que ces opérations ont été
+exécutées en l’absence de toute vérification préalable de leur conformité aux obligations européennes
+(dossiers 1 et 2) et nationales de gel des avoirs (dossiers 3 à 10) ; que certaines opérations ont été
+détectées a posteriori, fin 2014, par l’audit interne de l’établissement et fin 2016 par sa direction de la
+sécurité des opérations financières ;
+Sur le respect du principe de légalité des délits et des peines
+9. Considérant que l’établissement de crédit A soutient que le respect par la Commission du principe
+de légalité des délits et des peines auquel elle est soumise doit la conduire à écarter ce grief car les
+dispositions légales et réglementaires invoquées par la poursuite n’étaient pas applicables à son activité
+de MCN ;
+10. Considérant ainsi, en premier lieu, que selon l’établissement de crédit A, les règlements
+européens prévoyant des mesures de gel des avoirs mentionnés par la notification des griefs, pris en
+application des articles 60, 301 ou 308 du Traité instituant la Communauté européenne, puis de l’article
+215 du Traité sur le fonctionnement de l’Union européenne, qui sont relatifs à « la politique étrangère
+et de sécurité commune » et à « l’interruption ou la réduction des relations économiques et financières
+avec un ou plusieurs pays tiers », ne peuvent s’appliquer à des résidents de l’Union ; que c’est en raison
+de cette limitation du champ de telles mesures qu’un dispositif national de gel est venu compléter, en
+2006, le dispositif européen ; qu’aucune violation des règlements européens instituant certaines mesures
+restrictives spécifiques ne peut donc lui être reprochée dans les dossiers 1 et 2, [individus] devenus à
+nouveau résidents européens postérieurement au gel de leurs avoirs par les règlements européens
+n° 1184/2003 du 2 juillet 2003 modifiant le règlement n° 881/2002 et n° 242/2009 du 20 mars 2009
+modifiant le règlement n° 1183/2005 ;
+11. Considérant, cependant, que le reproche ne porte pas sur la réalisation d’opérations de MCN au
+bénéfice de personnes listées mais sur l’exclusion de la totalité des opérations de cette nature du
+dispositif de gel des avoirs de l’établissement de crédit A, de sorte que ne pouvaient être détectées a
+priori des opérations demandées par ou pour des personnes listées ; qu’ainsi que cela a été rappelé (cf.
+supra considérant 8), la notification des griefs mentionne que les éléments d’identité de certains clients
+correspondent à ceux de personnes faisant l’objet d’une mesure de gel, mais ne se prononce pas sur le
+fait qu’il s’agirait effectivement de ces personnes ; qu’il est constant qu’au moment du contrôle, les
+outils de filtrage de l’établissement de crédit A ne pouvaient détecter a priori aucune opération de MCN
+par ou pour une personne faisant l’objet d’une mesure de gel, que les intéressés aient été, ou non,
+résidents européens lorsque ces opérations ont été exécutées ; que, notamment, l’établissement de crédit
+A n’était pas en mesure de détecter a priori des opérations de MCN qui auraient été effectuées par ou
+pour une personne listée par un règlement européen résidant hors de l’Union européenne mais présente
+temporairement en France ; que la non-détection des opérations effectuées dans les cas mentionnés par
+la poursuite illustre cette carence, sans que la Commission, saisie seulement au titre du présent grief
+d’un manquement aux dispositions du règlement n° 97-02, modifié par l’arrêté du 29 octobre 2009 relatif
+au contrôle interne des établissements de crédit et des entreprises d'investissement qui y a introduit des
+obligations en matière de gel des avoirs, puis à celles de l’arrêté du 3 novembre 2014 qui les a
+maintenues, ait à statuer sur l’existence, dans ces deux dossiers, de violations des règlements européens
+instituant des mesures restrictives ;
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2018-01
+12. Considérant, en deuxième lieu, que l’établissement de crédit A soutient que jusqu’au 1er juillet
+2017, en application des dispositions qui ont été introduites aux articles L. 564-1 et L. 564-2 du CMF
+par la loi n° 2006-64 du 23 janvier 2006 relative à la lutte contre le terrorisme et portant dispositions
+diverses relatives à la sécurité et aux contrôles frontaliers, avant d’être transférées, à compter du 1er
+février 2009, aux articles L. 562-1 à L. 562-6 du CMF, seuls les avoirs « détenus en compte » pouvaient,
+au titre du dispositif français, faire l’objet de mesures de gel et d’interdiction ; que le caractère restrictif
+de ces dispositions, souligné par les travaux parlementaires, dont le rapport du 18 février 2016 sur le
+projet de loi renforçant la lutte contre le crime organisé, a conduit le législateur à les modifier, l’article
+L. 562-2 du CMF mentionnant désormais, dans sa version applicable à compter du 1er juillet 2017, que
+peuvent être visées par une mesure de gel, les fonds et ressources « 1° Qui appartiennent à, sont
+possédés, détenus ou contrôlés par des personnes physiques ou morales (…) » ; que les MCN, proposés
+à une clientèle de particuliers et, ainsi que l’indique le rapport de contrôle, « uniquement payables en
+espèces », ne sont pas inscrits dans les comptes de l’établissement de crédit A ; que les opérations s’y
+rapportant ne portent donc pas sur des avoirs détenus auprès d’elle ;
+13. Considérant, cependant, que les dispositions de l’article L. 564-2 transférées en 2009 aux articles
+L. 562-1 et L. 562-2 du CMF mentionnaient, jusqu’au 1er juillet 2017, les « fonds, instruments financiers
+et ressources économiques détenus auprès des » organismes assujettis, « qui appartiennent à des
+personnes physiques ou morales qui commettent, ou tentent de commettre, des actes de terrorisme (…)
+» et non les fonds « détenus en compte » par ces personnes ; que ces dispositions doivent être lues à la
+lumière de celles qui précisent, à l’article L. 561-2 puis à l’article L. 562-4, que le gel des fonds «
+s’entend comme toute action visant à empêcher tout mouvement, transfert ou utilisation de fonds,
+instruments financiers et ressources économiques qui auraient pour conséquence un changement de
+leur montant, de leur localisation, de leur propriété, de leur nature ou toute autre modification qui
+pourrait en permettre l'utilisation par les personnes faisant l'objet de la mesure de gel » ; qu’ainsi, il
+serait contraire à l’objet même des dispositions législatives en cause, qui au demeurant ne visent pas que
+les seuls établissements de crédit, de restreindre à ceux inscrits sur un compte bancaire ouvert au nom
+de la personne concernée le champ des avoirs détenus auprès d’un organisme financier qui étaient, au
+moment du contrôle, susceptibles d’être visés par une mesure de gel ; que les fonds remis par un client
+qui demandait une opération de MCN transitaient par l’établissement de crédit A et étaient inscrits dans
+son outil T1 jusqu’à leur remise à leur bénéficiaire de sorte que, pendant leur transfert et jusqu’à cette
+remise, ils étaient bien détenus « auprès » de l’établissement de crédit A au sens et pour l’application
+des dispositions ci-dessus rappelées et entraient, en conséquence, dans le périmètre du dispositif français
+de gel des avoirs ;
+14. Considérant, en troisième lieu, que l’établissement de crédit A soutient que l’article L. 562-5 du
+CMF, dans sa version antérieure au 1er juillet 2017, introduite par l’ordonnance n° 2009-104 du 30
+janvier 2009 relative à la prévention de l'utilisation du système financier aux fins de blanchiment de
+capitaux et de financement du terrorisme (ci-après l’ « ordonnance n° 2009-104 »), limitait l’interdiction
+de transférer des fonds aux seules opérations effectuées au bénéfice de personnes listées et portant sur
+des fonds leur appartenant ; que, dans cette rédaction, cette mesure visait, par exemple, le cas d’une
+personne vendant un bien immeuble et faisant ensuite verser le produit de la vente sur son compte ; que,
+selon l’établissement de crédit A, cette disposition excluait donc dans leur ensemble les opérations de
+MCN de son champ dès lors que celles-ci soit n’étaient pas effectuées « au bénéfice » d’une personne
+listée, soit ne portaient pas sur des fonds « qui leur appartiennent » ; qu’aucune des 31 opérations
+mentionnées par la poursuite comme effectuées en violation d’une mesure nationale de gel (dossiers 3
+à 10) n’entrait donc dans les prévisions de cet article ;
+15. Considérant, cependant, que dans le rapport du 16 novembre 2005 de la Commission des lois de
+l’Assemblée nationale sur le projet de loi qui a institué un dispositif français de gel des avoirs en
+complément du dispositif européen (AN n° 2681), il était souligné que « S’agissant des fonds
+susceptibles d'être concernés par une mesure de gel, ils sont définis au second alinéa de l'article L. 564-
+1 nouveau dans des termes qui reprennent littéralement ceux figurant à l'article premier (1°) du
+Règlement n° 2580/2001 du Conseil du 27 décembre 2001 » ; que ce règlement européen définissait les
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2018-01
+fonds, instruments financiers et ressources économiques, comme « les avoirs de toute nature, corporels
+ou incorporels, mobiliers ou immobiliers, acquis par quelque moyen que ce soit, et les documents ou
+instruments légaux sous quelque forme que ce soit (…) » ; que la loi n° 2006-64 du 23 janvier 2006 a
+ainsi introduit, au premier alinéa de l’article L. 564-2, une disposition selon laquelle « le ministre chargé
+de l’économie peut décider le gel, pour une durée de six mois, renouvelable, de tout ou partie des fonds,
+instruments financiers et ressources économiques détenus auprès des [organismes assujettis] qui
+appartiennent à des personnes physiques ou morales qui commettent, ou tentent de commettre, des actes
+de terrorisme (…) » ; que ces dispositions étaient alors complétées par celles du troisième alinéa de
+l’article L. 564-2 selon lesquelles « Le ministre chargé de l'économie peut également décider d'interdire,
+pour une durée de six mois renouvelable, tout mouvement ou transfert de fonds, instruments financiers
+et ressources économiques au bénéfice des personnes physiques ou morales mentionnées au premier
+alinéa. » ;
+16. Considérant que la définition des avoirs susceptibles d’être gelés et des mesures de gel a été
+reprise par l’ordonnance n° 2009-104, qui n’a pas eu pour objet et ne peut avoir eu pour effet d’en
+réduire la portée, aux articles L. 562-1 et suivants du CMF ; qu’après l’intervention de cette ordonnance,
+les compétences du ministre chargé de l’économie, au titre de la lutte contre le financement du terrorisme
+et des sanctions financières internationales, sont d’abord définies, respectivement, aux articles L. 562-1
+et L. 562-2, dans une rédaction d’où il ne résulte aucune limitation par rapport à la version antérieure,
+tandis que le champ et la teneur des mesures de gel sont mentionnés à un nouvel article L. 562-4 qui
+prohibe toujours, comme il a été dit plus haut, « tout mouvement, transfert ou utilisation de fonds,
+instruments financiers et ressources économiques qui auraient pour conséquence un changement de
+leur montant, de leur localisation, de leur propriété, de leur nature ou toute autre modification qui
+pourrait en permettre l'utilisation par les personnes faisant l'objet de la mesure de gel. » ; qu’ainsi,
+l’article L. 562-5 complète, relativement aux opérations au bénéfice d’une personne listée et portant sur
+des fonds lui appartenant, les dispositions qui figurent aux articles précédents ; qu’il ne peut donc être
+sérieusement soutenu que, dans leur rédaction issue de l’ordonnance n° 2009-104, les dispositions
+combinées des articles L. 562-1 à L. 562-6 ne permettaient d’inclure dans le gel, au titre des mouvements
+ou transferts de fonds, que ceux par lesquels une personne listée déposerait des fonds en demandant
+qu’ils soient portés au crédit de son compte ;
+17. Considérant, au surplus, que les arrêtés pris à l’égard des clients dont les dossiers illustrent les
+carences du dispositif de détection de l’établissement de crédit A contredisent l’analyse de
+l’établissement, puisqu’ils mettent en place une interdiction de tous « mouvements ou transferts de
+fonds, instruments financiers et ressources économiques au bénéfice des personnes listées (…) » ; que,
+de même, l’article 11-7 du règlement n° 97-02 mentionnait l’obligation de mettre en place un dispositif
+de contrôle interne en matière de gel des avoirs en des termes analogues ; qu’il imposait que le dispositif
+mis en place par tout organisme assujetti lui permette de détecter toute opération entrant dans le champ
+de mesures de gel décidées par arrêté du ministre de l’économie mais aussi de mesures restrictives prises
+en application de règlements européens lesquels, ainsi que cela a été dit, retenaient une définition très
+large des avoirs concernés et des mouvements prohibés ; que dès lors, quelle que soit l’interprétation
+par l’établissement de crédit A des dispositions de l’article L. 562-5 du CMF, dans sa version alors
+applicable, il lui revenait, afin d’être en mesure de détecter toute opération au bénéfice d’une personne
+ou d’une entité faisant l’objet d’une mesure nationale ou européenne de gel, d’inclure les MCN dans ses
+outils de détection ; qu’en matière de transmission de fonds, les obligations des opérateurs avaient, au
+demeurant, été explicitées par les lignes directrices conjointes de la direction générale du Trésor et de
+l’ACPR, publiées en juin 2016, aux termes desquelles « 147. Les transmetteurs de fonds sont tenus de
+ne pas exécuter l’opération lorsque le donneur d’ordre est une personne ou entité désignée. (…) / 150.
+En outre, les transmetteurs de fonds ne mettent pas de fonds à la disposition d’un bénéficiaire faisant
+l’objet d’une mesure de gel. Ils n’exécutent aucune transmission de fonds au profit d’une personne ou
+entité désignée.» ;
+Sur les 75 opérations qui, selon la poursuite, ont été exécutées pour le compte de personnes dont les
+éléments d’identité (nom, prénom et date de naissance) correspondent à ceux de personnes qui faisaient
+l’objet, à la date des opérations, d’une mesure de gel des avoirs
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2018-01
+18. Considérant que l’établissement de crédit A soutient qu’il convient de soustraire des 75
+opérations effectuées, selon la poursuite, au bénéfice de 10 clients visés par une mesure européenne ou
+nationale de gel (dossiers 1 à 10 dans la numérotation mentionnée au considérant 8), 16 opérations qui
+ne peuvent avoir été exécutées au bénéfice de la personne listée (dossier 1), 32 opérations autorisées par
+un juge d’instruction ou l’administration pénitentiaire et exécutées pour le compte de personnes
+incarcérées et 21 opérations, « exécutées avant le 1er février 2013, date à laquelle l’établissement de
+crédit A aurait pris conscience des manquements de son système de contrôle selon le rapport ACPR » ;
+19. Considérant cependant qu’ainsi que cela a été indiqué, il n’appartient pas à la Commission, saisie
+d’un grief relatif au dispositif de gel des avoirs d’un organisme assujetti, de déterminer si des opérations
+ont été exécutées en violation d’une mesure individuelle de gel, notamment par ou pour des personnes
+détenues ; que les dossiers mentionnés ne constituent, comme la poursuite l’a précisé, que « de simples
+illustrations du grief » ; qu’ainsi, la réduction, selon l’établissement de crédit A, du nombre d’opérations
+concernées est sans conséquence sur le grief ;
+*
+20. Considérant que l’établissement de crédit A, tout en soulignant l’efficacité de son dispositif de
+LCB-FT, dans lequel plus de (…) millions d’euros ont été investis depuis 2014, ainsi que l’existence, à
+la date du contrôle, d’outils de filtrage a posteriori des opérations de MCN, ne conteste pas l’exclusion
+de ces opérations de son système de filtrage a priori, constatée par la mission de contrôle ; qu’il n’existe
+aucun motif permettant de justifier, au regard des définitions européennes comme françaises des mesures
+restrictives, une telle exclusion ; qu’ainsi, l’établissement de crédit A a commis un manquement aux
+dispositions du 2.2 de l’article 11-7 du règlement n° 97-02, puis de l’article 47 de l’arrêté du 3 novembre
+2014 ; qu’un tel manquement peut être sanctionné dans le respect du principe de légalité ; que le grief
+est établi, quelles qu’aient pu être les actions correctrices entreprises depuis, qui ont notamment consisté
+en un abandon, courant 2017, de l’activité de MCN ; que la détection a posteriori de certaines de ces
+opérations est sans conséquence sur le grief ;
+II.2. Sur l’absence de mise en œuvre effective de mesures correctrices
+21. Considérant que selon l’article 11-3 du règlement n° 97-02, dont les dispositions figurent
+désormais à l’article 38 de l’arrêté du 3 novembre 2014, les entreprises assujetties doivent mettre en
+place « des procédures permettant de suivre et d'évaluer la mise en œuvre effective des actions visant à
+remédier à tout dysfonctionnement dans la mise en œuvre des obligations de conformité » ; que selon le
+f) de l’article 5 du règlement n° 97-02, dont les dispositions figurent désormais au f) de l’article 11 du
+même arrêté du 3 novembre 2014, le système de contrôle des opérations doit permettre de vérifier
+l’exécution, dans des délais raisonnables, des mesures correctrices décidées au sein des entreprises
+assujetties ;
+22. Considérant que, selon le grief 2, fondé sur ces dispositions, l’établissement de crédit A avait
+connaissance, dès 2013, de la non-conformité à ses obligations légales de son dispositif qui ne prévoyait
+pas la détection des MCN au bénéfice de personnes dont les avoirs sont gelés ; qu’un projet dénommé
+« Convergence T2/T1 » de filtrage automatique a priori des MCN, leur appliquant ainsi le traitement
+des mandats cash internationaux, a été examiné par le Comité des systèmes d’information les 19 février
+et 24 mai 2013, en vue d’ « aligner la banque avec les exigences réglementaires », avant que sa mise
+en œuvre ne soit décidée lors de la réunion du 29 novembre 2013 du Comité stratégique des Systèmes
+d’information et des grands projets (ci-après « CSIGP »), l’échéance prévue étant alors le troisième
+trimestre 2015 ; que, plus de 7 ans après l’entrée en vigueur de l’obligation de se doter d’un tel dispositif,
+et après plusieurs reports de ce projet informatique, l’établissement de crédit A n’avait, à la date du
+contrôle, mis en œuvre aucune mesure correctrice ; que, pourtant, les analyses de l’audit interne de cet
+établissement avaient souligné, en juin 2015, « un risque avéré et élevé, au regard des obligations
+réglementaires (Article L. 562-4 du CMF) », relevé l’exécution de ce type d’opérations pour le compte
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2018-01
+de 6 clients soumis à des mesures de gel et recommandé de soumettre cette question au Comité des
+risques Groupe avant le 30 septembre 2015 ; que ce comité n’a été saisi de ce sujet ni en 2015 ni en
+2016 ; qu’en outre, le risque de sanction résultant de l’absence de filtrage des MCN avait été mentionné
+dans une procédure de la direction de la conformité et du contrôle permanent de l’établissement de crédit
+A dénommée « Fiche de risque unitaire » mise à jour en décembre 2016 ; que, bien qu’évalué comme «
+critique », ce risque y était mentionné comme accepté, la mise en œuvre d’un dispositif de filtrage des
+MCN ne devant alors être finalisée qu’au 31 décembre 2018 ; qu’ainsi, à la fin de la mission de contrôle
+sur place le 28 juillet 2017, l’établissement de crédit A n’avait mis en place aucune action correctrice
+visant à intégrer les MCN à son dispositif de gel des avoirs ;
+23. Considérant que l’établissement de crédit A estime que, puisque le premier grief est dépourvu de
+base légale, le deuxième l’est aussi ; que le filtrage a priori des MCN avait bien été décidé le 29
+novembre 2013, le retard dans son application étant dû à des difficultés techniques, notamment relatives
+à ses systèmes d’information ; qu’à compter de novembre 2015, le projet « Convergence T2/T1» a été
+inclus dans un projet plus vaste, dénommé « C », ce qui a retardé son démarrage, puis inclus dans un
+projet « D/M » par lequel l’établissement de crédit A et la banque X ont décidé, en avril 2016, de
+mutualiser leurs systèmes de paiement ; qu’en 2017, des contraintes chez le prestataire informatique
+choisi ont conduit à reporter la mise en place du filtrage, dont la livraison de la plateforme technique
+était initialement prévue pour juin 2017 et l’exploitation par l’établissement de crédit A en mars 2018 ;
+qu’en raison de ces difficultés, un projet de substitution dénommé « P », avec pour échéance mi-2018,
+a été lancé courant 2017 ;
+24. Considérant, cependant, que le manquement par l’établissement de crédit A, à la date du contrôle,
+à ses obligations en matière de détection a priori d’opérations de MCN exécutées par des personnes
+faisant l’objet d’une mesure de gel des avoirs est établi (cf. supra, considérant 20) ; que la note de
+« Présentation d’avant-projet Convergence T2/T1 » annexée au compte rendu de la séance du CSGIP
+du 29 novembre 2013, au cours de laquelle ce projet a été « rapidement présenté », relevait que « La
+réglementation, rappelée par l’ACP, impose de renforcer les contrôles (LAT, connaissance client) sur
+les transferts d’argent nationaux » et précisait, au titre des « enjeux réglementaires », la nécessité de
+« contrôler les mandats cash par rapport aux listes de sanctions financières françaises. » ; que
+l’achèvement du projet était alors prévu en 2015 ; que pourtant, les documents annexés au comité d’audit
+du 8 octobre 2014 mentionnaient qu’à cette date, « les budgets pour cette seconde phase [c’est-à-dire
+l’intégration des mandats nationaux dans T2] n’ont pas été alloués » ; qu’après transfert de ce projet,
+l’intégration des MCN dans le dispositif de gel des avoirs n’était toujours pas achevée au moment du
+contrôle ; que l’absence de mise en œuvre rapide d’actions de remédiation à la suite du rapport de
+l’inspection générale de l’établissement de crédit A de juin 2015, qui avait été adressé au président du
+directoire, au secrétaire général, au directeur de la conformité et du contrôle permanent et au directeur
+des risques-groupe de cet établissement constitue, en raison des observations de ce rapport relatives aux
+opérations de transferts de fonds nationaux, une carence d’une particulière gravité ; que la fiche de risque
+unitaire mentionnée par la poursuite, créée le 20 novembre 2013 et mise à jour le 13 décembre 2016,
+était intitulée « Sanctions suite au non-respect des obligations réglementaires en matière de détection
+des sanctions financières » ; qu’elle soulignait notamment que « La mesure du risque critique résulte
+des impacts financiers, règlementaires, d'image potentiellement très élevés en cas de survenance du
+risque. De plus, en matière de sanctions financières, les établissements bancaires ont une obligation de
+résultat. » et comportait même une estimation de la sanction susceptible d’être prononcée pour ces faits,
+soit 250 000 euros ; que la décision mentionnée à ce sujet dans la fiche était, dans la version de décembre
+2016, « acceptation du risque avec mise en place de plans d’actions » ; que le rapport de contrôle, non
+contredit sur ce point par l’établissement de crédit A, soulignait que « la présentation faite lors du comité
+directeur du projet M du 2 mars 2017 prenait acte du dérapage de plus de quinze mois du dispositif
+d’intégration des mandats domestiques dans la solution de filtrage recherchée » ; que les difficultés
+techniques rencontrées ne peuvent justifier un retard de plusieurs années dans la correction d’un
+dysfonctionnement majeur ; que les actions correctrices, par lesquelles, finalement, les MCN urgents,
+puis ordinaires entre personnes physiques, ont été successivement supprimés les 28 août et 31 décembre
+2017, n’ont pas été mises en œuvre dans un délai raisonnable loin s’en faut ; que le grief est donc établi ;
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2018-01
+II.3. Sur la transmission de données inexactes à l’ACPR
+25. Considérant que, selon l’instruction du 28 juin 2012, les organismes assujettis doivent remettre
+au SGACPR des tableaux dénommés « BLANCHIMT » dans lesquelles figurent des informations
+relatives à leur dispositif de LCB-FT ;
+26. Considérant que, selon le grief 3, fondé sur ces dispositions, certaines réponses apportées au
+Secrétariat général de l’ACPR au titre de l’année 2016 étaient inexactes en ce qui concerne les opérations
+de MCN ; que tout en ayant connaissance de l’absence de dispositif de filtrage des MCN, l’établissement
+avait déclaré, que son dispositif « - permet de détecter les opérations effectuées au bénéfice de personnes
+ou entités faisant l’objet de mesures de gel des avoirs nationales et européennes (réponse à la question
+71) ; / - permet de s’assurer que les fonds, instruments financiers ou ressources ; / - économiques d’une
+personne ou d’une entité faisant l’objet d’une mesure de gel en application des réglementations
+européennes ou nationales ne sont pas mis à sa disposition (réponse à la question 72) ; / - permet, à la
+suite de toute modification des dispositions nationales ou européennes en vigueur, de détecter les fonds,
+instruments financiers ou ressources économiques d’une personne ou d’une entité faisant l’objet d’une
+mesure de gel et de mettre immédiatement en œuvre cette mesure (réponse à la question 73) » ;
+27. Considérant que l’établissement de crédit A soutient que la Commission ne peut sanctionner la
+violation d’une instruction de l’ACPR, le législateur ne lui ayant octroyé aucun pouvoir réglementaire ;
+que la violation d’une instruction n’est pas citée parmi les manquements susceptibles d’entraîner une
+sanction ;
+28. Considérant, cependant, qu’en application de l’article L. 612-39 du CMF, la Commission peut
+notamment sanctionner toute infraction à une « disposition européenne, législative ou réglementaire au
+respect de laquelle l'Autorité a pour mission de veiller » ; que l’article L. 612-24 du CMF dispose que
+l’ACPR est compétente pour déterminer « la liste, le modèle, la fréquence et les délais de transmissions
+des documents et informations qui doivent lui être transmis périodiquement » ; qu’ainsi, l’ACPR
+dispose, en matière de communication d’informations par les organismes assujettis, d’un pouvoir
+réglementaire ; qu’en conséquence, comme la Commission l’a déjà rappelé (cf. décision CNP
+Assurances, 26 juillet 2018), l’instruction du 28 juin 2012 fait partie des dispositions réglementaires au
+respect desquelles l’Autorité a pour mission de veiller ; que son non-respect peut donc être sanctionné
+par la Commission ; que les faits mentionnés par la poursuite ne sont pas contestés ; que le grief est donc
+établi ;
+II.4. Sur l’absence d’information régulière du comité des risques
+29. Considérant que, selon le a) de l’article 253 de l’arrêté du 3 novembre 2014, « les dirigeants
+effectifs informent régulièrement, au moins une fois par an, l'organe de surveillance et, le cas échéant,
+le comité des risques : a) Des éléments essentiels et des enseignements principaux qui peuvent être
+dégagés de l'analyse et du suivi des risques associés à l'activité et aux résultats auxquels l'entreprise
+assujettie et, le cas échéant, le groupe sont exposés, notamment (…) la surveillance du risque de non-
+conformité » ;
+30. Considérant que selon le grief 4, fondé sur ces dispositions, il ne ressort pas des comptes rendus
+des réunions du comité des risques du conseil de surveillance tenues en 2015 et en 2016 que ce comité
+ait été informé au cours de cette période du risque de non-conformité lié à l’absence de filtrage des
+opérations de MCN ;
+31. Considérant que l’établissement de crédit A indique que le comité des risques a régulièrement
+été informé des enjeux en matière de LCB-FT ; que le défaut d’information de ce comité au sujet du
+risque spécifique lié aux MCN résulte des insuffisances des directions de la sécurité et des opérations
+financières et de la conformité et du contrôle permanent qui n’ont pas suffisamment attiré l’attention du
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2018-01
+directoire sur les décalages successifs des projets de filtrage initiés à partir de 2013 et sur la gravité des
+risques réglementaires qui en résultaient ;
+32. Considérant, cependant, que l’évocation très générale de sujets se rapportant à la LCB-FT au
+cours des réunions du comité des risques du conseil de surveillance n’équivaut pas à une information de
+ce comité sur le risque particulier de non-conformité en matière de MCN qui avait été détecté ; que le
+grief est établi, quelle que soit la direction à laquelle le défaut de transmission de l’information peut, le
+cas échéant, être imputé ;
+*
+* *
+33. Considérant qu’il résulte de ce qui précède que les 4 griefs reprochés à l’établissement de crédit
+A sont établis ; qu’ainsi, le dispositif de détection des opérations effectuées par ou pour une personne
+faisant l’objet d’une mesure européenne ou nationale de gel des avoirs n’était pas, au moment du
+contrôle sur place, conforme aux obligations applicables dans ce domaine (grief 1) ; que l’évaluation du
+risque de sanction disciplinaire pouvant résulter de cette carence n’a pas eu pour conséquence une
+décision de mise en conformité rapide de ce dispositif, malgré les informations communiquées au plus
+haut niveau de l’établissement à ce sujet (grief 2), qui n’ont pas été soumises au comité des risques de
+son conseil de surveillance (grief 4) , que les informations transmises aux services de l’ACPR sur cette
+question étaient de plus erronées (grief 3) ;
+34. Considérant que l’établissement de crédit A et son dirigeant ont fait valoir, lors de l’audience,
+que les reproches formulés par la mission de contrôle étaient circonscrits à sa seule activité de MCN,
+dont la contribution au produit net bancaire était marginale et au titre de laquelle elle subissait des pertes
+((…) millions d’euros en 2016), tandis qu’aucune critique n’était formulée au sujet de ses autres activités
+en matière de gel des avoirs ou plus généralement de LCB-FT ; que l’activité de MCN, (…), était
+notamment exercée, en raison de la mission (…) portée par l’établissement de crédit A, au bénéfice des
+populations les plus fragiles, faiblement bancarisées, qui l’utilisaient à des fins de règlement de
+prestations essentielles de la vie quotidienne, ce qui devrait selon l’établissement de crédit A conduire
+à relativiser le grief ;
+35. Considérant, cependant, que la mise en place d’un dispositif efficace de gel des avoirs répond à
+une exigence essentielle pour les organismes assujettis, en particulier les établissements bancaires, qui
+sont en première ligne pour la mise en œuvre de cette législation, au titre de laquelle leur incombe une
+obligation de résultat ; que la non-prise en compte, par un établissement, dans son système de filtrage a
+priori, d’une partie de son activité est en soi une carence très grave ; qu’en l’occurrence, les opérations
+en cause, quelle que soit leur part dans l’activité de l’établissement de crédit A et leur absence de
+rentabilité, étaient très nombreuses, portaient sur des montants cumulés importants (cf. considérant 2)
+et impliquaient des mouvements d’espèces, qui sont par nature porteurs de risques particuliers ; qu’en
+outre, la clientèle qui procédait à de telles opérations, dont une part significative n’était pas titulaire d’un
+compte ouvert dans ses livres, était mal connue de l’établissement de crédit A ; que la carence relevée
+présentait, en raison du nombre des opérations effectuées et des montants totaux en cause, et nonobstant
+le montant moyen modeste d’un MCN (moins de 300 euros), un caractère massif et affectait l’efficacité
+du dispositif français de gel des avoirs ; que la Commission ne peut que constater que cette carence s’est
+prolongée pendant une période d’environ 8 ans en raison des reports successifs des projets informatiques
+visant à intégrer les MCN au dispositif de filtrage de l’établissement de crédit A, les premières décisions
+opérationnelles n’étant intervenues, dans ce domaine, qu’à la suite de la mission de contrôle ; que la
+rapidité avec lesquelles elles ont été mises en œuvre fait apparaître a contrario la négligence dont avait
+fait preuve l’établissement jusque-là, dans un contexte pourtant marqué par l’aggravation de la menace
+terroriste et une attention accrue des pouvoirs publics sur le « micro-financement » de tels actes ; que le
+défaut de soumission de cette question à l’organe interne compétent accentue la gravité de ces
+manquements de même que la communication d’informations erronées à l’ACPR, qui n’a pas permis au
+contrôle permanent de cette Autorité de disposer d’éléments pertinents pour exercer ses missions ; que
+les renseignements communiqués par l’établissement de crédit A sur les importants investissements
+Autorité de contrôle prudentiel et de résolution 10
+
+===== Page 11 =====
+Décision de la Commission des sanctions – procédure no 2018-01
+réalisés depuis 2014 dans son dispositif de LCB-FT ne sont pas, en raison de leur caractère général, de
+nature à répondre aux reproches, non plus que, par ailleurs, l’appréciation formulée au sujet de ce
+dispositif par des services de renseignement ; qu’au moment du contrôle, le dispositif de gel des avoirs
+de l’établissement de crédit A n’était pas, en raison de l’exclusion des MCN de son champ, à la hauteur
+de ce qui pouvait être attendu d’un établissement bancaire de taille significative appartenant de surcroit
+au secteur public ;
+36. Considérant que les manquements retenus par la Commission justifient, compte tenu de leur
+nature, de leur durée, de leur particulière gravité et de leurs conséquences potentielles très lourdes, le
+prononcé d’un blâme ; que pour les mêmes raisons et au vu des éléments mentionnés ci-dessus, il y a
+lieu, dans le respect du principe de proportionnalité au regard de l’assise financière de l’établissement
+de crédit A, de prononcer une sanction pécuniaire de 50 millions d’euros ;
+37. Considérant qu’une publication nominative n'est pas susceptible de causer à l’établissement de
+crédit A un préjudice disproportionné ni de perturber gravement les marchés financiers ; qu’il y a donc
+lieu de publier la présente décision sous cette forme au registre de l’ACPR pendant une durée de 5 ans
+; qu’elle y sera ensuite maintenue sous une forme ne mentionnant plus le nom de la société sanctionnée ;
+PAR CES MOTIFS
+DÉCIDE :
+ARTICLE 1ER – Il est prononcé à l’encontre de l’établissement de crédit A un blâme et une sanction
+pécuniaire de 50 millions d’euros (cinquante millions d’euros).
+ARTICLE 2 – La présente décision sera publiée au registre de l’ACPR, pendant 5 ans sous une
+forme nominative puis sous une forme anonyme, et pourra être consultée au secrétariat de la
+Commission.
+Le Président de la Commission des sanctions
+[Rémi BOUCHEZ]
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification
+et dans les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 11

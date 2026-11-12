@@ -1,0 +1,563 @@
+===== Page 1 =====
+DIRHAM EXPRESS LIMITED FRANCE
+Procédure no 2016-10
+–––––
+Blâme et sanction pécuniaire
+de 80 000 euros
+–––––
+Audience du 18 octobre 2017
+Décision rendue le 8 novembre 2017
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 29 novembre 2016 par laquelle le Président de l’Autorité de contrôle prudentiel et de
+résolution (ci-après l’ACPR) informe la Commission de ce que le Collège de supervision de l’ACPR (ci-
+après le Collège), statuant en sa formation de sous-collège sectoriel de la banque, a décidé d’ouvrir une
+procédure disciplinaire à l’encontre de Dirham Express Limited France (ci-après « Dirham Express ») -
+29, Grand Rue, 59100 Roubaix - enregistrée sous le numéro 2016-10 ;
+Vu la notification des griefs adressée à l’établissement les 29 novembre 2016 et 9 janvier 2017 ;
+Vu les mémoires en défense des 20 février et 27 avril 2017, par lesquels Dirham Express (i) estime que
+les griefs qui lui sont reprochés ne sont, pour l’essentiel, pas fondés, (ii) fait valoir en tout état de cause que
+son dispositif de lutte contre le blanchiment des capitaux et le financement du terrorisme (ci-après « LCB-
+FT ») a été entièrement revu et (iii) demande que la séance de la Commission se tienne à huis clos ;
+Vu les mémoires des 24 mars et 30 mai 2017, par lesquels M..Christian Duvillet, représentant du Collège,
+maintient l’ensemble des griefs notifiés ;
+Vu le rapport du 14 septembre 2017 de M. Yves Breillat, rapporteur, dans lequel celui-ci conclut que 8 des
+9 griefs notifiés sont établis, dont 5 dans un périmètre réduit (griefs 1, 2, 3, 7 et 8), tandis qu’un grief doit
+être écarté (grief 4) ;
+Vu les courriers du 15 septembre 2017 convoquant les parties à l’audience et les informant de la
+composition de la Commission et de ce qu’il sera fait droit à la demande présentée par Dirham Express
+tendant à ce que cette audience ne soit pas publique ;
+Vu les observations présentées le 3 octobre 2017 par le représentant du Collège sur le rapport du
+rapporteur, selon lesquelles les griefs dont le rapporteur estime que le périmètre doit être réduit sont établis
+dans leur totalité, de même que celui dont le rapporteur estime qu’il doit être écarté ;
+Vu les autres pièces du dossier, notamment le rapport de contrôle du 19 avril 2016 ;
+Vu le code monétaire et financier (ci-après le « CMF »), notamment ses articles L. 561-5, L. 561-6, L.
+561-8, L. 561-10-2, L. 561-15, L. 561-16, L. 562-3, L. 612-39, R. 561-5, R. 561-10, R. 561-12, R. 561-23, R.
+561-24, R. 561-38 et R. 612-35 à R. 612-51 ;
+Vu l’arrêté du 2 septembre 2009 pris en application de l’article R. 561-12 du CMF et définissant des
+éléments d’information liés à la connaissance du client et de la relation d’affaires aux fins d’évaluation des
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2016-10
+risques de blanchiment de capitaux et de financement du terrorisme (ci-après l’« arrêté du 2 septembre
+2009 ») ;
+Vu l’arrêté du 3 novembre 2014 relatif au contrôle interne des entreprises du secteur de la banque, des
+services de paiement et des services d’investissement soumises au contrôle de l’Autorité de contrôle
+prudentiel et de résolution (ci-après l’« arrêté du 3 novembre 2014 »), notamment ses articles 63, 64, 70 et
+72 ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACPR, composée de M. Rémi Bouchez, Président, de Mme Claudie
+Boiteau, de MM. Jean-Pierre Jouguelet et Christian Lajoie et de Mme Elisabeth Pauly ;
+Après avoir entendu, lors de sa séance non publique du 18 octobre 2017 :
+− M. Breillat, rapporteur, assisté de M..Fabien Patris, son adjoint ;
+− M. Thomas Ernoult, représentant de la directrice générale du Trésor, qui a indiqué ne pas avoir
+d’observations à formuler ;
+− M.. Duvillet, représentant du Collège de l’ACPR, assisté de l’adjointe au directeur des affaires juridiques
+de l’ACPR, d’une juriste au sein du service des affaires institutionnelles et du droit public, d’une juriste
+au sein du service du droit de la lutte anti-blanchiment et du contrôle interne et du responsable du pôle de
+contrôle permanent LCB-FT de la deuxième direction du contrôle bancaire ; M.. Duvillet a proposé le
+prononcé d’un blâme assorti d’une sanction pécuniaire de 100 000 euros, dans une décision publiée sous
+une forme nominative ;
+− Dirham Express, ayant pour représentants le dirigeant de la succursale et le responsable du réseau des
+agents, et pour conseil Me Nicolas Mordaunt-Crook (PWC Société d’Avocats), avocat à la Cour ;
+Les représentants de Dirham Express ayant eu la parole en dernier ;
+Après avoir délibéré en la seule présence de M. Bouchez, Président, de Mme Boiteau, de MM. Jouguelet et
+Lajoie et de Mme Pauly, ainsi que de M. Jean-Manuel Clemmer, chef du service de la Commission des
+sanctions faisant fonction de secrétaire de séance ;
+1. Considérant que Dirham Express Limited est un établissement de paiement, agréé au Royaume-Uni en
+2011, qui exerce en France depuis 2012 une activité de transmission de fonds par l’intermédiaire de sa
+succursale Dirham Express Limited France (« Dirham Express ») ainsi que par une plate-forme internet et
+par des commerçants ayant le statut d’agents de paiement, au nombre de 5 à la date du contrôle ; qu’il réalise
+les opérations de transfert de fonds principalement sous la forme « d’espèces vers espèces » ou « d’espèces
+vers comptes », pour l’essentiel à destination du Maroc ; que sur la période courant du 1er janvier 2014 au 30
+juin 2015, l’établissement a exécuté environ (…) opérations auprès de (…) clients, pour un montant total
+transféré de (…) millions d’euros ; que, depuis sa création, le résultat net de Dirham Express a toujours été
+négatif ; qu’au titre de l’exercice clos le 30 juin 2016, Dirham Express a réalisé une perte nette de 1,1 million
+d’euros pour un chiffre d’affaires de 0,33 million d’euros ; que, toutefois, il résulte des indications fournies
+lors de l’audience que les moyens financiers de Dirham Express Limited lui permettent de financer sa
+structure française dans un contexte où l’activité de celle-ci ne lui permettra pas de parvenir à l’équilibre
+d’exploitation avant deux ou trois ans ;
+2. Considérant que Dirham Express a fait l’objet d’un contrôle sur place du 30 juin au 6 novembre 2015,
+dont l’objectif était d’apprécier la conformité de son dispositif de LCB-FT à la réglementation en vigueur
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2016-10
+avec un point d’attention particulier sur le risque de financement du terrorisme ; que ce contrôle a donné lieu
+à la signature d’un rapport définitif le 19 avril 2016 (ci-après le « rapport de contrôle ») ; qu’au vu de ce
+rapport, le Collège a décidé, lors de sa séance du 7 novembre 2016, d’ouvrir la présente procédure
+disciplinaire ;
+3. Considérant que si le titre VI du livre V du CMF, qui définit les obligations relatives à la LCB-FT, a
+été, dans plusieurs de ses dispositions, modifié par l’ordonnance no 2016-1635 du 1er décembre 2016
+renforçant le dispositif français de lutte contre le blanchiment et le financement du terrorisme, les exigences
+qui résultent du texte ainsi modifié sont au moins équivalentes à celles en vigueur au moment du contrôle sur
+place ; que les dispositions du CMF citées ci-après sont celles en vigueur à la date des faits ;
+I. Sur l’organisation du dispositif de LCB-FT
+A. Sur l’adaptation de la classification des risques
+4. Considérant que le 2o du I de l’article R. 561-38 du CMF prévoit que les organismes assujettis
+« Élaborent une classification des risques de blanchiment des capitaux et de financement du terrorisme
+présentés par leurs activités, selon le degré d’exposition à ces risques apprécié en fonction notamment de la
+nature des produits ou des services offerts, des conditions des transactions proposées, des canaux de
+distribution utilisés ainsi que des caractéristiques des clients » ;
+5. Considérant que selon le grief 1, fondé sur ces dispositions, la classification des risques de Dirham
+Express au moment de la mission de contrôle était incomplète et insuffisamment adaptée à son activité ;
+qu’en effet, elle ne prenait en compte, comme présentant un risque élevé, que les personnes politiquement
+exposées, mais ne traitait ni les risques relatifs aux clients personnes morales, bien que des opérations aient
+été exécutées pour le compte de tels clients (associations - dossier Association A1 -, sociétés domiciliées à
+l’étranger - dossier société marocaine de promotion immobilière A2 - ou en France - dossier de M. A3), ni
+ceux présentés par les pays à destination desquels les opérations de transmission de fonds sont réalisées ; que
+pourtant les fonds sont notamment transférés vers le Sénégal, deuxième pays de destination après le Maroc,
+la Côte-d’Ivoire et la République du Congo, pays considérés, pour les deux premiers, comme à risque par le
+Groupe Intergouvernemental d’Action contre le Blanchiment d’argent en Afrique de l’ouest (GIABA) (1 et
+2) ou, pour le troisième, faisant l’objet de mesures restrictives ; qu’elle était également inadaptée à son
+activité, en ce qu’elle comportait des seuils quantitatifs (le premier de 3 000 euros par opération ou, depuis le
+1er avril 2015, en cumul sur 90 jours, le deuxième de 7 000 euros par opération ou en cumul sur 180 jours et
+le dernier de 10 000 euros pour une opération), à partir desquels les opérations étaient considérées comme
+présentant un risque élevé, alors que la plupart des opérations réalisées sont d’un montant très inférieur ;
+6. Considérant que les dispositions ci-dessus rappelées imposent à tout établissement soumis aux règles
+de LCB-FT de mettre en place une classification des risques couvrant les activités qu’il exerce et les
+catégories de clientèle auxquelles il s’adresse et comportant des règles pertinentes en ce qui concerne les
+services, opérations ou personnes porteurs de risques particuliers ;
+7. Considérant, en premier lieu, que l’offre de services de Dirham Express a été conçue pour répondre au
+besoin de transferts de fonds de particuliers de nationalité ou d’origine marocaine ; qu’elle vise donc une
+clientèle de personnes physiques, comme en atteste le fait que c’est le numéro de la pièce d’identité
+présentée par le client qui est utilisé comme identifiant ; que si, marginalement, quelques opérations
+impliquant des personnes morales ont été exécutées, il n’en résulte pas que la classification des risques de
+Dirham Express, qui ne s’adresse pas à cette clientèle, aurait dû prévoir un traitement particulier de telles
+opérations ;
+8. Considérant en revanche, en deuxième lieu, que pour tenir compte, dans cette classification, de la
+nature des produits et services offerts, Dirham Express devait nécessairement apprécier les risques de
+blanchiment des capitaux et de financement du terrorisme (ci-après « BC-FT ») en fonction du lieu de
+résidence du bénéficiaire des fonds transférés, dès lors que certains pays de destination des fonds étaient
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2016-10
+porteurs d’un risque particulier ; que si les dispositions des articles 57 et 58 de l’arrêté du 3 novembre 2014,
+relatives à la prise en compte de certains États ou territoires mentionnés par le GAFI ainsi que des
+informations et déclarations qu’il diffuse, ne sont pas invoquées à l’appui du présent grief, les faits sont
+suffisamment qualifiés par la mention de l’article R. 561-38 précité tel qu’interprété ci-dessus ; que ce critère
+aurait d’autant plus dû être intégré que les flux concernés représentent des montants significatifs au regard de
+l’activité de Dirham Express ; que ce reproche est donc établi ;
+9. Considérant, enfin, que la définition par Dirham Express de 3 seuils d’opération, dont le premier à
+3 000 euros, ne lui permettait pas, alors que la plupart des opérations effectuées sont d’un montant unitaire
+faible (plus de la moitié sont inférieures à 200 euros, environ 1 % seulement excèdent 3 000 euros), de
+respecter correctement son obligation de classification de ses risques, ces seuils étant manifestement trop
+élevés pour être pertinents ; que ce reproche est également établi ;
+10. Considérant que le grief 1 est établi avec une légère réduction de son périmètre ainsi qu’il a été
+indiqué au considérant 7 ;
+B. Sur les procédures
+11. Considérant que le 4o du I de l’article R. 561-38 du CMF prévoit que les organismes assujettis
+« Définissent les procédures à appliquer pour le contrôle des risques, la mise en œuvre des mesures de
+vigilance relatives à la clientèle, la conservation des pièces, la détection des transactions inhabituelles ou
+suspectes et le respect de l’obligation de déclaration au service Tracfin » ; que, selon les articles 63 et 64 de
+l’arrêté du 3 novembre 2014 « les procédures précisent les diligences à accomplir en matière d’identification
+du client et les modalités de vérification de l’identité de la clientèle », de même que « les mesures de
+vigilance complémentaires ou renforcées à mettre en œuvre pour les relations d’affaires » et « les éléments
+nécessaires à la connaissance adéquate de la relation d’affaires », tandis que l’article 70 du même arrêté
+impose que « Les procédures définissent les conditions de conservation, selon des modalités propres à en
+assurer la confidentialité: » ;
+12. Considérant que selon le grief 2, fondé sur ces dispositions, les procédures de Dirham Express étaient
+incomplètes ; qu’en effet, celle intitulée « Lutte contre le blanchiment et le financement du terrorisme » (ci-
+après la « procédure LCB-FT »), de mai 2015, ne précisait ni les modalités d’identification et de vérification
+de l’identité des clients personnes morales ou de leurs représentants et, le cas échéant, de leur bénéficiaire
+effectif, ni les modalités d’identification et de vérification de l’identité et des pouvoirs des représentants d’un
+client, ni les conditions de conservation des documents ; que celle intitulée « Vigilance renforcée » de février
+2014 ne définissait pas les éléments nécessaires à la connaissance adéquate de la relation d’affaires, aucun
+document n’étant exigé de la part du client en dessous du seuil de 3 000 euros par opération ou en montant
+cumulé sur 90 jours ; que, pour 348 clients considérés par Dirham Express comme en relation d’affaires,
+aucun élément de connaissance de la clientèle n’a été réuni ; que, pour les opérations définies par
+l’établissement comme nécessitant une vigilance renforcée, en particulier celles supérieures ou égales à
+3 000 euros et inférieures à 7 000 euros, cette procédure ne prévoyait que le recueil d’informations par
+l’emploi d’un formulaire dit de « source des fonds », à remplir par le client et qui ne comportait pas de
+rubrique relative à sa profession et ses revenus ;
+13. Considérant, tout d’abord, qu’ainsi qu’il a été indiqué ci-dessus (cf. considérant 7), Dirham Express
+ne destinant pas son offre de services à des personnes morales, il ne peut être utilement reproché à sa
+procédure LCB-FT de ne pas avoir traité des diligences à accomplir en matière d’identification et de
+vérification de l’identité de clients appartenant à cette catégorie ; que, s’agissant des personnes physiques,
+l’absence de dispositions concernant l’identification de leurs représentants est en outre cohérente avec
+l’interdiction, prévue par la procédure, ainsi que le relève le rapport de contrôle, d’effectuer des opérations
+avec un mandataire ; qu’en revanche, les règles de conservation des documents n’étaient, au moment du
+contrôle, précisées par aucune procédure ; que le classement par la procédure « Vigilance renforcée » du 10
+février 2014, mise à jour le 9 mars 2015, de tous les clients dans la catégorie des relations d’affaires aurait dû
+avoir pour conséquence que soit également prévue pour tous, et non pas seulement au-delà de certains seuils,
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2016-10
+le recueil d’informations au titre de la connaissance de la clientèle ; qu’en mentionnant l’obligation de
+recueillir, outre « les informations relatives à l’identité du client », « tout autre élément d’information
+pertinent sur celui-ci », la procédure LCB-FT est trop imprécise au regard de l’obligation de connaissance du
+client en relation d’affaires ; que si Dirham Express soutient avoir recueilli, en application de cette procédure
+et au sujet des 348 clients mentionnés par la poursuite, outre une pièce d’identité, des éléments de « profil
+client », cela ne suffit pas à répondre au grief, relatif au caractère incomplet de la procédure elle-même ;
+qu’au demeurant, une telle affirmation, en contradiction avec les constats du rapport de contrôle, n’est
+corroborée par aucune pièce, le formulaire « source des fonds » mentionné étant relatif à une cliente ne
+figurant pas parmi les dossiers cités ;
+14. Considérant que dans un périmètre excluant les reproches relatifs à l’absence de traitement, dans les
+procédures de l’établissement, des opérations effectuées par des personnes morales ou des représentants de
+clients personnes physiques, le grief 2 est établi ;
+C. Sur l’absence de désignation de préposés de l’établissement
+comme déclarant et correspondant Tracfin
+15. Considérant que, selon le I de l’article R. 561-23 du CMF, « Les personnes mentionnées aux 1o à 7o de
+l’article L. 561-2 communiquent au service mentionné à l’article R. 561-33 et à leur autorité de contrôle
+désignée à l’article L. 561-36 l’identité de leurs dirigeants ou préposés habilités à procéder aux déclarations
+prescrites à l’article L. 561-15. » ; qu’en vertu de l’article R. 561-24 du CMF, ces mêmes personnes
+« communiquent (également) au service mentionné à l’article R. 561-33 et à leur autorité de contrôle
+désignée à l’article L. 561-36 l’identité de leurs dirigeants ou préposés, chargés de répondre aux demandes
+de ce service et de cette autorité » et « veillent à ce que les fonctions de correspondant soient assurées avec
+la continuité nécessaire pour être en mesure de répondre, dans les délais impartis, aux demandes du service
+mentionné à l’article R. 561-33. » ; que, selon l’article L. 561-16 de ce code, « Les personnes mentionnées à
+l’article L. 561-2 s’abstiennent d’effectuer toute opération portant sur des sommes dont elles savent,
+soupçonnent ou ont de bonnes raisons de soupçonner qu’elles proviennent d’une infraction passible d’une
+peine privative de liberté supérieure à un an ou sont liées au financement du terrorisme jusqu’à ce qu’elles
+aient fait la déclaration prévue à l’article L. 561-15. Elles ne peuvent alors procéder à la réalisation de
+l’opération que si les conditions prévues au quatrième alinéa de l’article L. 561-24 sont réunies. /
+Lorsqu’une opération devant faire l’objet de la déclaration prévue à l’article L. 561-15 a déjà été réalisée,
+soit parce qu’il a été impossible de surseoir à son exécution, soit que son report aurait pu faire obstacle à
+des investigations portant sur une opération suspectée de blanchiment des capitaux ou de financement du
+terrorisme, soit qu’il est apparu postérieurement à sa réalisation qu’elle était soumise à cette déclaration, la
+personne mentionnée à l’article L. 561-2 en informe sans délai le service prévu à l’article L. 561-23. » ;
+16. Considérant que selon le grief 3, fondé sur ces dispositions, entre octobre 2013 et juin 2014, les
+correspondants et déclarants Tracfin de Dirham Express, salariés de Dirham Express Maroc, société de
+service du groupe basée dans ce pays, ne résidaient pas en France ; que, dans ces conditions, l’établissement
+n’était pas en mesure de remplir ses obligations réglementaires de déclaration de soupçon (DS) ;
+17. Considérant que Dirham Express ne conteste pas le manquement à son obligation de désigner ses
+déclarants et représentants Tracfin parmi ses propres dirigeants et préposés mais souligne toutefois que
+l’organisation dont il lui est fait reproche ne s’est appliquée que pendant une période transitoire à la suite du
+départ du responsable de la conformité et du contrôle interne (RCCI) et n’a pas fait obstacle, en pratique, au
+respect de ses obligations déclaratives ; que toutefois, d’une part, la désignation comme déclarant Tracfin
+d’une personne salariée de Dirham Express Maroc, même à titre transitoire, constitue en soi un manquement
+aux obligations résultant de l’article R. 561-23 du CMF ; que, d’autre part, s’il n’est pas avéré que
+l’établissement se serait trouvé en conséquence dans l’impossibilité d’adresser à Tracfin des déclarations de
+soupçon, l’organisation ci-dessus décrite n’était pas de nature à permettre à Dirham Express de respecter
+dans tous les cas et sans retard ses obligations déclaratives ; que le grief 3 est donc établi avec une portée
+réduite ainsi qu’il a été dit ;
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2016-10
+D. Sur le contrôle permanent du dispositif
+18. Considérant que l’article 72 de l’arrêté du 3 novembre 2014 prévoit que « le responsable du contrôle
+de la conformité veille au caractère adapté des dispositifs et procédures mentionnés au présent chapitre,
+notamment au respect des obligations prévues aux articles L. 561-10-2, L. 561-15 et R. 561-31 du code
+monétaire et financier. » ;
+19. Considérant que selon le grief 4, fondé sur ces dispositions, le responsable de la conformité et du
+contrôle interne (RCCI) de Dirham Express n’a pas veillé au caractère adapté des dispositifs et des
+procédures LCB-FT, y compris du dispositif de suivi et de surveillance des relations d’affaires mis en place
+par l’établissement ; que ce responsable pouvant réaliser des contrôles a posteriori sur les opérations
+exécutées par l’établissement à partir d’extractions des fichiers des opérations, aux fins de détection des
+opérations atypiques ou suspectes, il lui appartient de définir le périmètre des extractions, qui sont réalisées
+par la société marocaine du groupe Dirham Express, et leur fréquence ; que cependant il n’avait, à la date de
+la mission de contrôle, réalisé qu’une seule demande d’extraction de fichiers informatiques en vue de vérifier
+la conformité des opérations réalisées par deux clients, ce qui était insuffisant au regard de l’activité de
+l’établissement ; qu’en outre, les services informatiques étaient en mesure de modifier a posteriori les
+données relatives à une opération déjà exécutée, qu’il s’agisse du montant ou du moyen de paiement utilisé ;
+qu’enfin, dans 4 dossiers, la procédure « Vigilance renforcée » n’a pas été correctement appliquée en ce que
+(i) le dépassement du seuil de 7 000 euros n’a pas donné lieu au recueil des justificatifs de domicile et de
+relevés bancaires de moins de 3 mois qu’elle prévoit (dossiers de Mme A4, M. A5), (ii) des opérations, d’un
+montant unitaire de 11 000 euros et 28 800 euros, respectivement, ont été effectuées à partir d’espèces, alors
+que la limite pour de telles opérations est fixée à 10 000 euros (dossiers de Mme A6 et Mme A7) ;
+20. Considérant que l’obligation de veiller au caractère adapté des dispositifs et des procédures implique
+notamment, comme le souligne la poursuite, que soient définies la nature et la périodicité des contrôles qui
+doivent être effectués, en particulier en ce qui concerne le suivi et la surveillance de la relation d’affaires ;
+que, toutefois, les éléments de fait retenus au soutien du grief ne sont pas suffisamment caractérisés ou ne
+suffisent pas à démontrer une carence dans la mise en œuvre par le RCCI de Dirham Express de cette
+obligation ; qu’ainsi, Dirham Express produit, sans qu’il y soit répondu par la poursuite, des échanges de
+courriels qui montrent que ce RCCI a présenté d’autres demandes d’extraction que celle mentionnée par la
+notification des griefs, dont l’établissement avait au demeurant indiqué qu’elle était citée « à titre
+d’exemple » ; que, de même, la possibilité technique de modifier a posteriori les données relatives à une
+opération exécutée est en soi à proscrire, en ce qu’elle affaiblit la fiabilité des contrôles, mais elle n’était pas
+prévue par les procédures et dispositifs que vise l’article 72 de l’arrêté du 3 novembre 2014 et elle n’est
+attestée que par un cas très particulier (dossier de Mme A6) ; que les dossiers individuels finalement retenus
+par la poursuite (après abandon du reproche relatif au dossier de Mme A4), dans lesquels la procédure
+« Vigilance renforcée » n’a pas été respectée, s’ils montrent une insuffisance des contrôles effectués
+relativement à 3 opérations, ne suffisent pas à établir que le RCCI n’a pas respecté l’obligation générale ci-
+dessus rappelée ; que le grief sera en conséquence écarté ;
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2016-10
+II. Sur le respect des obligations de vigilance et de déclaration
+A. Sur l’identification des clients et la vérification de leur identité
+21. Considérant que, selon l’article L. 561-5 du CMF, les personnes assujetties au contrôle de l’ACPR
+sont tenues d’identifier leurs clients en relations d’affaires et de vérifier leur identité ; qu’elles doivent
+également identifier et vérifier l’identité de leurs clients occasionnels « lorsqu’elles soupçonnent qu’une
+opération pourrait participer au blanchiment des capitaux ou au financement du terrorisme ou lorsque les
+opérations sont d’une certaine nature ou dépassent un certain montant » ; que, même en l’absence d’un tel
+soupçon, elles sont tenues de faire de telles diligences « quel que soit le montant de l’opération, lorsqu’elles
+réalisent une opération de transmission de fonds » (3o de l’article R. 561-10 du CMF) ; que, lorsque le client
+est une personne physique, ces diligences sont faites « par la présentation d’un document officiel en cours de
+validité comportant sa photographie. Les mentions à relever et conserver sont les nom, prénoms, date et lieu
+de naissance de la personne, ainsi que la nature, les date et lieu de délivrance du document et les nom et
+qualité de l’autorité ou de la personne qui a délivré le document et, le cas échéant, l’a authentifié » (1o de
+l’article R. 561-5 du CMF) ;
+22. Considérant que selon le grief 5, fondé sur ces dispositions, Dirham Express n’a pas correctement
+vérifié l’identité de 104 de ses clients, dont 25 avaient réalisé plusieurs opérations ; que, de plus, la mission
+de contrôle a relevé des erreurs de saisie notamment dans le profil d’un client, M. A8, dont aucune pièce
+d’identité n’a été conservée ; qu’enfin, l’établissement n’a pas « vérifié l’identité et (les) pouvoirs des
+mandataires qui se sont présentés comme des préposés de la société marocaine de promotion immobilière A2
+et comme les mandataires des 17 personnes physiques au nom desquels les fonds ont été transmis » ;
+23. Considérant que Dirham Express admet ne pas avoir conservé les copies numérisées des pièces
+d’identité des 104 clients mentionnés par la poursuite ; que l’échantillon examiné par la mission de contrôle
+est d’une taille significative au regard du nombre total de clients de Dirham Express (…) ; que les autres
+reproches ne sont pas contestés ; que la mise en place d’un mécanisme de blocage informatique empêchant
+désormais qu’une transaction puisse être effectuée si la copie de la pièce d’identité n’est pas intégrée dans le
+système informatique s’analyse comme une action correctrice, sans conséquence sur le grief, qui est établi ;
+B. Sur la connaissance de la clientèle en relation d’affaires
+24. Considérant que, selon les articles L. 561-6 et R. 561-12 du CMF, avant d’entrer en relation
+d’affaires, les personnes mentionnées à l’article L. 561-2 recueillent les informations relatives à l’objet et à la
+nature de cette relation et tout autre élément d’information pertinent sur ce client, ces éléments d’information
+devant être choisis parmi ceux figurant sur la liste dressée par l’arrêté du 2 septembre 2009 ;
+25. Considérant que selon le grief 6, fondé sur ces dispositions, Dirham Express n’a pas recueilli de
+documents relatifs à la connaissance de la clientèle, notamment des justificatifs de domicile et de patrimoine,
+en ce qui concerne 520 de ses clients en relation d’affaires ayant effectué au moins 18 opérations de
+transmission de fonds du 1er janvier 2014 au 30 juin 2015 ; qu’en outre, cette lacune dans la connaissance de
+ses clients a conduit l’établissement à ne pas détecter l’existence d’éléments communs à 4 relations d’affaires
+(dossier de M. A9 et MmeA10 ; dossier de MM. A11 et A12) ;
+26. Considérant que Dirham Express conteste le bien-fondé du grief, arguant de ce que les organismes
+assujettis disposent d’une marge d’appréciation quant à la nature et au nombre des documents à recueillir au
+titre de leurs obligations de vigilance ; que, dès lors, il lui était tout à fait possible de ne pas collecter de
+justificatifs de domicile ou de patrimoine lorsque les seuils qu’il avait définis n’étaient pas atteints ; qu’en
+outre, aucune obligation réglementaire ne le contraignait à détecter la présence d’éléments communs à
+plusieurs relations d’affaires ;
+27. Considérant, toutefois, que la connaissance du patrimoine, comme du domicile, fondée sur des
+informations vérifiées, fait partie des éléments que Dirham Express aurait dû réunir sur ses clients en relation
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2016-10
+d’affaires ; que la marge d’appréciation invoquée par Dirham Express ne peut pas, en tout état de cause,
+justifier que, en raison d’une procédure interne fixant des seuils trop élevés au regard du montant des
+opérations des clients, aucune information parmi celles mentionnées par l’arrêté du 2 septembre 2009 n’ait
+été recueillie ; que l’absence de détection de relations entre plusieurs clients en relation d’affaires, qui
+n’implique pas en elle-même une appréciation quant à une éventuelle aggravation du risque de BC-FT, prive
+les analyses effectuées au sujet de leurs opérations de leur pleine pertinence ; que le grief est donc établi ;
+C. Sur les défauts d’examen renforcé et de déclaration de soupçon
+28. Considérant que les dispositions du II de l’article L. 561-10-2 du CMF prévoient que les personnes
+assujetties aux obligations de LCB-FT « effectuent un examen renforcé de toute opération particulièrement
+complexe ou d’un montant inhabituellement élevé ou ne paraissant pas avoir de justification économique ou
+d’objet licite. Dans ce cas, ces personnes se renseignent auprès du client sur l’origine des fonds et la
+destination de ces sommes ainsi que sur l’objet de l’opération et l’identité de la personne qui en bénéficie » ;
+que, selon le I de l’article L. 561-15 du CMF, « I. – [elles] sont tenues, dans les conditions fixées par le
+présent chapitre, de déclarer au service mentionné à l’article L. 561-23 les sommes inscrites dans leurs
+livres ou les opérations portant sur des sommes dont elles savent, soupçonnent ou ont de bonnes raisons de
+soupçonner qu’elles proviennent d’une infraction passible d’une peine privative de liberté supérieure à un
+an ou participent au financement du terrorisme.» ; que, selon l’article L. 561-8 de ce code, elles doivent
+également s’abstenir de réaliser toute opération lorsqu’elles ne sont « pas en mesure d’identifier leur client
+ou d’obtenir des informations sur l’objet et la nature de la relation d’affaires » ;
+29. Considérant que Dirham Express soutient que le II de l’article L. 561-10-2 du CMF ne comportant ni
+critère objectif permettant d’identifier les opérations devant faire l’objet d’un examen renforcé, ni élément
+précis sur la nature des mesures à mettre en œuvre dans le cadre d’un tel examen, il n’appartient à l’ACPR
+que de s’assurer de l’absence de « carence manifeste » dans les diligences effectuées, et non de substituer ses
+propres appréciations à celles des organismes assujettis ; que, de manière analogue, en matière de DS, les
+dispositions du I de l’article L. 561-15 du CMF laissent à ces organismes une marge de manœuvre pour
+déterminer quelles sommes ou opérations doivent ou non être déclarées à Tracfin ; que l’ACPR ne serait
+donc pas fondée à faire prévaloir sa propre appréciation, tout aussi subjective ;
+30. Considérant cependant que le législateur a confié à l’ACPR la mission de veiller au respect, par les
+personnes qui sont sous son contrôle, des règles qui leur sont applicables ; qu’en matière disciplinaire, il
+appartient à la Commission de prendre parti sur les faits qui lui sont soumis et sur les qualifications retenues
+par le Collège afin, lorsque les manquements reprochés sont établis, de prononcer une sanction ; que, dans ce
+cadre, la Commission peut être amenée à apprécier si, dans un ou plusieurs dossiers particuliers, il y avait
+lieu ou non d’engager un examen renforcé ou de procéder à une DS ;
+1o) Sur les défauts d’examen renforcé
+31. Considérant que selon le grief 7, fondé sur les dispositions du II de l’article L. 561-10-2 du CMF, il
+est reproché à Dirham Express de n’avoir pas procédé à un examen renforcé dans 5 dossiers ;
+32. Considérant que dans le dossier de M. A13 (sous-grief 7-1), relatif à des transferts d’un montant total
+de 13 984 euros effectués entre le 14 février et le 23 décembre 2014, il convient d’extraire du champ du
+reproche la dernière opération, un transfert de fonds de 5 979 euros, effectué le 21 mai 2015 par ce client qui
+venait de percevoir, le 30 avril 2015, 7 560 euros d’indemnité de départ à la retraite ; que pour le reste, alors
+que le patrimoine de ce client était inconnu de Dirham Express, le montant des autres transferts est
+inhabituellement élevé au regard de ses revenus annuels connus, soit 23 000 euros, composés de deux
+pensions d’invalidité et de prestations sociales ; qu’il ressort de l’examen des relevés de comptes bancaires
+communiqués par le client qu’il a retiré 11 120 euros entre le 3 janvier et le 13 août 2014 et 3 230 euros entre
+le 3 octobre 2014 et le 9 décembre 2014, fonds dont l’origine n’est pas justifiée ; que la situation familiale du
+client, père de deux enfants, devait le conduire à effectuer en France des dépenses dont le financement
+n’apparaît pas clairement à l’examen de ses relevés de compte ; que les renseignements qui figurent sur
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2016-10
+les formulaires recueillis par Dirham Express relativement à ces opérations soit « source des fonds :
+épargne ; motif : aide familiale » et « source : pension d’invalidité ; motif : versement sur un compte
+marocain pour un usage au Maroc », outre qu’ils ont été réunis sur une base purement déclarative, sont trop
+généraux pour permettre de comprendre la justification économique des opérations en cause ;
+33. Considérant que les opérations de M. A14, qui a effectué les 28 avril et 10 juin 2015 deux virements
+au profit de deux bénéficiaires au Maroc, pour un montant total de 23 450 euros (sous-grief 7-2), auraient dû
+donner lieu à un examen renforcé ; que les diligences faites par Dirham Express, conformément aux
+dispositions de sa procédure « Vigilance renforcée », ne suffisent pas à répondre à ses obligations à ce titre ;
+qu’en effet, ces opérations étaient inhabituelles au regard du salaire du client, soit un peu plus de 2 700 euros
+par mois (et environ 50 000 euros de revenus annuels du ménage en 2013) ; que cet examen aurait dû
+comporter une recherche de l’origine des 3 chèques, pour un montant total de 51 500 euros, dont le produit a
+servi à alimenter ces transferts ; que la justification d’un transfert comme « aide personnelle » ou
+« travaux », sur une base déclarative, est trop imprécise pour en comprendre l’objet ; que l’affirmation
+générale d’une cohérence entre les moyens du client et les opérations qu’il effectue est également
+insuffisante à cette fin ; que, si l’établissement teneur du compte bancaire du client était soumis à des
+obligations de vigilance relative au opérations exécutées à la demande du client, cela ne peut conduire à
+dispenser Dirham Express de respecter les siennes, relativement aux opérations qu’il exécute ;
+34. Considérant que les 67 opérations de transmission de fonds à partir d’espèces, quasi exclusivement
+vers le Sénégal, en euros contre des francs CFA, pour un montant total de 11 099 euros, soit 166 euros en
+moyenne par opération effectuées en 18 mois par M. A15, client de nationalité mauritanienne (sous-grief 7-
+3), auraient dû donner lieu à un examen approfondi ; qu’en effet, la justification économique, pas plus que
+l’objet de ces opérations, dont plusieurs personnes physiques ont été les bénéficiaires réguliers, n’était
+connue de Dirham Express, les informations recueillies sur une base déclarative selon lesquelles la plupart
+des opérations du client répondraient à un motif d’« aide familiale » n’étant pas suffisamment précises ;
+35. Considérant que dans le dossier de Mme A16 (sous-grief 7-4), le recueil du formulaire « source des
+fonds », d’un justificatif de domicile et d’un relevé de compte bancaire ne répondait pas aux exigences
+d’examen renforcé qui s’imposaient pourtant ; qu’en effet, le transfert de fonds à partir d’espèces de 8 250
+euros réalisé le 18 février 2015, par une cliente dont la profession et les revenus étaient inconnus, qui
+s’inscrit dans une série de 33 opérations entre le 16 janvier 2014 et le 2 juin 2015, était d’un montant
+inhabituellement élevé ; que le caractère inhabituel de cette opération était renforcé par le fait que le relevé
+bancaire de la cliente faisait apparaître des crédits par des virements internationaux et des prêts à la
+consommation ;
+36. Considérant que dans le dossier de M. A17 et Mme A18 (sous-grief 7-5), qui ont transmis à 3 reprises,
+à partir d’espèces, des fonds, les 4 novembre 2013 (6 500 euros), 8 janvier 2014 (32 000 euros) et 29 mars
+2014 (1 300 euros) vers leur compte joint au Maroc, Dirham Express ne disposait d’aucune information sur
+les revenus et le patrimoine de ces clients ; que le simple recueil, sur une base déclarative, d’informations
+quant à l’origine des fonds (« épargne ») ne pouvait suffire à respecter ses obligations dans ce domaine ; que
+la destination des fonds (« achat de bien immobilier ») n’a pas été davantage documentée ; que le revenu
+fiscal des clients (53 352 euros en 2013) ne permettait pas de justifier ces opérations ; que la connaissance du
+solde bancaire de 47 814 euros au 6 janvier 2014 ne permettait pas de connaître l’origine des fonds ni
+d’établir que ce sont ces mêmes fonds qui ont été utilisés pour le virement du 8 janvier 2014 ; que, bien
+qu’elle soit d’un montant plus modeste, la troisième opération aurait dû également donner lieu à un examen
+approfondi, en raison de l’incertitude existant quant à sa justification économique ou la licéité de son objet ;
+37. Considérant ainsi que le grief 7 est établi relativement aux 5 dossiers individuels mentionnés par la
+notification des griefs ;
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2016-10
+2o) Sur les défauts de déclaration de soupçon
+38. Considérant que selon le grief 8, fondé sur les dispositions du I de l’article L. 561-15 du CMF, 10
+dossiers examinés par la mission de contrôle présentent un défaut de déclaration de soupçon initial ;
+39. Considérant que dans le dossier de Mme A19 (sous-grief 8-1), le transfert à partir d’espèces, en 15
+mois, de 19 248 euros, montant supérieur aux revenus déclarés de cette cliente, alors en outre que ses relevés
+de compte ne mentionnaient pas le versement du salaire déclaré de 1 200 euros, aurait dû donner lieu à
+l’envoi d’une DS à Tracfin ; que le fait que l’établissement de crédit teneur du compte était soumis aux
+obligations de vigilance et de déclaration ne dispensait pas Dirham Express du respect de ses propres
+obligations ;
+40. Considérant que dans le dossier de M. A20 (sous-grief 8-2), la réalisation, en 2014, par un client dont
+la profession était inconnue de Dirham Express, de 21 opérations pour un montant total de 33 557 euros,
+supérieur aux revenus connus du client (21 461 euros en 2012), alors que Dirham Express ne disposait pas de
+justificatifs relatifs à l’origine des fonds transférés, aurait dû être déclarée à Tracfin ;
+41. Considérant que dans le dossier de Mme A21 (sous-grief 8-3), l’exécution de deux transferts d’espèces
+le 7 juin 2014, pour un montant total de 13 000 euros, en contradiction avec les procédures de
+l’établissement qui exigeaient un virement préalable pour les opérations supérieures à 10 000 euros, suivie
+d’une troisième opération, de 1 190 euros, le 13 septembre 2014, est incohérente avec les éléments de
+connaissance du client dont disposait Dirham Express ; qu’en effet, selon les informations recueillies, cette
+cliente disposait de 1 450 euros de revenus par mois et son épargne était quasi inexistante ;
+42. Considérant que dans le dossier de M. A22 (sous-grief 8-4), la réalisation, entre le 28 janvier et le 15
+avril 2015, de 20 400 euros de virements, soit 1 275 euros par mois en moyenne, est incohérente avec la
+situation connue du client, retraité disposant de 1 165 euros de revenus mensuels, ainsi que Dirham Express
+l’admet au demeurant ; que les informations communiquées dans le formulaire « source des fonds » du 28
+janvier 2014 (« épargne retraite »), imprécises, n’ont pas été vérifiées ;
+43. Considérant que dans le dossier de Mme A23 (sous-grief 8-5), la réalisation, entre le 7 février 2014 et
+le 24 avril 2015, de 30 transferts de fonds, dont 27 à partir d’espèces, pour un montant total de 28 942 euros,
+soit un montant mensuel moyen d’environ 2 000 euros, n’était pas cohérente avec le salaire mensuel de 1 252
+euros perçu par cette cliente ; que Dirham Express ne disposait d’aucune information sur une éventuelle
+épargne préalablement constituée par celle-ci ; que, faute d’éléments plus précis, les motifs indiqués des
+transferts, « familial » et, a fortiori, « autres », ne pouvaient suffire à expliquer ces opérations, au sujet
+desquelles aucun justificatif de l’origine des fonds ne figure au dossier ; que la réalisation par un client de
+nombreuses opérations unitaires d’un faible montant n’est pas de nature à exonérer Dirham Express de son
+obligation de déclaration à leur sujet ;
+44. Considérant que dans le dossier de M. A24 (sous-grief 8-6), 8 opérations de transmission de fonds à
+partir d’espèces ont été réalisées du 6 novembre 2014 au 16 mars 2015, pour un montant total de 5 657
+euros, auxquelles s’est ajouté, le 21 février 2015, un versement unitaire de 3 453 euros, par ce client dont
+Dirham Express ne connaissait ni la profession, ni les revenus ni le patrimoine ; que, s’agissant de cette
+dernière opération, l’origine alléguée des fonds (« vente d’une voiture »), pas plus que leur destination
+(« location d’une maison »), n’a été documentée ;
+45. Considérant que dans le dossier de la société marocaine de promotion immobilière A2 (sous-grief 8-
+7), 17 opérations de transmission de fonds à partir d’espèces ont été effectuées au nom de personnes
+physiques le 4 juin 2014 pour un montant total de 27 890 euros, sans que ces opérations, malgré leur
+caractère inhabituel, n’aient donné lieu à un examen renforcé ; qu’aucune vérification de l’origine des fonds
+ou de l’identité des clients les ayant versés n’a ainsi été faite ; que 3 des 17 transferts n’ont pas donné lieu à
+la communication d’un reçu de paiement tandis que, dans certains cas, les montants transférés ne
+correspondent pas au montant indiqué sur les reçus d’arrhes ; que les justificatifs d’identité des personnes qui
+se sont présentées au guichet n’ont pas été collectés ; que, si le « sérieux » de la société marocaine de
+Autorité de contrôle prudentiel et de résolution 10
+
+===== Page 11 =====
+Décision de la Commission des sanctions – procédure no 2016-10
+promotion immobilière A2 n’est pas en cause, l’explication selon laquelle ces opérations correspondaient au
+transfert, vers un compte dont cette société est titulaire, d’arrhes versées lors d’un salon de l’immobilier
+marocain qui venait de s’achever, par des clients investissant dans un programme immobilier, ne suffit pas à
+justifier l’utilisation d’espèces par ces clients et n’a pas été documentée ;
+46. Considérant que dans le dossier de Mme A6 (sous-grief 8-8), le transfert à partir d’espèces, en 3
+opérations effectuées entre mai 2014 et mai 2015, de 18 000 euros sur le compte au Maroc de la cliente, dont
+11 000 euros le 5 mai 2014, n’était pas cohérent avec les informations dont disposait Dirham Express à son
+sujet ; qu’en effet, cette cliente percevait un peu plus de 1 500 euros de revenus mensuels servant notamment
+à régler un loyer de 736 euros ; que l’origine de l’épargne financière dont aurait, le cas échéant, disposé Mme
+A6 n’était pas connue de Dirham Express ;
+47. Considérant que dans le dossier de M. A25 (sous-grief 8-9), la réalisation, entre le 18 janvier 2014 et
+le 11 juin 2015, de 50 opérations de transmission de fonds, dont 44 à partir d’espèces, pour un montant total
+de plus de 18 000 euros, n’était pas cohérente avec les éléments de connaissance du client réunis par Dirham
+Express ; qu’en effet, les ressources de ce client étaient composées de pensions de retraite d’un montant
+annuel total d’environ 16 000 euros et aucune information n’a été recueillie sur les modalités de la
+constitution éventuelle d’une épargne préalable, alors que les dépenses du client montrent l’utilisation, en
+France, d’une part significative de ses revenus ; qu’ainsi, certains règlements par carte bancaire étaient
+supérieurs au montant de ses pensions de retraite ;
+48. Considérant que MM. A26 et A27 (sous-grief 8-10) ont transféré des fonds au profit de deux
+bénéficiaires résidant au Maroc, MM. A28 et A29 ; que le nom de ce dernier figurait sur la liste
+WorldCheck, soit comme narcotrafiquant, soit comme membre des cellules d’Al-Qaida au Maghreb
+islamique ; que M. A27 a transmis en 16 mois 7 773 euros en 24 opérations, dont 19 réalisées à partir
+d’espèces, en faveur de 16 bénéficiaires localisés au Maroc ; que des fonds ont en outre été transmis à M.
+A30, alors que, selon des informations disponibles sur internet, une personne portant ce patronyme a été
+arrêtée en Espagne pour transport de drogue ;
+49. Considérant en conséquence que le grief 8 est établi dans son intégralité ;
+III. Sur le dispositif de gel des avoirs
+50. Considérant que selon les dispositions de l’article L. 562-3 du CMF, les entreprises assujetties « qui
+détiennent ou reçoivent des fonds, instruments financiers et ressources économiques sont tenues d’appliquer
+les mesures de gel ou d’interdiction [des avoirs] » et doivent, selon l’article 47 de l’arrêté du 3 novembre
+2014, « se doter également de dispositifs adaptés à leurs activités permettant de détecter toute opération au
+bénéfice d’une personne ou d’une entité faisant l’objet d’une mesure de gel des fonds, instruments financiers
+et ressources économiques. » ;
+51. Considérant que selon le grief 9, fondé sur ces dispositions, Dirham Express n’avait pas, au moment
+du contrôle, tenu compte, dans son dispositif de détection des personnes faisant l’objet de mesures
+restrictives ou de gel des avoirs, des mesures nationales de gel des avoirs prises en application des articles
+L. 562-1 et L. 562-2 du CMF ; qu’il lui est également reproché de n’avoir procédé à aucun contrôle ni aucun
+filtrage lorsqu’il remboursait des fonds à ses clients à la suite d’une opération rejetée ou annulée ;
+52. Considérant que Dirham Express ne conteste pas la matérialité du grief mais fait valoir qu’il pensait
+que la liste fournie par son prestataire était exhaustive et qu’il a désormais remédié aux deux aspects du
+grief ; que toutefois ces mesures correctrices, postérieures à la mission de contrôle, sont sans incidence sur le
+grief, qui est établi ;
+*
+* *
+Autorité de contrôle prudentiel et de résolution 11
+
+===== Page 12 =====
+Décision de la Commission des sanctions – procédure no 2016-10
+53. Considérant qu’il résulte de ce qui précède qu’au moment de la mission de contrôle, Dirham Express
+n’avait pas élaboré une classification des risques correctement adaptée aux caractéristiques de son activité et
+de sa clientèle (grief 1) ; que ses procédures LCB-FT étaient incomplètes (grief 2) ; que l’établissement n’a
+pas en permanence respecté son obligation de désigner ses correspondants et déclarants Tracfin parmi ses
+dirigeants et préposés (grief 3) ; que les carences de son dispositif de LCB-FT ont eu pour conséquence de
+nombreux manquements à ses obligations d’identification, de vérification de l’identité et de connaissance de
+ses clients (griefs 5 et 6) ; que de plus, Dirham Express ne respectait que de manière imparfaite son
+obligation d’effectuer un examen renforcé de certaines opérations (grief 7), tandis que des défauts de
+déclaration de soupçon, en nombre significatif au regard de la taille de cet établissement, ont été relevés
+(grief 8) ; qu’enfin son dispositif de gel des avoirs était défaillant (grief 9) ;
+54. Considérant cependant que le grief selon lequel le responsable de la conformité et du contrôle interne
+de cet organisme n’aurait pas respecté son obligation de veiller au caractère adapté de ses dispositifs et
+procédures n’a pas été retenu (grief 4), tandis que le périmètre ou la portée de plusieurs autres griefs a été
+réduit par la Commission (griefs 1 à 3) ; qu’il convient par ailleurs de tenir compte, dans une certaine
+mesure, des actions correctrices relatives à plusieurs des carences reprochées que Dirham Express a d’ores et
+déjà mises en œuvre, avec le concours d’un cabinet d’audit, sur lesquelles ses dirigeants ont insisté lors de
+l’audience ;
+55. Considérant que les manquements retenus par la Commission justifient, compte tenu de leur nature et
+de leur gravité et au vu des éléments mentionnés ci-dessus, le prononcé d’un blâme et d’une sanction
+pécuniaire de 80 000 euros ; qu’une publication nominative n’est pas susceptible de causer à Dirham Express
+un préjudice disproportionné ni de perturber gravement les marchés financiers ; qu’il y a donc lieu de publier
+la présente décision sous cette forme ;
+PAR CES MOTIFS
+DÉCIDE :
+ARTICLE 1ER – Il est prononcé à l’encontre de Dirham Express un blâme et une sanction pécuniaire de
+80 000 euros (quatre-vingt mille euros).
+ARTICLE 2 – La présente décision sera publiée au registre de l’ACPR et pourra être consultée au
+secrétariat de la Commission.
+Le Président de la Commission
+des sanctions
+[Rémi BOUCHEZ]
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification et
+dans les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 12

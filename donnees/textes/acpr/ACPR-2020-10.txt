@@ -1,0 +1,632 @@
+===== Page 1 =====
+Décision de la Commission des sanctions – procédure no 2020-10
+MGEN VIE
+Procédure no 2020-10
+–––––
+Blâme et sanction pécuniaire
+de 1 million d’euros
+–––––
+Audience du 27 avril 2022
+Décision rendue le 12 mai 2022
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 18 décembre 2020 par laquelle le Président de l’Autorité de contrôle prudentiel et de
+résolution (ACPR) informe la Commission des sanctions (ci-après la « Commission ») de ce que le
+Collège de supervision de l’ACPR (ci-après le « Collège »), statuant en sous-collège « assurance », a
+décidé d’ouvrir une procédure disciplinaire à l’encontre de la mutuelle MGEN Vie, dont le siège social
+est 3, square Max Hymans 75015 Paris ;
+Vu la notification des griefs du 18 décembre 2020 et ses annexes ;
+Vu les mémoires en défense des 31 mars, 27 septembre, 11 octobre 2021 et 5 janvier 2022, par
+lesquels MGEN Vie (i) demande, à titre principal, à la Commission de prononcer la nullité de la présente
+procédure disciplinaire, au motif que le contrôle sur place doit être regardé comme nul en raison des
+atteintes aux droits de la défense qu’elle estime avoir subies pendant cette phase et de l’indemniser ainsi
+que ses collaborateurs victimes de ces comportements ; (ii) à titre subsidiaire, estime que la plupart des
+reproches qui lui sont adressés doivent être relativisés en raison du parti-pris défavorable de la mission
+de contrôle à son égard, qui a notamment introduit un biais dans la sélection des échantillons et dans
+l’analyse des dossiers et soutient que certains griefs doivent être en tout (grief 5) ou partie (griefs 2 à 4)
+écartés ;
+Vu les mémoires en réplique des 25 juin, 14 septembre et 19 novembre 2021, par lesquels le Collège,
+représenté par M. David Noguéro, (i) estime qu’il ne résulte des circonstances dans lesquelles s’est
+déroulé le contrôle sur place aucune atteinte aux droits de la défense et (ii) maintient tous les griefs, tout
+en admettant que le périmètre du grief 3 doive être légèrement réduit ;
+Vu le rapport du 24 mars 2022 de Mme Gaëlle Dumortier, rapporteur, qui (i) estime que la demande
+tendant à ce que la procédure soit déclarée nulle doit être rejetée, (ii) conclut que les quatre premiers
+griefs sont fondés, mais, pour certains, dans un périmètre réduit, tandis que le dernier doit être écarté ;
+Vu les courriers du 25 mars 2022 convoquant à l’audience les parties ainsi que la direction de la
+sécurité sociale (DSS) et les informant de la composition de la Commission ;
+Vu les observations formulées par MGEN Vie le 11 avril 2022 en réponse au rapport du rapporteur,
+par lesquelles elle maintient ses observations antérieures sur le caractère irrégulier de la présente
+procédure disciplinaire en raison des atteintes aux droits de la défense qu’elle estime avoir subies
+pendant la phase de contrôle et précise ses observations sur certains griefs ;
+Autorité de contrôle prudentiel et de résolution 1
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2020-10
+Vu les autres pièces du dossier, notamment le rapport de contrôle signé le 2 septembre 2020 par M. A,
+chef de mission ;
+Vu la convention européenne de sauvegarde des droits de l’homme et des libertés fondamentales (ci-
+après la « convention EDH »), notamment son article 6 ;
+Vue le règlement délégué (UE) 2015/35 de la Commission du 10 octobre 2014 complétant la directive
+2009/138/CE du Parlement européen et du Conseil sur l'accès aux activités de l'assurance et de la
+réassurance et leur exercice (solvabilité II) (ci-après le « règlement délégué (UE) 2015/35 »), notamment
+son article 258 ;
+Vu le code monétaire et financier (ci-après le « CMF »), notamment ses articles L. 612-2, L. 612-38,
+L. 612-39 et R. 612-35 et suivants, dans leur rédaction en vigueur au moment des faits ;
+Vu le code de la mutualité, notamment ses articles L. 221-17-1, L. 223-8, L. 223-10, L. 223-10-1, L.
+223-10-2, L. 223-12, L. 223-15, dans leur rédaction en vigueur au moment des faits ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACPR, composée de M. Alain Ménéménis, Président, Mme Claudie
+Boiteau, MM. Laurent Jacques et Philippe Braghini ;
+Après avoir entendu, lors de sa séance non publique du 27 avril 2022 :
+- Mme Dumortier, rapporteur, assistée de M. Fabien Patris, son adjoint ;
+- Le représentant du directeur de la sécurité sociale, dûment convoqué, ne s’étant pas présenté ;
+- M. Noguéro, représentant du Collège, assisté de la directrice des affaires juridiques, de l’adjoint
+au chef du service des affaires institutionnelles et du droit public, de deux juristes au sein de ce
+service et de M. A, responsable de la mission de contrôle ; M. Noguéro a proposé à la
+Commission de prononcer un blâme et une sanction pécuniaire de cinq millions d’euros par une
+décision publiée sous une forme nominative pendant cinq ans ;
+- La société MGEN Vie, représentée par son directeur général, le directeur [de mission]
+« Finances » et une chargée de mission à la direction des opérations, dont les avocats sont
+Mes Olivier Bernardi, Richard Ghueldre, Héloïse Faillat et Julie Brulé, avocats à la Cour (cabinet
+Gide Loyrette Nouel) ;
+Après avoir délibéré en la seule présence de M. Ménéménis, Président, Mme Boiteau, MM. Jacques
+et Braghini ;
+1. Créée le 14 mars 2002 par la Mutuelle générale de l’éducation nationale (MGEN), MGEN Vie est
+une mutuelle régie par le livre II du code de la mutualité. Elle est agréée pour les activités relevant des
+branches 20 (vie-décès) et 21 (nuptialité, natalité). Les dirigeants de la MGEN et de MGEN Vie sont les
+mêmes. MGEN Vie n’a aucun salarié mais bénéficie de salariés employés par MGEN Union pour les
+fonctions du siège et par la MGEN pour les autres fonctions.
+MGEN Vie est en outre réassurée à 100 % par la MGEN.
+Les garanties décès qu’elle propose comprennent la garantie « frais funéraires » et, depuis le
+1er janvier 2009, une « Prestation Invalidité décès » (PID), précédemment portée par [la société
+d’assurance X]. Proposée de 2002 à 2018, la garantie « frais funéraires » avait pour objet la prise en
+charge, à concurrence de 800 euros, des frais funéraires engagés lors du décès d’un « membre
+participant » ou d’un bénéficiaire. La PID a pour objet de garantir au membre participant ou à un
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2020-10
+bénéficiaire le paiement d’un capital en cas de décès ou de perte totale et irréversible d’autonomie
+(PTIA).
+Ces deux garanties, en principe accessoires à la garantie santé principale portée par la MGEN, sont
+proposées dans le cadre d’une offre globale : l’adhésion à ces garanties est obligatoire et automatique
+pour tous les adhérents à la garantie santé de la MGEN. Tout nouvel adhérent signe un bulletin
+d’adhésion unique et reçoit le document « Statuts et règlements mutualistes », qui regroupe ceux de la
+MGEN, de MGEN Action sanitaire et sociale, de MGEN Centres de santé, de MGEN Vie et de MGEN
+Filia.
+La garantie PID comporte une clause-type, applicable à défaut de « clause bénéficiaire » prévue par
+l’adhérent, par laquelle la MGEN est désignée en qualité de bénéficiaire de dernier rang.
+La MGEN est chargée de la gestion des deux garanties.
+MGEN Vie assure environ 3 millions de personnes et ses garanties PID et « frais funéraires »
+représentaient, en toute fin de l’année 2018, environ 96 % de ses cotisations et 89 % de ses engagements,
+dont 83,3 % et 81,4 %, respectivement, pour la seule garantie PID.
+2. MGEN Vie a fait l’objet, du 4 octobre 2018 au 11 juin 2019, d’un contrôle sur place effectué par
+une équipe dirigée par M. B, qui a donné lieu à l’envoi d’un premier projet de rapport de contrôle en
+date du 8 juillet 2019. Un nouveau responsable de mission, M. A, a été nommé le 23 septembre 2019
+par le Secrétaire général de l’ACPR et a adressé un nouveau projet de rapport le 31 mars 2020.
+Ces contrôles se sont concentrés sur la gestion des garanties PID et « frais funéraires ».
+Le rapport de contrôle a été signé le 2 septembre 2020, sans que MGEN Vie ait répondu au projet de
+rapport.
+Au vu de ce rapport, le Collège de l’ACPR, statuant en sous-collège « assurance », a décidé, lors de
+sa séance du 16 décembre 2020, d’ouvrir la présente procédure disciplinaire, dont la Commission a été
+saisie par une lettre reçue 23 décembre 2020.
+I. Sur la régularité de la procédure disciplinaire
+3. MGEN Vie soutient avoir subi, dans la première phase du contrôle sur place dont elle a fait l’objet
+du 4 octobre 2018 au 12 août 2019, des « conditions de contrôle inédites et inacceptables ». Elle indique
+ainsi avoir, le 16 novembre 2018, soit environ un mois après le début de cette mission de contrôle, été
+destinataire, en copie, d’un courriel que le responsable de la mission envoyait à un membre de son équipe,
+avant de tenter, en vain, de le rappeler puis de s’en excuser. Ce courriel comportait la phrase suivante :
+« ils ne sont pas très honnêtes » et « comme ils sont de mauvaise foi, il faut les pousser dans leurs
+retranchements ». Or, malgré cet incident, qui, selon MGEN Vie, révèle une faute professionnelle grave
+qui a irrémédiablement vicié le contrôle, ce responsable a poursuivi la vérification.
+La partialité des contrôleurs, qui ont conduit leur mission, selon l’établissement, uniquement à charge,
+s’est en outre manifestée par l’envoi de près de 2 500 questions, réparties en 75 questionnaires, qui
+comportaient approximations et redites et auxquelles il devait être répondu dans des délais contraints,
+ce qui a nécessité la mobilisation de ressources importantes.
+Cette partialité s’est également manifestée, selon MGEN Vie, par la méthode utilisée pour constituer
+les échantillons de dossiers examinés, qui ne sont pas représentatifs.
+Selon MGEN Vie, ce contrôle partial a conduit à un premier projet de rapport, remis le 10 juillet
+2019, dans lequel était envisagée la possibilité que la MGEN et MGEN Vie aient « un intérêt commun
+à ce que les bénéficiaires de rang antérieur à MGEN dans la clause type ne perçoivent pas les
+prestations », alors même que l’établissement avait indiqué avoir recours, pour rechercher les
+bénéficiaires, à des cabinets externes indépendants. En raison du caractère insultant de tels propos,
+MGEN Vie n’a pas souhaité répondre au projet.
+MGEN Vie ajoute que c’est après qu’elle lui eut signalé, le 12 août 2019, que, ayant gravement
+manqué aux règles procédurales garantissant les droits de la défense, la mission avait entaché son
+contrôle de nullité, de sorte qu’elle ne souhaitait pas répondre au projet de rapport, que le Secrétaire
+général de l’ACPR a désigné un nouveau chef de mission pour terminer les opérations de contrôle sur
+place et lui adresser un nouveau projet de rapport. Or, cette nouvelle phase de la mission, conduite par
+le supérieur hiérarchique du précédent chef de mission, au cours de laquelle peu de diligences ont été
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2020-10
+effectuées et qui a abouti à un second projet de rapport, transmis le 31 mars 2020, quasiment identique
+au premier ne pouvait, selon MGEN Vie, purger les vices affectant la première phase et le premier projet
+de rapport.
+MGEN Vie sollicite en conséquence à titre principal de la Commission qu’elle constate la nullité de
+la procédure disciplinaire, du fait de l’irrégularité du contrôle dont elle a fait l’objet et qu’elle lui accorde,
+ainsi qu’à certains de ses salariés, réparation du préjudice subi du fait des irrégularités du contrôle.
+4. Même s’ils n’ont pas, contrairement à ce que soutient MGEN Vie, à effectuer leurs vérifications
+« à charge et à décharge », les contrôleurs sont tenus à une obligation d’impartialité et de loyauté.
+Par ailleurs, le Conseil d’État a jugé que « le principe des droits de la défense (…) s’applique
+seulement à la procédure de sanction ouverte par la notification de griefs par le collège de l’Autorité et
+par la saisine de la commission des sanctions, et non à la phase préalable des enquêtes (…) » (CE 15
+mai 2013 Société Alternative Leaders France, n°356054, rendu à propos d’un contrôle de l’Autorité des
+marchés financiers, mais transposable aux procédures devant l’ACPR). Les enquêtes préalables ou les
+contrôles doivent seulement « se dérouler dans des conditions garantissant qu'il ne soit pas porté une
+atteinte irrémédiable aux droits de la défense des personnes auxquelles des griefs sont ensuite notifiés »
+(ibidem ; CE 15 décembre 2014 Banque Populaire Côte d’Azur, n° 366640 ; CE 7 juin 2017 Société
+Vaillance Courtage, n° 393509 ; voir également la décision de la Commission Caisse d’Épargne du
+Languedoc-Roussillon du 25 novembre 2013, procédure n° 2013-01).
+En l’espèce, si le courriel du 16 novembre 2018 que mentionne l’établissement comporte une prise
+de position regrettable à l’encontre de collaborateurs de l’établissement, il ne peut caractériser à lui seul
+un manque d’impartialité des contrôleurs pendant l’ensemble des opérations de contrôle et ne peut être
+regardé comme ayant porté une atteinte irrémédiable aux droits de la défense de MGEN Vie.
+Il en va de même de l’envoi de nombreux questionnaires et de la demande qu’il y soit répondu dans
+des délais contraints. En effet, si les contrôleurs doivent, comme le leur impose la charte de conduite
+d’une mission de contrôle sur place de l’ACPR (juin 2014), s’attacher « à tenir compte des contraintes
+d’exploitation de la personne contrôlée » (point IV-1.21), il n’apparaît pas, en l’espèce que leurs
+exigences puissent être regardées comme une marque de partialité ou de déloyauté à l’encontre de
+l’établissement ni qu’elles aient privé MGEN Vie de la possibilité de se défendre utilement, comme elle
+l’a d’ailleurs fait.
+Par ailleurs, la circonstance que les contrôleurs aient relevé, comme il leur revient de le faire, de
+possibles manquements, y compris une possible situation de « conflit d’intérêts », pour la MGEN, dans
+la recherche des bénéficiaires des garanties de MGEN Vie, ne saurait caractériser ni leur partialité ni une
+atteinte aux droits de la défense.
+En outre, si MGEN Vie soutient que la mission a, pour procéder à son contrôle, retenu des
+échantillons non représentatifs de la réalité de sa gestion des garanties, une telle circonstance ne peut,
+en l’espèce, conduire à regarder la présente procédure comme irrégulière au motif que le contrôle aurait
+été partial ou déloyal, mais devra seulement être prise en compte pour apprécier la portée des
+manquements reprochés (cf. infra analyse des griefs).
+Enfin, si la seconde phase de la mission de contrôle n’a donné lieu qu’à très peu d’investigations
+nouvelles, cette circonstance n’est pas de nature, à elle seule, compte tenu de ce qui a été dit ci-dessus
+sur le déroulement de la première phase du contrôle, à entacher la procédure de nullité.
+Il résulte de tout ce qui précède que la présente procédure disciplinaire ne peut être regardée comme
+nulle. Par ailleurs, la Commission est en tout état de cause incompétente pour se prononcer sur la
+demande d’indemnisation de l’établissement.
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2020-10
+II. Sur les griefs
+A. Sur l’information remise aux adhérents
+5. En vertu du premier alinéa de l’article 223-10-1 du code de la mutualité, « le bulletin d'adhésion
+comporte une information sur les conséquences de la désignation du ou des bénéficiaires et sur les
+modalités de cette désignation ».
+L’article L. 223-8 du même code prévoit notamment que « la mutuelle ou l'union doit, en outre,
+remettre, contre récépissé, une note d'information sur les dispositions essentielles des règlements
+incluant, lorsque le contrat comporte des garanties exprimées en unités de compte, les caractéristiques
+principales de ces unités de compte, sur les conditions d'exercice de la faculté de renonciation ».
+6. Selon le grief 1, fondé sur ces dispositions, le modèle-type de bulletin d’adhésion à la garantie
+PID utilisé de 2015 au 31 décembre 2018 ne contenait aucune mention des garanties en cas de décès et,
+en particulier, ne comportait pas d’information sur les conséquences de la désignation du ou des
+bénéficiaires ni sur les modalités de cette désignation. Les bulletins d’adhésion utilisés de 2010 à 2014
+ne comportaient pas davantage ces informations.
+Par ailleurs, au moment du contrôle, aucune note d’information sur les dispositions essentielles des
+règlements n’était remise aux adhérents.
+L’adhérent n’était donc pas informé, dans ces documents, de la faculté dont il disposait de désigner
+le ou les bénéficiaires de son choix et de ce qu’à défaut, c’est une clause-type, prévoyant notamment le
+versement des prestations à la MGEN en qualité de bénéficiaire de dernier rang, qui s’appliquerait.
+7. La Commission constate tout d’abord que les bulletins d’adhésion utilisés de 2010 à 2018 ne
+mentionnaient aucune des informations dont l’absence est reprochée. Par ailleurs, MGEN Vie ne
+conteste pas le défaut de remise d’une note d’information sur les dispositions essentielles des règlements.
+Les modalités spécifiques d’information définies par les dispositions ci-dessus rappelées ont été
+voulues par le législateur afin « d’attirer l’attention du souscripteur sur l’enjeu de la désignation du
+bénéficiaire » (rapport de M. Auberger, rapporteur en seconde lecture devant l’Assemblée nationale de
+la loi n° 2005-1564 du 15 décembre 2005). MGEN Vie ne pouvait, sans manquer à son obligation, se
+borner à mettre en œuvre d’autres modalités d’information.
+8. Le grief 1 est donc fondé, sans qu’aient d’incidence les mesures correctives mises en œuvre (ajout,
+sur le bulletin d’adhésion, courant 2020, d’une partie intitulée « bien rédiger sa clause bénéficiaire »,
+précisant qu’une liste-type de bénéficiaires s’applique à défaut de désignation particulière ; remise d’une
+note d’information à compter de septembre 2021.
+B. Sur la détection des décès
+9. En vertu de l’article L. 223-10-1 du code de la mutualité, « (...) toute personne physique ou morale
+peut demander par lettre ou tout autre support durable à un ou plusieurs organismes professionnels
+représentatifs (...) à être informée de l'existence d'une stipulation effectuée à son bénéfice dans une
+police souscrite par une personne physique dont elle apporte, par tout moyen, la preuve du décès. (…)
+L'organisme transmet cette demande aux mutuelles ou unions (...). Lorsque la personne morale ou
+physique mentionnée au deuxième alinéa est désignée dans une police comme bénéficiaire, ces mutuelles
+ou unions disposent d'un délai d'un mois pour l'informer de l'existence d'un capital ou d'une rente
+garantis payables à son bénéfice » (dispositif dit « AGIRA 1 »).
+L’article L. 223-10-2 du même code dispose que : « I. – Les mutuelles et unions ayant pour objet la
+réalisation d'opérations d'assurance mentionnées au b du 1° du I de l'article L. 111-1 s'informent, au
+moins chaque année, dans les conditions prévues au II du présent article, du décès éventuel de l'assuré.
+II. – Les organismes professionnels mentionnés à l'article L. 223-10-1 consultent chaque année, dans
+le respect de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, les
+données figurant au répertoire national d'identification des personnes physiques et relatives au décès
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2020-10
+des personnes qui y sont inscrites. Les mutuelles et unions mentionnées au I obtiennent de ces
+organismes professionnels communication de ces données en vue d'effectuer des traitements de données
+nominatives. Ces traitements ont pour objet la recherche des membres participants et bénéficiaires
+décédés des contrats d'assurance sur la vie et des bons ou contrats de capitalisation, à l'exception de
+ceux au porteur. » (dispositif dit « AGIRA 2 »).
+10. Selon le grief 2, fondé sur ces dispositions, MGEN Vie a mis en œuvre tardivement et de façon
+incomplète son obligation de détection des assurés décédés.
+En effet, les interrogations des « fichiers détenus par AGIRA » n’ont débuté que fin 2015.
+En outre, les portefeuilles dont la gestion était déléguée (environ 23 000 assurés) et, jusqu’en 2017,
+la garantie « frais funéraires » (environ 460 000 assurés) ont été exclus du périmètre des recherches
+mises en œuvre au titre des dispositifs AGIRA 1 et AGIRA 2.
+MGEN Vie n'a ainsi pas mis en œuvre les moyens nécessaires pour une recherche générale et
+systématique du décès éventuel de ses adhérents.
+11. MGEN Vie ne conteste pas avoir exclu du dispositif AGIRA 1 et du dispositif AGIRA 2 les
+adhérents dont les contrats étaient gérés par délégation et, jusqu’au début de l’année 2017, les adhérents
+de la garantie « frais funéraires ».
+Si elle soutient qu’il existait une incertitude sur la nécessité d’inclure dans ces dispositifs la garantie
+« frais funéraires », qui n’est pas stricto sensu, selon elle, une garantie « obsèques », car elle ne prévoit
+pas le versement d’un capital mais une indemnité forfaitaire plafonnée aux dépenses engagées, cette
+garantie, comme la garantie PID, présente le caractère d’un engagement dont l’exécution dépend de la
+durée de la vie humaine.
+Le reproche, pour ces adhérents, est donc fondé. Pour les adhérents de la garantie « frais funéraires »
+il n’est fondé que jusqu’au début de l’année 2017.
+12. Pour les autres adhérents, la poursuite doit être regardée, eu égard à la rédaction de la notification
+des griefs, comme se bornant à reprocher à MGEN Vie de n’avoir pas consulté régulièrement, par
+l’intermédiaire de l’AGIRA, le Répertoire national d’identification des personnes physiques (RNIPP)
+avant fin 2015.
+Or, c’est la loi n° 2014-617 du 13 juin 2014 (dite « loi Eckert ») qui a modifié les dispositions de
+l’article L. 223-10-2 du code de la mutualité en substituant, pour les mutuelles, à l’autorisation de
+consulter le RNIPP, une obligation de consultation annuelle, entrée en vigueur le 1er janvier 2016. Par
+ailleurs, MGEN Vie soutient, sans être utilement contredite par la poursuite, que l’utilisation de moyens
+alternatifs lui permettaient de détecter efficacement les décès. Le reproche doit donc être écarté.
+13. Le grief 2 est donc seulement fondé pour les adhérents dont les contrats étaient gérés par
+délégation et les adhérents de la garantie « frais funéraires ».
+C. Sur la recherche des bénéficiaires et le règlement des prestations lorsque la
+MGEN n’était pas le bénéficiaire et sur le paiement non justifié de la prestation
+PID à la MGEN
+14. En vertu du premier alinéa de l’article L. 223-10 du code de la mutualité, « le capital ou la rente
+garantie sont payables lors du décès du membre participant à un ou plusieurs bénéficiaires déterminés
+». Le septième alinéa de ce même article prévoit que « lorsque la mutuelle ou l'union est informée du
+décès du membre participant, elle est tenue de rechercher le bénéficiaire et, si cette recherche aboutit,
+de l'aviser de la stipulation effectuée à son profit ».
+L’article L. 221-17-1 du même code prévoit que : « Lors de la réalisation du risque ou à l'échéance
+de l'adhésion au règlement ou au contrat collectif, la mutuelle ou l'union doit exécuter dans le délai
+convenu la prestation déterminée par le règlement ou le contrat collectif et ne peut être tenue au-delà ».
+Enfin, l’article L. 223-12 du même code dispose que « lorsque l'assurance en cas de décès a été
+conclue sans désignation d'un bénéficiaire, le capital ou la rente garantis font partie du patrimoine ou
+de la succession du membre participant. »
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2020-10
+15. Selon le grief 3, MGEN Vie n’a pas entièrement respecté ses obligations de recherche des
+bénéficiaires des prestations dans des dossiers où la MGEN n’était pas bénéficiaire et dans certains
+dossiers où la MGEN l’a été.
+16. Selon la première branche du grief 3, fondée sur les dispositions des articles L. 223-10 et L.
+221-17-1 du code de la mutualité, au 31 décembre 2017, dans 72 des 74 dossiers examinés par la mission
+de contrôle, qui concernaient des adhérents ayant souscrit des contrats comportant une garantie PID
+dénoués par décès et non encore intégralement réglés plus de trois ans après la date de connaissance du
+décès, MGEN Vie a manqué à son obligation de mettre en œuvre des actions de recherche suffisamment
+diligentes.
+À titre d’illustration, sont ainsi reprochés :
+- des diligences insuffisantes ou très tardives dans 12 cas ;
+- le non-versement des majorations pour enfants à charge dans 5 cas.
+17. Selon la deuxième branche du grief 3, fondée sur les dispositions des articles L. 223-10 et
+L. 221-17-1 du code de la mutualité, la poursuite reproche à MGEN Vie des moyens et des procédures
+insuffisants pour rechercher les bénéficiaires de la garantie « frais funéraires ». En effet, la notification
+des griefs relève que, jusqu’en 2013, MGEN Vie se contentait de demander une communication de la
+facture des frais funéraires acquittés dans le formulaire de déclaration de décès. En outre, le recours
+systématique à un cabinet de recherche afin d’identifier le bénéficiaire de la prestation n’a été mis en
+place qu’entre 2013 et 2016, cette procédure ne concernant de surcroît que les décès survenus au cours
+de cette période, sans aucun traitement des décès antérieurs. La mission de contrôle a ainsi examiné 237
+dossiers éligibles à la prestation de frais funéraires, qui ont révélé un taux de défaillance de l’ordre de
+40%.
+18. Selon la troisième branche du grief 3, fondée sur les dispositions ci-dessus rappelées des articles
+L. 223-10 et L. 221-17-1 du code de la mutualité ainsi que, pour le premier reproche, sur celles de
+l’article L. 223-12 de ce code, plusieurs irrégularités affectant le versement de la prestation PID ont été
+relevées dans des dossiers où la MGEN était le bénéficiaire.
+Tout d’abord, sur 63 dossiers examinés, dans lesquels le décès de l’assuré est intervenu avant le 1er
+septembre 2015, MGEN Vie a méconnu l’obligation résultant des dispositions de l’article L 223-12 du
+code de la mutualité dans 16 dossiers : dans 13 dossiers, dans lesquels le décès du bénéficiaire est
+intervenu avant celui de l’assuré, elle a versé la prestation à la MGEN alors qu’elle aurait dû la verser à
+la succession ; dans trois dossiers, elle a versé la prestation à la MGEN au seul motif que la clause
+bénéficiaire avait été égarée (1er reproche).
+Ensuite, dans plusieurs dossiers relevant du même échantillon de 63 dossiers, MGEN Vie a méconnu
+l’obligation résultant des articles L 223-10 et L 221-17-1 du code la mutualité en versant la prestation
+PID à la MGEN (2ème reproche), alors que :
+- dans 18 dossiers, elle ne pouvait apporter la preuve de la qualité de bénéficiaire de la MGEN en
+raison de l’absence d’élément démontrant l’absence de bénéficiaire de rang supérieur. En outre, dans
+l’un de ces dossiers, en l’absence de signature de la clause-type, la MGEN ne pouvait être bénéficiaire;
+- dans 7 dossiers, MGEN Vie n’a pas respecté la structure de la clause-type, puisqu’elle a réglé les
+capitaux décès à la MGEN malgré l’existence de bénéficiaires de rang supérieur ;
+- dans 3 dossiers, MGEN Vie a appliqué la clause-type alors que les bénéficiaires désignés par
+l’adhérent étaient vivants au jour du décès de celui-ci.
+Enfin, sur 49 dossiers examinés, dans lesquels l’assuré est décédé postérieurement au 1er septembre
+2015, MGEN Vie a méconnu l’obligation résultant des articles L 223-10 et L 221-17-1 du code la
+mutualité, dans 40 dossiers (3ème reproche) :
+- dans 17 dossiers, la qualité d’héritier a été refusée à des légataires universels ;
+- dans 6 dossiers, les légataires universels n’ont été réglés qu’après avoir fait une réclamation, la
+MGEN ayant été initialement destinataire des fonds ;
+- dans 13 dossiers, MGEN Vie a versé la prestation à la MGEN alors qu’aucune décision d’envoi
+en possession de l’État n’établissait la déshérence de la succession ;
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2020-10
+- enfin, MGEN Vie a appliqué à tort l’ancienne clause-type dans 2 dossiers et elle a versé les fonds
+à la MGEN alors qu’un bénéficiaire avait été désigné de façon libre ou qu’un bénéficiaire de
+rang supérieur existait.
+19. La Commission rappelle que l’article L. 221-17-1 du code de la mutualité a été créé par l’article 6
+de l’ordonnance n° 2017-734 du 4 mai 2017 portant modification des dispositions relatives aux
+organismes mutualistes, et est entré en vigueur le 6 mai 2017. Cette ordonnance ne contient aucune
+disposition prévoyant que les dispositions de son article 6 sont applicables aux contrats en cours. En
+outre, de telles dispositions, nouvelles pour les mutuelles, ne peuvent être regardées comme
+interprétatives.
+Aucun des contrats mentionnés par la poursuite n’ayant été conclu postérieurement au 6 mai 2017,
+les faits reprochés ne peuvent être qualifiés au visa de l’article L. 221-17-1 du code de la mutualité.
+Ils sont néanmoins susceptibles d’entrer dans les prévisions de l’article L. 223-10 de ce code.
+20. En ce qui concerne la première branche du grief, il y a lieu d’apprécier, en premier lieu, si le
+reproche formulé pour les 72 dossiers de garantie PID que la poursuite mentionne est fondé.
+À cet égard, l’obligation de recherche des bénéficiaires étant, comme le relève MGEN Vie, une
+obligation de moyens, son respect s’apprécie au regard de l’ensemble des ressources mobilisées et des
+actions mises en œuvre (y compris le recours à des cabinets d’enquête), de façon globale et pour chaque
+dossier (cf. la décision de la Commission Cardif Assurance Vie du 7 avril 2014, procédure n° 2013-03
+bis, considérants 11 et 15).
+MGEN Vie admet le reproche dans 59 des 72 dossiers, notamment dans ceux qui sont cités à titre
+d’illustration par la notification des griefs, dans lesquels les mesures prises pour rechercher le
+bénéficiaire étaient insuffisantes ou tardives.
+Dans 6 dossiers, MGEN Vie conteste la matérialité du manquement. Cependant, dans ces dossiers, les
+diligences effectuées apparaissent tardives ou insuffisantes.
+Au demeurant, certains de ces dossiers sont au nombre de ceux que l’établissement lui-même a détectés
+dans le cadre du projet « Déesse », lancé au second semestre de l’année 2014, qui avait pour but de
+régler les dossiers dont le traitement avait été défaillant et qui portait sur des dossiers dans lesquels le
+décès était intervenu avant 2015.
+Dans huit dossiers, dont un était déjà mentionné au titre du groupe de 6 dossiers mentionné ci-dessus,
+MGEN Vie conteste que le manquement lui soit imputable au motif que le décès de l’adhérent est
+intervenu avant le 1er janvier 2009, soit à une date où MGEN Vie n’assurait pas encore la garantie PID.
+La Commission relève toutefois que, dans ces 8 cas, soit le dossier ne comporte aucun élément sur les
+diligences faites depuis 2009 soit, quand il en contient, les diligences ont été tardives et souvent espacées.
+Dans ces 8 dossiers, le manquement, dont la matérialité est établie, peut donc être imputé à MGEN Vie
+pour la période postérieure au 1er janvier 2009.
+Par ailleurs, il n’est pas contesté que la majoration pour enfants à charge n’a pas été versée dans les
+cinq cas mentionnés par la poursuite.
+21. Cette première branche du grief, relative à des dossiers de garantie PID, ne saurait être interprétée,
+eu égard à la rédaction de la notification des griefs sur ce point, comme reprochant à MGEN Vie une
+carence générale dans la recherche des bénéficiaires des contrats PID, dont les 72 dossiers mentionnés
+au point précédent seraient des illustrations.
+À cet égard, la poursuite ne saurait être regardée comme ayant entendu donner une telle portée à cette
+première branche du grief en mentionnant, dans la notification des griefs, une comparaison entre les
+prestations non réglées depuis plus d’un an après la connaissance du décès et le montant total des
+provisions techniques décès assurées par MGEN Vie.
+Au demeurant, MGEN Vie relève que la poursuite n’aurait pu, à partir du seul échantillon des 72
+dossiers déjà mentionnés, caractériser une carence générale. Si le taux de défaillance est de 97 % pour
+les 74 dossiers mentionnés (72 sur 74), elle indique que, selon un audit réalisé par [le cabinet d’audit Y]
+en novembre 2020 à propos des décès connus entre 2015 et 2018, les dossiers ont été instruits et clos
+dans leur quasi-totalité (99 % pour les décès connus en 2015, 92 % pour les décès connus en 2018).
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2020-10
+22. En ce qui concerne la deuxième branche du grief, relative aux dossiers « frais funéraires », la
+poursuite doit être au contraire regardée, eu égard à la rédaction de la notification des griefs sur ce point,
+comme reprochant à MGEN Vie une carence générale dans la recherche des bénéficiaires, qui résulterait
+notamment de ce que l’établissement n’aurait recouru systématiquement à un cabinet de recherche
+qu’entre 2013 et 2016.
+Cependant, MGEN Vie soutient, sans être contredite, qu’elle multipliait les démarches auprès des
+personnes ayant déclaré un décès ou auprès des notaires.
+Par ailleurs, la carence générale reprochée par la poursuite ne peut être caractérisée à partir des seules
+défaillances constatées dans une partie des dossiers examinées par la mission de contrôle : si celle-ci a
+examiné 237 dossiers (242, selon l’établissement) et si la poursuite a retenu que les diligences effectuées
+étaient insuffisantes dans environ 40% des dossiers examinés, rien ne permet de regarder l’échantillon
+des dossiers ainsi sélectionné comme permettant de caractériser une carence générale dans le respect de
+l’obligation de moyens à laquelle est soumis l’établissement.
+La Commission relève seulement qu’il y a eu des défaillances dans 85 dossiers : 95 dossiers
+initialement retenus par la poursuite (sur environ 240 dossiers examinés), desquels il convient de
+retrancher les 8 dossiers que la poursuite a en définitive regardés comme satisfaisants ainsi que deux
+dossiers, dans lesquels la Commission estime que les diligences ont été suffisantes – les 7 autres dossiers
+contestés par l’établissement devant en revanche être regardés, selon la Commission, comme défaillants.
+23. En ce qui concerne la troisième branche du grief, il y a lieu de relever que la clause-type de la
+garantie PID était ainsi rédigée jusqu’au 1er septembre 2015 : « À défaut de désignation expresse, les
+prestations sont versées : / - au conjoint survivant non séparé de corps par jugement définitif passé en
+force de chose jugée, / - à défaut, au pacsé de l’assuré, / - à défaut, au concubin notoire de l’assuré, / -
+à défaut, et par parts égales, aux enfants de l’assuré, nés ou à naître, vivants ou représentés, / - à défaut,
+et par parts égales, aux ascendants au 1er degré de l’assuré, / - à défaut, à la MGEN ».
+À compter du 1er septembre 2015, la mention « à défaut, et par parts égales, aux héritiers de
+l’assuré » a été insérée immédiatement avant la mention de la MGEN.
+24. La Commission estime que le premier reproche de la troisième branche du grief, relatif au
+paiement de la prestation à la MGEN dans les 13 cas mentionnés par la poursuite alors que le capital
+aurait dû être intégré dans la succession, qui n’est pas contesté, est fondé.
+Les manquements reprochés au titre des trois derniers dossiers, qui ne sont pas contestés, sont
+également fondés.
+Le premier reproche doit donc être retenu pour les 16 dossiers.
+25. La Commission estime ensuite, en ce qui concerne le deuxième reproche de la troisième branche
+du grief, que si, pour les 18 premiers dossiers mentionnés, la poursuite relève l’absence d’un acte de
+décès ou d’un acte de notoriété, les diligences faites par MGEN Vie, notamment la désignation de
+cabinets de recherche avant le début de la mission de contrôle, conduisent à estimer qu’elle n’a pas
+méconnu ses obligations dans 8 dossiers.
+Pour les 7 dossiers dans lesquels le paiement est intervenu alors qu’il existait, selon la poursuite, des
+bénéficiaires de rang supérieur, le manquement n’est pas établi dans deux cas, MGEN Vie produisant
+des pièces établissant que la recherche a été effectuée et n’a pas abouti.
+Les trois derniers dossiers, au sujet desquels MGEN Vie se borne à mentionner des actions
+correctives, ne sont pas contestés.
+Le deuxième reproche doit donc être retenu dans un périmètre réduit à 18 dossiers.
+26. En ce qui concerne, enfin, le troisième reproche de la troisième branche du grief, la Commission
+estime que, pour les 17 premiers dossiers mentionnés, si MGEN Vie relève que les légataires universels
+ne sont pas au nombre des héritiers mentionnés par l’article 734 du code civil, il lui incombait, en vertu
+de la jurisprudence de la Cour de cassation, de rechercher si l’adhérent « avait eu la volonté, ou non, de
+faire bénéficier les légataires des capitaux garantis par le contrat d'assurance sur la vie » (Cass. 1ère
+civ. 10 février 2016, n° 14-27.057). En déniant systématiquement, jusqu’en 2017, la qualité d’héritier
+aux légataires universels, sans procéder à aucune recherche de l’intention de l’adhérent, MGEN Vie a
+méconnu ses obligations.
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2020-10
+Le reproche de la poursuite est également fondé dans les 6 dossiers dans lesquels les légataires
+universels n’ont été réglés qu’après avoir fait une réclamation.
+Dans 12 des 13 dossiers retenus par ailleurs par ce troisième reproche, le reproche de la poursuite,
+qui se borne à constater l’absence de décisions d’envoi en possession de l’État, ne peut être retenu, dès
+lors que l’établissement fait état de recherches suffisamment diligentes par des cabinets spécialisés qui
+n’ont pas abouti à l’identification d’héritiers. Le reproche n’est donc établi que dans un cas.
+Enfin, l’application à tort de l’ancienne clause-type dans deux dossiers n’est pas contestée, pas plus
+que le versement à tort des fonds à la MGEN dans le dossier où un bénéficiaire avait été désigné de
+façon libre ou dans le dossier où un bénéficiaire de rang supérieur existait.
+Le troisième reproche doit donc être retenu dans un périmètre réduit à 28 dossiers.
+27. La Commission constate qu’aucune pièce du dossier, notamment aucune précision sur la
+détermination des échantillons de dossiers examinés par le contrôle, ne permet, à partir des 62 dossiers
+défaillants ainsi retenus au titre de la troisième branche du grief, d’estimer l’importance des versements
+qui sont susceptibles d’avoir été effectués à tort à la MGEN. À cet égard, si la notification des griefs
+mentionne que l’ensemble des capitaux versés à la MGEN pour les décès de ses assurés antérieurs au
+1er septembre 2015 s’est élevé à 34 millions d’euros pour 6 140 assurés et que le montant des capitaux
+versés à la MGEN pour les décès postérieurs au 1er septembre 2015 s'élève à 0,6 million d'euros environ
+pour 161 assurés, il ne saurait en être tiré aucune conclusion, dès lors que la part que représentent dans
+ce total les dossiers dans lesquels les versements effectués au bénéfice de la MGEN sont indus est
+indéterminée.
+28. Il résulte de tout ce qui a été dit ci-dessus que la première branche du présent grief, qui est fondée,
+ne porte que sur 72 dossiers et, pour 9 d’entre eux, n’est imputable à MGEN Vie que pour la période
+postérieure au 1er janvier 2009 ; que la deuxième branche du grief, par laquelle est reprochée une carence
+d’ensemble dans la recherche des bénéficiaires de contrats « frais funéraires », dont la preuve n’est pas
+apportée, doit être écartée; qu’enfin, la troisième branche du grief est fondée dans les limites précisées
+aux points 25 à 27 ci-dessus.
+D. . Sur les prélèvements effectués par MGEN Vie sur les capitaux décès
+29. En vertu de l’article L. 223-15 du code de la mutualité, « sous réserve des dispositions des articles
+L. 262, L. 263 B et L. 273 A du livre des procédures fiscales, de l'article 387 bis du code des douanes,
+de l'article L. 1617-5 du code général des collectivités territoriales et du II de l'article 128 de la loi n°
+2004-1485 du 30 décembre 2004 de finances rectificative pour 2004, le capital ou la rente garantis au
+profit d'un bénéficiaire déterminé ne peuvent être réclamés par les créanciers du cotisant. Ces derniers
+ont seulement droit au remboursement des cotisations, dans le cas indiqué par le second alinéa de
+l'article L. 223-14, en vertu soit de l'article 1341-2 du code civil, soit des articles L. 621-107 et L. 621-
+108 du code de commerce ».
+30. Selon le grief 4, fondé sur ces dispositions, dans 21 dossiers examinés par la mission de contrôle,
+MGEN Vie a déduit du montant des prestations versées les « éventuelles cotisations » impayées de
+l’assuré dans 18 dossiers. Ainsi, les bénéficiaires des contrats ne percevaient pas la totalité des capitaux
+leur revenant. Des cotisations ont même été retenues sur le capital versé alors qu’elles correspondaient
+à une « période de couverture » étendue au-delà du décès dans un de ces dossiers.
+La notification des griefs relève que, selon les données transmises par MGEN Vie, entre 2009 et 2019,
+le versement de la PID a fait l’objet d’une retenue sur prestation en raison de cotisations impayées dans
+3 464 dossiers, soit un montant supérieur à 0,5 million d’euros.
+31. MGEN Vie, qui n’a mis fin à cette pratique que le 7 octobre 2019, ne conteste pas ce grief, qui
+est fondé, les dispositions citées ci-dessus faisant obstacle aux prélèvements litigieux.
+Il doit néanmoins être tenu compte de ce que MGEN Vie indique, sans être contredite par la poursuite,
+qu’en vertu de l’article L. 223-19 du code de la mutualité, le non-paiement des cotisations aurait dû
+Autorité de contrôle prudentiel et de résolution 10
+
+===== Page 11 =====
+Décision de la Commission des sanctions – procédure no 2020-10
+avoir pour conséquence la résiliation des garanties. Or, sur les 21 dossiers étudiés par les contrôleurs,
+16 dossiers ont fait l’objet de versements des prestations, malgré les impayés de cotisation sur la garantie
+PID.
+MGEN Vie indique également, sans être contredite, que, pour la période pendant laquelle elle
+procédait à de tels prélèvements, elle a reversé un peu plus de 1,5 million d’euros au titre de la prestation
+santé, soit le triple de ses prélèvements effectués dans ces mêmes dossiers sur la garantie PID.
+Elle précise par ailleurs que les cotisations prélevées sur la prestation PID représentaient, sur la
+période 2014 à 2016, 0,07 % des sommes versées au titre de cette garantie.
+MGEN Vie apporte enfin des justificatifs des actions de remédiation effectuées.
+E. Sur le défaut de procédure permettant d’identifier et de prévenir les conflits
+d’intérêts
+32. En vertu du paragraphe 5 de l’article 258 du règlement délégué (UE) 2015/35, « les entreprises
+d'assurance et de réassurance veillent à se doter de processus et de procédures efficaces de prévention
+des conflits d'intérêts, à identifier les sources potentielles de conflit d'intérêts et à instaurer des
+procédures garantissant que les personnes participant à la mise en œuvre des stratégies et politiques de
+l'entreprise savent où pourraient apparaître des conflits d'intérêts, et comment les traiter ».
+33. Selon le grief 5, fondé sur ces dispositions, la désignation de la MGEN comme bénéficiaire de
+dernier rang des prestations décès, alors qu’elle est en charge de la gestion des garanties d’assurance vie,
+notamment de la recherche des bénéficiaires, apparaît comme une source de conflit d’intérêts. Or,
+MGEN Vie ne l’a pas identifiée, sa cartographie des risques ne la mentionne pas et l’établissement n’a
+pas mis en place de procédure ou de dispositif spécifique de vigilance pour prévenir ce risque. En outre,
+en réponse à une demande de la mission de contrôle, MGEN Vie a indiqué que « la possibilité de faire
+valider systématiquement par le siège les paiements dont la MGEN est bénéficiaire sera étudiée au cours
+de l’année 2019 », ce qui, selon la poursuite, montre que MGEN Vie n’avait pas pris la mesure de ce
+conflit d’intérêts.
+34. Insérées au chapitre IX « système de gouvernance » du règlement délégué (UE) 2015/35), les
+dispositions du paragraphe 5 de l’article 258 créent une obligation, pour les entreprises d’assurance et
+de réassurance, d’identification et de prévention des conflits d’intérêts, afin que les « personnes
+participant à la mise en œuvre des stratégies et politiques de l’entreprise » ne se trouvent pas dans une
+situation où leurs décisions seraient influencées ou paraîtraient l’être par des intérêts personnels.
+On ne peut en revanche en déduire clairement des obligations pour les entreprises d’assurance qui
+confient à d’autres entreprises, notamment à d’autres entreprises appartenant au même groupe qu’elles,
+le soin de gérer tout ou partie des prestations dont leurs adhérents bénéficient.
+S’il incombait à MGEN Vie de s’assurer que la MGEN, à laquelle elle confiait la gestion de ses
+garanties et qui était en même temps désignée comme bénéficiaire de dernier rang par la clause-type des
+contrats PID, ne méconnaissait pas les intérêts des bénéficiaires de ces garanties, ce qu’elle soutient
+d’ailleurs avoir fait, aucune obligation spécifique, suffisamment claire et prévisible, ne saurait être
+identifiée sur ce point dans les dispositions citées au point 32 ci-dessus, auxquelles il pourrait être
+reproché à MGEN Vie d’avoir manqué.
+Le grief 5 ne peut donc qu’être écarté.
+*
+* *
+35. Il résulte de ce qui précède que MGEN Vie ne mettait pas en œuvre les modalités spécifiques
+d’information des adhérents de la garantie PID sur les modalités et les conséquences de la désignation
+de bénéficiaires prévues par la loi (grief 1) ; qu’elle n’a pas totalement respecté les obligations liées à la
+mise en place des dispositifs AGIRA, pour les contrats dont la gestion était déléguée et, jusqu’en 2017,
+Autorité de contrôle prudentiel et de résolution 11
+
+===== Page 12 =====
+Décision de la Commission des sanctions – procédure no 2020-10
+pour les contrats « frais funéraires » (grief 2) ; que, dans un certain nombre de dossiers, ses diligences
+pour rechercher les bénéficiaires des garanties étaient encore, à la date du contrôle, insuffisantes
+(première partie du grief 3) ; que, dans un certain nombre d’autres dossiers, la prestation PID a été versée
+à la MGEN à la suite de diverses erreurs ou alors que, dans certains cas, elle aurait dû être intégrée à la
+succession, dans d’autres cas, l’absence de bénéficiaires de rang supérieur à la MGEN n’était pas
+suffisamment établie, dans d’autres cas encore, l’établissement avait, du fait d’une analyse juridique
+erronée, exclu par principe que des légataires universels puissent être regardés comme des héritiers
+(troisième partie du grief 3) ; qu’enfin, elle procédait à des prélèvements indus sur les capitaux décès en
+cas de cotisations impayées (grief 4).
+36. La Commission estime que le manquement retenu en matière d’information précontractuelle des
+adhérents est sérieux. Quand bien même les adhérents de MGEN Vie bénéficiaient d’informations,
+notamment sur la possibilité de désigner les bénéficiaires de leur choix, dès lors qu’ils recevaient, au
+moment de leur adhésion, le règlement mutualiste de MGEN Vie – lequel mentionnait la clause-type et
+contenait des informations relatives aux modalités et aux conséquences de la désignation des
+bénéficiaires, qu’un « guide des garanties » comprenant l’ensemble des informations pertinentes leur
+était également remis et que les informations sur ces différents points étaient régulièrement rappelées
+après la signature du contrat, MGEN Vie aurait dû veiller, même pour des prestations comme la PID et
+la prestation « frais funéraires », à respecter scrupuleusement les modalités spécifiques d’information
+précontractuelle qu’avait décidé d’imposer le législateur dès la fin de l’année 2005, afin de garantir
+notamment à ses adhérents un choix en toute connaissance de cause entre une clause bénéficiaire
+particulière et l’application de la clause-type.
+37. La Commission a par ailleurs souligné à plusieurs reprises l’importance que doivent accorder les
+entreprises d’assurance aux diligences qu’il leur incombe d’accomplir, dans la gestion des contrats
+d’assurance-vie, pour l’identification d’éventuels décès et la recherche des bénéficiaires.
+Cependant, sur ce point, la présente décision relève que la poursuite a, pour l’essentiel, établi des
+défaillances ponctuelles, notamment pour la recherche des bénéficiaires, mais qu’elle n’a pas établi,
+compte tenu notamment de la nature des échantillons de dossiers examinés, que ces défaillances révèlent
+une carence des dispositifs de traitement des dossiers en déshérence mis en place par l’établissement.
+La présente décision relève enfin que, s’il incombait à MGEN Vie de veiller à ce que l’intérêt des
+bénéficiaires soit pleinement pris en compte par la MGEN, à laquelle elle avait confié la gestion de ses
+contrats, la poursuite n’a retenu sur ce point aucun manquement susceptible d’être sanctionné.
+La Commission a ainsi été conduite, à plusieurs reprises, à écarter des griefs ou à en restreindre
+sensiblement la portée.
+38. Il y a lieu, par ailleurs, de tenir compte des mesures correctrices mises en œuvre par
+l’établissement, qui ont notamment porté sur : la modification du bulletin d’adhésion et une amélioration
+des informations diffusées sur les modalités de désignation du bénéficiaire ; l’intégration de la quasi-
+totalité des portefeuilles en délégation de gestion aux « dispositifs AGIRA » ; le traitement approprié de
+la plupart des dossiers pour lesquels une défaillance en matière de recherche du bénéficiaire était
+reprochée (9 étant encore en cours de traitement), lorsque la MGEN n’était pas le bénéficiaire et
+lorsqu’elle l’était.
+La Commission note, de plus, que, dès le second semestre 2014, soit plusieurs années avant le début
+de la mission de contrôle, MGEN Vie avait mis en œuvre un projet « Déesse » dont l’objet, ainsi que
+cela a été dit, était de mettre en conformité plus de 16 500 dossiers en attente de règlement de la garantie
+PID, dans lesquels le décès de l’adhérent était intervenu avant 2015 et dont 98 % sont réglés à ce jour.
+39. La Commission relève enfin que MGEN Vie a réalisé un chiffre d’affaires de 172 millions
+d’euros en 2021. Si elle a enregistré, au cours de cet exercice, une perte de 2 millions d’euros, elle
+disposait, fin 2021, de 36 millions d’euros de fonds propres.
+40. Compte tenu de l’ensemble des éléments mentionnés aux points 35 à 39, les manquements retenus
+par la Commission justifient le prononcé d’un blâme et il y a lieu de prononcer en outre à l’encontre de
+MGEN Vie une sanction pécuniaire d’un million euros. En l’absence d’éléments de nature à établir
+Autorité de contrôle prudentiel et de résolution 12
+
+===== Page 13 =====
+Décision de la Commission des sanctions – procédure no 2020-10
+qu’une publication sous forme nominative causerait à MGEN Vie un préjudice disproportionné et
+qu’elle méconnaîtrait, en l’espèce, l’équilibre entre l’exigence d’intérêt général à laquelle elle répond et
+les intérêts de l’établissement, il y a en outre lieu de publier la présente décision au registre de l’ACPR
+sous forme nominative, pendant une durée de cinq ans. Elle y sera ensuite maintenue sous une forme
+non nominative.
+*
+* *
+PAR CES MOTIFS
+DÉCIDE :
+ARTICLE 1ER – Il est prononcé à l’encontre de MGEN Vie un blâme et une sanction pécuniaire
+d’un million d’euros.
+ARTICLE 2 – La présente décision sera publiée au registre de l’ACPR pendant cinq ans sous une
+forme nominative, puis sous une forme ne permettant pas d’identifier MGEN Vie, et pourra être
+consultée au secrétariat de la Commission.
+Le Président de la Commission
+des sanctions
+[Alain Ménéménis]
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification
+et dans les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 13

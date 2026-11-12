@@ -1,0 +1,657 @@
+===== Page 1 =====
+ÉTABLISSEMENT DE PAIEMENT A
+Procédure no 2017-10
+–––––
+Blâme et sanction pécuniaire
+d’un million d’euros
+–––––
+Audience du 19 décembre 2018
+Décision rendue le 10 janvier 2019
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 24 novembre 2017 par laquelle le Président de l’Autorité de contrôle prudentiel et de
+résolution (ci-après l’ACPR) informe la Commission de ce que le Collège de supervision de l’ACPR (ci-après
+le Collège), statuant en sa formation de sous-collège sectoriel de la banque, a décidé d’ouvrir une procédure
+disciplinaire à l’encontre de l’établissement de paiement A (ci-après « établissement A »), enregistrée sous le
+no 2017-10 ;
+Vu la notification des griefs du 24 novembre 2017 et ses annexes ;
+Vu les mémoires en défense des 28 mars, 24 juillet, 26 septembre et 19 octobre 2018, par lesquels
+l’établissement A conteste les griefs, souligne les actions correctrices mises en œuvre et demande que
+l’audience ne soit pas publique ;
+Vu les mémoires en réplique des 6 juin, 12 septembre et 8 octobre 2018, par lesquels M. Duvillet puis
+M. Constans, représentants successifs du Collège, maintiennent les griefs notifiés à l’exception du grief 2, qui
+est abandonné ;
+Vu le rapport du 16 novembre 2018 de Mme Christine Meyer-Meuret, rapporteur, dans lequel celle-ci donne
+acte de l’abandon par le représentant du Collège du grief 2 et conclut que les 9 autres griefs sont établis, mais
+que 4 le sont dans un périmètre réduit (griefs 1, 3, 8 et 10) ;
+Vu les courriers du 16 novembre 2018 convoquant les parties à l’audience et les informant de la composition
+de la Commission et de ce qu’il sera fait droit à la demande présentée par l’établissement A tendant à ce que
+cette audience ne soit pas publique ;
+Vu les autres pièces du dossier, composé de documents cotés de 1 à 2419, notamment le rapport du 6 juillet
+2017 établi au terme de la mission de contrôle (ci-après le « rapport de contrôle ») et de fichiers informatiques
+non cotés, sous format PDF et Excel ;
+Vu le code monétaire et financier (ci-après le « CMF »), notamment ses articles L. 561-6, L. 561-10-2,
+L.561-15, L. 561-16, L. 561-36-1, L. 612-39, R. 561-5, R. 561-10, R. 561-12, R. 561-20 et R. 612-35 à R. 612-
+52, dans leur rédaction en vigueur au moment du contrôle sur place ;
+Vu le règlement intérieur de la Commission des sanctions ;
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2017-10
+La Commission des sanctions de l’ACPR, composée de M. Rémi Bouchez, Président, de
+Mme Claudie Aldigé, de Mme Elisabeth Pauly, de M. Thierry Philipponnat et de M. Denis Prieur, membres de
+la Commission ;
+Après avoir entendu, lors de sa séance non publique du 19 décembre 2018 :
+– Mme Meyer-Meuret, rapporteur, assistée de M. Fabien Patris, son adjoint ;
+– Mme Alice Navarro, représentante de la directrice générale du Trésor ;
+– M. Emmanuel Constans, représentant du Collège, assisté de la directrice adjointe des affaires juridiques,
+de l’adjointe au chef du service des affaires institutionnelles et du droit public, d’une juriste au sein de
+ce service, du responsable du pôle de contrôle permanent lutte contre le blanchiment et le financement
+du terrorisme (ci-après « LCB-FT ») de la deuxième direction du contrôle des banques et d’une juriste
+au sein du service du droit de la lutte anti-blanchiment et du contrôle interne ; M. Constans a proposé
+à la Commission de prononcer un blâme et une sanction pécuniaire de 1,5 million d’euros dans une
+décision publiée sous une forme nominative ;
+– l’établissement A, représentée par son directeur pour la France, assisté du représentant permanent de la
+succursale française , ainsi que de Mes Antoine Juaristi et Martin Le Touzé, avocats à la Cour (cabinet
+Herbert Smith Freehills (Paris) LLP) ;
+Après avoir délibéré en la seule présence de M. Bouchez, Président, de Mme Aldigé, de Mme Pauly, de
+M. Philipponnat et de M. Prieur, ainsi que de M. Jean-Manuel Clemmer, chef du service de la Commission
+des sanctions faisant fonction de secrétaire de séance ;
+1. Considérant que la société [Z], enregistrée dans l’État du Delaware (États-Unis), est cotée sur le New
+York Stock Exchange ; que, courant octobre 2018, sa capitalisation boursière s’élevait à un peu plus de […]
+milliards d’euros ; que, par l’intermédiaire d’entités domiciliées aux (…), elle détient l’établissement A, agréé
+en Irlande (…) en qualité d’établissement de paiement, dont le siège est à Dublin ; que ce dernier exerce en
+France, sous passeport européen, une activité de transmission de fonds, par l’intermédiaire d’une part de la
+société B (…), et, d’autre part, d’un réseau d’environ 1 200 agents (…) ; que l’établissement A a réalisé, en
+2017, un chiffre d’affaires de (…), un résultat net de (…) et disposait, à la fin de cet exercice, de (…) de fonds
+propres ; que cette même année, son chiffre d’affaires en France s’est élevé à (…) ; que, sur l’ensemble de
+l’année 2016, l’établissement A a eu, en France, un peu plus de (…) clients contre moins de la moitié en 2015,
+dont environ (…) par son réseau d’agents et (…) dans le cadre de son partenariat avec la société B ; que les
+opérations exécutées en France par l’intermédiaire de l’établissement A sont principalement des envois de
+fonds vers des pays étrangers ; que les principaux pays vers lesquels les clients de l’établissement A transfèrent
+des fonds depuis la France (les « corridors ») sont, en valeur, la Turquie, le Maroc, le Sénégal, la Côte d’Ivoire
+et la Tunisie ; que des services de l’établissement A sont installés à Paris pour l’administration des opérations
+françaises, parmi lesquels un département commercial et la ligne métier dédiée à la LCB-FT, composée, à la
+date du contrôle, d’un responsable et de 6 collaborateurs ; que plusieurs services de post-marché (« back-
+office ») interviennent dans le traitement des opérations de l’établissement A, parmi lesquels le centre de (…),
+qui a notamment pour fonction la rédaction des déclarations de soupçon (ci-après « DS »), la détection des
+personnes politiquement exposées (ci-après « PPE »), les demandes d’information aux clients ainsi que les
+dossiers d’entrée en relation et de surveillance des agents ;
+2. Considérant que l’établissement A a fait l’objet, du 23 novembre 2016 au 10 février 2017, d’un contrôle
+sur place portant sur la conformité de son dispositif de LCB-FT, pour ce qui concerne l’activité qu’elle exerce
+en France par l’intermédiaire de son réseau d’agents indépendants ; que cette mission a donné lieu à la signature
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2017-10
+du rapport de contrôle du 6 juillet 2017 ; qu’au vu de ce rapport, le Collège a décidé, lors de sa séance du
+8 novembre 2017, d’ouvrir la présente procédure disciplinaire ;
+Sur l’obligation d’identification et de vérification de l’identité de la
+clientèle
+3. Considérant que l’article R. 561-5 du CMF précise les modalités selon lesquelles l’identité des clients
+doit être vérifiée ; qu’il prévoit en particulier que les mentions à relever et à conserver de la pièce d’identité
+présentée par le client « sont les nom, prénoms, date et lieu de naissance de la personne, ainsi que la nature,
+les date et lieu de délivrance du document et les nom et qualité de l'autorité ou de la personne qui a délivré le
+document et, le cas échéant, l'a authentifié » ; que, selon le II de l’article R. 561-10 de ce code, les organismes
+assujettis « sont tenus, même en l'absence de soupçon que l'opération pourrait participer au blanchiment de
+capitaux ou de financement du terrorisme, avant de réaliser l'opération ou de prêter assistance à sa
+préparation ou sa réalisation, d'identifier leur client occasionnel ainsi que, le cas échéant, le bénéficiaire
+effectif de l'opération et de vérifier les éléments de l'identification de ceux-ci : (…) / 3°(…) quel que soit le
+montant de l'opération, lorsqu'elles réalisent une opération de transmission de fonds ou une opération de
+change manuel alors que le client ou son représentant légal n'est pas physiquement présent aux fins de
+l'identification, ou lorsqu'elles offrent des services de garde des avoirs. » ;
+4. Considérant que, selon le grief 1, fondé sur ces dispositions, l’établissement A qui est tenu d’identifier
+tous ses clients, y compris occasionnels, et de vérifier leur identité, ne relève pas tous les éléments relatifs à
+l’identité de ces derniers, qui représentent la majorité de sa clientèle ; qu’en particulier, l’établissement n’a pas
+recueilli le nom et la qualité de l’autorité ou de la personne ayant délivré le document d’identité présenté ;
+5. Considérant que si l’établissement A souligne les spécificités, dans ce domaine, des règles françaises qui
+résultent de la transposition de directives européennes et soutient que la collecte d’informations sur l’autorité
+émettrice du document d’identité présenté est de peu d’utilité, les règles en cause sont claires, s’appliquent aux
+organismes exerçant leur activité en France et font partie de celles au respect desquelles l’ACPR a pour mission
+de veiller ; que l’établissement A ne conteste pas qu’à la date du rapport de contrôle, elle ne relevait plus ces
+éléments et qu’il en a été ainsi entre avril 2016 et mi-2018 par suite d’une évolution de l’outil informatique
+utilisé ; que si l’établissement A indique qu’au cours de la période antérieure, un champ libre, dénommé « ID
+Issuer » était prévu à cet effet, cela n’implique pas qu’il ait été renseigné avec les indications requises ; que les
+pièces produites par l’établissement A sur la période antérieure montrent au contraire que, dans la majorité des
+cas, le nom de l’autorité émettrice était soit absent du champ où il devait être relevé, soit mentionné de manière
+incomplète, de sorte qu’il n’était pas possible d’identifier cette autorité ; que, contrairement à ce que soutient
+l’établissement A , cette exigence n’a pas été abandonnée par les dispositions réglementaires aujourd’hui
+applicables, qui prévoient que les organismes assujettis peuvent soit prendre une copie du document
+administratif d’identité présenté par le client, soit recueillir les mêmes informations que précédemment (voir
+le 3° de l’article R. 561-5-1 du CMF) ; que si l’établissement A rappelle que ces informations ne figurent pas
+parmi celles dont Tracfin prévoit qu’elles doivent obligatoirement figurer dans une DS, cela est sans
+conséquence sur le manquement ici en cause, relatif non à la procédure de DS mais à la vérification de l’identité
+des clients ; qu’est également sans incidence, eu égard au caractère général du grief, la circonstance que, dans
+certains pays (Inde, Koweit et Mozambique), ces indications ne figurent pas sur les documents administratifs
+et ne peuvent donc, en tout état de cause, être recueillies ; que la circonstance que le rapport de contrôle ne
+contenait, dans sa version finale, aucun reproche sur l’absence de recueil de ces informations, contrairement à
+la version de ce rapport soumise à l’établissement A pour observations, n’est pas de nature à invalider le grief,
+le Collège pouvant formuler tout grief qu’il estime justifié par les faits relevés par la mission de contrôle, mais
+peut seulement expliquer, en partie au moins, que l’établissement A n’ait pas mis en œuvre rapidement d’action
+correctrice à ce sujet ; qu’ainsi, le grief 1 est établi ;
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2017-10
+Sur l’obligation de connaissance de la clientèle en relation d’affaires
+6. Considérant que l’article L. 561-6 du CMF dispose que « Pendant toute la durée de la relation d'affaires
+et dans les conditions fixées par décret en Conseil d'État, [les organismes assujettis] exercent, dans la limite
+de leurs droits et obligations, une vigilance constante et pratiquent un examen attentif des opérations
+effectuées en veillant à ce qu'elles soient cohérentes avec la connaissance actualisée qu'elles ont de leur
+relation d'affaires. » ; que ces dispositions sont complétées par l’article R. 561-12 de ce code qui prévoit
+notamment que les organismes assujettis, avant d'entrer en relation d'affaires, recueillent et analysent les
+éléments d'information nécessaires à la connaissance de l'objet et de la nature de la relation d'affaires, pour
+évaluer le risque de blanchiment des capitaux et de financement du terrorisme (ci-après « BC-FT ») ;
+7. Considérant que, selon le grief 2, fondé sur ces dispositions, à la date de la mission de contrôle, les
+critères de détermination par l’établissement A de ses clients en relation d’affaires n’étaient pas adaptés à son
+activité ;
+8. Considérant qu’au vu des arguments présentés en défense par l’établissement A, le représentant du
+Collège a abandonné ce grief ; qu’il convient de lui en donner acte ;
+Sur l’obligation de vigilance
+A. La vigilance constante
+9. Considérant que les dispositions ci-dessus rappelées de l’article L. 561-6 du CMF imposent aux
+organismes assujettis d’exercer sur la relation d’affaires une vigilance constante et de pratiquer un examen
+attentif des opérations effectuées en veillant à ce qu’elles soient cohérentes avec la connaissance actualisée
+qu’ils ont de leur client ;
+10. Considérant que, selon le grief 3, fondé sur ces dispositions, l’établissement A est doté d’un outil
+automatisé de surveillance des opérations avant leur exécution, dénommé [X] (ci-après l’« outil X »), constitué
+d’un ensemble de filtres dont le paramétrage vise notamment à détecter plusieurs opérations réalisées par le
+même client ; que, du 1er janvier 2014 au 30 juin 2016, son système d’information, intitulé [Y] (ci-après l’«
+outil Y »), a attribué automatiquement un identifiant unique à chaque client ; que cependant, dans 35 693 cas,
+un même identifiant a été attribué à deux clients au moins, et ce jusqu’à plus de 1 000 clients (cas de « sur-
+correspondance ») tandis qu’inversement, 38 773 clients possédaient au moins deux identifiants (cas de « sous-
+correspondance ») ; que, de ce fait, l’établissement A n’était pas en mesure de respecter son obligation de
+vigilance constante vis-à-vis de ses clients ni d’analyser la cohérence de leurs opérations au regard de la
+connaissance actualisée qu’elle en avait ;
+11. Considérant que l’établissement A estime que la base juridique de ce grief est insuffisante, dès lors,
+d’une part, que si l’article L. 561-6 impose aux établissements assujettis d’exercer une vigilance constante sur
+leurs relations d’affaires, il n’en prescrit pas les modalités pratiques et ne comporte en particulier pas
+l’obligation de recourir à un outil informatisé d’attribution d’identifiants aux clients et, d’autre part, que les
+erreurs éventuelles constatées dans l’utilisation d’un tel outil n’impliquent pas, par elles-mêmes, des
+défaillances effectives dans l’exercice de la vigilance constante ; qu’elle souligne par ailleurs que l’[outil Y],
+utilisé notamment par les autorités américaines pour le contrôle des entrées de personnes aux États-Unis, est
+fiable même si, comme tout outil automatisé d’identification, il n’est pas à l’abri d’anomalies, en raison
+notamment d’erreurs de saisie ; qu’il comporte au demeurant des fonctionnalités (« Re-resolve »), que
+l’établissement A met en œuvre, permettant de réduire les erreurs ; que l’échantillon de cas au sujet duquel lui
+est reproché un manquement à ses obligations ne distingue pas les clients occasionnels de ceux en relation
+d’affaires, alors que l’obligation de vigilance constante n’est imposée qu’à l’égard des seconds ; que cet
+échantillon n’est en outre ni pertinent, ni fiable ; qu’en effet, les critères utilisés par la mission de contrôle pour
+déterminer si deux opérations sont relatives au même client, soit une identité de nom, de prénom et de date de
+naissance, ne sont pas suffisants, compte tenu notamment de ce que certains noms et prénoms sont très
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2017-10
+répandus ; que, s’agissant des cas de « sur-correspondance », certaines personnes qui connaissent leur âge mais
+pas leur date de naissance se voient attribuer par l’administration le 1er janvier comme jour de naissance, ce
+qui entraîne une très grand nombre d’occurrences pour certains clients nés à cette date, qui sont pourtant bien
+des clients différents (exemples des patronymes A1 et A2) ; que, s’agissant des cas de « sous-
+correspondance », l’établissement A indique que les données concernant un client peuvent varier à la marge
+sans remettre en cause le fait qu’il s’agit bien du même client (exemple dans le dossier A3, pour lequel la seule
+différence majeure est relative au lieu de naissance, le Portugal ou la Guinée-Bissau, colonie portugaise à la
+date de naissance du client) ; qu’en utilisant un algorithme bien connu (Jaro-Winkler) qui, afin de détecter
+d’éventuels doublons, mesure la similarité entre des chaînes de caractères ou de textes sur une échelle allant
+de 0 (absence totale de similarité) à 1 (égalité des chaînes comparées), on constate, au terme de l’analyse
+statistique d’un échantillon de 2 400 cas supposés en « sous-correspondance » et d’un échantillon de 1 010 cas
+supposés en « sur-correspondance », qu’en réalité respectivement 51 % et 90 % de ces cas ne l’étaient
+probablement pas, si l’on retient un seuil de 0,9 sur l’échelle mentionnée ci-dessus ;
+12. Considérant que pour remplir son obligation d’exercer une vigilance constante sur ses relations
+d’affaires, un établissement qui réalise chaque année plusieurs millions d’opérations à la demande de plusieurs
+centaines de milliers de clients doit nécessairement disposer d’outils automatisés d’identification permettant
+d’imputer à chacun de ses clients les opérations qu’il réalise effectivement ; qu’un défaut de fiabilité avéré de
+cet outil, ou de sa mise en œuvre, compromet inévitablement le respect de cette obligation, tant en empêchant
+l’établissement de répartir sans erreur sa clientèle entre clients occasionnels et clients en relation d’affaires et
+d’avoir de ces derniers la connaissance exigée qu’en introduisant des biais dans le déclenchement des alertes
+liées au dépassement, par un même client, des seuils fixés en montant ou en nombre d’opérations réalisées ;
+qu’ainsi, les dysfonctionnements ou le mauvais emploi d’un outil informatique indispensable à l’exercice de
+la vigilance constante sont susceptibles d’être qualifiés de manquement aux dispositions de l’article L. 561-6
+du CMF ;
+13. Considérant, toutefois, qu’au terme de l’instruction, la Commission relève que l’échantillon de cas
+identifiés par le Collège comme étant des situations de « sur-correspondance » (35 693 cas) ou de « sous-
+correspondance » (38 773 cas) ne distingue pas celles de ces situations qui correspondent à des clients en
+relations d’affaires, seule catégorie à laquelle s’applique l’obligation de vigilance constante prévue par les
+dispositions de l’article L. 561-6 du CMF sur lesquelles se fonde le grief, de celles qui correspondent à des
+clients occasionnels ; que l’établissement A soutient, en appuyant ses dires par l’application à un sous-
+échantillon d’une analyse statistique et probabiliste (méthode Jaro-Winckler), et sans être formellement
+démentie par la poursuite, qu’une partie des clients mentionnés dans l’échantillon comme apparemment
+distincts et ayant le même identifiant sont en réalité une seule et même personne, tandis qu’inversement, une
+partie des clients dotés de plusieurs identifiants sont en réalité plusieurs personnes distinctes ; qu’il est en outre
+exact que, compte tenu du nombre des clients de l’établissement A et de leurs particularités, l’utilisation par la
+poursuite de seulement 3 critères (nom, prénom, date de naissance) conduit inévitablement à de nombreux
+« faux positifs » ; que, par ailleurs, il n’est pas établi ni même soutenu par la poursuite que tout ou partie des
+cas de sur-correspondance ou de sous-correspondance constituant l’échantillon se sont effectivement traduits
+par un manquement à l’obligation de vigilance constante sur les opérations des clients en cause ; qu’ainsi, la
+Commission estime qu’en l’état du dossier, les éléments apportés par la poursuite, c’est-à-dire les données
+brutes relatives à 74 466 cas supposés de sur ou sous-correspondance des identifiants, ne suffisent pas à
+démontrer qu’en raison de défaillances rédhibitoires de l’outil [Y] ou d’erreurs dans son utilisation,
+l’établissement A n’aurait pas correctement rempli son obligation de vigilance constante sur ses clients en
+relation d’affaires ; que le grief 3 sera en conséquence écarté ;
+B. La vigilance en cas de risque élevé
+14. Considérant que, selon le I de l’article L. 561-10-2 du CMF, « Lorsque le risque de blanchiment des
+capitaux et de financement du terrorisme présenté par un client, un produit ou une transaction leur paraît
+élevé, les personnes mentionnées à l'article L. 561-2 renforcent l'intensité des mesures prévues aux articles L.
+561-5 et L. 561-6. » ;
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2017-10
+15. Considérant que, selon le grief 4, fondé sur ces dispositions, 12 clients (dossiers 4.1, 4.2, 4.3, 4.4, 4.5,
+4.6, 4.7, 4.8, 4.9, 4.10, 4.11 et 4.12) ont réalisé au cours de la période examinée par la mission de contrôle de
+nombreuses opérations de transmission de fonds pour des montants agrégés compris entre un peu moins de
+20 000 euros et un peu moins de 75 000 euros, à destination de bénéficiaires multiples résidant dans un pays
+qui figurait sur la liste des juridictions à haut risque et non coopératives établie par le GAFI (Afghanistan,
+Albanie, Équateur, Irak Turquie et Syrie) ; que, sur ce total, 11 n’étaient pas classés en relations d’affaires,
+tandis que le dernier (dossier 4.12), était en cours de classement « Customer Due Diligence » (CDD) ; que les
+éléments d’information sur la catégorie professionnelle, l’origine des fonds et l’objet des opérations, recueillis
+au sujet des 11 premiers, regardés au moins à une reprise comme relevant de la procédure « Enhanced customer
+identification process » (ECIP) en raison de la réalisation d’opérations d’un montant cumulé égal ou supérieur
+à 1 000 euros sur 24 heures glissantes, l’ont été sur une base purement déclarative ; qu’au surplus deux de ces
+clients ont effectué des opérations à destination de la Turquie, alors que l’établissement A considère ce pays
+comme risqué ; que ces 12 clients auraient dû faire l’objet d’une vigilance renforcée pour les opérations
+effectuées à destination de pays figurant sur les listes des juridictions à haut risque et non coopératives publiées
+par le GAFI, en vigueur au moment où ces opérations ont été exécutées ;
+16. Considérant, en premier lieu, que les dispositions du I de l’article L. 561-10-2 du CMF figurent depuis
+le 3 décembre 2016 au I de l’article L. 561-10-1 de ce code ; que leur non-respect peut donc toujours être
+sanctionné ; que ces dispositions impliquent que les établissements doivent, dans le cas qu’elles mentionnent,
+procéder à un renforcement des mesures de vigilance ; que l’absence de toute mesure prise en application de
+ces dispositions peut donc être sanctionnée ;
+17. Considérant, en deuxième lieu, que l’absence, dans le rapport de contrôle, d’observations relatives à un
+défaut de vigilance renforcée ne saurait lier le Collège à qui il revient, sur la base des constatations soumises
+à son appréciation, de retenir la qualification des faits qui lui semble appropriée ; qu’il n’en résulte aucune
+atteinte aux droits de l’établissement A qui a pu, au sujet de ce grief comme de tous les autres qui lui ont été
+notifiés, présenter à la Commission toutes les observations utiles en défense ;
+18. Considérant, en troisième lieu, que si l’établissement A fait valoir que ses exigences dans ce domaine
+se situent à un niveau élevé, l’analyse des risques propres à la France effectuée par le groupe [Z] ne suffit pas
+à établir qu’une vigilance renforcée a été appliquée à des clients transférant des fonds vers les pays à risque
+élevé ; que, de même, la présence de filtres [X] (a priori) et de règles (…) (a posteriori) relatifs aux opérations
+effectuées en direction ou en provenance de ces pays ne répond pas au grief, en l’absence d’indication sur les
+diligences particulières, faisant apparaître un niveau d’intensité supérieur, qui y auraient été systématiquement
+associées pour l’identification et la connaissance des clients relevant de l’obligation de vigilance renforcée ;
+qu’en outre, les informations demandées aux clients (profession, origine des fonds et objet de la transaction),
+dont se prévaut l’établissement A pour justifier qu’une vigilance renforcée avait été mise en place, ne se
+distinguent pas de ce qui était demandé aux autres clients ; que le grief 4 est établi ;
+Sur les procédures de détection des personnes politiquement
+exposées
+19. Considérant que, selon le 1° du II de l’article R. 561-20 du CMF, les organismes assujettis définissent
+et mettent en œuvre des procédures, adaptées au risque BC-FT, permettant de déterminer si leur client est une
+PPE, à l’entrée comme en cours de la relation d’affaires ;
+20. Considérant que, selon le grief 5, fondé sur ces dispositions, la vérification de la qualité de PPE était
+prévue, au sein de l’établissement A, pour les clients ayant réalisé des opérations unitaires d’un montant
+supérieur à 6 000 euros ; que la politique globale relative aux PPE (« Global PEP Policy ») de l’établissement
+A prévoit de détecter ceux qui réalisent des opérations supérieures à un seuil de 7 500 USD ou les clients
+faisant l’objet de « CDD » ou « ECDD » ; qu’ainsi, ce dispositif comporte un seuil de détection, non prévu par
+les dispositions réglementaires applicables à cette catégorie de clients ; que, de plus, en raison des limites
+fixées ex ante à l’égard des clients classés dans l’une des deux catégories ci-dessus rappelées, la vérification
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2017-10
+de la qualité de PPE d’un nombre important d’entre eux, 34 090 au moment du contrôle sur place, qui auraient
+dû être considérés comme étant en relations d’affaires pour avoir exécuté plus de 31 opérations entre le 1er
+janvier 2014 et le 30 juin 2016, n’a pas été effectuée ;
+21. Considérant que les dispositions ci-dessus rappelées (cf. supra considérant 19) imposent aux
+organismes assujettis de détecter si leur client en relation d’affaires est ou devient une PPE ; que la limitation
+de la détection de tels clients aux seuls parmi eux qui demandent l’exécution d’opérations au-dessus du seuil
+de 6 000 euros, alors même que des clients peuvent être en relation d’affaires lorsqu’ils demandent des
+opérations pour des montants inférieurs, est incompatible avec le respect de cette obligation ; qu’une approche
+par les risques, fondée, ainsi que l’indique l’établissement A, sur les conclusions d’organismes officiels dont
+le GAFI et, en France, Tracfin, d’où il ressort que les affaires de corruption de PPE portent surtout sur des
+montants élevés et que ces flux passent plutôt par le système bancaire que par les transmetteurs de fonds, ne
+peut justifier la mise en place de seuils très supérieurs au montant moyen des transactions exécutées par un
+établissement assujetti à la LCB-FT ; que la réglementation est, dans ce domaine, prescriptive, en ce qu’elle
+impose la détection de toutes les PPE en relation d’affaires ; que si l’établissement A soutient que les
+procédures internes du groupe conduisent à estimer que ce risque est globalement faible, cela ne peut conduire
+à une réduction aussi importante du champ du dispositif de détection des PPE ; qu’ainsi que la Commission
+l’a déjà rappelé (décision n° 2014-07 du 24 juillet 2015, considérant 46 et n° 2015-08 du 8 décembre 2016,
+considérant 62), il appartient aux organismes assujettis de mettre en place, dans ce domaine, un dispositif
+capable de traiter la totalité de leur clientèle en relation d’affaires ; que la mention, par les lignes directrices
+conjointes de la direction générale du Trésor et de l’ACPR, d’un seuil de 1 000 euros pour la clientèle
+occasionnelle, en matière de transmission de fonds, n’est pas de nature à remettre en cause le reproche ; que le
+grief 5 est établi ; qu’il peut cependant être tenu compte de ce qu’aucune opération effectuée par une PPE n’a
+été détectée par la mission de contrôle ;
+Sur l’obligation d’examen renforcé
+22. Considérant que, selon le II de l’article L. 561-10-2 du CMF, les organismes assujettis « effectuent un
+examen renforcé de toute opération particulièrement complexe ou d'un montant inhabituellement élevé ou ne
+paraissant pas avoir de justification économique ou d'objet licite. Dans ce cas, ces personnes se renseignent
+auprès du client sur l'origine des fonds et la destination de ces sommes ainsi que sur l'objet de l'opération et
+l'identité de la personne qui en bénéficie. » ;
+23. Considérant que, selon les griefs 6 et 7, fondés sur ces dispositions, l’établissement A n’a pas respecté
+ses obligations d’effectuer un examen renforcé ;
+1. Sur le dispositif d’examen renforcé
+24. Considérant que, selon le grief 6, l’établissement A prévoyait notamment d’effectuer un examen
+renforcé des opérations entrant dans le champ du dispositif dénommé « Large Principal Money Transfer » (ci-
+après « LPMT »), d’un montant unitaire supérieur à 6 000 euros, alors que le montant moyen des transactions
+de cet organisme s’est élevé à [quelques centaines d’] euros sur la période du 1er janvier 2014 au 30 juin 2016 ;
+que, de plus, ce seuil peut être contourné par un fractionnement des opérations que l’établissement A n’est pas
+en mesure de détecter, son dispositif ne générant d’alertes que lorsque celles-ci dépassent 7 500 euros en cumul
+en une journée ; que l’efficacité de son dispositif de détection des opérations fractionnées est encore réduite
+par l’attribution d’un même identifiant à certains clients ou de plusieurs identifiants à un même client ; que,
+tout d’abord, à titre d’illustration de ces carences, plusieurs opérations fractionnées n’ont pas été détectées ;
+que tel est le cas des opérations de transmission de fonds, pour des montants compris entre 5 500 et 5 999,99
+euros, exécutées par (i) 3 clients ayant réalisé, chacun, deux opérations en 24 heures vers le même bénéficiaire,
+dont certaines espacées de quelques minutes (dossiers 6.1, 6.2 et 6.3), (ii) 13 clients vers le même bénéficiaire
+en 48 heures avec, dans un cas, un client également bénéficiaire du transfert (dossiers 6.4, 6.5, 6.6, 6.7, 6.8,
+6.9, 6.10, 6.11, 6.12 , 6.13, 6.14 , 6.15 et 6.16) et (iii) un client vers le même bénéficiaire en l’espace de 72
+heures (dossier 6.17) ; que, de plus, (iv) 5 clients ont réalisé deux opérations de transmission de fonds d’un
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2017-10
+montant égal à 6 000 euros vers le même bénéficiaire en l’espace de 48 heures (dossiers 6.18 , 6.19 , 6.20, 6.21
+et 6.22) ; qu’ensuite, (v) 31 clients ont réalisé des opérations supérieures à 6 000 euros entre le 13 février 2014
+et le 16 avril 2016 sans qu’aucun examen renforcé ne soit effectué, à la suite d’un dysfonctionnement
+informatique (dossiers 6.23, 6.24, 6.25, 6.26, 6.27, 6.28, 6.29, 6.30, 6.31, 6.32, 6.33, 6.34, 6.35, 6.36, 6.37,
+6.38, 6.39, 6.40, 6.41, 6.42, 6.43, 6.44, 6.45, 6.46, 6.47, 6.48, 6.49, 6.50, 6.51, 6.52 et 6.53) ;
+25. Considérant, tout d’abord, que la fixation d’un seuil fixe de transactions en dessous duquel aucun
+examen renforcé n’est effectué, n’est, en elle-même, pas compatible avec les dispositions légales ci-dessus
+rappelées en ce qu’elle conduit à écarter d’un tel examen des opérations qui ne paraîtraient pas avoir de
+justification économique ou d’objet licite ; qu’au demeurant, un tel seuil peut être aisément contourné ainsi
+que l’attestent les opérations fractionnées que l’établissement A admet ne pas avoir détectées ; qu’en outre, un
+seuil de 6 000 euros est manifestement trop élevé au regard de la moyenne des opérations réalisées par
+l’établissement A ; qu’au-delà de propos à caractère général, l’établissement A n’indique pas en quoi les
+opérations mentionnées par la poursuite, à l’exception de celles au sujet desquelles une DS a été envoyée à
+Tracfin, bien que de montant très supérieur à la moyenne de celles exécutées pendant la période examinée lors
+du contrôle, ne devaient pas, au regard de leurs caractéristiques et des éléments de connaissance du client, faire
+l’objet d’un examen renforcé ; que de surcroît, un tel examen n’a pas été effectué dans 31 cas pour lesquels ce
+seuil de 6 000 euros était dépassé ;
+26. Considérant, ensuite, que si l’établissement A soutient que son dispositif d’alertes ne reposait pas
+uniquement sur l’existence du seuil de 6 000 euros mais comportait d’autres scénarios permettant la détection
+des opérations atypiques, les hypothèses génératrices d’alertes mentionnées portaient elles aussi sur des
+montants supérieurs à ce seuil ou, lorsqu’elles lui étaient équivalentes ou inférieures, se rapportaient soit à une
+multitude d’opérations (scénario 16.201129), soit seulement à des corridors risqués (scénario 16.55977) ;
+qu’aucun scénario alternatif du dispositif d’alertes ne permettait donc de détecter une opération unitaire
+inférieure à 6 000 euros dont le montant aurait été cependant inhabituellement élevé ; que, surtout, le traitement
+des alertes ou signalements ne constitue pas nécessairement un examen renforcé ; que si, parmi les dossiers
+relatifs à des opérations supérieures à ce seuil, l’établissement A soutient avoir, dans le dossier 6.45, effectué
+un examen renforcé, les diligences faites au sujet du motif de l’opération, qui ont consisté en un recueil
+d’informations orales, ne peuvent en tenir lieu ; que le grief 6 est ainsi établi, dans un périmètre réduit par
+l’exclusion, d’une part, des opérations exécutées dans 2 dossiers par des intervenants dont l’établissement A
+indique qu’ils n’étaient pas ses agents à la date de leur réalisation (dossiers 6.21 et 6.22) et, d’autre part, de
+celles au sujet desquelles, ainsi que l’admet la poursuite, l’envoi d’une DS à Tracfin portant sur des opérations
+mentionnées dans la notification des griefs montre que l’obligation d’examen renforcé a été respectée (dossiers
+6.3, 6.5, 6.10, 6.16 et 6.17) ;
+2. Sur les 17 défauts d’examen renforcé reprochés
+27. Considérant que, selon le grief 7, l’établissement A n’a pas effectué d’examen renforcé des opérations
+de 17 clients exécutées entre janvier 2014 et juin 2016 (dossiers 7.1, 7.2, 7.3, 7.4, 7.5, 7.6, 7.7, 7.8, 7.9, 7.10,
+7.11, 7.12, 7.13, 7.14, 7.15, 7.16 et 7.17) ;
+28. Considérant que, dans ces dossiers, les opérations reprochées ont porté sur des montants supérieurs soit
+à la moyenne de celles effectuées jusqu’alors par les intéressés (dossiers 7.1 à 7.9), soit au montant moyen des
+transactions exécutées par l’établissement A au cours de cette même période (dossiers 7.10 à 7.17) ; que le
+motif unique ou majoritaire déclaré de soutien familial, qui ne peut être regardé comme établi par le seul fait
+que le bénéficiaire réside dans le pays dont le donneur d’ordres est un ressortissant ou dont il est originaire, n’a
+donné lieu à aucun questionnement (dossiers 7.1 à 7.9, 7.13 et 7.14), alors même que le patronyme du client
+et celui du bénéficiaire ne permettaient pas de supposer un lien de parenté ; que, de même, la profession
+déclarée, définie de manière vague, était également susceptible de changer pour un même client, sans que cela
+suscite le recueil d’informations complémentaires ; que l’exécution d’une opération portant sur plusieurs
+milliers d’euros, pour un motif familial allégué, par une personne s’étant déclarée « employee » à 17 reprises
+et « unemployed » à 25 reprises n’a pas suscité de réaction (dossier 7.5) ; que l’absence d’alerte relative aux
+opérations d’un client (dossiers 7.5 et 7.6) ne signifie pas nécessairement qu’il n’y avait pas lieu d’en effectuer
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2017-10
+un examen renforcé ; qu’en outre, ces transactions ont été effectuées vers des pays que l’établissement A
+regardait, dans un document de décembre 2016, comme présentant un risque majeur de BC-FT (l'Afghanistan,
+la Turquie, l'Albanie, l'Équateur, l'Irak et la Syrie) ; qu’enfin, certaines opérations ont été réalisées dans un
+laps de temps très court (dossiers 7.10 à 7.12, 7.15 à 7.17) ; que l’incertitude sur la justification économique
+de ces opérations et sur la licéité de leur objet aurait dû conduire l’établissement A à effectuer un examen
+renforcé ; que le grief 7 est ainsi établi à l’égard des 17 dossiers ;
+VI. Sur les obligations de déclaration à Tracfin
+A. Les défauts de DS initiales
+29. Considérant que, selon le I de l’article L. 561-15 du CMF, les organismes assujettis doivent déclarer à
+Tracfin « les sommes inscrites dans leurs livres ou les opérations portant sur des sommes dont elles savent,
+soupçonnent ou ont de bonnes raisons de soupçonner qu’elles proviennent d’une infraction passible d’une
+peine privative de liberté supérieure à un an ou sont liées au financement du terrorisme » ; que le III du même
+article dispose que ces organismes sont tenus, le cas échéant, d’adresser une déclaration de soupçon à l’issue
+d’un examen renforcé ;
+30. Considérant que, selon le grief 8, fondé sur ces dispositions, l’établissement A a manqué à ses
+obligations de déclaration dans 16 cas ; que si l’établissement A fait valoir que sa pratique est conforme aux
+recommandations de Tracfin et consiste à éviter des DS « de couverture » ou « défensives » insuffisamment
+étayées, c’est au vu de chacun des cas mentionnés par la poursuite que la Commission doit prendre position ;
+1°) Les manquements au I de l’article L. 561-15 du CMF
+31. Considérant que, selon la notification des griefs, l’établissement A a manqué à ses obligations
+déclaratives au regard des dispositions du I de l’article L. 561-15 dans 5 dossiers (8.1, 8.2, 8.3, 8.4 et 8.5) ;
+32. Considérant, tout d’abord, que, dans le dossier 8.1, les éléments connus de l’établissement A au sujet
+de l’activité de commerce de gros de plantes et de fleurs aux Antilles permettaient, au vu des opérations
+effectuées au bénéfice de personnes dont une était grossiste en fleurs en Équateur, de justifier suffisamment
+les opérations effectuées ;
+33. Considérant, ensuite, que dans les 4 autres dossiers, les clients ont effectué de très nombreuses
+opérations, pour des montants agrégés compris entre un peu plus de 10 000 (dossier 8.4) et un peu moins de
+200 000 euros (dossier 8.3), parfois de manière fractionnée (dossiers 8.4 et 8.5) ; que le décalage entre les
+explications fournies par les clients quant au motif de ces transferts, essentiellement de soutien familial, et
+l’absence de lien apparent avec les bénéficiaires (dossier 8.2), n’a entrainé aucune réaction de la part de
+l’établissement A ; que la situation professionnelle déclarée par l’intéressé, recueillie de manière imprécise et
+parfois susceptible de fluctuations (dossiers 8.2 et 8.3), ne pouvait utilement contribuer à la connaissance des
+clients dont les revenus et le patrimoine étaient inconnus ; que le classement des alertes relatives aux opérations
+de ces clients a été motivé d’une façon standardisée qui ne tenait pas compte des particularités de celles-ci ;
+qu’à titre d’exemple, dans le dossier 8.5, le client a réalisé, entre janvier 2014 et juin 2016, 45 opérations de
+transmission de fonds, pour un montant total supérieur à 75 000 euros ; qu’à la suite du franchissement du seuil
+de surveillance de « 6 opérations ou plus en 30 jours à destination du Mali, Ghana, Nigeria, du Pakistan, de
+la Côte d’Ivoire, de la Chine de la Roumanie, de la Thaïlande, de la Turquie, du Vietnam, du Cameroun, du
+Sénégal » par ce client dont le dossier ne contient aucun élément de connaissance du client sauf une déclaration
+de l’intéressé selon laquelle il serait « senior executive », l’alerte émise a été classée sans suite car, selon
+l’établissement A, elle ne satisfaisait aucun critère de la matrice de décision pour les activités suspectes et, dès
+lors, ne devait pas entraîner l’envoi d’une DS ;
+34. Considérant, en outre, que dans le dossier 8.3, le motif majoritairement avancé, pour ces transferts, de
+soutien familial, ne semble pas cohérent avec leur bénéficiaire, une société de communication dont le siège est
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2017-10
+situé en Allemagne ; que le recueil de fonds auprès de commerçants afin d’acquérir des minutes téléphoniques
+n’est pas une activité susceptible, en elle-même, d’écarter tout soupçon de BC-FT ; que, dans le dossier 8.4, le
+transfert par un client au Sénégal, à son bénéfice, en deux opérations effectuées le même jour, de 10 000 euros
+aurait également dû être déclaré en l’absence de toute information sur le patrimoine, la profession et les revenus
+de celui-ci ; que, dans ce dossier, le motif présenté du fractionnement des opérations par l’interdiction, au
+Sénégal, de la réception de transferts supérieurs à 7 500 euros, n’est pas de nature à lever le doute sur l’origine
+des fonds ;
+2°) Les manquements au III de l’article L. 561-15 du CMF
+35. Considérant que, selon la notification des griefs, l’établissement A a manqué à ses obligations
+déclaratives au regard des dispositions du III de l’article L. 561-15 dans 11 dossiers (8.6, 8.7, 8.8, 8.9, 8.10,
+8.11, 8.12, 8.13, 8.14, 8.15 et 8.16) ;
+36. Considérant, tout d’abord, que dans les dossiers 8.6 à 8.11, le client a été interdit de transaction par
+l’établissement ; que si le refus de communiquer des justificatifs ne conduit pas nécessairement à l’envoi d’une
+DS, lorsqu’il intervient dans le cadre d’un examen renforcé, il est susceptible d’empêcher l’organisme de
+disposer des éléments lui permettant d’écarter tout soupçon de blanchiment ; que, contrairement à ce que
+soutient l’établissement A, ces 5 dossiers satisfaisaient aux critères légaux de l’examen renforcé, en raison,
+notamment, de l’incertitude affectant la licéité des opérations effectuées ; que, faute pour l’établissement A
+d’avoir obtenu les renseignements demandés et compte tenu des éléments ci-après détaillés relatifs à chacun
+de ces dossiers, l’interruption de la relation d’affaires aurait dû s’accompagner de l’envoi d’une DS à Tracfin ;
+37. Considérant ainsi que dans le dossier 8.6, les très nombreuses opérations effectuées, pour un motif
+majoritairement déclaré de soutien familial, en l’absence de lien de parenté apparent du client avec les
+bénéficiaires, suivies des explications contradictoires puis du refus de produire les justificatifs demandés,
+auraient dû être portées à la connaissance de Tracfin, la profession de marchand d’art international qui serait
+exercée par l’intéressé ne suffisant pas à écarter tout soupçon de BC-FT ;
+38. Considérant que dans le dossier 8.7, la réalisation de 182 transactions, d’un montant moyen de 330
+euros, principalement à destination du Cameroun et au bénéfice de personnes avec lesquelles il n’avait aucun
+lien de parenté apparent, mais aussi en réception, pour un montant moyen de 572 euros, en provenance des
+États-Unis, de France et du Sénégal, aurait dû, après trois tentatives infructueuses d’obtenir du client des
+explications, aboutir à l’information de Tracfin, la profession d’avocat, qui serait, selon l’établissement A
+exercée par ce client qui avait pourtant déclaré être « employé / dirigeant/cadre supérieur », ne suffisant pas à
+écarter tout soupçon de blanchiment ;
+39. Considérant que dans le dossier 8.8, les 105 transferts demandés s’inscrivaient dans le cadre d’un
+soutien familial déclaré alors que la majorité de leurs 37 bénéficiaires n’avaient aucun lien de parenté apparent
+avec le client ; que la relation commerciale avec celui-ci a été interrompue alors qu’il avait indiqué que
+certaines de ces transactions étaient réalisées pour le compte de tiers qu’il ne connaissait pas, ce qui est interdit
+par les règles internes de l’établissement A ; que le fait que 6 des 37 bénéficiaires portent le nom […] ne peut
+permettre de lever le doute quant à la licéité des opérations du client ; que le défaut de communication de
+justificatifs, qui a entraîné l’inscription du client sur la liste d’interdiction interne, aurait également dû avoir
+pour conséquence l’envoi d’une DS à Tracfin ;
+40. Considérant que dans le dossier 8.9, l’exécution de 175 transferts de fonds, d’un montant total d’environ
+75 000 euros, à destination de l’Espagne, de la Belgique, du Mali, de la Côte d’Ivoire et du Burkina-Faso, a
+été motivée par un soutien familial alors que les bénéficiaires des transferts n’avaient pas de lien de parenté
+apparent avec le client ; que ce dernier, entendu en entretien, n’a donné aucune précision sur la teneur de son
+emploi ni sur le motif des transferts, qu’il a indiqué effectuer pour lui-même mais aussi pour le compte de son
+employeur ;
+41. Considérant que dans le dossier 8.10, le client, qui réside [dans les Antilles françaises], a réalisé 107
+transferts de fonds dans une période légèrement inférieure à deux ans, pour un montant d’environ 60 000 euros,
+Autorité de contrôle prudentiel et de résolution 10
+
+===== Page 11 =====
+Décision de la Commission des sanctions – procédure no 2017-10
+à destination notamment de la Gambie, du Sénégal, de la Guinée, de la Guinée-Bissau et de la Tunisie ; que
+malgré le motif déclaré d’un soutien familial, les 16 bénéficiaires ne présentent aucun lien de parenté apparent
+avec le client ; que les explications selon lesquelles il envoyait des fonds à des amis auxquels il apportait son
+soutien paraissent trop imprécises pour écarter tout risque de BC-FT ;
+42. Considérant que dans le dossier 8.11, le client a effectué 363 transferts de fonds entre janvier 2014 et
+juin 2016, pour un montant total légèrement supérieur à 45 000 euros ; qu’il a dépassé à plusieurs reprises le
+seuil déclencheur d’alertes de 20 transactions réalisées sur une période de 30 jours ; que ces transferts ont été
+réalisés au bénéfice de 23 personnes dans 5 pays différents dont certains classés comme à risque par
+l’établissement ; que le client a varié dans ses déclarations, indiquant à 296 reprises qu’il était salarié, à 63
+reprises qu’il était chômeur et à 4 reprises n’a pas répondu ; que ni le montant moyen très faible de ces
+opérations (124 euros) ni le fait que les bénéficiaires appartiendraient à la même famille, ne permettent de
+justifier l’absence d’envoi d’une DS à Tracfin ;
+43. Considérant que dans le dossier 8.12, le client a réalisé 7 opérations sur une très courte période pour un
+montant total de 10 500 euros de manière fractionnée à destination de la Chine, destination considérée comme
+à risques par l’établissement A ; que le motif déclaré de soutien familial, selon les constats du rapport de
+contrôle, n’était pas en cohérence avec les informations recueillies sur l’activité du client, qui aurait utilisé les
+services de l’établissement A à des fins commerciales ; qu’il n’existe pas de lien familial apparent entre le
+client et le bénéficiaire ; que le montant de chaque opération, soit 1 500 euros, était juste en-dessous de la
+limite fixée par l’établissement A pour une opération de transmission de fonds à destination de la Chine ; qu’en
+dépit de ces éléments, aucune DS n’a été faite ;
+44. Considérant que dans le dossier 8.13, les opérations de transfert de fonds effectuées depuis la Martinique
+à destination notamment de la Guinée (Conakry), entre mars et juin 2016, n’étaient pas justifiées au regard des
+éléments de connaissance du client que détenait l’établissement A, l’intéressée ayant seulement indiqué être
+employée ; que le motif de soutien familial déclaré pour ces opérations est incohérent avec le fait que certaines
+ont été effectuées au bénéfice d’une société ; que l’établissement A n’explique pas les raisons pour lesquelles,
+après plusieurs signalements exprimant des doutes émanant de l’agent qui a effectué ces transferts, les
+opérations de cette cliente n’ont pas donné lieu à DS ;
+45. Considérant que dans le dossier 8.14, l’envoi, sur un période d’un an à compter d’avril 2015, de près
+de 25 000 euros en Chine, dont une partie par des opérations séparées de quelques minutes d’un montant juste
+inférieur au plafond fixé par l’établissement A, a donné lieu à des alertes, classées sans suite pour un motif
+standardisé ne permettant pas de déterminer quelle analyse en avait été faite ; que l’établissement A, qui ne
+détenait aucun élément de connaissance de ce client qui avait déclaré être « employé », ne pouvait déterminer
+ni quel motif réel l’avait conduit à effectuer ces transferts ni quelle était l’origine des fonds ; qu’une DS aurait
+donc dû être adressée à Tracfin ;
+46. Considérant que dans le dossier 8.15, le motif familial ayant conduit le client à transférer un peu moins
+de 20 000 euros, en deux mois, par 14 opérations dont certaines réalisées dans un laps de temps très court, à
+destination de l’Irak et, dans une moindre mesure, du Pakistan, vers 6 bénéficiaires, ne pouvait ressortir des
+éléments de connaissance du client que détenait l’établissement A, qui étaient inexistants, hormis la déclaration
+de l’intéressé selon laquelle il était employé ;
+47. Considérant que dans le dossier 8.16, les virements de fonds vers le Maroc, pour un montant total de
+plus de 18 000 euros en un peu moins de 2 ans, ont été effectués majoritairement au bénéfice d’une personne
+portant le même patronyme ; que, notamment, 8 transferts, d’un montant unitaire de 1 000 euros, ont été
+exécutés le même jour ; que l’établissement A ne détenait aucun élément lui permettant de connaître l’origine
+des fonds et de comprendre le fractionnement de certaines de ces opérations ;
+48. Considérant ainsi que le grief 8 est établi dans 15 cas sur 16 ;
+Autorité de contrôle prudentiel et de résolution 11
+
+===== Page 12 =====
+Décision de la Commission des sanctions – procédure no 2017-10
+B. Les défauts de DS complémentaires
+49. Considérant que le V de l’article L. 561-15 du CMF impose aux organismes assujettis d’aviser sans
+délai Tracfin de toute information de nature à infirmer, conforter ou modifier les éléments contenus dans une
+DS ;
+50. Considérant que, selon le grief 9, fondé sur ces dispositions, l’établissement A a manqué à son
+obligation d’effectuer une DS complémentaire dans 3 dossiers (9.1, 9.2, et 9.3) ;
+51. Considérant que, dans le dossier 9.1, le transfert, à 53 reprises en 3 mois, du 9 septembre 2014 au 6
+décembre 2014, de fonds vers la Bulgarie, pays d’origine de la cliente, qui avait indiqué qu’elle était sans
+emploi, pour un montant total de 9 460 euros, avait suscité l’envoi d’une DS à Tracfin le 20 janvier 2015 ; que
+le placement de la cliente, le 1er juin 2017, en « surveillance KYC » ne peut pallier l’absence d’envoi d’une
+DS complémentaire au sujet de cette cliente qui a réalisé 151 autres transactions du 25 janvier 2015 au 30 juin
+2016 pour un montant total de 26 125 euros ; que le faible montant moyen des transactions ne peut justifier la
+carence de l’établissement A dans ce dossier, la loi ne fixant aucun montant pour effectuer une telle
+déclaration ; que ces transferts ont été effectués vers 14 bénéficiaires, dont tous ne portaient pas le patronyme
+de cette cliente, ce qui ne permettait pas de corroborer le motif majoritairement déclaré de soutien familial,
+aucun motif n’ayant de plus été déclaré pour justifier certaines de ces opérations ; que, si l’établissement A
+estime que l’absence d’envoi d’une nouvelle DS est cohérente avec ses propres procédures, cette considération
+est sans incidence sur la teneur du reproche, qui est fondé ;
+52. Considérant que dans le dossier 9.2, l’exécution de 25 opérations de transmission de fonds, pour un
+montant total de 6 572 euros, entre le 16 juin et le 12 septembre 2015, par une cliente « sans emploi », au
+bénéfice d’une résidente bulgare, a entraîné l’envoi d’une DS à Tracfin le 14 octobre 2015 ; que ces envois ont
+été suivis d’une nouvelle série de 90 opérations exécutées entre le 16 octobre 2015 et le 30 juin 2016 pour un
+montant total de 16 436 euros au bénéfice de 4 résidents bulgares, dont 41 en faveur de la première destinataire
+des fonds, pour un total de 7 188,6 euros ; que ni le déclenchement d’une alerte le 20 octobre 2016, à la suite
+du franchissement du seuil de 20 transactions sur une période de 30 jours, conforme aux procédures internes
+de l’établissement A, ni le placement de cette cliente en relation d’affaires au titre d’une « surveillance
+KYC », ne constituent une réponse utile au manquement ici reproché ; que si les envois de fonds ont été
+principalement effectués à destination de la Bulgarie et des mêmes bénéficiaires, cela ne suffit pas à exclure
+tout soupçon de BC-FT ;
+53. Considérant que, dans le dossier 9.3, la réalisation de transferts de fonds pour des montants importants
+sur une courte période vers la République dominicaine, pays regardé par l’établissement A comme étant à
+risques, avait donné lieu à l’envoi de 3 DS à Tracfin les 19 août et 12 novembre 2015 ainsi que le 12 février
+2016 ; que la cliente a réalisé ensuite, du 24 mars au 18 mai 2016, 13 nouvelles opérations pour un montant
+total de plus de 25 000 euros ; que si l’établissement A a maintenu sa vigilance sur les opérations de cette
+cliente, ce qui s’est traduit par le déclenchement d’une nouvelle alerte à la suite d’un franchissement du seuil
+interne de 12 000 euros, aucune DS complémentaire n’a été adressée à Tracfin, alors que cela aurait été
+justifié ;
+54. Considérant ainsi que le grief 9 est intégralement établi ;
+C. Les délais de DS
+55. Considérant que, selon l’article L. 561-16 du CMF, lorsqu'une opération devant faire l'objet d'une
+déclaration de soupçon a déjà été réalisée, soit parce qu'il a été impossible de surseoir à son exécution, soit
+parce que son report aurait pu faire obstacle à des investigations portant sur une opération suspectée de BC-
+FT, soit parce qu'il est apparu postérieurement à sa réalisation qu'elle était soumise à cette déclaration, les
+organismes assujettis en informent Tracfin sans délai ;
+Autorité de contrôle prudentiel et de résolution 12
+
+===== Page 13 =====
+Décision de la Commission des sanctions – procédure no 2017-10
+56. Considérant que, selon le grief 10, fondé sur ces dispositions, l’organisation de l’établissement ne lui
+permet pas de déclarer sans délai à Tracfin les opérations suspectes ; qu’en effet les propositions de DS sont
+préparées soit par le siège mondial du groupe [Z], basé à Denver, soit par le département conformité de
+l’établissement A, basé en Lituanie ; qu’elles doivent ensuite être traduites en français et vérifiées par le
+département « compliance » en France, avant de pouvoir être transmises à la cellule de renseignement
+financier, ce qui génère des retards dans les déclarations ; qu’à titre d’illustration, les opérations de clients ont
+donné lieu à l’envoi de DS tardives dans 5 dossiers (dossiers 10.1, 10.2, 10.3, 10.4 et 10.5) ;
+57. Considérant qu’il ne ressort pas du dossier que les particularités de l’organisation de la fonction
+« conformité » de l’établissement A et du groupe auquel elle appartient impliquent par elles-mêmes une
+défaillance du dispositif de déclaration de soupçon de l’établissement A, qui ne lui aurait pas permis, de
+manière générale, de respecter son obligation de déclarer « sans délai » les opérations suspectes à Tracfin ;
+qu’une telle défaillance ne saurait pas non plus se déduire des 5 cas mentionnés par la poursuite, compte tenu
+de leur nombre minime, des retards très modestes, par rapport à d’autres cas soumis précédemment à la
+Commission, qu’ils font apparaître, et des explications données à ces retards ; que les délais constatés dans ces
+5 dossiers étant présentés par la poursuite comme une illustration d’un dispositif défectueux, ils ne sauraient
+au demeurant être sanctionnés en tant que tels ; que le grief ne peut en conséquence qu’être écarté ;
+*
+* *
+58. Considérant qu’il résulte de ce qui précède que si l’établissement A soutient que le groupe [Z] [auquel
+il appartient] respecte, au niveau mondial, les standards de LCB-FT édictés par le GAFI tout en se conformant
+aux exigences réglementaires de chaque pays dans lequel il opère, plusieurs dispositions légales n’étaient pas,
+à la date du contrôle, correctement respectées par cet établissement ; que les insuffisances constatées en matière
+d’examen renforcé résultent à la fois d’une connaissance insuffisante des clients concernés, de la fixation de
+seuils élevés au regard du montant moyen des opérations des clients et d’une mauvaise application, dans
+certains cas, de ces seuils (griefs 6 et 7) ; que, dans de nombreux dossiers, relatifs parfois à des montants
+transférés importants, l’absence apparente de justification économique ou de licéité des opérations n’a pas
+entraîné l’envoi d’une DS initiale à Tracfin, y compris lorsque le caractère atypique de celles-ci avait été
+détecté ; qu’il en a été ainsi dans 15 des 16 dossiers mentionnés à ce titre par la poursuite ; que le dispositif de
+LCB-FT de l’établissement A permettait en effet que des alertes soient classées sans suite sans motivation
+permettant de comprendre les raisons d’un tel classement, notamment au terme d’un examen renforcé (grief
+8) ; que la réitération d’opérations suspectes n’a pas, dans quelques dossiers, entraîné l’envoi à Tracfin des DS
+complémentaires qui auraient pourtant dû lui être adressées (grief 9) ; qu’en outre, le dispositif de
+l’établissement A au moment du contrôle ne lui permettait pas de respecter ses obligations de vigilance
+renforcée en cas de risque élevé (grief 4) ; qu’enfin, la détection des PPE était défaillante, en raison notamment
+de la fixation d’un seuil élevé conditionnant cette détection (grief 5) ;
+59. Considérant, toutefois, que les reproches relatifs aux carences de l’établissement A en matière de
+connaissance de la clientèle en relation d’affaires (grief 2) et de vigilance constante (grief 3) n’ont pas été
+retenus ; qu’en outre, celui relatif à une mauvaise identification, par l’établissement A, de ses clients, et à la
+vérification de leur identité, ne concerne qu’un aspect de ces obligations, qui n’est pas le principal (grief 1) ;
+que le grief qui porte sur les carences du dispositif de détection des PPE a été relativisé (grief 5) et que le
+périmètre de celui qui porte sur l’organisation de l’établissement A au regard de son obligation d’examen
+renforcé a été réduit (grief 6) ; qu’enfin, la preuve de ce que l’organisation de la fonction LCB-FT de
+l’établissement A aurait pour conséquence nécessaire une incapacité à respecter l’obligation de déclarer sans
+délai les opérations suspectes n’a pas été apportée (grief 10) ;
+60. Considérant que les manquements retenus par la Commission justifient, compte tenu de leur nature et
+de leur gravité, le prononcé d’un blâme ; que pour les mêmes raisons et au vu des éléments mentionnés ci-
+dessus, il y a lieu, dans le respect du principe de proportionnalité au regard de l’assise financière de
+l’établissement A, de prononcer une sanction pécuniaire d’un million d’euros ;
+Autorité de contrôle prudentiel et de résolution 13
+
+===== Page 14 =====
+Décision de la Commission des sanctions – procédure no 2017-10
+61. Considérant que l’établissement A ne produit aucun élément permettant d’estimer que la publication
+nominative de la présente décision lui causerait un préjudice disproportionné ; que cette publication n’est pas
+non plus de nature à perturber gravement les marchés financiers ; qu’il y a donc lieu de publier la présente
+décision sous cette forme au registre de l’ACPR pendant une durée de 5 ans ; qu’elle y sera ensuite maintenue
+sous une forme ne mentionnant plus le nom de l’organisme sanctionné ;
+PAR CES MOTIFS
+DÉCIDE :
+ARTICLE 1ER – Il est prononcé à l’encontre de l’établissement A un blâme et une sanction pécuniaire
+d’un million d’euros.
+ARTICLE 2 – La présente décision sera publiée au registre de l’ACPR, pendant 5 ans sous une forme
+nominative, puis sous une forme anonyme, et pourra être consultée au secrétariat de la Commission.
+Le Président de la Commission
+des sanctions
+[Rémi BOUCHEZ]
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification et
+dans les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 14

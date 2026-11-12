@@ -1,0 +1,539 @@
+===== Page 1 =====
+Décision de la Commission des sanctions – procédure no 2020-07
+LA SOCIETE [A]
+Procédure no 2020-07
+–––––
+Blâme et sanction pécuniaire de
+3 millions d’euros
+–––––
+Audience du 19 octobre 2021
+Décision rendue le 5 novembre
+2021
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 5 octobre 2020 par laquelle le Président de l’Autorité de contrôle prudentiel et de
+résolution (ci-après l’« ACPR ») informe la Commission des sanctions (ci-après la « Commission ») de
+ce que le Collège de supervision de l’ACPR (ci-après le « Collège »), statuant en sous-collège
+« banque », a décidé d’ouvrir une procédure disciplinaire à l’encontre de la société [A], enregistrée en
+qualité d’établissement de crédit, sous le n° 2020-07 ;
+Vu la notification des griefs du 5 octobre 2020 et ses annexes ;
+Vu les mémoires en défense des 18 janvier, 7 mai, 29 juin et 30 juillet 2021, par lesquels la société
+[A] soutient (i) que la présente procédure devrait être déclarée nulle en raison du non-respect de la règle
+non bis in idem et de la présomption d’innocence, en ce qu’elle fait suite à la publication d’un
+communiqué du président de l’Observatoire de l’inclusion bancaire (ci-après « OIB »), organisme
+présidé par le Gouverneur de la Banque de France, qui a mis en cause ses pratiques en matière de
+tarification et (ii) que certains griefs reposent sur une extrapolation ; (iii) conteste la plupart des
+reproches qui lui sont adressés par la poursuite tout en présentant les actions qu’elle a mises en œuvre
+pour améliorer son dispositif de facturation de frais et de commissions d’intervention et le dispositif de
+contrôle interne s’y rapportant ;
+Vu les mémoires en réplique des 22 mars, 11 juin et 16 juillet 2021, par lesquels M. Jean-Luc
+Guillotin, représentant du Collège, soutient que la procédure est régulière et maintient tous les griefs ;
+Vu le rapport du 3 septembre 2021 de M. Laurent Jacques, rapporteur, qui conclut au rejet de
+l’argumentation relative à la procédure et estime que tous les griefs sont fondés, le grief 4 dans un
+périmètre réduit ;
+Vu les courriers du 3 septembre 2021 convoquant à l’audience les parties ainsi que la direction
+générale du Trésor et les informant de la composition de la Commission ;
+Vu le mémoire du 21 septembre 2021 par lequel la société [A], en réponse au rapport du rapporteur,
+demande à la Commission d’annuler la présente procédure ou, a minima, d’écarter les griefs formulés à
+son encontre et de publier sa décision sous une forme anonyme en raison des conséquences
+disproportionnées qu’une publication nominative aurait, selon elle, sur sa réputation ; elle demande
+également à la Commission de tenir compte de sa forte mobilisation pour corriger certaines carences et
+de l’évolution défavorable de ses résultats en 2020 ;
+Autorité de contrôle prudentiel et de résolution 1
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2020-07
+Vu les autres pièces du dossier, notamment le rapport de contrôle signé le 2 juin 2020 par le
+responsable de la mission de contrôle ;
+Vu le code monétaire et financier (ci-après le « CMF »), notamment ses articles L 131-73, L. 133-
+14, L 133-26, L.312-1-3, R 312-4-1, D. 131-25, D. 133-6 et D. 312-1-1 ;
+Vu l’arrêté du 29 juillet 2009 relatif aux relations entre les prestataires de services de paiement et
+leurs clients en matière d'obligations d'information des utilisateurs de services de paiement et précisant
+les principales stipulations devant figurer dans les conventions de compte de dépôt et les contrats-cadres
+de services de paiement, notamment son article 2 ;
+Vu l’arrêté du 3 novembre 2014 relatif au contrôle interne des entreprises du secteur de la banque,
+des services de paiement et des services d’investissement (ci-après l’« arrêté du 3 novembre 2014 »),
+notamment son article 11 ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACPR, composée de M. Alain Ménéménis, Président,
+Mmes Claudie Boiteau, Gaëlle Dumortier et Élisabeth Pauly et M. Philippe Laigre ;
+Après avoir entendu, lors de sa séance non publique du 19 octobre 2021 :
+- M. Laurent Jacques, rapporteur, assisté de Mme Laëtitia Havas, son adjointe ;
+- M. Émile Bouju, représentant du directeur général du Trésor ;
+- M. Guillotin, représentant du Collège, assisté de l’adjointe au directeur des affaires juridiques de
+l’ACPR, de deux cadres au sein de cette direction ainsi que d’un contrôleur des pratiques
+commerciales ; M. Guillotin a proposé à la Commission de prononcer un blâme et une sanction
+pécuniaire qui ne saurait être inférieure à 6 millions d’euros par une décision publiée sous une
+forme nominative pendant cinq ans ;
+- la société [A], représentée par son président du conseil d’administration et son directeur général,
+assistés d’un juriste du groupe [B], dont les avocats sont Mes Géraldine Roch et Perla Elbaz-Dray,
+(cabinet EY Société d’Avocats) ;
+Après avoir délibéré en la seule présence de M. Ménéménis, Président, Mmes Boiteau, Dumortier,
+Pauly et M. Laigre ainsi que de M. Jean-Manuel Clemmer, chef du service de la Commission des
+sanctions faisant fonction de secrétaire de séance ;
+1. Filiale à 99,9 % du groupe [B], la société [A] disposait, au moment du contrôle, de 15 agences.
+Elle exerce une activité de banque de proximité orientée vers une clientèle d’entreprises, de particuliers,
+de professionnels et d’institutionnels et comptait, fin 2018, environ 75 000 clients, dont 90 % étaient
+des particuliers et près de 3 000 étaient classés comme « fragiles » en juin 2019.
+En 2020, elle a réalisé un produit net bancaire de 41 millions d’euros, en retrait de 5 millions d’euros
+par rapport à l’exercice précédent.
+2. La société [A] a fait l’objet, du 4 juillet 2019 au 31 janvier 2020, d’un contrôle sur place, qui a
+donné lieu à la signature, le 2 juin 2020, d’un rapport de contrôle. Au vu de ce rapport, le Collège de
+l’ACPR, statuant en sous-collège « banque », a décidé, lors de sa séance du 11 septembre 2020, d’ouvrir
+la présente procédure disciplinaire, dont la Commission a été saisie le 6 octobre 2020.
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2020-07
+I. Sur la régularité de la procédure et sur la portée des
+griefs
+A. Sur la régularité de la procédure
+3. La société [A] soutient que la procédure disciplinaire engagée à son encontre doit être déclarée
+nulle en raison du non-respect de la règle non bis in idem et de la présomption d’innocence. Elle estime
+en effet que la publication d’un communiqué du Gouverneur de la Banque de France, en sa qualité de
+président de l’OIB, mettant en cause ses pratiques tarifaires a constitué une sanction, qui interdit que les
+mêmes faits soient à nouveau sanctionnés dans le cadre de la présente procédure et qu’elle a porté
+atteinte à la présomption d’innocence qui lui est garantie.
+4. L’OIB, organisme créé par la loi n° 2013-672 du 26 juillet 2013 de séparation et de régulation des
+activités bancaires et présidé par le Gouverneur de la Banque de France, comprend des représentants
+des pouvoirs publics, des établissements de crédit ainsi que des associations de consommateurs, des
+associations familiales et des associations de lutte contre la pauvreté et l’exclusion sociale.
+En vertu de l’article L. 312-1-1-B du CMF, il est « chargé de collecter des informations sur l'accès
+aux services bancaires des personnes physiques n'agissant pas pour des besoins professionnels, sur
+l'usage que ces personnes font de ces services bancaires et sur les initiatives des établissements de crédit
+en la matière. Cet observatoire est également chargé de définir, de produire et d'analyser des indicateurs
+relatifs à l'inclusion bancaire visant notamment à évaluer l'évolution des pratiques des établissements
+de crédit dans ce domaine (…) ». L’OIB, qui publie un rapport annuel, « peut également décrire et
+analyser les exemples de bonnes ou de mauvaises pratiques individuelles de certains établissements de
+crédit ».
+En […] 2020, à la suite d’« une réunion consacrée à l’examen des indicateurs annuels mesurant la
+situation des clients financièrement fragiles », l’OIB a publié un communiqué de son Président, dans
+lequel deux établissements filiales de groupes bancaires, dont la société [A], étaient désignés comme
+ayant, « au regard des engagements de plafonnement des frais d’incidents bancaires au profit des clients
+financièrement fragiles (…) », « des dispositifs encore en décalage par rapport aux engagements pris
+et aux pratiques de leurs groupes d’appartenance respectifs. Les insuffisances relevées concernent le
+caractère exhaustif des frais d’incidents bancaires bénéficiant du plafonnement (nécessité de plafonner
+l’intégralité des frais d’incidents bancaires, quelle que soit leur nature) et le dispositif de détection des
+clients en situation de fragilité financière (nécessité d’adopter des critères de détection plus précis et
+plus prospectifs). Certaines erreurs de tarification ont en outre été relevées. Ces deux établissements
+ont toutefois engagé certains plans de remédiation incluant, lorsque cela est nécessaire, un
+remboursement des frais perçus de manière non justifiée. L’ACPR en suivra la mise en œuvre ».
+1°) Sur le principe non bis in idem
+5. Selon la société [A], le communiqué cité ci-dessus est fondé sur le rapport de contrôle sur lequel
+repose également la présente procédure. Sa publication s’analyse, selon elle, comme une pratique dite
+de « name and shame » consistant à désigner publiquement une personne à laquelle sont imputés des
+comportements répréhensibles et constitue une véritable sanction. La société [A] voit dans la déclaration
+du ministre de l’économie et des finances du 21 février 2020, antérieure à cette publication, selon
+laquelle « il est désormais nécessaire de rendre public le nom des établissements qui ne [respectent] pas
+les engagements ; c'est une manière de sanctionner », une confirmation de ce caractère de sanction. Elle
+ajoute que la jurisprudence du Conseil d’État considère de telles publications comme des sanctions
+administratives. Elle en déduit que le principe non bis in idem fait obstacle à ce que les mêmes faits
+soient à nouveau sanctionnés.
+6. La société [A] se prévaut du principe non bis in idem, reconnu comme un principe général du droit,
+qui implique qu’un même manquement ne peut donner lieu qu’à une seule sanction administrative, sauf
+si la loi en dispose autrement (CE, 29 octobre 2009, Société Air France c/ ACNUSA, n°310604,
+n°310610).
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2020-07
+7. Toutefois, contrairement à ce que soutient la société [A], la publication du communiqué du
+président de l’OIB cité ci-dessus ne saurait être regardée comme une sanction. Elle participe de la
+mission d’information confiée à l’OIB par la loi, qui conduit notamment celui-ci à publier un rapport
+annuel comportant une « évaluation des pratiques des établissements de crédit » et, le cas échéant, une
+description et une analyse « de bonnes ou de mauvaises pratiques individuelles de certains
+établissements de crédit ». Si la publication de tels exemples individuels est susceptible de faire grief
+aux établissements qu’elle vise, elle ne saurait être regardée comme caractérisant la répression de
+manquements à des obligations auxquelles ces établissements sont soumis.
+Au surplus, alors que le communiqué de […] 2020 ne concerne que la protection de la clientèle
+fragile, les griefs notifiés à la société [A] dans le cadre de la présente procédure disciplinaire se
+rapportent, de façon générale, aux pratiques de l’établissement en matière de frais bancaires, de
+commissions d’intervention et de dates de valeur ainsi qu’à son dispositif de contrôle interne.
+La société [A] n’est donc pas fondée à soutenir que la présente procédure disciplinaire serait
+irrégulière en ce qu’elle méconnaîtrait le principe non bis in idem.
+2°) Sur la présomption d’innocence
+8. La société [A] estime que la publication du communiqué cité ci-dessus, par lequel le Gouverneur
+de la Banque de France, président de l’OIB et, par ailleurs, président de l’ACPR, a mis en cause ses
+pratiques en termes, selon elle, partiaux porte atteinte à la présomption d’innocence.
+9. Toutefois, si le Gouverneur de la Banque de France préside le Collège de supervision, qui est, en
+matière disciplinaire, l’autorité de poursuite au sein de l’ACPR, la Commission, dont la loi garantit
+l’indépendance organique et fonctionnelle par rapport au Collège, est seule compétente pour instruire
+et, le cas échéant, sanctionner les griefs reprochés à un organisme poursuivi. Les déclarations du
+Gouverneur ne sauraient, en tout état de cause, être regardées ni comme une prise position d’une
+personne participant à la fonction de jugement, ni comme étant de nature à influer sur les conditions
+dans lesquelles cette fonction est assurée par la Commission.
+Au surplus, ainsi qu’il a été dit, les « insuffisances » relevées par le président de l’OIB, avant
+l’engagement de la présente procédure, ne peuvent être identifiées aux manquements reprochés à la
+société [A] dans le cadre de cette procédure.
+La société [A] n’est donc pas non plus fondée à soutenir que la présente procédure disciplinaire serait
+irrégulière en ce qu’elle méconnaîtrait la présomption d’innocence.
+B. Sur la portée des griefs
+10. La société [A] soutient que plusieurs griefs reposent sur des constats du rapport de la mission de
+contrôle qui a procédé par extrapolation. Ainsi, le constat n° 11 du rapport, sur lequel s’appuie le grief
+1, qui porte sur le non-respect par la société [A] des plafonds applicables en matière de frais de rejet et
+de commissions d’intervention, faisait état de ce que : « (…) Selon les estimations de la mission de
+contrôle, le préjudice subi par les clients, en lien avec les manquements relevés aux paragraphes
+précédents (5.3.1 et 5.3.2), en ne considérant que les frais prélevés indûment et sans tenir compte de
+potentielles conséquences, pourrait donc s’élever à 3,049 millions d’euros depuis novembre 2009, date
+d’entrée en application des plafonds réglementaires ». De même, le constat n° 12 de ce rapport, sur
+lequel s’appuie le grief 3, indique : « En extrapolant à l’ensemble du portefeuille, l’impact serait
+supérieur à 2,6 millions d’euros depuis 2011 (…) ». En outre, le constat n° 18, sur lequel repose le grief
+5, précise : « on peut donc estimer à environ 45 000 lettres (soit environ 610 000 euros de frais associés)
+le nombre de lettres envoyées depuis le 1er janvier 2016 (…) ». Or, la société [A] soutient que le
+périmètre de griefs ne peut être déterminé sur le fondement de données extrapolées.
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2020-07
+11. Toutefois, la poursuite a indiqué qu’elle n’avait pas repris dans la présente procédure les
+estimations de préjudice qui figurent dans le rapport du contrôle et qu’elle n’a ainsi fondé aucun grief
+sur des données extrapolées.
+Les manquements reprochés seront examinés par la Commission dans le périmètre ainsi défini par la
+notification des griefs.
+II. Sur les griefs
+A. Sur le non-respect des plafonds réglementaires de frais bancaires
+1°) Sur les frais bancaires prélevés à l’occasion du rejet d’un chèque
+12. En vertu de l’article D. 131-25 du CMF, « les frais bancaires perçus par le tiré à l'occasion du
+rejet d'un chèque, pour défaut ou insuffisance de provision, comprennent l'ensemble des sommes
+facturées par le tiré au titulaire du compte, quelles que soient la dénomination et la justification de ces
+sommes. / En particulier, les frais engendrés par l'obligation mise à la charge du tiré, au titre de l'article
+L. 131-73, d'informer le titulaire du compte du défaut de provision, sont inclus dans les frais mentionnés
+au premier alinéa dès lors qu'un incident de paiement est constitué. La facturation de l'envoi d'une lettre
+d'injonction ou d'une commission d'incident ou de rejet de chèque est également comprise dans ces
+mêmes frais. / Les frais bancaires perçus par le tiré à l'occasion du rejet d'un chèque ne peuvent excéder
+un montant de 30 euros pour les chèques d'un montant inférieur ou égal à 50 euros et un montant de 50
+euros pour les chèques d'un montant supérieur à 50 euros. / Constitue un incident de paiement unique
+le rejet d'un chèque présenté au paiement à plusieurs reprises dans les 30 jours suivant le premier rejet
+».
+13. Selon la première branche du grief 1, fondée sur ces dispositions, la société [A] facturait, à
+l’occasion du rejet d’un chèque, un forfait de frais bancaires de 30 euros pour les chèques d’un montant
+inférieur ou égal à 50 euros et de 50 euros pour les chèques d’un montant supérieur à 50 euros, mais
+aussi des commissions d’intervention, ce qui entraînait un dépassement des plafonds de frais prévus par
+l’article D 131-25 du CMF. Ainsi, en 2019, dans 15 dossiers de l’échantillon n° 1 examiné par la mission
+de contrôle, un tel manquement a été identifié 48 fois.
+Par ailleurs, selon la seconde branche du grief 1, dans deux dossiers de cet échantillon, la société
+[A]a perçu, pour un chèque déjà rejeté, présenté à nouveau moins de 30 jours après ce premier rejet et à
+nouveau rejeté, une nouvelle commission à l’occasion du second rejet.
+14. Sur la première branche du grief, l’article L. 131-73 du CMF prévoit que, lorsqu’un établissement
+refuse le paiement d’un chèque en raison d’un défaut de provision, « les frais perçus par le tiré ne
+peuvent excéder un montant fixé par décret ». Ce plafond est fixé par les dispositions précitées de
+l’article D. 131-25 du CMF. Celles-ci précisent que les frais ainsi plafonnés « comprennent l'ensemble
+des sommes facturées par le tiré au titulaire du compte, quelles que soient la dénomination et la
+justification de ces sommes ».
+Il résulte de ces dispositions, qui, contrairement à ce que soutient la société [A], sont dépourvues
+d’ambiguïté, que, dans l’hypothèse du rejet d’un chèque qu’elles visent, aucune somme excédant le
+plafond qu’elles fixent ne peut être demandée au client. Il en va ainsi pour les commissions
+d’intervention susceptibles d’être perçues à cette occasion en rémunération d’un service d’analyse
+réalisé par l’établissement.
+La circonstance que de telles commissions d’intervention aient pour objet de rémunérer un service
+rendu par l’établissement, ainsi qu’il résulte du 12° du A du I de l’article D. 312-1-1 du CMF, est sans
+incidence.
+Est de même sans incidence le fait que ces commissions fassent l’objet, en application des articles
+L. 312-1-3 et R. 312-4-1 du CMF, d’un régime de plafonnement spécifique : en l’absence de toute
+disposition contraire et dès lors que rien n’y fait obstacle, il incombe aux établissements de crédit de
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2020-07
+respecter à la fois les règles de plafonnement des frais prévues par les dispositions de l’article D. 131-
+25 du CMF et les règles de plafonnement des commissions d’intervention.
+Ainsi, dès lors que la prestation qu’elles rémunèrent intervient à l’occasion du rejet d’un chèque, les
+commissions d’intervention ne sauraient être facturées au client que pour autant que le total des sommes
+facturées ne dépasse pas le plafond prévu par l’article D. 131-25 du CMF.
+La société [A] ne saurait à cet égard invoquer utilement les décisions de la Cour de cassation dont
+elle se prévaut, selon lesquelles les commissions d’intervention ne doivent pas être intégrées dans le
+calcul du taux effectif global d’un crédit (Cass. civ, 1ère, 3 novembre 2016, n°15-22.093 ; 17 juin 2015,
+n°14-13.767) : il ne peut en effet en être déduit aucune conséquence sur la possibilité d’exclure les
+commissions d’intervention des plafonds de frais à l’occasion du rejet d’un chèque.
+La société [A] ne pouvait donc, sans manquer à une obligation qui s’imposait clairement à elle,
+facturer, comme elle ne conteste pas l’avoir fait, des commissions d’intervention à l’occasion du rejet
+de chèques dans des conditions qui conduisaient à mettre à la charge du client des frais bancaires, au
+sens des articles L. 131-73 et D. 131-25 du CMF, excédant le plafond fixé par ce dernier article.
+La première branche du grief est fondée.
+15. Sur la seconde branche du grief, la société [A]ne conteste pas avoir procédé comme l’indique la
+poursuite, mais estime qu’elle était en droit de le faire, dans la limite du plafond mensuel de 80 euros
+prévu par l’article R. 312-4-1 du CMF.
+16. Il résulte cependant des termes mêmes de la dernière phrase de l’article D. 131-25 du CMF que,
+lorsque des chèques sont présentés plusieurs fois dans un délai de 30 jours après un premier rejet, des
+frais bancaires, au sens des articles L. 131-73 et D. 131-25 du CMF, plafonnés ainsi qu’il a été dit, ne
+peuvent être mis à la charge du titulaire du compte qu’une fois. La société [A] ne pouvait donc percevoir,
+en plus d’une somme égale au plafond de frais, plusieurs commissions d’intervention. La seconde
+branche du grief, limitée à deux dossiers, est fondée.
+17. Le grief 1 est donc entièrement fondé, sans qu’aient d’incidence la prise en compte par les outils
+informatiques de l’établissement, depuis novembre 2019, des commissions d’intervention dans les frais
+de rejet de chèques, ni les remboursements auxquels la société [A] a procédé.
+2°) Sur les frais bancaires prélevés à l’occasion du rejet d’un prélèvement
+18. En vertu de l’article D. 133-6 du CMF, « pour les incidents de paiement autres que le rejet d’un
+chèque, les frais perçus par le prestataire de services de paiement du payeur au titre d’un incident ne
+peuvent excéder le montant de l’ordre de paiement rejeté, dans la limite d’un plafond de 20 €. Les frais
+perçus par le prestataire de services de paiement du payeur à l’occasion d’un incident de paiement
+comprennent l’ensemble des sommes facturées par le prestataire de services de paiement du payeur au
+titulaire du compte, quelles que soient la dénomination et la justification de ces sommes ».
+19. Selon le grief 2, fondé sur ces dispositions, la société [A] facturait, à l’occasion du rejet d’un
+prélèvement, outre un forfait de frais bancaire de 20 euros, une commission d’intervention, ce qui
+entraînait un dépassement des plafonds de frais. En 2019, dans 72 dossiers de l’échantillon n° 1, un tel
+manquement a été constaté 691 fois.
+Par ailleurs, lorsqu’un prélèvement émis par un établissement financier était rejeté, la société [A]
+facturait en outre des frais d’un montant de 1,7 euro, ce qui entraînait un dépassement des plafonds de
+frais prévus par les dispositions ci-dessus mentionnées.
+20. Le plafond des frais consécutifs aux incidents de paiement autres que le rejet d’un chèque est
+fixé, en application du II de l’article L. 133-26 du CMF, par les dispositions précitées de son article
+D. 133-6, en des termes analogues à ceux de l’article D. 131-25 du code pour le rejet d’un chèque. En
+particulier, l’article D. 133-6 précise que les frais à prendre en compte comprennent l’ensemble des
+sommes facturées, quelles qu’en soient la dénomination et la justification.
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2020-07
+Pour les mêmes motifs que ceux qui ont été exposés au point 14 ci-dessus, dès lors que la prestation
+qu’elles rémunèrent intervient à l’occasion du rejet d’un prélèvement, les commissions d’intervention
+ne sauraient être facturées au client que pour autant que le total des sommes facturées ne dépasse pas le
+plafond prévu par l’article D. 133-6 du CMF.
+La première branche du grief est donc fondée, sans qu’aient d’incidence les mesures correctives
+mises en œuvre.
+21. Par ailleurs, la société [A] ne conteste pas la seconde branche du grief, qui est fondée, sans
+qu’aient d’incidence les reversements intervenus.
+22. Le grief 2 est donc entièrement fondé.
+B. Sur la facturation de frais sur des opérations n’entraînant pas
+d’irrégularité de fonctionnement de compte
+23. Aux termes de l’article 2 de l’arrêté du 29 juillet 2009 relatif aux relations entre les prestataires
+de services de paiement et leurs clients en matière d’obligations d’information des utilisateurs de
+services de paiement et précisant les principales stipulations devant figurer dans les conventions de
+compte de dépôt et les contrats-cadres de services de paiement : « Le contrat mentionné aux articles
+L. 312-1-1 ou L. 314-12 du code monétaire et financier [convention de compte de dépôt et contrat-cadre
+de services de paiement] comporte les informations suivantes (…) : 3. (…) a) Tous les frais payables
+par l’utilisateur de services de paiement au prestataire de services de paiement et, le cas échéant, le
+détail de ces frais ».
+24. Selon le grief 3, fondé sur ces dispositions, la société [A] facturait des frais à raison d’opérations
+qui n’entrainaient pas d’irrégularité de fonctionnement du compte. En effet, lorsque le solde du compte,
+arrêté en fin de journée, présentait un défaut de provision, la société [A] appliquait automatiquement
+des commissions d’intervention à l’ensemble des opérations débitrices de la journée, faute de disposer
+d’un système d’horodatage ou d’une méthode d’ordonnancement des opérations lui permettant
+d’identifier précisément la ou les opérations ayant entraîné une irrégularité de fonctionnement du
+compte. Or, de tels frais, qui ne peuvent être regardés comme des commissions d’intervention, n’étaient
+pas mentionnés dans la brochure tarifaire de la société [A], en méconnaissance de l’arrêté précité.
+25. Après avoir rappelé les dispositions du 12° du A du I de l’article D. 312-1-1 du CMF selon
+lesquelles les commissions d’intervention sont des sommes perçues pour une intervention en raison
+d’une opération entraînant une irrégularité de fonctionnement du compte nécessitant un traitement
+particulier, la poursuite, qui a relevé que les frais ici en cause n’entraient pas dans les prévisions de ces
+dispositions, a fondé le présent grief sur les dispositions précitées de l’article 2 de l’arrêté du 29 juillet
+2009 sur l’information des clients concernant les frais qui leur sont facturés. Soulignant que le rapport
+de contrôle qualifiait les faits au visa du seul article D. 312-1-1 du CMF, la société [A] estime que le
+grief doit être écarté en raison de cette différence d’analyse.
+Or, ainsi que la Commission l’a rappelé à plusieurs reprises (voir notamment sur ce point la décision
+n° 2014-07 du 24 juillet 2015), il appartient au seul Collège, lorsqu’il décide d’ouvrir une procédure
+disciplinaire, de qualifier les faits dont il saisit la Commission des sanctions, sans qu’il soit tenu par les
+propositions de qualification des faits qui figurent dans le rapport de contrôle.
+26. La société [A] ne conteste pas qu’elle facturait des « commissions d’intervention » pour toutes
+les opérations d’une journée, dès lors qu’en fin de journée, le solde du compte faisait apparaître un
+découvert non autorisé, y compris pour les opérations qui, au cours de la journée, n’étaient par elles-
+mêmes à l’origine d’aucune irrégularité du compte. Or, il résulte des dispositions citées ci-dessus du 12
+du A du I de l’article D. 312-1-1 du CMF que ne sont des commissions d’intervention que les
+commissions qui rémunèrent le traitement particulier d’une irrégularité de fonctionnement d’un compte
+qui trouve son origine dans une opération déterminée. Les commissions ici en cause ne pouvant être
+regardées comme de telles commissions, il incombait à la société [A], en application des dispositions
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2020-07
+précitées de l’arrêté du 29 juillet 2009, de fournir à leur sujet, à supposer qu’elles aient pu être légalement
+facturées, une information spécifique à ses clients, sans qu’ait à cet égard d’incidence la circonstance,
+relevée par la société [A], qu’aucune disposition ne lui imposait de retenir une méthode d’analyse des
+opérations réalisées par ses clients plutôt qu’une autre. Sa carence sur ce point est établie et illustrée par
+les exemples fournis par la poursuite. Le grief 3 est donc fondé, sans que les mesures de remédiation
+évoquées par la société [A], qui, en tout état de cause, ne portent pas sur l’information donnée aux
+clients, puissent conduire à le remettre en cause.
+C- Sur le non-respect des règles relatives aux dates de valeur
+27. En vertu de l’article L. 133-14 du CMF, « la date de valeur d’une somme portée au crédit du
+compte du bénéficiaire ne peut être postérieure à celle du jour ouvrable au cours duquel le montant de
+l’opération de paiement est crédité sur le compte du prestataire de services de paiement du bénéficiaire.
+/ (…) La date de valeur du débit inscrit au compte de paiement du payeur ne peut être antérieure au
+jour où le montant de l’opération de paiement est débité de ce compte ».
+28. Selon le grief 4, fondé sur ces dispositions, la date de valeur d’opérations de crédit était le jour
+ouvrable suivant la date de comptabilisation au crédit du compte, ce qui était susceptible de faire
+supporter des intérêts débiteurs indus. Le manquement est constaté dans 34 dossiers de l’échantillon
+n° 1, pour un total de 87 opérations d’inscription au crédit d’un compte.
+Par ailleurs, pour plusieurs opérations - paiements par carte bancaire à débit immédiat, retraits à un
+distributeur automatique de billets ou frais de lettre d’information préalable pour chèque sans provision -
+la société [A] retenait des dates de valeur antérieures au jour où le montant de l’opération était débité
+sur le compte, aggravant ainsi indûment les intérêts débiteurs perçus.
+29. Sur la première branche du grief, la société [A] avait reconnu, en réponse au rapport de contrôle,
+les carences dans la fixation des dates de valeur des opérations portées au crédit des clients qui lui étaient
+reprochées au titre du constat n° 9 du rapport, qu’elle attribuait à un décalage horaire entre le site de […]
+et son back-office situé à […] ; elle indiquait que la « correction de la date de valeur des virements
+entrant [était] à l’étude » et qu’elle procédait au remboursement de plus de 80 000 euros.
+Elle conteste désormais cette branche du grief, en produisant, pour les 34 dossiers auxquels la
+poursuite a réduit le grief, un tableau montrant une concordance entre la date de comptabilisation des
+sommes sur le compte de la société [A] et la date de valeur sur le compte du bénéficiaire. Dès lors que
+la poursuite, qui « prend acte de la production de ces extractions », ne conteste pas ces nouveaux
+éléments, la première branche du grief doit être écartée.
+30. Sur la seconde branche du grief, relative aux opérations de débit, la société [A] soutient que la
+poursuite n’a pas quantifié l’ampleur du manquement ni identifié les dossiers pour lesquels une violation
+de l’article L. 133-14 du CMF lui est reproché, ce qui porte, selon elle, atteinte aux droits de la défense.
+Toutefois, le reproche formulé par la poursuite porte sur une carence générale, illustrée par quelques
+exemples d’opérations enregistrées au débit du compte de certains clients. Il est exprimé en des termes
+lui permettant de présenter utilement ses observations en défense.
+31.Or la société [A] n’apporte aucun élément de nature à remettre en cause la carence analysée par
+la poursuite. La seconde branche du grief 4 est donc fondée, sans que les actions correctives mises en
+œuvre depuis la fin du contrôle sur place permettent de la remettre en cause.
+D- Sur le non-respect des règles d’information préalable sur le prélèvement de frais
+32. Aux termes de l’article L. 312-1-5 du CMF, issu de la loi déjà mentionnée du 26 juillet 2013 et
+applicable à compter du 1er janvier 2016 : « Le client, personne physique n’agissant pas pour des besoins
+professionnels, est informé gratuitement, par le biais de son relevé de compte mensuel, du montant et
+de la dénomination des frais bancaires liés à des irrégularités et incidents que l’établissement entend
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2020-07
+débiter sur son compte de dépôt. Ce débit a lieu au minimum quatorze jours après la date d’arrêté du
+relevé de compte ».
+33. Selon le grief 5, fondé sur ces dispositions, la société [A] ne s’est conformée à l’obligation
+d’informer ses clients au moins quatorze jours avant le prélèvement de certains frais d’incident définie
+par ces dispositions qu’à partir de fin mai 2018.
+En outre, même depuis cette date, les informations fournies comportaient des irrégularités : les lettres
+d’information envoyées préalablement à un rejet de chèque en application de l’article L. 131-73 du CMF
+et facturées 13,60 euros si le chèque n’était finalement pas rejeté, n’étaient pas mentionnées dans les
+lettres d’information sur les frais bancaires (94 lettres facturées à ce tarif, dans 22 dossiers) ; les frais
+perçus par la société [A] pour déclaration à l’Institut d’émission des départements d’outre-mer (ci-après
+« IEDOM ») d’une décision de retrait de carte bancaire ne faisaient pas l’objet d’une information
+préalable (2 dossiers de l’échantillon et 37 dossiers reconnus par l’établissement) ; ponctuellement, des
+frais d’incident étaient prélevés de manière immédiate et sans information préalable (6 dossiers de
+l’échantillon).
+34. La société [A] a reconnu son retard dans la mise en œuvre du dispositif d’information prévu par
+l’article L. 312-1-5 du CMF. Si l’établissement attribue ce retard à une restructuration en cours au sein
+des filiales ultramarines du groupe, une telle circonstance est sans incidence sur la première branche du
+grief, qui est fondée.
+35. Par ailleurs, comme la société [A] l’admet, même depuis fin mai 2018, les frais facturés au titre
+de l’envoi de lettres d’information préalablement au rejet de chèques et les frais pour déclaration à
+l’IEDOM ne figuraient pas dans les informations communiquées au client. De même, les six
+prélèvements de frais d’incident sans information du client, dont la société [A] souligne seulement le
+caractère ponctuel, ne sont pas contestés.
+36. Le grief 5 est donc fondé, sans que les actions mises en œuvre depuis le contrôle pour remédier
+aux carences constatées conduisent à le remettre en cause.
+E- Sur le dispositif de contrôle permanent
+37. En vertu de l’article 11 de l’arrêté du 3 novembre 2014, « le système de contrôle des opérations
+et des procédures internes a notamment pour objet, dans des conditions optimales de sécurité, de
+fiabilité et d’exhaustivité, de : a) Vérifier que les opérations réalisées par l’entreprise, ainsi que
+l’organisation et les procédures internes, sont conformes aux dispositions propres aux activités
+bancaires et financières (…) ».
+38. Selon le grief 6, fondé sur ces dispositions, le dispositif de contrôle permanent de la société [A]
+ne comportait aucun point de contrôle de la conformité des frais réellement facturés, notamment pour
+les commissions d’intervention et les frais de rejet. Ainsi, les irrégularités de tarification identifiées par
+la mission de contrôle n’ont, dans leur majorité, pas été détectées en amont par le dispositif de contrôle
+permanent.
+39. Contrairement à ce que soutient la société [A], le reproche d’une absence, pour l’ensemble de sa
+clientèle, de points de contrôle de la conformité des frais facturés au client est formulé en des termes qui
+lui permettaient de présenter utilement ses observations en défense, ce qu’elle a d’ailleurs fait. La
+poursuite, qui a indiqué que cette carence n’avait pas permis de détecter « la majorité » des défauts de
+tarification, n’était pas tenue d’être plus précise sur ce point, dès lors que le grief porte sur l’absence de
+tout point de contrôle et que l’absence de détection des irrégularités de tarification n’est évoquée que
+comme une conséquence nécessaire du manquement reproché.
+40. Si la société [A] indique qu’il existait, au moment du contrôle sur place, un contrôle des frais
+facturés à la clientèle fragile, le reproche, plus général, porte sur l’absence d’un tel dispositif pour
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2020-07
+l’ensemble de sa clientèle. Or, interrogé par la mission de contrôle sur l’existence « d’autres contrôles
+(…) sur la facturation des frais en général et pas exclusivement sur la population fragile »,
+l’établissement avait répondu : « nous n’avons pas d’autre contrôle sur la tarification ».
+Revenant sur cette déclaration, il soutient en définitive que de tels contrôles existaient. Cependant,
+les pièces produites sur ce point sont trop générales, ou portent sur la seule clientèle fragile, ou, enfin,
+ne peuvent, en raison de leur nature ou de leur date récente, suffire à établir l’existence effective d’un
+contrôle de la conformité des frais prélevés à la réglementation applicable pendant la période contrôlée.
+Il en va ainsi du cahier des charges relatif à la mise en œuvre du plafonnement des commissions
+d’intervention, des procès-verbaux de mise en production de dispositifs relatifs au plafonnement des
+commissions d’intervention, ou encore du tableau de suivi manuel d’incidents opérationnels.
+En outre, si la société [A] soutient qu’elle avait « configuré ses systèmes informatiques de sorte que
+ceux-ci bloquent le prélèvement de frais ou de commissions d’intervention quand le plafond
+réglementaire était atteint », il n’apparaît pas, en tout état de cause, que ces systèmes étaient en mesure
+de bloquer systématiquement les prélèvements de frais irréguliers.
+Par ailleurs, on ne saurait déduire de l’absence, constatée a posteriori, de dépassement des plafonds
+réglementaires sur un échantillon de comptes, qu’il existait un dispositif de contrôle interne a priori.
+Il est en revanche constant que la facturation de frais à la clientèle fragile était contrôlée de façon
+appropriée.
+Le grief est donc fondé, dans un périmètre réduit, qui exclut la clientèle fragile.
+*
+* *
+41. Il résulte de ce qui précède qu’au moment du contrôle sur place, la société [A] ne respectait pas
+les dispositions applicables en matière de plafonnement des frais de rejet de chèques (grief 1) et de
+prélèvements (grief 2). Elle ne respectait pas non plus les règles relatives aux dates de valeur pour les
+opérations enregistrées au débit de comptes de ses clients (grief 4).
+En outre, la société [A] ne respectait pas son obligation d’informer ses clients de tous les frais
+payables par eux (grief 3) ni son obligation d’information préalable sur les prélèvements liés à des
+irrégularités et incidents (grief 5).
+Enfin, son dispositif de contrôle permanent, concentré sur la clientèle fragile, était insuffisant pour
+garantir, pour l’ensemble de la clientèle, la conformité des frais facturés à la réglementation (grief 6).
+42. Les manquements relatifs au plafonnement des frais bancaires, directement préjudiciables pour
+les clients de la société [A], sont d’une particulière gravité.
+Le législateur a entendu accroître peu à peu la protection des consommateurs de services bancaires,
+notamment en plafonnant le montant des sommes susceptibles d’être mises à leur charge en cas
+d’incident et les frais de toute nature qui peuvent être facturés par les établissements de crédit. Les
+dispositions du CMF qui, pendant de nombreuses années, ont été méconnues par la société [A] au
+préjudice de ses clients étaient, ainsi qu’il a été dit, sans ambiguïté. Au demeurant, la société [A] pouvait
+d’autant moins se méprendre sur la portée de l’obligation qu’elles lui imposaient qu’elle appartient à un
+groupe important et que la société mère de ce groupe, comme d’ailleurs, selon la poursuite, la généralité
+des établissements de crédit, s’y conformait. À cet égard, si la société [A] a fait valoir, au cours de
+l’audience, que le marché présente, à […], des spécificités, celles-ci n’autorisaient aucune interprétation
+spécifique de la loi et ne permettaient pas à l’établissement de priver ses clients de la protection dont sa
+société mère savait devoir faire bénéficier les siens.
+43. Le non-respect des règles relatives aux dates de valeur pour les opérations de débit, lui aussi
+directement préjudiciable aux clients de la société [A], constitue également un manquement important.
+44. Les manquements en matière d’information des clients et les carences du dispositif de contrôle
+permanent qui ont été retenus ne peuvent être regardés comme ayant, par eux-mêmes, causé un préjudice
+financier direct aux clients de la société [A].
+Autorité de contrôle prudentiel et de résolution 10
+
+===== Page 11 =====
+Décision de la Commission des sanctions – procédure no 2020-07
+Tel est notamment le cas pour le manquement qui a donné lieu au grief 3, dès lors que, après avoir
+pourtant relevé que la société [A] ne pouvait exiger le paiement de frais à raison d’opérations n’ayant
+entraîné aucune irrégularité de fonctionnement du compte, la poursuite a cru devoir reprocher à
+l’établissement, non la facturation de frais indus, mais un défaut d’information.
+Il reste que les obligations en matière d’information qui ont été, pendant de nombreuses années,
+méconnues par la société [A] constituent, pour les clients des établissements de crédit, des garanties
+importantes. Les manquements commis en ce domaine sont en outre d’autant plus graves que les règles
+relatives au plafonnement des frais n’étaient, par ailleurs, pas respectées.
+Enfin, les carences du dispositif de contrôle permanent révèlent un défaut d’attention au respect des
+droits des clients, qui a, lui aussi, persisté pendant de nombreuses années.
+45. Il convient à l’inverse de tenir compte, dans une certaine mesure, des actions correctives mises
+en œuvre, parfois pendant la mission de contrôle, mais dans d’autres cas tardivement, et des
+remboursements auxquels l’établissement a, tardivement, procédé. La portée exacte et l’effectivité des
+unes et des autres demandent cependant à être confirmées.
+46. Il y a lieu, enfin, de prendre en compte le fait que, si le résultat net de la société [A] s’est élevé,
+au 31 décembre 2020, du fait d’un ralentissement de son activité au cours de l’année 2020, à 2,4 millions
+d’euros, elle dispose de près de 50 millions d’euros de fonds propres. En outre, appartenant au groupe
+[B] en qualité de filiale à 99,9%, elle est exemptée de toute exigence prudentielle appréciée à son seul
+niveau et est incluse dans la surveillance, sur une base consolidée, de la société mère du groupe.
+47. Compte tenu des éléments d’appréciation de l’importance des préjudices subis par les clients de
+la société [A] qui ont été versés au débat contradictoire et de l’ensemble des éléments relevés aux points
+42 à 46 ci-dessus et eu égard à ce qui a été dit au deuxième paragraphe du point 44 ci-dessus, il y a lieu
+de prononcer à l’encontre de la société [A], outre un blâme, une sanction pécuniaire de 3 millions
+d’euros.
+Il y a en outre lieu de publier la présente décision au registre de l’ACPR sous forme nominative
+pendant une durée de cinq ans et de prévoir qu’elle y sera ensuite maintenue sous une forme ne
+permettant pas d’identifier l’établissement. En effet, ainsi qu’il a été dit au point 7 ci-dessus, la société
+[A] ne saurait soutenir qu’une telle sanction complémentaire interviendrait après une première sanction
+identique. En outre, elle ne peut être regardée comme faisant état d’éléments de nature à établir qu’une
+publication sous forme nominative lui causerait un préjudice disproportionné et qu’elle méconnaîtrait,
+en l’espèce, l’équilibre entre l’exigence d’intérêt général à laquelle elle répond et ses intérêts.
+*
+* *
+Autorité de contrôle prudentiel et de résolution 11
+
+===== Page 12 =====
+Décision de la Commission des sanctions – procédure no 2020-07
+PAR CES MOTIFS
+DÉCIDE :
+ARTICLE 1ER – Il est prononcé à l’encontre de la société [A] un blâme et une sanction pécuniaire
+de trois millions d’euros.
+ARTICLE 2 – La présente décision sera publiée au registre de l’ACPR pendant cinq ans sous une
+forme nominative, puis sous une forme ne permettant pas d’identifier la société [A], et pourra être
+consultée au secrétariat de la Commission.
+Le Président de la Commission
+des sanctions
+[Alain Ménéménis]
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification
+et dans les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 12

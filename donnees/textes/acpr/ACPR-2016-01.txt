@@ -1,0 +1,660 @@
+===== Page 1 =====
+SAXO BANQUE FRANCE
+Procédure no 2016-01
+–––––
+Blâme et sanction pécuniaire de
+900 000 euros
+–––––
+Audience du 14 décembre 2016
+Décision rendue le 28 décembre 2016
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 3 février 2016 par laquelle le Président de l’Autorité de contrôle prudentiel et de résolution
+(ci-après l’ACPR) informe la Commission de ce que le Collège de supervision de l’ACPR (ci-après le
+Collège), statuant en sous-collège sectoriel de la banque, a décidé d’ouvrir une procédure disciplinaire à
+l’encontre de Saxo Banque France (ci-après SBF) – 10, rue de la Paix, 75002 Paris –, enregistrée sous le
+numéro 2016-01 ;
+Vu la notification des griefs du 3 février 2016 ;
+Vu les mémoires en défense des 20 mai, 16 septembre et 26 octobre 2016, ainsi que les pièces qui les
+accompagnent, par lesquels SBF soutient (i) que les griefs notifiés sont dans l’ensemble mal fondés en fait et
+en droit, (ii) qu’un des griefs est dépourvu de base légale en raison de son imprécision, (iii) que la
+Commission doit tenir compte de sa bonne foi et de sa volonté de mettre en œuvre des procédures strictes en
+termes de lutte contre le blanchiment et le financement du terrorisme (LCB-FT), et demande (iv) que la
+publication de la décision à intervenir ne soit pas nominative et (v) que la séance de la Commission se tienne
+à huis clos ;
+Vu les mémoires des 18 juillet et 6 octobre 2016, par lesquels Mme Martine Lefebvre, représentante du
+Collège, maintient l’ensemble des griefs notifiés ;
+Vu le rapport du 10 novembre 2016 de M. Francis Crédot, rapporteur, dans lequel celui-ci conclut que 6
+des 7 griefs notifiés sont établis ;
+Vu les courriers du 10 novembre 2016 convoquant les parties à l’audience, les informant de la
+composition de la Commission et de ce qu’il sera fait droit à la demande présentée par SBF tendant à ce que
+cette audience ne soit pas publique ;
+Vu les observations présentées le 28 novembre 2016 par SBF sur le rapport du rapporteur ;
+Vu les autres pièces du dossier, notamment le rapport de contrôle du 9 avril 2015 ;
+Vu l’article 6 de la Convention européenne de sauvegarde des droits de l’homme et des libertés
+fondamentales (CESDHLF) ;
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2016-01
+Vu le code monétaire et financier (CMF), notamment ses articles L. 561-6, L. 561-10, L. 561-10-2,
+L. 561-15, L. 561-16, L. 612-39, R. 561-6, R. 561-20, R. 561-38 et R. 612-35 à R. 612-51, dans leur
+rédaction en vigueur au moment des faits ;
+Vu l’ordonnance no 2009-104 du 30 janvier 2009 relative à la prévention de l’utilisation du système
+financier aux fins de blanchiment de capitaux et de financement du terrorisme (ci-après l’ordonnance
+no 2009-104), notamment son article 19 ;
+Vu le règlement n° 97-02 relatif au contrôle interne des établissements de crédit et des entreprises
+d'investissement (ci-après le règlement n° 97-02), notamment son article 11-7, dont les dispositions sont
+reprises à l'article 46 de l'arrêté du 3 novembre 2014 relatif au contrôle interne des entreprises du secteur de
+la banque, des services de paiement et des services d'investissement soumises au contrôle de l'Autorité de
+contrôle prudentiel et de résolution (ci-après l’arrêté du 3 novembre 2014) ;
+Vu l’arrêté du 2 septembre 2009 pris en application de l'article R. 561-12 du CMF définissant des
+éléments d'information liés à la connaissance du client et de la relation d'affaires aux fins d'évaluation des
+risques de blanchiment de capitaux et de financement du terrorisme (ci-après l’arrêté du 2 septembre 2009) ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACPR, composée de M. Rémi Bouchez, Président, de Mmes Claudie
+Aldigé et Claudie Boiteau et de M. Denis Prieur ;
+Après avoir entendu, lors de sa séance non publique du 14 décembre 2016 :
+− M. Crédot, rapporteur, assisté de Mme Marie Mallard Saih, son adjointe ;
+− M. Rodolphe Lelté, représentant de la directrice générale du Trésor, qui a indiqué ne pas avoir
+d’observations à formuler ;
+− Mme Lefebvre, représentante du Collège de l’ACPR, assistée de l’adjointe au directeur des affaires
+juridiques de l’ACPR, de l’adjointe au chef du service des affaires institutionnelles et du droit public et
+d’une juriste au sein de ce service, d’une juriste au service du droit de la lutte anti-blanchiment et du
+contrôle interne, de l’adjointe au chef du service des établissements étrangers en France et d’un contrôleur
+au sein de ce service ; Mme Lefebvre a proposé le prononcé d’un blâme assorti d’une sanction pécuniaire
+de 2 millions d’euros, dans une décision publiée sous une forme nominative ;
+− SBF, représentée par son président et par son responsable de la conformité, ainsi que par Mes Bénédicte
+Michel et Thomas Rodriguez (cabinet Dunaud Clarenc Combles & Associés), avocats à la Cour ;
+Les représentants de SBF ayant eu la parole en dernier ;
+Après avoir délibéré en la seule présence de M. Bouchez, Président, de Mmes Aldigé et Boiteau et de
+M. Prieur ainsi que de M. Jean-Manuel Clemmer, chef du service de la Commission des sanctions faisant
+fonction de secrétaire de séance ;
+1. Considérant que SBF est une société par actions simplifiée, filiale à 100 % de la banque danoise Saxo
+Bank ; que cette filiale est issue du rachat par Saxo Bank A/S de la société Cambiste.com, fondée en 2006 ;
+que SBF, agréée en qualité de banque et de prestataire de services d’investissement, propose une offre de
+courtage en ligne à une clientèle de particuliers et d’institutionnels, leur permettant d’accéder à la plateforme
+de trading Saxo Bank et d’intervenir sur le marché des devises (Forex), sur les « contracts for difference »
+(CFD) et d’autres produits dérivés ainsi que sur les actions et obligations ; qu’elle ne propose aucun moyen
+de paiement et n’exerce aucune activité de crédit ; qu’au moment du contrôle, elle employait (…)
+collaborateurs à Paris et (…) dans une succursale ouverte à Bruxelles ; que la valeur du compte (ensemble
+des actifs et des positions) de (…) % des clients était alors inférieure ou égale à (…) euros tandis que les
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2016-01
+comptes ayant une valeur supérieure à (…) euros représentaient (…) % de la clientèle ; que SBF a réalisé en
+2015 un résultat net de près de (…) euros et disposait, à la fin de cet exercice, de (…) euros de fonds propres
+; que SBF a indiqué que son résultat net au 30 septembre 2016 était légèrement inférieur à (…) euros ;
+2. Considérant que SBF a fait l’objet d’un contrôle sur place du 10 septembre au 19 décembre 2014, qui a
+donné lieu à la signature d’un rapport définitif le 9 avril 2015 (ci-après le rapport de contrôle) ; qu’au vu de
+ce rapport, le Collège a décidé, lors de sa séance du 11 janvier 2016, d’ouvrir la présente procédure
+disciplinaire ;
+I. Sur la classification des risques
+3. Considérant que le 2° du I de l’article R. 561-38 CMF prévoit que les organismes assujettis « élaborent
+une classification des risques de blanchiment des capitaux et de financement du terrorisme présentés par
+leurs activités, selon le degré d'exposition à ces risques apprécié en fonction notamment de la nature des
+produits ou des services offerts, des conditions des transactions proposées, des canaux de distribution
+utilisés ainsi que des caractéristiques des clients » ; que, selon le d) du 3°) de l'article 11-7 du règlement
+n° 97-02, dont les dispositions ont été reprises à l'article 59 de l'arrêté du 3 novembre 2014, « La
+classification des risques de blanchiment de capitaux et de financement du terrorisme évalue le niveau de
+risque des différents produits ou services offerts, des modalités ou des conditions particulières des
+opérations effectuées, des canaux de distribution utilisés ainsi que des caractéristiques de la clientèle
+ciblée » ;
+4. Considérant que, selon le grief 1, la classification des risques de blanchiment des capitaux et de
+financement du terrorisme de SBF reflète de manière insuffisante son exposition aux risques au regard des
+caractéristiques de sa clientèle car elle ne prend pas en compte la variété et les spécificités de sa clientèle de
+personnes morales ;
+5. Considérant qu’il ressort du dossier que si SBF n’a pas élaboré de document spécifique qui
+constituerait sa classification des risques au sens des dispositions précitées, sa procédure « CONT-09 lutte
+contre le blanchiment et le financement du terrorisme » (ci-après la « procédure « CONT-09 ») traite du cas
+des personnes morales lors de l’entrée en relation d’affaires et distingue le niveau de risque associé selon
+plusieurs critères tels que la nature de cette personne morale, le pays d’immatriculation, la cotation sur un
+marché réglementé, la rencontre physique avec le représentant du client, l’existence d’un lien avec une
+personne politiquement exposée ou le caractère « particulier » de l’objet social ou de l’activité « (activité de
+change, société financière, SGP,…) » ; que, bien que cette présentation reste sommaire, l’absence d’un
+critère ou d’une distinction dans une classification des risques ne peut être utilement reprochée à un
+organisme assujetti que lorsque ce critère ou cette distinction aurait permis de caractériser et donc de traiter
+des produits, services ou opérations qui sont porteurs d’un risque particulier ; que, faute pour la notification
+des griefs, qui fait seulement état de la variété et de la diversité de la clientèle de SBF et mentionne différents
+exemples de clients personnes morales, de préciser en quoi, au regard des caractéristiques de la clientèle
+ciblée par SBF, la partie de cette classification relative aux personnes morales aurait dû être complétée, le
+grief 1, tel qu’il est formulé, ne peut qu’être écarté ;
+II. Sur le dispositif de suivi et d’analyse des relations d’affaires
+6. Considérant que les dispositions du 2.2 de l'article 11-7 du règlement n° 97-02 ont été reprises à
+l'article 46 de l'arrêté du 3 novembre 2014 qui prévoit que « Les entreprises assujetties se dotent de
+dispositifs de suivi et d'analyse de leurs relations d'affaires, fondés sur la connaissance de leur clientèle,
+permettant notamment de détecter les opérations qui constituent des anomalies au regard du profil des
+relations d'affaires et qui pourraient faire l'objet d'un examen renforcé mentionné au II de l'article L. 561-
+10-2 du code monétaire et financier ou d'une déclaration prévue à l'article L. 561-15 du même code » ;
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2016-01
+7. Considérant que selon le grief 2, le dispositif de surveillance, reposant sur un suivi des opérations par
+les commerciaux ou le « back-office » et un dispositif d’alertes automatisées mis en place en janvier 2014,
+n’est pas pleinement efficace ; (i) que deux dépôts suivis de retraits sans opération de trading, opérations
+pourtant définies comme atypiques par la procédure LCB-FT, n’ont pas été analysées - dossiers A1 et A2 - ;
+(ii) que le dispositif d’alertes automatisées présentait une insuffisance liée à l’inefficacité des scénarios
+relatifs aux données de connaissance clientèle car, dans la base de données X, les revenus n’étaient pas
+renseignés pour 40 % des clients et l’intention d’investissement ne l’était pas pour 45 % d’entre eux, soit,
+respectivement, (…) clients et (…) clients sur un total de (…) clients de SBF à la date du contrôle ; qu’à cet
+égard, 4 dossiers pour lesquels les dépôts ont dépassé très largement l’intention d’investissement ou le
+revenu du client n’ont pas fait l’objet d’une alerte - dossiers A3, A4, A5 et A6 - ; (iii) qu’enfin, il n’existait
+aucune catégorie d’alertes permettant de détecter les dossiers pour lesquels les montants déposés afin
+d’investir dans des produits financiers à fort effet de levier ne paraissaient pas justifiés au regard de l’activité
+principale de la société et de ses revenus - dossiers A7, A8 et A9 - ni ceux pour lesquels le nombre moyen
+mensuel d’ordres passés par le client dépasse très largement celui annoncé à l’ouverture du compte - dossiers
+A10, A11, A12, A13 - ;
+8. Considérant, tout d’abord, que SBF ne répond pas efficacement à ce grief, qui tient à ce que,
+globalement, son dispositif de suivi et d’alertes était imparfait, en invoquant l’utilisation au niveau du groupe
+du logiciel Y qui « fait remonter des alertes qui sont ensuite systématiquement examinées par SBF » et
+dispose, selon ses dires, de fonctionnalités utiles en LCB-FT ; qu’en effet, SBF avait mentionné lors du
+contrôle que ce logiciel servait à la détection des abus de marché et elle ne montre pas, devant la
+Commission, en quoi il apportait aussi une contribution effective en matière de LCB-FT ; qu’au demeurant,
+ce logiciel n’est pas mentionné dans la procédure « CONT-09 » ; que, de même, la mention dans cette
+procédure LCB-FT de la nécessité de détecter les opérations atypiques et, le cas échéant, d’alerter le
+correspondant Tracfin ne peut pallier l’absence d’un dispositif efficace de détection automatique de telles
+opérations ; que la mise à jour invoquée des dossiers clients, si elle est indispensable, ne répond pas
+davantage au grief ;
+9. Considérant, ensuite, s’agissant des deux opérations atypiques de dépôts suivies de retraits sans
+opération de trading (sous-grief 2.1), que les éléments produits en défense montrent que, dans le dossier A1,
+le retrait par le client de 10 000 euros dans le mois suivant l’ouverture du compte, sur lequel 12 100 euros
+avaient été initialement déposés, a donné lieu à une analyse, même si celle-ci apparaît sommaire ; que ce
+reproche, que ne maintient pas le représentant du Collège, doit donc être écarté ; qu’en revanche, s’agissant
+du dossier A2, le client avait réalisé un retrait total 3 mois après l’ouverture du compte, sur lequel 200 000
+euros avaient été déposés, sans réaliser d’opération de trading ; que le compte-rendu, fourni par SBF, selon
+lequel le client a été contacté le jour même de ce retrait par téléphone ne suffit pas à établir que l’analyse de
+l’opération au regard des obligations de LCB-FT a été faite et a conclu à une absence de risque ;
+10. Considérant en outre que SBF, qui ne conteste pas le caractère incomplet de la base de données X au
+moment du contrôle, d’où il est résulté une insuffisance de son dispositif d’alertes automatisées (sous-grief
+2.2), souligne que cette base était en passe d’être complétée ; qu’à ce moment, les données relatives aux
+revenus déclarés, au patrimoine et au capital d’investissement des clients ayant ouvert des comptes en 2013
+et 2012 et la moitié seulement de ceux l’ayant fait en 2011 avaient été saisies dans la base ; que si les
+dossiers individuels mentionnés (dossiers A3, A4, A5 et A6) sont relatifs à des opérations antérieures au
+déploiement de l’outil d’alertes automatisées, il n’en reste pas moins exact qu’ils n’ont pas fait l’objet d’une
+alerte ; que l’information selon laquelle les bases de données sont désormais « pleinement à jour », outre
+qu’elle devra, le cas échéant, être vérifiée, concerne une action correctrice et ne remet donc pas en cause le
+grief ;
+11. Considérant enfin, s’agissant de l’absence d’alertes permettant de détecter certaines catégories
+d’opérations atypiques (sous-grief 2.3), que si, selon SBF, « les placements réalisés par des sociétés dont
+l’activité principale n’est pas orientée vers une activité financière ne sont pas, par nature, suspects ou
+illégaux », il lui appartenait cependant de mettre en place un dispositif d’alerte permettant de détecter les
+dépôts élevés effectués par des sociétés non financières ; qu’ainsi, le décalage entre le dépôt de 878 000
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2016-01
+euros par la société A7, d’une part, et les éléments recueillis sur cette société spécialisée dans les articles de
+décoration et qui déclarait un actif total de 108 000 euros et un résultat déficitaire de 3 000 euros, d’autre
+part, illustre la nécessité d’un tel suivi ; que, de même, dans les dossiers des clients A8 et A9, l’incohérence
+apparente entre l’activité déclarée et les ressources annoncées, d’une part, et les sommes déposées, d’autre
+part, n’a pas suscité de réaction, ce qui montre également l’inadaptation du dispositif de surveillance ; que
+l’écart entre l’activité annoncée de transmission d’ordres par un client et le nombre d’ordres effectivement
+passés constitue également un critère utile d’alertes, sans toutefois conduire nécessairement dans chaque cas
+à un examen renforcé ou à une déclaration de soupçon (DS) ; qu’à titre d’exemple, parmi les dossiers
+mentionnés par la poursuite, lorsqu’un client passe 680 ordres par mois après en avoir annoncé entre 0 et 5
+(dossier A13), le fonctionnement atypique du compte devrait être détecté par les outils de surveillance mis en
+place par l’établissement ; que les 3 autres dossiers mentionnés par la poursuite présentent des
+caractéristiques analogues ;
+12. Considérant ainsi que, dans le périmètre légèrement réduit comme il a été dit au considérant 9, le
+grief 2 est établi ;
+III. Sur le respect des obligations de vigilance
+A. Sur la mise en œuvre des mesures de vigilance complémentaire
+13. Considérant que le 1° de l’article L. 561-10 du CMF prévoit que les organismes assujettis
+« appliquent des mesures de vigilance complémentaires à l'égard de leur client, en sus des mesures prévues
+aux articles L. 561-5 et L. 561-6, lorsque le client ou son représentant légal n'est pas physiquement présent
+aux fins de l'identification » ; que le I de l’article R. 561-20 du même code, modifié par le décret n° 2012-
+1125 du 3 octobre 2012 (ci-après le décret n° 2012-1125), prévoit qu’« Avant d'entrer en relation d'affaires,
+dans les cas prévus aux 1° et 3° de l'article L. 561-10, les personnes mentionnées à l'article L. 561-2
+appliquent, en sus des mesures prévues aux articles L. 561-5 et L. 561-6, au moins l'une des mesures de
+vigilance complémentaires suivantes ou deux de ces mesures s'il s'agit de l'ouverture d'un compte : 1°
+Obtenir une pièce justificative supplémentaire permettant de confirmer l'identité de la personne avec
+laquelle elles sont en relation d'affaires ; (…) / 3° Exiger que le premier paiement des opérations soit
+effectué en provenance ou à destination d'un compte ouvert au nom du client auprès d'une personne
+mentionnée aux 1° à 6° de l'article L. 561-2 établie dans un État membre de l'Union européenne ou dans un
+État partie à l'accord sur l'Espace économique européen ou dans un pays tiers imposant des obligations
+équivalentes en matière de lutte contre le blanchiment de capitaux et le financement du terrorisme et
+figurant sur la liste prévue au 2° du II de l'article L. 561-9 ; / 4° Obtenir directement une confirmation de
+l'identité du client de la part d'une personne mentionnée aux 1° à 6° de l'article L. 561-2 établie dans un État
+membre de l'Union européenne ou dans un État partie à l'accord sur l'Espace économique européen. Cette
+confirmation peut également être obtenue directement d'une personne mentionnée aux 1° à 6° de l'article L.
+561-2 établie dans un pays tiers imposant des obligations équivalentes en matière de lutte contre le
+blanchiment et le financement du terrorisme et figurant sur la liste prévue au 2° du I de l'article L. 561-9.
+Pour les personnes mentionnées aux 1° à 6° de l'article L. 561-2 établies en France, cette confirmation peut
+également être obtenue directement d'une de leurs filiales ou succursales établies à l'étranger, sous réserve
+qu'elles justifient auprès de l'autorité de contrôle compétente mentionnée à l'article L. 561-36 que cette
+filiale ou succursale applique des mesures au moins équivalentes à celles prévues au chapitre Ier du présent
+titre en matière de vigilance à l'égard du client et de conservation des informations. » ;
+14. Considérant que selon le grief 3, toutes les ouvertures de compte postérieures à l’entrée en vigueur du
+décret n° 2012-1125 présentent un défaut de vigilance complémentaire puisque SBF ne leur a appliqué
+qu’une seule mesure de vigilance sur les deux requises par la réglementation pour les ouvertures de compte à
+distance ;
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2016-01
+15. Considérant que SBF reconnaît qu’elle ne demande une seconde pièce d’identité lors des ouvertures
+de comptes qu’à ses clients identifiés comme étant des personnes politiquement exposées (PPE), mais
+soutient qu’elle respecte à ce sujet son obligation de vigilance renforcée car elle exige de tout client, outre un
+premier paiement provenant d’un compte respectant les conditions du 3° du I de l’article R. 561-20, de
+produire le relevé d’identité bancaire (RIB) à son nom d’un compte bancaire à partir duquel ce client effectue
+le premier approvisionnement, ce qui lui permet de répondre aux exigences du 4° ou à tout le moins du 1° du
+I de cet article ; que les dispositions de cet article n’imposent pas que le second document produit soit une
+pièce d’identité ; qu’à défaut de précision sur la nature et le contenu de ce justificatif supplémentaire de
+l’identité du client, dans les textes eux-mêmes ou par des indications données par l’ACPR, le manquement
+ne peut, en raison du principe selon lequel une sanction doit être prévisible, être retenu ;
+16. Considérant que si la procédure LCB-FT de SBF n’exigeait pas la communication par les nouveaux
+clients d’un RIB mais seulement de l’International Bank Account Number (IBAN) du compte, le formulaire
+d’ouverture de compte prévoyait bien, quant à lui, qu’un RIB devait être systématiquement demandé ; que
+toutefois, s’il est vrai que les dispositions du I de l’article R. 561-20 n’imposent pas la fourniture d’une
+seconde pièce d’identité officielle, le RIB n’apporte pas d’informations confirmatives en matière
+d’identification du client par rapport à celles résultant de l’émission ou de la réception d’un virement en
+provenance ou à destination du compte auquel il se rapporte, de sorte que la production de ce document par
+un client auquel un établissement a appliqué la mesure de vigilance prévue au 3° du I de l’article R. 561-20,
+relative à la provenance du premier paiement des opérations, ne saurait s’analyser comme une mesure
+complémentaire distincte de celle-ci et comme apportant la « pièce justificative supplémentaire permettant
+de confirmer l'identité de la personne » exigée ; que le grief est donc établi ; que, compte tenu de sa
+rédaction et de son objet, la règle prévue à l’article R. 561-20, dont il est fait ici application, était
+raisonnablement prévisible par les professionnels auxquels elle s’applique et suffisamment claire pour qu’à
+la faveur de sa première application, la Commission « précise sa portée et en fasse application aux faits à
+l’origine des manquements qu’elle sanctionne » (CE, 20 janvier 2016, Caisse d'épargne et de prévoyance du
+Languedoc Roussillon, n° 374950) ;
+B. Sur la connaissance de la clientèle et son actualisation
+17. Considérant que l'article L. 561-6 du CMF impose aux organismes assujettis, avant d'entrer en relation
+d'affaires avec un client et pendant toute la durée de celle-ci, de recueillir les informations relatives à l'objet
+et à la nature de cette relation ainsi que tout autre élément d'information pertinent sur ce client ; qu'en outre,
+ces organismes sont tenus, pendant toute sa durée et dans les conditions fixées par décret en Conseil d'État,
+d'exercer sur cette relation, dans la limite de leurs droits et obligations, une vigilance constante et de
+pratiquer un examen attentif des opérations effectuées en veillant à ce qu'elles soient cohérentes avec la
+connaissance actualisée qu'ils ont de leur client ; que selon l’article R. 561-12 du même code : « Pour
+l'application de l'article L. 561-6, les personnes mentionnées à l'article L. 561-2 : / 1° Avant d'entrer en
+relation d'affaires, recueillent et analysent les éléments d'information, parmi ceux figurant sur la liste
+dressée par un arrêté du ministre chargé de l'économie, nécessaires à la connaissance de leur client ainsi
+que de l'objet et de la nature de la relation d'affaires, pour évaluer le risque de blanchiment de capitaux et
+de financement du terrorisme ; / 2° Pendant toute la durée de la relation d'affaires, recueillent, mettent à
+jour et analysent les éléments d'information, parmi ceux figurant sur une liste dressée par un arrêté du
+ministre chargé de l'économie, qui permettent de conserver une connaissance appropriée de leur client. La
+collecte et la conservation de ces informations doivent être réalisées en adéquation avec les objectifs
+d'évaluation du risque de blanchiment des capitaux et de financement du terrorisme et de surveillance
+adaptée à ce risque ; / 3° A tout moment, sont en mesure de justifier aux autorités de contrôle l'adéquation
+des mesures de vigilance qu'elles ont mises en œuvre aux risques de blanchiment de capitaux et de
+financement du terrorisme présentés par la relation d'affaires. » ; que l’arrêté du 2 septembre 2009 a précisé
+les éléments d’information susceptibles d’être recueillis pendant toute la durée de la relation d’affaires ; que
+1'article 19 de 1'ordonnance n° 2009-104 prévoit que les organismes assujettis appliquent à leur clientèle
+existante les nouvelles obligations de vigilance prévues aux articles L. 561-5 à L. 561-14 du CMF « dans les
+meilleurs délais appréciés en fonction des risques et au plus tard dans un délai d'un an à compter de la
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2016-01
+publication du dernier des décrets prévus pour l'application de ces articles et, pour les relations d'affaires
+inactives, à leur première réactivation » ;
+18. Considérant que selon le grief 4, les informations recueillies par SBF dans de nombreux dossiers au
+sujet de la profession, des revenus ou du patrimoine du client étaient manquantes ou imprécises ; que dans
+des dossiers relatifs à des comptes ouverts avant l’entrée en vigueur de l’ordonnance n° 2009-104, les
+éléments de connaissance de la clientèle n’avaient pas été recueillis ou actualisés dans le délai imparti par
+l’article 19 de cette ordonnance ; que, dans d’autres dossiers, les éléments de connaissance de la clientèle ne
+sont pas toujours actualisés ;
+19. Considérant, en premier lieu, que SBF a reconnu que, dans 14 des 16 dossiers au sujet desquels le
+reproche est formulé, l’information relative à la profession du client faisait défaut au moment du contrôle sur
+place (7 dossiers) ; que le représentant du Collège admet qu’il ne doit pas être retenu dans un autre : dossier
+B1 ; que si, dans le dernier cas, la profession n’était pas renseignée (dossier B2), cette carence peut être
+relativisée puisque ce client avait par ailleurs ouvert un compte au nom de la société C1 qu’il préside ;
+qu’ainsi, et sous cette légère réserve, le manquement est établi dans 15 dossiers sur 16 ;
+20. Considérant, en deuxième lieu, que des mentions telles que « gérant » - dossiers B3 et B4 - ou
+« marketing » - dossier A1 - ne sont pas suffisamment précises pour satisfaire à l’exigence de connaissance
+du client ; que, sans admettre complètement sa carence relativement à ces dossiers, SBF reconnaît avoir, par
+le passé, « fait preuve d’imprécision en renseignant la profession exercée, la question y afférente étant une
+question ouverte » ; que le Collège a abandonné le reproche relatif au dossier B5 ; que le manquement est
+ainsi établi dans 3 des 4 dossiers mentionnés par la poursuite ;
+21. Considérant, en troisième lieu, que SBF reconnaît, pour 2 des 4 dossiers au sujet desquels le reproche
+d’un défaut de connaissance des revenus ou du patrimoine est formulé - dossiers B6 et B7 -, qu’elle ne
+connaissait pas les revenus de ces clients ; que, dans le troisième cas - dossier B8 -, la copie d’écran non
+datée produite ne peut suffire à contredire les constats du rapport sur ce point ; que dans le dernier cas -
+dossier B9 -, la poursuite a indiqué s’en remettre au rapport du rapporteur, qui écarte ce dossier ; que le
+manquement sera donc retenu dans 3 des 4 cas mentionnés ;
+22. Considérant, en quatrième lieu, que SBF n’a pas, ainsi qu’elle le reconnaît, mis à jour dans les délais
+impartis les éléments de connaissance de la clientèle dans 5 des 6 dossiers concernant des comptes ouverts
+avant la date d’entrée en vigueur des nouvelles exigences relatives à l’actualisation de la connaissance du
+client issues de l’ordonnance n° 2009-104, soit le 4 septembre 2010, - dossiers B10, B11, B12, B13 et B14- ;
+que si, dans le dossier B15, elle conteste le grief en indiquant avoir, le 18 mars 2014, fait signer un nouveau
+formulaire d’ouverture de compte à la cliente dont le compte était « quasiment inactif » de 2010 à 2013, cette
+réaction est tardive, dès lors que ce compte a bien enregistré des opérations en 2010 et 2011 ;
+23. Considérant, enfin, que SBF ne conteste pas le défaut d’actualisation des éléments de connaissance du
+client dans 3 dossiers – A5, B16, B17 ;
+24. Considérant que, dans le périmètre réduit ainsi qu’il a été dit aux considérants 19 à 21, le grief 4 est
+établi ;
+IV. Sur les obligations de déclaration de soupçon et d’examen
+renforcé
+25. Considérant que selon les I et II de l’article L. 561-15 du CMF : « I. - Les personnes mentionnées à
+l'article L. 561-2 sont tenues, dans les conditions fixées par le présent chapitre, de déclarer au service
+mentionné à l'article L. 561-23 les sommes inscrites dans leurs livres ou les opérations portant sur des
+sommes dont elles savent, soupçonnent ou ont de bonnes raisons de soupçonner qu'elles proviennent d'une
+infraction passible d'une peine privative de liberté supérieure à un an ou participent au financement du
+terrorisme. / II .- Par dérogation au I, les personnes mentionnées à l'article L. 561-2 déclarent au service
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2016-01
+mentionné à l'article L. 561-23 les sommes ou opérations dont ils savent, soupçonnent ou ont de bonnes
+raisons de soupçonner qu'elles proviennent d'une fraude fiscale lorsqu'il y a présence d'au moins un critère
+défini par décret. » ; que le II de l’article D. 561-32-1 du même code définit notamment comme critères
+« 11° Le refus du client de produire des pièces justificatives quant à la provenance des fonds reçus ou quant
+aux motifs avancés des paiements, ou l'impossibilité de produire ces pièces » et « 15° Le dépôt par un
+particulier de fonds sans rapport avec son activité ou sa situation patrimoniale connues » ; que le II de
+l’article L. 561-10-2 de ce code prévoit que « les organismes assujettis effectuent un examen renforcé de
+toute opération particulièrement complexe ou d’un montant inhabituellement élevé ou ne paraissant pas
+avoir de justification économique ou d’objet licite. Dans ce cas, ces organismes se renseignent auprès du
+client sur l’origine des fonds et la destination de ces sommes ainsi que sur l’objet de l’opération et l’identité
+de la personne qui en bénéficie.» ;
+A. Sur le non-respect des obligations de déclaration
+26. Considérant que selon le grief 5, 11 dossiers (sous-grief 5.1 : D1 ; sous-grief 5.2 : D2 ; sous-grief
+5.3 : D3 ; sous-grief 5.4 : D4 ; sous-grief 5.5 : D5 ; sous-grief 5.6 : D6 ; sous-grief 5.7 : D7 ; sous-grief
+5.8 : D8 ; sous-grief 5.9 : D9 ; sous-grief 5.10 : D10 ; sous-grief 5.11 : D11) présentent un défaut de
+déclaration de soupçon (ci-après « DS ») ;
+27. Considérant qu’il convient de donner acte à la poursuite de l’abandon des reproches relatifs aux sous-
+griefs 5.3 (D3), 5.5 (D5) et 5.7 (D7) ;
+28. Considérant que dans le cas des sociétés de droit étranger « D1 » et « D1bis » (sous-grief 5.1) qui ont,
+chacune, ouvert un compte en avril 2013, le montant des versements cumulés, soit respectivement 458 000
+dollars (USD) et 1 190 000 euros, alors que les dossiers clients ne contenaient aucune donnée financière et
+aucun élément sur l’origine des fonds, aurait dû conduire SBF à adresser à Tracfin une DS bien avant le
+début du contrôle sur place ; que SBF a finalement adressé une DS le 3 juin 2015, postérieurement à ce
+contrôle, et reconnu qu’elle aurait dû aviser Tracfin plus tôt des opérations exécutées sur ces deux comptes ;
+que le sous-grief est établi ;
+29. Considérant que les versements cumulés de 335 000 euros effectués par la société D2 sur un compte
+ouvert en mars 2011 et dont elle a perdu la quasi-totalité (sous-grief 5.2) auraient dû, faute pour SBF de
+disposer d’éléments permettant d’établir la cohérence entre la surface financière du client et les montants
+placés, être déclarés à Tracfin ; que SBF, qui avait indiqué en réponse au projet de rapport de contrôle que
+« les bilans 2010-2011 et 2012 ont été envoyés mais les bilans ne semblent pas conformes aux
+investissements réalisés », a reconnu qu’elle aurait dû être plus vigilante ; qu’une DS n’a finalement été
+adressée à Tracfin que le 27 mai 2015 ; que le sous-grief est établi ;
+30. Considérant que M. et Mme D4 (sous-grief 5.4), résidents boliviens, ont ouvert un compte joint en juin
+2013, puis ont déposé 672 000 euros, converti 485 000 euros en USD et retiré 160 000 euros sur ce compte ;
+qu’en l’absence de justificatif sur l’origine des fonds versés et en l’absence d’information sur le patrimoine
+de ces clients, une DS aurait dû avoir déjà, à la date du contrôle, être adressée à Tracfin ; qu’une DS n’a été
+adressée que le 23 novembre 2015 ; que le sous-grief est établi ;
+31. Considérant que, dans le cas des opérations de Mme D6 (sous-grief 5.6), le versement de
+640 000 euros d'octobre 2012 à octobre 2014 sur un compte ouvert dans les livres de SBF, sommes dont
+l’origine n’a pas été documentée et qui ne correspondaient pas au niveau de revenus de la cliente, aurait dû
+conduire SBF, qui ignorait en outre le patrimoine de celle-ci, à adresser une DS à Tracfin ; qu’un soupçon
+aurait dû également résulter, dans ce dossier, du dépôt en novembre 2012 de 536 000 euros sur un compte
+ouvert par le frère de cette cliente, dont le patrimoine n’a pas été davantage renseigné, ainsi que de la
+procuration donnée par ces deux clients à leur père, (…) ; que si, à la demande de SBF, ces clients ont
+chacun transmis une déclaration, datant de 2015, d’un contrat de prêt consenti par leurs parents à leur profit
+en 2014, ces documents ne pouvaient justifier l’origine des fonds versés en 2012 ; que SBF a effectué une
+déclaration à Tracfin en mai 2015 au motif d’un soupçon sur la conformité fiscale de la donation invoquée ;
+que SBF, qui reconnaît dans ce dossier un défaut d’examen renforcé, aurait dû avoir procédé, à la date du
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2016-01
+contrôle, à une DS en application du II de l’article D. 561-32-1 CMF, sur le fondement du critère 15 ;
+qu’ainsi, le sous-grief est établi ;
+32. Considérant que, dans le cas des opérations de M. D8 (sous-grief 5.8), qui a ouvert un compte fin
+2011, les dépôts effectués en 3 ans, d’un montant total de 193 000 euros, dont un virement de 148 000 euros
+en mars 2014 provenant d’un compte ouvert à son nom à la banque E1 en Suisse, sont incohérents avec le
+salaire net annuel que ce client a indiqué percevoir, soit 46 000 euros et avec le bulletin de salaire produit,
+alors qu’aucune indication sur son patrimoine n’a été fournie ; que même si des informations sur la situation
+professionnelle du client, salarié de la banque d’où provenait le virement, ont bien été recueillies,
+l’incohérence entre les éléments dont disposait SBF sur sa situation financière et les opérations effectuées, de
+même que l’absence de tout élément au dossier sur la régularité au plan fiscal des sommes virées en
+provenance de l’étranger, auraient dû conduire à l’envoi d’une DS à Tracfin, sur le fondement du critère 15
+ci-dessus rappelé ; qu’en l’absence de cet envoi, le sous-grief est établi ;
+33. Considérant que, dans le cas des opérations de Mme D9, qui a ouvert un compte en juillet 2013, sur
+lequel elle a déposé 209 000 euros (sous-grief 5.9), SBF ne conteste pas un défaut de DS, qui est établi ;
+34. Considérant que les opérations de M. D10 (sous-grief 5.10), soit 53 000 euros de dépôts cumulés,
+auraient dû, en l’état des explications imprécises, et peu cohérentes recueillies sur l’origine des fonds, non
+documentées, sur son patrimoine, sur ses revenus et sur sa situation professionnelle, être déclarées à Tracfin
+en application du critère 15 ci-dessus rappelé ; qu’à défaut d’une telle DS, le sous-grief est établi ;
+35. Considérant que, en ce qui concerne les opérations de Mme D11 (sous-grief 5.11), qui a ouvert un
+compte en janvier 2011, l’incohérence entre les déclarations de la cliente sur sa volonté d’investir 10 000 à
+20 000 euros et le dépôt de 185 000 euros en mars 2011, puis le retrait de 67 000 euros au total, auraient dû
+conduire SBF, qui a demandé en vain à la cliente le 6 mars 2014 des informations sur ses revenus et son
+patrimoine, à adresser à Tracfin une DS en application du II de l'article D. 561-32-1 du CMF, sur le
+fondement du critère 11 ; que cette déclaration n’a été effectuée qu’après la fin de la mission de contrôle ;
+que SBF ne conteste pas le sous-grief, qui est établi ;
+36. Considérant qu’ainsi, dans un périmètre réduit à 8 cas, comme il a été dit au considérant 27, le grief 5
+est établi ;
+B. Sur le non-respect des obligations de déclaration ou, à tout le moins, d’examen
+renforcé
+37. Considérant que selon le grief 6, 17 dossiers présentaient un défaut de DS, ou à tout le moins, un
+défaut d’examen renforcé ;
+38. Considérant tout d’abord que SBF soutient que la qualification alternative retenue dans la notification
+des griefs ne respecte pas l’exigence de précision à laquelle l’autorité de poursuite est pourtant soumise (CE,
+20 octobre 2000, Société Habib Bank, n° 180122) ; qu’elle est ainsi contraire aux dispositions de l’article 6 §
+3 de la CESDHLF qui dispose qu’un accusé a droit à « être informé, dans le plus court délai (…) d'une
+manière détaillée, de la nature et de la cause de l'accusation portée contre lui » ; que SBF ne peut présenter
+utilement sa défense en l’absence de prévisibilité de l’analyse faite par la Commission, notamment dans le
+cas où la Commission retiendrait un défaut de DS, alors que SBF se serait défendue sur l’absence de défaut
+d’examen renforcé ; qu’en imposant à la défense de se placer sur les deux terrains alors que la poursuite n’est
+pas tenue de le faire, SBF soutient également qu’il en résulte une rupture d’égalité ;
+39. Considérant cependant que, dans les 17 dossiers dans lesquels le Collège a retenu une qualification
+alternative, les dispositions dont le non-respect était reproché à SBF étaient toutes mentionnées dans la
+notification des griefs, de même que les circonstances de fait auxquelles elles pourraient s’appliquer, de sorte
+que SBF a bien été mise en mesure de faire valoir sa défense en présentant les observations que ces faits et
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2016-01
+les qualifications juridiques retenues par la poursuite appelaient de sa part (CE, 15 mars 2006, Laurent,
+n° 276370) ; qu’ainsi, le grief était formulé avec la précision suffisante exigée par la jurisprudence ; que SBF
+avait la possibilité, dans chaque dossier, de présenter sa défense sur chacune des deux qualifications
+formulées ; qu’il ne résulte en conséquence de la qualification alternative retenue par la poursuite aucune
+atteinte aux droits de la défense ni, contrairement à ce que soutient SBF, de rupture d’égalité entre les
+parties ;
+40. Considérant que si la poursuite, dans ses observations en réplique, a mentionné les montants
+inhabituellement élevés des opérations de certains clients « notamment au regard de la valeur médiane des
+comptes des clients » - dossiers F3, F12, F13 et F15 -, la notification des griefs ne se fonde pas sur une telle
+comparaison ; que, par cette mention, la poursuite n’a pas fixé un nouveau critère d’application des
+obligations relatives à l’examen renforcé ; que la Commission se déterminera, dans chaque cas, au vu du
+reproche tel qu’il est formulé dans la notification des griefs et des éléments du dossier ;
+41. Considérant que la poursuite ne maintient pas les reproches relatifs aux sous-griefs 6.10 (M. F15) et
+6.13 (Mme F16), qu’il n’y a, dès lors, pas lieu d’examiner ;
+42. Considérant que les opérations de la société F1 (sous-grief 6.1), créée en mai 2013, qui a ouvert un
+compte en janvier 2014 sur lequel elle a effectué en un an 140 000 euros de versements et 25 000 euros de
+retraits cumulés et dont le premier bilan n’a été communiqué à SBF que le 4 mai 2016, auraient dû donner
+lieu à un examen renforcé ; qu’en effet l’ouverture d’un compte de trading et les opérations qui y ont été
+enregistrées ne semblent pas a priori cohérentes avec l’objet social de cette société (…) ; que si le faible
+montant du capital social de cette société n’est pas un indicateur fiable de sa capacité d’investissement,
+aucun élément ne vient documenter les éventuelles recherches de SBF au sujet des opérations effectuées ;
+que l’affirmation selon laquelle les fonds utilisés proviendraient de comptes courants d’actionnaires est sans
+conséquence sur la nécessité, dans ce cas, d’effectuer un examen renforcé des opérations de ce client afin
+d’en préciser la justification économique et de vérifier la licéité de leur objet ; que le manquement aux
+dispositions du II de l’article L. 561-10-2 du CMF est établi ;
+43. Considérant que, dans le cas de la société F2 (sous-grief 6.2), domiciliée au Luxembourg, l’ouverture
+d’un compte de trading en juillet 2012, sur lequel 2,8 millions d’euros ont été déposés en tout et 2,1 millions
+d’euros ont été retirés, ne paraît pas a priori cohérent avec l’activité de la société qui détient des
+participations dans des sociétés (…) ; que ce client a été très actif jusqu’en décembre 2012, date à laquelle il
+a retiré ses fonds après avoir enregistré des moins-values et les a ensuite virés sur le compte de la société G1,
+filiale de F2 dans le cadre d’une convention entre la société et cette filiale, dont la version signée en février
+2013 n’a été fournie à SBF que près d’un an après les opérations en cause ; que si SBF précise que, dans le
+formulaire d’ouverture de compte, il était mentionné que cette société disposait de revenus annuels bruts
+supérieurs à 150 000 euros et d’un capital d’investissement supérieur à 5 millions d’euros et que la
+documentation comptable n’avait pu être fournie, la société étant tout juste créée à l’ouverture de compte,
+elle aurait dû néanmoins, en raison du montant inhabituellement élevé de ces opérations et faute de disposer
+à la date où elles ont été enregistrées d’une documentation suffisante permettant d’en comprendre la
+justification économique, procéder à un examen renforcé ; que le manquement aux dispositions du II de
+l’article L. 561-10-2 du CMF est établi ;
+44. Considérant que la société A5 (sous-grief 6.3) a ouvert, en octobre 2009, un compte sur lequel
+770 000 euros ont été versés et 336 000 euros retirés, jusqu’à sa radiation en septembre 2013 ; qu’en l’état
+des informations dont disposait SBF sur le situation de cette société et face à un client qui n’a pas répondu
+aux demandes de renseignements, une DS aurait dû être envoyée à Tracfin sans attendre le 1er juin 2015 ;
+qu’ainsi, le manquement aux dispositions du I de l’article L. 561-15 du CMF est établi ;
+45. Considérant que, dans le cas des opérations de M. F3 (sous-grief 6.4), conseiller financier chez G2
+puis chez G3, qui a ouvert, en mai 2011, un compte sur lequel il a effectué, en tout, 1,78 million d’euros de
+dépôts et 300 000 euros de retraits, des explications ont été recueillies par SBF sur la situation
+professionnelle du client et sur ses revenus lors de l’entrée en relation et ont au demeurant été confirmées a
+posteriori par ses avis d’imposition ; que si les investissements de ce client ont dépassé ce qui était envisagé
+Autorité de contrôle prudentiel et de résolution 10
+
+===== Page 11 =====
+Décision de la Commission des sanctions – procédure no 2016-01
+au départ, ses dépôts se sont étalés sur 5 ans, soit en moyenne 300 000 euros par an ; qu’il convient
+également de tenir compte de la connaissance de ce client qu’avait SBF, par l’intermédiaire de son
+responsable (…) notamment ; qu’en conséquence, les opérations effectuées ont pu être regardées par SBF
+comme ne présentant pas un caractère inhabituel, le seul fait qu’un client dispose de revenus très élevés
+n’impliquant pas nécessairement un soupçon sur les opérations qu’il effectue ; que le reproche doit, dès lors,
+être écarté ;
+46. Considérant dans le cas de M. F4 (sous-grief 6.5), les dépôts cumulés depuis l’ouverture du compte
+ouvert en 2011 (848 000 euros) n’étaient pas cohérents avec les informations collectées sur ses revenus et
+son patrimoine ; que SBF a reconnu qu’en l’absence de réponses satisfaisantes du client quant à l’origine des
+fonds déposés sur les comptes de trading, malgré les demandes qui lui étaient adressées, elle aurait dû établir
+une DS avant la fermeture de ce compte, intervenue en décembre 2015 ; que le manquement aux dispositions
+du I de l’article L. 561-15 du CMF est établi ;
+47. Considérant que, s’agissant des opérations de M. F5 (sous-grief 6.6), domicilié en Côte d’Ivoire, SBF
+ne détenait pas d’informations suffisantes et documentées sur l’activité professionnelle, les revenus et le
+patrimoine du client, qui dispose de deux comptes ouverts en mai 2010 et sur lesquels il a déposé
+respectivement 108 000 euros et 775 000 USD, en provenance d’une banque au Liban ; qu’en l’absence de
+précisions et de justificatifs, malgré une nouvelle interrogation du client par courriel le 21 juillet 2014, SBF
+aurait dû adresser une DS à Tracfin sans attendre le 10 mars 2016; que le manquement aux dispositions du I
+de l’article L. 561-15 du CMF est établi ;
+48. Considérant que, s’agissant des opérations de M. F6 (sous-grief 6.7), qui réside (dans un pays autre
+que la France) où il dirige une société de services informatiques, les informations recueillies par SBF
+n’étaient pas suffisantes pour justifier de l’origine des fonds, des revenus et du patrimoine du client ; que
+celui-ci a en effet ouvert en septembre 2009 un compte sur lequel il a déposé, par virements d’environ
+10 000 euros chacun en provenance de la banque G4 à Monaco, un total de 772 000 euros jusqu’à fin
+2014, sans effectuer aucun retrait ; qu’au vu du montant cumulé inhabituellement élevé de ces opérations et
+en l’état des éléments détenus par SBF au sujet de ce client, il lui revenait de faire des diligences pour
+vérifier leur justification économique et la licéité de leur objet ; que si SBF fait valoir que chaque dépôt sur
+le compte était suivi d’opérations de trading, le manquement aux dispositions du II de l’article L. 561-10-2
+du CMF n’en est pas moins établi ;
+49. Considérant que, dans le cas de M. F7 (sous-grief 6.8), qui réside (dans un pays autre que la France),
+les dépôts cumulés en moins d’un an sur le compte ouvert le 2 mai 2014, soit 222 000 euros, étaient
+visiblement élevés au regard des revenus annuels déclarés, compris entre 50 000 et 75 000 euros ; que ce
+client, qui avait déclaré vouloir investir entre 500 000 et 1 million d’euros, n’avait pas donné d’informations
+sur son patrimoine ; que dans un courriel du 30 avril 2014, il avait indiqué une difficulté à estimer ses
+revenus, qui fluctuaient en fonction des résultats de sa société ; qu’en l’état des informations recueillies
+auprès du client, qui n’ont été qu’ultérieurement complétées, le manquement aux dispositions du II de
+l’article L. 561-10-2 du CMF est établi ;
+50. Considérant que, s’agissant des opérations de la société F8 (sous-grief 6.9), domiciliée (dans un pays
+autre que la France) où elle exerce une activité de négoce, et qui a ouvert un compte en mai 2011, le total
+des versements effectués, soit 1 814 000 euros, n’était pas justifié par les informations détenues par SBF, qui
+disposait de données comptables de 2009 faisant état d’un résultat net de 998 000 euros ; que si SBF estime
+que les fonds déposés sont cohérents avec la situation financière de la société et son « capital
+d’investissement » déclaré, les comptes sociaux de 2012 et 2013 n’ont été recueillis qu’après le contrôle sur
+place ; qu’en présence d’une société de négoce non résidente, implantée dans un pays hors Union européenne
+et n’imposant pas des obligations équivalentes en matière de LCB-FT, qui alimentait son compte depuis la
+Suisse, pays pour lequel le dossier ne fait apparaître aucun lien de résidence ou d’affaires du client, et était
+dirigée et détenue par une personne au sujet de laquelle elle disposait de peu d’informations, SBF aurait dû
+réaliser une DS ; que le manquement aux dispositions du I de l’article L. 561-15 du CMF est établi ;
+51. Considérant que, dans le cas de M. F9 (sous-grief 6.11), gérant de deux exploitations agricoles (…),
+Autorité de contrôle prudentiel et de résolution 11
+
+===== Page 12 =====
+Décision de la Commission des sanctions – procédure no 2016-01
+le montant inhabituellement élevé des versements effectués (plus de 500 000 euros) au regard des revenus
+déclarés du client (de 75 000 à 100 000 euros) aurait dû conduire SBF à effectuer un examen renforcé visant
+à vérifier leur justification économique ; qu’en effet, ce compte aurait notamment été utilisé pour effectuer
+des opérations de couverture en prenant des positions sur des Futures, sur du blé ou du colza, dont la
+cohérence avec les activités professionnelles du client n’a pas été examinée ; qu’à la date du contrôle, les
+informations relatives au patrimoine et aux revenus du client n’étaient pas documentées ; que le manquement
+aux dispositions du II de l’article L. 561-10-2 du CMF est établi ;
+52. Considérant que le sous-grief 6.12 est relatif aux opérations de M. F10, domicilié (dans un pays autre
+que la France), qui a ouvert un compte chez SBF en juin 2013 sur lequel, en un an et demi, il a déposé 261
+000 euros ; que ce client a indiqué percevoir un revenu compris entre 50 000 et 100 000 euros sans toutefois
+communiquer d’informations sur son patrimoine ; que les explications relatives à l’origine des fonds, qui
+proviendraient notamment de la famille du client, n’étaient pas documentées; que le manquement par SBF,
+qui n’a effectué une DS que le 3 juillet 2015, aux dispositions du I de l’article L. 561-15 du CMF est établi ;
+53. Considérant que, dans le cas de M. F11 (sous-grief 6.14), les opérations effectuées par le client sur
+son compte ouvert en avril 2011, soit des dépôts de 700 000 euros en 2011, 2 409 ordres passés et aucun
+retrait, auraient dû entraîner un examen renforcé de la part de SBF, qui ne disposait que des déclarations du
+client sur ses revenus et son patrimoine; que si des informations supplémentaires ont été recueillies en mars
+2015 - avis d’ISF, indication selon laquelle les fonds versés proviendraient des bénéfices perçus d’une
+société majoritairement détenue par l’intéressé et de la vente d’un bien immobilier -, le manquement aux
+dispositions du II de l’article L. 561-10-2 du CMF est néanmoins constitué ;
+54. Considérant que le sous-grief 6.15 est relatif aux opérations de M. F12, retraité résidant (en France),
+qui a ouvert un compte en 2011 ; que le patrimoine du client était évalué à 1,7 million d’euros en 2011 et 1,5
+million d’euros en 2014 ; que ce compte a enregistré, en 3 ans et demi, des dépôts cumulés de 340 000 euros,
+4 080 ordres de bourse et 3 retraits successifs ; que le premier dépôt de 100 000 euros était cohérent avec le
+profil du client, qui a ensuite porté la valeur de son compte à 1,9 million d’euros en trois mois grâce aux
+gains réalisés ; que la poursuite ne précise pas quelles opérations présentent un caractère inhabituellement
+élevé au regard des informations dont SBF disposait sur ce client ou des autres opérations de cette relation
+d’affaires, ou ne paraîtraient pas économiquement justifiées ; qu’elle insiste sur le montant des gains, il est
+vrai très important, sans toutefois préciser en quoi les opérations qui ont permis de les réaliser répondraient
+aux critères devant conduire à un examen renforcé ; qu’en l’état des informations dont dispose la
+Commission, le sous-grief doit être écarté ;
+55. Considérant que, dans le cas de M. F13, gérant de société résidant (en France), (sous-grief 6.16), le
+montant total des dépôts et retraits réalisés, 491 000 et 229 000 euros, respectivement, entre mai 2013 et
+juillet 2014, était élevé au regard des revenus annuels déclarés du client (moins de 25 000 euros), qui avait
+toutefois déclaré disposer d’un patrimoine compris entre 1,5 et 5 millions d’euros ; que si SBF reconnait un
+défaut de vigilance au début de la relation d’affaires et indique avoir rencontré M. F13 à trois reprises, elle
+aurait dû effectuer un examen renforcé de ses opérations ; que le manquement aux dispositions du II de
+l’article L. 561-10-1 du CMF est établi ;
+56. Considérant que, s’agissant des opérations de de M. F14, trader demeurant à Londres qui a ouvert un
+compte en janvier 2010 (sous-grief 6.17), sur lequel il a effectué un seul dépôt de 500 000 euros à
+l’ouverture du compte, clôturé le 15 septembre 2015 après avoir enregistré 466 000 euros de pertes, le
+dossier ne comportait aucune indication sur les revenus et le patrimoine du client ; que, si SBF a indiqué lors
+du contrôle sur place que celui-ci, ancien trader de la banque F5 sur le marché, serait désormais « trader
+senior et (…) chez F6 », un justificatif de son employeur, indiquant qu’il avait reçu plus d’un million d’USD
+de revenus depuis 2002 n’a été établi qu’en mars 2015 ; que les déclarations du client quant à son patrimoine
+financier, supérieur à 5 millions d’euros, et à son intention de déposer le bonus de son année 2010 sur son
+compte pour effectuer des opérations sur le marché de changes, n’ont donné lieu à aucune diligence pour
+documenter l’origine des fonds déposés ; qu’ainsi, le manquement aux dispositions du II de l’article L. 561-
+10-1 du CMF est établi ;
+Autorité de contrôle prudentiel et de résolution 12
+
+===== Page 13 =====
+Décision de la Commission des sanctions – procédure no 2016-01
+57. Considérant qu’ainsi qu’il a été dit aux considérants 41, 45 et 54, le périmètre du grief 6 est réduit de
+4 dossiers ; que sont finalement retenus à ce titre 8 défauts d’examen renforcé et 5 défauts de DS ;
+C. Sur le caractère tardif de l’envoi d’une DS à Tracfin
+58. Considérant que selon l’article L. 561-16 du CMF « (…) Lorsqu'une opération devant faire l'objet de
+la déclaration prévue à l'article L. 561-15 a déjà été réalisée, soit parce qu'il a été impossible de surseoir à
+son exécution, soit que son report aurait pu faire obstacle à des investigations portant sur une opération
+suspectée de blanchiment des capitaux ou de financement du terrorisme, soit qu'il est apparu
+postérieurement à sa réalisation qu'elle était soumise à cette déclaration, la personne mentionnée à l'article
+L. 561-2 en informe sans délai le service prévu à l'article L. 561-23. »
+59. Considérant que le grief 7 est relatif au caractère tardif de la DS adressée par SBF à Tracfin au sujet
+des opérations de M. H1 qui, a déposé 682 000 euros et retiré 516 000 euros au total sur son compte ouvert
+en décembre 2006 ; que SBF ne disposait d’aucun élément sur la profession et le patrimoine du client qui, en
+février 2014, a crédité son compte de trading avec une carte bancaire dont la titulaire était son épouse ; que
+SBF n’a procédé à une DS que le 24 novembre 2014 pour les opérations enregistrées sur ce compte qui
+avaient débuté en 2013, après avoir interrogé le client en février puis en août 2014 ; qu’eu égard au défaut de
+pertinence des explications du client et à l’absence de diligences faites entre le 5 août et le 24 novembre
+2014, l’envoi d’une DS à cette dernière date à Tracfin est tardif ; que le grief est établi ;
+*
+* *
+60. Considérant qu’il résulte de ce qui précède qu’à la date de la mission de contrôle, le dispositif de suivi
+et d’analyse des risques de LCB-FT présentait des insuffisances qui affectaient en particulier son dispositif
+d’alertes automatisées (grief 2) ; que SBF ne respectait pas totalement ses obligations en matière de
+vigilance complémentaire en cas d’ouverture de comptes à distance (grief 3) ; que le recueil des informations
+permettant de connaître les clients était, dans certains dossiers, insuffisant (grief 4) ; que des manquements
+assez nombreux de SBF à ses obligations de déclaration ou d’examen renforcé ont été retenus (griefs 5 à 7) ;
+61. Considérant que, toutefois, les reproches dirigés dans la présente procédure contre le dispositif de
+LCB-FT de SBF sont peu nombreux, la Commission ayant en outre écarté le premier, relatif à la
+classification des risques (grief 1) ; que les montants sur lesquels portaient les opération visées dans les
+dossiers individuels, élevés en valeur absolue, doivent être relativisés au regard de la spécialisation de cet
+établissement qui a indiqué rechercher une clientèle connaissant les produits complexes et prête à prendre
+des risques ; qu’il convient également de tenir compte, dans une certaine mesure, des actions correctrices
+mises en œuvre par SBF depuis la mission de contrôle, attestées par un cabinet d’audit qui a notamment
+confirmé l’achèvement de la mise à jour de la connaissance des clients et la bonne application de la
+procédure concernant les mouvements sur les comptes des clients, interdisant les mouvements en provenance
+ou à destination de tiers ;
+62. Considérant que les manquements retenus par la Commission justifient, compte tenu de leur nature et
+de leur gravité et au vu des éléments mentionnés ci-dessus, le prononcé d’un blâme ; que, pour les mêmes
+raisons et dans le respect du principe de proportionnalité au regard de l’assise financière de SBF, une
+sanction pécuniaire de 900 000 euros sera également prononcée ;
+63. Considérant que SBF fait valoir qu’à la différence d’autres opérateurs sur les marchés dérivés, elle
+s’est soumise à la supervision de l’ACPR et qu’une publication nominative de la présente décision pourrait
+orienter les investisseurs vers des acteurs peu scrupuleux qui offrent des services en ligne ; que toutefois,
+cette circonstance, pour plausible qu’elle soit, ne conduit pas la Commission à estimer que la publication
+nominative de la présente décision causerait à SBF un préjudice disproportionné ; qu’elle n’est pas non plus
+Autorité de contrôle prudentiel et de résolution 13
+
+===== Page 14 =====
+Décision de la Commission des sanctions – procédure no 2016-01
+de nature à perturber gravement les marchés financiers ; que la présente décision sera donc publiée sous cette
+forme ;
+PAR CES MOTIFS
+DÉCIDE :
+ARTICLE 1ER – Il est prononcé à l’encontre de SBF un blâme et une sanction pécuniaire de
+900 000 euros (neuf cent mille euros).
+ARTICLE 2 – La présente décision sera publiée au registre de l’ACPR et pourra être consultée au
+secrétariat de la Commission.
+Le Président de la Commission
+des sanctions
+[Rémi BOUCHEZ]
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification et
+dans les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 14

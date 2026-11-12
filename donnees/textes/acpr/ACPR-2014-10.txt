@@ -1,0 +1,318 @@
+===== Page 1 =====
+TICKET SURF INTERNATIONAL
+Procédure no 2014-10
+–––––
+Blâme et sanction pécuniaire
+de 50 000 euros
+–––––
+Audience du 2 octobre 2015
+Décision rendue le 16 octobre 2015
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 4 novembre 2014 par laquelle le Président de l’Autorité de contrôle prudentiel et de
+résolution (ci-après l’ACPR) informe la Commission de ce que le Collège de supervision de l’ACPR (ci-
+après le Collège), statuant en sous-collège sectoriel de la banque, a décidé, lors de sa séance du 6 octobre
+2014, d’ouvrir une procédure disciplinaire à l’encontre de la société Ticket Surf International (ci-après TSI),
+ayant son siège social 11-15, rue Jean-Jaurès, 92800 Puteaux, enregistrée sous le numéro 2014-10 ;
+Vu la notification de griefs du 4 novembre 2014 ;
+Vu les mémoires en défense des 19 décembre 2014, 2 mars 2015 et 11 mai 2015, ainsi que les pièces qui
+les accompagnent, par lesquels l’établissement conteste le grief 3 relatif au respect de la dérogation aux
+obligations d’identification et de vigilance à l’égard de la clientèle et fait valoir, pour le reste, les efforts
+accomplis depuis le contrôle pour remédier aux manquements constatés ;
+Vu les mémoires des 9 février 2015 et 20 avril 2015, par lesquels M. Christian Poirier, représentant le
+Collège, maintient l’ensemble des griefs notifiés ;
+Vu le rapport du 25 août 2015 de Mme Elisabeth Pauly, rapporteur, dans lequel celle-ci conclut que sont
+fondés les griefs 1, 2 et 5, qu’est partiellement fondé le grief 4, tandis que doit être écarté le grief 3 ;
+Vu les courriers du 27 août 2015 convoquant les parties à la séance de la Commission du 2 octobre 2015
+et les informant de la composition de celle-ci lors de cette séance ;
+Vu les observations présentées le 17 septembre 2015 par le représentant du Collège sur le rapport du
+rapporteur ;
+Vu les autres pièces du dossier, notamment le rapport de contrôle signé le 17 avril 2014 par Mme Sabine
+Stephan, chef de mission ;
+Vu le code monétaire et financier (ci-après le CMF), dans sa rédaction en vigueur au moment des faits,
+notamment ses articles L. 526-32, L. 561-5, L. 612-39, R. 561-16, R. 561-38 et R. 612-35 à R. 612-51 ;
+Vu le règlement no 97-02 du 21 février 1997 modifié du Comité de la réglementation bancaire et
+financière relatif au contrôle interne des établissements de crédit et des entreprises d’investissement (ci-après
+le règlement no 97-02), dans sa rédaction en vigueur au moment des faits, notamment son article 11-7 ;
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2014-10
+Vu l’arrêté du 3 novembre 2014 relatif au contrôle interne des entreprises du secteur de la banque, des
+services de paiement et des services d’investissement soumises au contrôle de l’Autorité de contrôle
+prudentiel et de résolution (ci-après l’arrêté du 3 novembre 2014), qui a abrogé et remplacé le règlement
+no 97-02, notamment son article 46 ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACPR, composée de M. Rémi Bouchez, Président, et de MM. Yves
+Breillat, Jean-Pierre Jouguelet, Thierry Philipponnat et Patrice Ract-Madoux ;
+Après avoir décidé de faire droit à la demande de l’établissement tendant à ce que l’audience ne soit pas
+publique et entendu, lors de sa séance du 2 octobre 2015 :
+− Mme Pauly, rapporteur, assisté de Mme Aline Waleffe, son adjointe ;
+− M. Armel Castets, représentant du directeur général du Trésor, qui a indiqué ne pas avoir d’observations à
+formuler ;
+− M. Poirier, représentant le Collège de l’ACPR, assisté de Mme Anne-Marie Moulin, adjointe au directeur
+des affaires juridiques de l’ACPR, de M. Jean-Gaspard d’Ailhaud de Brisis, chef du service des affaires
+institutionnelles et du droit public, de Mmes Sophie Le Goff et Nassera Tamer, cadres au sein de ce service,
+et de Mme Sylvie Pipponiau, adjointe au chef du service des établissements spécialisés à la 2e direction du
+contrôle des banques ; M. Poirier a proposé le prononcé d’un blâme assorti d’une sanction pécuniaire de
+l’ordre de 100 000 euros, dans une décision publiée sous une forme nominative ; au terme de l’audience,
+il s’en est remis sur ces deux derniers points à l’appréciation de la Commission ;
+− Le président-directeur général de TSI, assisté du directeur général délégué, du directeur administratif et
+financier et du contrôle interne, et du responsable juridique ;
+Les représentants de TSI ayant eu la parole en dernier ;
+Après avoir délibéré en la seule présence de MM. Bouchez, Breillat, Jouguelet, Philipponnat et
+Ract-Madoux, ainsi que de M. Jean-Manuel Clemmer, chef du service de la Commission des sanctions
+faisant fonction de secrétaire de séance ;
+1. Considérant que TSI, société anonyme créée en 2003, est détenue par la Société de Paiement Innovant
+par Internet (SP2I), entité holding dont les fonds d’investissement Axa Placement Innovation VIII, IX et X,
+gérés par la société Ardian (ex-Axa Private Equity), sont actionnaires, ensemble, à hauteur de 30,4 % ;
+qu’agréée en 2010 en tant que société financière exclusivement habilitée à émettre de la monnaie
+électronique (ci-après ME), elle a été transformée en établissement de ME à la suite de l’adoption de la loi
+no 2013-100 du 28 janvier 2013 ; que son produit net bancaire était, à fin 2012, de 5 936 000 euros, tandis
+que son résultat net s’élevait à 1 360 000 euros ; qu’en 2014, ce dernier s’est élevé à 390 143 euros ; qu’à la
+fin de ce même exercice, ses fonds propres après affectation et distribution s’élevaient à 1 864 134 euros
+(3 059 134 euros avant affectation et distribution);
+2. Considérant que TSI a fait l’objet d’un contrôle sur place du 18 septembre au 5 novembre 2013, qui a
+donné lieu à la signature d’un rapport définitif le 17 avril 2014 (ci-après le rapport de contrôle) ; qu’au vu de
+ce rapport, le Collège, statuant en sous-collège sectoriel de la banque, a décidé, lors de sa séance du
+6 octobre 2014, d’ouvrir la présente procédure disciplinaire ; que sont reprochés à TSI des manquements
+relatifs à la protection des fonds collectés en contrepartie de l’émission de ME (I) et au respect de ses
+obligations en matière de lutte contre le blanchiment des capitaux et le financement du terrorisme (ci-après
+LCB-FT) (II) ;
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2014-10
+I. Sur la protection des fonds collectés
+en contrepartie de l’émission de la monnaie électronique (grief 1)
+3. Considérant que l’article L. 526-32 du CMF, dans sa rédaction en vigueur pendant la période contrôlée,
+impose que les fonds collectés en contrepartie de l’émission de ME soient protégés (i) soit par leur dépôt sur
+un compte ouvert d’un établissement de crédit habilité à recevoir des fonds du public, en étant en aucun cas
+confondus avec les fonds de personnes physiques ou morales autres que les détenteurs de ME, au plus tard à
+la fin du jour ouvrable suivant leur collecte lorsqu’ils le sont en espèces et, lorsqu’ils sont collectés
+autrement, dès leur crédit au compte de l’établissement de ME et, en tout état de cause, au plus tard cinq
+jours ouvrables après l’émission de la ME ; (ii) soit en étant couverts, dans les délais précités, par un contrat
+d’assurance ou une autre garantie comparable d’une entreprise d’assurance, d’une société de financement ou
+d’un établissement de crédit n’appartenant pas au même groupe, au sens de l’article L. 233-3 du code de
+commerce, selon des modalités définies par arrêté du ministre chargé de l’économie qui assurent ou
+garantissent les détenteurs de ME contre la défaillance de l’établissement de ME dans l’exécution de ses
+obligations financières ;
+4. Considérant que, selon le grief 1, si TSI disposait dans les livres de l’établissement de crédit A, au
+moment du contrôle sur place, d’un compte de cantonnement des fonds collectés en contrepartie de
+l’émission de ME, une part significative de ceux collectés par les membres des réseaux de distribution était
+dirigée non pas vers ce compte, mais vers un compte de dépôt ouvert par TSI auprès de l’établissement de
+crédit B ; que pendant le premier semestre 2013, environ 11 millions d’euros ont ainsi été crédités sur ce
+dernier ; qu’en outre, TSI n’avait pas mis en place de dispositif opérationnel permettant la protection des
+fonds collectés en contrepartie de l’émission de ME dans les délais requis par la législation, les distributeurs
+membres des réseaux de distribution conservant les fonds pendant plusieurs jours, voire plusieurs semaines ;
+qu’ainsi, au 30 juin 2013, des sommes pour un montant total de 5 453 415 euros, versées par les détenteurs
+de ME et conservées par les distributeurs au-delà des délais requis pour les cantonner, étaient comptabilisées
+par TSI en « créances diverses »; qu’une telle pratique peut entraîner des difficultés sérieuses de
+recouvrement, comme l’a montré, en juillet 2013, le contentieux de TSI avec la société C qui, en juillet 2013,
+s’était déclarée dans l’incapacité de lui verser la somme de 1 278 530,09 euros, correspondant au montant de
+fonds collectés qui auraient dû être cantonnés avant le 30 juin 2013 ; qu’elle peut avoir des conséquences
+graves sur sa situation financière et remettre en cause sa capacité à faire face aux dépenses effectuées par les
+détenteurs de ME ou à leurs demandes de remboursement ; qu’au demeurant, en l’absence d’interface
+automatique entre sa plateforme de gestion des tickets de ME et les systèmes d’information des distributeurs,
+TSI n’était pas en mesure de connaître en temps réel le nombre et le montant des tickets mis en circulation et
+de déterminer le montant exact des fonds à protéger ;
+5. Considérant que le non-respect par TSI, à la date du contrôle, de ses obligations en matière de
+cantonnement des fonds des clients, ressort des pièces du dossier et n’est au demeurant pas contesté par
+l’établissement ; qu’à la suite de la mise en demeure par le Secrétariat général de l’ACPR de protéger les
+fonds collectés conformément aux exigences légales, TSI a conclu une convention avec l’entreprise
+d’assurance D, succursale française de l’entreprise d’assurance belge E, prenant effet le 1er mars 2015 ; que
+le Collège a, lors de sa séance du 13 avril 2015, regardé cette garantie comme conforme aux exigences de
+l’article L. 526-32 ci-dessus mentionné ; que son représentant dans la présente procédure a pris « acte de
+cette mesure de remédiation qui répond aux attentes de l’Autorité » ; que cette régularisation est toutefois
+sans conséquence sur le grief, qui est établi au moment du contrôle ;
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2014-10
+II. Sur le dispositif de lutte contre le blanchiment
+des capitaux et le financement du terrorisme (griefs 2 à 5)
+1o Sur la classification des risques
+de blanchiment des capitaux et de financement du terrorisme
+6. Considérant que le 2o du I de l’article R. 561-38 du CMF impose aux établissements assujettis, pour
+l’application de l’article L. 561-32 du même code, d’élaborer une classification des risques de blanchiment
+des capitaux et de financement du terrorisme présentés par leurs activités, selon le degré d’exposition à ces
+risques apprécié en fonction notamment de la nature des produits ou des services offerts, des conditions des
+transactions proposées, des canaux de distribution utilisés et des caractéristiques des clients ;
+7. Considérant que, selon le grief 2, TSI a élaboré une classification des risques qui ne couvrait, à la date
+du contrôle, qu’une faible partie de ses activités ; que l’activité dénommée Direct Payment (ci-après le DP,
+cf. considérant 10), de même que la distribution de ME par des réseaux de points de vente physiques, qui
+ensemble en représentaient 99 %, n’y étaient pas traitées ;
+8. Considérant que les constats de la mission de contrôle sur cette question ne sont pas utilement
+contestés, malgré les affirmations de TSI selon lesquelles cette classification « existait en pratique » ; que les
+mesures correctrices présentées et en particulier la classification des risques du 17 février 2015, postérieures
+au contrôle, ne peuvent conduire à remettre en cause le grief, qui est établi ;
+2o Sur le respect des obligations d’identification et de connaissance de la clientèle
+9. Considérant que le premier alinéa du I de l’article L. 561-5 du CMF impose aux établissements
+assujettis, avant d’entrer en relation d’affaires avec leur client ou de l’assister dans la préparation ou la
+réalisation d’une transaction, d’identifier celui-ci et, le cas échéant, le bénéficiaire effectif de la relation
+d’affaires par des moyens adaptés, et de vérifier ces éléments d’identification sur présentation de tout
+document écrit probant ; qu’aux termes de l’article L. 561-6 de ce code, « Avant d’entrer en relation
+d'affaires avec un client, les personnes mentionnées à l’article L. 561-2 recueillent les informations relatives
+à l'objet et à la nature de cette relation et tout autre élément d’information pertinent sur ce client. / Pendant
+toute sa durée et dans les conditions fixées par décret en Conseil d'État, ces personnes exercent sur la
+relation d’affaires, dans la limite de leurs droits et obligations, une vigilance constante et pratiquent un
+examen attentif des opérations effectuées en veillant à ce qu’elles soient cohérentes avec la connaissance
+actualisée qu’elles ont de leur client. » ; que cependant, selon le 5o de l’article R. 561-16 du CMF, en
+application du II de l’article L. 561-9, les établissements assujettis « ne sont pas soumis aux obligations de
+vigilance prévues aux articles L. 561-5 et L. 561-6, pour autant qu’il n’existe pas de soupçons de
+blanchiment des capitaux ou de financement du terrorisme, lorsque l’opération porte sur les produits
+suivants : (…) / 5o la monnaie électronique ayant vocation à être utilisée uniquement pour l’acquisition de
+biens ou de services, à l’exclusion des opérations mentionnées au 3o du II de l’article R. 561-10, pour autant
+que la capacité maximale du support ne soit pas supérieure à 250 euros si le support ne peut pas être
+rechargé ou, si le support peut être rechargé, pour autant qu’une limite de 2 500 euros soit fixée pour le
+montant total des opérations sur une année civile (…) » ;
+10. Considérant que le DP désigne l’activité par laquelle TSI collecte pour le compte de sites marchands
+des règlements par carte bancaire qui leur sont destinés ; qu’à la date du contrôle, cette activité représentait
+81 % des flux de ME émise par TSI ; que plus de 40 % des transactions dépassaient alors le seuil de
+250 euros tandis que plus de la moitié, en montant, avait été effectuée par environ 2 000 clients ; que, dans le
+cadre de cette activité, TSI était, à la date du contrôle, exclusivement en relation avec des intermédiaires et
+non avec les sites marchands eux-mêmes, les comptes bénéficiaires des virements qu’elle émettait dans ce
+cadre étant principalement situés à Malte ou dans des pays nordiques ; que TSI, émetteur d’instruments de
+ME non rechargeables dont la capacité est limitée à 250 euros, émet a posteriori, pour chaque opération de
+DP, autant de tickets de ce montant que nécessaire au règlement du bien ou service ; que ces émissions
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2014-10
+fractionnées peuvent concerner des opérations de plusieurs milliers d’euros, le système ayant été paramétré
+pour autoriser des transactions jusqu’à 100 000 euros ;
+11. Considérant que, selon la poursuite, TSI n’a pas, dans le cadre de son activité de DP, respecté ses
+obligations d’identification, de vérification de l’identité et de connaissance de ses clients (griefs 3 et 4) ;
+12. Considérant que, selon le grief 3, la pratique des émissions fractionnées ci-dessus décrite a conduit
+TSI à méconnaître les conditions de la dérogation aux obligations de vigilance prévues au 5o de l’article R.
+561-16 du CMF et, de ce fait, à ne pas respecter les obligations de vigilance prévues aux articles L. 561-5 et
+L. 561-6 de ce code ;
+13. Considérant que, compte tenu de son objet, qui est de ne soustraire aux obligations de vigilance que
+les opérations d’un montant très faible, cette dérogation ne saurait s’appliquer à l’émission a posteriori d’un
+montant cumulé de tickets de ME non rechargeables égal à celui d’une seule et unique transaction dépassant
+le plafond prévu ; que si TSI soutient que cette « fragmentation des transactions dans le cadre du DP (en
+"tickets" techniques) n’est qu’une conséquence d’une limitation technique à l’origine, TSI n’étant pas à
+l’époque capable d’émettre de la ME "en vrac" » et ne traduit aucune intention de sa part de ne pas respecter
+ses obligations, cela est sans incidence sur le grief, qui est établi ;
+14. Considérant que, selon le grief 4, TSI n’a pas respecté ses obligations d’identification et de
+vérification de l’identité de ses clients finaux et des sites marchands avec lesquels elle est en relation
+d’affaires ; qu’ainsi, les informations demandées et recueillies au sujet des premiers, quel que soit le montant
+de la transaction, étaient succinctes (adresse Internet, nom et prénom, adresse IP de connexion et code postal
+du domicile) et les réponses, non vérifiées, étaient parfois fantaisistes et ne permettaient pas d’identifier les
+personnes concernées ; que TSI ne disposait, sauf exception, d’aucun justificatif d’identité ou de domicile
+des clients ; que, de même, les sites marchands sur lesquels les clients finaux achètent des biens ou services
+qu’ils règlent par DP n’étaient pas systématiquement identifiés, du fait notamment de l’entremise
+d’intermédiaires par lesquels transitent les règlements ;
+15. Considérant que, si TSI a soutenu, pendant la phase écrite de la présente procédure, qu’elle pouvait,
+pour ces opérations, bénéficier de la dérogation prévue au 5o de l’article R. 561-16 du CMF, il résulte de ce
+qui a été dit ci-dessus (considérant 13) que tel n’était pas le cas ; qu’à l’audience, l’établissement a donné des
+indications précises sur le champ des diligences désormais accomplies en matière d’identification de ses
+clients et relations d’affaires ;
+16. Considérant tout d’abord que, s’agissant des clients finaux, TSI reconnaît que les informations
+collectées en matière d’identification étaient, à la date du contrôle, « limitées » ; que, contrairement à ce
+qu’elle soutient, la société TSI ne pouvait, faute d’avoir conclu un contrat d’externalisation conforme aux
+dispositions de l’article 37-2 du règlement no 97-02, désormais reprises à l’article 238 de l’arrêté du
+3 novembre 2014, s’en remettre aux diligences effectuées par les sites marchands ; que des améliorations
+significatives ont été mises en œuvre depuis le contrôle qui ont notamment consisté en (i) la généralisation,
+encore en cours, de l’emploi d’une interface prévoyant de renseigner 14 points d’identification, désormais
+obligatoirement utilisée par « tout nouveau site marchand » partenaire et qui couvre une part croissante des
+transactions ; (ii) un « dispositif de traçabilité des dépenses des clients depuis une année civile (qui) permet
+d’identifier ceux qui dépassent le seuil des 2 500 € », résultant de la mise en place, postérieure au contrôle,
+d’un portefeuille électronique permettant de suivre toutes les transactions ; (iii) la vérification, en cas de
+doute, que le site possède bien les éléments d’identification du client, dont il doit alors lui fournir copie ; que,
+toutefois, ces mesures correctrices, tardives et qui devront, le cas échéant, être contrôlées, sont sans
+conséquence sur cette partie du grief ;
+17. Considérant ensuite que l’article L. 561-2-1 du CMF dispose qu’une relation d’affaires est nouée
+lorsqu’un organisme assujetti « engage une relation professionnelle ou commerciale qui est censée, au
+moment où le contact est établi, s’inscrire dans une certaine durée » ; que si une telle relation peut être
+prévue par un contrat prévoyant la réalisation de plusieurs opérations successives ou qui crée aux
+contractants des obligations continues, elle l’est également « lorsqu’en l’absence d’un tel contrat un client
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2014-10
+bénéficie de manière régulière de l’intervention d’une personne susmentionnée pour la réalisation de
+plusieurs opérations ou d’une opération présentant un caractère continu » ; qu’il résulte tant du dossier que
+des indications fournies à l’audience que les intermédiaires mais aussi les sites marchands avec lesquels TSI
+est en relation entrent dans le champ de ces dispositions ; que les actions entreprises depuis la fin de la
+mission de contrôle, dont il résulte que, en application d’un nouveau contrat cadre mis en place en juin 2014,
+le site marchand partenaire est identifié et les informations communiquées à ce titre vérifiées, ne peuvent
+conduire à remettre en cause le grief 4, qui est établi au moment du contrôle ;
+3o Sur le dispositif de surveillance des opérations en matière de LCB-FT
+18. Considérant que le premier alinéa du 2.2 de l’article 11-7 du règlement no 97-02, en vigueur pendant
+la période contrôlée, impose aux entreprises assujetties de se doter de dispositifs de suivi et d’analyse de
+leurs relations d’affaires, fondés sur la connaissance de leur clientèle, permettant notamment de détecter les
+opérations qui constituent des anomalies au regard du profil des relations d’affaires et qui pourraient faire
+l’objet d’un examen renforcé mentionné au II de l’article L. 561-10-2 ou d’une déclaration de soupçon (ci-
+après DS) prévue à l’article L. 561-15 du CMF ; que ces dispositions ont été reprises à l’article 46 de l’arrêté
+du 3 novembre 2014 ;
+19. Considérant que, selon le grief 5, depuis son agrément en octobre 2010 jusqu’au contrôle sur place,
+TSI n’avait pas mis en place de dispositif de suivi et d’analyse de ses relations d’affaires lui permettant
+notamment de détecter des anomalies et des opérations atypiques en vue d’effectuer des DS ; que, pourtant,
+le titulaire de la « cellule fraude monétique LCB-FT » avait, le 27 juillet 2013, décrit les besoins fonctionnels
+dans ce domaine et, prévoyant des critères d’alerte, présenté une demande d’expression des besoins destinée
+à mettre en place un tel dispositif ; qu’au contraire, le dispositif de surveillance des opérations de TSI, qui
+n’a effectué qu’une DS, de surcroît à la suite de plusieurs réquisitions judiciaires, présentait de graves
+lacunes ; qu’ainsi, il a été défaillant concernant la surveillance des opérations des dix clients dont les
+montants cumulés des opérations respectives sur les neuf premiers mois de l’année 2013 ont été les plus
+importants, seuls deux de ces clients ayant suscité des interrogations sans pour autant faire l’objet d’aucun
+suivi adéquat ; que si la mise en place dudit dispositif était en cours au moment du contrôle, elle n’avait été
+que partiellement réalisée à la fin de celui-ci ;
+20. Considérant que le dispositif de surveillance des opérations de TSI était très insuffisant à la date du
+contrôle sur place, malgré l’expression de besoins fonctionnels ci-dessus mentionnée, de sorte que les
+obligations rappelées ci-dessus n’étaient pas respectées ; que les dysfonctionnements constatés par la mission
+de contrôle dans la production des données de gestion ne permettaient pas de détecter les opérations devant
+donner lieu à un examen approfondi ou à l’envoi d’une DS au service Tracfin ; que TSI présente diverses
+mesures, décidées depuis la fin du contrôle sur place, qui ont notamment consisté à instaurer un rapport
+hebdomadaire de la « cellule fraude monétique LCB-FT » à l’organe exécutif, à créer un « Comité des
+risques opérationnels et de conformité » (CROC), à mettre en place un « outil de LAB » et à recourir, pour la
+détection des personnes politiquement exposées, à l’outil F ; que si le faible nombre de DS dans la période
+qui a précédé l’ouverture de la présente procédure ne peut, en soi, caractériser un manquement, sa
+progression récente (quatre DS adressées de juin 2013 à fin 2014) apparaît comme un élément favorable
+d’appréciation du dispositif mis en place après l’achèvement de la mission de contrôle ; que les mesures
+correctrices présentées sont toutefois sans conséquence sur le grief 5, qui est établi ;
+*
+* *
+21. Considérant qu’en ne respectant pas, pendant une longue période, l’obligation de protection des fonds
+collectés en contrepartie de l’émission de ME, TSI a méconnu l’une des exigences essentielles de la
+réglementation applicable aux établissements de ME (grief 1) ; que, de plus, son dispositif de LCB-FT
+présentait à la date du contrôle de sérieuses lacunes, qu’il s’agisse de la classification des risques (grief 2),
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2014-10
+des diligences mises en œuvre en matière d’identification et de connaissance des clients et des relations
+d’affaires (griefs 3 et 4) ou de la surveillance de leurs opérations (grief 5) ; que ces manquements appellent
+une sanction significative de cet établissement ;
+22. Considérant cependant qu’il résulte de l’instruction, ainsi que des échanges intervenus lors de
+l’audience du 2 octobre 2015, que la situation ci-dessus décrite n’est plus celle dans laquelle se trouve
+aujourd’hui l’établissement, dont la gouvernance et l’encadrement ont été substantiellement changés depuis
+le contrôle ; que, ainsi qu’il a été dit précédemment, certaines actions correctrices ont d’ores et déjà été mises
+en œuvre et produit des effets, telles que la mise en place d’une garantie des fonds des clients, une meilleure
+analyse des risques, notamment en matière de LCB-FT, qui a abouti à leur classification, la définition de
+règles relatives à l’entrée en relation d’affaires et à l’interruption des relations avec certains clients, ainsi que
+l’amélioration des diligences faites en matière d’identification et de connaissance des différentes catégories
+de clients et de relations d’affaires et de surveillance de leurs opérations ; que, lors de l’audience, le
+président-directeur général de TSI, nommé en avril 2013, a clairement marqué sa volonté de concilier le
+développement de l’établissement avec un strict respect des exigences réglementaires auxquelles il est
+soumis ;
+23. Considérant, au total, que compte tenu de ce qui précède, il apparaît approprié de prononcer à
+l’encontre de TSI un blâme et une sanction pécuniaire 50 000 euros ;
+24. Considérant que TSI a fait valoir lors de l’audience qu’une publicité nominative de la présente
+décision lui causerait du tort ; que la Commission estime toutefois qu’en l’espèce, il ne résulte pas d’une telle
+publicité un préjudice disproportionné pour l’établissement au sens de l’article L. 612-39 du CMF, compte
+tenu de la gravité des manquements rappelés ci-dessus ; qu’en outre, la Commission lui donne acte, dans la
+présente décision, des corrections apportées et des orientations retenues par la direction désormais en place ;
+PAR CES MOTIFS
+DÉCIDE :
+Article 1er – Il est prononcé à l’encontre de la société Ticket Surf International un blâme ainsi qu’une
+sanction pécuniaire de 50 000 euros (cinquante mille euros).
+Article 2 – La présente décision sera publiée au registre de l’ACPR et pourra être consultée au secrétariat de
+la Commission.
+Le Président
+de la Commission des sanctions
+[Rémi BOUCHEZ]
+Conseiller d’État
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification et dans
+les conditions prévues au IV de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 7

@@ -1,0 +1,777 @@
+===== Page 1 =====
+SIGUE GLOBAL SERVICES SAS
+Procédure no 2017-07
+–––––
+Blâme et sanction pécuniaire
+de 100 000 euros
+–––––
+Audience du 23 mai 2018
+Décision rendue le 13 juin 2018
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 27 juin 2017 par laquelle le Président de l’Autorité de contrôle prudentiel et de résolution
+(ci-après « l’ACPR ») informe la Commission de ce que le Collège de supervision de l’ACPR (ci-après le
+« Collège »), statuant en sa formation de Collège restreint, a décidé d’ouvrir une procédure disciplinaire à
+l’encontre de la société Sigue Global Services SAS (ci-après « Sigue SAS »), 85 rue du Dessous-des-Berges,
+75013 Paris, enregistrée sous le no 2017-07 ;
+Vu la notification des griefs du 27 juin 2017 ;
+Vu les mémoires en défense des 23 octobre 2017 et 19 février 2018 par lesquels Sigue SAS conteste
+partiellement les griefs, présente les actions correctrices prises depuis le contrôle et demande que la décision
+à intervenir soit publiée sous une forme non nominative ;
+Vu les mémoires en réplique des 21 décembre 2017 et 9 mars 2018, par lesquels Mme Ariane Obolensky,
+représentante du Collège, maintient l’ensemble des griefs notifiés en réduisant toutefois le champ de deux
+d’entre eux ;
+Vu le rapport du 18 avril 2018 de Mme Elisabeth Pauly, rapporteur, dans lequel celle-ci conclut que 16 des
+17 griefs notifiés sont établis, dont deux dans un périmètre réduit (griefs 1 et 7), tandis qu’un grief doit être
+écarté (grief 4) ;
+Vu les courriers du 19 avril 2018 convoquant les parties à l’audience et les informant de la composition
+de la Commission et de ce qu’il sera fait droit à la demande présentée par Sigue SAS tendant à ce que cette
+audience ne soit pas publique ;
+Vu les autres pièces du dossier, notamment le rapport de contrôle du 27 juin 2016 et les pièces produites
+par Sigue SAS en réponse aux demandes du rapporteur ;
+Vu le code monétaire et financier (ci-après le « CMF »), notamment ses articles L. 561-6, L. 561-8,
+L. 561-10, L. 561-10-1, L. 561-10-2, L. 561-15, L. 561-15-1, L. 562-3, R. 561-12, R. 561-31, R. 561-38,
+R. 562-2 et D. 561-31-1, dans leur rédaction en vigueur au moment du contrôle sur place ;
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2017-07
+Vu l’arrêté du 3 novembre 2014 relatif au contrôle interne des entreprises du secteur de la banque, des
+services de paiement et des services d’investissement soumises au contrôle de l’Autorité de contrôle
+prudentiel et de résolution (ci-après « l’arrêté du 3 novembre 2014 »), notamment ses articles 11, 13, 14, 25,
+26, 38, 46, 47, 49, 50, 51, 55, 61, 64, 71, 234 et 238 ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACPR, composée de M. Rémi Bouchez, Président, de Mmes Claudie
+Aldigé et Claudie Boiteau et de MM. Christian Lajoie et Denis Prieur ;
+Après avoir entendu, lors de sa séance non publique du 23 mai 2018 :
+– Mme Pauly, rapporteur, assistée de Mme Marie Mallard Saïh, son adjointe ;
+– Mme Priscille Merle, représentante de la directrice générale du Trésor ;
+– Mme Obolensky, représentante du Collège, assistée de M. Laurent Schwebel, chef du service des
+affaires institutionnelles et du droit public à la direction des affaires juridiques, de Mme Pauline de la
+Bouillerie et de M. Emmanuel Gary, juristes au sein de ce service, ainsi que de M. Philippe Ruez,
+responsable du pôle de contrôle permanent LCB-FT de la deuxième direction du contrôle des banques,
+et de Mme Marine Soubielle, contrôleur au sein de cette direction ; Mme Obolensky a proposé à la
+Commission de prononcer un blâme et une sanction pécuniaire de 90 000 euros dans une décision
+publiée sous une forme nominative ;
+– Sigue SAS, représentée par son président, assisté par son directeur général, par la « chief operating
+officer » de Sigue Global Services, ainsi que par Mes Antoine Juaristi, Martin Le Touzé et Elena
+Kormosh, avocats à la Cour (cabinet Herbert Smith Freehills Paris LLP) ;
+Après avoir délibéré en la seule présence de M. Bouchez, Président, de Mmes Aldigé et Boiteau et de
+MM. Lajoie et Prieur, ainsi que de M. Jean-Manuel Clemmer, chef du service de la Commission des
+sanctions faisant fonction de secrétaire de séance ;
+1. Considérant que l’établissement de paiement Sigue SAS, ex-Coinstar Money Transfer SAS (ci-après
+« Coinstar »), fait partie du groupe américain Sigue qui l’a racheté en 2011 ; que son capital est
+intégralement détenu par un associé unique, la société Sigue Global Services Corp, dont le siège est situé au
+Kansas (États-Unis), elle-même filiale de la société Sigue Corp dont le siège opérationnel est en Californie ;
+que ce groupe est spécialisé dans « le transfert d’argent par des personnes physiques dans un cadre familial,
+ou entre personnes faisant partie d’un cercle proche » ; que, lors du contrôle, Sigue SAS disposait de 20
+agences sur le territoire national dont 9 à Paris, héritées de Coinstar, et employait environ 70 salariés ; que
+Sigue SAS propose, en France, les services du groupe Sigue aux côtés de sa société sœur Sigue Global
+Services Ltd (ci-après « Sigue Ltd »), établissement de paiement britannique, agréé par la Financial Conduct
+Authority, qui exerce son activité sur le territoire national par l’intermédiaire d’un réseau d’environ 150
+agents ; qu’en 2017, Sigue SAS a réalisé un produit net bancaire de (…) euros (contre (…) euros en 2016) et
+enregistré une perte nette de (…) euros (contre une perte nette de (…) euros en 2016) résultant notamment,
+selon les explications de l’établissement, de la baisse continue des marges et des évolutions technologiques
+dans ce secteur ; que les flux depuis la France vers la Chine (ci-après le « corridor Chine ») qui
+représentaient plus de (…) % du montant total des transactions effectuées par Sigue en France en 2014 et
+2015, ont été sensiblement réduits, ce qui a également contribué à cette diminution de l’activité et des
+résultats de Sigue SAS ;
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2017-07
+2. Considérant que Sigue SAS a fait l’objet d’un contrôle sur place du 29 octobre 2015 au 24 février 2016
+portant sur son dispositif de lutte contre le blanchiment des capitaux et le financement du terrorisme (ci-après
+« LCB-FT ») ; que ce contrôle a donné lieu à la signature d’un rapport définitif le 27 juin 2016 (ci-après le
+« rapport de contrôle ») ; qu’au vu de ce rapport, le Collège a décidé, lors de sa séance du 29 mai 2017,
+d’ouvrir la présente procédure disciplinaire ;
+I. Sur le contenu des procédures LCB-FT
+3. Considérant que le 4o du I de l’article R. 561-38 du CMF dispose que les organismes assujettis
+« définissent les procédures à appliquer pour le contrôle des risques, la mise en œuvre des mesures de
+vigilance relatives à la clientèle, la conservation des pièces, la détection des transactions inhabituelles ou
+suspectes et le respect de l’obligation de déclaration au service TRACFIN » ; que les articles 61 et 64 de
+l’arrêté du 3 novembre 2014 leur imposent de définir les procédures à appliquer en matière de LCB-FT, en
+tenant en compte les risques identifiés par leur classification des risques et en définissant notamment les
+mesures de vigilance complémentaires ou renforcées à mettre en œuvre pour les relations d’affaires
+mentionnées aux articles L. 561-10, L. 561-10-1 et L. 561-10-2 du CMF ainsi que « Les éléments nécessaires
+à la connaissance adéquate de la relation d’affaires et, le cas échéant, du bénéficiaire effectif, notamment
+parmi ceux mentionnés à l’arrêté du 2 septembre 2009 susvisé, ainsi que la fréquence de leur mise à jour » ;
+4. Considérant que, selon le grief 1, fondé sur ces dispositions, les procédures de l’établissement relatives
+à la LCB-FT, essentiellement constituées du « manuel de lutte contre le blanchiment des capitaux et du
+financement du terrorisme » (ci-après le « manuel LCB-FT »), dans sa version de décembre 2013 et du
+« manuel des procédures » mis à jour en juin 2015, contiennent des références réglementaires abrogées ; qu’à
+titre d’exemple, pour la vérification de l’identité du client occasionnel, le premier de ces manuels mentionne
+l’article R. 563-1 du CMF dont les dispositions ont été abrogées en septembre 2009, soit 4 ans avant la date
+de la dernière mise à jour de cette procédure ; que les dispositions qu’il contient au sujet de l’identification
+des clients occasionnels sont de plus contradictoires puisqu’il indique à la fois que l’identité d’un client
+occasionnel doit être vérifiée quel que soit le montant de l’opération de transmission de fond et que cette
+vérification doit être faite lorsque le montant de l’opération dépasse (…) euros ; qu’ensuite, ces procédures
+ne prévoyaient pas le recueil d’éléments de connaissance des clients à l’entrée en relation d’affaires comme
+l’exigent les dispositions des articles L. 561-68 et R. 561-12 du CMF, mais seulement lors du franchissement
+de seuils de montant d’opérations ; qu’au surplus, Sigue SAS n’a effectivement recueilli des éléments de
+connaissance de la clientèle que dans 22 cas sur les 855 cas de franchissement de ces seuils au cours des 9
+premiers mois de l’année 2015 ; que la teneur des mesures de vigilance « complémentaires » prévues à
+l’égard de la clientèle présentant des risques élevés de blanchiment des capitaux et de financement du
+terrorisme (ci-après « BC-FT ») au regard de certains lieux de résidence mentionnés dans la classification
+des risques de l’établissement n’est précisée que pour ce qui concerne les personnes politiquement
+exposées ;
+5. Considérant, en premier lieu, que la société Sigue SAS conteste le grief, admettant seulement la
+nécessité, à la date du contrôle, d’améliorer ses procédures ; qu’ainsi, elle soutient que les références des
+dispositions mentionnées dans son manuel LCB-FT étaient parfois obsolètes mais pas le contenu des
+obligations exposées, qui n’ont pas été modifiées dans leur portée ; que toutefois, contrairement à ce qui est
+soutenu, les obligations de vigilance et de déclaration ont été sensiblement renforcées par l’ordonnance
+no 2009-104 du 30 janvier 2009 relative à la prévention de l’utilisation du système financier aux fins de
+blanchiment de capitaux et de financement du terrorisme (ci-après « l’ordonnance no 2009-104 ») et par les
+textes pris pour son application ; que si Sigue SAS précise en outre que la liste des pièces d’identité admises
+et des justificatifs pouvant être demandés aux clients au sujet de leurs opérations est affichée dans les locaux,
+un tel affichage ne peut suffire à s’assurer que ses salariés respectent bien les dispositions applicables dans ce
+domaine, dès lors que ces prescriptions ne sont pas clairement mentionnées dans les procédures internes ;
+que le maintien, dans des procédures internes, de la mention de dispositions abrogées, à côté de dispositions
+légales nouvelles qui s’y sont substituées, ne peut être qu’une source de confusion pour les salariés de
+l’établissement ; qu’à titre d’exemple, en matière d’obligations déclaratives, la mention, dans le manuel
+LCB-FT, des dispositions de l’article L. 562-2 du CMF sur la déclaration de soupçon (ci-après « DS ») aurait
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2017-07
+dû être supprimée, le champ des infractions devant être déclarées, désormais mentionné à l’article L. 561-15
+de ce code, qui figure également dans ce document, ayant été sensiblement élargi en 2009 ; que les
+dispositions sur la répression des manquements en matière de LCB-FT n’avaient pas davantage été mises à
+jour ; que, de même, la mention du règlement no 97-02 sur le contrôle interne, dont les dispositions ont été
+modifiées par l’arrêté du 3 novembre 2014 qui l’a par ailleurs abrogé, ne permettait pas à Sigue SAS
+d’accomplir correctement ses obligations dans ce domaine à la date du contrôle ; qu’il résulte de ces
+constatations que Sigue SAS n’a pas respecté son obligation de mettre à jour ses procédures LCB-FT ;
+6. Considérant, en deuxième lieu, qu’en exigeant des données de connaissance de la clientèle (ci-après
+« KYC ») seulement en cas de franchissement d’un seuil de (…) euros sur 4 mois et en se bornant à renvoyer
+aux dispositions de l’article L. 561-2-1 du CMF et aux lignes directrices de l’ACPR, les procédures LCB-FT
+ne permettaient pas de distinguer de manière suffisamment opérationnelle le client occasionnel de la relation
+d’affaires ; qu’elles ne mentionnaient pas qu’en cas d’établissement d’une relation d’affaires, un formulaire
+de connaissance du client devait être établi, en l’absence même de tout franchissement de seuil ; que
+l’absence de fiches KYC mentionné par la poursuite dans 833 cas sur 855 relève du non-respect des
+procédures plutôt que de l’inadaptation de celles-ci (cf. infra grief 4) ;
+7. Considérant, en troisième lieu, qu’à la suite des explications fournies par Sigue SAS, le Collège a
+abandonné le reproche relatif à la définition de mesures de vigilance complémentaires ;
+8. Considérant que, dans le périmètre réduit ainsi qu’il vient d’être dit (cf. supra considérants 6 et 7), le
+grief est établi ; que la diffusion d’un nouveau manuel LCB-FT en décembre 2017 s’analyse comme une
+action correctrice, sans incidence sur le grief lui-même ;
+II. Sur la connaissance de la clientèle en relation d’affaires
+9. Considérant que, selon l’article L. 561-6 du CMF, les organismes assujettis « exercent, dans la limite
+de leurs droits et obligations, une vigilance constante et pratiquent un examen attentif des opérations
+effectuées en veillant à ce qu’elles soient cohérentes avec la connaissance actualisée qu’elles ont de leur
+relation d’affaires. » ; que l’article R. 561-12 de ce code précise que ces organismes « 1o Avant d’entrer en
+relation d’affaires, recueillent et analysent les éléments d’information, parmi ceux figurant sur la liste
+dressée par un arrêté du ministre chargé de l’économie, nécessaires à la connaissance de leur client ainsi
+que de l’objet et de la nature de la relation d’affaires, pour évaluer le risque de blanchiment de capitaux et
+de financement du terrorisme ; / 2o Pendant toute la durée de la relation d’affaires, recueillent, mettent à
+jour et analysent les éléments d’information, parmi ceux figurant sur une liste dressée par un arrêté du
+ministre chargé de l’économie, qui permettent de conserver une connaissance appropriée de leur client. La
+collecte et la conservation de ces informations doivent être réalisées en adéquation avec les objectifs
+d’évaluation du risque de blanchiment des capitaux et de financement du terrorisme et de surveillance
+adaptée à ce risque ; / 3o À tout moment, sont en mesure de justifier aux autorités de contrôle l’adéquation
+des mesures de vigilance qu’elles ont mises en œuvre aux risques de blanchiment de capitaux et de
+financement du terrorisme présentés par la relation d’affaires. » ;
+10. Considérant que, selon le grief 2, fondé sur ces dispositions, Sigue SAS recueille des éléments relatifs
+à la connaissance de la clientèle uniquement lorsque ses clients déclenchent une alerte en franchissant un des
+deux seuils prévus, à savoir (…) euros sur 4 mois glissants ou (…) euros sur un an glissant ; qu’au
+demeurant, l’établissement n’a recueilli ces éléments que pour 22 clients au cours des 9 premiers mois de
+l’année 2015 ; que, si l’on classe parmi les relations d’affaires au sens de l’article L. 561-2-1 du CMF tous
+les clients qui ont effectué au moins 10 opérations au cours de la période du 1er avril au 31 octobre 2015, il
+apparaît que Sigue SAS a manqué à son obligation de réunir des éléments de connaissance pour 4 980
+d’entre eux ;
+11. Considérant, tout d’abord, que Sigue SAS admet que les éléments de connaissance du client n’étaient
+recueillis qu’en cas de franchissement des seuils ci-dessus rappelés ; qu’alors que les exigences relatives à la
+connaissance des clients et à l’examen renforcé de certaines opérations sont distinctes, les procédures
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2017-07
+correspondantes étaient, selon les indications données par Sigue SAS elle-même, « jumelées » ; qu’ensuite,
+au regard des dispositions de l’article L. 561-2-1 du CMF, qui dispose qu’une « relation d’affaires peut être
+prévue par un contrat selon lequel plusieurs opérations successives seront réalisées entre les cocontractants
+ou qui crée à ceux-ci des obligations continues » mais aussi « lorsqu’en l’absence d’un tel contrat un client
+bénéficie de manière régulière de l’intervention d’une personne susmentionnée pour la réalisation de
+plusieurs opérations (…) », la pertinence des critères retenus par le Collège pour déterminer, sur une période
+donnée, le nombre de clients en relations d’affaires (clients ayant effectué au moins 10 opérations en 7 mois),
+n’est pas utilement contestée par Sigue SAS ; que l’utilisation de ces critères permet d’illustrer l’ampleur des
+carences de l’établissement en matière de connaissance de sa clientèle à la date du contrôle ; que les
+diligences faites par les guichetiers de Sigue SAS afin de vérifier l’identité du client ou d’obtenir un
+justificatif de l’opération ne sont pas de nature à lui permettre de disposer d’une connaissance de ses clients
+conforme aux exigences légales ci-dessus rappelées ; que la diffusion en décembre 2017 d’un nouveau
+manuel LCB-FT, comportant notamment une section dédiée à la définition des relations d’affaires, est sans
+conséquence sur le grief, qui est établi ;
+III. Sur le dispositif de suivi et d’analyse des relations d’affaires
+12. Considérant que selon l’article 46 de l’arrêté du 3 novembre 2014, les entreprises assujetties se dotent
+de dispositifs de suivi et d’analyse de leurs relations d’affaires, fondés sur la connaissance de leur clientèle,
+permettant notamment de détecter les opérations qui constituent des anomalies au regard du profil des
+relations d’affaires et qui pourraient faire l’objet d’un examen renforcé ; que selon l’article 49 de cet arrêté,
+ces dispositifs sont adaptés aux activités, aux clientèles, aux implantations de l’entreprise assujettie et aux
+risques identifiés par sa classification des risques ; qu’enfin selon l’article 50 de cet arrêté, ils permettent de
+définir « des critères et seuils de significativité spécifiques aux anomalies » en matière de LCB-FT ;
+13. Considérant que, selon le grief 3, fondé sur ces dispositions, le dispositif de suivi et d’analyse des
+relations d’affaires de l’établissement, reposant en particulier sur l’outil de détection X , présentait, à la date
+du contrôle, de nombreuses insuffisances ; que 4 séries de reproches sont à ce titre adressées à
+l’établissement : (i) que, tout d’abord, ce dispositif ne tenait pas suffisamment compte des risques identifiés
+par l’établissement dans sa classification des risques ; (ii) qu’ensuite, le paramétrage des seuils devant
+entraîner le blocage de l’opération ou le déclenchement des alertes reposait sur des seuils, soit (…) euros par
+opération (réduits à (…) euros à partir du 12 février 2014 puis à (…) euros le 4 novembre 2015 pour les
+seules opérations de transmission de fonds à destination de la Chine) ou (…) euros sur 4 mois glissants et
+(…) euros sur un an glissant, inadaptés au regard du montant moyen unitaire des transactions exécutées par
+Sigue SAS, soit (…) euros en 2015 ((…) euros hors transactions avec la Chine), un très faible nombre de
+franchissements de seuils étant en conséquence constaté ; que le seuil de (…) euros sur un an glissant, qui
+impliquait le franchissement de celui de (…) euros sur 4 mois glissants, était inopérant ; que le blocage
+résultant du franchissement du seuil de (…) euros pouvait être levé, une fois la période de 4 mois passée, ou
+être sans effet en cas d’annulation de l’opération par le client (dossiers A1 à A4) ; (iii) qu’en outre, l’outil X
+était incomplet car il ne permettait pas de détecter, d’une part les opérations liées entre elles car réalisées par
+plusieurs clients vers un même bénéficiaire, pendant une courte période, ou par des clients ayant un même
+patronyme ou domiciliés à la même adresse ou ayant le même numéro de téléphone (cf. infra dossiers D1,
+D2 et D3), par plusieurs donneurs d’ordres au bénéfice d’un même client (dossiers B2, B3, B4) ou par des
+clients semblant agir de concert à la réception des fonds (dossiers B5 et D10) et, d’autre part, les opérations
+fractionnées en deçà des seuils de l’établissement (dossier B1) ; (iv) qu’enfin, l’efficacité de l’applicatif X
+était affectée par de nombreuses erreurs de saisie ; qu’ainsi, dans 973 cas, les données relatives aux nom et
+prénoms du bénéficiaire n’étaient pas renseignées ou l’étaient de manière incohérente ;
+14. Considérant que Sigue SAS, sans contester le paramétrage inadéquat et les insuffisances, à la date du
+contrôle, de son outil X, qui ne permettait notamment pas le blocage ultérieur des opérations d’un client
+n’ayant pas fourni les informations demandées, non plus que les erreurs de saisie relevées, fait état des
+améliorations qui ont été intégrées à ce logiciel et du développement, depuis courant 2016, d’un logiciel
+interne dédié à la LCB-FT ; que les améliorations mentionnées ont porté sur la prise en compte, dans les
+règles d’agrégation, des informations portant à la fois sur les donneurs d’ordre et les bénéficiaires, ainsi que
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2017-07
+sur l’abaissement des seuils de vigilance et la mise en place d’une alerte automatisée qui se déclenche
+lorsqu’un guichetier signale une transaction suspecte dans le système ; que le nouveau dispositif, mis en
+place en septembre 2016, est bloquant, y compris lorsque le client annule une opération, en ce sens qu’il en
+résulte une impossibilité pour lui d’effectuer une opération nouvelle quelle qu’elle soit tant qu’il n’a pas
+fourni les justificatifs demandés ; que ces actions, postérieures au contrôle, sont toutefois sans conséquence
+sur le grief, qui est établi dans tous ses éléments ;
+IV. Sur le contrôle interne du dispositif LCB-FT
+A. Sur le non-respect des procédures internes LCB-FT
+15. Considérant que selon l’article 71 de l’arrêté du 3 novembre 2014, le contrôle permanent du dispositif
+LCB-FT fait partie du dispositif de la conformité ; que selon l’article 11 du même arrêté, « Le système de
+contrôle des opérations et des procédures internes a notamment pour objet, dans des conditions optimales de
+sécurité, de fiabilité et d’exhaustivité, de : a) Vérifier que les opérations réalisées par l’entreprise, ainsi que
+l’organisation et les procédures internes, sont conformes aux dispositions propres aux activités bancaires et
+financières, qu’elles soient de nature législative ou réglementaire, nationales ou européennes directement
+applicables (…) » ;
+16. Considérant que, selon le grief 4, fondé sur ces dispositions, le manuel LCB-FT n’était pas
+suffisamment respecté ; que tout d’abord, alors que ce manuel impose le recueil d’éléments de connaissance
+du client lors du franchissement de seuils, seules 22 fiches KYC sur 855 cas de franchissement de seuils
+avaient été établies ; que, de manière analogue, alors qu’il impose aux agences d’adresser au responsable de
+la conformité et du contrôle interne une proposition de déclaration de soupçon (ci-après « PDS ») lorsqu’une
+opération semble suspecte, 32 opérations signalées comme suspectes par les agences n’avaient pas fait
+l’objet d’une telle PDS ;
+17. Considérant, tout d’abord, que la poursuite admet que les 833 cas dans lesquels une fiche KYC n’a
+pas été établie correspondent à des opérations annulées ; qu’au moment du contrôle, le manuel LCB-FT de
+Sigue SAS ne prévoyait pas que des fiches KYC soient établies à la suite d’opérations annulées par un client,
+ce qui au demeurant serait difficile à réaliser pour un client occasionnel ; qu’ensuite, Sigue précise que
+l’indicateur « opération suspecte », présent dans l’outil X, activé en l’occurrence dans les 32 cas soulevés,
+n’était ni opérationnel, ni mentionné dans sa procédure ; que c’est donc seulement le défaut du dispositif de
+surveillance qui est à l’origine du manquement ;
+18. Considérant ainsi que les deux carences reprochées ne s’analysent pas comme une mauvaise
+application, par Sigue SAS, de ses propres procédures ; que ce grief ne peut en conséquence qu’être écarté ;
+B. Sur le périmètre du contrôle interne en LCB-FT
+1o) Sur les activités réalisées par le « service de contrôle interne et conformité »
+et le responsable du contrôle interne et de la conformité
+19. Considérant que selon le 5o du I de l’article R. 561-38 du CMF, les établissements mettent en œuvre
+des procédures de contrôle, périodique et permanent, des risques de BC-FT ;
+20. Considérant que, selon le grief 5, fondé sur ces dispositions, au moment du contrôle sur place, le
+contrôle permanent de second niveau et le contrôle périodique ne couvraient pas toutes les activités réalisées
+par le responsable du contrôle interne et de la conformité (ci-après « RCCI »), qui est également déclarant et
+correspondant Tracfin, et le chargé de conformité ; que ces contrôles ne couvraient pas : (i) le traitement des
+alertes relatives aux opérations atypiques notamment l’analyse des « dossiers KYC » et la décision de
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2017-07
+débloquer ou non l’opération auprès de l’agence ; (ii) le contenu et les délais de transmission des DS ; (iii) le
+traitement des demandes de communication adressées par Tracfin ou des réquisitions judiciaires ;
+21. Considérant que Sigue SAS ne conteste pas l’inexistence de ces contrôles ; que si elle s’interroge sur
+l’utilité de prévoir un contrôle de deuxième niveau concernant le traitement des demandes de communication
+adressées par Tracfin ou des réquisitions judiciaires, tâches qu’elle analyse comme « relativement simples »,
+il lui était loisible, le cas échéant, de proportionner les contrôles s’y rapportant aux risques encourus, mais
+non, par une application erronée du principe de proportionnalité, d’exclure une partie de ses activités du
+champ des contrôles effectués ; qu’ainsi, le grief est établi ;
+2o) Sur les activités externalisées : défaut de formalisation et de mise en œuvre
+du contrôle des prestataires externes
+22. Considérant que Sigue SAS a recours à des entités du groupe Sigue pour les services informatiques,
+en charge du paramétrage et de la gestion des outils automatisés de surveillance des transactions et de
+détection des personnes soumises à des mesures de gel ; qu’elle procède également ainsi pour l’analyse
+approfondie des opérations réalisées, au moyen notamment de requêtes informatisées et du traitement de
+bases de données, cette tâche étant confiée à deux unités dites « FIU » (Financial Intelligence Unit), basées
+en Inde et au Mexique, dont les travaux complètent ceux réalisés par le « service de contrôle interne et
+conformité » de l’établissement ;
+a) Défaut de formalisation des contrôles des prestataires externes
+23. Considérant que, selon l’article 238 de l’arrêté du 3 novembre 2014, « L’externalisation d’activité :
+a) Donne lieu à un contrat écrit entre le prestataire externe et l’entreprise assujettie ; b) S’inscrit dans le
+cadre d’une politique formalisée de contrôle des prestataires externes définie par l’entreprise assujettie. Des
+mesures appropriées sont prises s’il apparaît que le prestataire de services risque de ne pas s’acquitter de
+ses tâches de manière efficace ou conforme aux obligations législatives ou réglementaires » ;
+24. Considérant que, selon le grief 6, fondé sur ces dispositions, les activités externalisées ne font pas
+l’objet de conventions internes formalisées, permettant d’en définir les modalités, notamment de contrôle et
+de maîtrise des risques par l’établissement ; qu’à titre d’exemple, l’établissement n’a pas été en mesure
+d’indiquer, s’agissant de son outil de filtrage, si la liste française de gel des avoirs était intégrée et quel était
+l’algorithme utilisé ;
+25. Considérant que le reproche n’est pas contesté par Sigue SAS, qui a indiqué avoir tenu compte des
+observations de la mission de contrôle sur la nécessité de prévoir un cadre formel aux contrôles devant être
+exercés sur les prestataires externes ;
+b) Défaut de contrôle des prestataires externes
+26. Considérant que, selon, l’article 234 de l’arrêté du 3 novembre 2014, « Les entreprises assujetties :
+/ a) S’assurent que leur système de contrôle au sens de l’article 11 inclut leurs activités externalisées ;
+/ b) Se dotent de dispositifs de contrôle, au sens de l’article 12, de leurs activités externalisées » ;
+27. Considérant que selon le grief 7, fondé sur ces dispositions, aucun contrôle permanent ou périodique
+n’avait été mis en place sur les activités externalisées mentionnées ci-dessus, qui sont pourtant essentielles à
+la bonne mise en œuvre des obligations LCB-FT, notamment au respect des obligations d’examen renforcé,
+de DS et des mesures de gel des avoirs.
+28. Considérant que l’établissement ne conteste pas l’absence de mise en œuvre de ces contrôles ;
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2017-07
+29. Considérant que les actions correctrices annoncées sont sans conséquence sur les griefs 6 et 7, qui
+sont établis ;
+C. Sur l’indépendance des agents en charge des contrôles de second niveau
+30. Considérant que, selon l’article 13 de l’arrêté du 3 novembre 2014, « Le contrôle permanent de la
+conformité, de la sécurité et de la validation des opérations réalisées et du respect des autres diligences liées
+aux missions de la fonction de gestion des risques est assuré, avec un ensemble de moyens adéquats, par : / -
+certains agents, au niveau des services centraux et locaux, exclusivement dédiés à cette fonction ; / - d’autres
+agents exerçant des activités opérationnelles » ; que l’article 14 de cet arrêté dispose que « L’organisation
+des entreprises assujetties adoptée en application de l’article 13 est conçue de manière à assurer une stricte
+indépendance entre, d’une part, les unités chargées de l’engagement des opérations et, d’autre part, les
+unités chargées de leur validation, notamment comptable, de leur règlement ainsi que du suivi des diligences
+liées aux missions de la fonction de gestion des risques. / Cette indépendance est assurée par un
+rattachement hiérarchique différent de ces unités jusqu’à un niveau suffisamment élevé ou par une
+organisation qui garantit une séparation claire des fonctions ou encore par des procédures, éventuellement
+informatiques, conçues dans ce but et dont l’entreprise est en mesure de justifier l’adéquation. » ;
+31. Considérant que, selon le grief 8, fondé sur ces dispositions, le « chef de secteur », chargé des
+contrôles de second niveau depuis 2014, n’était pas indépendant car il était rattaché hiérarchiquement au
+directeur général « Commercial et Opérations » et responsable des agences faisant l’objet de ses contrôles ;
+qu’ainsi, des contrôles permanents de second niveau étaient réalisés par le chef de secteur responsable des
+agences de V, W, Y et Z ;
+32. Considérant que Sigue SAS ne conteste pas le non-respect, à la date de la mission de contrôle, de
+l’obligation de mettre en place un dispositif garantissant l’indépendance des personnes chargées des
+contrôles de second niveau ; que les actions correctrices présentées, par lesquelles la réalisation des contrôles
+permanents de second niveau est désormais confiée à un chargé de conformité dédié à cette tâche, sont sans
+conséquence sur le grief, qui est établi ;
+D. Sur l’insuffisance des moyens
+33. Considérant, à titre liminaire que, selon la notification des griefs, les effectifs du service de contrôle
+interne et de conformité, de 4 personnes au début de la mission, ont été, après le départ d’un chargé de
+conformité, qui était déclarant Tracfin, réduits en novembre 2015 à 3 personnes, soit le RCCI, également
+responsable du dispositif LCB-FT et déclarant-correspondant Tracfin au moment du contrôle, un chargé de
+conformité ainsi qu’un auditeur interne assurant le contrôle périodique de l’activité de l’établissement : que
+ce service réalisait également des tâches en matière de LCB-FT pour le compte de Sigue Ltd, pour laquelle
+Sigue SAS a été désignée représentant permanent ;
+1o) Sur les effectifs dédiés à l’analyse des anomalies, à la « fonction conformité »
+et au traitement des DS et des demandes d’information de Tracfin
+34. Considérant que selon l’article 13 de l’arrêté du 3 novembre 2014, « Le contrôle permanent de la
+conformité, de la sécurité et de la validation des opérations réalisées et du respect des autres diligences liées
+aux missions de la fonction de gestion des risques est assuré, avec un ensemble de moyens adéquats, par : / -
+certains agents, au niveau des services centraux et locaux, exclusivement dédiés à cette fonction ; / - d’autres
+agents exerçant des activités opérationnelles. » ; que l’article 51 de cet arrêté prévoit que « Les entreprises
+assujetties se dotent, selon des modalités adaptées à leur taille, à la nature de leurs activités et aux risques
+identifiés par la classification des risques de blanchiment de capitaux et de financement du terrorisme, de
+moyens humains suffisants pour analyser les anomalies détectées par les dispositifs susmentionnés. » ; que
+selon son article 55, elles « veillent à ce que le déclarant et le correspondant susmentionnés aient accès à
+toutes les informations nécessaires à l’exercice de leurs fonctions. / Elles mettent à leur disposition des outils
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2017-07
+et des moyens pour qu’ils procèdent, selon leur compétence respective : / - aux déclarations prévues à
+l’article L. 561-15 du code monétaire et financier ; / - au traitement des demandes d’information du service
+à compétence nationale TRACFIN. » ;
+35. Considérant que, selon le grief 9, fondé sur ces dispositions, deux personnes seulement étaient
+chargées de l’analyse des « dossiers KYC » dans le cadre du traitement des alertes (855 alertes au cours des
+9 premiers mois de l’année 2015, pour lesquelles seulement 22 dossiers KYC ont été constitués et
+analysés), de la réalisation et de la transmission des DS pour Sigue SAS et Sigue Ltd, du traitement des
+demandes de communication de Tracfin, des communications systématiques d’informations à ce service (ci-
+après « COSI »), du traitement des réquisitions judiciaires émises par les autorités françaises (500 en
+2015), ainsi que du traitement et du suivi des contrôles de premier et second niveau, attribué à ce service
+selon le « manuel LCB-FT » ; que ces deux mêmes personnes étaient en outre chargées également du
+traitement des réquisitions judiciaires émises par les autorités belges relatives aux opérations réalisées dans
+ce pays par les agents de Sigue Ltd, soit 128 agents en mai 2017, dont celui situé à Molenbeek (507
+réquisitions judiciaires belges en 2015) ;
+36. Considérant que le traitement des alertes entraîne une charge de travail tenant à l’analyse des dossiers
+KYC, y compris lorsque le client a renoncé à l’opération ; qu’une telle analyse, qui doit reposer, pour les
+clients en relation d’affaires, sur des éléments qui auraient dû être précédemment réunis, est susceptible
+d’aboutir, le cas échéant, à une DS ; qu’ainsi, l’obligation de traitement des alertes ne se limitait pas, pour
+Sigue SAS, aux seules 22 alertes sur 855 correspondant à des opérations exécutées ; que l’établissement
+indique que la charge du traitement des réquisitions judiciaires émises par des autorités belges a été
+transférée au niveau du groupe, sans pour autant remettre en cause les constats du rapport sur le rattachement
+de cette tâche à Sigue SAS au moment du contrôle ; que si Sigue SAS souligne que, faisant partie d’un
+groupe, elle bénéficie de synergies, ni les modalités, au moment du contrôle, des interventions d’autres
+entités du groupe, ni leur teneur, ne sont détaillées ; que si le nombre de DS adressées à Tracfin a augmenté,
+soit 59 en 2015 contre 5 seulement en 2012, leurs délais de transmission et leurs contenus n’étaient pas
+satisfaisants ; qu’au regard de l’ensemble de ces tâches, l’effectif qui leur était dédié était manifestement
+insuffisant ; qu’au demeurant, les défauts de DS constatés (cf. infra grief 16) apparaissent comme ayant
+notamment pour origine cette insuffisance ; que le grief est donc établi ;
+2o) Sur les effectifs dédiés au contrôle périodique
+37. Considérant que l’article 25 de l’arrêté du 3 novembre 2014 impose aux établissements d’affecter au
+contrôle périodique des moyens, permettant de « mener un cycle complet d’investigations de l’ensemble des
+activités sur un nombre d’exercices aussi limité que possible », et d’établir un programme de contrôle au
+moins une fois par an ;
+38. Considérant que, selon le grief 10, fondé sur ces dispositions, au moment du contrôle, une seule
+personne était chargée à la fois du contrôle périodique des activités réalisées par les 20 agences de
+l’établissement ainsi que par les 150 agents exerçant pour le compte de Sigue Ltd en France, et de la
+formation du personnel ; que l’établissement avait défini, dans son « plan Audit agences 2014-2015 », une
+fréquence de contrôle plus élevée pour les agences « les plus mal notées », en particulier la réalisation, au
+cours de l’exercice 2014/2015, de 3 à 4 contrôles sur place au sein de 5 agences définies ; que toutefois,
+seule une mission par an et par agence a été effectivement réalisée sur cet exercice ;
+39. Considérant que le niveau nécessaire des moyens dédiés au contrôle périodique d’un établissement ne
+s’apprécie pas uniquement au regard de sa taille mais doit également, comme l’impose l’article 12 de l’arrêté
+du 3 novembre 2014, être adapté à la nature et à la complexité de ses activités ; que la faible périodicité des
+contrôles des agences les plus mal notées au regard de ce que Sigue SAS avait elle-même prévu dans son
+plan d’audit atteste de l’insuffisance des moyens humains affectés à cette fonction ; que les actions
+correctrices menées, par lesquelles le responsable du contrôle périodique de Sigue SAS a été déchargé de ses
+missions de contrôle de Sigue Ltd et le contrôle périodique de la société confié à un responsable dédié à cette
+seule activité, postérieures à la mission de contrôle, sont sans conséquence sur le grief, qui est établi ;
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2017-07
+E. Sur le suivi des mesures correctrices
+1o) Sur l’absence de suivi formalisé de la mise en œuvre des recommandations
+du contrôle périodique
+40. Considérant que l’article 26 de l’arrêté du 3 novembre 2014 dispose que les entreprises assujetties
+définissent des procédures qui permettent : « a) De vérifier l’exécution dans des délais raisonnables des
+mesures correctrices qui ont été décidées par les personnes compétentes dans le cadre du dispositif de
+contrôle interne ; b) Au responsable du contrôle périodique d’informer directement et de sa propre initiative
+l’organe de surveillance et, le cas échéant, le comité des risques de l’absence d’exécution des mesures
+correctrices décidées » ;
+41. Considérant que, selon le grief 11, fondé sur ces dispositions, il n’existait au moment du contrôle sur
+place aucun suivi formalisé de la mise en œuvre des recommandations du contrôle périodique de Sigue SAS,
+ni de formalisation par les responsables des contrôles de premier et second niveaux de plan d’action pour
+conduire et suivre les mesures correctrices à engager au sein des agences ; que les rapports d’audit relatifs
+aux années 2014 et 2015 mettent en évidence des manquements graves et récurrents relativement au respect
+des procédures internes de l’établissement et à l’obligation de vigilance, souvent au sein des mêmes
+agences ; qu’il s’agissait, par exemple, de l’absence ou de l’insuffisance de traitement de dossiers « KYC »
+ou « pré-KYC », d’anomalies dans l’enregistrement de données relatives au client (dont des anomalies
+relatives aux adresses et à des numéros de pièces d’identité non valides), ou d’un manque de suivi renforcé
+des opérations vers les pays à risque élevé dont la Chine, de l’absence de PDS ou de contrôles de premier et
+de second niveau ;
+42. Considérant, à titre liminaire, qu’il ressort des constats des rapports d’audit de 2014 et 2015 que le
+niveau de respect, par les agences de Sigue SAS, de leurs obligations en matière de LCB-FT, variait
+fortement ; que, selon ces rapports, « Plusieurs agences évaluées négativement ne respectent pas les règles
+de base des procédures internes en matière de LCB-FT (par exemples, 0, P, Q, R, S, T, U). » ; que « Parmi
+celles-ci figurent des agences actives sur le corridor chinois, de loin le plus exposé au risque de
+blanchiment. » ; que le rapport de contrôle souligne que « Les suites données aux rapports d’audit ne sont
+pas à la hauteur des enjeux : pas de lettre de suite signée du directeur général, pas de sanction des
+défaillances individuelles, pas de suivi formalisé de la mise en œuvre des recommandations par l’auditeur
+interne entre deux missions de contrôle périodique dans la même agence, pas de formalisation par
+l’assistant responsable d’agence et/ou le chef de secteur d’un plan d’action pour conduire et suivre
+concrètement les actions de remédiation et les changements à opérer dans chacun des sites » ; que Sigue
+SAS admet un défaut de formalisation du suivi des recommandations de son contrôle périodique et indique
+que son nouveau manuel de contrôle interne prévoit la mise en place d’un tel dispositif ; que cependant les
+actions de remédiation présentées, postérieures au rapport de contrôle, sont sans conséquence sur le grief, qui
+est établi ;
+2o) Sur le délai de mise en œuvre des mesures correctrices
+43. Considérant que l’article 38 de l’arrêté du 3 novembre 2014 impose aux organismes assujettis de
+mettre en place des procédures permettant de suivre et d’évaluer la mise en œuvre effective des actions
+visant à remédier à tout dysfonctionnement dans la mise en œuvre des obligations de conformité ; que, selon
+l’article 11 de cet arrêté, le système de contrôle des opérations et des procédures permet, « dans des
+conditions optimales de sécurité, de fiabilité et d’exhaustivité, de : (…) f) Vérifier l’exécution dans des délais
+raisonnables des mesures correctrices décidées au sein des entreprises assujetties » ;
+44. Considérant que, selon le grief 12, fondé sur ces dispositions, Sigue SAS avait identifié des flux
+atypiques dans les envois de fonds depuis la France vers la Chine dès le 30 octobre 2014 ; que, pourtant, des
+mesures correctrices relatives à ce « corridor Chine » n’ont pas été mises en place dans des délais
+raisonnables ; qu’ainsi, la limite des transmissions de fonds vers ce pays a été abaissée de (…) euros à (…)
+euros le 4 novembre 2015 seulement, laissant perdurer pendant plus d’un an des flux suspects de montants
+Autorité de contrôle prudentiel et de résolution 10
+
+===== Page 11 =====
+Décision de la Commission des sanctions – procédure no 2017-07
+très importants, sans maîtrise adéquate des risques liés à ce pays, que la classification des risques analysait
+comme élevés (cf. infra dossiers D1 à D6) ;
+45. Considérant que le « corridor Chine » a donné lieu à de multiples analyses et mesures dont une étude
+d’impact menée en octobre 2014, qui recommandait notamment l’abaissement du plafond de transaction à
+(…) euros, tout en soulignant que le plafond de (…) euros alors applicable était le plus élevé sur le marché
+français ; que le rapport de contrôle relève que la stratégie commerciale de Sigue SAS était en cours de
+réorientation depuis fin 2014 « en raison principalement de la mise en évidence d’un risque majeur de
+blanchiment inhérent aux flux de transmissions de fonds vers la Chine (le "corridor chinois", de loin le plus
+important jusqu’en 2015, (représentant) (…) % des flux sortants de 2013 à 2015, soit (…) millions d’euros
+d’envois de fonds durant ces trois ans) » ; qu’au regard des risques de LCB-FT que présentaient ces
+transactions, quelle que puisse être leur importance pour Sigue SAS, les délais de réaction, dont la réalité
+n’est pas contestée, ont été trop longs ; qu’ainsi, le plafond de transactions n’a été abaissé que le 4 novembre
+2015, et seulement à (…) euros au lieu des (…) euros préconisés un an plus tôt ; qu’en outre, la société
+Coinstar ayant été acquise en 2011, ainsi que cela a été indiqué (cf. supra considérant 1), Sigue SAS ne peut
+justifier les insuffisances reprochées à la date du contrôle par celles du dispositif préexistant à ce rachat ;
+qu’en raison de cette réactivité insuffisante, des opérations suspectes ont été réalisées (cf. infra dossiers D1 à
+D6) ; qu’ainsi, le grief est établi ;
+V. Sur la mise en œuvre des obligations de vigilance
+A. Sur l’obligation d’examen renforcé
+46. Considérant que, selon le II de l’article L. 561-10-2 du CMF, les organismes assujettis effectuent un
+examen renforcé de toute opération particulièrement complexe ou d’un montant inhabituellement élevé ou ne
+paraissant pas avoir de justification économique ou d’objet licite ; que dans ce cas, ils se renseignent auprès
+du client sur l’origine des fonds et la destination de ces sommes ainsi que sur l’objet de l’opération et
+l’identité de la personne qui en bénéficie ;
+47. Considérant que selon le grief 13, 9 dossiers (B1 à B9) auraient dû donner lieu à un examen renforcé ;
+que ces 9 cas ont comme caractéristique commune de porter sur la réception, en France, de fonds envoyés
+depuis la République du Congo – Congo-Brazzaville (dossiers B1, B3, B4, B5, B6, B7 et B8) ou le Gabon
+(dossiers B1 et B9) ; qu’aucune opération unitaire n’ayant dépassé 1 524,50 euros, aucune alerte n’a été
+générée, en l’absence de dépassement de seuil par un même expéditeur, alors même que les opérations
+cumulées allaient de 9 000 euros (dossier B2) à près de 23 000 euros (dossier B1) ;
+48. Considérant que Sigue SAS conteste le grief, estimant que ces 9 dossiers « ne remplissent pas
+nécessairement tous les critères prévus à l’article L. 561-10-2 II du CMF » ; que toutefois, s’il est vrai que
+des opérations de transfert de fonds par une clientèle de personnes physiques ne satisfont généralement pas le
+critère de complexité mentionné par l’article L. 561-10-2 du CMF, il suffit, pour caractériser un défaut
+d’examen renforcé, que chaque dossier remplisse un seul des autres critères, alternatifs, mentionnés par cet
+article ; que le caractère inhabituel de ces opérations résulte d’abord, en l’espèce, de leur montant, supérieur
+pour beaucoup d’entre elles au montant unitaire moyen des opérations exécutées par Sigue SAS, soit 474
+euros, a fortiori si l’on rapproche les opérations successives exécutées dans un court laps de temps par un
+même client ou au bénéfice d’une même personne ; qu’à cet égard, ainsi que la Commission l’a déjà indiqué,
+« la référence que retient la poursuite au montant moyen des transactions de l’organisme était largement
+prévisible pour (…) toute personne assujettie à la LCB-FT à une approche par les risques et dont les clients
+n’ouvrent pas de comptes et ne réalisent le plus souvent que des opérations occasionnelles » (décision
+société d’exploitation Merson, 15 décembre 2016) ; qu’au demeurant, les lignes directrices conjointes de
+l’ACPR et de Tracfin du 19 novembre 2015 précisent, à leur alinéa 31 ter, que le caractère inhabituel d’une
+opération de transmission de fonds, d’émission de monnaie électronique ou de change manuel s’apprécie
+notamment au vu « du montant moyen des opérations réalisées par l’organisme au regard de la catégorie de
+clientèle ou du type d’activité (…) » ; qu’il s’agit de plus, en l’occurrence, d’opérations de réception de
+Autorité de contrôle prudentiel et de résolution 11
+
+===== Page 12 =====
+Décision de la Commission des sanctions – procédure no 2017-07
+fonds, activité qui, selon les propres explications données par la société Sigue SAS ne constitue pas, et de
+loin, le motif principal conduisant ses clients à recourir à ses services ; qu’ensuite, faute pour l’établissement,
+dans ces 9 dossiers, de disposer d’informations sur la profession, les revenus, le patrimoine des clients et
+l’origine des fonds, les opérations en cause ne paraissaient avoir ni justification économique ni objet licite ;
+que Sigue SAS aurait donc dû interroger les clients et recueillir des justificatifs ; que l’incertitude quant à
+l’objet économique des opérations en cause ou la licéité de leur objet était renforcée par plusieurs
+particularités de certains de ces dossiers ; que, par exemple, l’information donnée par un client (dossier B9),
+selon laquelle le motif des opérations était « affaires » ne permettait pas à l’établissement d’en connaître
+suffisamment l’objet ; que la variabilité de l’orthographe des prénoms et nom de certains expéditeurs ou
+receveurs de fonds saisis dans le système informatique de Sigue SAS (dossiers B2, B4, B6, B7 et B8), quelle
+qu’en soit la cause, renforçait le caractère atypique de ces opérations, de même que la mention de plusieurs
+dates de naissance pour un même expéditeur ou receveur (dossiers B3, B5, B6, B7 et B8) ; que si
+l’impossibilité d’établir le lien entre plusieurs transactions d’un même bénéficiaire dont le nom est renseigné
+différemment est la conséquence de failles du dispositif de surveillance, déjà visées par le grief 2, ses
+conséquences en matière d’examen renforcé peuvent également être reprochées au visa du II de l’article L.
+561-10-2 ; qu’enfin, les dispositions légales applicables à la Communauté économique et monétaire de
+l’Afrique centrale (CEMAC), selon lesquelles seules les opérations supérieures à 1 524,50 euros
+(contrevaleur d’un million de francs CFA) nécessitent une déclaration à des fins statistiques (article 2 du
+règlement no 02/00/CEMAC/UMAC/CM du 29 avril 2000 relatif aux changes) sont étrangères aux
+dispositions relatives à la détection du caractère atypique des opérations fractionnées exécutées, dont l’objet
+était inconnu et qui étaient effectuées par des personnes physiques dont Sigue SAS ignorait l’activité ; que
+tous les dossiers mentionnés par la poursuite auraient dû donner lieu à un examen renforcé ; que le grief est
+établi dans son intégralité ;
+B. Sur l’obligation de communication systématique d’informations (COSI) à Tracfin
+49. Considérant que selon les articles L. 561-15-1 et D. 561-31-1 du CMF, les établissements de paiement
+doivent transmettre de manière systématique à Tracfin les éléments d’information relatifs aux opérations de
+transmission de fonds effectuées à partir d’un versement d’espèces ou au moyen de monnaie électronique, à
+partir de 1 000 euros par opération ou 2 000 euros cumulés par client sur un mois calendaire ;
+50. Considérant que, selon le grief 14, fondé sur ces dispositions, au moment du contrôle, le contenu des
+COSI relatives aux opérations de transmission de fonds réalisées par Sigue SAS n’était pas conforme aux
+dispositions ci-dessus rappelées ; qu’elles portaient uniquement sur les opérations de transmission de fonds
+adressées vers l’étranger, excluant celles réceptionnées par l’établissement au bénéfice de ses clients ; qu’en
+outre, le fichier intitulé « 2 000 euros », qui est adressé à Tracfin, comprenait uniquement les opérations de
+transmission de fonds d’un montant unitaire compris entre 1 500 et 2 000 euros et non les opérations,
+réalisées par un même client, d’un montant cumulé supérieur ou égal à 2 000 euros sur un mois calendaire ;
+51. Considérant que Sigue SAS ne conteste pas les insuffisances reprochées mais souligne que Tracfin n’a
+jamais formulé de remarques au sujet des fichiers transmis ; que toutefois, indépendamment de la
+formulation éventuelle, par Tracfin, de remarques sur le contenu des fichiers transmis, il appartenait à Sigue
+SAS de se conformer aux exigences réglementaires s’y rapportant ; que les actions correctrices présentées,
+postérieures à la mission de contrôle, sont sans conséquence sur le grief, qui est établi ;
+C. Sur le contenu des DS
+52. Considérant que selon le 4o du III de l’article R. 561-31 du CMF, la DS doit comporter « Les éléments
+d’identification du client et, le cas échéant, du bénéficiaire effectif de l’opération qui fait l’objet de la
+déclaration ainsi que, dans le cas où une relation d’affaires a été nouée avec le client, l’objet et la nature de
+cette relation » ;
+Autorité de contrôle prudentiel et de résolution 12
+
+===== Page 13 =====
+Décision de la Commission des sanctions – procédure no 2017-07
+53. Considérant que, selon le grief 15, fondé sur ces dispositions, lorsque Sigue SAS adresse à Tracfin
+une DS regroupant les opérations réalisées par plusieurs clients au profit d’un même bénéficiaire, elle ne
+mentionne pas systématiquement les éléments d’identification de l’ensemble des clients expéditeurs ; que
+cette carence existe dans 3 des 59 DS établies en 2015, dans les dossiers C1, C2 et C3 ;
+54. Considérant que si Sigue SAS évoque une difficulté pratique liée à l’outil ERMES, qui est limité à dix
+champs pour renseigner le nom des donneurs d’ordre alors que certaines opérations en impliquent davantage
+(21 par exemple dans le dossier C3), il lui suffisait dans ce cas, pour satisfaire à son obligation, d’adresser à
+Tracfin une DS complémentaire ; qu’en outre, elle admet que les justificatifs d’identité de l’ensemble des
+personnes concernées auraient pu être joints à la déclaration, ce qu’elle s’engage désormais à faire ; que cette
+action correctrice est sans conséquence sur le grief, qui est établi ;
+D. Sur les défauts de DS
+55. Considérant que selon le I de l’article L. 561-15 du CMF, les organismes assujettis doivent déclarer à
+Tracfin « les sommes inscrites dans leurs livres ou les opérations portant sur des sommes dont elles savent,
+soupçonnent ou ont de bonnes raisons de soupçonner qu’elles proviennent d’une infraction passible d’une
+peine privative de liberté supérieure à un an ou sont liées au financement du terrorisme » ; que le III de cet
+article dispose que ces organismes sont tenus, le cas échéant, d’adresser une telle déclaration à l’issue d’un
+examen renforcé ; que, selon l’article L. 561-8 du CMF, « I. – Lorsqu’une personne mentionnée à l’article
+L. 561-2 n’est pas en mesure de satisfaire aux obligations prévues à l’article L. 561-5 et à l’article L. 561-5-
+1, elle n’exécute aucune opération, quelles qu’en soient les modalités, et n’établit ni ne poursuit aucune
+relation d’affaires. Si celle-ci a déjà été établie en application du IV de l’article L. 561-5, elle y met un terme
+et la déclaration prévue à l’article L. 561-15 s’effectue dans les conditions prévues à cet article. » ;
+56. Considérant que, selon le grief 16, dans 17 dossiers un défaut de DS est reproché à Sigue SAS, dont
+12 relatifs à un défaut au titre du I de l’article L. 561-15 (6 sur le « corridor Chine ») et 5 sur un défaut au
+titre du III du même article ;
+57. Considérant que dans 6 de ces dossiers (D1 à D6), des envois de fonds ont été effectués par plusieurs
+personnes au profit, dans chaque cas, d’un même bénéficiaire résidant en Chine ; que les montants unitaires
+de ces opérations, inférieurs au seuil de détection de (…) euros alors applicable, ont dans 5 de ces dossiers
+atteint, en quelques mois, plusieurs dizaines de milliers d’euros ; que Sigue SAS ne détenait aucune
+information quant à la profession et au revenu du client ; que l’objet de ces envois de fonds était inconnu ;
+que dans le dernier dossier, relatif à un seul envoi de fonds de (…) euros, le client a bien donné des
+explications concernant l’opération qu’il effectuait mais les a immédiatement modifiées (dossier D6), les
+privant ainsi de crédibilité ; qu’aucune DS n’a été établie alors même que dans certains cas, ces opérations
+venaient s’ajouter à d’autres de même nature effectuées depuis plusieurs années ; qu’à titre d’exemple, dans
+le dossier D3, selon Sigue SAS, « le même bénéficiaire a reçu 136 950 euros depuis l’exercice 2012 de la
+part de 10 expéditeurs » ; que ces transferts de fonds ont été, dans leur quasi-totalité, exécutés après qu’il eut
+été décidé, fin 2014, de réorienter la stratégie commerciale de Sigue en France « en raison principalement de
+la mise en évidence d’un risque majeur de blanchiment inhérent aux flux de transmissions de fonds vers la
+Chine » ; que, dans ces 6 dossiers, l’absence, à la date du contrôle, d’envoi d’une DS à Tracfin s’analyse, au
+regard des informations très limitées détenues par l’organisme au sujet des clients, de l’objet inconnu des
+transactions et de leurs montants unitaires ou cumulés significatifs, comme un dysfonctionnement majeur du
+dispositif de LCB-FT de Sigue SAS ; que dans un de ces dossiers (D6), une PDS avait été établie puis
+classée sans suite ;
+58. Considérant que dans le dossier D7, la réalisation, le 28 novembre 2015, par chacun de ces clients,
+domiciliés à la même adresse, d’un virement de (…) euros, soit le montant maximal autorisé par Sigue pour
+une telle opération, sous le seuil de vigilance de l’établissement mais pour un montant total de 21 000 euros,
+au bénéfice d’un même destinataire domicilié en Géorgie, alors même que Sigue SAS ne disposait d’aucune
+information quant au patrimoine et aux revenus des clients et ne connaissait que la profession déclarée par
+l’un d’eux, aurait dû donner lieu, avant le contrôle sur place, à l’envoi d’une DS à Tracfin ;
+Autorité de contrôle prudentiel et de résolution 13
+
+===== Page 14 =====
+Décision de la Commission des sanctions – procédure no 2017-07
+59. Considérant que dans le dossier D8, M. D8 et M. D8bis, qui ont déclaré une adresse commune, Sigue
+SAS, qui ne détenait aucune information quant à la profession et aux revenus des intéressés, sur l’origine des
+fonds ou sur les liens entre les deux clients qui agissaient de concert et avec les bénéficiaires des transferts, a
+cependant exécuté 4 virements de 1 552,40 euros chacun pour M. D8 et un virement de 1 750 euros pour M.
+D8bis ; qu’une PDS avait été établie, puis classée sans suite ;
+60. Considérant que dans le dossier D9, les opérations de transmission de fonds pour un montant cumulé
+de 23 983,20 euros, au profit de 17 bénéficiaires différents localisés au Cameroun et au Mali, qui ne
+présentent pas de lien de parenté apparent avec la cliente, n’avaient pas de justification économique connue,
+alors que la cliente, dont Sigue SAS ignorait la profession et les revenus, avait seulement indiqué « qu’elle
+aide ces gens-là » ; que le dossier client ne comportait en outre aucun justificatif d’identité ; qu’une PDS
+avait été établie puis classée sans suite ; que le manquement est établi ; que Sigue SAS aurait dû en outre,
+faute de pouvoir connaître l’objet et la nature de la relation d’affaires, s’abstenir de réaliser l’opération ;
+61. Considérant que, dans le dossier D10, la réalisation, le 30 octobre 2014, de 6 opérations de transfert
+d’un même donneur d’ordre, domicilié au Congo-Brazzaville, à destination de ces 3 clients habitant à la
+même adresse, pour un montant cumulé de 8 258,20 euros, n’a pas donné lieu à l’envoi d’une DS à Tracfin,
+alors que le donneur d’ordre ne présente pas de lien de parenté apparent avec les clients et que l’objet de ces
+opérations était inconnu, de même que l’origine des fonds et la profession et les revenus des intéressés ;
+62. Considérant que dans le dossier D11, la réception par le client, qui s’est rendu les 16 et 18 juin 2015
+dans une agence accompagné d’une personne non identifiée, de fonds d’un montant de 2 800 euros puis
+4 320 euros, adressés par deux donneurs d’ordre, localisés en Belgique et sans lien apparent avec l’intéressé,
+aurait dû donner lieu à l’envoi d’une DS ; qu’en effet, Sigue SAS ne disposait d’aucune information sur sa
+profession, ses revenus et son patrimoine ; qu’en outre, le client, décrit comme « très agressif et nerveux »
+par l’agent du guichet, avait à deux reprises refusé d’indiquer son adresse, celle d’un hôtel à Paris ayant
+seulement été communiquée par la personne qui l’accompagnait ; qu’une PDS avait été établie au moment
+des faits puis classée ;
+63. Considérant que les 6 derniers dossiers (D12 à D17) ont pour caractéristique commune l’envoi, par
+des expéditeurs multiples résidant au Congo-Brazzaville, de sommes inférieures ou égales à 1 524,50 euros,
+au bénéfice de clients dont Sigue SAS ne connaissait ni le revenu ni la profession ; que l’objet de ces
+opérations n’était pas davantage connu ; que, dans plusieurs de ces opérations, il existait une incertitude
+concernant certains éléments d’identité (plusieurs dates de naissance enregistrées, variantes dans les
+patronymes) de l’expéditeur ou du receveur des fonds ; que malgré le défaut de communication par le client
+d’informations complémentaires aucune DS n’a été adressée à Tracfin ;
+64. Considérant que, face à ces constatations, Sigue SAS fait surtout valoir sa volonté de se mettre à un
+niveau de conformité plus satisfaisant ; que la nécessité de cette mise à niveau s’impose en effet au vu des
+nombreux manquements retenus aux dispositions du I (dossiers D1 à D11) ou du III (dossiers D12 à D17) de
+l’article L. 561-15 du CMF ; que le blocage du client ou du bénéficiaire ou la cessation des relations avec les
+agents intervenus dans la réalisation de certains transferts ne peuvent se substituer à l’information de Tracfin
+sur des opérations suspectes ; que l’envoi par Sigue SAS de DS relatives aux opérations de tous les clients
+mentionnés ci-dessus, intervenu de manière souvent groupée, après le contrôle de l’ACPR et en général à
+une date très éloignée du début des opérations en cause, est sans conséquence sur le grief, qui est établi dans
+son intégralité ;
+VI. Sur la mise en œuvre des obligations relatives au gel des avoirs
+65. Considérant que, selon l’article L. 562-3 du CMF, « Le ministre chargé de l’économie peut décider,
+pour une durée de six mois, renouvelable, le gel des fonds et ressources économiques : / 1o Qui
+appartiennent à, sont possédés, détenus ou contrôlés par des personnes physiques ou morales, ou toute autre
+entité qui commettent, tentent de commettre, facilitent ou financent des actions sanctionnées ou prohibées
+Autorité de contrôle prudentiel et de résolution 14
+
+===== Page 15 =====
+Décision de la Commission des sanctions – procédure no 2017-07
+par les résolutions adoptées dans le cadre du chapitre VII de la charte des Nations unies ou les actes pris en
+application de l’article 29 du traité sur l’Union européenne, y participent ou qui sont désignées par ces
+résolutions ou ces actes ; 2o Qui appartiennent à, sont possédés, détenus ou contrôlés par des personnes
+morales ou toute autre entité elles-mêmes détenues ou contrôlées par les personnes mentionnées au 1o ou
+agissant sciemment pour le compte ou sur instructions de celles-ci. » ; que l’article R. 562-2 de ce code
+faisait, dans sa rédaction en vigueur à la date du contrôle sur place, obligation aux organismes assujettis « qui
+détiennent ou reçoivent des fonds, des instruments financiers ou des ressources économiques pour le compte
+d’un client faisant l’objet d’une mesure de gel (de mettre) immédiatement en œuvre cette mesure et (d’en
+informer) sans délai le ministre chargé de l’économie. » ; que l’article 47 de l’arrêté du 3 novembre 2014
+prévoit que « Les entreprises assujetties se dotent également de dispositifs adaptés à leurs activités
+permettant de détecter toute opération au bénéfice d’une personne ou d’une entité faisant l’objet d’une
+mesure de gel des fonds, instruments financiers et ressources économiques » ;
+66. Considérant que, selon le grief 17, fondé sur ces dispositions, d’une part, l’établissement ne procédait
+pas, dès l’entrée en vigueur des mesures nationales de gel des avoirs, à un filtrage de sa base de données
+clients au regard des listes françaises de gel, ces listes étant intégrées manuellement dans l’outil de filtrage
+selon une périodicité hebdomadaire ; que d’autre part, il ne vérifiait les noms des personnes figurant sur les
+listes nationales ou européennes de gel avec sa base de données clients que sur la base d’une correspondance
+orthographique exacte ; que de surcroît, il ressort du rapport de contrôle qu’entre le 1er avril et le 31 octobre
+2015, le prénom ou le nom des bénéficiaires des opérations de transmission de fonds est, pour 973
+opérations, soit absent, soit orthographié avec une seule lettre ou plusieurs lettres non accolées, ce qui ne
+permet pas à l’établissement de s’assurer qu’il ne met pas des fonds à disposition de personnes soumises à
+des mesures de gel ;
+67. Considérant, tout d’abord, que nonobstant l’absence de norme réglementaire imposant une fréquence
+de mise à jour, dans les outils des organismes assujettis, des listes de personnes faisant l’objet d’une mesure
+de gel, et alors même qu’à la date du contrôle, les lignes directrices n’apportaient pas de précision sur ce
+point, le choix d’une périodicité seulement hebdomadaire de mise à jour aurait dû nécessairement apparaître
+non conforme aux dispositions ci-dessus rappelées, qui imposent que les établissements prennent les mesures
+nécessaires pour que les transactions concernant ces personnes ne puissent être effectuées ; qu’ensuite, tenant
+compte des explications fournies par Sigue SAS en défense, le Collège a abandonné le reproche selon lequel
+la vérification des noms n’était réalisée que sur la base d’une correspondance orthographique exacte ;
+qu’enfin, si Sigue SAS soutient que le règlement no 1781/2006 du 15 novembre 2006 du Parlement européen
+et du Conseil relatif aux informations concernant le donneur d’ordre accompagnant les virements de fonds,
+en vigueur au moment du contrôle, ne faisait pas peser sur le prestataire de services de paiement du donneur
+d’ordre une obligation de vérification de l’identité du bénéficiaire, l’absence de toute mention du nom du
+bénéficiaire ou la désignation de celui-ci par une lettre ou plusieurs lettres accolées, privait Sigue SAS de
+toute possibilité de respecter correctement son obligation ci-dessus rappelée de détecter toute opération au
+bénéfice d’une personne ou d’une entité faisant l’objet d’une mesure de gel ;
+68. Considérant que, dans un périmètre réduit par l’abandon du deuxième reproche relatif à la vérification
+des noms, le grief est établi ; qu’il doit cependant être apprécié en tenant compte de ce qu’aucune personne
+visée par une mesure restrictive n’a été détectée parmi les clients de Sigue SAS ;
+*
+* *
+69. Considérant qu’il résulte de ce qui précède qu’au moment du contrôle, Sigue SAS n’avait pas pris la
+pleine mesure de ses obligations en matière de LCB-FT, notamment telles qu’elles résultent des dispositions
+de l’ordonnance no 2009-104, alors même que son activité est particulièrement exposée au risque de
+participation à des opérations de blanchiment ; que ses procédures, qui mêlaient dispositions en vigueur et
+abrogées, n’étaient pas correctement mises à jour (grief 1) ; que la mission de contrôle a constaté de
+nombreuses carences en matière de connaissance de la clientèle (grief 2) ; qu’en raison, notamment, de son
+paramétrage, son outil informatique de suivi et d’analyse des relations d’affaires ne pouvait exercer
+efficacement sa fonction (grief 3) ; que le champ couvert par son dispositif de contrôle interne était
+Autorité de contrôle prudentiel et de résolution 15
+
+===== Page 16 =====
+Décision de la Commission des sanctions – procédure no 2017-07
+insuffisant (grief 5) ; que le contrôle de ses activités externalisées présentait de sérieuses carences (griefs 6
+et 7) ; que le principe d’indépendance des agents en charge des contrôles de second niveau n’était pas
+respecté (grief 8) ; que les moyens humains consacrés à l’analyse de certaines opérations atypiques, en vue
+notamment de déclarations ou communications à Tracfin, étaient insuffisants (grief 9), de même que ceux
+consacrés au contrôle périodique (grief 10) ; que le suivi des actions correctrices devant être engagées n’était
+pas correctement assuré (grief 11) ; que la mise en œuvre de celles de ces actions relatives à un meilleur
+contrôle des transferts de fonds vers la Chine, qui, selon l’établissement lui-même présentaient un risque
+élevé, a été tardive (grief 12) ; que le non-respect, par Sigue SAS, de ses obligations d’examen renforcé
+(grief 13), de communication systématique d’informations à Tracfin (grief 14) ainsi que de ses obligations
+déclaratives, constaté dans un grand nombre de dossiers (griefs 15 et 16) apparaît, pour une large part,
+comme le résultat des carences procédurales et organisationnelles relevées par la mission de contrôle ;
+qu’enfin, la périodicité de la mise à jour des informations utilisées afin de détecter des personnes soumises à
+une mesure de gel ne permettait pas à Sigue SAS de respecter l’ensemble de ses obligations dans ce domaine
+(grief 17) ;
+70. Considérant toutefois que le grief relatif au non-respect des procédures internes a été écarté, l’absence
+de certaines dispositions dans le manuel LCB-FT n’étant pas à l’origine des faits constatés (grief 4) ; que le
+périmètre de quelques reproches est réduit par la présente décision ; qu’il convient également de tenir
+compte, dans une certaine mesure, des actions correctrices présentées tenant notamment à l’amélioration du
+système informatique et au renforcement de l’organisation du contrôle interne, même si elles apparaissent,
+pour la plupart, trop tardives ;
+71. Considérant que les manquements retenus par la Commission justifient, compte tenu de leur nature et
+de leur gravité, le prononcé d’un blâme ; que pour les mêmes raisons et au vu des éléments d’atténuation
+mentionnés ci-dessus, il y a lieu, dans le respect du principe de proportionnalité au regard de l’assise
+financière de Sigue SAS, de prononcer une sanction pécuniaire de 100 000 euros ;
+72. Considérant qu’une publication nominative n’est pas susceptible de causer à Sigue SAS un préjudice
+disproportionné ni de perturber gravement les marchés financiers ; qu’il y a donc lieu de publier la présente
+décision sous cette forme ;
+PAR CES MOTIFS
+DÉCIDE :
+ARTICLE 1ER – Il est prononcé à l’encontre de la société Sigue Global Services SAS un blâme et une
+sanction pécuniaire de 100 000 euros (cent mille euros).
+ARTICLE 2 – La présente décision sera publiée au registre de l’ACPR et pourra être consultée au
+secrétariat de la Commission.
+Le Président de la Commission
+des sanctions
+[Rémi BOUCHEZ]
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification et
+dans les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 16

@@ -1,0 +1,585 @@
+===== Page 1 =====
+SOCIÉTÉ B
+venant aux droits de la
+SOCIETE A
+Procédure no 2017-02
+–––––
+Sanction pécuniaire de 200 000
+euros
+–––––
+Audience du 6 juillet 2018
+Décision rendue le 26 juillet 2018
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 13 mars 2017 par laquelle le Président de l’Autorité de contrôle prudentiel et de
+résolution (ci-après l’ « ACPR ») informe la Commission de ce que le Collège de supervision de
+l’ACPR (ci-après le « Collège »), statuant en sa formation de sous-collège sectoriel de l’assurance, a
+décidé d’ouvrir une procédure disciplinaire à l’encontre de la société A, enregistrée sous le n° 2017-
+02 ;
+Vu la notification des griefs du 13 mars 2017 ;
+Vu les mémoires en défense des 17 juillet 2017, 22 décembre 2017 et 19 mars 2018 par lesquels la
+société A (i) conteste la quasi-totalité des griefs, dont elle soutient qu’ils sont dépourvus de base
+légale, tout en estimant, subsidiairement, que certains devraient être significativement atténués (ii)
+présente les actions correctrices prises depuis le contrôle sur place et (iii) demande que la décision à
+intervenir soit publiée sous une forme non nominative ;
+Vu les mémoires en réplique des 30 octobre 2017 et 9 février 2018, par lesquels M. Jean-François
+Lemoux, représentant du Collège, abandonne le grief 7 et maintient les 7 autres griefs notifiés ;
+Vu la décision du Collège de l’ACPR du (…) autorisant le transfert total par voie de fusion-
+absorption du portefeuille de contrats d’assurance de la société A au profit de la société B ;
+Vu le procès-verbal de l’audition, le 17 mai 2018, de la société B, venant aux droits de la société A,
+représentée par son directeur général ;
+Vu le rapport du 4 juin 2018 de M. Francis Crédot, rapporteur, dans lequel celui-ci conclut que 7
+des 8 griefs notifiés sont établis, dont 4 dans un périmètre réduit (griefs 2, 4, 6 et 8), tandis qu’un grief,
+abandonné par le Collège, doit être écarté (grief 7) ;
+Vu les courriers du 5 juin 2018 convoquant les parties à l’audience et les informant de la
+composition de la Commission et de ce qu’il sera fait droit à la demande tendant à ce que cette
+audience ne soit pas publique ;
+Vu les observations de la société B du 20 juin 2018 en réponse au rapport du rapporteur ;
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2017-02
+Vu les autres pièces du dossier, notamment le rapport de contrôle du 16 juin 2016 et les pièces
+produites par la société B lors de son audition ;
+Vu le code monétaire et financier (ci-après le « CMF »), notamment ses articles L. 561-10, L. 561-
+10-2, L. 561-15, R. 561-19, R. 561-20, R. 561-31 et R. 561-38, dans leur rédaction en vigueur au
+moment du contrôle sur place ;
+Vu le code des assurances, notamment son article A. 310-8 ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACPR, composée de M. Rémi Bouchez, Président, de
+Mmes Claudie Aldigé et Claudie Boiteau et de MM. Jean-Pierre Jouguelet et Thierry Philipponnat ;
+Après avoir entendu, lors de sa séance non publique du 6 juillet 2018 :
+- M. Crédot, rapporteur, assisté de Mme Marie Mallard Saïh et de M. Fabien Patris, ses adjoints ;
+- Mme Priscille Merle, représentante de la directrice générale du Trésor ;
+- M. Jean-François Lemoux, représentant du Collège, assisté de l’adjointe au directeur des
+affaires juridiques, de l’adjointe au chef du service des affaires institutionnelles et du droit public,
+de l’adjointe au chef du service du contrôle des dispositifs anti-blanchiment et de juristes au sein de
+la direction des affaires juridiques ; M. Lemoux a proposé à la Commission de prononcer un blâme
+et une sanction pécuniaire de 200 000 euros dans une décision publiée dans des conditions
+préservant l’anonymat de la société B ;
+- La société B, venant aux droits de la société A, représentée par son président du conseil
+d’administration et son directeur général, assistés de la directrice de la Conformité Groupe et de la
+directrice juridique Groupe, et conseillés par Mes Serge Durox et Charlotte Le Quoy (Ernst &
+Young société d’avocats) ainsi que par Me Antoine Delvolvé (SCP Delvolvé-Trichet) ;
+Après avoir délibéré en la seule présence de M. Bouchez, Président, de Mmes Aldigé et Boiteau et
+de MM. Jouguelet et Philipponnat, ainsi que de M. Jean-Manuel Clemmer, chef du service de la
+Commission des sanctions faisant fonction de secrétaire de séance ;
+1. Considérant que la société A, société anonyme régie par le code des assurances, filiale à 100 %
+de la société B, a été créée en 1988 pour concevoir des produits d’assurance et des produits de
+capitalisation (branche 24) ; que son portefeuille de titres de capitalisation commercialisé auprès de la
+clientèle de C est constitué, d’une part, de bons de capitalisation au porteur (ci-après « BCP ») BCP1
+1ère génération et 2ème génération, respectivement commercialisés de novembre 1988 à janvier 1996 et
+de janvier 1996 à novembre 2001 et, d’autre part, de bons BCP2, commercialisés de novembre 2001 à
+mai 2008 ; qu’en 2003 puis 2008, elle a successivement interrompu son activité de commercialisation
+des BCP sous forme anonyme puis nominative ; que, fin 2015, l’encours de ses BCP en circulation
+s’élevait à un peu moins de (…) millions d’euros dont environ (…) millions d’euros souscrits après
+1998 ; qu’en 2015, les rachats de BCP se sont élevés à environ (…) millions d’euros dont (…) euros
+sous le régime de l’anonymat fiscal ;
+2. Considérant que la société A a fait l’objet d’un contrôle sur place du 31 décembre 2014 au 24
+mars 2016 portant sur son dispositif de LCB-FT ; que ce contrôle a donné lieu à la signature d’un
+rapport définitif le 16 juin 2016 (ci-après le « rapport de contrôle ») ; qu’au vu de ce rapport, le
+Collège a décidé, lors de sa séance du 16 février 2017, d’ouvrir la présente procédure disciplinaire ;
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2017-02
+3. Considérant que, le (…), le Collège de l’ACPR a autorisé le transfert total par voie de fusion-
+absorption du portefeuille de contrats d’assurance de la société A au profit de la société B ; que
+l’ensemble du dossier a alors été transmis à la société B, qui vient aux droits de la société A et avec
+laquelle la présente procédure s’est en conséquence poursuivie ; que, toutefois, par commodité, il sera
+ci-après fait seulement mention de la société A ;
+I. Sur les questions générales
+A. - Sur le modèle d’affaires de la société A
+4. Considérant que la société A soutient qu’il doit être tenu compte de son histoire et de son modèle
+d’affaires, selon lesquels cette société concevait des produits d’assurance et de capitalisation dont la
+commercialisation était exclusivement assurée par le Trésor public puis, à compter du 1er janvier 2004,
+par le réseau D, anciennement dénommé C ; qu’en effet, sa création s’est inscrite dans le cadre d’une
+coopération commerciale étroite entre la société B et le Trésor public (…) ; qu’il en résulte une
+organisation particulière dans laquelle ses partenaires étaient initialement deux opérateurs publics ;
+qu’elle indique que ces observations ont pour objet, non de contester l’imputabilité à la société A, à la
+date du contrôle, des manquements reprochés mais seulement, en raison de la grande sévérité du
+rapport de contrôle, de lui permettre de bénéficier de l’individualisation et de la proportionnalité des
+sanctions, dans l’hypothèse où la Commission suivrait la position du Collège ;
+5. Considérant, cependant, que ces éléments de contexte sont sans incidence tant sur l’applicabilité
+à la société A des dispositions légales en matière de LCB-FT que sur l’appréciation qu’il y a lieu pour
+la Commission de porter sur la réalité des manquements qui lui sont reprochés ;
+B. - Sur les obligations professionnelles de la société A en sa qualité d’émettrice
+de BCP
+6. Considérant que la société A souligne que les obligations professionnelles de l’émetteur d’un
+BCP doivent être appréciées à la lumière d’autres obligations mises à sa charge par le droit applicable
+à un tel produit ; qu’elle invoque à ce sujet un arrêt de la chambre commerciale de la Cour de cassation
+par lequel celle-ci a estimé qu’« un émetteur d'un bon au porteur ne peut s'exonérer de son obligation
+de remboursement, en l'absence de toute opposition régulière, que dans l'hypothèse d'un détournement
+de propriété du bon litigieux, la seule circonstance que le porteur n'agit pas pour son compte et refuse
+de fournir les renseignements requis par l'article 12 de la loi du 12 juillet 1990 devenu l'article L.
+563-1 du Code monétaire et financier, étant insuffisante pour caractériser un tel risque et rendre
+l'obligation sérieusement contestable » (Cass. com., 21 janvier 2004, Sté Optima conseil c/ Sté Axa
+Conseil Vie) ; que, de plus, il ne peut être exigé d’un organisme assujetti d’aller au-delà des exigences
+expresses de la réglementation, telles qu’elles résultent notamment du 3° de l’article L. 561-10 et des
+articles R. 561-19 et R. 561-20 du CMF, qui, respectivement, imposent des mesures de vigilance
+complémentaire lorsque le produit ou l’opération favorise l’anonymat, précisent que tel est le cas des
+bons et titres anonymes et des opérations sur ces produits et indiquent quelles sont les mesures de
+vigilance complémentaire à mettre en œuvre, notamment pour ce qui est des informations relatives aux
+modalités d’entrée en possession de BCP ;
+7. Considérant, cependant, qu’ainsi que la Commission l’a déjà souligné, une telle présomption de
+détention licite « n’a pas pour effet de dispenser un organisme assujetti des exigences de vigilance et
+de déclaration qui lui incombent, qui sont de nature différente » (décision Axa France Vie du 8
+décembre 2016, considérant 71) ; que la recherche d’informations sur les circonstances dans lesquelles
+le porteur est entré en possession des BCP qu’il présente au remboursement peut, dans certains cas,
+être nécessaire au respect de ces obligations, notamment de celles qui imposent d’effectuer un examen
+renforcé ou d’adresser une déclaration à Tracfin ;
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2017-02
+C. - Sur l’incidence éventuelle, sur la présente procédure, de correspondances
+émanant de l’ACPR ou de son Secrétariat général
+8. Considérant, en premier lieu, que le 6 avril 2017, le Vice-président de l’ACPR a, au nom du
+Collège de supervision, adressé au Président [d’un des organes de gouvernance du principal
+actionnaire de la société B] une lettre dans laquelle étaient soulignées de « graves insuffisances dans le
+dispositif » de LCB-FT de la société B, ce qui, selon la société A, a suscité un « malaise » en donnant
+le sentiment que « la cause était entendue » ;
+9. Considérant, cependant, que ces remarques du Collège, autorité de poursuite dans l’organisation
+de l’ACPR, dont la Commission n’a eu connaissance que parce que la société A en a fait état, ne
+sauraient avoir d’incidence sur les appréciations qu’il appartient à la Commission de porter à partir de
+la notification des griefs dont elle a été saisie ; qu’au demeurant, cette lettre ne mentionnait par la
+société A ;
+10. Considérant, en second lieu, que le Secrétariat général de l’ACPR a adressé à la société A, le 4
+juillet 2017, une « lettre de suite » dans laquelle des actions correctrices étaient demandées à la
+société, à mettre en place selon un calendrier déterminé ; que la société A fait valoir que ces actions
+correctrices concernent les mêmes aspects de son dispositif de LCB-FT que ceux qui font l’objet de la
+présente procédure et que les mettre en œuvre impliquerait de sa part de reconnaître les insuffisances
+qui lui sont reprochées, ce qui reviendrait à contribuer à sa propre incrimination ; qu’en conséquence,
+le Collège a préjugé des débats et de l’issue de la présente procédure disciplinaire et « fragilisé au
+passage la présomption de non-culpabilité » dont elle aurait dû bénéficier ;
+11. Considérant, cependant, que la mise en œuvre par un établissement soumis à supervision de
+l’ACPR de recommandations ou demandes formulées par le Secrétariat général de cette autorité dans
+une « lettre de suite » ou de quelconque autre façon ne vaut pas reconnaissance d’un manquement ;
+qu’ainsi, les insuffisances relevées dans une « lettre de suite » peuvent se recouper avec celles
+mentionnées dans une notification des griefs sans que cela ait pour conséquence de porter atteinte aux
+droits de la défense ; qu’au demeurant, les échanges qui ont suivi l’envoi de cette lettre n’ont pas pu
+influencer la présente procédure, à laquelle ils n’ont pas été joints ; que c’est au vu des arguments et
+pièces figurant au dossier et relatifs aux manquements retenus par la notification des griefs que la
+Commission des sanctions apprécie, au terme des échanges contradictoires, la réalité et la gravité de
+ces manquements ;
+12. Considérant ainsi que l’envoi de ces deux lettres n’a pas eu pour effet de porter atteinte aux
+intérêts de la société A dans la présente procédure ;
+II. Sur les griefs
+A. - Sur la classification des risques de LCB-FT
+13. Considérant que le 2° du I de l’article R. 561-38 du CMF exige des établissements qu’ils
+« élaborent une classification des risques de blanchiment des capitaux et de financement du
+terrorisme présentés par leurs activités, selon le degré d'exposition à ces risques apprécié en fonction
+notamment de la nature des produits ou des services offerts, des conditions des transactions
+proposées, des canaux de distribution utilisés ainsi que des caractéristiques des clients» ; que le I de
+l’article A. 310-8 du code des assurances impose aux entreprises assujetties d’établir « une
+classification et une évaluation des risques. Cette classification couvre : / - les opérations avec les
+personnes mentionnées à l'article R. 561-18 du code monétaire et financier ; / - les activités exercées
+par des filiales ou établissements dans les États ou territoires mentionnés au paragraphe VI de
+l'article L. 561-15 du même code ; / - les activités exercées par des filiales ou établissements dans les
+États ou d'État faisant l'objet de mesures restrictives spécifiques prises en application de règlements
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2017-02
+du Conseil de l'Union européenne ou de gel des avoirs. / L'évaluation des risques porte sur : / - les
+différents produits ou services proposés, leur mode de commercialisation, la localisation ou les
+conditions particulières des opérations, ainsi que les caractéristiques de la clientèle ; / - les activités
+de gestion des contrats, y compris celles qui ont été externalisées. / Cette classification et cette
+évaluation sont mises à jour de façon régulière et à la suite en particulier de tout événement affectant
+significativement les activités, les clientèles, les filiales ou établissements.» ;
+14. Considérant que, selon le grief 1, fondé sur ces dispositions, au début du contrôle sur place, la
+classification des risques de LCB-FT, en vigueur au sein de la société A depuis décembre 2010 et qui
+était celle de la société B, classait en « risque normal » les remboursements de BCP lorsque le
+règlement était effectué sur un compte bancaire ouvert au nom du porteur, sans distinguer ces
+opérations selon le régime fiscal applicable ; que si, corrigée en juillet 2015, elle fait désormais
+apparaître en « risque élevé » les « opérations relatives à tous les bons de capitalisation favorisant
+l’anonymat fiscal », cette mise à jour n’a été prise en compte dans les procédures internes de la société
+A qu’en 2016 ;
+15. Considérant que la société A soutient qu’aucune disposition légale n’imposait de placer le
+remboursement des BCP en risque élevé dans sa classification des risques ; que ce classement n’était
+recommandé que dans des textes sans valeur normative tels que les principes d’application sectoriels
+(ci-après les « PAS ») ; qu’elle estime en outre que le placement en risque élevé ne pouvait conduire,
+compte tenu de la nature particulière du BCP, qui n’instaure pas une relation d’affaires entre
+l’organisme émetteur et le porteur du bon, qu’à renforcer les mesures d’identification de ce dernier, ce
+que la société B faisait à chaque demande de remboursement ;
+16. Considérant, cependant, qu’une classification des risques au titre de la LCB-FT doit prendre en
+compte le degré d’exposition au risque résultant de chaque produit émis ou commercialisé et de
+chaque catégorie d’opérations ; qu’ainsi que l’a rappelé la Commission, dès lors qu’ils favorisent
+l’anonymat au sens du 3° des articles L. 561-10 et R. 561-19 du CMF, les BCP doivent nécessairement
+être placés en risque élevé dans la classification des risques d’un établissement qui en émet ou en a
+émis (cf. décision Axa France Vie du 8 décembre 2016) ; que l’ACPR avait au demeurant, dans les
+PAS relatifs à la LCB-FT pour le secteur de l’assurance publiés en 2010, dans une section consacrée
+aux contrats à risque élevé, mentionné que les contrats permettant l’anonymat du souscripteur ou du
+bénéficiaire devaient nécessairement être classés dans cette catégorie de risques ; que si, ainsi que le
+souligne à juste titre la société A, les PAS, qui ne créent pas d’obligations nouvelles, ne peuvent être
+qualifiés que de « source non contraignante », ils n’en attiraient pas moins nettement l’attention des
+organismes assujettis sur les risques associés à cette catégorie de produits ; que, de même, dans le
+rapport d’évaluation mutuelle de la France publié le 25 février 2011, le GAFI avait souligné que ce
+produit présentait par nature des risques élevés de blanchiment des capitaux et de financement du
+terrorisme (ci-après « BC-FT ») (rapport, § 1005) ; que le risque de BC-FT lié à la portabilité des BCP
+se réalise notamment lors de leur remboursement ; que c’est l’existence d’un tel risque qui a justifié
+que des mesures de vigilance complémentaire soient imposées à leur sujet, avant que le décret
+n° 2018-284 du 18 avril 2018 renforçant le dispositif français de lutte contre le blanchiment de
+capitaux et le financement du terrorisme, qui a notamment modifié l’article R. 561-19 du CMF, ne
+précise les diligences qui doivent être faites lors du remboursement de ces bons ; que leur classement
+en risque élevé en cours de contrôle est sans conséquence sur le grief, qui est établi ;
+B. Sur les règles et procédures internes de LCB-FT
+17. Considérant qu’aux termes du 4° du I de l’article R. 561-38 du CMF, les organismes assujettis
+« définissent les procédures à appliquer pour le contrôle des risques, la mise en œuvre des mesures de
+vigilance relatives à la clientèle, la conservation des pièces, la détection des transactions inhabituelles
+ou suspectes et le respect de l'obligation de déclaration au service Tracfin » ; que le II de l’article A.
+310-8 du code des assurances leur impose de définir « des procédures écrites de maîtrise du risque de
+blanchiment des capitaux et de financement du terrorisme, selon des modalités adaptées à leur
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2017-02
+organisation, et qui tiennent compte, le cas échéant, de leur appartenance à un groupe au sens de
+l'article L. 356-1 du code des assurances. Ces procédures portent sur (…) - les mesures de vigilance à
+mettre en œuvre pour les relations d'affaires mentionnées aux articles L. 561-10, et L. 561-10-2
+(…) » ;
+18. Considérant que, selon le grief 2, fondé sur ces dispositions, la procédure de la société A de
+juin 2012 à destination du réseau commercial salarié « D » n'était pas suffisamment adaptée aux
+risques associés aux opérations de remboursement de BCP, car elle ne prévoyait la mise en œuvre de
+mesures de vigilance spécifiques que pour les rachats supérieurs à 150 000 euros, unitairement ou en
+cumul sur 12 mois, montant très supérieur au montant moyen des opérations exécutées, soit (…) euros
+en 2015 ; qu’en 2014, sur (…) demandes de rachats de BCP, (…) opérations seulement atteignaient ce
+seuil ; que, de plus, cette procédure ne prévoyait pas un renforcement des mesures de vigilance au sens
+du I de l’article L. 561-10-1 du CMF lors du franchissement de seuil de 150 000 euros, puisqu’elle
+imposait seulement un recueil d’informations sur base déclarative, consignée dans un « rapport
+confidentiel », mais pas la collecte de pièces justificatives; qu’elle ne prévoyait pas non plus, lors d’un
+remboursement en espèces sous le régime de l’anonymat fiscal, la mise en œuvre d'une mesure de
+vigilance complémentaire parmi les 4 mesures énumérées au 1 de l'article R. 561-20 du CMF ;
+19. Considérant, tout d’abord, que si la réglementation n’a pas défini de méthode quant à la fixation
+de seuils destinés à la détection des opérations atypiques, seuils qu’elle ne prévoit ni n’exclut, il se
+déduit nécessairement des dispositions ci-dessus rappelées que les dispositifs mis en place par les
+organismes assujettis doivent être efficaces ; qu’une procédure retenant comme critère essentiel
+d’alerte pour certaines opérations un seuil correspondant à 1 % des transactions effectuées ne répond
+pas à cette exigence ; que la définition, à ce titre, d’un seuil unique et fixe, est en outre difficilement
+compatible avec l’approche par les risques introduite par l’ordonnance n° 2009-104 ; que la
+détermination par la loi de seuils fixes pour la communication systématique d’informations (COSI) à
+Tracfin n’est pas de nature à modifier cette appréciation, un tel dispositif de communication
+d’informations sans analyse préalable par les organismes assujettis répondant à une logique
+différente ; que l’obligation prévue par le II de l’article A. 310-8 du code des assurances implique
+nécessairement qu’une procédure de maîtrise des risques de BC-FT soit adaptée aux caractéristiques
+des opérations effectuées par l’organisme ; que les actions correctrices présentées sont sans
+conséquence sur le premier reproche, qui est établi ;
+20. Considérant, ensuite, qu’en application du I de l’article L. 561-10-2 du CMF et au regard du
+risque élevé des BCP, la société A aurait dû mettre en place des mesures de vigilance renforcée en ce
+qui concerne le remboursement de ces produits ; que, toutefois, le recueil de justificatifs n’étant pas
+expressément prévu et ne relevant pas nécessairement des diligences à accomplir au titre de la
+vigilance renforcée exigée, cette partie du reproche devra être écartée ; qu’en revanche, la procédure
+de la société A ne prévoyait, en cas de remboursement en espèces sous le régime de l’anonymat fiscal,
+la mise en œuvre d’aucune des mesures de vigilance complémentaire mentionnées par l’article R. 561-
+20 du CMF ; que ce dernier reproche est donc établi ;
+21. Considérant que le grief est établi dans un périmètre réduit ainsi qu’il a été dit ;
+C. Sur le dispositif de suivi et d’analyse des relations d’affaires
+22. Considérant qu’aux termes du premier alinéa du VI de l’article A. 310-8 du code des
+assurances, « les entreprises se dotent de dispositifs de suivi et d'analyse de leur relation d'affaires
+fondés sur la connaissance de la clientèle ou, si besoin est, sur le profil de la relation d'affaires
+permettant de détecter des anomalies ; que « ces dispositifs sont adaptés aux risques identifiés par la
+classification, ils doivent permettre de définir des critères et des seuils significatifs et spécifiques en
+matière de blanchiment de capitaux et de financement du terrorisme » ;
+23. Considérant que, selon le grief 3, fondé sur ces dispositions, le dispositif de surveillance
+automatisé mis en place par la société A, incomplet, n’était ni suffisamment adapté aux risques élevés
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2017-02
+présentés par les remboursements de BCP, ni suffisamment efficace ; qu’en effet, il n’a détecté qu’une
+faible proportion de ces opérations ; que l’outil de surveillance X qu’utilisait la société A n’était activé
+que sur un scénario d’alerte (…), qui repose sur les critères cumulatifs suivants : « nombre de
+paiements suite aux rachats de bons de capitalisation supérieur à 27 sur 12 mois glissants et cumul
+des paiements suite aux rachats de bons de capitalisation supérieurs à 75 K€ sur 12 mois glissants
+effectués sur un même compte bancaire » ; que ce scénario ne permettait pas de détecter les rachats,
+sous le régime de l’anonymat fiscal, de BCP souscrits sous ce même régime, ni ceux effectués via le
+compte de passage d’une Trésorerie publique, pouvant donner lieu à un paiement en espèces au
+guichet, à risque élevé selon l’organisme lui-même, ni ceux effectués par un même porteur sur
+plusieurs années ou par une même famille sur une année civile ou glissante (dossiers F1 à F5) ;
+24. Considérant que la société A conteste le grief sans apporter toutefois d’éléments permettant
+d’estimer que son dispositif automatisé couvrait effectivement les risques résultant du remboursement
+de BCP sous le régime de l’anonymat fiscal ; qu’en effet, les 5 autres scénarios [de l’outil] X
+mentionnés ne traitaient pas des risques propres à ce type d’opérations ; que les critères cumulatifs du
+scénario (…) ne permettaient d’en surveiller que 4 % ; que la société A ne décrit pas un dispositif non
+automatisé qui aurait, à la date du contrôle, permis de pallier les insuffisances de l’outil X, tel qu’il
+avait été paramétré ; que, sur ce point, le nombre d’opérations atypiques détectées en application de la
+grille de « cas de vigilance a priori qui doivent être remontés aux relais » par les collaborateurs de la
+société B travaillant pour le compte de la société A n’est pas mentionné ; que la classification des
+risques et les procédures LCB-FT doivent contribuer à la maîtrise du risque résultant des opérations
+qu’elles mentionnent mais ne constituent pas, en elles-mêmes, un dispositif de détection ; que, devant
+traiter un volume significatif de remboursements de BCP ((…) en 2015), la société A devait
+nécessairement mettre en place des outils de surveillance automatisés ; que les rachats effectués au
+moyen d’un compte de passage présentent un risque élevé, que l’établissement avait identifié ; que les
+dossiers individuels mentionnés par la poursuite pour illustrer le grief ne sont pas contestés ; que le
+grief est donc établi ;
+D. Sur la vigilance complémentaire
+25. Considérant que, selon le 3° de l’article L. 561-10 du CMF, « Les personnes mentionnées à
+l'article L. 561-2 appliquent des mesures de vigilance complémentaires à l'égard de leur client, en sus
+des mesures prévues aux articles L. 561-5 et L. 561-6, lorsque : (…) 3° Le produit ou l'opération
+favorise l'anonymat de celle-ci » ; que l’article R. 561-19 de ce code dispose que « Les produits ou
+opérations mentionnés au 3° de l'article L. 561-10 sont les bons et titres anonymes ainsi que les
+opérations portant sur ces bons et titres anonymes.» ; que le I de l’article R. 561-20 du CMF précise
+que les organismes assujettis doivent, « en sus des mesures prévues aux articles L. 561-5 et L. 561-6,
+au moins l'une des mesures de vigilance complémentaires suivantes ou deux de ces mesures s'il s'agit
+de l'ouverture d'un compte :1° Obtenir une pièce justificative supplémentaire permettant de confirmer
+l'identité de la personne avec laquelle elles sont en relation d'affaires ; / 2° Mettre en œuvre des
+mesures de vérification et de certification de la copie du document officiel ou de l'extrait de registre
+officiel mentionné à l'article R. 561-5 par un tiers indépendant de la personne à identifier ; / 3° Exiger
+que le premier paiement des opérations soit effectué en provenance ou à destination d'un compte
+ouvert au nom du client auprès d'une personne mentionnée aux 1° à 6° de l'article L. 561-2 établie
+dans un État membre de l'Union européenne ou dans un État partie à l'accord sur l'Espace
+économique européen ou dans un pays tiers imposant des obligations équivalentes en matière de lutte
+contre le blanchiment de capitaux et le financement du terrorisme et figurant sur la liste prévue au 2°
+du II de l'article L. 561-9. / 4° Obtenir directement une confirmation de l'identité du client de la part
+d'une personne mentionnée aux 1° à 6° de l'article L. 561-2 établie dans un État membre de l'Union
+européenne ou dans un État partie à l'accord sur l'Espace économique européen. (…)» ;
+26. Considérant que, selon le grief 4, fondé sur ces dispositions, un défaut de vigilance
+complémentaire est caractérisé dans 2 dossiers (G1 et G2), dans lesquels l’établissement a procédé à
+un remboursement de BCP sous le régime de l'anonymat fiscal et en espèces, sans mettre en œuvre une
+mesure de vigilance complémentaire, en particulier sans recueillir une seconde pièce permettant de
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2017-02
+confirmer l'identité du porteur, alors que les fonds n’ont pas été versés sur un compte bancaire ouvert à
+son nom ;
+27. Considérant que les BCP sont des produits qui favorisent l’anonymat au sens du 3° de l’article
+L. 561-10°du CMF ; que les diligences prévues par cet article, qui sont précises, se distinguent de
+celles résultant de la procédure appliquée par les Trésoreries publiques qui, selon les informations
+communiquées par la société A, mentionne seulement qu’en cas de présentation au guichet « la plus
+grande prudence s’impose » ; que, de même, le rappel, dans la procédure de la société A à destination
+du réseau commercial, de ce que les opérations de rachat ou de réinvestissement concernant ce produit,
+nécessitaient « une grande vigilance » et la vérification de l’authenticité du BCP, ne sont pas de nature
+à répondre au grief ; que dans le dossier G1, la présentation par le client d’une carte nationale
+d’identité périmée depuis plusieurs années en sus d’un permis de conduire très ancien ne permettait
+pas de satisfaire correctement à l’obligation de mise en œuvre d’une mesure de vigilance
+complémentaire ; que le fait que, dans le dossier G2, le client ait également souscrit un contrat auprès
+de la société B ne dispensait pas la société A de l’obligation ci-dessus rappelée ; que les autres
+diligences faites pour vérifier l’identité de ces clients ne constituent pas des mesures de vigilance
+complémentaire au sens du I de l’article R. 561-20 du CMF ; que le grief est donc établi ; qu’il doit
+néanmoins être apprécié au regard du nombre de dossiers individuels sur lesquels il est fondé, par
+rapport au nombre de BCP remboursés par la société A en 2015 ;
+E. Sur les défauts d’examen renforcé
+28. Considérant que le II de l’article L.561-10-2 du CMF dispose que les organismes assujettis
+« effectuent un examen renforcé de toute opération particulièrement complexe ou d'un montant
+inhabituellement élevé ou ne paraissant pas avoir de justification économique ou d'objet licite. Dans
+ce cas, (ils) se renseignent auprès du client sur l'origine des fonds et la destination de ces sommes
+ainsi que sur l'objet de l'opération et l'identité de la personne qui en bénéficie". »
+29. Considérant que, selon le grief 5, fondé sur ces dispositions, dans 4 dossiers de rachats de BCP
+(H1 à H4), la société A n’a pas respecté son obligation de procéder à un examen renforcé ;
+1) Sur les remarques générales formulées au sujet de ce grief
+30. Considérant que la société A soutient, à titre liminaire, (i) que l’obligation d’examen renforcé
+n’était pas applicable aux opérations critiquées, qui ont été effectuées par des clients occasionnels ; (ii)
+que les dossiers au sujet desquels le reproche est exprimé ne satisfaisaient pas les critères légaux
+devant conduire à un tel examen ; (iii) que des opérations d’un montant inférieur à 100 000 euros
+présentent un enjeu financier limité ; (iv) que la référence au montant moyen des opérations, utilisée
+par la Commission dans un dossier de changeur manuel (décision SARL Ambition des Frères du 21
+mai 2015), ne peut être transposée aux remboursements de BCP ; (v) que le calcul, par le Collège, du
+montant moyen des opérations de rachat de BCP, soit (…) euros en 2015, est erroné ; (vi) que « La
+justification économique ou la licéité de l’objet sont quant à elles intrinsèquement liées à la nature
+juridique des bons qui sont, rappelons-le, des titres de créances négociables. En d’autres termes, le
+porteur recherche le paiement de la créance qu’il détient et dont le caractère licite n’est pas
+discutable, sauf falsification ou opposition. » ; (vii) qu’il n’existe pas de « levier réglementaire »
+permettant d’exiger des clients des informations sur l’origine et la destination des fonds concernés par
+ces opérations ou sur les modalités d’entrée en possession des bons ; (viii) qu’aucun grief ne peut être
+retenu lorsque l’identité du souscripteur est inconnue, le délai de conservation de 5 ans prévu par
+l’article L. 561-12 du CMF, qui part du jour de la souscription, étant expiré ;
+31. Considérant cependant (i) que l’obligation d’effectuer un examen renforcé s’applique aux
+relations d’affaires comme aux clients occasionnels ; (ii) que son respect doit être vérifié en examinant
+si l’un des critères légaux imposant un tel examen est rempli, ce qui sera fait pour chacun des dossiers
+au sujet desquels un reproche est formulé ; (iii) que l’affirmation selon laquelle les opérations
+inférieures à 100 000 euros présenteraient des enjeux limités en termes de LCB-FT ne s’appuie sur
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2017-02
+aucune disposition réglementaire et est contraire à une approche par les risques ; (iv) que l’utilisation,
+comme critère de détermination des opérations atypiques, du montant moyen des opérations est
+pertinente, quelle que soit la catégorie d’organisme concernée, en particulier lorsqu’il s’agit de
+détecter des opérations effectuées par des clients occasionnels ; (v) que le montant moyen mentionné
+par le Collège ne vient qu’illustrer le reproche ; (vi) que la question de la licéité de l’émission de BCP,
+qui n’est pas en cause, se distingue de l’appréciation de la licéité apparente des opérations de
+remboursement de ces produits au regard des obligations de LCB-FT, variable selon les informations
+réunies à leur sujet ; (vii) que si aucun organisme assujetti ne peut contraindre un client à lui fournir
+les explications ou les justificatifs demandés, il lui incombe, le cas échéant, lorsqu’il n’y parvient pas,
+de déclarer les opérations en cause à Tracfin ; (viii) que l’absence d’identification du souscripteur de
+BCP, notamment lorsque la souscription est très ancienne, n’est pas en tant que tel un critère d’examen
+renforcé mais s’analyse comme une circonstance devant conduire l’organisme concerné à s’interroger
+sur la licéité de l’opération ;
+2) Sur les dossiers
+32. Considérant que dans ces 4 dossiers, les clients ont procédé, entre août 2012 et juillet 2014, au
+remboursement de BCP pour des montants agrégés compris entre un peu moins de 85 000 euros et un
+peu plus de 145 000 euros, montants inhabituellement élevés ; qu’en raison du choix du régime de
+l’anonymat fiscal et du manque d’information sur les circonstances dans lesquelles ces clients étaient
+entrés en possession des bons, il existait une incertitude quant à la licéité de ces opérations ; que dans
+les dossiers H1,H2 et H4, les bons avaient été initialement réglés, totalement ou partiellement en
+espèces ; qu’au surplus, dans les dossiers H1, H3 et H4, aucun élément d’information sur les revenus
+et le patrimoine du client ne figurait au dossier ; qu’enfin, dans le dossier H2, si la cliente disposait
+d’un patrimoine total supérieur à 500 000 euros, les acquisitions de BCP, pour un montant total de
+près de 85 000 euros, étaient atypiques au regard tant de son patrimoine financier (20 000 euros) que
+de ses revenus mensuels (3 000 euros) ; que les diligences invoquées afin de s’assurer de l’identité du
+porteur ne permettent pas de répondre au grief, qui est établi ;
+F. Sur les obligations déclaratives
+Sur les défauts de déclaration de soupçon
+33. Considérant que, selon le I de l’article L. 561-15 du CMF, les organismes assujettis doivent
+déclarer à Tracfin « les sommes inscrites dans leurs livres ou les opérations portant sur des sommes
+dont elles savent, soupçonnent ou ont de bonnes raisons de soupçonner qu’elles proviennent d’une
+infraction passible d’une peine privative de liberté supérieure à un an ou sont liées au financement du
+terrorisme » ; que le III de cet article dispose que ces organismes sont tenus, le cas échéant, d’adresser
+une telle déclaration à l’issue d’un examen renforcé ;
+34. Considérant que, selon le grief 6, fondé sur ces dispositions, la pratique déclarative de la
+société A était très peu développée, avec 3 DS réalisées entre 2014 et la fin du contrôle sur place ; que
+4 dossiers de rachats de BCP présentaient un défaut de DS, dont 3 au visa du I de l’article L. 561-15 et
+un au visa du III cet article ;
+1) Sur les remarques générale formulées au sujet de ce grief
+35. Considérant que la société A soutient, à titre liminaire, (i) que le Collège a dénaturé le grief,
+s’est appuyé sur de simples présupposés et s’est notamment référé à la notion, qui n’est prévue par
+aucune disposition légale, de « circonstance de soupçon aggravé » résultant du choix de l’anonymat
+fiscal, alors que la société A ne disposait pas, dans les 4 dossiers sur lesquels est fondé le grief,
+d’éléments suffisants pour adresser une DS à Tracfin ; (ii) que le porteur d’un BCP est présumé « de
+bonne foi » ; (iii) que, s’agissant des BCP, qui ont fait, dans le passé, l’objet d’une promotion active,
+tout a été « construit dans la législation afin d’éviter que la personne ne soit traçable » ; (iv) qu’il
+serait « inéquitable qu’un porteur lourdement pénalisé fiscalement par le régime de l’anonymat soit le
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2017-02
+sujet d’une déclaration indépendamment de sa véritable situation sachant que Tracfin est susceptible
+de remonter cette information aux services fiscaux compétents… » ; (v) que le grief repose pour partie
+sur l’absence au dossier du client d’éléments sur ses revenus et son patrimoine, alors que ces
+informations doivent uniquement être détenues pour les relations d’affaires ;
+36. Considérant, cependant, que, (i) quelles que soient les observations ou formulations de la
+poursuite au soutien d’un grief relatif à un défaut de DS, la Commission examine uniquement si des
+opérations soumises à son appréciation n’ont pas été déclarées à Tracfin alors qu’elles auraient dû
+l’être au regard des textes applicables ; (ii) que les circonstances dans lesquelles est demandé le
+remboursement de BCP peuvent conduire à douter de l’origine des fonds avec lesquels ils ont été
+acquis, indépendamment de toute considération sur la « bonne foi » du souscripteur, inopérante en
+LCB-FT ; (iii) que les particularités des BCP de même que la promotion dont ils ont pu faire l’objet
+par le passé ne peuvent conduire à exclure les opérations portant sur ce produit du dispositif de LCB-
+FT, faute de disposition particulière le prévoyant ; (iv) que les dispositions légales relatives aux
+obligations déclaratives ne prévoient pas d’alléger celles-ci en raison de la taxation qui applicable à
+ces produits ; (v) que le caractère lacunaire des informations dont dispose un organisme au sujet de
+son client, quelle que soit la nature de la relation avec celui-ci, peut venir renforcer le soupçon relatif à
+ses opérations ;
+2) Sur les dossiers
+37. Considérant que les dossiers F1, G1 et G2, pour lesquels le défaut de DS est reproché au titre
+du I de l’article L. 561-15 du CMF, sont relatifs à des rachats de BCP effectués entre 2011 et 2014
+pour des montants compris entre un peu moins de 14 000 euros et un peu plus de 330 000 euros ; que
+« si aucune disposition législative ou réglementaire n’impose aux organismes qu’ils se renseignent sur
+les modalités d’entrée en possession des bons », la recherche de tels renseignements, qui aurait pu
+permettre de renforcer ou d’écarter le soupçon relatif aux opérations exécutées, n’a pas été effectuée
+par la société A ; que les pièces produites pour certains de ces dossiers F1, ne permettent pas d’écarter
+le soupçon en raison des caractéristiques mêmes de ces opérations ; que ces opérations ont été en
+totalité (dossiers G1 et G2) ou en majorité (dossier F1) effectuées sous le régime de l’anonymat fiscal,
+y compris lorsque la souscription, antérieure à 1998, n’avait pas été effectuée sous ce régime (dossier
+F1) ; que les revenus et le patrimoine des clients n’étaient pas connus de la société A ; que dans deux
+cas (dossiers G1 et G2), les opérations ont transité par le compte de passage d’une Trésorerie publique
+aux fins de remboursement en espèces, ce qui contribuait au soupçon indépendamment de la légalité
+d’un tel mode de remboursement ; qu’enfin le remboursement des bons à l’échéance (G1) n’est pas en
+soi de nature à lever le doute, pas plus que le fait qu’un client ait par ailleurs été titulaire d’au moins
+un contrat souscrit auprès de la société B (G2) ;
+38. Considérant que dans le dossier F4, pour lequel le défaut de DS est reproché au titre du III de
+l’article L. 561-15 du CMF, les circonstances du rachat, entre 2012 et 2014, par plusieurs membres
+d’une même famille, de près de 250 BCP dont le souscripteur était inconnu, pour un montant total
+supérieur à 1 million d’euros dont plus de 330 000 euros par un seul de ses membres, a d’abord donné
+lieu à une alerte, classée sans suite, puis à un examen renforcé ; qu’au terme de cet examen, il était
+indiqué que « l’étude de ce dossier n'a pas permis de déterminer l'origine des titres et la destination
+des fonds» ; que, pourtant, aucune DS n’a été adressée à Tracfin ; que le reproche est donc établi ;
+39. Considérant ainsi que le grief est établi dans sa totalité ;
+Sur la déclaration de soupçon incomplète
+40. Considérant que selon le I de l’article R. 561-31 du CMF, la DS est effectuée « au moyen d'un
+formulaire dont les mentions sont fixées par arrêté du ministre chargé de l'économie. Cette
+déclaration, dactylographiée et dûment signée, est transmise au service mentionné à l'article R. 561-
+33 selon des modalités définies par arrêté du ministre chargé de l'économie » ;
+Autorité de contrôle prudentiel et de résolution 10
+
+===== Page 11 =====
+Décision de la Commission des sanctions – procédure no 2017-02
+41. Considérant que, selon le grief 7, fondé sur ces dispositions, une des trois DS transmises par la
+société A à Tracfin depuis 2014 apparaît insuffisamment détaillée ; qu’en effet, dans le dossier I1, la
+société A avait procédé à une DS le 19 mai 2015, sans y mentionner que le porteur des bons et sa
+compagne sont les locataires de la souscriptrice, élément d’information important pour caractériser le
+soupçon ayant conduit à la DS ;
+42. Considérant que la société A avait joint à la DS une assignation à la requête de la propriétaire
+contre le client, faisant clairement apparaître que ce dernier était locataire de la demanderesse ; que le
+Collège abandonne ce grief ; qu’il lui est donné acte de cet abandon ;
+G. Sur le dispositif de gel des avoirs
+43. Considérant que, selon le deuxième alinéa du VI de l’article A. 310-8 du code des assurances,
+les organismes assujettis « se dotent également de dispositifs permettant de détecter toute opération au
+bénéfice d'une personne ou d'une entité faisant l'objet d'une mesure restrictive spécifique ou de gel des
+fonds instruments financiers et ressources économiques » ;
+44. Considérant que, selon le grief 8, fondé sur ces dispositions, le dispositif de gel des avoirs mis
+en place par l'organisme ne permettait pas de détecter toutes les opérations au profit de personnes dont
+les avoirs sont gelés puisque, tout d’abord, aucun contrôle n’était effectué avant le remboursement en
+espèces de BCP au guichet d’une Trésorerie publique ; que de telles opérations ont parfois été
+réalisées malgré leur interdiction depuis 2011 ; qu’en effet, le filtrage opéré par [l’outil] X portait
+exclusivement sur les données renseignées dans la base « personnes » alors que les données
+d’identification relatives aux porteurs de BCP qui choisissent ce mode de remboursement au guichet
+d’une Trésorerie publique figurent exclusivement sur la demande de rachat sous forme papier ; qu’en
+conséquence, aucun contrôle n'était effectué préalablement sur le porteur demandant un
+remboursement de BCP en espèces auprès d’une trésorerie, son nom n’étant inscrit que sur le
+formulaire papier de rachat ; qu’ensuite, la liste de filtrage des personnes et entités visées par des
+mesures de gel n’était, jusqu’en avril 2015, mise à jour que mensuellement, ce qui ne permettait pas la
+mise en œuvre immédiate des obligations ;
+45. Considérant que la société A ne conteste ni le caractère parcellaire de son dispositif de
+détection, qui ne portait pas sur les remboursements en espèces de BCP au guichet d’une Trésorerie
+publique, ni la périodicité mensuelle des listes de personnes dont les avoirs sont gelés ; que les actions
+d’amélioration de son dispositif sont sans conséquence sur le grief, qui doit néanmoins être apprécié
+en tenant compte de ce qu’aucune opération effectuée au profit d’une personne visée par une mesure
+de gel n’a été détectée ;
+*
+* *
+46. Considérant qu’ainsi qu’il a été dit, la société B, venue aux droits de la société A, a reçu le
+7 novembre 2017 copie du dossier de la présente procédure disciplinaire, lui permettant de présenter
+toutes les observations qu’elle estimait utiles, ce qu’elle a fait, préalablement au dépôt du rapport du
+rapporteur en déposant deux mémoires en défense puis en étant entendue, à sa demande, par le
+rapporteur le 17 mai 2018 ; que la société B a également été représentée lors de l’audience du 6 juillet
+2018 au cours de laquelle les griefs qui avaient été notifiés à la société A ont été examinés ;
+47. Considérant qu’ainsi que la Commission l’a rappelé « une opération de fusion-absorption ne
+peut, eu égard à la mission de régulation de l’ACPR, avoir pour conséquence d’empêcher la sanction
+d’une personne morale ayant absorbé une autre personne morale pour des manquements commis par
+cette dernière avant cette opération » (décision société C venant aux droits de la société A; société B
+du 11 mars 2016) ; que le principe de responsabilité personnelle et de personnalité des peines fait
+obstacle à ce qu’une sanction non pécuniaire soit prononcée à l'encontre de la société B pour des
+Autorité de contrôle prudentiel et de résolution 11
+
+===== Page 12 =====
+Décision de la Commission des sanctions – procédure no 2017-02
+manquements commis par la société A avant son absorption ; qu’une sanction pécuniaire peut
+cependant être prononcée à son encontre, qui devra être publiée sous une forme ne permettant pas de
+l’identifier ;
+*
+* *
+48. Considérant qu’il résulte de ce qui précède qu’à la date du contrôle, la classification des risques
+de la société A était défaillante en ce qu’elle ne plaçait pas, dans tous les cas, le remboursement de
+BCP en risque élevé (grief 1) ; que, dans sa procédure à destination du réseau D, des seuils fixes
+étaient définis de telle sorte qu’ils ne lui permettaient notamment pas de respecter ses obligations de
+vigilance (grief 2) ; que son dispositif de suivi et d’analyse de la relation d’affaires n’était pas, à la
+date du contrôle, adapté à l’ensemble des risques résultant des remboursements de BCP (grief 3) ;
+qu’un défaut de vigilance complémentaire a été relevé dans deux dossiers de cette nature (grief 4) ;
+que la société A a également manqué à son obligation d’effectuer un examen renforcé dans 4 dossiers
+(grief 5) et une DS dans 4 autres dossiers (grief 6) ; qu’elle a de plus adressé à Tracfin une DS
+incomplète (grief 7) ; qu’enfin, son dispositif de gel des avoirs était défaillant (grief 8) ;
+49. Considérant qu’il convient cependant de tenir compte, dans une certaine mesure, de ce que la
+société A a mis à profit le temps écoulé depuis le début du contrôle sur place pour mettre en œuvre des
+actions correctrices qui ont notamment consisté en une interdiction des remboursements de bons en
+espèces, le recueil d’informations sur l’origine des bons présentés au remboursement et l’amélioration
+de son dispositif de gel des avoirs ;
+50. Considérant que les manquements retenus par la Commission justifient, compte tenu de leur
+nature et de leur gravité, d’une part, et de l’assise financière de la société B, d’autre part, le prononcé
+d’une sanction pécuniaire de 200 000 euros ;
+51. Considérant qu’ainsi que cela a été indiqué (cf. supra considérant 47), la présente décision sera
+publiée sans mentionner le nom de la société B ;
+PAR CES MOTIFS
+DÉCIDE :
+ARTICLE 1ER – Il est prononcé à l’encontre de la société B une sanction pécuniaire de deux cent
+mille euros (200 000 euros).
+ARTICLE 2 – La présente décision sera publiée au registre de l’ACPR sous une forme ne
+permettant pas d’identifier la société B et pourra être consultée sous cette forme au secrétariat de la
+Commission.
+Le Président de la Commission
+des sanctions
+[Rémi BOUCHEZ]
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa
+notification et dans les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 12

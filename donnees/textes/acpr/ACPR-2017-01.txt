@@ -1,0 +1,873 @@
+===== Page 1 =====
+CNP ASSURANCES
+Procédure no 2017-01
+–––––
+Blâme et sanction pécuniaire
+de 8 millions d’euros
+–––––
+Audience du 6 juillet 2018
+Décision rendue le 26 juillet 2018
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 13 mars 2017 par laquelle le Président de l’Autorité de contrôle prudentiel et de résolution
+(ci-après l’« ACPR ») informe la Commission de ce que le Collège de supervision de l’ACPR (ci-après le
+« Collège »), statuant en sa formation de sous-collège sectoriel de l’assurance, a décidé d’ouvrir une
+procédure disciplinaire à l’encontre de CNP Assurances, 4, place Raoul-Dautry 75015 Paris, enregistrée sous
+le no 2017-01;
+Vu la notification des griefs du 13 mars 2017 ;
+Vu les mémoires en défense des 17 juillet 2017, 22 décembre 2017 et 19 mars 2018 par lesquels CNP
+Assurances demande i) que les griefs 1, 3, 6, 7, 9 et 14 soient écartés et les autres griefs atténués, ii) dans
+l’hypothèse où une sanction serait prononcée, qu’elle le soit dans le respect du principe de proportionnalité
+de la peine eu égard à la singularité de son modèle d’affaires, au faible nombre de dossiers relevés par la
+mission de contrôle et à son absence d’intention d’enfreindre la réglementation et iii) que l’audience ne soit
+pas publique ;
+Vu les mémoires en réplique des 30 octobre 2017 et 9 février 2018, par lesquels M. Jean-François
+Lemoux, représentant du Collège, maintient l’ensemble des griefs notifiés ;
+Vu le procès-verbal de l’audition, le 17 mai 2018, de CNP Assurances, représentée par son directeur
+général ;
+Vu le rapport du 4 juin 2018 de M..Francis Crédot, rapporteur, dans lequel celui-ci conclut que les 14
+griefs notifiés sont établis, mais que 8 le sont dans un périmètre réduit (griefs 2, 3, 4, 8, 9, 10 et 14) ou
+doivent être relativisés (grief 6) ;
+Vu les courriers du 5 juin 2018 convoquant les parties à l’audience et les informant de la composition de
+la Commission et de ce qu’il sera fait droit à la demande présentée par CNP Assurances tendant à ce que
+cette audience ne soit pas publique ;
+Vu les observations présentées le 20 juin 2018 par CNP Assurances en réponse au rapport du rapporteur ;
+Vu les autres pièces du dossier, notamment le rapport de contrôle du 17 mai 2016 ;
+Vu le code monétaire et financier (ci-après le « CMF »), notamment ses articles L. 561-6, L. 561-7,
+L. 561-10, L. 561-10-2, L. 561-15, L. 561-16, L. 562-3, L. 612-39, R. 561-12, R. 561-13, R. 561-20, R. 561-
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2017-01
+31, D. 561-32-1, R. 561-38, R. 562-2 et R. 612-35 à R. 612-51, dans leur rédaction en vigueur au moment du
+contrôle sur place ;
+Vu le code des assurances, notamment ses articles A. 310-8 et A. 310-9 ;
+Vu l’instruction n° 2012-1-04 du 28 juin 2012 modifiée relative aux informations sur le dispositif de
+prévention du blanchiment de capitaux et du financement des activités terroristes (ci-après l’« instruction du
+28 juin 2012 ») ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACPR, composée de M. Rémi Bouchez, Président, de Mmes Claudie
+Aldigé et Claudie Boiteau et de MM. Jean-Pierre Jouguelet et Thierry Philipponnat ;
+Après avoir entendu, lors de sa séance non publique du 6 juillet 2018 :
+– M... Francis Crédot, rapporteur, assisté de Mme Marie Mallard Saïh et de M. Fabien Patris, ses adjoints ;
+– Mme Priscille Merle, représentante de la directrice générale du Trésor ;
+– M. Jean-François Lemoux, représentant du Collège, assisté de l’adjointe au directeur des affaires
+juridiques, de l’adjointe au chef du service des affaires institutionnelles et du droit public, de l’adjointe
+au chef du service du contrôle des dispositifs anti-blanchiment et de juristes au sein de la direction des
+affaires juridiques ; M. Lemoux a proposé à la Commission de prononcer un blâme et une sanction
+pécuniaire de 10 millions d’euros dans une décision publiée sous une forme nominative ;
+– CNP Assurances, représentée par son président du conseil d’administration et son directeur général,
+assistés de la directrice de la Conformité Groupe et de la directrice juridique Groupe, et conseillés par
+Mes Serge Durox, Caroline Mercier-Havsteen et Cécilia Challal, avocats à la Cour (cabinet Ernst &
+Young) ainsi que par Me Antoine Delvolvé (SCP Delvolvé-Trichet) ;
+Les représentants de CNP Assurances ayant eu la parole en dernier ;
+Après avoir délibéré en la seule présence de M. Bouchez, Président, de Mmes Aldigé et Boiteau et de
+MM. Jouguelet et Philipponnat, ainsi que de M. Jean-Manuel Clemmer, chef du service de la Commission
+des sanctions faisant fonction de secrétaire de séance ;
+1. Considérant que CNP Assurances est une entreprise publique dont le principal actionnaire est la Caisse
+des dépôts et consignations (ci-après la « CDC ») qui détenait, au moment du contrôle, 40,8 % de son capital
+tandis que l’État en détenait 1,1 % ; qu’en 2017, elle a réalisé un chiffre d’affaires de 32 milliards d’euros
+dans le monde, dont 23 milliards en France, et un résultat net de près de 1,3 milliard d’euros ; que le groupe,
+premier assureur de personnes en France, comptait cette même année (…) millions d’assurés en prévoyance /
+protection et plus de (…) millions en épargne / retraite ; que pour distribuer ses contrats en France, CNP
+Assurances utilise presque exclusivement les réseaux de ses deux partenaires bancaires, Y et le groupe Z, qui
+interviennent en qualité de mandataires d’assurances ; que son propre réseau salarié, dénommé « Amétis »,
+ne contribue qu’à hauteur de (…) % de son chiffre d’affaires en France ; que les réseaux bancaires qui
+distribuent ses produits sont également, depuis 1992, ses actionnaires, par l’entremise de la holding
+Sopassure qui détenait, à la date du contrôle, 36,3 % du capital de CNP Assurances ; que l’État, la CDC et
+Sopassure sont unis, jusqu’au 31 décembre 2019, par un pacte d’actionnaires ;
+2. Considérant que CNP Assurances a fait l’objet d’un contrôle sur place de son dispositif de lutte contre
+le blanchiment des capitaux et le financement du terrorisme (ci-après « LCB-FT ») du 3 décembre 2014 au
+1er février 2016 ; que ce contrôle a donné lieu à la signature d’un rapport définitif le 17 mai 2016 (ci-après le
+« rapport de contrôle ») ; qu’au vu de ce rapport, le Collège a décidé, lors de sa séance du 16 février 2017,
+d’ouvrir la présente procédure disciplinaire ;
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2017-01
+I. Sur les questions générales
+A. - Sur le modèle d’affaires de CNP Assurances
+3. Considérant que CNP Assurances demande, tout d’abord, que soit prise en considération la singularité
+de son histoire et de son modèle d’affaires, dont il résulte que ses réseaux bancaires distributeurs, parties au
+pacte d’actionnaires et en « position dominante » vis-à-vis d’elle, estimaient jusqu’à récemment avoir le
+monopole de la relation avec la clientèle de CNP Assurances, qui est aussi la leur ; qu’ensuite, ces réseaux
+étant soumis aux mêmes obligations de LCB-FT qu’elle, il doit être tenu compte des informations qu’ils
+détenaient et des diligences qu’ils ont accomplies au sujet de ces clients communs, qui devaient
+nécessairement conclure un contrat bancaire avant de conclure un contrat d’assurance ; qu’enfin, la
+répartition des tâches avait été précisée dans des annexes aux conventions de délégation de gestion conclues
+avec Y et Z (ci-après les « conventions de délégation de gestion ») ;
+4. Considérant cependant, tout d’abord, que les souscripteurs de contrats d’assurance de CNP Assurances
+sont des clients de celle-ci, qui est soumise dès lors à des obligations de vigilance et de déclaration distinctes
+de celles des réseaux bancaires distributeurs ; qu’un tel schéma de « bancassurance » est au demeurant
+fréquent en France ; que les difficultés que rencontrait CNP Assurances, à la date du contrôle, pour obtenir,
+au sujet de ses clients, les informations que détenaient ses distributeurs et actionnaires constituent un élément
+de contexte qui n’est pas susceptible d’affecter l’imputabilité à cette société des manquements reprochés, non
+plus que l’appréciation à porter sur leur réalité ;
+5. Considérant, ensuite, qu’il ressort des annexes LCB-FT aux conventions de délégation de gestion que
+les deux groupes bancaires intervenaient, pour la distribution de produits CNP Assurances, en qualité de
+« tiers introducteurs » ; qu’il y était mentionné que « CNP Assurances ne détient pas de dossier « client ». En
+vertu des articles L. 561-7-I et R 561-13 du code monétaire et financier, CNP Assurances délègue aux
+banques, qui présentent les contrats d'assurance dans leurs agences, les obligations d'identification et de
+recueil des éléments de connaissance du client prévues aux premiers alinéas des articles L. 561-5 et L. 561-6
+du code monétaire et financier. » ; que dans un tel dispositif, en cas de non-respect, par les deux réseaux
+bancaires distributeurs, de l’obligation, imposée par le I de l’article R. 561-13 du CMF mais non mentionnée
+par ces annexes, de « mettre sans délai » à la disposition de la personne assujettie « les éléments
+d'information relatifs à l'identité du client ainsi que, le cas échéant, du bénéficiaire effectif et à l'objet et à la
+nature de la relation d'affaires », CNP Assurances se trouvait en risque de méconnaissance de ses propres
+obligations de vigilance ;
+6. Considérant, enfin, qu’il ne se déduit en revanche pas des conventions de délégation de gestion que
+CNP Assurances aurait délégué à ses partenaires la mise en œuvre de ses autres obligations de vigilance et de
+ses obligations de déclaration de soupçon (ci-après « DS ») à Tracfin ; qu’elle a en effet indiqué avoir tenté
+d’organiser une complémentarité entre plusieurs dispositifs de LCB-FT existants ; qu’au demeurant, dans le
+secteur de l’assurance, les modalités de mise en œuvre d’une telle externalisation en matière de LCB-FT
+n’ont été précisées que par le décret n° 2018-284 du 18 avril 2018 renforçant la lutte contre le blanchiment
+des capitaux et le financement du terrorisme ; qu’en conséquence, il ne peut être reproché à CNP Assurances
+un défaut de contrôle de ses activités « externalisées » (cf. infra, grief 4) ; qu’à l’inverse, les diligences faites
+par Y et Z en matière de vigilance et de déclaration à Tracfin en ce qui concerne ceux de leurs clients qui
+sont également clients de CNP Assurances ne l’étaient pas pour le compte de cette dernière et ne la
+dispensaient donc pas de ses propres obligations à ce titre (cf. infra, griefs 2, 8, 9 et 10) ;
+B. - Sur l’incidence éventuelle, sur la présente procédure, de correspondances émanant
+du Collège de supervision de l’ACPR ou de son Secrétariat général
+7. Considérant, en premier lieu, que le 6 avril 2017, le Vice-président de l’ACPR a, au nom du Collège de
+supervision, adressé au Président de la commission de surveillance de la Caisse des dépôts et
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2017-01
+consignations une lettre dans laquelle étaient soulignées de « graves insuffisances dans le dispositif » de
+LCB-FT de CNP Assurances, ce qui, selon celle-ci, a suscité un « malaise » en donnant le sentiment que « la
+cause était entendue » ;
+8. Considérant, cependant, que ces remarques du Collège, autorité de poursuite dans l’organisation de
+l’ACPR, dont la Commission n’a eu connaissance que parce que CNP Assurances en a fait état, ne sauraient
+avoir d’incidence sur les appréciations qu’il appartient à la Commission de porter à partir de la notification
+des griefs dont elle a été saisie ;
+9. Considérant, en second lieu, que le Secrétariat général de l’ACPR a adressé à CNP Assurances le
+4 juillet 2017, après ouverture de la présente procédure, une « lettre de suite » dans laquelle des actions
+correctrices étaient demandées, à mettre en place selon un calendrier déterminé ; que CNP Assurances fait
+valoir que ces actions correctrices concernent les mêmes aspects de son dispositif de LCB-FT que ceux qui
+font l’objet de la présente procédure et que les mettre en œuvre impliquerait de sa part de reconnaître les
+insuffisances qui lui sont reprochées, ce qui reviendrait à contribuer à sa propre incrimination ; qu’en
+conséquence, le Collège a préjugé des débats et de l’issue de la procédure disciplinaire et « fragilisé au
+passage la présomption de non-culpabilité » dont elle aurait dû bénéficier ;
+10. Considérant, cependant, que la mise en œuvre par un établissement soumis à supervision de l’ACPR
+de recommandations ou demandes formulées par le Secrétariat général de cette autorité dans une lettre de
+suite ou de quelconque autre façon ne vaut pas reconnaissance d’un manquement ; qu’ainsi, les insuffisances
+relevées dans une lettre de suite peuvent se recouper avec celles mentionnées dans une notification des griefs
+sans que cela ait pour conséquence de porter atteinte aux droits de la défense ; qu’au demeurant, les échanges
+qui ont suivi l’envoi de cette lettre n’ont pas pu influencer la présente procédure, à laquelle ils n’ont pas été
+joints ; que c’est au vu des arguments et pièces figurant au dossier et relatifs aux manquements retenus par la
+notification des griefs que la Commission des sanctions apprécie, au terme d’échanges contradictoires, la
+réalité et la gravité de ces manquements ;
+11. Considérant ainsi que l’envoi de ces deux lettres n’a pas eu pour effet de porter atteinte aux intérêts de
+CNP Assurances dans la présente procédure ;
+II. Sur les griefs
+A. - Sur l’organisation du dispositif de LCB-FT
+1) Sur la classification des risques
+12. Considérant que le 2° du I de l’article R. 561-38 du CMF exige des établissements assujettis qu’ils
+« élaborent une classification des risques de blanchiment des capitaux et de financement du terrorisme
+présentés par leurs activités, selon le degré d'exposition à ces risques apprécié en fonction notamment de la
+nature des produits ou des services offerts, des conditions des transactions proposées, des canaux de
+distribution utilisés ainsi que des caractéristiques des clients» ; que le I de l’article A. 310-8 du code des
+assurances impose aux entreprises assujetties d’établir « une classification et une évaluation des risques.
+Cette classification couvre : / - les opérations avec les personnes mentionnées à l'article R. 561-18 du code
+monétaire et financier ; / - les activités exercées par des filiales ou établissements dans les États ou
+territoires mentionnés au paragraphe VI de l'article L. 561-15 du même code ; / - les activités exercées par
+des filiales ou établissements dans les États ou d'État faisant l'objet de mesures restrictives spécifiques prises
+en application de règlements du Conseil de l'Union européenne ou de gel des avoirs. / L'évaluation des
+risques porte sur : / - les différents produits ou services proposés, leur mode de commercialisation, la
+localisation ou les conditions particulières des opérations, ainsi que les caractéristiques de la clientèle ; / -
+les activités de gestion des contrats, y compris celles qui ont été externalisées. / Cette classification et cette
+évaluation sont mises à jour de façon régulière et à la suite en particulier de tout événement affectant
+significativement les activités, les clientèles, les filiales ou établissements.» ;
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2017-01
+13. Considérant que, selon le grief 1, fondé sur ces dispositions, le seuil de (…) euros défini par CNP
+Assurances pour classer, pour le canal de distribution bancaire, une opération en risque élevé n’est pas
+suffisamment adapté aux risques portés par l’organisme ; que ce seuil, qui s’applique indistinctement à toute
+la clientèle résidant fiscalement en France, est très éloigné du montant moyen des opérations de versement
+((…) euros) ou de rachat ((…) euros pour ceux distribués par Y et (…) euros pour ceux distribués par Z) ;
+que CNP Assurances a tardivement mis à jour cette classification, en ne classant en risque élevé les
+opérations de remboursement des bons de capitalisation au porteur (ci-après « BCP ») réalisées dans le cadre
+du régime de l’anonymat fiscal par virement sur un compte bancaire qu’à compter de juillet 2015, alors
+même qu’elle a procédé en 2014 au remboursement sous ce régime de (…) BCP pour un montant total de
+(…) millions d’euros ;
+14. Considérant, tout d’abord, que CNP Assurances soutient que la réglementation n’impose pas
+l’utilisation de critères quantitatifs dans la détermination des seuils utilisés dans une classification des
+risques et conteste la méthode de calcul utilisée par la poursuite ; qu’en outre, le montant moyen des
+opérations retenu par la poursuite est tiré d’une annexe, qui n’a pas été soumise au débat contradictoire ;
+15. Considérant, cependant, que la référence à un seuil unique et fixe, par opération ou sur 12 mois
+glissants, non modulé selon le profil des clients et la nature des opérations, est difficilement compatible avec
+une approche par les risques ; que si CNP Assurances critique le mode de calcul des montants moyens
+d’opération mentionnés par la poursuite, ces montants ne viennent qu’illustrer le niveau trop élevé au regard
+de l’ensemble des opérations à traiter du seuil qu’elle retenait, ce dont atteste également le fait, qui n’est pas
+contesté, que plus de 95 % des versements libres n’étaient pas examinés ; qu’ainsi qu’il a été précédemment
+indiqué, il est sans conséquence que ce seuil ait été défini conjointement avec les partenaires bancaires ;
+qu’aucun principe ni aucune disposition du CMF n’oblige le Collège à n’appuyer la notification des griefs
+que par des pièces issues du contrôle sur place ou soumises à débat contradictoire préalablement à
+l’ouverture de la procédure disciplinaire ; qu’il n’est résulté de cette annexe aucune atteinte aux droits de la
+défense dès lors que CNP Assurances a pu, à ce sujet également, communiquer à la Commission toutes les
+informations qu’elle estimait utiles sur le montant moyen de ses opérations ; que la démarche entreprise par
+CNP Assurances à partir de septembre 2015, en relation avec ses partenaires bancaires, pour modifier ces
+seuils, s’analyse comme une action correctrice, sans conséquence sur ce premier reproche, qui est établi ;
+16. Considérant, ensuite, que CNP Assurances soutient qu’aucune disposition légale n’imposait de placer
+le remboursement des BCP en risque élevé dans sa classification des risques ; que ce classement n’était
+recommandé que dans des textes sans valeur normative tels que les principes d’application sectoriels (ci-
+après les « PAS ») ; qu’elle estime en outre que le placement en risque élevé ne pouvait conduire, compte
+tenu de la nature particulière du BCP, qui n’instaure pas une relation d’affaires entre l’organisme émetteur et
+le porteur du bon, qu’à renforcer les mesures d’identification de ce dernier, ce que CNP Assurances faisait à
+chaque demande de remboursement ;
+17. Considérant, cependant, qu’une classification des risques au titre de la LCB-FT doit prendre en
+compte le degré d’exposition au risque résultant de chaque produit émis ou commercialisé ; qu’ainsi que l’a
+rappelé la Commission, dès lors qu’ils favorisent l’anonymat au sens du 3° des articles L. 561-10 et R. 561-
+19 du CMF, les BCP doivent nécessairement être placés en risque élevé dans la classification des risques
+d’un établissement qui en émet ou en a émis (cf. décision Axa France Vie du 8 décembre 2016) ; que
+l’ACPR avait au demeurant, dans les « PAS » relatifs à la LCB-FT pour le secteur de l’assurance publiés en
+2010, dans une section consacrée aux contrats à risque élevé, mentionné que les contrats permettant
+l’anonymat du souscripteur ou du bénéficiaire devaient être classés dans cette catégorie de risques ; que si,
+ainsi que le souligne à juste titre CNP Assurances, les PAS de l’ACPR ne sont que des instruments
+d’explication de la réglementation, ils n’en attiraient pas moins nettement l’attention des organismes
+assujettis sur les risques associés à cette catégorie de produits ; que, de même, dans le rapport d’évaluation
+mutuelle de la France publié le 25 février 2011, le GAFI avait souligné que ce produit présentait par nature
+un risque élevé de blanchiment des capitaux et de financement du terrorisme (ci-après « BC-FT ») (rapport, §
+1005) ; que le risque de BC-FT lié à la portabilité des BCP se réalise notamment lors de leur
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2017-01
+remboursement ; que c’est l’existence d’un tel risque qui a justifié que des mesures de vigilance
+complémentaire soient imposées à leur sujet ; qu’un classement en risque élevé n’implique pas seulement un
+renforcement des mesures prévues aux articles L. 561-5 et L. 561-6 du CMF de la part de l’organisme, mais
+doit aussi pouvoir le conduire à détecter les opérations atypiques nécessitant un examen renforcé ou une
+déclaration de soupçon ; qu’il est indifférent à cet égard que le client soit occasionnel ou en relation
+d’affaires ; que le classement de toutes les opérations sur BCP réalisées par CNP Assurances en risque élevé
+à compter de juillet 2015, alors que le contrôle sur place était en cours, s’analyse comme une action
+correctrice, sans conséquence sur ce second reproche, qui est également établi ;
+18. Considérant ainsi que le grief 1 est établi dans son intégralité ;
+2) Sur les règles et procédures internes
+19. Considérant que, selon le 4° du I de l'article R. 561-38 du CMF, les organismes assujettis définissent
+des procédures à appliquer pour le contrôle des risques et la mise en œuvre des mesures de vigilance à
+l’égard de la clientèle ; que selon le II de l'article A. 310-8 du code des assurances, qui précise ce texte, ces
+procédures écrites doivent être adaptées à leur organisation, porter sur les diligences à accomplir en matière
+d'identification du client, et le cas échéant, du bénéficiaire effectif, notamment lorsqu'elles ont recours à un
+tiers mentionné à l'article L.561-7 du CMF pour entrer en relation avec un client dans les conditions prévues
+au I de l'article R. 561-13 du même code, ainsi que sur toutes les mesures de vigilance à mettre en œuvre
+pour les relations d'affaires mentionnées aux articles L. 561-10 et L. 561-10-2 du CMF ;
+20. Considérant que, selon le grief 2, fondé sur ces dispositions, les annexes LCB-FT aux conventions de
+délégation de gestion conclues par CNP Assurances avec Y et Z ne sont pas suffisamment cohérentes avec sa
+propre classification des risques ; qu’ainsi, ce n’est que lorsqu’un seuil de (…) euros est dépassé, selon ces
+conventions, que des pièces justificatives sont exigées, de sorte qu’il n’est procédé au recueil de pièces
+justificatives que dans un nombre infime de cas, représentant moins de 0,5 % des opérations effectuées par
+l’intermédiaire d’Y et Z ; qu’en outre, aucune disposition applicable à CNP Assurances, qu’il s’agisse de sa
+propre procédure « fédérale » ou des annexes aux conventions de délégation de gestion, ne vient préciser i)
+toutes les modalités d’identification du bénéficiaire effectif d’une personne morale, alors que l’organisme en
+compte parmi ses clients, ii) les mesures de vigilance complémentaire à mettre en œuvre à l’égard d’un client
+qui devient une personne politiquement exposée (ci-après « PPE ») en cours de la relation d’affaires, iii)
+ainsi que celles à diligenter en présence d’opérations réalisées par des personnes établies ou enregistrées dans
+un État ou un territoire non coopératif (ci-après « ETNC »), alors que la mission de contrôle a détecté de tels
+clients ;
+21. Considérant, tout d’abord, que la partie des annexes aux conventions de délégation de gestion
+décrivant non les diligences de CNP Assurances mais celles devant être faites par Y et Z en cas de vigilance
+renforcée ne peut, s’agissant d’une activité qui n’a pas été externalisée (cf. supra considérant 6), être
+assimilée aux procédures internes de CNP Assurances, de sorte qu’une éventuelle incohérence entre ces
+annexes et sa propre procédure, dite « fédérale », ne peut lui être reprochée ; qu’il ne peut pas non plus être
+reproché à CNP Assurances de n’avoir pas indiqué dans sa procédure qu’une autorisation d’un membre de
+l’organe exécutif ou d’une personne habilitée à cet effet par l’organe exécutif était nécessaire au maintien du
+contrat avec un client devenu PPE au cours d’une relation d’affaires, cette exigence n’étant pas imposée par
+l’article R. 561-20 du CMF dans sa version en vigueur au moment du contrôle sur place ; qu’au demeurant,
+si les lignes directrices relatives à la notion de PPE, dans leur version de novembre 2013, mentionnaient, au
+sujet du client dont la qualité de PPE n’est détectée qu’après l’entrée en relation d’affaires, qu’une
+autorisation « devrait être obtenue » dans les conditions ci-dessus rappelées, cette indication, formulée au
+conditionnel, était complétée par la mention de la nécessité « à tout le moins » d’une information de l’organe
+exécutif au terme de la révision des dossiers de la clientèle existante prévues par l’article 19 de l’ordonnance
+n° 2009-104 du 30 janvier 2009 relative à la prévention de l'utilisation du système financier aux fins de
+blanchiment de capitaux et de financement du terrorisme (§ 18 et 19) ;
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2017-01
+22. Considérant, en revanche, que la procédure « fédérale » de CNP Assurances ne mentionnait pas
+l’obligation d’identification et de vérification du bénéficiaire effectif, notion explicitée par l’ordonnance du
+30 janvier 2009 mentionnée ci-dessus et qui, dans le domaine de l’assurance, avait été au demeurant précisée
+par les lignes directrices de septembre 2011 de l’ACPR (page 5) ; qu’elle n’imposait un suivi régulier des
+clients étrangers, afin de détecter s’ils n’étaient pas devenus des PPE au cours de la relation d’affaires, que
+pour son propre réseau Amétis, et non pour la majorité des clients apportés par les partenaires bancaires, ce
+suivi ne s’appliquant en outre pas aux clients de nationalité française résidant à l’étranger ; qu’enfin, si CNP
+Assurances soutient qu’à défaut de comprendre une rubrique spécifique consacrée aux personnes établies
+dans un ETNC, sa procédure imposait systématiquement, dans ce cas, un certain nombre de diligences dont
+un paiement de la prime du contrat d’assurance à partir d’un compte bancaire domicilié dans un pays de sa
+« liste blanche », les mesures qu’elle décrit ne suffisent pas à répondre aux exigences légales imposées au
+sujet de ces clients par le B du III de l’article R. 561-20 du CMF ;
+23. Considérant que les actions correctrices mentionnées, postérieures au contrôle, sont sans conséquence
+sur le grief, qui est établi dans un périmètre réduit ainsi qu’il a été dit ;
+3) Sur le dispositif de suivi et d’analyse de la relation d’affaires
+24. Considérant que, selon le premier alinéa du VI de l’article A. 310-8 du code des assurances, les
+entreprises se dotent de dispositifs de suivi et d’analyse de leur relation d’affaires fondés sur la connaissance
+de la clientèle ou, si besoin est, sur le profil de la relation d’affaires permettant de détecter des anomalies ;
+que ces dispositifs sont adaptés aux risques identifiés par la classification des risques et doivent permettre de
+définir des critères et des seuils significatifs et spécifiques en matière de BC-FT ;
+25. Considérant que, selon le grief 3, fondé sur ces dispositions, le dispositif de suivi et d’analyse des
+relations d’affaires de CNP Assurances, qui repose a priori sur des outils de détection des opérations
+atypiques par l’utilisation de seuils et de scénarios déclencheurs d’alertes, et a posteriori sur des scénarios
+paramétrés dans l’outil informatique « X », est insuffisant ; qu’en effet, (i) aucun seuil de vigilance ou
+scénario d’alertes n’intègre les éléments de connaissance des clients relatifs à leur patrimoine ou leurs
+revenus, ii) les scénarios utilisés dans [l’outil] X, fondés sur des critères cumulatifs, sont trop restrictifs ;
+qu’en conséquence, le nombre d’alertes en 2013 et 2014, soit respectivement (…) et (…), est faible au regard
+du nombre total d’assurés et de contrats actifs, soit (…) et (…) millions, respectivement, sur le périmètre
+étudié par la mission de contrôle ; qu’en outre, dans trois dossiers A16, D5 et F7, l’alerte a été classée sans
+suite sur la base de l’analyse d’un seul des critères utilisés dans les scénarios qui avaient été paramétrés dans
+l’outil X ;
+26. Considérant, tout d’abord, qu’il n’est pas contesté que l’outil X n’était pas alimenté par les
+informations relatives au patrimoine et aux revenus des clients, qui étaient conservées par les partenaires
+bancaires de CNP Assurances, ce qui constitue une carence majeure du dispositif de cette dernière ;
+qu’ensuite, si certains des 14 scénarios d’alertes reposaient sur un seul critère, de sorte qu’il ne peut être
+affirmé, de manière générale, que tous ces scénarios étaient trop restrictifs, la plupart d’entre eux, dont
+le scénario (…), relatif aux rachats de BCP, retenaient bien un cumul de critères, ce qui affectait de manière
+très importante leur efficacité et par suite celle du dispositif de suivi et d’analyse de la relation d’affaires ;
+qu’en outre, alors que la qualité de ce dispositif suppose que les alertes émises donnent systématiquement
+lieu à une analyse pertinente, un défaut d’analyse des alertes est avéré, après examen des éléments fournis
+par CNP Assurances, dans deux des trois dossiers mentionnés par la poursuite ; que, dans un périmètre
+légèrement réduit ainsi qu’il a été dit, le grief 3 est donc établi ;
+4) Sur le contrôle interne du dispositif de LCB-FT
+27. Considérant que, selon le 5° du I de l’article R. 561-38 du CMF, les entreprises assujetties mettent en
+œuvre des procédures de contrôle, périodique et permanent, des risques de BC-FT ; que, selon le II de
+l’article A. 310-9 du code des assurances, elles veillent également à assurer un contrôle permanent de
+l'application des procédures internes et prennent, le cas échéant, les mesures appropriées pour corriger les
+anomalies ;
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2017-01
+28. Considérant que, selon le grief 4, fondé sur ces dispositions, CNP Assurances n’a pas veillé à la
+bonne application des annexes de LCB-FT des conventions de délégation de gestion passées avec ses réseaux
+distributeurs ; que, tout d’abord, bien qu’ayant recours à la tierce introduction prévue par l’article L. 561-7
+du CMF, elle n’a pas veillé à recevoir, à première demande, et au plus tard dans les 15 jours qui suivent, au
+titre de ses obligations de vigilance, les documents et informations recueillis à l’entrée de la relation
+d’affaires par les réseaux bancaires d’Y et du groupe Z qui détiennent les dossiers clients ; qu’ainsi, le délai
+moyen d’obtention de ces éléments était de 26 jours au moment du contrôle, et une partie d’entre d’eux n’a
+pu être obtenue par la mission ; que CNP Assurances a reconnu dans sa réponse au projet de rapport ne pas
+être en mesure d’obtenir « tous les documents ou informations demandés aux partenaires distributeurs »
+mais n’a lancé les mesures correctrices qu’en 2015 ; qu’ensuite, bien qu’ayant procédé à une externalisation
+de certaines de ses obligations de vigilance à Y et Z, CNP Assurances a reconnu n’avoir réalisé aucun
+contrôle de ses délégataires ; qu’en particulier, alors que la convention prévoit la communication par les deux
+réseaux bancaires d’une liste de clients de CNP Assurances qui sont PPE au moment de l’adhésion, afin que
+celle-ci puisse donner son autorisation préalable, les informations utiles n’ont pas été transmises (dossiers A9
+et G12) ;
+29. Considérant que, tout d’abord, le défaut de transmission, à première demande, des informations
+réunies par les partenaires bancaires de CNP Assurances, agissant en qualité de tiers introducteurs, n’est pas
+contesté ; que, quelles que puissent être ses relations avec Y et Z, il appartenait à CNP Assurances de
+s’assurer que les informations requises lui soient effectivement transmises, de sorte qu’elle puisse respecter
+ses propres obligations ; qu’en revanche, comme cela a été précédemment indiqué (cf. supra considérants 6
+et 21), CNP Assurances n’ayant pas délégué, au-delà de ce qui relève de la tierce introduction, une partie de
+ses obligations de LCB-FT à ses partenaires bancaires, il ne saurait lui être utilement reproché, au titre de la
+LCB-FT, de n’avoir pas veillé à la bonne application de ces conventions par ceux-ci ; qu’ainsi, les conditions
+dans lesquelles ces conventions ont été appliquées par Y et Z ne peuvent faire l’objet d’un reproche distinct
+dans la présente procédure mais peuvent exposer CNP Assurances à une sanction au titre du non-respect de
+ses propres obligations de vigilance (cf. infra, griefs 5 et 6) ; que les mesures de remédiation engagées sont
+sans incidence sur la caractérisation du grief 4 qui, dans un périmètre réduit, est donc établi ;
+B. - Sur la mise en œuvre des obligations de vigilance
+1) Sur l’obligation de connaissance de la clientèle
+30. Considérant que selon les articles L. 561-6 et R. 561-12 du CMF, dans leur version en vigueur avant
+le 3 décembre 2016, les organismes assujettis, avant d’entrer en relation d’affaires avec un client et pendant
+toute la durée de celle-ci, recueillent les informations relatives à l’objet et à la nature de cette relation ainsi
+que tout élément d’information pertinent sur ce client ;
+31. Considérant que, selon le grief 5, fondé sur ces dispositions, 35 dossiers clients relevés par la mission
+de contrôle ne comportaient pas tous les éléments nécessaires à une bonne connaissance de la relation
+d’affaires, soit en raison de l’absence ou de défaut de mise à jour de l’information sur la situation financière
+de celle-ci, soit en raison de l’absence ou de l’inexactitude de la profession renseignée ;
+32. Considérant qu’il n’est pas contesté que les informations requises ne figuraient pas dans les dossiers
+tenus par CNP Assurances et mentionnés par la poursuite, ces dossiers étant toutefois au nombre de 30 et non
+de 35 (A1 à A30) ; qu’il ne peut être tenu compte, dans l’appréciation du manquement, de ce que des
+éléments d’information relatifs à 22 de ces clients figuraient dans les dossiers de ses partenaires bancaires
+distributeurs, car CNP Assurances devait, pour respecter son obligation de connaissance de la clientèle, avoir
+immédiatement accès à ces informations, ce qui n’était pas le cas ;
+33. Considérant cependant que le grief est relatif à un défaut de connaissance de certains clients, en raison
+soit de l’absence ou de défaut de mise à jour de l’information sur la situation financière de ceux-ci, soit de
+l’absence ou de l’inexactitude de la profession renseignée ; que, dans le dossier A22, les éléments
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2017-01
+manquants, selon la poursuite, sont uniquement relatifs à l’identification de la cliente ; que ce dossier doit
+donc être exclu du champ du grief, de même que, dans les autres dossiers, tous les éléments relatifs aux
+carences en matière d’identification ;
+34. Considérant ainsi que, dans un périmètre légèrement réduit aux insuffisances en matière de
+connaissance de la relation d’affaires dans 29 dossiers, le grief est établi ;
+2) Sur l’obligation de vigilance complémentaire en présence d’une personne politiquement exposée
+35. Considérant que, selon l’article R. 561-20 du CMF, « II. – Lorsque le client est une personne
+mentionnée au 2° de l'article L. 561-10 ou le devient au cours de la relation d'affaires, les personnes
+mentionnées à l'article L. 561-2 appliquent l'ensemble des mesures de vigilance complémentaires suivantes,
+en sus des mesures prévues aux articles L. 561-5 et L. 561-6 : / 1° Elles définissent et mettent en œuvre des
+procédures, adaptées au risque de blanchiment des capitaux et de financement du terrorisme, permettant de
+déterminer si leur client est une personne mentionnée à l'article R. 561-18 ; / 2° La décision de nouer une
+relation d'affaires avec cette personne ne peut être prise que par un membre de l'organe exécutif ou toute
+personne habilitée à cet effet par l'organe exécutif ; / 3° Elles recherchent, pour l'appréciation des risques
+de blanchiment de capitaux et de financement du terrorisme, l'origine du patrimoine et des fonds impliqués
+dans la relation d'affaires ou la transaction. » ;
+36. Considérant que, selon le grief 6, fondé sur ces dispositions, CNP Assurances ne s’est pas dotée des
+moyens suffisants pour lui permettre de détecter efficacement les PPE à l’entrée en relation d’affaires ; que
+pour le réseau salarié Amétis, d’une part, les bulletins de souscription des contrats ne prévoyaient pas de
+relever la qualité de PPE, tandis que, d’autre part, la fréquence hebdomadaire et annuelle des filtrages
+informatiques a posteriori des bases clients par l’outil X ne permettait pas de garantir qu’aucune relation
+d’affaires n’était nouée avec une PPE avant que celle-ci ne soit détectée lors de ces filtrages ; que, de plus,
+pour les réseaux de ses partenaires bancaires, CNP Assurances n’était pas en mesure d’autoriser l’entrée en
+relation de ses clients PPE, puisqu’elle n’était pas systématiquement avisée en temps utile de leur statut ; que
+cette carence est illustrée par deux dossiers (A16 et G12) ; que, de plus, 12 dossiers de PPE présentent un
+défaut de vigilance complémentaire (A2, A3, A4, A8, A9, A15, A21, G12, B1 à B4), alors même que CNP
+était informée de la qualité de PPE de 4 d’entre eux (dossiers A8, A9, A15 et B4) ;
+37. Considérant, tout d’abord, qu’il résulte de l’instruction que le dispositif de surveillance en place au
+sein de CNP Assurances à la date du contrôle ne lui permettait pas de respecter son obligation de détecter les
+PPE ; que, s’agissant des entrées en relation effectuées par le réseau Amétis, un filtrage a posteriori de la
+base informatique X, selon les périodicités mentionnées par la notification des griefs, ne pouvait permettre à
+CNP Assurances de satisfaire à son obligation de détection des PPE avant l’entrée en relation d’affaires ;
+que, toutefois, la souscription des produits d’assurance par l’intermédiaire de ce réseau n’était ouverte
+qu’aux personnes de nationalité française, et si certaines personnes de nationalité française résidant à
+l’étranger auraient pu être qualifiées de PPE, la poursuite n’apporte aucun exemple d’une entrée en relation
+d’affaires avec une telle personne ; que s’agissant des entrées en relation par l’intermédiaire des partenaires
+bancaires, CNP Assurances admet qu’elle n’avait pas systématiquement accès à l’information sur la qualité
+de PPE de ses clients avant la conclusion du contrat d’assurance ; que la mention de l’obligation de détecter
+les PPE dans les procédures « fédérales » et les annexes LCB-FT est sans incidence sur le grief, dès lors
+qu’aucune conséquence opérationnelle n’était attachée à ces mentions ; que, si CNP Assurances fait état
+d’actions correctrices postérieures au contrôle sur place, cette partie du grief est ainsi établie, sans que les
+conséquences de son modèle d’affaires sur la remontée d’informations, qu’elle invoque, ne conduisent à le
+relativiser ;
+38. Considérant, ensuite, que CNP Assurances soutient que dans 10 des dossiers individuels mentionnés
+relatifs à des PPE, le début de la relation d’affaires est antérieure à l’entrée en vigueur de l’obligation
+d’autorisation par un membre de l’organe exécutif ou une personne habilitée par cet organe ; que, toutefois,
+plusieurs de ces entrées en relation (dossiers A9, B2 et B3) sont en réalité postérieures à l’introduction de ces
+dispositions par le décret n° 2009-1087 du 2 septembre 2009 ; que pour les 7 autres dossiers, il ne peut
+effectivement être reproché à CNP Assurances de ne pas avoir fait prendre par une telle personne la décision
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2017-01
+de maintenir la relation d’affaires, dès lors que cette obligation n’a été introduite que postérieurement au
+contrôle ; que les actions correctrices, par lesquelles, notamment, tous les dossiers de PPE ont été revus par
+la Conformité de CNP Assurances, sont sans conséquence sur le reproche, qui est établi dans un périmètre
+réduit à 3 dossiers ;
+39. Considérant ainsi que le grief 6 est établi dans un périmètre réduit ainsi qu’il a été dit ; qu’il doit être
+apprécié en tenant compte de ce que la clientèle de PPE concernée par la souscription de produits de CNP
+Assurances était faible à la date du contrôle sur place ;
+3) Sur l’obligation de vigilance complémentaire en présence de clients enregistrés ou établis dans un État
+ou un territoire non coopératif
+40. Considérant que, selon le 4°) de l’article L. 561-10 du CMF, les personnes mentionnées à l'article
+L. 561-2 appliquent des mesures de vigilance complémentaires à l'égard de leur client, en sus des mesures
+prévues aux articles L. 561-5 et L. 561-6, lorsque « L'opération est une opération pour compte propre ou
+pour compte de tiers effectuée avec des personnes physiques ou morales, y compris leurs filiales ou
+établissements, domiciliées, enregistrées ou établies dans un État ou un territoire figurant sur les listes
+publiées par le Groupe d'action financière parmi ceux dont la législation ou les pratiques font obstacle à la
+lutte contre le blanchiment des capitaux et le financement du terrorisme ou par la Commission européenne
+en application de l'article 9 de la directive (UE) 2015/849 du 20 mai 2015 relative à la prévention de
+l'utilisation du système financier aux fins du blanchiment de capitaux ou du financement du terrorisme. » ;
+que le III de l’article R. 561-20 de ce code leur impose, lorsqu’elles exécutent de telles opérations, d’évaluer
+le risque de BC-FT qu’elles présentent ; que, dans ce cas, la décision de nouer ou de maintenir une relation
+d’affaires doit être prise par un membre de l’organe exécutif ou une personne habilitée à cet effet par
+l’organe exécutif ; que des informations complémentaires relatives à la connaissance de leur client ainsi qu’à
+l’objet et à la nature de la relation d’affaires doivent également être recueillies ;
+41. Considérant que, selon le grief 7, fondé sur ces dispositions, le dispositif de CNP Assurances ne lui
+permettait pas d’identifier les opérations réalisées par une personne résidant dans un état ou territoire non
+coopératif (ci-après « ETNC ») et titulaire d’un compte bancaire en France ; que ce grief est illustré par deux
+dossiers (C1 et C2) au sujet desquels aucune mesure de vigilance complémentaire n’avait été prise bien que
+les clients aient, à la date des opérations, résidé dans un ETNC ;
+42. Considérant que CNP Assurances ne conteste pas cette carence ; que les actions correctrices dont elle
+fait état sont sans conséquence sur le grief, qui est établi ;
+4) Sur l’obligation de vigilance renforcée en cas de risque élevé
+43. Considérant que, selon le I de l’article L. 561-10-2 du CMF, lorsque le risque de BC-FT présenté par
+un client, un produit ou une transaction leur paraît élevé, les personnes mentionnées à l'article L. 561-2
+renforcent l'intensité des mesures prévues aux articles L. 561-5 et L. 561-6 ;
+44. Considérant que, selon le grief 8, 7 dossiers présentent un défaut de vigilance renforcée (D1 à D7) ;
+45. Considérant, tout d’abord, que si les dispositions ci-dessus mentionnées n’imposent pas une recherche
+systématique de l’origine des fonds, il appartient aux organismes assujettis de mettre en œuvre des diligences
+pouvant être qualifiées de vigilance renforcée ; qu’ainsi que cela a été dit (cf. supra considérants 6 et 21), il
+ne peut être tenu compte, à cet égard, des diligences faites par les partenaires bancaires de CNP Assurances ;
+46. Considérant, ensuite, que dans les différents dossiers sur lesquels repose le grief, les opérations
+effectuées auraient dû donner lieu à l’application de mesures de vigilance renforcée, en raison du montant de
+ces opérations au regard des seuils retenus par la classification des risques de CNP Assurances ou des
+éléments de connaissance du client (dossiers D1 à D6) ; que toutefois, dans le dossier D7, les pièces
+produites par CNP Assurances, dont un rapport confidentiel de décembre 2012, établissent le respect de
+l’obligation de vigilance renforcée ;
+Autorité de contrôle prudentiel et de résolution 10
+
+===== Page 11 =====
+Décision de la Commission des sanctions – procédure no 2017-01
+47. Considérant que le grief 8 est donc établi dans un périmètre réduit à 6 dossiers ;
+5) Sur les défauts d’examen renforcé
+48. Considérant que, selon le II de l’article L. 561-10-2 du CMF, les organismes assujettis effectuent un
+examen renforcé de toute opération particulièrement complexe ou d'un montant inhabituellement élevé ou ne
+paraissant pas avoir de justification économique ou d'objet licite ; que dans ce cas, ils se renseignent auprès
+du client sur l'origine des fonds et la destination de ces sommes ainsi que sur l'objet de l'opération et l'identité
+de la personne qui en bénéficie ;
+49. Considérant que, selon le grief 9, fondé sur ces dispositions, 7 dossiers présentent un défaut d’examen
+renforcé (E1 à E5, A17 et A28) ;
+50. Considérant qu’ainsi que cela a été précédemment indiqué (cf. supra considérants 6 et 21), CNP
+Assurances ne peut prendre en compte, dans ce domaine également, les diligences faites par ses partenaires
+bancaires, à moins que les pièces recueillies par ceux-ci aient, lors de la réalisation des opérations examinées,
+figuré dans son propre dossier ;
+51. Considérant que, sur la base des éléments communiqués par CNP Assurances, le Collège a décidé
+d’abandonner le reproche relatif aux opérations effectuées dans le dossier E1 ; qu’il convient de lui donner
+acte de cet abandon ;
+52. Considérant que dans le dossier E2, la souscription, en 2014, d’un contrat d’assurance sur la vie
+accompagnée d’un versement initial de 500 000 euros paraissait atypique au regard des rares informations
+détenues sur cette cliente, dont l’avis d’impôt sur le revenu de l'année 2009 faisant apparaître un revenu
+fiscal annuel de référence de 3 628 euros, constitué exclusivement de revenus de capitaux mobiliers ; que les
+explications recueillies n’ont été corroborées par aucune pièce ; qu’ainsi qu’il a été dit, les informations dont
+disposait Z ou les diligences qui ont été effectuées par elle à la suite d’une alerte générée par son propre outil
+de détection ne peuvent être prises en considération ; que le reproche est donc établi ;
+53. Considérant que dans le dossier E3, le rachat par une cliente retraitée, ayant perçu 32 494 euros de
+revenus au titre de l’année 2009, de 30 BCP pour un montant total 163 500 euros sur une période de deux
+ans, sous le régime de l’anonymat fiscal, aurait dû donner lieu à un examen renforcé en raison des montants
+inhabituellement élevés sur lesquels ont porté ces opérations ; que, de plus, si CNP Assurances avait obtenu
+certaines explications de la cliente, ni l’identité de la personne ayant souscrit les bons, entre 2002 et 2004, ni
+les modalités d’entrée en possession de ces bons par la cliente n’étaient connues ; que l’absence de « levier
+réglementaire » pour exiger des renseignements ne faisait pas obstacle à ce que CNP Assurances cherche à
+en obtenir et tire les conséquences d’un éventuel refus de répondre ; que la présomption de bonne foi du
+porteur de BCP qui, selon le juge civil (Cass. com., 21 janvier 2004, Sté Optima conseil c/ Sté Axa Conseil
+Vie), restreint les possibilités de refus de paiement, est sans conséquence sur l’obligation qui pèse sur
+l’émetteur, le cas échéant, de procéder à un examen renforcé de certains remboursements ; que le reproche
+est donc établi ;
+54. Considérant que dans le dossier E4, les versements effectués par le client, gérant d’une SARL de
+contrôle technique, sur un contrat d’assurance sur la vie, soit un versement initial de 50 000 euros puis deux
+versements complémentaires de 100 000 euros en 2011 et de 400 000 euros en 2014, étaient inhabituellement
+élevés au regard des éléments de connaissance du client, qui avait déclaré en 2013 avoir perçu 85 000 euros
+de revenus mobiliers et 142 000 euros de revenus fonciers ; qu’aucun justificatif n’a corroboré l’information
+selon laquelle le client aurait perçu un peu plus de 240 000 euros à la suite de la vente d’un bien immobilier ;
+que la justification économique des 7 rachats partiels effectués par le client, pour un montant cumulé de plus
+de 540 000 euros, n’était pas connue de CNP Assurances ; que, même si CNP Assurances connaissait les
+revenus du client, qui permettaient de financer des opérations pour des montants relativement élevés, les
+Autorité de contrôle prudentiel et de résolution 11
+
+===== Page 12 =====
+Décision de la Commission des sanctions – procédure no 2017-01
+caractéristiques de celles-ci auraient justifié que soit réalisé un examen renforcé ; que le reproche est donc
+établi ;
+55. Considérant que dans le dossier E5, le montant du versement initial sur un contrat d’assurance pour la
+vie, de 2,2 millions d’euros en avril 2010, et celui du versement complémentaire, d’un million d’euros,
+effectués par le client, dirigeant de plusieurs entreprises dans le secteur de l’hôtellerie en Polynésie française,
+pouvait ne pas sembler incohérent avec le patrimoine déclaré de celui-ci, à savoir plus de 18 millions d’euros
+d’actifs immobiliers et une épargne de 2,2 millions d’euros ; que, toutefois, les déclarations du client sur la
+provenance des fonds, à savoir le produit de la vente d’une société à Tahiti, ont été reçus après la mission de
+contrôle sur place ; que, lorsque les opérations ont été effectuées, les montants en cause, alors que la
+provenance des fonds était incertaine, auraient dû conduire CNP Assurances à effectuer un examen renforcé ;
+que le reproche est donc établi ;
+56. Considérant que dans le dossier A17, le versement initial en octobre 2013 de 170 000 euros par une
+étudiante célibataire de 18 ans, sans revenus ou patrimoine connus, aurait justifié un examen renforcé ; que,
+de plus, cette cliente a renoncé à ce premier contrat un mois après, puis souscrit un second contrat
+d’assurance sur la vie le 17 janvier 2014, avec un versement initial de 480 000 euros ; que le 10 juin 2014,
+elle a effectué un rachat partiel de 300 000 euros ; que CNP Assurances ne disposait d’aucun justificatif sur
+l’origine des fonds ayant alimenté les versements ni sur l’objet de l’opération de rachat ; que les éléments,
+communiqués par Z, selon lesquels cette cliente avait, au décès de son père, hérité des sommes ainsi
+investies, n’avaient pas encore été réunis par CNP Assurances au moment du contrôle sur place ; qu’ainsi, le
+rapport de contrôle relevait que, dans le dossier du distributeur, il est indiqué que des alertes bancaires ont
+été traitées « en lien avec succession (décès du père) - placement - achat immobilier », sans autre
+information ni justificatif » ; que le reproche est donc établi ;
+57. Considérant que dans le dossier A28, le versement initial, en janvier 2012, de 300 000 euros sur un
+contrat d’assurance sur la vie par une cliente dont la profession, les revenus et le patrimoine n’étaient pas
+connus de CNP Assurances, aurait dû, en raison de son montant inhabituellement élevé, donner lieu à un
+examen renforcé ; que CNP Assurances ne connaissait ni l’objet ni la justification économique du rachat de
+ce contrat en juillet 2012, suivi de la souscription d’une nouvelle assurance sur la vie, avec un versement de
+150 000 euros en février 2013 ; que les documents produits devant la Commission par CNP Assurances
+relativement à l’origine des fonds ne figuraient pas au dossier au moment du contrôle sur place ; que le
+reproche est donc établi ;
+58. Considérant que le grief 9 est donc établi dans un périmètre réduit à 6 dossiers ;
+C. - Sur le respect des obligations déclaratives
+1) Sur les défauts de déclaration de soupçon
+59. Considérant que, selon le I de l’article L. 561-15 du CMF, les organismes assujettis doivent déclarer à
+Tracfin « les sommes inscrites dans leurs livres ou les opérations portant sur des sommes dont elles savent,
+soupçonnent ou ont de bonnes raisons de soupçonner qu’elles proviennent d’une infraction passible d’une
+peine privative de liberté supérieure à un an ou sont liées au financement du terrorisme » ; que le II de cet
+article dispose que « Par dérogation au I, les personnes mentionnées à l'article L. 561-2 déclarent au service
+mentionné à l'article L. 561-23 les sommes ou opérations dont ils savent, soupçonnent ou ont de bonnes
+raisons de soupçonner qu'elles proviennent d'une fraude fiscale lorsqu'il y a présence d'au moins un critère
+défini par décret » ; que l’un des critères mentionnés par l’article D. 561-32-1 est « 15° Le dépôt par un
+particulier de fonds sans rapport avec son activité ou sa situation patrimoniale connues » ; qu’enfin, le III de
+l’article L. 561-15 du CMF dispose que ces organismes sont tenus, le cas échéant, d’adresser une telle
+déclaration à l’issue d’un examen renforcé ;
+60. Considérant que, selon le grief 10, fondé sur ces dispositions, un défaut de DS est reproché au titre
+des opérations réalisées dans 10 dossiers (F1 à F10) ;
+Autorité de contrôle prudentiel et de résolution 12
+
+===== Page 13 =====
+Décision de la Commission des sanctions – procédure no 2017-01
+61. Considérant, à titre liminaire, que si CNP Assurances soutient tout d’abord que la poursuite a ajouté
+aux dispositions légales ci-dessus rappelées en estimant le manquement caractérisé à chaque fois qu’il ne
+pouvait être exclu qu’une opération portait sur des fonds provenant d’une infraction sanctionnée d’une peine
+d’emprisonnement d’un an ou pouvant participer au financement du terrorisme, il appartient en tout état de
+cause à la Commission d’apprécier les faits soumis à son examen en se fondant sur les seules dispositions
+légales applicables aux DS ;
+62. Considérant que CNP Assurances soutient ensuite que les obligations professionnelles de l’émetteur
+d’un BCP doivent être appréciées à la lumière d’autres obligations mises à sa charge par le droit commun
+applicable à ces produits ; qu’elle invoque à ce sujet l’arrêt de la chambre commerciale de la Cour de
+cassation mentionné ci-dessus (cf. supra considérant 53), par lequel celle-ci a estimé qu’« un émetteur d'un
+bon au porteur ne peut s'exonérer de son obligation de remboursement, en l'absence de toute opposition
+régulière, que dans l'hypothèse d'un détournement de propriété du bon litigieux, la seule circonstance que le
+porteur n'agit pas pour son compte et refuse de fournir les renseignements requis par l'article 12 de la loi du
+12 juillet 1990 devenu l'article L. 563-1 du Code monétaire et financier, étant insuffisante pour caractériser
+un tel risque et rendre l'obligation sérieusement contestable » ; que toutefois, ainsi que la Commission l’a
+déjà relevé, la présomption de détention licite de ces bons « n’a pas pour effet de dispenser un organisme
+assujetti des exigences de vigilance et de déclaration qui lui incombent, qui sont de nature différente »
+(décision Axa France Vie du 8 décembre 2016, considérant 71) ;
+a) Sur les 4 dossiers relatifs à des opérations de remboursement de BCP
+63. Considérant que si CNP Assurances estime qu’il serait difficile de lui reprocher une mauvaise
+surveillance de ce produit dans la mesure où tout a été construit dans la législation pour éviter que la
+personne ne soit traçable, il lui appartenait néanmoins, pour les opérations présentant un caractère suspect en
+raison des circonstances dans lesquelles le remboursement était demandé, d’en informer Tracfin ; que les
+dossiers F1 à F4 sont relatifs à des rachats de BCP effectués entre courant 2010 et courant 2014, pour des
+montants compris entre un peu plus de 50 000 euros et un peu plus de 500 000 euros ; que l’identité du
+souscripteur n’était pas connue de CNP Assurances ; que, souscrits sous le régime de l’anonymat fiscal, ces
+bons ont été remboursés sous ce même régime, y compris lorsque le remboursement aurait pu, pour partie au
+moins, être effectué sous le régime nominatif (dossier F2) ; que, dans ces dossiers, les informations réunies
+en matière de connaissance du client étaient insuffisantes ; que le remboursement des bons par versement
+d’espèces, bien que prévu au contrat, constituait un élément supplémentaire renforçant le caractère suspect
+de ces opérations (dossier F4) ; que même s’il existe, dans un dossier, une incertitude sur des rachats pour
+une valeur inférieure à la valeur initiale (dossier F1), les éléments ci-dessus énumérés suffisent à caractériser
+un défaut de DS ; que s’ajoutait, dans le dossier F4, le paiement par un compte de passage permettant un
+remboursement en espèces ; que le manquement est donc établi pour ces 4 dossiers ;
+b) Sur les autres dossiers
+64. Considérant que dans le dossier F5, le versement initial de 2,5 millions d’euros sur un contrat
+d’assurance sur la vie suivi du rachat deux mois plus tard de la quasi-totalité, par une cliente, n’a pas été
+justifié ni documenté au moment où il a été réalisé ; que ce n’est que postérieurement au contrôle que les
+explications, recueillies dans le cadre d’un examen renforcé, selon lesquelles les fonds représentaient une
+partie de la cession d’un bien immobilier ont été corroborées par une attestation notariale ; qu’en outre, les
+informations relatives aux revenus de cette cliente n’étaient pas cohérentes avec une opération de cette
+ampleur ; que le manquement est donc établi ;
+65. Considérant que dans le dossier F6, ancien gérant d'une société de torréfaction domiciliée en Tunisie,
+la souscription, en septembre 2013, d’un contrat d’assurance sur la vie avec un versement initial d’un million
+d’euros, suivie un peu plus d’un an après de deux rachats partiels, de 420 000 euros et 400 000 euros,
+respectivement, aurait dû donner lieu à l’envoi d’une DS à Tracfin, dès lors que CNP Assurances ne
+disposait d’aucun élément sur les revenus de son client, non plus que sur l’objet des opérations de rachat, ni
+de justificatifs de l’origine des fonds ayant alimenté le versement initial ; que ses diligences relatives à ces
+Autorité de contrôle prudentiel et de résolution 13
+
+===== Page 14 =====
+Décision de la Commission des sanctions – procédure no 2017-01
+opérations n’ont débuté qu’en juillet 2015, pendant la mission de contrôle ; que les DS effectuées en
+septembre et décembre 2014 par son partenaire bancaire, dont aucune pièce du dossier ne permet de supposer
+que CNP Assurances en avait connaissance, ne la dispensaient pas de ses propres obligations ; que le
+reproche est donc établi ;
+66. Considérant que dans le dossier F7, le client, qui exerce la profession de vendeur, a déclaré percevoir
+12 503 euros par an et posséder un patrimoine de 58 000 euros en juillet 2014 ; qu’en septembre de la même
+année, il a adhéré à un contrat d’assurance sur la vie avec un versement initial de 243 000 euros ; que deux
+jours après, il a renoncé à son contrat, ce qui a déclenché une alerte chez CNP Assurances ; que celle-ci a été
+classée après la réception de la copie d’un chèque émis le 21 juillet 2014 par la CARPA à l’ordre de la SARL
+(…) ; que CNP Assurances ne conteste pas que ce dernier document ne permettait pas de connaître l’origine
+des fonds, le lien entre son client et la société en cause n’étant pas établi ; que cependant, le dossier a été
+classé sans suite alors qu’une DS aurait dû être adressée à Tracfin au titre du II de l’article L. 561-15 et du
+critère 15 de l’article D. 561-32-1 du CMF compte tenu de l'incohérence entre les données sur la surface
+financière du client et le montant investi ; que le reproche est donc établi ;
+67. Considérant que dans le dossier F8, l’origine des fonds ayant permis la souscription initiale de
+173 000 euros pour le compte de cette cliente, mineure, n’a pas été documentée ; que CNP Assurances
+n’avait pas connaissance, au moment du versement, de ce que les fonds provenaient du père de la cliente ;
+qu’en état des informations qu’elle détenait, CNP Assurances aurait dû adresser à Tracfin une DS en
+application du III de l’article L. 561-15 du CMF ; que le reproche est établi, même si des éléments recueillis
+ultérieurement peuvent permettre d’écarter le soupçon d’une origine illicite de ces fonds ;
+68. Considérant que dans le dossier F9, le versement initial de près de 470 000 euros en septembre 2012
+puis les versements complémentaires au cours des deux années suivantes pour plus de 500 000 euros, étaient
+incohérents avec la profession et les ressources du client, employé d'une société de commerce de gros
+résidant fiscalement en Suisse ayant déclaré des revenus mensuels de 7 000 euros ; que CNP Assurances ne
+disposait d’aucune information sur son patrimoine, non plus que d’aucun justificatif de l’origine des fonds ;
+que si CNP Assurances soutient que tous les versements sur le contrat d’assurance provenaient du compte en
+banque chez Z de son client, ce compte étant lui-même alimenté par le compte bancaire de ses parents, tenu
+par la même banque, de tels éléments ne suffisent pas à lever le doute quant à l’origine licite de ces fonds ;
+que le reproche est ainsi établi ;
+69. Considérant que dans le dossier F10, le versement initial de plus de 400 000 euros en décembre 2013
+était incohérent avec les éléments de connaissance de cette cliente détenus par CNP Assurances ; qu’en effet,
+celle-ci, sans profession connue, dont le revenu imposable était inférieur à 20 000 euros en 2013, disposait
+d’un patrimoine financier de 165 000 euros et était locataire de sa résidence principale ; que les explications
+selon lesquelles ces sommes provenaient de gains aux jeux n’ont pas été étayées par des justificatifs ;
+qu’ainsi que cela a été précédemment indiqué (cf. supra, considérant 6), il ne peut être tenu compte des
+informations réunies par Y au sujet de ces opérations, qui n’étaient au demeurant pas connues de CNP
+Assurances lors de la mission de contrôle sur place ; que le reproche est établi, même si des éléments
+recueillis ultérieurement peuvent permettre d’écarter le soupçon d’une origine illicite de ces fonds ;
+2). Sur la qualité des déclarations de soupçon
+70. Considérant que, selon le III de l’article R. 561-31 du CMF, « la déclaration comporte les
+renseignements et éléments d'information suivants : 1° La profession exercée par la personne qui effectue la
+déclaration par référence aux catégories mentionnées à l'article L. 561-2 ; 2° Les éléments d'identification et
+les coordonnées professionnelles du déclarant désigné conformément aux dispositions du I de l'article R.
+561-23 ; 3° Le cas de déclaration par référence aux cas mentionnés aux I, II et V de l'article L. 561-15 ; 4°
+Les éléments d'identification du client et, le cas échéant, du bénéficiaire effectif de l'opération qui fait l'objet
+de la déclaration ainsi que, dans le cas où une relation d'affaires a été nouée avec le client, l'objet et la
+nature de cette relation ; 5° Un descriptif de l'opération et les éléments d'analyse qui ont conduit à effectuer
+la déclaration ; 6° Lorsque l'opération n'a pas encore été exécutée, son délai d'exécution » ;
+Autorité de contrôle prudentiel et de résolution 14
+
+===== Page 15 =====
+Décision de la Commission des sanctions – procédure no 2017-01
+71. Considérant que, selon le grief 11, fondé sur ces dispositions, sur les 42 DS effectuées par CNP
+Assurances dans le périmètre « vie » en 2014, 12 ne mentionnaient ni l’objet ni la nature de la relation
+d’affaires (dossiers G1 à G12) ; que 30 ne mentionnaient pas les éléments d’information et de connaissance
+de la clientèle recueillis par CNP Assurances, notamment sur le patrimoine et les revenus, même lorsque
+l’information figurait dans le dossier (dossiers A1, A6, A7, A19, A22, A25, A29, G1 à G4, G7 à G25) ;
+qu’en outre, CNP Assurances demandait à Tracfin de se rapprocher de ses partenaires bancaires distributeurs
+pour obtenir les compléments d’information nécessaires, alors qu’il lui appartenait de fournir dans ses DS
+toutes les informations utiles à cet organisme ;
+72. Considérant que CNP Assurances ne conteste pas les insuffisances reprochées au titre du présent
+grief ; que si elle soutient, pour en relativiser la portée, que Tracfin n’a jamais estimé irrecevables les
+dossiers visés par la poursuite, l’absence de réaction de ce service est sans conséquence sur le manquement ;
+que les difficultés que CNP Assurances mentionne pour obtenir des informations de la part de ses réseaux de
+distributeurs sont, ainsi qu’il a été dit précédemment, sans conséquence sur le grief ; qu’il incombe à un
+organisme assujetti de faire figurer dans les DS qu’il adresse à Tracfin toutes les informations requises,
+même s’il estime que certaines d’entre elles ne sont pas indispensables à ce service ; que les améliorations,
+qui ont résulté, dans ce domaine, de modifications des conventions de partenariat, sont sans conséquence sur
+le grief, qui est établi ;
+3) Sur les déclarations de soupçon tardives
+73. Considérant que, selon l’article L. 561-16 du CMF, les organismes financiers sont tenus, lorsqu’une
+opération devant faire l’objet de la déclaration prévue à l’article L. 561-15 de ce code a déjà été réalisée, soit
+parce qu’il a été impossible de surseoir à son exécution, soit que son report aurait pu faire obstacle à des
+investigations portant sur une opération suspectée de BC-FT, soit qu’il est apparu postérieurement à sa
+réalisation qu’elle était soumise à cette déclaration, d’en informer sans délai Tracfin ;
+74. Considérant que, selon le grief 12, fondé sur ces dispositions, sur les 42 DS effectuées dans le
+périmètre « vie » en 2014, 22 l’ont été dans un délai moyen de 6 mois après l'exécution de l'opération
+suspecte déclarée par l'organisme d'assurance ; qu’en outre, le caractère tardif des opérations est illustré dans
+5 dossiers pour lesquels la déclaration à Tracfin a été transmise plus d'un an après l'exécution de l'opération
+suspecte (A7, A10, A11, G13 et G22) ;
+75. Considérant que CNP Assurances ne conteste pas le grief mais demande qu’il soit relativisé en
+considération de l’impact du modèle d’affaires de CNP Assurances, en particulier du fait que les
+informations utiles lui parvenaient parfois difficilement des réseaux bancaires partenaires, ainsi que du temps
+d’investigation nécessaire pour analyser les faits pouvant conduire à une DS ; qu’ainsi qu’il a été dit,
+l’argument tiré des relations qui existaient alors avec les partenaires bancaires ne peut toutefois exonérer
+CNP Assurances du respect de ses propres obligations ; que, de plus, CNP Assurances ne précise pas les
+diligences faites dans les 22 dossiers mentionnés par la poursuite qui permettraient de justifier le délai
+constaté, non plus que les raisons pour lesquelles, dans 5 dossiers, ce délai a dépassé un an ; que dans le
+dossier 3, où plusieurs opérations suspectes ont été constatées, le retard résulte du temps écoulé entre la
+première de ces opérations et l’envoi de la DS ; que le grief est donc établi ;
+D. - Sur le non-respect de l’obligation de détection des opérations au bénéfice d’une
+personne ou d’une entité faisant l’objet d’une mesure de gel des avoirs
+76. Considérant que, selon les articles L. 562-3 et R. 562-2 du CMF, les personnes qui détiennent ou
+reçoivent des fonds, instruments financiers et ressources économiques pour le compte d’un client sont tenues
+d’appliquer les mesures de gel ou d’interdiction visant ce dernier, et d’en informer sans délai le ministre
+chargé de l’économie ; que par arrêté du ministre de l’économie et des finances du 28 septembre 2012, M.
+H1 a fait l’objet d’une mesure de gel des avoirs ;
+Autorité de contrôle prudentiel et de résolution 15
+
+===== Page 16 =====
+Décision de la Commission des sanctions – procédure no 2017-01
+77. Considérant que, selon le grief 13, fondé sur ces dispositions, le dispositif de CNP Assurances ne lui
+permet pas, d’une part, de détecter sans délai toutes les opérations au profit des personnes dont les avoirs
+font l’objet d’une mesure restrictive, puisqu’aucun contrôle n’est effectué avant remboursement de BCP sous
+le régime de l'anonymat fiscal via le compte de passage du distributeur, permettant ainsi un paiement en
+espèces ; que, d’autre part, ce dispositif ne permet pas non plus de détecter sans délai les fonds détenus sur
+un contrat d’assurance sur la vie par un client dont les avoirs sont gelés ; qu’en effet, l’utilisation pour les
+deux scénarios relatif à la lutte anti-terrorisme (ci-après « LAT ») de critères de rapprochement
+orthographiques particulièrement restrictifs (de 100 % ou de 95 % si le rapprochement est effectué
+uniquement sur la base du nom et du prénom), ne permet pas de prendre en compte les variations
+orthographiques entre les données d'identification des clients renseignées dans les bases et celles figurant
+dans les textes prévoyant des mesures de gel ; qu’en outre, jusqu’en avril 2015, seul un filtrage annuel et non
+par opération était appliqué à tous les clients ; qu’en 2014 ces paramétrages ont seulement généré 33 alertes
+issues du scénario « LAT hebdomadaire » et 7 du scénario « LAT annuel », ce qui constitue un nombre très
+faible au regard des 9,4 millions de clients ; que 6 clients identifiés par la mission comme présentant une
+homonymie avec des personnes dont les avoirs étaient gelés en application d'arrêtés nationaux ou de
+règlements européens portant mesures restrictives n’ont pas fait l’objet d’alertes (dossiers H2 à H7) ;
+qu’enfin, CNP Assurances n’a détecté M. H1, dont les fonds étaient gelés au titre de la lutte contre le
+financement du terrorisme par arrêté du 28 septembre 2012, qu’un mois après l’entrée en vigueur de cet
+arrêté ; qu’elle n’a de surcroit déclaré à la direction générale du Trésor (ci-après la « DGT ») ni ce contrat ni
+l’opération de rachat exécutée le 13 février 2013 ;
+78. Considérant, tout d’abord, que le contrôle a priori des personnes faisant l’objet d’une mesure de gel
+ne permettait pas à CNP Assurances de respecter ses obligations dans ce domaine puisqu’il était, jusqu’en
+avril 2015, effectué à partir de listes mises à jour mensuellement ; qu’ensuite, il est constant que le contrôle a
+posteriori de l’ensemble de ses clients, sur une base annuelle et non à chaque publication d’une nouvelle
+mesure, était insuffisant ; que CNP Assurances a au demeurant indiqué avoir pris conscience des
+insuffisances de son dispositif de contrôle automatisé ; qu’à l’exception du dossier H2, pour lequel la
+différence d’âge du client avec la personne faisant l’objet d’une mesure de gel des avoirs, pouvait justifier,
+après analyse, l’absence d’une alerte, CNP Assurances reconnaît qu’elle n’a pas immédiatement détecté les
+homonymies dans les dossiers visés par la poursuite, ni prévenu la DG Trésor dans le dossier de M. H1 ;
+qu’elle se borne à faire valoir que l’absence d’alerte provient d’un certain nombre de défaillances techniques,
+qu’elle a corrigées depuis, et que toutes les homonymies ont pu finalement être relevées ; que si, dans le
+dossier H1, les fonds n’ont été mis à disposition qu’à la fin de la mesure de gel des avoirs, cette circonstance
+n’est cependant pas de nature à atténuer le grief, qui porte sur le retard mis à détecter ce client ; qu’ainsi, le
+grief est établi dans un périmètre très légèrement réduit en raison du traitement du dossier H2, sans que les
+améliorations apportées depuis ne conduisent à le remettre en cause ;
+E. - Sur la transmission de renseignements erronés à l’ACPR
+79. Considérant que, selon l’instruction du 28 juin 2012 relative aux informations sur le dispositif de
+prévention LCB-FT, les organismes assujettis doivent remettre au SGACPR des tableaux dénommés
+« BLANCHIMT » dans lesquelles figurent des informations relatives à leur dispositif de LCB-FT ;
+80. Considérant que, selon le grief 14, fondé sur ces dispositions, CNP Assurances a répondu de manière
+erronée aux questions formulées dans le tableau « BLANCHIMT » au titre de l’année 2014 en déclarant à
+tort i) avoir mis en œuvre de mesures de vigilance complémentaires à l'égard de ses clients résident dans un
+ETNC ou appartenant à la catégorie des PPE, ii) que son dispositif lui permettait d’identifier les fonds,
+instruments financiers ou ressources économiques d’un client faisant l’objet d’une mesure de gel des avoirs
+et de mettre immédiatement en œuvre cette mesure contrôle des diligences accomplies par les mandataires et
+iii) qu’elle mettait en œuvre des contrôles pour s’assurer du respect par ses mandataires des obligations de
+vigilance ;
+81. Considérant, tout d’abord, que l’instruction susvisée, prise en application de l’article L. 612-24 du
+CMF, fait partie des dispositions réglementaires au respect desquelles l’ACPR a pour mission de veiller au
+Autorité de contrôle prudentiel et de résolution 16
+
+===== Page 17 =====
+Décision de la Commission des sanctions – procédure no 2017-01
+sens du I de l’article L. 612-1 du CMF ; que, contrairement à ce que soutient CNP Assurances, elle présente
+bien un caractère obligatoire ; qu’il est sans conséquence que ces renseignements erronés aient pu être
+évoqués, avec les services du contrôle sur pièces, avant l’ouverture de la présente procédure ;
+82. Considérant, ensuite, que si CNP Assurances indique que c’est parce qu’elle l’avait mal interprétée
+qu’elle a répondu que la question relative aux opérations dans les ETNC était « sans objet », cette réponse
+n’en était pas moins inexacte ; que, de même, son dispositif ne lui permettait pas, dans tous les cas,
+d’identifier les fonds, instruments financiers ou ressources économiques d’un client faisant l’objet d’une
+mesure de gel des avoirs ; que sa réponse sur le contrôle des mandataires d’assurance, au regard de la réalité
+des relations avec ceux-ci, était également erronée ; qu’à l’inverse, CNP Assurances disposait bien d’une
+procédure prévoyant une vigilance complémentaire à l’égard des PPE, le caractère imparfait de cette
+procédure ou les défauts de détection de clients appartenant à cette catégorie n’entrant pas dans le champ de
+cette question ; que ce dernier reproche doit en conséquence être écarté ;
+83. Considérant que, sous cette réserve, le grief 14 est établi ;
+*
+* *
+84. Considérant qu’il résulte de ce qui précède qu’à la date du contrôle, la répartition des fonctions mise
+en place entre CNP Assurances et ses deux réseaux bancaires distributeurs, d’où il résultait que la première,
+qui ne détenait pas de dossiers clients, s’en remettait pour une très large part aux dispositifs de LCB-FT des
+seconds, présentait un risque majeur et structurel de non-respect par CNP Assurances de ses propres
+obligations de vigilance et de déclaration à Tracfin ; que si l’histoire et le modèle d’affaires de CNP
+Assurances, notamment la nature particulière de sa relation avec ces deux partenaires et actionnaires,
+peuvent contribuer à expliquer cette situation, ils ne sauraient la justifier ; qu’il résulte des développements
+qui précèdent que ce risque s’est réalisé à plusieurs titres ; qu’ainsi, tout d’abord, CNP Assurances n’a pas,
+dans un certain nombre de cas, réuni les éléments d’informations nécessaires à la connaissance de ses
+clients (grief 5) ; qu’elle n’était pas non plus toujours à même, lors de l’entrée en relation d’affaires, de
+détecter ceux d’entre eux qui étaient des PPE et ne mettait pas toujours en œuvre les mesures de vigilance
+complémentaire prévues à cet égard (grief 6) ; qu’elle n’était pas non plus en état de détecter les opérations
+avec certains clients domiciliés dans un ETNC (grief 7) ou de mettre en œuvre les mesures de vigilance
+renforcée en cas de risque élevé (grief 8) ; que plusieurs défauts d’examen renforcé (grief 9) et des
+manquements aux obligations déclaratives ont de plus été constatés (griefs 10, 11 et 12) ; que ces
+manquements résultent essentiellement de carences organisationnelles affectant, à la date du contrôle, la
+classification des risques de CNP Assurances (grief 1), ses procédures internes (grief 2), le suivi et l’analyse
+de la relation d’affaires (grief 3) ou encore le contrôle de la transmission, par ses distributeurs, des
+informations qu’ils devaient lui adresser (grief 4) ; que son dispositif de gel des avoirs était également
+défaillant (grief 13) ; que CNP Assurances a en outre adressé des renseignements inexacts à l’ACPR (grief
+14) ; qu’ainsi que le reconnaît CNP Assurances, ce dispositif de LCB-FT n’était donc pas, à la date du
+contrôle sur lequel s’appuie la présente procédure, à la hauteur de ce qui pouvait être attendu d’un organisme
+leader sur le marché français de l’assurance de personnes et appartenant au secteur public ;
+85. Considérant, cependant, que le périmètre de plusieurs griefs a été réduit par la Commission ; qu’il
+convient surtout de tenir compte, dans une certaine mesure, de ce que CNP Assurances a mis à profit le
+temps écoulé depuis le début du contrôle sur place, en décembre 2014, pour prendre d’importantes mesures
+visant à corriger les faiblesses de son dispositif ; que ces mesures, qui se sont appuyées sur une renégociation
+des conventions de délégation de gestion avec les deux réseaux bancaires distributeurs, ont en particulier
+consisté en une révision de la classification des risques, la création d’une base clients, l’amélioration des
+diligences faites en matière de détection des PPE et des personnes soumises à une mesure de gel des avoirs et
+une automatisation de l’ensemble du dispositif entraînant l’enrichissement des données de la connaissance de
+la clientèle ; que l’établissement a en outre indiqué que les contrôles, notamment des seuils et des listes pays,
+encore effectués a posteriori, en J+1 (sauf ceux relatifs au gel des avoirs), le seront prochainement a priori ;
+Autorité de contrôle prudentiel et de résolution 17
+
+===== Page 18 =====
+Décision de la Commission des sanctions – procédure no 2017-01
+que le coût de ces mesures devrait largement dépasser les 20 millions d’euros sur la période 2016-2018 ; que,
+lors de l’audience, les dirigeants de CNP Assurances ont insisté sur les changements réalisés et sur leur
+ferme engagement de poursuivre les actions engagées en vue d’assurer la conformité du dispositif de LCB-
+FT ;
+86. Considérant que les manquements retenus par la Commission justifient, compte tenu de leur nature,
+de leur nombre et de leur gravité, et au vu des éléments mentionnés ci-dessus, le prononcé d’un blâme ; que,
+pour les mêmes raisons et dans le respect du principe de proportionnalité au regard de l’assise financière de
+CNP Assurances, une sanction pécuniaire de 8 millions d’euros sera également prononcée ;
+87. Considérant que CNP Assurances ne produit aucun élément permettant d’estimer que la publication
+nominative de la présente décision lui causerait un préjudice disproportionné ; que cette publication n’est pas
+non plus de nature à perturber gravement les marchés financiers ; que la présente décision sera donc publiée
+sous cette forme ;
+PAR CES MOTIFS
+DÉCIDE :
+ARTICLE 1ER – Il est prononcé à l’encontre de CNP Assurances un blâme et une sanction pécuniaire de
+huit millions d’euros (8 millions d’euros).
+ARTICLE 2 – La présente décision sera publiée au registre de l’ACPR et pourra être consultée au
+secrétariat de la Commission.
+Le Président de la Commission
+des sanctions
+Rémi BOUCHEZ
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification et
+dans les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 18

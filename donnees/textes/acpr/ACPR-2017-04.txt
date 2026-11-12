@@ -1,0 +1,533 @@
+===== Page 1 =====
+CAISSE FÉDÉRALE
+DE CRÉDIT MUTUEL
+Procédure no 2017-04
+–––––
+Blâme et sanction pécuniaire
+de 1 million d’euros
+–––––
+Audience du 15 juin 2018
+Décision rendue le 3 juillet 2018
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 15 mai 2017 par laquelle le Président de l’Autorité de contrôle prudentiel et de résolution
+(ci-après l’« ACPR ») informe la Commission de ce que le Collège de supervision de l’ACPR (ci-après le
+« Collège »), statuant en formation restreinte, a décidé d’ouvrir une procédure disciplinaire à l’encontre de la
+Caisse fédérale de Crédit Mutuel (ci-après la « CFCM »), 34, rue du Wacken à Strasbourg, enregistrée sous
+le no 2017-04 ;
+Vu la notification des griefs du 15 mai 2017 ;
+Vu les mémoires en défense des 4 août 2017, 4 décembre 2017 et 1er février 2018 par lesquels la CFCM i)
+conteste l’ensemble des griefs, ii) estime qu’à les supposer établis, ils ne constituent pas des défaillances
+graves de son dispositif de lutte contre le blanchiment et le financement du terrorisme (ci-après « LCB-
+FT »), mais des points d’amélioration de celui-ci et iii) demande que la décision à intervenir soit publiée sous
+une forme non nominative ;
+Vu les mémoires en réplique des 25 octobre 2017 et 12 janvier 2018, par lesquels M. Christian Poirier,
+représentant du Collège, maintient l’ensemble des griefs notifiés mais réduit le périmètre du grief 3 ;
+Vu le rapport du 9 mai 2018 de Mme Claudie Aldigé, rapporteur, dans lequel celle-ci conclut que 7 des 8
+griefs notifiés sont établis, mais que 5 le sont dans un périmètre réduit ou doivent être relativisés (griefs 1, 3,
+6, 7 et 8), tandis que le grief 5 doit être écarté ;
+Vu les courriers du 9 mai 2018 convoquant les parties à l’audience et les informant de la composition de
+la Commission et de ce qu’il sera fait droit à la demande présentée par la CFCM tendant à ce que cette
+audience ne soit pas publique ;
+Vu les observations présentées le 24 mai 2018 par la CFCM sur le rapport du rapporteur ;
+Vu les autres pièces du dossier, notamment le rapport de contrôle du 25 juillet 2016 et les documents
+versés par la CFCM en réponse aux demandes du rapporteur ;
+Vu le code monétaire et financier (ci-après le « CMF »), notamment ses articles L. 561-5, L. 561-10-2,
+L. 561-15, L. 561-16, L. 612-39, R. 561-12, R. 561-14, D. 561-32-1 et R. 612-35 à R. 612-51, dans leur
+rédaction en vigueur au moment du contrôle sur place ;
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2017-04
+Vu le règlement no 97-02 relatif au contrôle interne des établissements de crédit et des entreprises
+d’investissement (ci-après le « règlement no 97-02 »), notamment ses articles 5 et 11-7 ;
+Vu l’arrêté du 3 novembre 2014 relatif au contrôle interne des entreprises du secteur de la banque, des
+services de paiement et des services d’investissement soumises au contrôle de l’Autorité de contrôle
+prudentiel et de résolution (ci-après l’« arrêté du 3 novembre 2014 »), notamment ses articles 11, 46, 47 et
+61 ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACPR, composée de M. Rémi Bouchez, Président, de MM. Francis
+Crédot et Christian Lajoie, de Mme Christine Meyer-Meuret et de M. Denis Prieur ;
+Après avoir entendu, lors de sa séance non publique du 15 juin 2018 :
+– Mme Aldigé, rapporteur, assistée de M. Fabien Patris, son adjoint ;
+– M. Rodolphe Lelté, représentant de la directrice générale du Trésor ;
+– M. Poirier, représentant du Collège, assisté du directeur des affaires juridiques du Secrétariat général
+de l’ACPR, de l’adjoint au directeur d’une direction du contrôle des banques, du chef du service des
+affaires institutionnelles et du droit public, de 3 juristes au sein de la direction des affaires juridiques
+; M. Poirier a proposé à la Commission de prononcer un blâme et une sanction pécuniaire de 3
+millions d’euros dans une décision publiée sous une forme nominative ;
+– la CFCM, représentée par son directeur général, assisté du directeur des risques et du directeur de la
+conformité de cet établissement et du responsable de la LCB-FT au sein du Crédit mutuel
+méditerranéen, ainsi que de Mes Philippe Goutay et Emilie Rogey, avocats à la Cour (cabinet Jones
+Day) ;
+Les représentants de la CFCM ayant eu la parole en dernier ;
+Après avoir délibéré en la seule présence de M. Bouchez, Président, de MM. Crédot et Lajoie, de Mme
+Meyer-Meuret et de M. Prieur, ainsi que de M. Jean-Manuel Clemmer, chef du service de la Commission des
+sanctions faisant fonction de secrétaire de séance ;
+1. Considérant que la CFCM ou CM11 est une société coopérative ayant le statut d’établissement de
+crédit affiliée à la Confédération nationale du Crédit Mutuel ; que son capital est intégralement détenu par les
+caisses locales des 11 fédérations auxquelles elle est affiliée ; qu’elle regroupe ainsi 11 caisses
+fédérales (CMM - Marseille ; CMCEE - Strasbourg ; CMLACO - Nantes ; CMIDF - Paris ; CMC - Orléans ;
+CMMA - Toulouse ; CMA - Angers ; CMDV - Valence ; CMSMB - Annecy ; CMSE - Lyon ; CMN –
+Caen) sur les 18 qui composent le groupe ; qu’elle comporte ainsi 1 369 caisses locales dont elle porte
+l’agrément collectif, dont les 135 de la Caisse régionale du Crédit mutuel méditerranéen ( ci-après le
+« CMM ») ; qu’elle assure les fonctions centrales de conformité, risques et audit groupe, dont la fonction
+centrale LCB-FT ; que, détenant 93 % du capital de la Banque fédérative du Crédit Mutuel, elle contrôle
+notamment le Crédit Industriel et Commercial (CIC) et le groupe Cofidis ; qu’en 2016, cet ensemble, qui
+disposait de 40 milliards d’euros de capitaux propres, a réalisé un produit net bancaire (ci-après « PNB ») de
+13 milliards d’euros et un résultat net consolidé de 2,6 milliards d’euros ; que le CMM, quant à lui, a réalisé
+un PNB de 211 millions d’euros pour un résultat net de 39 millions d’euros ;
+2. Considérant que la CFCM a fait l’objet d’un contrôle sur place du 8 février au 19 mai 2016 portant sur
+son dispositif de LCB-FT et, plus particulièrement sur ses « pratiques en matière de déclaration de
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2017-04
+soupçon » ; que ce contrôle a été centré sur les caisses locales adhérentes au CMM ; qu’il a donné lieu à la
+signature d’un rapport définitif le 25 juillet 2016 (ci-après le « rapport de contrôle ») intitulé « Analyse des
+pratiques en matière de déclaration de soupçon » ; qu’au vu de ce rapport, le Collège a décidé, lors de sa
+séance du 20 avril 2017, d’ouvrir la présente procédure disciplinaire ;
+I - Sur les obligations d’identification de la clientèle
+A - Sur l’obligation de vérifier l’identité des clients avant l’entrée en relation d’affaires
+3. Considérant que selon le I de l’article L. 561-5 du CMF, avant d’entrer en relation d’affaires avec leur
+client ou de l’assister dans la préparation ou la réalisation d’une transaction, les organismes assujettis
+l’identifient, ainsi que le cas échéant le bénéficiaire effectif de la relation d'affaires, par des moyens adaptés
+et vérifient son identité par la présentation de tout document écrit probant ;
+4. Considérant que selon le grief 1, fondé sur ces dispositions, l’identité de 132 clients du CMM n’a pas
+été vérifiée par l’établissement sur la période 2014-2015 ;
+5. Considérant que le reproche est entièrement fondé sur des informations fournies par le CMM, à qui il a
+été demandé de rechercher les dossiers incomplets au titre des ouvertures de compte sur la période 2014-
+2015 ; que selon la réponse du CMM à la mission de contrôle, sur les 67 873 dossiers correspondants, 131 (et
+non 132) ne comportent aucun justificatif d’identité ; que, toutefois, il apparaît, au terme de la présente
+procédure, tout d’abord, que les entrées en relation bancaires et non bancaires n’ont pas été distinguées, de
+sorte qu’il convient d’écarter du champ du reproche 61 dossiers relatifs à des souscriptions de forfaits
+téléphoniques (46 dossiers) ou de contrats de surveillance contre le vol (15 dossiers) ; que doivent être
+également exclus 3 dossiers relatifs à des entrées en relation au titre de la souscription d’un contrat
+d’assurance, les sanctions encourues applicables aux intermédiaires d’assurance, mentionnées à l’article L.
+612-41 du CMF, n’étant pas visées par la notification des griefs ; qu’ensuite s’il existe, au sujet des 67
+dossiers d’entrée en relation bancaire, des contradictions entre les explications de la CFCM quant aux
+vérifications d’identité effectuées à la date du contrôle et le tableau détaillé qu’elle produit dans le cadre de
+la présente procédure, l’examen de ce tableau conduit cependant à écarter le reproche dans 35 cas
+supplémentaires, dont (i) 30 pour lesquels les déclarations de l’établissement mentionnant l’existence d’un
+justificatif d’identité ne sont pas contredites et (ii) 5 pour lesquels un compte n’a été ouvert, pour des raisons
+techniques, afin d’y verser le produit de la revente de parts sociales, pour de faibles montants, que parce que
+le client, avec lequel l’entrée en relation d’affaires n’a finalement pas abouti, n’avait pas fourni les
+coordonnées d’un compte d’un autre établissement sur lequel ces sommes auraient pu être versées ; que le
+périmètre du reproche est ainsi finalement réduit de 131 à 32 dossiers ;
+B - Sur la possibilité de déroger à l’obligation d’identification avant l’entrée en relation
+d’affaires avec certains clients
+6. Considérant que, selon l’article 61 de l’arrêté du 3 novembre 2014, les entreprises assujetties adoptent
+des procédures relatives aux obligations de vigilance prévues aux chapitres Ier et II du titre VI du livre V du
+CMF en tenant compte des risques identifiés par la classification prévue aux articles 57 à 60 ; que la
+notification des griefs mentionne l’article L. 561-8 du CMF dont le I prévoit que, lorsqu’un organisme
+assujetti « n'est pas en mesure de satisfaire aux obligations prévues à l'article L. 561-5 et à l'article L. 561-
+5-1, (il) n'exécute aucune opération, quelles qu'en soient les modalités, et n'établit ni ne poursuit aucune
+relation d'affaires. Si celle-ci a déjà été établie en application du IV de l'article L. 561-5, (il) y met un terme
+et la déclaration prévue à l'article L. 561-15 s'effectue dans les conditions prévues à cet article. » ; que le IV
+de cet article dispose que « Par dérogation au I, lorsque le risque de blanchiment des capitaux ou de
+financement du terrorisme paraît faible et que c'est nécessaire pour ne pas interrompre l'exercice normal de
+l'activité, les obligations mentionnées au 2° dudit I peuvent être satisfaites durant l'établissement de la
+relation d'affaires. » ;
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2017-04
+7. Considérant que, selon le grief 2, fondé sur ces dispositions, la procédure intitulée « absence de
+justificatif (s) lors d’une entrée en relation (EER) avec un tiers particulier », diffusée à partir du début de
+l’année 2016, permettait à un directeur de caisse ou d’agence d’octroyer des moyens de paiement (carte ou
+chéquier) à un client même si ce dernier n’avait présenté aucun justificatif d’identité, de domicile ou de
+signature ; qu’en conséquence, la CFCM n’était pas en mesure de respecter l’interdiction ci-dessus rappelée ;
+8. Considérant que la CFCM fait valoir que cette procédure ne s’appliquait qu’au profit de personnes
+disposant d’un lien de famille avec un client existant ou de personnes connues par les employés des caisses
+locales ; que, toutefois, de tels liens ou une telle connaissance n’impliquent pas nécessairement un risque
+faible de blanchiment des capitaux ou de financement du terrorisme (ci-après « BC-FT ») ; qu’en application
+de cette procédure, des opérations pouvaient être réalisées alors que l’identité du client n’avait pas été
+vérifiée ; que, lorsque le risque de BC-FT est faible, il n’est permis par les textes précités de différer
+l’identification et la vérification de l’identité du client que jusqu’à à la réalisation de la première opération ;
+que, de plus, le suivi de ces décisions de déblocage de moyens de paiement était lacunaire ; que la
+suppression, après le contrôle, de cette procédure spéciale, apparaît comme une action correctrice, sans
+conséquence sur le grief, qui est établi ;
+II - Sur le traitement des alertes
+9. Considérant que selon l’article 46 de l’arrêté du 3 novembre 2014, qui reprend les dispositions du 2.2
+de l’article 11-7 du règlement no 97-02, les établissements se dotent de dispositifs de suivi et d'analyse de
+leurs relations d'affaires, fondés sur la connaissance de leur clientèle, permettant notamment de détecter les
+opérations qui constituent des anomalies au regard du profil des relations d'affaires et qui pourraient faire
+l'objet d'un examen renforcé mentionné au II de l'article L. 561-10-2 du CMF ou d'une déclaration prévue à
+l'article L. 561-15 du même code ;
+10. Considérant que selon le grief 3, fondé sur ces dispositions, tout d’abord, le dispositif de détection et
+d’analyse des opérations atypiques de la CFCM, qui repose en premier lieu sur l’émission d’alertes
+automatiques appelées « signalements ponctuels » (ci-après « SP ») que les chargés de clientèle ou les
+directeurs des caisses locales doivent traiter dans le système dédié dénommé « outil Z », ne fonctionne pas de
+manière efficace au sein du CMM ; que ce dispositif n’a été à l’origine que de 7 % de ses déclarations de
+soupçon (ci-après « DS ») en 2014, la majorité de celles-ci trouvant leur origine dans des « dossiers
+d’analyse » créés à la demande expresse du service régional de LCB-FT, du contrôle périodique ou d’un
+événement extérieur et non dans le traitement de SP ; qu’ensuite, l’exploitation des SP est lacunaire, ceux-ci
+étant souvent classés sans suite de manière insuffisamment justifiée par les caisses locales ; que cette
+défaillance est illustrée par i) 5 dossiers relevés par la mission de contrôle sur un échantillon examiné de 19
+clients (dossiers A1, A2, A3, SARL A4, SARL A5), ii) 2 dossiers identifiés comme défaillants par l’audit
+périodique de la CFCM (A6 et A7) et iii) les constats de l’audit périodique à l’égard de certaines caisses
+locales (Nice-Baie des Anges ; Porto-Vecchio ; Marseille-Castellane) ;
+11. Considérant, tout d’abord, que la seule constatation d’un faible pourcentage de DS fondées sur des
+SP, s’il peut être un indice d’un mauvais fonctionnement du dispositif de détection, ne peut suffire à établir
+une carence globale de ce dispositif ; qu’en revanche, ainsi que l’a déjà souligné la Commission (décision
+Caisse d’épargne et de Prévoyance du Languedoc-Roussillon du 25 novembre 2013), la qualité du dispositif
+de suivi et d'analyse des relations d'affaires implique que toutes les alertes émises donnent lieu à une analyse
+pertinente susceptible d’aboutir soit à un examen renforcé ou à une DS, soit à un classement ; que de tels
+classements doivent être effectués dans des conditions qui permettent de les justifier ; qu’en l’espèce, les
+insuffisances des diligences faites au sein des 3 caisses locales du CMM à la suite d’alertes émises par le
+dispositif de détection, qui ont été soulignées par le contrôle périodique du CMM, ne sont pas utilement
+contestées ; qu’à titre d’exemple, ainsi que le rappelle la poursuite, le rapport de contrôle périodique de la
+caisse de Nice-Baie des Anges du 28 janvier 2015 indiquait que « l’utilisation du portail Z est insuffisante :
+le nombre de dossiers analysés est trop faible eu égard à la taille et l’implantation de la caisse, élément
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2017-04
+corroboré par les nombreux cas relevés et non détectés par la Caisse » ; que les diligences faites au premier
+niveau étant essentielles au bon fonctionnement d’un dispositif de LCB-FT, de telles insuffisances ne
+peuvent, au titre du présent grief, être palliées par l’action du service régional de LCB-FT qui, à la date du
+contrôle, utilisait des bases (X et Y) pour détecter les opérations suspectes qui n’auraient pas été détectées
+par le réseau ; qu’en effet, son intervention relève, ainsi que l’a souligné le rapport de contrôle, des contrôles
+permanents de second niveau de l’action des agences en matière de LCB-FT ;
+12. Considérant, ensuite, que parmi les cas individuels mentionnés par la notification des griefs qui
+viennent illustrer le manquement, le dossier SARL A5 doit être écarté, la poursuite ayant admis que les
+opérations effectuées ne présentaient pas un caractère atypique ; que, de même, dans le dossier A6, le
+classement de l’alerte a, selon les explications fournies par la CFCM dans le cadre de la présente procédure,
+été effectué après un examen renforcé, de sorte que l’alerte a bien été traitée ; que la CFCM n’est en
+revanche pas fondée à se prévaloir de l’imprécision que comporte la notification des griefs en ce qui
+concerne le dossier de la caisse de Porto-Vecchio pour lequel 186 SP ont été levés, dès lors que la SCI A7 en
+cause pouvait être très facilement identifiée par la référence faite en bas de page à un rapport du contrôle
+périodique du CMM ; que si la CFCM fait valoir que ces nombreux SP viennent de ce que le compte de cette
+SCI a été ouvert, à la demande de la Banque de France, dans le cadre du droit au compte, il n’en reste pas
+moins que leur classement n’est pas suffisamment justifié ; que, dans le dossier SARL A4, le caractère non
+satisfaisant du traitement des alertes résulte de l’absence de documentation de la levée du risque ; que dans 3
+dossiers (A1, A2 et A3), c’est l’intervention a posteriori du service régional de LCB-FT qui a permis de
+découvrir une anomalie au regard du profil de la relation d’affaires ;
+13. Considérant ainsi que, même si deux des dossiers individuels qui l’illustrent ne sont pas retenus par la
+Commission, le grief est établi ;
+III - Sur le suivi des recommandations du contrôle périodique en
+matière de LCB-FT
+14. Considérant que selon le f) de l’article 11 de l’arrêté du 3 novembre 2014, le système de contrôle des
+opérations et des procédures internes a notamment pour objet, dans des conditions optimales de sécurité, de
+fiabilité et d’exhaustivité, de vérifier l’exécution dans des délais raisonnables des mesures correctrices
+décidées au sein des entreprises assujetties ;
+15. Considérant que selon le grief 4, fondé sur ces dispositions, le système de contrôle des opérations et
+des procédures internes de la CFCM ne permet pas de vérifier l’exécution dans des délais raisonnables des
+mesures correctrices décidées à la suite d’un contrôle périodique, alors même que la couverture du risque de
+BC-FT par les caisses les plus exposées est évaluée comme « trop faible » ; que cette carence est illustrée par
+12 dossiers sur les 44 pour lesquels un examen renforcé ou une DS avait été demandé, dont 4 (sur 20)
+concernaient des clients de la caisse de Porto-Vecchio (dossiers A8, A9, A10 et A11) et 8 (sur 24) des clients
+de la succursale de Nice-Baie des Anges (dossiers A12, A13, SARL A14, A15, A16, A17, A18, A19) ; que
+la recommandation relative à ces dossiers avait été classée en « criticité haute » par le contrôle périodique ;
+que dans certains cas, alors même que la commission des contrôles du CMM a renouvelé la demande, il n’a
+pas été mis fin à la relation d’affaires ; que, dans un dossier, la relation d’affaires s’est poursuivie pendant
+plus de 6 mois après la demande de cesser les relations commerciales avec les clients, M. A20 et sa
+compagne MmeA21, ainsi qu’avec une SCI dénommée « A22» gérée par cette dernière, alors même que leurs
+comptes étaient principalement alimentés par des virements en provenance d’un pays inscrit sur la liste rouge
+de la CFCM et pour lesquels l’origine des fonds n’était pas connue ;
+16. Considérant que, contrairement à ce que soutient la CFCM, la notification des griefs était
+suffisamment claire et précise sur le manquement reproché pour lui permettre de faire valoir utilement ses
+observations en défense ; que les diligences faisant suite à des observations du contrôle périodique en ce qui
+concerne des dossiers précis en matière de LCB-FT doivent être mises en œuvre rapidement, dans un délai
+permettant de satisfaire aux obligations de vigilance et de déclaration ; que tel n’a pas été le cas dans les 4
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2017-04
+dossiers ci-dessus mentionnés concernant des clients de la caisse de Porto-Vecchio qui, à la date du début de
+la mission de contrôle de l’ACPR, le 8 février 2016, n’avaient « pas fait l’objet de dossier d’analyse malgré
+la demande du Contrôle périodique dans son rapport du 27 avril 2015 » ; que, de même, le rapport de
+contrôle relève l’absence de suite donnée à cette même date aux observations relatives aux 8 dossiers de la
+caisse de Nice-Baie des Anges ; que la CFCM, qui admet que « Sur les dossiers individuels (…), le
+traitement d’un dossier que le contrôle périodique [a relevé] devrait en effet être pris en charge sans
+attendre le caractère définitif du rapport de contrôle périodique, dans un délai pertinent qui doit être
+apprécié au cas par cas selon la criticité du risque identifié », ne fournit pas d’éléments permettant de
+justifier les délais de 6 à 12 mois constatés dans les dossiers reprochés ;
+IV - Sur les défauts d’examen renforcé
+17. Considérant que, selon le II de l’article L. 561-10-2 du CMF, les organismes assujettis effectuent un
+examen renforcé de toute opération particulièrement complexe ou d'un montant inhabituellement élevé ou ne
+paraissant pas avoir de justification économique ou d'objet licite ; que dans ce cas, ils se renseignent auprès
+du client sur l'origine des fonds et la destination de ces sommes ainsi que sur l'objet de l'opération et l'identité
+de la personne qui en bénéficie ;
+18. Considérant que selon le grief 5, à la suite de demandes de communication de Tracfin, un « code
+risque LCB-FT » a été mis en place au sujet de deux sociétés de promotion immobilière, SARL A4 et SARL
+A5 ; que, dans ces dossiers, malgré les nombreuses alertes alors générées, aucun examen renforcé n’a été
+effectué ;
+19. Considérant que, si l’ouverture d’un dossier d’analyse permet, en application des procédures internes,
+« de formaliser l’examen renforcé prévu par les dispositions législatives et réglementaires en matière de
+LCB-FT », le présent grief, au visa des dispositions ci-dessus rappelées, ne porte pas sur le non-respect par
+l’établissement de ses propres procédures mais sur la méconnaissance de ses obligations d’examen renforcé ;
+que la circonstance que, dans ces deux dossiers, des demandes de renseignement de Tracfin ont entraîné une
+surveillance des opérations de clients puis, de ce fait, de nombreuses alertes automatiques, ne suffit pas à
+établir un tel manquement ; que si certaines opérations en cause portent sur des montants élevés, la poursuite
+ne précise pas, au regard du secteur et du volume d’activité de ces deux entreprises ou des autres éléments de
+connaissance de ces clients, lesquelles de ces opérations, non couvertes par les demandes de renseignement
+de Tracfin, remplissaient l’un des critères mentionnés au II de l’article L. 561-10-2 du CMF ; que la CFCM
+a, pour sa part, donné des explications sur les éléments dont les caisses locales disposaient et qui pouvaient
+les conduire à estimer que le fonctionnement de ces comptes était cohérent avec l’activité des sociétés
+clientes ; qu’ainsi, en l’état du dossier qui lui est soumis, la Commission ne dispose pas d’éléments
+permettant de regarder comme caractérisé le défaut d’examen renforcé au regard des critères légaux ; que le
+grief doit en conséquence être écarté ;
+V - Sur le respect des obligations déclaratives
+A - Sur les défauts de déclaration de soupçon
+20. Considérant que selon le III de l’article L. 561-15 du CMF, à l’issue de l’examen renforcé prescrit au
+II de l’article L. 561-10-2 du CMF, les organismes assujettis effectuent, le cas échéant, une DS à Tracfin ;
+21. Considérant que selon le grief 6, fondé sur ces dispositions, un défaut de DS est reproché au titre des
+opérations réalisées dans 5 dossiers ;
+22. Considérant que la CFCM soutient, à titre liminaire, qu’un seul des dossiers concernés par le reproche
+était mentionné par la mission de contrôle comme constituant un défaut de DS, « ce qui met en évidence la
+divergence d’appréciations entre la Mission ACPR et la Poursuite, et démontre ainsi le caractère discutable
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2017-04
+de l’analyse retenue par la Poursuite » ; que toutefois les observations qui figurent dans un rapport de
+contrôle ne lient pas le Collège ; que s’il est vrai que, comme le soutient la CFCM, le doute doit profiter à la
+personne poursuivie, il appartient à la Commission, au vu des éléments dont elle dispose au terme de la
+procédure contradictoire, de porter sa propre appréciation sur les faits et les qualifications que retient la
+poursuite ;
+23. Considérant que dans le dossier 6.1 Mme A23, l’examen renforcé conduit par la CFCM n’avait pas
+permis de s’assurer de l’origine licite des 116 000 euros en espèces déposés en avril 2014 sur le compte
+personnel de cette cliente ; que si l’intéressée avait indiqué que cette somme provenait de prélèvements
+fréquemment opérés dans la caisse de son magasin pour alimenter son compte personnel et avait fourni des
+justificatifs, cela ne permettait cependant pas d’écarter le soupçon que ce versement provenait d’une des
+infractions entrant dans le champ de l’article L. 561-15 du CMF ; que l’avertissement adressé par la caisse à
+la cliente de cesser ce type d’opérations ne peut se substituer à l’envoi d’une DS ; qu’en juillet 2013, une
+alerte émise après un précédent dépôt en espèces, de 100 000 euros, avait été classée sans suite ; que la DS
+effectuée le 18 juillet 2016, soit après la signature du rapport de la mission de contrôle, est sans conséquence
+sur le reproche, qui est établi ;
+24. Considérant que dans le dossier 6.2 M. A24, 3 opérations en espèces au débit ou au crédit sont
+évoquées, pour un montant global de 30 000 euros ; que, tout d’abord, la CFCM indique qu’une de ces
+opérations a, à tort, été présentée comme une opération en espèces alors qu’il s’agissait de l’émission d’un
+chèque de 8 000 euros ; que cette opération doit de ce fait être écartée ; qu’ensuite, 10 000 euros ont été
+retirés en espèces sur ce compte peu après la réception d’un virement du même montant provenant de la
+société Cofidis ; que, l’origine de ces fonds étant connue, en l’absence d’éléments permettant de caractériser
+un soupçon de financement du terrorisme, cette deuxième opération doit également être écartée du champ du
+reproche ; qu’en revanche, le classement sans suite d’une PDS effectuée le 18 novembre 2014 après le dépôt
+de 7 520 euros en espèces puis le retrait de 7 500 euros, également en espèces, sur le même compte, n’est pas
+suffisamment justifié par les explications recueillies, selon lesquelles ces fonds provenaient du compte de la
+mère du client et étaient destinés à sa belle-sœur ; que le motif tiré de la faiblesse des montants en cause n’est
+pas non plus approprié dès lors que le client et son épouse ne disposent que de revenus annuels d’environ
+30 000 euros et que les obligations déclaratives s’appliquent sans considération de seuil ; que, dans un
+périmètre réduit, ainsi qu’il a été dit, à une opération, le défaut de DS est donc établi ;
+25. Considérant que dans le dossier 6.3, la société A25 a reçu le 31 décembre 2014 un virement de 1 500
+000 euros en provenance d’un compte CARPA ; que ce virement, en raison de son montant inhabituellement
+élevé, a conduit à procéder à un examen renforcé de cette opération, dont il est ainsi apparu qu’elle
+s’inscrivait dans le cadre d’une augmentation de capital de 750 000 euros complétée par une émission
+d’obligations convertibles du même montant, souscrites par un fonds d’investissement de proximité
+dénommé « A26» ; que la CFCM a fourni, outre une attestation du service des impôts des entreprises
+enregistrant l’augmentation de capital, la copie d’un procès-verbal de sa cliente et du contrat d’émission
+d’obligations convertibles en actions confirmant la réalité de l’opération financière réalisée par ce fonds ;
+qu’en l’état des informations dont dispose la Commission, il n’y a pas lieu pour elle de remettre en cause
+l’appréciation alors portée par la CFCM sur ce dossier, qui doit donc être écarté ;
+26. Considérant que dans le dossier 6.4 M. A 27, les opérations exécutées, dont la remise à l’encaissement
+de deux chèques de 25 000 euros, ont été justifiées par la production d’une convention de cession de parts
+d’une SCI mentionnant un paiement partiel du prix à hauteur de 50 000 euros, ce qui correspond aux
+explications alors fournies par le client ; que ce dossier, en l’état, doit donc également être écarté ;
+27. Considérant que dans le dossier 6.5 M. A28 et Mme A29, deux retraits d’espèces de 30 000 euros puis
+de 40 000 euros en coupures de 500 euros ont été réalisés en octobre 2013 ; qu’en janvier 2014, Mme A29 a
+effectué un dépôt d’espèces de 79 000 euros en coupures de 500 euros suivi d’un retrait de la même somme
+en plus petites coupures ; que ces opérations atypiques ont été à l’origine d’une alerte et d’un dossier
+d’analyse, qui a été clôturé ; que la CFCM n’a disposé d’aucun élément permettant d’écarter le soupçon que
+les sommes ainsi retirées ou déposées provenaient d’une des infractions mentionnées au I de l’article L. 561-
+15 du CMF ; que, dans ce dossier, le manquement est donc établi ;
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2017-04
+28. Considérant ainsi que le grief 6 est établi dans un périmètre réduit à 3 dossiers ;
+B - Sur les déclarations de soupçon tardives
+29. Considérant que, selon l’article L. 561-16 du CMF, les organismes financiers sont tenus, lorsqu’une
+opération devant faire l’objet de la déclaration prévue à l’article L. 561-15 de ce code a déjà été réalisée, soit
+parce qu’il a été impossible de surseoir à son exécution, soit que son report aurait pu faire obstacle à des
+investigations portant sur une opération suspectée de BC-FT, soit qu’il est apparu postérieurement à sa
+réalisation qu’elle était soumise à cette déclaration, d’en informer sans délai Tracfin ;
+30. Considérant que, selon le grief 7, fondé sur ces dispositions, les délais de transmission des DS sont
+excessifs dans 8 dossiers relevés par la mission de contrôle ;
+31. Considérant que dans le dossier 7.1 SARL A30, entreprise de maçonnerie et de peinture, de nombreux
+retraits en espèces, soit 151 opérations pour un montant total de 196 620 euros, ont été enregistrés depuis
+l’ouverture du compte en juillet 2013 ; qu’aucun débit au titre du paiement de la TVA n’a été constaté tandis
+que des achats et des ventes de véhicules, sans rapport avec l’objet social de la société, étaient réalisés ; qu’il
+ont de plus été pour partie financés par 12 virements internationaux pour un montant total de 129 000 euros ;
+que le classement sans suite, en janvier 2015, d’un premier dossier d’analyse à la suite d’un retrait de 63 000
+euros en espèces, ne pouvait, au regard des caractéristiques des transactions opérées par le client, être justifié
+par le choix réduit des types de moyens de paiement dont il disposait, son compte ayant été ouvert dans le
+cadre du droit au compte ; que la réouverture du dossier, qui faisait suite à une recommandation du contrôle
+périodique, n’a abouti à l’envoi d’une DS à Tracfin que le 7 avril 2015 ; qu’en l’espèce, l’établissement, qui
+a estimé devoir interrompre la relation d’affaires dès le 6 février 2015, ne peut justifier, au regard des
+opérations enregistrées sur ce compte, le délai de deux mois supplémentaires pour adresser une DS à
+Tracfin ; que le manquement est donc établi ;
+32. Considérant que dans le dossier 7.2 SARL A32, les 10 virements étrangers reçus entre le 12 août et le
+12 novembre 2014 pour un montant total de 261 000 euros, et les 6 retraits d’espèces pour un montant total
+de 35 000 euros effectués entre le 28 août 2014 et le 3 octobre 2014, ont donné lieu à des demandes
+d’explication sur leur cohérence avec l’activité d’agent maritime et de société d’avitaillement de la cliente ;
+que ces flux n’ont été que partiellement expliqués ; que pourtant, à la suite de leur détection par la base « Y »
+en janvier 2015, alors que les opérations sur le compte avaient cessé, la demande du service régional de
+LCB-FT d’adresser une PDS n’a pas été suivie d’effet ; que ce n’est que lorsque cette même
+recommandation a été renouvelée à la suite d’un contrôle périodique effectué en mai et juin 2015 qu’une DS
+a finalement été adressée le 10 juin 2015, soit près de 5 mois après la détection des opérations atypiques ;
+que les échanges relatifs aux motifs de ces opérations, qui ne se sont pas poursuivis au-delà du 3 février
+2015, ne peuvent justifier un tel délai ; que le manquement est donc établi ;
+33. Considérant que dans le dossier 7.3 SARL A32, le versement par une personne physique d’un chèque
+de 800 000 euros en octobre 2014 sur le compte, jusqu’ici peu actif, de ce marchand de biens, a donné lieu à
+une alerte émise par l’outil de surveillance « X » ; qu’au regard de la teneur des explications recueillies,
+selon lesquelles cette somme, versée sur le compte d’une société, correspondrait à un prêt accordé à l’un de
+ses gérants par une cliente, l’envoi d’une DS à Tracfin le 9 juillet 2015 seulement, après clôture du compte le
+6 mai 2015, est tardif ; qu’en raison de l’absence de justification économique apparente d’une telle opération,
+les éléments réunis sur la provenance immédiate des fonds, soit des avances sur des contrats d’assurance sur
+la vie, était sans conséquence sur la nécessité d’adresser sans délai une DS à Tracfin ; que le manquement est
+donc établi ;
+34. Considérant que dans le dossier 7.4 M. A33, avocat, titulaire depuis novembre 2003 de plusieurs
+comptes, le compte professionnel CARPA était actif pour des montants que son utilisation afin de recevoir
+des frais de procédure ne justifiait pas ; qu’à la suite d’une réquisition judiciaire reçue le 7 août 2014 qui
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2017-04
+mentionnait un possible abus de faiblesse, la caisse locale a ouvert un dossier d’analyse, qu’elle a clos le
+1er septembre de cette même année ; qu’une DS n’a finalement été adressée que le 23 décembre 2014 ; qu’en
+raison des mouvements enregistrés sur ce compte qui, fonctionnant « sur fonds de tiers, n’est pas
+saisissable » et « En l’espace de deux ans, (…) a enregistré 661 chèques émis pour 994 K€ / 57 virements
+reçus pour 157 K€ » : / - 90 opérations de remises de chèques pour un total de 795 K€ », les informations
+dont disposait la CFCM auraient dû être portées à la connaissance de Tracfin bien avant la réception de cette
+réquisition ; que le manquement est donc établi ;
+35. Considérant que dans le dossier 7.5 SCI A35, société détenue par deux ressortissants russes et gérée
+par un agent immobilier de […], les flux créditeurs enregistrés sur le compte bancaire, soit 8 virements en
+2013 et 2014 pour un montant total de 282 000 euros en provenance d’Estonie et d’une entreprise domiciliée
+aux Iles Vierges britanniques, un virement, le 16 février 2015, de 60 000 euros en provenance d’une
+fondation domiciliée au Liechtenstein et 130 retraits en espèces pour un montant global de 83 000 euros,
+auraient dû être rapidement déclarés faute d’avoir été justifiés ; que ce n’est pourtant qu’à la suite d’un
+rapport de l’audit périodique que ces opérations ont donné lieu à un examen renforcé, qui n’a pas permis
+d’établir de lien entre les dirigeants de cette SCI et les donneurs d’ordre de ces virements ; qu’au regard des
+diligences faites, l’envoi à Tracfin d’une DS le 25 août 2015 est tardif, y compris par rapport au point de
+départ retenu par la poursuite, soit le rapport du contrôle périodique du 15 juin 2015 (et non du 28 janvier
+2015 comme mentionné dans la notification des griefs) ; que le manquement est donc établi ;
+36. Considérant que dans le dossier 7.6 M. A35, les mouvements enregistrés depuis janvier 2013 sur le
+compte personnel du client, gérant ou associé de plusieurs sociétés exerçant dans le domaine de l’immobilier
+et la restauration, se sont poursuivis pendant une longue période ; que ce compte a enregistré 1 064 00 euros
+de flux créditeurs dont 517 000 euros de remises de chèques émis par un groupe dénommé A36, 4 virements
+d’un montant total de 415 000 euros « provenant de ses sociétés », 46 000 euros de la Française des Jeux ou
+du PMU et 88 000 euros de particuliers ; que, sur la même période, 634 000 euros de débits ont été constatés
+à destination des sociétés de ce client et 156 000 euros au profit de particuliers ; que, saisie le 23 décembre
+2014 d’une réquisition judiciaire relative à un « assassinat », la caisse n’a pourtant pas ouvert alors de
+dossier d’analyse ; qu’il a fallu attendre les conclusions de l’audit périodique de la caisse de […], rendues le
+15 juin 2015, pour qu’un examen approfondi du fonctionnement du compte soit mené ; que celui-ci a conduit
+la CFCM à procéder à une DS le 1er septembre 2015, soit 252 jours après la réquisition judiciaire ; que le
+manquement est donc établi ;
+37. Considérant que dans le dossier 7.7 M. A37, le client est resté injoignable après que son compte, en
+découvert depuis le 21 octobre 2015, eut été mis en blocage technique le 4 novembre 2015 ; qu’à une date
+dont la CFCM ne conteste pas qu’elle ait été proche de ce blocage, le père du client a contacté l’agence pour
+lui faire part de ses inquiétudes en raison de l’absence de son fils, converti à l’islam, qui « avait auparavant
+exprimé son intention d’aller combattre en Syrie » ; que, compte tenu de cette intervention, les opérations
+enregistrées sur le compte, soit de très nombreux retraits d’espèces, pour des montants significatifs au regard
+des éléments de connaissance dont disposait la CFCM au sujet de ce client, […] percevant une allocation de
+Pôle Emploi, ainsi que des achats dans plusieurs commerces à orientation religieuse et un achat, quoique de
+faible montant, dans une armurerie, auraient dû être regardées comme des indices d’une éventuelle
+participation au financement du terrorisme justifiant l’information de Tracfin ; qu’en conséquence la CFCM
+aurait dû être particulièrement réactive, de sorte que la DS, finalement effectuée le 15 décembre 2015, après
+établissement d’une PDS le 10 décembre 2015, et quelques semaines après l’intervention du père du client,
+n’a pas été transmise assez rapidement ; que le grief est donc établi ;
+38. Considérant que dans le dossier 7.8 SARL A38, le fonctionnement du compte de la société, ouvert en
+mai 2014, est atypique au regard de son activité de location, d’achat, de vente et de conseil en automobile ;
+qu’ainsi, ce compte a enregistré 1 997 000 euros de flux créditeurs en 5 mois, dont 63 virements reçus pour 1
+338 000 euros et 26 remises de chèques à l’encaissement pour un montant total de 620 000 euros ; que sur la
+même période, 98 virements ont été émis pour un montant total de 1 706 000 euros ; qu’un premier dossier
+d’analyse a été créé le 18 juin 2014 par la caisse locale de […], mais a été aussitôt clos ; qu’après
+l’intervention du service régional de LCB-FT, un nouvel examen renforcé a été mené ; que devant le refus du
+client de fournir des justificatifs relatifs à ses éléments de facturation et à sa situation fiscale, la CFCM a mis
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2017-04
+fin à la relation d’affaires le 7 octobre 2014 puis a réalisé une DS le 13 octobre 2014 ; que la poursuite retient
+le délai de 117 jours entre la première détection des opérations suspectes, le 18 juin, et la DS, le 13 octobre
+suivant ; qu’un tel délai ne se justifie pas par les diligences accomplies ; que la CFCM indique seulement que
+la caisse locale concernée n’avait pas de directeur pendant cette période ; que le manquement est donc
+établi ;
+39. Considérant ainsi que le grief 7 est entièrement établi ; que la CFCM ne peut utilement faire valoir
+que son délai moyen d’envoi des DS à Tracfin était de 60 jours en 2015, contre 84 pour les 7 plus grands
+établissements de la place en moyenne, dès lors qu’en l’espèce le reproche porte seulement sur les retards
+constatés dans 8 dossiers ;
+VI - Sur le dispositif de détection des personnes ou entités faisant
+l’objet d’une mesure de gel des avoirs
+40. Considérant que, selon l’article 47 de l’arrêté du 3 novembre 2014, les organismes assujettis se dotent
+de dispositifs adaptés à leurs activités permettant de détecter toute opération au bénéfice d’une personne ou
+d’une entité faisant l’objet d’une mesure nationale ou européenne de gel des avoirs ;
+41. Considérant que selon le grief 8, fondé sur cette disposition, l’absence de vérification de l’identité de
+132 clients sur la période 2014-2015 « constitue un obstacle à la détection des personnes ou entités faisant
+l’objet d’une mesure de gel des avoirs » ;
+42. Considérant, tout d’abord, que la CFCM fait valoir que le manquement repose sur les mêmes faits que
+ceux qui fondent le grief 1, ce qui aboutit à cumuler deux qualifications juridiques distinctes pour réprimer
+des faits identiques, en contrariété avec le principe ne bis in idem ; que, cependant, la Commission des
+sanctions a déjà estimé que ce principe ne trouvait pas à s’appliquer dans une procédure disciplinaire unique
+au titre de laquelle les mêmes faits recevraient plusieurs qualifications au regard des obligations
+professionnelles qui s’imposent aux organismes assujettis (décision Axa France Vie du 8 décembre 2016
+considérant 29 ; décision Caisse Fédérale du Crédit Mutuel Nord Europe du 17 avril 2018, considérant 3) ;
+que, si le gel des avoirs n’était pas compris dans le champ du contrôle sur place diligenté de février à mai
+2016, les insuffisances reprochées au titre du présent grief reposent sur des faits constatés au cours de cette
+mission et décrits dans le rapport de contrôle ; que c’est donc bien après avoir examiné ce rapport, comme le
+prévoit l’article L. 612-38 du CMF, que le Collège a retenu cette seconde qualification ; qu’il ne résulte pas
+de cette façon de procéder une atteinte irrémédiable aux droits de la défense au sens de la jurisprudence du
+Conseil d’État (7 juin 2017, Société Vaillance Courtage, n° 393509), les faits en cause ayant pu être débattus
+lors du contrôle et la CFCM ayant pu, au cours de l’instruction préalable à l’audience de la Commission puis
+lors de celle-ci, fournir toutes les explications qui lui paraissaient utiles à la défense de ses intérêts ;
+43. Considérant ensuite qu’ainsi que cela a été indiqué, l’identité de 32 nouveaux clients ayant ouvert un
+compte au cours de la période 2014-2015 n’avait pas, à la date de la mission de contrôle, été vérifiée ; que
+l’établissement n’a donc pas été en mesure de rechercher si ces clients faisaient l’objet d’une mesure
+restrictive ; que, dans ce périmètre, le grief est établi ;
+*
+* *
+44. Considérant qu’il résulte de ce qui précède qu’au moment du contrôle, la CFCM ne respectait pas
+parfaitement ses obligations de vérification de l’identité de ses clients ; que cette carence, quoique portant sur
+un nombre limité de cas, doit être appréciée en tenant compte de ce que la qualité de cette vérification
+conditionne l’efficacité du dispositif de LCB-FT de tout organisme assujetti (grief 1) ; que l’existence, au
+moment du contrôle, de procédures dérogatoires permettant que des moyens de paiement soient octroyés et
+des opérations exécutées pour le compte d’un client alors que le processus d’identification et de vérification
+de l’identité n’a pas encore été mené à son terme, n’a pas été contestée (grief 2) ; que le dispositif de
+Autorité de contrôle prudentiel et de résolution 10
+
+===== Page 11 =====
+Décision de la Commission des sanctions – procédure no 2017-04
+traitement des alertes, dans le périmètre vérifié par la mission de contrôle, comportait également des
+défaillances (grief 3) ; que le suivi des recommandations du contrôle périodique n’a pas été, pour un certain
+nombre de dossiers individuels, effectué de manière satisfaisante (grief 4) ; que plusieurs défauts de DS ont
+en outre été retenus (grief 6), de même que plusieurs cas d’envois tardifs de DS (grief 7) ; que le défaut de
+vérification de l’identité de plusieurs clients ne mettait pas l’établissement en situation de détecter ceux qui
+faisaient, le cas échéant, l’objet d’une mesure de gel des avoirs (grief 8) ;
+45. Considérant cependant que les constats du rapport de contrôle ont été établis dans le cadre d’une
+mission centrée sur le dispositif du CMM et des caisses locales qui lui sont affiliées ; qu’en outre, les
+insuffisances reprochées sont, pour l’essentiel, relatives à quelques-unes seulement de ces caisses ; que des
+conclusions générales sur la qualité du dispositif de LCB-FT de la CFCM ne peuvent être extrapolées à partir
+d’une base aussi étroite ; que, de plus, ainsi qu’il a été dit, le nombre de dossiers dans lesquelles la
+vérification de l’identité a été conduite de manière non satisfaisante est faible au regard du nombre de
+comptes ouverts pendant la période examinée (grief 1) ; que les dossiers pour lesquels un défaut d’examen
+renforcé était reproché ont été écartés (grief 5) ; que les délais d’envoi de DS à Tracfin, excessifs dans les
+dossiers individuels mentionnés à ce titre, sont en moyenne, pour l’ensemble de la CFCM, moins élevés que
+ceux constatés par la Commission dans certaines autres affaires dont elle a eu à connaître (grief 7) ; que
+l’insuffisance retenue en matière de gel des avoirs, conséquence de celle relative à la vérification de l’identité
+des clients, ne peut suffire à fonder une appréciation globale sur le dispositif de la CFCM dans ce domaine,
+qui n’a pas été évalué par la mission de contrôle (grief 8) ; qu’il peut enfin être tenu compte, dans une
+certaine mesure, des actions correctrices mises en œuvre ainsi que de l’engagement fort exprimé, lors de
+l’audience, par la direction générale de la CFCM au soutien de la politique de conformité du groupe ;
+46. Considérant que, si la CFCM estime que les faits constatés par la mission de contrôle devraient
+conduire à sa mise hors de cause, les manquements retenus par la Commission justifient cependant, compte
+tenu de leur nature, de leur nombre et de leur gravité, et au vu des éléments mentionnés ci-dessus, le
+prononcé d’un blâme ; que, pour les mêmes raisons et dans le respect du principe de proportionnalité au
+regard de l’assise financière de la CFCM, une sanction pécuniaire de 1 million d’euros sera également
+prononcée ;
+47. Considérant que la CFCM ne produit aucun élément permettant d’estimer que la publication
+nominative de la présente décision lui causerait un préjudice disproportionné ; que cette publication n’est pas
+non plus de nature à perturber gravement les marchés financiers ; que la présente décision sera donc publiée
+sous cette forme ;
+PAR CES MOTIFS
+DÉCIDE :
+ARTICLE 1ER – Il est prononcé à l’encontre de la Caisse fédérale de Crédit Mutuel un blâme et une
+sanction pécuniaire d’un million d’euros.
+ARTICLE 2 – La présente décision sera publiée au registre de l’ACPR et pourra être consultée au
+secrétariat de la Commission.
+Le Président de la Commission
+des sanctions
+[Rémi BOUCHEZ]
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification et
+dans les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 11

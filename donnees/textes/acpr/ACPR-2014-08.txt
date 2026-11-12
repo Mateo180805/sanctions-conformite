@@ -1,0 +1,856 @@
+===== Page 1 =====
+Société A
+Procédure no 2014-08
+_____
+Avertissement et sanction
+pécuniaire de 500 000 euros
+_____
+Audience du 5 juin 2015
+Décision rendue le 19 juin 2015
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+_______________
+Vu la lettre du 29 juillet 2014 par laquelle le Vice-président de l’Autorité de contrôle prudentiel et de
+résolution (ci-après l’ACPR) informe la Commission de ce que le Collège de supervision de l’ACPR (ci-après
+le Collège), statuant en sous-collège sectoriel de l’assurance, a décidé, lors de sa séance du 10 juillet 2014,
+d’ouvrir une procédure disciplinaire à l’encontre de la société A ;
+Vu la notification de griefs du 29 juillet 2014 ;
+Vu les mémoires en défense des 6 novembre 2014 et 18 février 2015 par lesquels la société A (i) soutient
+que les irrégularités affectant le contrôle et la notification de griefs interdisent qu’elle puisse être sanctionnée,
+(ii) conteste la totalité des griefs et (iii) demande que la décision à intervenir soit publiée sous une forme non
+nominative et que la séance au cours de laquelle cette affaire sera examinée ne soit pas publique ;
+Vu les mémoires en réplique des 21 janvier 2015 et 6 mars 2015 par lesquels M. Philippe Mathouillet,
+représentant le Collège de l’ACPR conclut (i) au rejet des exceptions soulevées et (ii) au maintien de la totalité
+des griefs ;
+Vu le procès-verbal d’audition du président de la société A, entendue à sa demande par le rapporteur le
+13 avril 2015 ;
+Vu le rapport du 29 avril 2015 dans lequel le rapporteur, M. Yves Breillat, estime que (i) les exceptions
+soulevées doivent être écartées et que (ii) tous les griefs sont établis, le périmètre du grief 8 devant cependant
+être réduit ;
+Vu les courriers du 29 avril 2015 convoquant les parties à la séance de la Commission du 5 juin 2015 et les
+informant de sa composition lors de cette séance ;
+Vu le mémoire du 13 mai 2015 par lequel la société A présente ses observations en réponse au rapport du
+rapporteur ;
+Vu les autres pièces du dossier, notamment le rapport de contrôle signé le 16 décembre 2013 ;
+Vu la Convention européenne de sauvegarde des droits de l’homme et des libertés fondamentales (ci-après
+la CESDH) ;
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2014-08
+Vu l’ordonnance no 2009-104 du 30 janvier 2009 relative à la prévention de l’utilisation du système
+financier aux fins de blanchiment des capitaux et de financement du terrorisme, notamment son article 19 (ci-
+après l’ordonnance no 2009-104) ;
+Vu le code monétaire et financier (ci-après le CMF) ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACPR, composée de M. Rémi Bouchez, Président, M. Christian Lajoie,
+Mme Christine Meyer-Meuret, Mme Elisabeth Pauly et M. Denis Prieur ;
+Après avoir décidé de faire droit à la demande de la société A tendant à ce que l’audience ne soit pas
+publique et entendu, lors de sa séance du 5 juin 2015 :
+ M. Breillat, rapporteur, assisté de M. Raphaël Thébault, son adjoint ;
+ M. Laurent Bornia, représentant du directeur général du Trésor, qui a indiqué ne pas avoir d’observations
+à formuler ;
+ M. Mathouillet, représentant le Collège de l’ACPR, assisté de l’adjointe au directeur des affaires
+juridiques, de deux juristes au sein du service des affaires institutionnelles et du droit public, d’une
+juriste au sein du service du droit de la lutte anti-blanchiment et du contrôle interne, du directeur des
+contrôles spécialisés et transversaux, du chef du service du contrôle des dispositifs anti-blanchiment, et
+d’un contrôleur de ce service ; M. Mathouillet a proposé le prononcé d’un blâme assorti d’une sanction
+pécuniaire de 1,5 million d’euros dans une décision rendue sous une forme nominative ;
+ Le président de la société A, assisté du directeur général et du directeur général délégué en charge des
+opérations, ainsi que de Mes Jérôme Sutour, Alexandre Marion et François Lacouture, avocats à la Cour
+(CMS Bureau Francis Lefebvre) ;
+Les représentants de la société A ayant eu la parole en dernier ;
+Après avoir délibéré en la seule présence de M. Bouchez, Président, M. Lajoie, Mme Meyer-Meuret,
+Mme Pauly et M. Prieur, ainsi que de M. Jean-Manuel Clemmer, chef du service de la Commission des
+sanctions, faisant fonction de secrétaire de séance ;
+1. Considérant que la société A a été créée il y a 150 ans ; qu’elle est agréée pour les activités relevant des
+branches 20 et 24 (vie-décès et capitalisation) et de la branche 22 (assurances liées à des fonds
+d’investissement) ; que, [concentrée historiquement sur une clientèle relevant d’un secteur professionnel
+circonscrit, elle a, en 2006, élargi progressivement le périmètre de ses clients] ; qu’elle propose une gamme de
+produits d’épargne et a récemment développé une activité de prévoyance individuelle ; qu’en 2014, elle a
+réalisé un résultat net de 21,2 millions d’euros et disposait, à la fin de cet exercice, de 235 millions d’euros de
+fonds propres ; qu’elle gérait à cette même date 2,934 milliards d’euros d’actifs et comptait 113 745 clients
+pour un total de 159 392 contrats dont 115 828 contrats d’épargne ;
+2. Considérant que la mission de contrôle sur place a porté sur « le respect des obligations relatives à la
+lutte contre le blanchiment des capitaux et le financement du terrorisme (LCB-FT) [et] sur le contrôle interne
+du dispositif LCB-FT » ; qu’elle s’est déroulée du 19 mars au 12 juillet 2013 et a donné lieu, après observations
+orales et écrites de la société contrôlée, sur un projet de rapport établi le 19 septembre 2013, à la signature d’un
+rapport définitif (ci-après le « rapport de contrôle ») le 16 décembre 2013 ; que, lors de sa séance du 10 juillet
+2014, le Collège a ouvert la présente procédure, dont la Commission a été saisie le 29 juillet 2014 ;
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2014-08
+I. Sur les questions générales et les exceptions de procédure
+1o) Sur l’illégalité alléguée du rapport de contrôle et de la décision d’ouvrir une
+procédure disciplinaire
+a) Le rapport de contrôle
+3. Considérant que la société A fait valoir que le rapport de contrôle est illégal car il ne respecte pas les
+termes du préambule de la charte de contrôle de juin 2010 applicable au secteur de l’assurance, qui soulignait
+le caractère principalement préventif des contrôles ; que le dernier paragraphe de cette charte (p. 7) indiquait
+ainsi que « La mission de l’ACP ne se limite pas au volet répressif, le contrôle ayant également pour objet de
+prévenir les manquements. L’ACP, par sa relation continue avec les organismes contrôlés, exerce également
+un rôle d’information et de prévention. » ; qu’en contradiction avec ces dispositions, la mission de contrôle,
+dont les interlocuteurs au sein de la société A avaient « adopté un ton coopératif, conciliant et courtois », s’est
+concentrée sur la recherche de manquements à des fins exclusivement répressives ; que par un arrêt du
+13 septembre 2012 (no 2011/17362), la Cour d’appel de Paris a jugé que la charte applicable aux enquêtes de
+l’Autorité des marchés financiers (AMF) devait permettre de disposer d’une connaissance certaine et non
+équivoque des conditions d’une enquête, règle dont la société A n’a pu bénéficier dans le cadre du contrôle de
+l’ACPR ; qu’en raison de cette démarche préventive dans laquelle la mission de contrôle s’inscrivait
+nécessairement, elle était fondée à croire que le plan d’actions du 30 octobre 2013 était susceptible de
+neutraliser le caractère répressif du contrôle ; qu’ainsi trompée sur la nature véritable d’un contrôle qu’elle
+pensait préventif, elle a été amenée à s’auto-incriminer, notamment au sujet des faits ultérieurement reprochés
+au titre des griefs 3 et 4 ; qu’il en résulte une atteinte irrémédiable aux droits de la défense ;
+4. Considérant cependant que les passages de la charte du contrôle sur lesquels s’appuie la société A n’ont
+pas le sens ni la portée qu’elle leur prête ; qu’il va de soi que tout contrôle du superviseur peut déboucher sur
+l’engagement d’une procédure disciplinaire, dans les conditions prévues par le CMF ; que si aucune disposition
+de ce code n’interdit au Collège de prendre en compte les mesures correctrices éventuellement décidées par
+l’organisme contrôlé, les dispositions de l’article L. 612-38 du CMF ne subordonnent pas l’ouverture d’une
+procédure disciplinaire à l’absence de telles mesures ; que l’ouverture d’une procédure disciplinaire à la suite
+d’un contrôle n’étant contraire ni aux dispositions ci-dessus rappelées ni, au demeurant, aux précisions qu’y
+apportait la charte de contrôle alors en vigueur, la société A n’est pas fondée à se prévaloir de l’arrêt de la Cour
+d’appel de Paris qu’elle cite, par lequel a été prononcée l’annulation d’une décision de la Commission des
+sanctions de l’AMF au motif que, lors d’une enquête diligentée par les services de cette autorité, les
+déclarations d’une personne ultérieurement mise en cause avaient été recueillies sans qu’il ait été constaté
+qu’elle avait préalablement renoncé au bénéfice des règles applicables aux auditions destinées à assurer la
+loyauté de l’enquête, définies par les articles L. 621-10, L. 621-11 et R. 621-35 du CMF et explicitées par la
+charte de l’enquête de l’AMF ; que les circonstances alléguées par la société A relatives aux conditions de
+réalisation du contrôle sur place ne font apparaître aucune atteinte irrémédiable aux droits de la défense ;
+5. Considérant en outre que le Conseil d’État a jugé que le principe selon lequel nul n’est tenu de
+s’incriminer lui-même, résultant de l’article 6 § 1 de la CESDH et de l’article 14 du Pacte international de New
+York relatif aux droits civils et politiques, ne pouvait être utilement invoqué relativement à un contrôle effectué
+par la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance (CCAMIP),
+autorité alors chargée « d’une mission de surveillance du secteur de l’assurance, ayant un caractère préventif
+et pouvant éventuellement impliquer le prononcé de sanctions » (30 mars 2007, Sté Prédica, no 277991) ; que
+cette jurisprudence s’applique nécessairement à l’ACPR à laquelle a été confiée cette même mission de
+surveillance ; que l’exception soulevée doit être écartée ;
+b) La décision d’ouvrir une procédure disciplinaire à l’encontre de la société A
+6. Considérant que la société A soutient que la décision par laquelle le Collège a ouvert une procédure
+disciplinaire à son encontre ne lui a pas été communiquée ; qu’elle n’a donc pu en connaître la motivation ni
+en apprécier la régularité, ce qui constitue une atteinte aux droits de la défense ; qu’en outre, la Commission,
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2014-08
+après avoir constaté la nullité du rapport de contrôle, doit nécessairement constater la nullité de la décision
+d’ouvrir la présente procédure disciplinaire ;
+7. Considérant cependant que le CMF ne prévoit pas de communication à la personne poursuivie de la
+décision d’ouverture d’une procédure disciplinaire ; que la lettre de griefs, qui contient les faits reprochés et
+leur qualification juridique, traduit cette décision du Collège ou du sous-collège compétent et constitue l’acte
+de poursuite qui doit permettre à un établissement mis en cause de connaître les reproches qui lui sont adressés ;
+qu’au demeurant la société A n’a pas demandé que cette décision du Collège lui soit communiquée ; qu’en
+outre la Commission n’a pas constaté la nullité du rapport de contrôle sur lequel est fondée la décision d’ouvrir
+la présente procédure disciplinaire ; que l’exception soulevée doit donc être écartée ;
+2o) Sur le manquement allégué des contrôleurs de l’ACPR à leur devoir de loyauté
+8. Considérant que la société A fait valoir que les conditions dans lesquelles a été effectué le contrôle sur
+place sur lequel est fondée la présente procédure ont méconnu les stipulations du a) de l’article 6 § 3 de la
+CESDH, selon lesquelles tout accusé a droit à « être informé, dans le plus court délai, dans une langue qu’il
+comprend et d’une manière détaillée, de la nature et de la cause des accusations portées contre lui », en raison
+de l’intégration au rapport, sous une forme tronquée, de ses observations en réponse et de la production partielle
+des documents qu’elle a remis à la mission de contrôle ; que le rapport de contrôle donne une vision fallacieuse
+et déformée de sa situation, notamment parce que les constats en matière de LCB-FT sont fondés sur une
+sélection de contrats déjà identifiés comme relevant d’une vigilance accrue ; que la présentation des faits y est
+exclusivement à charge ; qu’ainsi est mentionné le fait que les actions correctrices se sont achevées fin juin
+2014 seulement mais non que leur date de fin a été reportée afin de tenir compte de celle de la mission de
+contrôle ; que de plus, le Collège n’a pas eu connaissance du plan d’actions de la société A, dont ne figurent
+au rapport que deux de ses 13 pages ; que, de même, la réponse détaillée de l’établissement au projet de rapport
+n’y a pas été jointe et n’a donc pu être analysée par le Collège lors de l’examen de situation de cet
+établissement ; qu’il en résulte une atteinte irrémédiable aux droits de la défense ;
+9. Considérant cependant que la seule circonstance que n’a pas été jointe au rapport de contrôle l’intégralité
+des observations formulées et des pièces produites par l’établissement contrôlé en réponse au projet de rapport
+ne peut constituer en soi une atteinte irrémédiable aux droits de la défense, dès lors que l’établissement mis en
+cause a pu, dans le cadre des échanges contradictoires devant la Commission, présenter sa défense et produire
+tous éléments utiles à l’appui de celle-ci ; que la société A a également pu, à ce stade, corriger la présentation
+de sa situation qui figure dans le rapport de contrôle et en particulier compléter la sélection de contrats effectuée
+par la mission de contrôle ; que, de plus, il n’appartient pas à la Commission, saisie de faits susceptibles, s’ils
+étaient établis, de constituer des manquements à des obligations légales, de s’interroger sur ce qu’aurait été
+l’analyse du Collège sur ces mêmes faits s’il avait disposé d’un dossier comportant plus d’éléments ou des
+éléments différents ; qu’elle doit seulement, au terme de l’instruction d’un dossier, statuer sur les faits soumis
+à son examen au vu des arguments échangés ; que l’exception soulevée doit être écartée ;
+3o) Sur l’insuffisance du délai dont la société A a disposé pour présenter sa première
+défense
+10. Considérant que la société A fait tout d’abord valoir que la procédure disciplinaire serait entachée de
+nullité également parce que le délai de trente jours francs prévu par l’article R. 612-38 du CMF pour que la
+personne mise en cause puisse présenter ses observations écrites sur les griefs ne permet pas de garantir le droit
+à un procès équitable ; qu’elle méconnaît ainsi les dispositions du b) du § 3 de l’article 6 de la CESDH selon
+lesquelles « Tout accusé a droit notamment à […] disposer du temps et des facilités nécessaires à la
+préparation de sa défense » ; que le Secrétariat général de l’ACPR a bénéficié de 8 mois pour préparer sa
+notification de griefs alors qu’elle-même était à la merci d’un refus d’extension du délai précité pour présenter
+sa première défense ; que si le rapporteur a bien voulu proroger celui-ci, « suppléant ainsi aux vices de la loi »,
+c’est bien que celle-ci n’est pas garante d’un procès équitable et qu’elle « ne permet pas de considérer cette
+procédure comme garantissant la sécurité juridique des justiciables » ; que, conformément au principe
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2014-08
+d’égalité des armes, elle aurait dû disposer à ce stade d’un délai au moins égal à celui qui sépare la signature
+du rapport de contrôle de l’ouverture de la procédure disciplinaire ; qu’ainsi, la procédure de sanction serait
+« entachée d’un vice devant la frapper de nullité » ;
+11. Considérant cependant que le respect du caractère contradictoire de la procédure devant la
+Commission, auquel elle est tenue de veiller, et qui implique que chaque partie dispose de délais suffisants
+pour produire ses observations, s’impose à compter de sa saisine ; qu’en l’espèce, après que le rapporteur eut
+fixé, le 6 août 2014, un premier délai expirant le 13 octobre 2014, il a accepté, faisant partiellement droit à une
+demande de la société A, de le repousser au 6 novembre 2014, permettant ainsi à la société A de disposer d’un
+délai de trois mois pour présenter sa première défense, ce qui était suffisant eu égard au nombre et à la nature
+des manquements reprochés dans la présente affaire ; que la société A a pu, de plus, après son premier mémoire,
+en déposer un nouveau le 18 février 2015, en réponse à la réplique du représentant du Collège ; que ses
+observations ont été complétées par l’audition de son président le 13 avril 2015, au cours de laquelle une
+synthèse des observations écrites a également été déposée ; qu’elle a enfin pu, lors de l’audience du 5 juin
+2015, présenter de manière détaillée ses observations en défense ; qu’ainsi, l’exception soulevée doit être
+écartée ;
+4o) Sur l’imprécision alléguée de certains griefs
+12. Considérant que la société A soutient que les griefs notifiés sont imprécis et indique « à titre d’exemple
+et sans être exhaustif » que dans l’énoncé de celui relatif au traitement des alertes, la poursuite ne mentionne
+que 6 dossiers alors que, dans la phrase introductive du grief sur le dispositif de surveillance des opérations,
+elle renvoie aux développements du rapport de contrôle qui en visait 18, de sorte qu’elle s’est interrogée sur la
+nécessité de présenter des observations sur ces 18 dossiers ou seulement sur les 6 visés par la lettre de griefs ;
+que cette imprécision est aussi illustrée par le dossier A1, pour lequel elle indique avoir répondu à toutes les
+critiques du rapport de contrôle alors que le mémoire en réplique de la poursuite circonscrit le grief au « non-
+traitement des alertes consécutives à l’encaissement des chèques tirés par la Sarl X » et ajoute qu’il ne portait
+« […] pas sur l’opération du 1er novembre 2010 pour laquelle l’organisme mentionne le compromis de vente
+notarié », ce qui démontre que : « l’ACPR a adopté une approche des griefs la plus large possible dans sa
+notification des griefs alors que par la suite, elle indique qu’un seul des griefs est pertinent » ; que cette
+imprécision résulte également de l’utilisation, dans la notification de griefs, de nombreux renvois et références
+en notes de bas de page qui contribuent à nuire à sa lisibilité et à l’élaboration de la défense de la société A;
+que, par ailleurs, les observations en réplique de la poursuite, rédigées en termes généraux, ne lui permettent
+pas d’identifier les dossiers auxquels celle-ci fait référence et donc de se défendre ;
+13. Considérant cependant que, dans l’exemple mentionné par la société A relatif au traitement des alertes
+(cf. grief 5.3 ci-après), le Collège, ayant retenu dans la lettre de griefs 6 des 18 dossiers mentionnés dans le
+rapport de contrôle comme comportant un traitement insuffisant, c’est nécessairement à ces seuls dossiers que
+le reproche était circonscrit au titre de la présente procédure ; que, plus généralement, les faits sur lesquels un
+établissement mis en cause doit répondre sont ceux que la poursuite a retenus et qui figurent en conséquence
+dans la lettre de griefs, sans que le tri effectué le cas échéant parmi les dossiers mentionnés dans le rapport de
+contrôle puisse créer par lui-même d’imprécision dans la détermination des manquements reprochés ; que,
+dans la partie de cette lettre relative à l’insuffisance de traitement d’une alerte dans le dossier A1, le reproche
+est fondé sur une page du rapport de contrôle qui mentionne la détection, restée sans suite, d’un chèque d’une
+société pour alimenter le contrat du client ; que, surtout, à supposer que la réduction du reproche par la
+poursuite à une partie seulement des opérations mentionnées dans le rapport de contrôle ne ressorte pas
+clairement de la lettre de griefs mais résulte d’écritures ultérieures, la circonstance que la société A aurait en
+conséquence présenté des observations sur des faits que la poursuite n’entend finalement pas lui reprocher est
+sans incidence sur la régularité de la présente procédure ; que la société A, qui n’apporte pas d’éléments
+permettant d’établir le caractère imprécis des griefs qu’elle décrit comme tels, ne peut utilement fonder son
+argumentation à ce titre sur la présence d’observations générales dans les écritures de la poursuite ; que
+l’exception soulevée doit être écartée ;
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2014-08
+5o) Sur la méconnaissance alléguée du principe de légalité des délits et des peines
+14. Considérant qu’en application des 3o et 4o du I de l’article R. 561-38 du CMF, les organismes assujettis
+« 3o Déterminent, si besoin est, un profil de la relation d’affaires avec le client, permettant de détecter des
+anomalies dans cette relation, au regard des risques de blanchiment de capitaux ou de financement du
+terrorisme ; / 4o Définissent les procédures à appliquer pour le contrôle des risques, la mise en œuvre des
+mesures de vigilance relatives à la clientèle, la conservation des pièces, la détection des transactions
+inhabituelles ou suspectes et le respect de l’obligation de déclaration au service TRACFIN » ;
+15. Considérant que la société A rappelle que le décret no 2009-1698 du 29 décembre 2009 relatif au
+contrôle interne des risques de blanchiment des capitaux et de financement du terrorisme et modifiant le code
+des assurances, le code de la mutualité et le code de la sécurité sociale a introduit à l’article R. 211-28 du code
+de la mutualité un alinéa h) imposant de faire figurer, dans le rapport sur le contrôle interne approuvé
+annuellement par le conseil d’administration des mutuelles et unions mentionnées au 4o de l’article L. 561-2
+du CMF, une partie relative aux « procédures et mesures de contrôle interne des risques de blanchiment des
+capitaux et de financement du terrorisme, pour les mutuelles et unions mentionnées au 4o de l’article L. 561-
+2 du [CMF] » ; que ce décret prévoyait que l’ensemble de ces procédures et mesures seraient « mises en œuvre
+dans les conditions prévues par un arrêté du ministre chargé de la mutualité après avis du ministre chargé de
+l’économie » ; qu’en l’absence d’un tel arrêté, elle soutient qu’il existe une incertitude quant à la portée des
+obligations mises à sa charge par le 4o du I de l’article R. 561-38 du CMF, alors surtout que les obligations
+résultant de ce même article pour les établissements des secteurs de la banque, de l’assurance et des sociétés
+de gestion de portefeuille ont été respectivement précisées par le règlement CRBF no 97-02 du 21 février 1997,
+par l’arrêté du 29 décembre 2009 fixant les conditions de mise en œuvre des procédures et dispositifs de
+contrôle du risque de blanchiment des capitaux et de financement du terrorisme (BC-FT) et par la modification
+du règlement général de l’AMF par arrêté du 12 novembre 2009 ; qu’elle ne peut donc, sauf à ce que soit
+méconnu le principe de légalité des délits et des peines, être sanctionnée sur ce fondement ; que cette
+imprécision affecte la totalité des griefs, en particulier les griefs 2 et 5 ;
+16. Considérant cependant qu’ainsi que le relève la poursuite, la circonstance qu’une loi ou un règlement
+renvoie à des mesures d’application qui n’ont pas encore été prises ne fait pas obstacle à l’entrée en vigueur
+des dispositions de cette loi ou de ce règlement si elles sont suffisamment précises pour être immédiatement
+applicables (Conseil d’État, 6 janvier 1993, Dautais, n° 84811) ; que les dispositions ci-dessus rappelées de
+l’article R. 561-38 du CMF définissent de façon suffisamment claire les obligations des organismes assujettis,
+à qui il revient de prendre les mesures prévues et d’en assurer l’efficacité au regard des objectifs poursuivis ;
+que ces dispositions peuvent donc fonder une sanction alors même que l’arrêté ministériel prévu à l’alinéa h)
+de l’article R. 211-28 du code de la mutualité n’a pas été pris ; que l’exception soulevée doit être écartée ;
+6o) Sur la restitution des arguments de la société A par la poursuite en cours de
+procédure
+17. Considérant que la société A soutient que, dans les observations en réplique à son premier mémoire
+en défense, le représentant du Collège restitue de manière sélective et biaisée les arguments qu’elle y a
+développés, poursuivant ainsi la présentation tendancieuse qui caractérisait le rapport de contrôle ;
+18. Considérant cependant que la présentation résumée des moyens et arguments en défense de la société
+A qui, dans les mémoires en réplique, précède chacune des observations du représentant du Collège, ne saurait
+influencer la décision de la Commission, qui se fonde sur les mémoires communiqués par chaque partie et non
+sur les résumés de l’argumentation à laquelle il est répondu qui peuvent y figurer ; que cette présentation ne
+peut donc, en tout état de cause, affecter la régularité de la présente procédure ;
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2014-08
+7o) Sur la valeur juridique des principes d’application sectoriels et des lignes directrices
+19. Considérant que la société A soutient, au sujet d’un « grand nombre de griefs » et « notamment les
+griefs 2, 4, 5, 6, 8 et 9 », qu’ « en vertu du principe d’estoppel, amplement reconnu par les tribunaux […] en
+vertu duquel une autorité publique ne peut se désolidariser de sa propre doctrine au détriment d’un
+établissement assujetti qui s’appuie sur cette doctrine pour se défendre […], [elle] a légitimement pu se fonder
+sur la doctrine de l’ACPR, sans que cette dernière puisse nier la valeur de cette doctrine » ; que le refus de
+l’ACPR de reconnaître une quelconque valeur juridique à ses propres positions juridiques conduit à une
+incertitude sur ce qu’est une bonne exécution, par les organismes assujettis, de leurs obligations
+réglementaires ; que la doctrine produite par l’ACPR présente nécessairement un caractère impératif pour les
+établissements assujettis puisqu’elle émane de leur autorité de tutelle et oriente leur action en fonction de ses
+contrôles et des attentes des organismes internationaux, tels que le GAFI ;
+20. Considérant cependant que les écritures de la société A soulignent principalement les informations
+complémentaires aux dispositions du CMF contenues dans les versions de 2010 et 2015 des principes
+d’application sectoriels (PAS) de l’ACPR ; que ces PAS ne présentent qu’un caractère explicatif, de façon
+notamment à attirer l’attention des établissements assujettis sur des points sur lesquels il est apparu nécessaire
+de préciser les attentes du superviseur en explicitant le sens et la portée des dispositions applicables ; que,
+surtout, les griefs notifiés ne sont pas fondés sur ces documents mais sur des dispositions législatives ou
+réglementaires ; que l’exception soulevée doit donc être écartée ;
+II. Sur les griefs
+1o) Sur l’organisation du dispositif de lutte contre le blanchiment des capitaux et le
+financement du terrorisme
+a) La classification des risques
+21. Considérant que, selon le 2o du I de l’article R. 561-38 du CMF, les organismes assujettis doivent
+élaborer une classification des risques de BC-FT présentés par leurs activités selon le degré d’exposition à ces
+risques appréciés en fonction, notamment, de la nature des produits ou services offerts, des conditions des
+transactions proposées, des canaux de distribution utilisés ainsi que des caractéristiques des clients ;
+22. Considérant que, selon le grief 1, la classification des risques de l’établissement n’est pas adaptée aux
+caractéristiques de sa clientèle – son évolution n’ayant pas été prise en compte tandis que les critères de risques
+définis sont inopérants –, ni au mode de commercialisation des produits concernés, pas plus que le seuil de
+risque uniforme fixé, trop élevé au regard du montant moyen des versements et rachats enregistrés ; que la
+fixation d’un seuil fixe de 70 000 euros n’était pas conforme à l’approche par les risques résultant de la
+transposition de la troisième directive anti-blanchiment ;
+23. Considérant que les critères de risque en vigueur au sein de la société A à la date du contrôle, limités
+à la nationalité (française ou non) et au pays de résidence (France ou étranger) du client, étaient insuffisamment
+discriminants dès lors que 99,8 % de la clientèle est de nationalité française et réside en France ; que, de même,
+compte tenu du profil de ses clients, la fixation par la société A, pour les opérations, d’un seuil de vigilance
+renforcée de 70 000 euros s’appliquant en outre par contrat et non par client, ne permettait pas une analyse
+pertinente des opérations de la clientèle au regard du montant moyen de celles-ci, de l’ordre de 6 000 euros ;
+que la société A avait reconnu le caractère inadapté de ce seuil dans ses observations en réponse au rapport de
+contrôle ; qu’au surplus, [l’élargissement de sa base de clients débutée en 2006] aurait justifié d’emblée
+l’adaptation de la classification des risques ; que les mentions figurant sur un bulletin de souscription, si elles
+sont utiles à la mise en œuvre d’une classification des risques, ne peuvent en tenir lieu ; que si la société A a
+entrepris de refondre ses procédures à la suite de son plan d’actions d’octobre 2013, les initiatives issues de ce
+plan ont été appliquées après le contrôle sur place qui a eu lieu du 19 mars au 12 juillet 2013 ; qu’ainsi, sa
+« Politique et procédure de LCB-FT » du 30 avril 2014 vise à élaborer un telle classification selon une
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2014-08
+approche par les risques ; que ces actions ne remettent donc pas en cause les constats qui fondent le présent
+grief, qui est établi ;
+b) Les procédures internes
+24. Considérant que le 4o du I de l’article R. 561-38 du CMF prévoit que les organismes assujettis
+définissent les procédures à appliquer pour le contrôle des risques, la mise en œuvre des mesures de vigilance
+relatives à la clientèle, la conservation des pièces, la détection des transactions inhabituelles ou suspectes et le
+respect de l’obligation de déclaration au service Tracfin ;
+25. Considérant que, selon le grief 2, si les entreprises assujetties doivent adopter des procédures internes
+relatives aux obligations de vigilance, prévues aux chapitres Ier et II du titre VI du livre V du CMF, en tenant
+compte des risques identifiés par la classification des risques, il apparaît que celles de l’établissement omettent
+plusieurs points importants de la réglementation dont la mise en œuvre de l’obligation déclarative, des examens
+renforcés et l’actualisation des données de la clientèle ;
+26. Considérant qu’ainsi qu’il a été précédemment indiqué (cf. considérant 16), le 4o du I de l’article
+R. 561-38 du CMF crée l’obligation d’adopter des procédures internes en matière de LCB-FT et en précise le
+champ de façon suffisamment claire pour fonder une sanction ; que la société A n’apportant aucun élément de
+nature à montrer que ses procédures traitaient des aspects de ses obligations de vigilance dont l’omission lui
+est reprochée, le grief est établi ;
+2o) Sur le respect des obligations de vigilance
+a) Sur l’obligation de connaissance de la clientèle
+27. Considérant que, selon l’article L. 561-6 du CMF, « avant d’entrer en relation d’affaires avec un
+client, les personnes mentionnées à l’article L. 561-2 recueillent les informations relatives à l’objet et à la
+nature de cette relation et tout autre élément d’information pertinent sur ce client. Pendant toute sa durée et
+dans les conditions fixées par décret en Conseil d’État, ces personnes exercent sur la relation d’affaires, dans
+la limite de leurs droits et obligations, une vigilance constante et pratiquent un examen attentif des opérations
+effectuées en veillant à ce qu’elles soient cohérentes avec la connaissance actualisée qu’elles ont de leur client
+» ; que l’article R. 561-12 de ce code et l’arrêté du 2 septembre 2009 pris pour son application précisent,
+respectivement, la teneur de l’obligation de disposer d’une connaissance appropriée du client afin d’exercer
+en permanence une surveillance adaptée à ce risque et déterminent les éléments d’information pertinents à
+cette fin pour la connaissance du client avant l’entrée en relation d’affaires puis pendant toute la durée de cette
+relation ; que l’article 19 de l’ordonnance no 2009-104 dispose que ces personnes « appliquent à leur clientèle
+existante les nouvelles obligations de vigilance prévues aux articles L. 561-5 à L. 561-14 de ce code, dans les
+meilleurs délais appréciés en fonction des risques et au plus tard dans un délai d’un an à compter de la
+publication du dernier des décrets prévus pour l’application de ces articles et, pour les relations d’affaires
+inactives, à leur première réactivation » ; que, par ailleurs, le I de l’article A. 510-3 du code de la mutualité
+prévoit que « Les modalités de vérification de l’identité d’un membre participant ou de la personne morale
+souscriptrice du contrat collectif, telles que prévues aux alinéas 1 et 2 de l’article R. 561-5 du [CMF], sont
+considérées comme satisfaites dès lors que le paiement de leur première cotisation s’effectue par le débit d’un
+compte ouvert à leur nom auprès d’un établissement de crédit lui-même tenu à l’obligation d’identification » ;
+28. Considérant que, selon le grief 3, les informations recueillies au titre de la connaissance de la clientèle
+ne sont pas suffisamment adaptées à celle de la société A ; qu’ainsi, seules 3 tranches de revenus annuels du
+foyer sont respectivement définies, de 0 à 50 000 euros, de 50 à 150 000 euros et au-dessus de 150 000 euros,
+alors que le portefeuille de la société A se compose majoritairement d’agents d’exécution, de maîtrise ou
+d’employés, dont le revenu annuel n’atteint pas le plafond de la première tranche ; qu’il en va de même avec
+les tranches de patrimoine ; qu’alors que sa clientèle s’est élargie dès 2006, la société A n’a défini des
+catégories socioprofessionnelles autres que celles relatives [à sa clientèle historique] qu’à partir du second
+semestre 2012 ;
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2014-08
+29. Considérant que la société A ne conteste pas utilement ces constats ; que la circonstance qu’elle a
+connaissance de la grille salariale [de sa clientèle historique] ne suffit pas à satisfaire à son obligation de
+connaissance des clients, faute de préciser comment ces informations sont analysées en conformité avec les
+dispositions ci-dessus rappelées ; que si la société A avait, lors du contrôle, présenté son plan d’actions LCB-
+FT et prévoyait alors d’adapter les seuils de revenus et de patrimoine, ces mesures sont sans conséquence sur
+les faits sur lesquels se fonde le grief, qui est établi ;
+30. Considérant que, selon le grief 4, la mise à jour de la connaissance du client est erratique ; qu’ainsi,
+(i) la situation professionnelle et les tranches de revenus et de patrimoine ne sont renseignées qu’à hauteur de
+40 % environ dans la base informatique des clients, (ii) la société A n’a pas mis en œuvre de manière
+systématique des mesures de mise à jour des relations d’affaires actives, ni a fortiori à l’occasion d’un
+versement libre non programmé d’un montant élevé effectué par ses clients ; que l’organisme reconnaît à cet
+égard qu’il a pu se montrer défaillant sur l’actualisation de la connaissance client « lorsque les enfants
+souscripteurs en année X ont grandi et arrivent à un âge où ils effectuent eux-mêmes des versements libres en
+année X + 5 (par exemple) » ; que la famille A2, composée de 4 personnes, détient 6 contrats fonctionnant
+avec des versements libres programmés souscrits entre 1995 et 2004 ; qu’entre octobre 2010 et février 2012,
+5 versements libres non programmés ont été effectués sur ces contrats pour un montant cumulé de 138 000
+euros ; qu’aucun élément d’identification ni de connaissance de la clientèle ne figure aux dossiers clients
+concernant les membres de la famille autres que Mme A2 ; que M. A3, en relation d’affaires avec la société A
+depuis 1997, qui dispose de 4 contrats d’épargne qui fonctionnent avec des versements libres programmés, a
+effectué, en février 2011, un versement libre non programmé de 89 100 euros alors qu’aucun élément
+d’identification ni de connaissance du client ne figure à son dossier ; que M. A4, âgé de 22 ans, en relation
+d’affaires avec l’organisme depuis 2006 (il était mineur à cette époque), a effectué en août 2011 un versement
+libre non programmé de 110 000 euros, dont les payeurs sont ses parents, sans que la société A ne collecte
+d’éléments de connaissance de ce client ;
+31. Considérant que si, au sujet des dossiers individuels mentionnés, la société A indique ne pas partager
+l’analyse de la poursuite, elle ne produit aucun élément de nature à montrer qu’à la date du contrôle elle
+disposait d’informations actualisées concernant ces clients ; que l’existence d’une procédure de « double
+écoute » des appels des clients de même que l’intéressement des conseillers à la mise à jour des données et la
+possibilité offerte aux assurés d’actualiser leurs données personnelles ne peuvent suffire à montrer que leurs
+dossiers étaient systématiquement actualisés ; que, de plus, la connaissance par la société A du salaire du client
+[…] (dossier de M. A3) ou du père de celui-ci (dossier de M. A4), ne suffit pas à établir que les obligations de
+connaissance du client aient été respectées ; que contrairement à ce que soutient la société A, les dispositions
+du I de l’article A. 510-3 du code de la mutualité ci-dessus rappelées (cf. considérant 27) ne peuvent conduire
+à réduire le périmètre du grief concernant Mme A2 qui a souscrit un contrat en 2004 mais au sujet de laquelle
+le chèque produit par la société A est daté de 2010 ; que dans les dossiers A2 et A4, le fait que les contrats des
+enfants aient été alimentés par des chèques tirés sur un compte joint dont leurs parents étaient titulaires ne
+dispensait pas l’établissement d’actualiser les dossiers clients de toutes les personnes concernées par ces
+versements, qui représentaient des montants significatifs au regard des sommes déjà versées sur les contrats ;
+que, dans le dossier A4, le reproche porte sur un défaut de connaissance et non d’identification du client ou de
+vérification de son identité ; qu’il appartient aux organismes assujettis de conserver copie des documents
+d’identité qu’ils obtiennent auprès de leur client, l’argument selon lequel « S’il est vrai que la société A n’a
+pas conservé les cartes d’identité qui avaient été transmises à la réception des bulletins d’adhésion, la société
+A tient à dire qu’elle a eu par le passé ces éléments en sa possession puisque la procédure d’adhésion à la
+société A implique depuis toujours une validation des documents d’identification […] » n’étant pas, faute de
+pièces, convaincant ; qu’ainsi, le grief est établi ;
+b) Sur le dispositif de surveillance des opérations
+32. Considérant que les 3o et 4o du I de l’article R. 561-38 du CMF prévoient que les organismes assujettis
+déterminent, si besoin est, un profil de la relation d’affaires avec le client, permettant de détecter des anomalies
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2014-08
+dans cette relation, au regard des risques de BC-FT, et définissent les procédures à appliquer pour le contrôle
+des risques et la détection des transactions inhabituelles ou suspectes ;
+33. Considérant que, selon le grief 5, la mission de contrôle a relevé plusieurs insuffisances dans le
+dispositif de surveillance des opérations mis en place début 2011 par la société A ;
+34. Considérant que, selon le grief 5.1, la détection des opérations atypiques ou suspectes est réalisée après
+leur exécution selon une fréquence annuelle depuis 2011, en début de chaque année civile ; que la détection
+de ces opérations peut ainsi intervenir près d’un an après leur exécution, voire après la clôture du contrat (cf.
+dossier A5) ;
+35. Considérant que la détection d’opérations avec un tel délai nuit nécessairement à l’efficacité du
+dispositif LCB-FT de la société A ; que le fait, ainsi que le soutient la société A, que les fonds concernés soient
+restés sur « les comptes ouverts au sein de la société A » est sans conséquence sur le grief ; que de même,
+l’absence de prise de contact de l’établissement par le service Tracfin à la suite des déclarations de soupçon
+(DS) effectuées ne permet pas d’en déduire que le dispositif de l’établissement était adapté ; que le plan
+d’action d’octobre 2013 par lequel l’établissement annonçait une refonte de ses procédures s’analyse en une
+mesure de régularisation du manquement ; que cette partie du grief est établie ;
+36. Considérant que, selon le grief 5.2, le paramétrage du dispositif n’est pas adapté aux opérations
+réalisées par la société A ; qu’en effet, le cumul des opérations pour déterminer si le seuil d’alerte, par ailleurs
+élevé compte tenu du montant moyen des opérations, est atteint, s’effectue par année civile et non sur 12 mois
+glissants ; qu’il ne permet donc pas de détecter les opérations atypiques réalisées à cheval sur 2 années et
+dépassant ledit seuil ; que de plus, le paramétrage ne tient pas compte des opérations réalisées sur l’ensemble
+des contrats souscrits par un même client pour détecter si le seuil est atteint, alors que près de 25 % des clients
+de la société A sont détenteurs d’au moins deux contrats d’épargne ; que, par ailleurs, le seuil d’alerte a été
+relevé, en 2013, de 70 000 à 100 000 euros, sans que la société A n’ait été en mesure de justifier ce nouveau
+paramétrage ; que l’organisme reconnaît à cet égard devoir progresser sur les paramétrages de son outil
+informatique ;
+37. Considérant que la société A ne conteste ni le caractère inadéquat de la fixation d’un seuil par année
+civile, ni l’absence, à la date du contrôle, de prise en compte de l’ensemble des contrats détenus par un même
+client, carence alors expliquée par les caractéristiques de l’outil informatique ; que la communication au service
+juridique des dossiers relatifs aux opérations de plus de 10 000 euros lorsque le payeur est de nationalité ou de
+résidence étrangère ne peut suffire à pallier cette carence en raison de son caractère trop restrictif au regard
+des caractéristiques de la clientèle de la société A ; que l’établissement n’apporte aucun élément quant au
+relèvement à 100 000 euros du seuil d’alerte en 2013 ; que les mesures correctrices issues de son plan d’actions
+d’octobre 2013 sont sans conséquence sur cette partie du grief, qui est établie ;
+38. Considérant que, selon le grief 5.3, des alertes issues des requêtes LCB-FT de l’organisme aux fins de
+détection des opérations suspectes n’ont pas été traitées [cf. dossiers A6, A1, A5, A7, A8, A9] ;
+39. Considérant que, dans le dossier A6, le fonctionnement atypique du compte, caractérisé par une
+multitude de versements émanant de payeurs différents, pour un montant total de plus de 55 000 euros, n’a
+entraîné aucun traitement particulier, en dépit d’alertes répétées ; que dans le dossier A1, le versement par
+chèque de 10 980 euros par une société aurait dû donner lieu à vérification par la société A, d’autant que les
+montants en cause étaient, contrairement à ce que la société A soutient, significatifs ; que dans le dossier A5,
+contrairement à ce que soutient la société A, les caractéristiques du rachat partiel de 50 000 euros opéré en
+mars 2011, environ 1 mois après un versement initial de près de 130 000 euros, auraient dû la conduire à
+renforcer sa vigilance ; qu’aucune diligence particulière n’a été faite relativement aux opérations de M. A7,
+pour un montant cumulé de 96,2 milliers d’euros ; que les informations réunies par la société A au sujet de ce
+client ne peuvent s’analyser en un traitement des alertes ; que les éléments d’un tel traitement ne figurent pas
+davantage dans le dossier A8, où le reproche ne porte pas sur l’absence de détection du fonctionnement
+atypique du compte mais sur l’absence de réaction appropriée une fois ce fonctionnement identifié ; que le
+rachat partiel effectué par M. A9 le 1er décembre 2011, 7 mois après le versement initial effectué par ce client,
+Autorité de contrôle prudentiel et de résolution 10
+
+===== Page 11 =====
+Décision de la Commission des sanctions – procédure no 2014-08
+bien que détecté courant 2012, n’a donné lieu à aucune démarche particulière ; que, contrairement à ce que
+soutient la société A, il ne lui est pas reproché de ne pas « poser des barrières injustifiées à la libre disponibilité
+des fonds dont bénéficient les contrats qu’elle commercialise », mais de ne pas traiter suffisamment les alertes
+de ses services ; qu’au total, les informations communiquées par la société A ne permettant pas de répondre au
+reproche de non-traitement des alertes dans les dossiers énumérés par la poursuite, cette partie du grief est
+établie ;
+40. Considérant que, selon le grief 5.4, l’organisme n’a pas mis en place une réévaluation du profil de
+risque de sa clientèle et ne distingue pas, parmi ces clients, ceux qui ont fait l’objet d’une DS en vue de les
+soumettre à une surveillance accrue (cf. dossier A10) ;
+41. Considérant que la société A, qui mentionne seulement des exemples de surveillance de certains clients
+ayant fait l’objet d’une DS, ne conteste pas l’absence, à la date du contrôle, de procédures sur ce sujet prévoyant
+une réévaluation du profil de risque et un traitement systématique de telles situations ; que cette partie du grief
+est également établie ;
+c) Sur la non-exécution d’opérations lorsque l’organisme n’a pas été en mesure
+de recueillir les informations sur l’objet et la nature de la relation d’affaires
+42. Considérant que, selon l’article L. 561-8 du CMF, les organismes assujettis n’exécutent aucune
+opération, quelles qu’en soient les modalités, et n’établissent ni ne poursuivent aucune relation d’affaires
+lorsqu’ils ne sont pas en mesure d’identifier leur client ou d’obtenir des informations sur l’objet et la nature de
+cette relation ; que lorsqu’ils n’ont pas été en mesure d’identifier leur client ou d’obtenir des informations sur
+l’objet et la nature de la relation d’affaires et que celle-ci a néanmoins été établie en application du II de l’article
+L. 561-5 de ce code, ils y mettent un terme ;
+43. Considérant que, selon le grief 6, la société A a réalisé des opérations à la demande de ses clients sans
+disposer d’informations sur l’objet et la nature des relations d’affaires concernées ; que tout d’abord, M. A11,
+client dont 1’activité, les revenus et le patrimoine ne figurent pas au dossier, est en relation d’affaires avec la
+société A depuis 1992 ; qu’il a effectué un versement libre de 860 000 euros le 24 septembre 2010 par chèque
+remis à l’accueil de la société A ; qu’alors que son dossier client ne contenait pas d’informations relatives à
+l’objet et la nature de la relation d’affaires ou à la justification économique de cette opération, l’organisme 1’a
+exécutée et a encaissé les fonds correspondants ; qu’une DS a été établie le même jour ; qu’ensuite, Mme A12,
+dont 1’activité, les revenus et le patrimoine ne figurent pas au dossier, a souscrit en novembre 2004 un contrat
+d’assurance sur la vie ; qu’elle a effectué en février 2011 un versement libre par chèque de 114 000 euros en
+provenance d’un compte ouvert en son nom dans les livres [de la banque Y] ; qu’alors que le dossier client ne
+contient pas d’informations relatives à 1’objet et la nature de la relation d’affaires ou à la justification
+économique de cette opération, 1’organisme l’a exécutée et a encaissé les fonds correspondants ; que, n’étant
+pas en mesure de recueillir des informations sur l’objet et la nature de la relation d’affaires, elle aurait dû
+s’abstenir d’exécuter ces opérations ;
+44. Considérant tout d’abord que si la société A soutient qu’elle pouvait choisir de refuser d’exécuter
+l’opération ou de l’exécuter et la déclarer au service Tracfin, les termes de l’article L. 561-16 du CMF qu’elle
+invoque sont clairs et soumettent la possibilité d’exécuter l’opération en cause et de la déclarer à des conditions
+dont la société A ne démontre pas, en tout état de cause, qu’elles étaient réunies ; qu’elle ne peut pas davantage
+se prévaloir des précisions apportées par les PAS sur la nécessité « d’adapter les dispositions de l’article L.
+561-8 au degré de risque de blanchiment », n’ayant pas, à la date du contrôle, disposé d’une classification des
+risques lui permettant d’évaluer ce degré ; que si le formulaire de déclaration Tracfin prévoit la possibilité de
+déclarer une opération déjà réalisée, une telle option s’inscrit dans le cadre juridique ci-dessus rappelé ; que si
+la revue de l’ACPR de mars-avril 2015, dans une présentation des PAS de février 2015, mentionnait
+d’éventuelles difficultés d’interruption de la relation d’affaires relativement aux contrats d’assurance sur la
+vie, elle n’en rappelait pas moins l’obligation, en cas d’impossibilité d’identifier le client ou de connaître
+l’objet et la nature de la relation d’affaires, de ne pas exécuter une opération de versement libre ; que dans ces
+principes était notamment rappelé « le caractère impératif des dispositions de l’article L. 561-8 du CMF »
+(paragraphe 224) ; que l’argument selon lequel le risque de BC-FT serait « mieux maîtrisable » dans le cas
+Autorité de contrôle prudentiel et de résolution 11
+
+===== Page 12 =====
+Décision de la Commission des sanctions – procédure no 2014-08
+d’une souscription que d’un rachat, outre qu’il n’est pas étayé, est sans conséquence sur le grief, l’article L.
+561-8 du CMF ne comportant pas une telle distinction ;
+45. Considérant ensuite que, s’agissant du dossier de M. A11, la société A indique qu’elle ne partage pas
+l’analyse de la poursuite quant à l’absence de connaissance de l’objet et de la nature de la relation d’affaires,
+mais n’apporte pas les informations qui établiraient qu’elle avait, à la date du contrôle, une connaissance
+actualisée de ce client ; que de même, si dans la DS adressée postérieurement à l’exécution de l’opération le
+24 septembre 2010, la société A indiquait ne pas connaître « sa situation professionnelle » mais, en revanche,
+être « en possession de ses déclarations fiscales entre 1990 et 1994 d’où il ressort qu’il n’était pas imposable »,
+de tels document sont particulièrement anciens ; que les justificatifs de salaire de l’intéressé que la société A
+indique avoir reçus du client en même temps qu’il versait les fonds n’ont pas été précédemment mentionnés
+au stade du contrôle ; qu’ils seraient en tout état de cause insuffisants pour pallier les carences reprochées dans
+ce dossier ; que l’envoi d’une DS au service Tracfin, s’il peut être mis au crédit de l’établissement dans
+l’appréciation générale de son comportement, est sans conséquence sur le grief ; que, dans le dossier de
+Mme A12 la société A, qui ne conteste pas le défaut de connaissance du client, aurait dû s’abstenir d’effectuer
+l’opération reprochée ; que le grief est établi ;
+d) Sur la réalisation d’un examen renforcé de certaines opérations
+46. Considérant que, selon le II de l’article L. 561-10-2 du CMF, les personnes assujetties effectuent un
+examen renforcé de toute opération particulièrement complexe ou d’un montant inhabituellement élevé ou ne
+paraissant pas avoir de justification économique ou d’objet licite ; que dans ce cas, ces personnes se renseignent
+auprès du client sur l’origine des fonds et la destination de ces sommes ainsi que sur l’objet de l’opération et
+l’identité de la personne qui en bénéficie ;
+47. Considérant que, selon le grief 7, la mission de contrôle a relevé des défauts d’examen renforcé, en
+particulier dans les dossiers A8, A13 et A5 ;
+48. Considérant que, selon le grief 7.1, M. A8, retraité, a déclaré appartenir à la tranche de revenus entre
+0 et 50 000 euros et relever de la tranche de patrimoine entre 50 000 et 750 000 euros ; qu’il a mis en place sur
+son contrat souscrit le 1er avril 2011 des versements mensuels libres programmés de 15 euros ; qu’il a effectué
+un versement de 168 000 euros le 20 avril 2011, suivi de rachats partiels de 10 000 euros et 158 000 euros
+moins d’un an après la souscription, puis d’un nouveau versement de 79 000 euros en février 2013, suivi d’un
+nouveau rachat de 7 000 euros en mai 2013 ; que compte tenu des revenus déclarés par le client, la société A
+aurait dû effectuer à tout le moins un examen renforcé des opérations d’avril 2011 et de février 2013, d’un
+montant inhabituellement élevé ;
+49. Considérant que la société A, qui indique avoir détecté le caractère atypique des opérations sur ce
+compte en 2011 et en 2012, admet « avoir manqué de vigilance sur un petit nombre d’opérations, qui inclut
+les opérations visées par l’ACPR dans ce dossier » ; que les informations recueillies le 16 avril 2014,
+postérieures au contrôle, ne portent pas sur les opérations visées par la lettre de griefs ; que l’incohérence entre
+les éléments détenus par la société A au sujet des revenus et du patrimoine de ce client et les opérations réalisées
+aurait dû la conduire à effectuer un examen renforcé de ces opérations ; que cette partie du grief est établie ;
+50. Considérant que, selon le grief 7.2, Mme A13, retraitée, née en 1922, dont les revenus ne figurent pas
+au dossier et dont le patrimoine estimé est compris entre 150 000 et 750 000 euros, a souscrit un contrat
+d’assurance sur la vie en décembre 2011 ; qu’elle a initialement versé 44 500 euros sur ce contrat ; qu’en
+février 2012, elle a effectué un rachat total précoce de son contrat et demandé le transfert des fonds sur celui
+souscrit par sa fille auprès de la société A ; qu’alors que l’objet de cette opération paraît être une donation
+parent-enfant, la société A aurait dû demander les justificatifs et effectuer à tout le moins un examen renforcé,
+en application du II de l’article L. 561-10-2 du CMF ;
+51. Considérant cependant que la société A fait valoir qu’elle a pu légitimement estimer que le transfert,
+en une opération, des sommes initialement déposés par une cliente âgée de 90 ans vers un contrat souscrit par
+sa fille n’était pas susceptible d’éveiller des soupçons sur l’origine des sommes en question ou leur utilisation
+Autorité de contrôle prudentiel et de résolution 12
+
+===== Page 13 =====
+Décision de la Commission des sanctions – procédure no 2014-08
+à des fins de financement du terrorisme, de sorte qu’il n’y avait pas lieu d’en effectuer un examen renforcé ;
+qu’eu égard aux circonstances dans lesquelles ces opérations ont été réalisées et à ces explications, le
+manquement n’apparaît pas suffisamment caractérisé, de sorte que cette partie du grief doit être écartée ;
+52. Considérant que, selon le grief 7.3, M. A5, retraité, a déclaré appartenir à la tranche de revenus entre
+0 et 50 000 euros et relever de la tranche de patrimoine entre 750 000 et 1 500 000 euros ; qu’il a souscrit un
+contrat d’assurance sur la vie en janvier 2011 et procédé à un versement initial de 130 000 euros ; qu’en mars
+2011, il a effectué un rachat partiel de 50 000 euros, précisant qu’il avait besoin d’acheter de manière urgente
+un appartement ; qu’alors que le dossier client ne contient aucun justificatif probant de nature à justifier
+l’origine des fonds ou la destination des sommes ayant donné lieu à un rachat, la société A aurait dû effectuer
+à tout le moins un examen renforcé ;
+53. Considérant qu’à défaut d’avoir, lors de la souscription du contrat, recueilli des informations sur
+l’origine des fonds, la société A aurait dû, lorsque des rachats partiels ont été effectués, procéder à un examen
+renforcé de ces opérations ; que le justificatif obtenu du client n’était pas probant en raison de son ancienneté et
+contredisait l’information précédemment donnée selon laquelle l’intéressé ne détenait pas d’autre contrat
+d’assurance sur la vie ; que cette partie du grief est établie ;
+54. Considérant que, contrairement à ce que soutient la société A, le grief ne porte pas sur le défaut
+d’établissement par la société A de la traçabilité de la totalité des fonds qu’elle reçoit mais sur le défaut de
+réalisation d’un examen approfondi des opérations dont les caractéristiques les font entrer dans les prévisions
+du II de l’article L. 561-10-2 du CMF ; que, dans un périmètre réduit conformément à ce qui a été indiqué, le
+grief 7 est établi ;
+3o) Sur le respect de l’obligation de déclarer des sommes ou opérations suspectes au
+service Tracfin
+a) Sur les défauts de déclarations de soupçon (DS)
+55. Considérant que, selon le I de l’article L. 561-15 du CMF, les organismes assujettis sont tenus « de
+déclarer [à Tracfin] les sommes inscrites dans leurs livres ou les opérations portant sur des sommes dont elles
+savent, soupçonnent ou ont de bonnes raisons de soupçonner qu’elles proviennent d’une infraction passible
+d’une peine privative de liberté supérieure à un an ou participent au financement du terrorisme » ; que le II
+de cet article prévoit que, « par dérogation au I, les personnes mentionnées à l’article L. 561-2 déclarent [à
+Tracfin] les sommes ou opérations dont ils savent, soupçonnent ou ont de bonnes raisons de soupçonner
+qu’elles proviennent d’une fraude fiscale lorsqu’il y a présence d’au moins un critère défini par décret » ; que
+le décret no 2009-1087 du 2 septembre 2009, dont les dispositions figurent désormais à l’article D. 561-32-1
+du CMF, mentionne, parmi les critères devant conduire à établir une déclaration en cas de soupçon de
+blanchiment de fraude fiscale, « 15°Le dépôt par un particulier de fonds sans rapport avec son activité ou sa
+situation patrimoniale connues » ; que le III de l’article L. 561-15 dispose qu’à l’issue de l’examen renforcé
+prescrit au II de l’article L. 561-10-2, ils effectuent, le cas échéant, une DS ;
+56. Considérant que, selon le grief 8, le rapport de contrôle fait état de nombreux défauts de DS ; que ces
+carences sont reprochées dans les dossiers A14 (grief 8.1), A15 (grief 8.2), A16 (grief 8.3), A17 (grief 8.4),
+A18 (grief 8.5), A3 (grief 8.6) et A19 (grief 8.7) ;
+57. Considérant tout d’abord que « les conditions dans lesquelles est effectuée une opération de retrait de
+fonds, tout aussi bien qu’une opération de dépôt, [peuvent] éveiller des soupçons sur l’origine illicite des
+sommes en question […] » (Conseil d’État, 3 décembre 2003, Banque de l’Île-de-France, no 247985) ; que
+l’appréciation du Conseil d’État quant aux opérations enregistrées sur un compte bancaire peut être transposée
+aux versements et retraits sur un contrat d’assurance ; que cependant de telles opérations ne peuvent, en
+l’absence de soupçon quant à la licéité des fonds initialement déposés ou utilisés à des fins de souscription,
+entrer dans les prévisions de l’article L. 561-15 du CMF ; que dans ce cas, seul un soupçon quant à leur
+utilisation à des fins de financement du terrorisme doit entraîner l’envoi au service Tracfin d’une DS ; que, par
+Autorité de contrôle prudentiel et de résolution 13
+
+===== Page 14 =====
+Décision de la Commission des sanctions – procédure no 2014-08
+ailleurs, l’objet de cet article n’est pas de mettre en place une obligation de « traçabilité complète » des fonds
+des clients mais d’obliger les organismes assujettis à déclarer à ce service les sommes présentant les
+caractéristiques ci-dessus rappelées, qui peuvent ne représenter qu’une partie des souscriptions ou des retraits
+du client, tandis que les autres ont été justifiés (cf. dossiers A16, A17 et A19 ci-après) ; que le silence du client
+en réponse aux demandes de justification de ses opérations est de nature, sauf circonstances particulières dont
+il appartient, le cas échéant, à l’établissement de justifier, à susciter le soupçon ;
+58. Considérant que, selon le grief 8.1, Mme A14, née en 1914 et dont les revenus et le patrimoine sont
+inconnus de la société A, a souscrit un contrat d’épargne en novembre 2002, dont sa sœur est désignée
+bénéficiaire ; qu’une opération de rachat partiel a été réalisée en avril 2010 pour un montant de 61 700 euros ;
+que le dossier client contient une demande de rachat manuscrite dont la signature diffère de l’écriture du corps
+du courrier mais semble correspondre à celle de l’assurée ; que c’est par ailleurs un tiers, M. B1, au sujet
+duquel aucune information ne figure au dossier client, qui a précisé à la société A l’option fiscale retenue pour
+ce rachat ; que trois autres opérations de rachat partiel ont été réalisées, respectivement en juillet 2010 pour 30
+900 euros, en janvier 2011 pour 30 000 euros et en avril 2011 pour 15 100 euros ; qu’au sujet de ces quatre
+opérations, d’un montant total de 137 700 euros, le dossier client ne contient qu’une facture de la maison de
+retraite de la cliente datée d’avril 2011 d’un montant de 4 400 euros obtenue dans le cadre d’un examen
+renforcé ; que la société A a enregistré en mai 2011 un changement de clause bénéficiaire sur le contrat de sa
+cliente à effet du 22 avril 2011 au profit d’une personne dénommée B2 ; que si le changement de bénéficiaire
+n’est pas suspect, l’ancien bénéficiaire étant décédé en décembre 2010, la société A aurait dû se renseigner sur
+le nouveau bénéficiaire qui n’a pas de lien apparent avec la cliente, par ailleurs, isolée et âgée ; que les éléments
+recueillis dans le cadre de l’examen renforcé ne permettant pas de justifier les opérations de rachat, l’organisme
+aurait dû effectuer une DS au titre du III de l’article L. 561-15 du CMF ;
+59. Considérant toutefois qu’en raison des caractéristiques des opérations effectuées dans ce dossier, la
+société A a pu légitimement ne pas éprouver de doute sur l’éventuelle origine délictuelle ou criminelle des
+fonds ou sur la possible utilisation des sommes déposées sur ce contrat à des fins de financement du terrorisme,
+de sorte qu’il ne peut lui être reproché de ne pas avoir effectué à leur sujet une DS ; que cette partie du grief
+doit être écartée ;
+60. Considérant que, selon le grief 8.2, M. A15, retraité (…), disposant d’un revenu annuel compris, pour
+son foyer, entre 0 et 50 000 euros et d’un patrimoine estimé entre 150 000 et 750 000 euros, a souscrit en mars
+2011 un contrat d’assurance sur la vie sur lequel il a versé 123 000 euros le mois suivant ; que la société A a
+effectué un examen renforcé de cette opération et demandé à son client de justifier l’origine des fonds ainsi
+versés ; que le client a adressé à l’organisme un document de la [la banque Z] au nom de Mme B3, née le 6
+février 1926, faisant apparaître un encours en assurance sur la vie de 124 000 euros environ ; que le client a
+indiqué qu’il s’agissait des placements de sa mère qui ont été transférés sur son compte ; que le dossier client
+ne comporte pas (i) d’éléments justifiant le lien de parenté entre Mme B3 et M. A15, (ii) de justificatif prouvant
+l’origine alléguée des fonds, notamment un document officiel de donation ; que les éléments recueillis dans le
+cadre de l’examen renforcé de l’opération de versement ne permettant pas de justifier l’origine des fonds,
+l’organisme aurait dû effectuer une DS au titre du III de l’article L. 561-15 du CMF ;
+61. Considérant que le client ayant produit le 22 avril 2010 copie du jugement du 22 janvier 2010 par
+lequel était prononcée son adoption simple par Mme A15 veuve B3, la société A disposait d’informations
+suffisantes pour établir la licéité du versement sur ce contrat de 123 000 euros ; qu’ainsi que le propose la
+poursuite, cette partie du grief doit donc être écartée ;
+62. Considérant que, selon le grief 8.3, Mme A16, âgée de 22 ans, étudiante, dont les revenus et le
+patrimoine ne figurent pas au dossier, est en relation d’affaires avec l’organisme depuis 2009 ; qu’elle a
+effectué, de novembre 2009 à mars 2013, 7 versements pour un montant total de 130 000 euros ; qu’elle a
+indiqué que le versement de 83 000 euros effectué en octobre 2012 provenait, d’une part, de placements
+d’épargne (le dossier comporte différents extraits de compte au nom de la cliente laissant apparaître le rachat
+partiel d’un contrat d’assurance sur la vie et le solde d’un compte d’épargne pour un montant de 73 000 euros),
+et d’autre part, de cadeaux et récompenses pour le solde ; qu’elle a effectué un versement complémentaire de
+33 000 euros en mars 2013 pour lequel le dossier client ne comporte aucun élément de justification ; que le
+Autorité de contrôle prudentiel et de résolution 14
+
+===== Page 15 =====
+Décision de la Commission des sanctions – procédure no 2014-08
+total des versements effectués depuis l’entrée en relation d’affaires (130 000 euros) et les montants versés en
+cinq mois (116 000 euros) sont sans rapport avec la situation connue de la cliente ; qu’au vu de ces éléments,
+la société A aurait dû réaliser une DS, notamment au titre du II de l’article L. 561-15 et du critère 15 de l’article
+D. 561-32-1 du CMF ;
+63. Considérant que la société A ne connaissait ni le revenu ni le patrimoine de cette cliente ; que le
+montant des versements effectués était incohérent avec la catégorie socioprofessionnelle déclarée ; qu’en
+l’absence de justification de la quasi-totalité des fonds versés, la société A aurait dû adresser une DS au service
+Tracfin, le critère 15 mentionné à l’article D. 561-32-1 du CMF étant satisfait ; que cette partie du grief est
+établie ;
+64. Considérant que, selon le grief 8.4, M. A17 et sa femme, Mme A17, ont souscrit deux contrats
+d’assurance sur la vie en août 2008 ; que ce client est retraité de la SNCF dont sa femme est agent, le revenu
+déclaré du foyer se situant entre 0 et 50 000 euros et le patrimoine indiqué inférieur à 150 000 euros ; qu’il a
+effectué en mai 2011 un versement libre de 40 000 euros, justifié en produisant un compromis de vente non
+daté, qui mentionne trois parties à la vente dont les frères et sœurs de M. A17, et un prix de vente de 113 000
+euros ; que leurs trois enfants ont souscrit en juillet 2011 un contrat d’assurance sur la vie ; que chacun de ces
+trois contrats a été alimenté par un versement initial de 40 000 euros dont le payeur est M. A17 ; que la somme
+totale de 120 000 euros initialement versée provient pour l’essentiel du rachat de contrats d’assurance sur la
+vie au profit des époux A17 pour un montant de 102 000 euros ; que le solde proviendrait, selon M. A17, «
+d’économies en attente de placement » ; que des versements libres de 20 000 euros en août 2011 et 20 000
+euros en juillet 2012 ont ensuite été effectués sur chacun des trois contrats, par M. ou Mme A17 ; que le dossier
+client ne contient aucune information sur la justification économique de ces six versements libres pour un
+montant total de 120 000 euros ; qu’au total, entre fin 2010 et juillet 2012, le couple a versé plus de 352 000
+euros sur les 5 contrats de la famille soit un montant qui n’est pas cohérent avec les revenus et patrimoine
+déclarés et pour lequel aucun élément justificatif probant de l’origine des fonds (succession, donation aux
+enfants ?) ne figure au dossier ; qu’au vu de ces éléments, la société A aurait dû réaliser une DS au titre du I,
+le cas échéant du II de l’article L. 561-15 et du critère 15 de l’article D. 561-32-1 du CMF ;
+65. Considérant que les souscriptions effectuées par la famille A17 excèdent très largement le montant de
+son patrimoine déclaré ; qu’elles n’ont été que très partiellement justifiées ; qu’en particulier, le versement
+initial de 40 000 euros ne peut être regardé comme suffisamment expliqué par la production d’un compromis
+de vente non daté ; que la partie non justifiée de ces opérations aurait dû donner lieu à l’envoi d’une DS, le
+critère 15 de l’article D. 561-32-1 du CMF étant satisfait ;
+66. Considérant que, selon le grief 8.5, Mme A18, née en 1955, dont l’activité déclarée est retraitée, avec
+un revenu annuel indiqué pour son foyer de 50 000 à 150 000 euros et un patrimoine estimé entre 150 000 et
+750 000 euros, a souscrit un contrat d’assurance sur la vie en juillet 2011 et effectué un versement initial de 99
+000 euros ; que la société A a procédé à un examen renforcé de cette opération et écrit à sa cliente en août 2011
+et en octobre 2011 pour lui demander de justifier l’origine des fonds ainsi versés ; que la cliente n’a pas répondu
+à ces demandes ; que la société A aurait dû effectuer une DS au titre du III de l’article L. 561-15 du CMF ;
+67. Considérant que la société A a, dès le 29 août 2011, demandé à Mme A18 l’origine des fonds utilisés
+pour son versement initial ; qu’elle a réitéré cette demande le 6 octobre 2011 sans jamais obtenir de réponse ;
+que l’examen renforcé de cette opération n’ayant pas permis à la société A d’obtenir des justificatifs de
+l’origine des fonds en raison du silence persistant de cette cliente, il lui appartenait d’adresser au service Tracfin
+une DS ; que cette partie du grief est établie ;
+68. Considérant que, selon le grief 8.6, M. A3 est en relation d’affaires avec la société A depuis 1997 ;
+que son activité, ses revenus et son patrimoine ne figurent pas au dossier ; qu’il dispose de 4 contrats d’épargne
+qui fonctionnent avec des versements libres programmés ; qu’en février 2011, il a effectué un versement libre
+de 89 100 euros sur ce contrat ; que la société A a procédé à un examen renforcé de cette opération et écrit à
+son client en février et septembre 2011 pour lui demander de justifier l’origine des fonds ainsi versés ; que
+celui-ci n’a pas répondu à ces demandes de justification ; que la société A aurait dû effectuer une DS au titre
+du III de l’article L. 561-15 ;
+Autorité de contrôle prudentiel et de résolution 15
+
+===== Page 16 =====
+Décision de la Commission des sanctions – procédure no 2014-08
+69. Considérant que la société A ne disposait, à la date du contrôle, d’aucune information sur les revenus
+ou le patrimoine de ce client, dont les contrats totalisaient alors 208 000 euros ; que la connaissance du
+traitement de M. A3, (…), ne suffit pas à satisfaire aux obligations de connaissance du client ; que ce client
+n’a en outre pas donné suite aux demandes de justification qui lui ont été adressées dans le cadre d’un examen
+approfondi faisant suite au versement libre non programmé de 90 000 euros en février 2011 ; que cette
+opération aurait en conséquence dû être déclarée au service Tracfin ; que cette partie du grief est établie ;
+70. Considérant que, selon le grief 8.7, M. A19, dont l’activité déclarée est cadre et dont les revenus et le
+patrimoine ne figurent pas au dossier, a souscrit en août 2002 un contrat d’assurance sur la vie ; qu’en
+septembre 2012, il a effectué un versement libre de 89 100 euros sur son contrat ; que la société A a procédé à
+un examen renforcé de cette opération et demandé à son client de justifier l’origine des fonds versés ; que
+celui-ci a indiqué que cette somme provenait de ses salaires mensuels de 2010 cumulés sur six mois ; qu’il a
+adressé à la société A les copies de ses bulletins de salaire de janvier à juin 2010 libellés en RMB (Yuan) et
+écrits en chinois ; que le dossier ne contient pas d’autres éléments, notamment pas de justificatif concernant
+1’origine des fonds versés ; que la société A aurait dû effectuer une DS au titre du III de l’article L. 561-15 du
+CMF, l’examen renforcé n’ayant pas permis d’obtenir de justificatifs de l’origine des fonds ;
+71. Considérant que des bulletins de salaire du premier semestre 2010, qui auraient été traduits par une
+salariée de la société A, sans toutefois qu’une trace de cette traduction figure au dossier, et mentionneraient,
+sur cette période, un montant total de 60 000 euros, ne peuvent suffire à justifier l’origine des fonds dans une
+opération réalisée un peu plus de deux ans plus tard et portant sur un montant supérieur ; que cette partie du
+grief est établie ;
+b) Sur les délais des déclarations de soupçon
+72. Considérant que, selon l’article L. 561-16 du CMF, lorsqu’une opération devant faire l’objet d’une DS
+a déjà été réalisée, soit parce qu’il a été impossible de surseoir à son exécution, soit que son report aurait pu
+faire obstacle à des investigations portant sur une opération suspectée de BC-FT, soit qu’il est apparu
+postérieurement à sa réalisation qu’elle était soumise à cette déclaration, les organismes assujettis en informent
+le service Tracfin sans délai ;
+73. Considérant que, selon le grief 9, le rapport de contrôle relève des carences dans la pratique déclarative
+de l’organisme ; que de nombreuses DS effectuées par la société A sont tardives, le délai intervenant entre la
+réalisation de l’opération suspecte et sa déclaration (un an pour certaines DS) n’étant pas justifié par les
+investigations menées par l’organisme ; que le caractère tardif des DS effectuées par la société A est illustré
+en particulier dans les dossiers de M. A20, Mme A21 et Mme A22 ; que dans le premier, une DS a été transmise
+au service Tracfin le 2 juillet 2012 alors que le versement suspect de 80 000 euros a été réalisé le 25 juillet
+2011 ; que dans le dossier de Mme A21, la DS a été réalisée par l’organisme le 2 juillet 2012 alors que
+l’opération d’un montant de 75 000 euros a été réalisée le 26 juillet 2011 ; que la société A a réalisé une DS
+portant sur les opérations effectuées par Mme A22, le 6 juin 2013, à la suite des demandes d’examen du dossier
+client par la mission, alors que le fonctionnement du contrat d’assurance sur la vie de cette cliente fait
+apparaître, pour la seule année 2012, 25 payeurs différents, et 50 payeurs différents pour les opérations
+réalisées entre le 11 juin 2010 et le 31 mars 2013 ; que de plus, cette déclaration est intervenue un an après
+celles concernant les contrats de la famille A10 qui avaient un fonctionnement similaire et dont le premier
+versement avait été effectué par Mme A22 ;
+74. Considérant que si la société A tente de justifier les délais importants dans l’envoi de DS par la
+nécessité de n’adresser au service Tracfin que des déclarations exploitables, ce qui « implique pour
+l’établissement assujetti de mener une enquête longue et parfois fastidieuse », il ne ressort pas de l’examen
+des dossiers mentionnés par la poursuite qu’elle se serait livrée à une telle enquête ; que contrairement à ce
+qu’elle soutient, la circonstance que les faits reprochés concernent des souscriptions et non des rachats ne peut
+conduire à l’exonérer de ce manquement ni à atténuer sa responsabilité, de telles opérations pouvant
+correspondre à des faits de blanchiment des capitaux ;
+Autorité de contrôle prudentiel et de résolution 16
+
+===== Page 17 =====
+Décision de la Commission des sanctions – procédure no 2014-08
+75. Considérant tout d’abord que dans le dossier A20, la société A produit, pour expliquer qu’elle n’a pas
+adressé plus tôt une DS, un courrier du 9 septembre 2011 complété par le client, sur lequel la provenance des
+fonds mentionnée est « Donation – Héritage », affirmation qui n’est étayée par aucune pièce ; que le défaut de
+réponse précise du client aux renseignements demandés ne constitue pas un simple « élément de contexte »
+mais une carence qui aurait dû conduire à aviser Tracfin de l’opération ; qu’ensuite, la pièce produite par la
+société A comme justificatif de la souscription de Mme A21 est également un courrier-type, adressé à M. A21,
+époux de celle-ci et également souscripteur d’un contrat auprès de la société A, sur lequel le même montant a
+été initialement versé ; que sur ce courrier la case « Épargne – Placement auprès d’un autre établissement
+bancaire » a été cochée ; qu’enfin si, dans le dossier A22, la société A soutient qu’elle a mené une « enquête
+approfondie » afin de passer du doute au soupçon, elle ne produit aucun élément probant à l’appui de ses dires ;
+que le caractère particulièrement inhabituel des opérations de cette cliente aurait dû la conduire à adresser une
+DS au service Tracfin sans attendre plusieurs années ; qu’ainsi, le grief est établi en toutes ses parties ;
+*
+* *
+76. Considérant qu’il résulte de ce qui précède que la société A ne respectait que très imparfaitement, à la
+date du contrôle sur place, soit plusieurs années après la publication de l’ordonnance no 2009-104, des
+obligations essentielles en matière de LCB-FT ; qu’ainsi, la classification de ses risques n’était pas adaptée
+aux caractéristiques actuelles de sa clientèle et de son activité (grief 1) tandis que ses procédures internes
+omettaient plusieurs aspects importants de ces obligations (grief 2) ; que la connaissance qu’elle avait de ses
+clients était insuffisante, notamment en raison de carences dans la mise à jour des informations recueillies à
+leur sujet (griefs 3 et 4) ; que son dispositif de surveillance des opérations était également lacunaire (grief 5) ;
+que des manquements à son obligation de ne pas exécuter une opération lorsque les conditions devant permettre
+cette exécution ne sont pas réunies ont été constatées (grief 6) ; que, dans des dossiers individuels, plusieurs
+carences ont été constatées quant au respect de ses obligations de réaliser un examen approfondi de certaines
+opérations (grief 7) comme de ses obligations déclaratives (griefs 8 et 9) ; que de plus, son dispositif LCB-FT
+n’est toujours pas pleinement satisfaisant et doit continuer d’être amélioré, comme l’a souligné en mars 2015
+le cabinet d’audit auquel la société A a eu recours ;
+77. Considérant cependant qu’il peut être tenu compte des actions entreprises par la société A pour
+remédier aux carences constatées ; que celles-ci ont d’abord pris la forme de travaux d’amélioration dont les
+premiers ont été envisagés dès février 2013, soit avant le début de la mission de contrôle ; que si les résultats
+devront en être contrôlés, les dirigeants de la société A ont affirmé lors de l’audience devant la Commission
+leur intention de poursuivre activement la démarche entreprise ; que le recours à un cabinet d’audit témoigne
+de cette volonté ; qu’il importe en outre de mettre les efforts accomplis en regard de la taille de l’établissement
+mis en cause, petite structure d’une cinquantaine de salariés ; que le dossier de la présente procédure ne fait
+pas apparaître de volonté de ne pas respecter la réglementation mais plutôt un degré de préoccupation
+insuffisant sur cette question dans la période antérieure au contrôle ; qu’enfin, le périmètre de certains griefs
+relatifs à des carences en matière de traitement des dossiers individuels a été légèrement réduit (griefs 7 et 8) ;
+qu’au vu de l’ensemble de ces éléments, il convient de prononcer en répression des manquements constatés un
+avertissement ainsi qu’une sanction pécuniaire de 500 000 euros ;
+78. Considérant que le préjudice résultant d’une publication de la présente décision ne paraît pas
+disproportionné ; qu’une telle publication n’est pas susceptible de perturber les marchés financiers ; qu’il y a
+donc lieu de publier la présente décision sous forme nominative ;
+Autorité de contrôle prudentiel et de résolution 17
+
+===== Page 18 =====
+Décision de la Commission des sanctions – procédure no 2014-08
+PAR CES MOTIFS
+DÉCIDE :
+Article 1er : Il est prononcé à l’encontre de la société A un avertissement et une sanction pécuniaire de
+500 000 euros (cinq cent mille euros).
+Article 2 : La présente décision sera publiée au registre de l’Autorité de contrôle prudentiel et de résolution
+et pourra être consultée au secrétariat de la Commission.
+Le Président de la Commission
+des sanctions
+[Rémi BOUCHEZ]
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification et
+dans les conditions prévues au IV de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 18

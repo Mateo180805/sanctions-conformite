@@ -1,0 +1,1053 @@
+===== Page 1 =====
+ÉTABLISSEMENT DE PAIEMENT A
+Procédure no 2019-07
+–––––
+Blâme et sanction pécuniaire
+de 20 000 euros
+–––––
+Audience du 10 décembre 2020
+Décision rendue le 23 décembre 2020
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 24 septembre 2019 par laquelle le Président de l’Autorité de contrôle prudentiel et de résolution
+(ci-après l’« ACPR ») informe la Commission de ce que le Collège de supervision de l’ACPR (ci-après le
+« Collège »), statuant dans sa formation sectorielle « banque », a décidé d’ouvrir une procédure disciplinaire à
+l’encontre de l’établissement de paiement A (ci-après « l’établissement A ») ;
+Vu la notification des griefs du 24 septembre 2019 et ses annexes ;
+Vu les mémoires en défense des 13 novembre 2019, 27 janvier 2020 et 31 août 2020, ainsi que les documents
+complémentaires versés par l’établissement A, par lesquels ce dernier (i) reconnait que le grief 8 relatif au gel
+des avoirs est fondé, tout en soulignant toutefois qu’aucune personne soumise à une telle mesure n’a été détectée
+parmi ses clients, (ii) estime que les explications et les éléments qu’il a fournis doivent conduire la Commission
+des sanctions à rejeter les autres griefs notifiés ou à tout le moins à en réduire fortement la portée, (iii) invite en
+conséquence la Commission à renoncer à prononcer une sanction ou, à défaut, à limiter la sanction qu’elle
+prononcera à un avertissement, par une décision publiée sous une forme anonyme et (iv) demande que l’audience
+ne soit pas publique ;
+Vu les mémoires en réplique du 18 décembre 2019 et des 26 février et 15 septembre 2020 par lesquels le
+Collège, représenté par Mme Catherine Théry, (i) abandonne le grief 11 relatif à l’absence de surveillance
+spécifique du risque de liquidité et la partie du grief 21 relative à l’absence de couverture, par le contrat
+d’assurance caution, des fonds encaissés par la clientèle étrangère, (ii) maintient les autres griefs, (iii) estime
+que ceux-ci révèlent, au moment du contrôle, un non-respect très étendu des dispositions législatives applicables
+en matière de lutte contre le blanchiment et le financement du terrorisme (ci-après « LCB-FT »), de gel des
+avoirs et de déclaration de soupçon (ci-après « DS ») à Tracfin, ainsi que des manquements relatifs au dispositif
+de contrôle interne, à l'organisation comptable et à l'obligation de protection des fonds des clients, qui doivent
+être fermement sanctionnés ;
+Vu le rapport du 10 novembre 2020 de Mme Elisabeth Pauly, rapporteur, dans lequel celle-ci (i) prend acte
+de l’abandon total ou partiel de certains griefs par le représentant du Collège, (ii) conclut que sept griefs sont
+pleinement fondés (griefs 1, 3, 8, 12, 13,15 et 17), que huit le sont dans un périmètre réduit (griefs 4, 5, 6, 9, 10,
+14, 16 et 21), tandis que 5 sont écartés (griefs 2, 7, 18, 19, 20) ;
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2019-07
+Vu les courriers du 10 novembre 2020 convoquant les parties ainsi que la direction générale du Trésor à
+l’audience et les informant de la composition de la Commission ;
+Vu le mémoire du 27 novembre 2020, par lequel l’établissement A, présentant ses observations en réponse
+au rapport du rapporteur, prend acte des conclusions de celui-ci sur l’abandon de certains griefs et apporte des
+éléments complémentaires sur les autres ;
+Vu les autres pièces du dossier, notamment le rapport de contrôle du 12 avril 2019 de M. A, Inspecteur général
+de la Banque de France (ci-après le « rapport de contrôle ») ;
+Vu la convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales, notamment
+son article 6 ;
+Vu le code monétaire et financier (ci-après le « CMF »), notamment ses articles L. 314-1, L. 522-6, L. 522-
+17, L. 561-5, L. 561-6, L. 561-10, L. 561-15, L. 561-33, L. 561-36-1, L. 612-38, L. 612-39 et R. 561-5, R. 561-
+5, R. 561-20, R. 561-29, R. 612-35 à R. 612-51, dans leur rédaction applicable aux faits qui ont fait l’objet du
+contrôle sur place ;
+Vu l’arrêté du 2 septembre 2009 pris en application de l'article R. 561-12 du code monétaire et financier et
+définissant des éléments d'information liés à la connaissance du client et de la relation d'affaires aux fins
+d'évaluation des risques de blanchiment de capitaux et de financement du terrorisme (ci-après l’« arrêté du 2
+septembre 2009 ») ;
+Vu l’arrêté du 29 octobre 2009 portant sur la réglementation prudentielle des établissements de paiement,
+notamment ses articles 2, 3 et 33 bis ;
+Vu l’arrêté du 3 novembre 2014 relatif au contrôle interne des entreprises du secteur de la banque, des
+services de paiement et des services d’investissement soumis au contrôle de l’ACPR (ci-après « l’arrêté du 3
+novembre 2014 »), notamment ses articles 3, 11 à 13, 17, 35, 41, 46, 47, 49, 61, 63, 64, 85 à 87, 98 à 103, 148,
+155, 217, 242, 245, 249, 254 et 273 ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACPR, composée de M. Alain Ménéménis, Président, Mme Gaëlle
+Dumortier, M. Laurent Jacques et M. Philippe Laigre ;
+Après avoir entendu, lors de sa séance non publique du (10 décembre 2020) :
+- Mme Pauly, assistée de M. Fabien Patris, son adjoint ;
+- Mme Alice Navarro, représentante de la directrice générale du Trésor, qui a indiqué n’avoir pas
+d’observations à formuler ;
+- Mme Théry, représentante du Collège, assistée du directeur des affaires juridiques, de l’adjoint au chef du
+service des affaires institutionnelles et du droit public, ainsi que d’une juriste au sein de ce service ; Mme
+Théry s’en est rapportée à la sagesse de la Commission pour l’appréciation des manquements portant sur
+l’organisation comptable de l’établissement A (griefs 18 à 20), a maintenu ses précédentes conclusions
+pour les autres griefs et a proposé à la Commission de prononcer un blâme et une sanction pécuniaire de
+90 000 euros dans une décision publiée sous une forme nominative ;
+- l’établissement A représenté par son directeur général délégué, dont les avocats sont Mes Patrick Hubert
+et Élise Durand, avocats à la Cour (cabinet Orick Rambaud Martel) ;
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2019-07
+Après avoir délibéré en la seule présence de M. Ménéménis, Président, Mme Dumortier, M. Jacques et
+M. Laigre ainsi que de M. Jean-Manuel Clemmer, chef du service de la Commission des sanctions faisant
+fonction de secrétaire de séance ;
+1. L’établissement A est une société anonyme créée en 1986, dont l’activité initiale était la vente de produits,
+l’édition de contenus et la gestion de sites communautaires […]. À partir de 2007, elle a également développé
+une activité de services de micro-paiement qui l’a conduite à solliciter de l’ACPR le statut d’établissement de
+paiement « hybride », prévu par le I de l’article L. 522-3 du code monétaire et financier (CMF). Son agrément,
+délivré le 15 juin 2015 sous conditions suspensives, est devenu définitif le 16 décembre 2015 après levée de ces
+conditions.
+Au titre de son activité de services de paiement, l’établissement A a tout d’abord proposé le service [X],
+dédié aux micro-paiements, qui permet aux utilisateurs de sites internet de régler leurs achats de faible montant
+de biens ou de services numériques en saisissant sur le site internet vendeur un code préalablement obtenu en
+contrepartie d’un appel téléphonique ou d’un sms surtaxé auprès d’opérateurs de téléphonie ou encore par un
+règlement par carte bancaire ou un paiement Paypal auprès de l’établissement . Les sites internet fournisseurs
+de ces services, que la mission de contrôle analyse comme formant la clientèle de l’établissement A, doivent,
+lors de la première connexion, déclarer le secteur dans lequel ils interviennent : jeux primés (attribution de lots),
+site « adultes », site de paris, casino en ligne et voyance ou autre. Les paiements unitaires effectués dans le cadre
+de ce service s’élèvent à 2,36 euros en moyenne pour les paiements par numéro surtaxé et à 9,7 euros pour les
+paiements par carte.
+Des comptes [Y], mis en place par l’établissement A à l’occasion de son agrément pour tester l’offre [X]
+auprès de clients potentiels, s’ajoutent à cette offre.
+En 2018, l’activité [X] a représenté environ 1,7 million d’euros de chiffre d’affaires.
+Depuis mai 2017, l’établissement A fournit en outre un service de paiement « classique » dénommé [Z], qui
+n’est pas réservé aux micro-paiements et dans le cadre duquel le paiement s’effectue par débit de la carte bancaire
+de l’utilisateur du site vendeur et non plus par le biais d’une facturation supplémentaire du service d’un opérateur
+de téléphonie ou d’un fournisseur d’accès à internet. En 2018, le flux d’encaissement pour ce service s’est élevé
+à 7,73 millions d’euros, l’essentiel des opérations étant réalisé par un seul client, la société B ; l’établissement
+A a bénéficié d’environ 0,5 million d’euros de commissions.
+Au moment du contrôle sur place, les effectifs de l’établissement A s’élevaient à 16,6 salariés équivalents
+temps plein, dont 4,3 au titre de l’activité de fourniture de services de paiement.
+En 2019, l’établissement A a réalisé un chiffre d’affaires de 6,6 millions d’euros, en forte progression par
+rapport à 2018 (3,8 millions d’euros), grâce au développement rapide [du service de paiement Z], la fourniture
+de services de paiement représentant désormais les trois quarts du total de ses activités contre la moitié un an
+plus tôt. Son résultat net s’est élevé à 378 000 euros, ses capitaux propres étant de 2,5 millions d’euros à la fin
+du même exercice […].
+L’établissement A avait au moment du contrôle sur place trois filiales, dont la société U qui a notamment
+porté un temps l’activité [Z] à Hong Kong, et la société V, qui distribue des cartes prépayées et n’était pas dans
+le périmètre de la mission de contrôle.
+[…]
+2. L’établissement A a fait l’objet d’un contrôle sur place du 8 octobre au 21 décembre 2018, qui a donné
+lieu à la signature, le 12 avril 2019, d’un rapport de contrôle. Au vu de ce rapport, le Collège de l’ACPR, statuant
+en sous-collège sectoriel « banque », a décidé, lors de sa séance du 9 septembre 2019, d’ouvrir la présente
+procédure disciplinaire, dont la Commission a été saisie le 24 septembre 2019.
+I. Sur les questions générales soulevées par l’établissement A
+A- Sur l’utilisation des mêmes faits au soutien de plusieurs griefs
+3. L’établissement A souligne que des qualifications différentes sont retenues par la poursuite, au soutien de
+griefs distincts, pour les mêmes faits. Il en est ainsi :
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2019-07
+- des carences de ses procédures en ce qui concerne la profession et la situation financière du client (grief 1),
+l’absence de telles informations dans les dossiers individuels lui étant encore reprochée ensuite (grief 5) ;
+- des 16 défauts de déclaration de soupçon à Tracfin (ci-après « DS ») (grief 9) mentionnés au soutien du
+grief sur les défaillances du dispositif d’alerte (grief 7) ;
+- de l’incident survenu avec un prestataire invoqué à l’appui du grief relatif à l’absence de mesure des risques
+et des résultats (grief 10) et du grief relatif au défaut de suivi des incidents opérationnels (grief 12).
+- d’une erreur matérielle dans les comptes de l’établissement A au titre de l’exercice 2017, utilisée à l’appui
+du grief relatif à la défaillance des procédures et schémas comptables (grief 18) et du grief relatif à la
+transmission d’états règlementaires erronés au Secrétariat général de l’ACPR (grief 20).
+- de l’écart momentané entre le logiciel de gestion [X] et le logiciel de comptabilité [générale] […], signalé
+par l’établissement A aux inspecteurs et corrigé, successivement utilisé pour fonder le grief relatif à la
+défaillance de la piste d’audit (grief 19) et le grief relatif à la transmission d’états règlementaires erronés
+au Secrétariat général de l’ACPR (grief 20).
+4. La Commission a déjà indiqué qu’elle estimait que le principe non bis in idem ne trouvait « pas à
+s’appliquer dans une procédure disciplinaire unique au titre de laquelle les mêmes faits recevraient plusieurs
+qualifications » (décision du 8 décembre 2016, procédure n° 2015-08, considérant 29 ; voir en outre, notamment,
+la décision du 17 avril 2018, procédure n° 2017-05, considérant 3). Cette analyse a été confirmée par le Conseil
+d’État, qui a jugé que ce principe ne faisait pas obstacle à ce que, dans le cadre d'une même poursuite conduisant
+à une même décision de sanction, plusieurs manquements distincts puissent résulter de mêmes faits. Dans ce
+cas, il doit toutefois en être tenu compte afin que la sanction administrative prononcée respecte le principe de
+proportionnalité (CE, 6 novembre 2019, n° 418463, point 18), ce que l’établissement A rappelle dans ses
+dernières écritures en défense.
+Il est a fortiori loisible à la poursuite de retenir plusieurs qualifications pour des faits qui ne sont pas
+identiques mais dont certains sont la conséquence d’autres faits par ailleurs reprochés.
+B- Sur la nécessité de prendre en considération la position antérieure de l’administration
+5. L’établissement A conteste la possibilité pour la poursuite de lui reprocher certaines procédures,
+conventions et pratiques qui avaient, lors de l’examen de son dossier de demande d’agrément, été portées à la
+connaissance de l’ACPR, qui n’en avait alors pas contesté la conformité aux dispositions applicables. Il s’agit :
+- des insuffisances de ses procédures internes (grief 1) ;
+- de l’absence de recueil d’informations au sujet des clients utilisateurs des comptes [Y] (griefs 4 et 5) ;
+- de la nécessité de renseigner manuellement certaines données comptables pour les rendre compatibles avec
+le format de remise des états réglementaires exigé par l’ACPR (grief 20) ;
+- de la teneur de son contrat de cautionnement, insuffisamment protecteur, selon la poursuite, des avoirs des
+clients (grief 21).
+6. Dans sa décision n°2015-02 et 2015-03 Société X venant aux droits de la société Y, Société Z, la
+Commission a estimé que les organismes assujettis pouvaient, « pour s’exonérer en totalité ou en partie de leur
+responsabilité, utilement invoquer le fait que l’administration, notamment lors ou à la suite de contrôles
+précédents, a approuvé leur application de cette règle ou n’a pas attiré leur attention sur les manquements
+qu’elle a relevés ». À l’inverse, le silence du superviseur ne suffit pas pour exclure que soit retenu à l’encontre
+de l’organisme poursuivi un manquement à ses obligations professionnelles (considérants 9 et 19).
+Pour chacun des griefs concernés, la Commission examinera, afin de déterminer s’il y a lieu de considérer
+que certains manquements, même établis, ne peuvent, en tout ou partie, être sanctionnés, un faisceau d’éléments :
+- le manquement reproché porte-t-il sur un aspect de l’organisation ou du fonctionnement de l’établissement
+A qui a été clairement porté à la connaissance de l’ACPR antérieurement à l’ouverture de la présente
+procédure ?
+- les éléments en cause ont-ils été portés à sa connaissance ou évoqués à l’occasion de l’instruction du dossier
+de demande d’agrément ou à l’occasion d’échanges ultérieurs ?
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2019-07
+- les informations et pièces communiquées ont- elles conduit l’ACPR à formuler des observations ou un
+désaccord ?
+- l’établissement A a-t-il effectivement mis en œuvre les procédures et dispositifs présentés à l’ACPR ?
+- l’établissement A aurait-il dû, en raison de circonstances nouvelles, y compris d’une interprétation des
+dispositions applicables donnée par la Commission des sanctions ou le Conseil d’État, faire évoluer le
+dispositif présenté à l’ACPR ?
+II. Sur les griefs
+A- En ce qui concerne le dispositif de LCB-FT
+1°) Les procédures internes
+7. En vertu des articles 61, 63 et 64 de l’arrêté du 3 novembre 2014, les établissements de paiement doivent
+se doter de procédures relatives aux mesures de vigilance prévues au chapitre Ier du titre VI du livre V du CMF,
+précisant les diligences à accomplir en matière d’identification et de vérification de l’identité du client et
+définissant les éléments nécessaires à la connaissance adéquate de la relation d’affaires.
+8. Selon le grief 1, fondé sur ces dispositions, la procédure P.3.2 était, au moment du contrôle, insuffisante
+car elle ne définissait pas, pour l’activité [Z], les diligences à accomplir au moment de l’entrée en relation
+d’affaires en matière d’identification et de vérification de l’identité du client et, le cas échéant, de son
+bénéficiaire effectif, ni les éléments nécessaires à la connaissance adéquate de la relation d’affaires, alors que
+cette activité représente des volumes d’encaissement significatifs et que la clientèle de l’établissement A présente
+des risques en matière de BC-FT.
+Par ailleurs, cette même procédure et son annexe relative aux mesures de vigilance applicables lors de
+l’ouverture d’un compte [X] ayant le statut de « compte de paiement » ne prévoyaient pas le recueil
+d’informations sur les revenus et la situation financière du client.
+9. Sur la première branche du grief, ainsi que cela a été dit précédemment (cf. supra point 1), [le service de
+paiement] [Z], dont les caractéristiques sont très différentes de celles du service [X], a été commercialisé
+postérieurement à l’agrément de l’établissement A en qualité d’établissement de paiement. Il en résulte que
+l’établissement ne peut utilement soutenir que l’approbation antérieure du superviseur fait obstacle à ce qu’il
+soit sanctionné en raison de carences de ses procédures pour ce nouveau service.
+Or, la procédure P.3.2, qui prévoit les règles à respecter lors de l’entrée en relation avec un client [du service
+de paiement] [X] et qui se réfère à l’activité de micro-paiement, ne mentionnait pas de règles applicables dans
+ce domaine aux clients [du service] [Z]. Si, en principe, rien ne s’oppose à ce que les règles qu’un organisme
+assujetti met en œuvre lors de l’entrée en relation d’affaires soient comprises dans un document unique, c’est à
+la condition que ce document précise ces règles pour la totalité des produits ou services fournis et qu’il prévoie,
+le cas échéant, des règles adaptées aux spécificités des différents produits et services. À cet égard, le fait que [le
+service de paiement] [Z] soit, comme [le service] [X], utilisé dans le secteur des jeux et paris, ne permet pas, à
+lui seul, de considérer qu’une procédure mentionnant le seul service [X] était également applicable au service
+[Z] ni, à supposer même que ce soit le cas, que les spécificités de ce service aient été suffisamment prises en
+compte. Les explications de l’établissement A, qui soutient qu’il appliquait à ses clients [du service de paiement]
+[Z] les diligences prévues par la procédure P.3-2, sont sans incidence sur le manquement qui résulte de l’absence
+de mise à jour de sa procédure.
+10. Sur la seconde branche du grief, en revanche, la poursuite n’apporte pas d’élément de nature à établir le
+caractère indispensable, dans une approche par les risques, d’un recueil systématique par l’établissement A, qui
+n’est pas un établissement de crédit, d’informations sur les revenus et le patrimoine de ses clients, quel que soit
+le service fourni par cet établissement auquel ceux-ci ont recours.
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2019-07
+11. Le grief 1 n’est donc fondé qu’en sa première branche.
+12. En vertu de l’article 66 de l’arrêté du 3 novembre 2014, les établissements de paiement sont tenus de
+définir des procédures prévoyant les informations à recueillir et à conserver pour les opérations mentionnées au
+II de l’article L. 561-10-2 du CMF, dont les dispositions ont été reprises en substance à l’article L. 561-10-2 du
+CMF à partir du 3 décembre 2016, dans sa rédaction issue de l’ordonnance n° 2016-1636 du 1er décembre 2016.
+13. Selon le grief 2, fondé sur ces dispositions, les procédures de l’établissement A ne définissaient pas, pour
+son produit [X], les diligences à accomplir dans le cadre de l’examen renforcé prévu à l’article L. 561-10-2 du
+CMF.
+14. L’absence, dans les pièces du dossier d’agrément de l’établissement A en 2015, de précisions sur les
+diligences à accomplir en matière d’examen renforcé ne suffit pas à établir que l’ACPR aurait été clairement
+informée de cette carence, qui est constante, ni a fortiori, qu’elle l’aurait approuvée.
+15. Si l’établissement A rappelle les consignes, qui figuraient dans ses procédures P3-3 du 13 mars 2018 et
+P3-4 du 1er juin 2018, selon lesquelles les évènements marquants, notamment les évènements relatifs à un client
+ayant fait l’objet d’un examen renforcé, devaient être recensés, de telles consignes ne sont pas de nature à tenir
+lieu des diligences qu’exige un examen renforcé.
+16. Le grief 2 est donc fondé.
+17. En vertu des articles L. 561-33 et R. 561-29 du CMF, les entreprises mères établies en France d’un groupe
+au sens de l’article L. 561-33 du CMF doivent définir, au niveau du groupe, une organisation et des procédures
+internes permettant l’échange d’informations nécessaires à la vigilance dans le groupe en matière de LCB-FT, y
+compris sur les données nominatives relatives à la clientèle et aux relations d’affaires et les documents
+consignant les caractéristiques des opérations mentionnées à l’article L. 561-10-2 du CMF.
+18. Selon le grief 3, fondé sur ces dispositions, l’établissement A est l’entreprise mère d’un groupe
+comprenant notamment une filiale détenue à 80 % et établie à Hong-Kong, où elle a développé l’offre [de
+paiement] [Z]. Or, le rapport relève qu’au moment du contrôle, l’établissement n’avait défini aucune procédure
+relative aux échanges d’informations à des fins de LCB-FT entre ces deux sociétés, alors même que la seconde
+exerce son activité dans des domaines qui présentent des risques de BC-FT particulièrement élevés, tels que les
+services liés aux crypto-actifs.
+19. l’établissement admet ne pas avoir défini de procédure d’échanges d’informations en LCB-FT avec sa
+filiale établie à Hong-Kong. Le grief 3 est donc fondé. Il doit cependant être apprécié au regard de la taille du
+« groupe de l’établissement A ».
+2°) Les obligations de vigilance
+20. En vertu du I de l’article L. 561-5 du CMF, qui reprend en substance les dispositions du I de l’article L.
+561-5 du CMF applicables jusqu’à l’entrée en vigueur de l’ordonnance n° 2016-1635 du 1er décembre 2016, le
+3 décembre 2016, les établissements de paiement ont l’obligation, avant l’entrée en relation d’affaires, de vérifier
+l’identité de leurs clients et, le cas échéant, de leurs bénéficiaires effectifs, sur présentation de tout document
+écrit probant. Ces dispositions ont été précisées par l’article R. 561-5 et, à compter du 1er octobre 2018, par
+l’article R. 561-5-1 du même code.
+21. Selon le grief 4, fondé sur ces dispositions, l’établissement A propose, dans le cadre de l’offre [de
+paiement] [X], l’ouverture de comptes dits [Y] sans vérifier l’identité du client ni, le cas échéant, de son
+bénéficiaire effectif lors de l’entrée en relation d’affaires. En effet, il résulte du rapport de contrôle que les
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2019-07
+données d’identification recueillies lors de la phase dite de « pré-enregistrement » ne font l’objet, lors de
+l’ouverture du compte, d’aucune mesure de vérification.
+L’établissement a ainsi ouvert, entre le 1er janvier 2016 et décembre 2018, 38 071 comptes [Y] totalisant
+1,261 million d’euros d’encaissement, sans vérifier l’identité du client ni, le cas échéant, de son bénéficiaire
+effectif.
+22. L’établissement A ne conteste pas qu’au moment du contrôle sur place, ses clients aient pu ouvrir un
+compte [Y] sans que soit vérifiée leur identité ou celle de leur bénéficiaire effectif, cette vérification intervenant
+seulement lors de la transformation de ce compte en compte [X].
+Il indique toutefois avoir procédé ainsi parce qu’il ne considérait pas les comptes [Y] comme des comptes de
+paiement mais comme de simples comptes de test du service [X].
+L’établissement A se prévaut de ce que, lors de l’examen du dossier de demande d’agrément, l’ACPR a été
+informée de ses pratiques et indique que sa position était connue de l’ACPR puisqu’elle était mentionnée à
+l’annexe II de la procédure P3-1 qui figurait dans ce dossier. L’établissement A indique avoir, par prudence,
+fixé un seuil au-delà duquel il ne considérait plus un compte [Y] comme un compte de test et demandait au client
+les pièces nécessaires à l’ouverture d’un compte [X]. L’établissement soutient enfin que le nombre de
+38 071 comptes [Y] ouverts sans que l’identité des clients ait été vérifiée, que mentionne la notification des
+griefs, n’est pas pertinent, seuls 8 634 comptes ayant donné lieu à des encaissements. En outre, parmi ces
+derniers, seuls 1 072 ne respectaient pas, selon l’établissement A, les critères qui avaient été présentés à l’ACPR
+et auraient été approuvés par elle lors de la réunion annuelle du 18 janvier 2017 avec l’établissement.
+23. Eu égard à l’ensemble de leurs caractéristiques et aux opérations auxquelles ils donnent lieu, les comptes
+[Y], ne peuvent être regardés que comme des comptes de paiement. Il en résulte que le manquement reproché
+est établi.
+Si, lors de la procédure d’agrément et à l’occasion de la rencontre annuelle du 18 janvier 2017, ce produit a
+été présenté comme un simple compte de test et si, dans une annexe du dossier de demande d’agrément, apparaît
+qu’un « seuil de vigilance » d’un montant [de] 120 euros, porté à 2500 euros au moment de la réunion de 2017,
+sera appliqué, l’ACPR ne peut être regardée comme ayant été clairement informée de la volonté de la société de
+mettre en place et de développer de façon très active un produit comparable à [X], mais dispensé, dans une large
+mesure, sans que les conditions de la dérogation prévue par le IV de l’article L 561-5 du CMF aient été remplies,
+de l’obligation de respecter les obligations mentionnées ci-dessus, ni, a fortiori, comment l’ayant approuvée.
+Dans ces conditions, la société ne peut utilement soutenir que le manquement en cause ne pourrait être
+sanctionné.
+24. La modification, postérieure au contrôle, des conditions générales de l’établissement A, qui prévoient
+que l’offre [Y] est désormais limitée à un test d’un montant de 15 euros, est sans incidence sur le grief 4, qui est
+fondé. S’agissant du nombre de comptes concernés, il ressort des éléments produits par l’établissement A que,
+sur les 38 071 comptes [Y] ouverts entre 2016 et 2018, 8 634 seulement ont, ainsi que cela a été dit, donné lieu
+à des encaissements.
+Le grief 4 est donc fondé, dans un périmètre réduit à ces comptes.
+25. En vertu de l’article L. 561-6 du CMF, dont les dispositions ont été reprises en substance à l’article
+L. 561-5-1 de ce code à compter du 3 décembre 2016, telles que précisées par l’article R. 561-12 du même code,
+les établissements de paiement sont tenus de recueillir les informations relatives à l’objet et à la nature d’une
+relation d’affaires ainsi que tout élément d’information pertinent.
+26. Selon le grief 5, fondé sur ces dispositions, au moment de l’ouverture d’un compte [Y], l’établissement
+A ne recueille pas l’ensemble des informations nécessaires à la connaissance de la relation d’affaires, telles que
+la profession des clients personnes physiques ou, pour les clients personnes morales, une estimation des volumes
+d’encaissement, les revenus, le patrimoine ou tout autre élément permettant d’apprécier leur situation financière.
+Ainsi, 38 071 comptes [Y] ont été ouverts entre le 1er janvier 2016 et décembre 2018, totalisant 1,261 million
+d’euros d’encaissement, sans que l’établissement A recueille des informations suffisantes sur l’objet et la nature
+de la relation d’affaires au moment de leur ouverture. En outre, le rapport relève de nombreux cas de clients du
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2019-07
+service [X] au sujet desquels l’établissement ne dispose pas de toutes les informations nécessaires à la
+connaissance de la relation d’affaires. Il ressort des dossiers analysés par la mission de contrôle que :
+- dans 136 dossiers, l’établissement A n’avait pas d’information sur les revenus du client ;
+- dans 142 dossiers, l’établissement A n’avait pas d’information sur le patrimoine du client ;
+- dans 11 dossiers concernant des clients personnes morales, l’établissement A n’avait pas recueilli les statuts
+- dans 7 dossiers clients du service [Z], l’établissement ne disposait d’aucune information sur les revenus et
+le patrimoine (dossiers 5.1, 5.2, 5.3, 5.4, 5.5 et 5.6).
+27. L’établissement A ne conteste pas les faits reprochés mais rappelle tout d’abord que, selon son analyse,
+les comptes [Y] n’étaient pas des comptes de paiement. Il rappelle que le traitement des comptes [Y] était connu
+de l’ACPR pour avoir été présenté dans son dossier de demande d’agrément et lors d’échanges ultérieurs avec
+le Secrétariat général.
+S’agissant des comptes [X], il considère qu’à la date d’ouverture de ces comptes, aucune disposition légale
+ni aucune ligne directrice de l’ACPR ne lui faisaient obligation de recueillir des informations sur les revenus, le
+patrimoine ou les statuts des clients, mais seulement des informations pertinentes sur ses clients en relation
+d’affaires, dans le cadre d’une approche par les risques. Les données sur le patrimoine de ses clients lui paraissent
+en outre inutiles pour comprendre les opérations qu’ils réalisent, l’établissement A leur fournissant un compte
+de paiement, crédité des encaissements reçus des consommateurs du service internet qu’ils proposent. Il indique
+qu’il recueillait un extrait K-bis des clients personnes morales.
+L’établissement A estime de même, s’agissant des 7 dossiers [du service de paiement] [Z], qu’aucune
+disposition légale ne lui imposait de recueillir des informations sur les revenus et le patrimoine des clients. De
+plus, ces données n’étaient pas, selon lui, utiles pour détecter des opérations atypiques compte tenu de son
+modèle d’affaires, la collecte des volumes d’encaissement attendus suffisant, selon lui, à respecter ses
+obligations à ce titre.
+28. Il apparaît tout d’abord que les caractéristiques du compte [Y] auraient dû conduire l’établissement A à
+recueillir des informations lui permettant de respecter son obligation de connaissance des clients concernés, au
+moins pour les 8 634 comptes qui ont enregistré des encaissements. Ainsi que cela a été précédemment exposé,
+le fonctionnement et l’importance des comptes [Y] ne peuvent être regardés comme ayant été clairement exposés
+lors de l’instruction de la demande d’agrément. Toutefois, pour les comptes [Y] et [X], la poursuite n’apportant
+pas d’éléments suffisants de nature à établir la nécessité de recueillir des informations sur les revenus et le
+patrimoine du client, cette branche du grief doit être écartée.
+En revanche, pour les clients personnes morales des comptes [Y] et [X], le recueil de l’extrait K-bis ne permet
+pas de disposer d’informations suffisantes sur le fonctionnement d’une société et la société aurait dû recueillir
+les statuts, en vertu de l’arrêté du 2 septembre 2009.
+Enfin, pour les comptes [de paiement] [Z], l’établissement A aurait dû, en raison des caractéristiques de ce
+produit, recueillir des informations sur la situation financière des clients, afin d’être en mesure d’apprécier la
+justification économique des opérations qu’ils effectuent.
+29. Le grief 5 est donc fondé dans un périmètre fortement réduit ainsi qu’il a été dit (cf. supra point 28).
+30. En vertu du 1° de l’article L. 561-10 du CMF, précisées par l’article R. 561-20 de ce code, lorsque le
+client ou son représentant légal n'est pas physiquement présent aux fins d'identification au moment de
+l'établissement de la relation d'affaires, les établissements de paiement vérifient l’identité de leur client en
+appliquant au moins deux mesures parmi celles qui sont mentionnées à l’article R. 561-20 du CMF.
+31. Selon le grief 6, fondé sur ces dispositions, les comptes [X], « qu’il s’agisse des comptes [Y] ou des
+comptes ayant le statut de « comptes de paiement » », sont ouverts par l’établissement A à distance, via son site
+internet. Or, l’établissement A n’applique pas systématiquement à l’ouverture de ces comptes deux des mesures
+de vigilance prévues à l’article R. 561-20 du CMF alors qu’il ne recourt à aucun des moyens d’identification
+électronique mentionnés aux 1° et 2° de l’article R. 561-5-1 du code. S’agissant des comptes [Y],
+l’établissement A n’applique aucune des mesures mentionnées à l’article R. 561-20 du CMF alors que ces
+comptes constituent la quasi-totalité des comptes ouverts dans ses livres. S’agissant des comptes ayant pour
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2019-07
+l’établissement A le statut de « compte de paiement », la procédure dite « P3-2 : KYC et relation d’affaires »
+prévoit la mise en œuvre des mesures prévues aux 1° et 3° de l’article R. 561-20 du CMF lors de l’ouverture du
+compte à un client personne physique. Toutefois, 120 comptes ayant le statut de « compte de paiement » ont été
+ouverts à des personnes physiques sans que ces deux mesures soient mises en œuvre.
+32. L’établissement A soutient tout d’abord que, jusqu’à la publication, en décembre 2018, des lignes
+directrices de l’ACPR relatives à l’identification, la vérification de l’identité et la connaissance de la clientèle,
+les obligations résultant de l’article R. 561-20 du CMF ne définissaient pas de manière suffisamment précise la
+notion de « pièce justificative supplémentaire permettant de confirmer l'identité de la personne avec laquelle
+[les établissements de paiement]sont en relation d'affaires » pour qu’elle puisse, dans le respect du principe de
+légalité des délits et des peines, être sanctionnée pour avoir seulement exigé un justificatif de domicile. Il soutient
+de plus que les comptes [Y], simples comptes de test, n’étaient pas soumis à l’obligation ici en cause.
+33. Cependant, les dispositions de l’article L. 561-10 du CMF visent, en cas d’ouverture d’un compte à
+distance, à compléter les diligences en matière d’identification et de vérification de l’identité du client prévues
+à l’article L. 561-5 de ce code. Dès avant la publication des lignes directrices ci-dessus mentionnées, ces
+dispositions, qui sont claires, ne pouvaient être satisfaites par la seule exigence de justificatifs de domicile,
+lesquels n’ont pas pour objet de permettre de confirmer l’identité d’une personne. Par ailleurs, ainsi qu’il a été
+dit (cf. supra point 23), en raison de l’utilisation que l’établissement A faisait de son compte [Y], celui-ci ne
+pouvait, au moment du contrôle, comme cela a été précédemment indiqué, être regardé que comme un compte
+de paiement auquel s’appliquaient toutes les obligations de vigilance prévues pour un tel compte. Enfin, le
+manquement à l’obligation de recueillir une pièce justificative complémentaire pour 120 comptes de paiement
+n’est pas contestée.
+34. Le grief 6 est donc intégralement fondé pour les ouvertures de comptes [X] et, dans un périmètre réduit,
+pour les comptes [Y], à 8 634 comptes au lieu de 38 071.
+3°) Le dispositif de suivi de la relation d’affaires
+35. En vertu des articles 46 et 49 de l’arrêté du 3 novembre 2014, les établissements de paiement doivent se
+doter de dispositifs de suivi et d’analyse de leurs relations d’affaires, fondés sur la connaissance de leur clientèle
+et adaptés à leurs activités, à leur clientèle, à leurs implantations et aux risques identifiés dans la classification
+des risques, permettant notamment de détecter les opérations qui constituent des anomalies au regard du profil
+des relations d’affaires et qui pourraient faire l’objet de l’ examen renforcé mentionné au II de l’article L. 561-
+10-2 du CMF ou de la déclaration de soupçon (DS) prévue à l’article L. 561-15 du même code.
+36. Selon le grief 7, fondé sur ces dispositions, le dispositif de surveillance de l’établissement A en matière
+de LCB-FT repose sur :
+- un ensemble d’alertes mis en place, pour l’activité [X], avant la délivrance à la société de l’agrément en
+qualité établissement de paiement, afin de lutter contre la fraude. Il utilise des scénarios définis dans la procédure
+« P6-5 Lutte contre la fraude » ;
+- des contrôles effectués lorsqu’un client de ce service demande le retrait de ses fonds par virement vers un
+compte bancaire, qui visent à vérifier que les coordonnées du compte bancaire vers lequel les fonds sont virés
+correspondent à celles que le client a fournies.
+Ce dispositif est insuffisant car il ne permet pas à l’établissement A de détecter ni d’analyser toutes les
+opérations atypiques en matière de BC-FT qui pourraient faire l’objet d’un examen renforcé ou d’une déclaration
+de soupçon (DS). En effet, pour [le service de paiement] [X], les scénarios mentionnés dans la procédure P 6-5
+ne tiennent pas assez compte des risques de BC-FT, pourtant mentionnés dans la procédure « P3-1 Analyse du
+risque » du 24 février 2017 », qui comprend en annexe la classification des risques de l’établissement A. Ainsi,
+aucune alerte n’est définie en fonction du montant des encaissements, mensuels ou cumulés, depuis l’ouverture
+du compte ou de la nature de l’activité du client. Par conséquent, l’établissement n’est pas en mesure de détecter
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2019-07
+efficacement les volumes atypiques d’encaissement ni d’analyser la licéité de l’activité de son client ou la
+cohérence des montants encaissés avec la nature de l’activité.
+Plusieurs cas de défauts de DS ont ainsi été relevés alors qu’il y avait des doutes sur la licéité de l’activité du
+client ou que des volumes d’encaissement significatifs n’étaient pas justifiés au regard de la nature de l’activité
+(cf. grief 9 sur les défauts de DS). Parmi ceux-ci, neuf concernent des clients dont l’activité avait pourtant été
+identifiée par l’établissement comme présentant des risques de BC-FT (cf. infra les dossiers de défauts de DS
+n°9.2, 9.3. 9.7., 9.10., 9.11., 9.12, 9.13, 9.14 et 9.16).
+En outre, aucune alerte ni mesure de surveillance n’étaient en place au moment du contrôle pour détecter et
+analyser efficacement les opérations présentant un risque de BC-FT associé au pays de résidence du client de
+l’établissement A, ce qu’illustrent trois dossiers de défaut de DS (idem, dossiers 9.7, 9.11 et 9.14).
+Par ailleurs, les modalités de retrait de fonds par les clients font l’objet d’une surveillance insuffisante. Les
+contrôles des virements vers des comptes bancaires, prévus dans les procédures comptables de l’établissement
+A, visent uniquement à éviter une fraude interne. En outre, le recours récurrent par les clients à des virements
+vers des comptes PayPal, facturés 4 euros par opération, ne fait pas l’objet d’une détection ni d’une analyse
+adaptée alors que sa justification économique peut paraître douteuse dès que le montant des fonds à transférer
+est supérieur à 15 euros, seuil au-delà duquel le virement vers un compte bancaire est gratuit. En particulier,
+aucune mesure n’est mise en œuvre pour vérifier que le titulaire du compte Paypal est le client de l’établissement
+A. À titre d’illustration, la poursuite mentionne plusieurs dossiers individuels (cf. infra les dossiers 9.3, 9.4., 9.7,
+9.9, 9.10, 9.11, 9.13 et 9.16). Les mesures prises à l’issue de l’analyse des alertes, lorsque celles-ci sont activées,
+consistent à bloquer les retraits de fonds des clients ou à demander la constitution d’une garantie afin de prémunir
+l’établissement contre le risque d’impayés et non à procéder à un examen renforcé. L’établissement A n’avait
+au demeurant, au moment de la mission de contrôle, adressé aucune DS à Tracfin depuis son agrément.
+Enfin, aucun dispositif de surveillance des relations d’affaires n’a été mis en place pour [le service de
+paiement] [Z] alors que cette activité, en dépit du faible nombre de relations d’affaires, se traduit par des volumes
+significatifs d’encaissement et qu’elle présente des risques élevés de BC-FT.
+37. En premier lieu, le dispositif d’alerte mis en place au titre de la surveillance de l’activité [X] était décrit
+dans le dossier de demande d’agrément de l’établissement A. Au regard du faisceau d’indices présenté au point
+4, le manquement ne peut, sur ce point, être sanctionné. Cette branche du grief est en conséquence écartée.
+38. En second lieu, le service [Z] a été lancé, ainsi qu’il a été dit, en 2017, postérieurement à l’agrément de
+l’établissement A. L’établissement admet ne pas avoir mis en place de dispositif de surveillance automatisée
+pour ce nouveau service mais soutient qu’une surveillance manuelle des opérations des 45 clients qui utilisaient
+alors ce service existait au moment du contrôle. Toutefois, les éléments produits en défense sur la surveillance
+des opérations d’un client ou sur les diligences effectuées pour les clients U et V, dont les activités sont liées aux
+crypto actifs, ne peuvent suffire à établir le caractère général d’une telle surveillance ni son application à toutes
+les opérations de ces clients. Il en va de même de la diligence, prévue par la procédure interne P3-4 « Contrôle
+des virements émis », qui consiste seulement à vérifier que le compte renseigné dans la fiche du client est bien
+le compte de reversement des fonds et ne peut donc s’analyser comme permettant à l’établissement A de
+respecter les obligations de surveillance en matière de LCB-FT prévues par les dispositions sur lesquelles est
+fondé le grief.
+39. Le grief 7 est donc fondé dans un périmètre réduit ainsi qu’il a été dit. L’audit annoncé des procédures
+LCB-FT de l’établissement A pourra, le cas échéant, aboutir à la définition de mesures de remédiation qui, à ce
+jour, n’ont pas été mises en place. Il est en tout état de cause sans incidence sur le grief.
+4°) Le dispositif de gel des avoirs
+40. En vertu de l’article 47 de l’arrêté du 3 novembre 2014, les établissements de paiement doivent se doter
+d’un dispositif permettant de détecter les opérations au bénéfice d’une personne ou d’une entité faisant l’objet
+d’une mesure de gel des fonds, instruments financiers et ressources économiques.
+41. Selon le grief 8, fondé sur ces dispositions, le dispositif de gel des avoirs mis en place par l’établissement
+A repose sur la consultation de la liste des personnes et entités faisant l’objet d’une mesure européenne ou
+Autorité de contrôle prudentiel et de résolution 10
+
+===== Page 11 =====
+Décision de la Commission des sanctions – procédure no 2019-07
+nationale de gel publiée sur le site de la direction générale du Trésor (la « liste Unique »). Ce dispositif présente
+d’importantes lacunes :
+- la consultation de cette liste n’est effectuée qu’au moment de l’ouverture d’un compte ayant le statut de «
+compte de paiement » mais aucune vérification n’est faite pendant la relation d’affaires pour s’assurer qu’aucun
+client ne fait l’objet d’une mesure de gel ;
+- aucun filtrage automatisé ni aucune consultation de la « liste Unique » ne sont effectués lors de l’ouverture
+d’un compte [Y] ni pendant la relation d’affaires ;
+- aucun filtrage automatisé ni aucune consultation de la « liste Unique » ne sont effectués lors de l’ouverture
+d’un compte [de paiement] [Z] ni pendant la relation d’affaires pour détecter les personnes faisant l’objet d’une
+mesure de gel.
+42. Tout en admettant qu’aucun contrôle portant sur la totalité de ses clients n’était effectué à chaque mise à
+jour de la liste unique, l’établissement A souligne qu’aucune personne faisant l’objet d’une mesure restrictive
+n’a été détectée parmi ses clients.
+43. Le grief 8 doit être regardé comme fondé, dès lors que les informations communiquées lors de
+l’instruction de la demande d’agrément de l’établissement A sur ce point n’étaient pas précises et que les actions
+correctives engagées ensuite sont sans incidence.
+5°) Les défauts de déclaration de soupçon
+44. En vertu du I de l’article L. 561-15 du CMF, les établissements de paiement doivent déclarer à Tracfin
+les sommes inscrites dans leurs livres ou les opérations portant sur des sommes dont ils savent, soupçonnent ou
+ont de bonnes raisons de soupçonner qu'elles proviennent d'une infraction passible d'une peine privative de
+liberté supérieure à un an ou sont liées au financement du terrorisme.
+45. Selon le grief 9, fondé sur ces dispositions, l’établissement A n’a pas réalisé de DS dans 16 dossiers ou
+séries de dossiers (9.1 à 9.16).
+46. Le sous-grief 9.1 vise 214 comptes [Y] enregistrés avec une adresse de courrier électronique
+« .ru ». l’établissement A ne disposait pas pour ces comptes, qui fonctionnaient de la même façon,
+d’informations sur les clients. Malgré un fonctionnement atypique, notamment caractérisé par des retraits de
+fonds effectués par virement vers un compte bancaire français, suivis de virements Paypal de même montant,
+l’établissement A n’a effectué aucune déclaration, même au sujet des opérations qui avaient déclenché des
+alertes. La faiblesse des sommes en jeu, soit moins de 25 000 euros pour la totalité de ces comptes sur une
+période de deux ans et demi, est sans incidence sur l’obligation d’informer Tracfin de telles opérations, en raison
+de l’incertitude sur l’origine des fonds et sur la licéité des opérations effectuées. Le sous-grief 1 est donc fondé.
+47. Le sous-grief 9.2 vise la société C, dont le siège social est à Hong-Kong. Elle a déclaré une activité de «
+Plateforme d’achat/vente de comptes de jeux vidéo. Ventes de codes et de crédits, d’objets virtuels pour jeux
+vidéo ». Elle détient un compte [X] qui a enregistré des mouvements significatifs. Son activité consiste en la
+vente de « crédits » pour le jeu vidéo FIFA. En raison des incertitudes sur la licéité de l’activité de cette société,
+qui, notamment, vendrait des logiciels Microsoft Windows à un prix anormalement bas et qui a en outre fait
+l’objet de plaintes d’éditeurs de jeux vidéo, l’établissement A aurait dû déclarer ses opérations à Tracfin. Le
+sous-grief 2 est donc fondé.
+48. Le sous-grief 9.3 vise les opérations de la société D, qui a également déclaré une activité de « Plateforme
+d’achat/vente de comptes de jeux vidéo. Ventes de codes et de crédits, d’objets virtuels pour jeux vidéo ». Ces
+opérations auraient dû, selon la poursuite, être déclarées à Tracfin. Toutefois, les éléments présentés sur l’activité
+du client et les modalités des retraits effectués sur son compte, dont certains pour des montants significatifs, ne
+caractérisent pas suffisamment le soupçon d’opérations de blanchiment du produit d’infractions sanctionnées
+d’une peine privative de liberté supérieure à un an ou de financement du terrorisme. Le sous-grief 9.3 est donc
+écarté.
+Autorité de contrôle prudentiel et de résolution 11
+
+===== Page 12 =====
+Décision de la Commission des sanctions – procédure no 2019-07
+49. Par les sous-griefs 9.4 et 9.5, il est reproché à l’établissement A de ne pas avoir informé Tracfin des
+opérations de clients, respectivement la société E et M. F, dont l’activité consiste notamment en l’exploitation
+de loteries en ligne et qui sont rémunérés par des appels téléphoniques surtaxés ou des SMS permettant d’obtenir
+un code. Ce code, après saisie par l’utilisateur sur l’encart de paiement [X] présent sur le site internet du client,
+permet un crédit sur le compte [X] du client de l’établissement A (plus de 50 000 euros crédités en 11 mois en
+2018 dans le premier dossier, plus de 130 000 euros dans le second). L’utilisateur participe alors à une loterie,
+dont les gains qui correspondent à des sommes d’argent sont déterminés à l’avance en fonction du nombre total
+d’appels émis par l’ensemble des utilisateurs. Une telle activité paraît entrer dans les prévisions de l’article L.
+322-1 du code de la sécurité intérieure qui prohibent les loteries et, plus généralement, toutes opérations offertes
+au public, sous quelque dénomination que ce soit, pour faire naître l’espérance d’un gain qui serait acquis par la
+voie du sort. Le transfert de ces fonds par des virements dont les bénéficiaires ne sont pas connus pourrait donc
+s’inscrire dans un schéma de blanchiment. Les sous-griefs 9-4 et 9- 5 sont donc fondés.
+50. Selon le sous-grief 9.6, les informations dont disposait l’établissement A au sujet de son client, M. G,
+qui vendrait d’anciens téléphones et des téléphones portables, auraient dû la conduire à adresser une DS à
+Tracfin. La fiche de ce client mentionnait en effet que son activité sur le site n’était “pas claire” et l’établissement
+A, après plusieurs échanges, lui avait indiqué son refus définitif de débloquer les sommes restant sur son compte
+“en raison de mesures anti blanchiment (...) car les éléments apportés ne permettent pas de démontrer que
+l’activité de ce compte soit légale ». Le sous-grief 9.6, qui n’est pas contesté par l’établissement A, est donc
+fondé.
+51. Selon le sous-grief 9.7, la société H (Hong-Kong), dont l’activité déclarée est “site d’offres rémunérées
+et boutiques de codes de jeux”, a ouvert deux comptes, un compte [Y] et un compte [X]. Son dirigeant a en outre
+ouvert un compte personnel [Y] et un dernier compte [X] a ensuite été ouvert au nom de la société I, dont le
+dirigeant et bénéficiaire effectif est le même que celui de la société H. L’objet social de cette dernière est
+« commerce en ligne, solutions logicielles de paiement et toutes autres activités non interdites par la loi et en
+accord avec la législation bulgare ». Ces quatre comptes ont, en tout, été crédités de plus de 700 000 euros, les
+retraits de fonds ayant été effectués par virements Paypal au crédit de comptes dont les bénéficiaires ne sont pas
+connus.
+L’établissement A a interrogé son client sur son activité à plusieurs reprises puis, à la suite d’alertes liées à
+la fraude, de plaintes d’utilisateurs relatives à des arnaques de type phishing et de réquisitions de la gendarmerie,
+a bloqué la fonction de retrait des fonds des comptes plusieurs fois, mais sans pour autant adresser de DS à
+Tracfin. Le sous-grief 9-7, que l’établissement A ne conteste pas, est donc fondé.
+52. Selon le sous-grief 9.8, le client, M. J, mineur au moment des faits, a d’abord fourni une pièce d’identité
+falsifiée lors de l’ouverture de son compte [Y], ultérieurement transformé en compte [X]. Selon sa fiche client,
+l’intéressé vendrait notamment “des photos de lui via [Facebook] y compris contenu adulte”. Il a ultérieurement
+déclaré une activité de “lobby de jeu”. En dépit de la faiblesse des sommes ayant transité par ce compte, de tels
+faits auraient dû donner lieu à l’envoi d’une DS à Tracfin, le produit d’une possible infraction réprimée d’une
+peine privative de liberté étant susceptible d’être blanchi lorsque les fonds perçus ont été versés sur un autre
+compte. Le sous-grief 9-8 est donc fondé.
+53. Selon le sous-grief 9.9, l’activité du client, M. K, qui a ouvert en avril 2017 un compte [Y] transformé
+en compte [X] en août 2017, semblait être la rediffusion de chaînes payantes au moyen d’un serveur contrefaisant
+les cartes d’accès à ces chaînes. Son compte lui permettait de recevoir les montants versés par ses propres clients
+qui le rémunéraient en appels surtaxés. Ce client a perçu, sur un période d’un an, un peu plus de 8 000 euros,
+transférés ensuite par virement Paypal vers des comptes dont les titulaires sont inconnus.
+L’établissement A, qui a bloqué à plusieurs reprises la fonction de retrait des fonds sur ce compte, ne conteste
+pas le manquement, même si il souligne la faiblesse des sommes en jeu. Il confirme aussi la réception d’une
+réquisition de la gendarmerie. Les montants en jeu sont sans incidence sur l’obligation d’informer Tracfin de
+ces opérations. Par ailleurs, en ce qui concerne la réquisition reçue, la Commission a déjà indiqué “qu’en tout
+état de cause, un manquement aux obligations déclaratives est établi lorsque, à la date à laquelle une réquisition
+judiciaire ou un droit de communication est reçu, l’organisme aurait déjà dû adresser une DS à Tracfin ou que
+Autorité de contrôle prudentiel et de résolution 12
+
+===== Page 13 =====
+Décision de la Commission des sanctions – procédure no 2019-07
+sa réponse n’englobe pas toutes les opérations suspectes dont il a connaissance” (décision du 30 mai 2017,
+procédure n° 2016-06 considérant 25). À la date de réception de la réquisition, soit entre mars et juin 2018,
+Tracfin aurait déjà dû être avisé de ces opérations. Le sous-grief 9-9 est donc fondé.
+54. Les sous-griefs 9.10 et 9.11 visent des clients, Mme L et M. M, dont l’activité déclarée à l’établissement A
+est « lobbyman », soit « une personne qui maitrise des jeux vidéo et propose à ses clients d’avancer dans le jeu
+ou d’améliorer un personnage en échange de rémunération ».
+Toutefois, à la suite d’alertes liées à la fraude, dans le premier dossier, la cliente a fourni des captures d’écrans
+révélant un service de vente d’identifiants pour des abonnements aux services Netflix, Canal + ou Spotify et de
+vente de cartes PlayStation Network dont l’origine est inconnue.
+Le second client proposait d’échanger des codes reçus par les personnes ayant souscrit à son offre contre
+“des cartes Playstation Store, Xbox Live ou Wii Ware”, activité qui requiert un accord de distribution avec les
+sociétés émettrices des cartes.
+Dans les deux cas, des retraits ont ensuite été effectués de ce compte [X], en utilisant des virements Paypal
+au coût unitaire de 4 euros, au profit de bénéficiaires dont l’identité n’est pas connue.
+Compte-tenu des doutes sur la licéité de ces activités et des modalités de retrait des sommes versées sur ces
+comptes, de telles opérations, y compris celles qui portaient sur des montants modestes (sous-grief 9.10),
+auraient dû être déclarées à Tracfin. Les sous-griefs 9-10 et 9-11 sont donc fondés.
+55. Selon le sous-grief 9.12, la société N puis son dirigeant ont, courant 2018, l’une et l’autre ouvert un
+compte [Y] ultérieurement transformé en compte [X]. Ces comptes ont respectivement reçu environ 14 000
+euros en deux mois et demi et un peu plus de 3 000 euros en un mois. Or le site internet de la société N était
+précédemment exploité par un autre client de l’établissement A dont le dossier indiquait, au sujet de son activité
+: « mes amis me donne[nt] des codes [X] et en échange je leur donne des bitcoins ». L’activité déclarée par la
+société N est la suivante : « Ainsi les services que nous proposons sont identiques [à] ceux du site [W] (achat
+de monnaies virtuelles) ». Alors que les activités liées aux crypto actifs sont identifiées comme une “zone de
+risque” de BC-FT par la “catégorisation des risques de l’établissement (risque d’”activité illégale (nécessite un
+agrément)” et risque d’« escroquerie (pas de livraison du service) », l’établissement A n’a pas informé Tracfin
+de ces opérations. Le sous-grief 9-12 est donc fondé.
+56. Par le sous-grief 9.13, il est reproché à l’établissement A de ne pas avoir avisé Tracfin des opérations de
+M. O, titulaire d’un compte [X] depuis mai 2015. L’activité déclarée de ce client est également celle de
+« lobbyman », mais ses revenus, d’environ 1 150 euros par mois sur une période de 25 mois, sont très supérieurs
+à ceux des clients ayant déclaré exercer une telle activité. De plus, le “trafic étrange” constaté sur ce compte a
+conduit l’établissement A à bloquer la fonction de retrait des fonds en juin 2017. À la suite de plaintes de
+particuliers « concernant des arnaques de type phishing » et de la réception d’une réquisition judiciaire,
+l’établissement A a demandé au client de fournir des « preuves de livraison » de ses services pour justifier qu’il
+n’était pas « complice de ces escroqueries ». À la date de la réception de la première réquisition judiciaire, soit
+mi-2017, Tracfin aurait donc déjà dû être informé des opérations de ce client par l’établissement A, qui avait
+bloqué la fonction retrait avant de fermer le compte. Le sous-grief 9-13 est donc fondé.
+57. Le sous-grief 9.14 porte sur les opérations de M. P, titulaire d’un compte [Y] depuis novembre 2017 et
+qui a également déclaré une activité de « lobbyman ». Outre l’incertitude sur la réalité de l’activité exercée, les
+modalités de retrait des fonds, d’un montant d’environ 4 000 euros, auraient dû conduire l’établissement A à en
+informer Tracfin : après un premier retrait par virement vers un compte bancaire letton, le client a effectué des
+retraits par virement Paypal, au coût unitaire de 4 euros, vers des bénéficiaires inconnus. En outre, après de
+nombreuses alertes de détection de fraude, l’établissement A a bloqué la fonction de retrait le 7 décembre 2018,
+sans pour autant aviser Tracfin de ces opérations. Le sous-grief 9-14 est donc fondé.
+58. Selon le sous-grief 9.15, le client, M. Q, titulaire d’un compte [X] , a déclaré comme activité « l’achat
+et la vente de biens virtuels (cartes cadeau Amazon, Steam ; playstationstore etc.) ». Le client a encaissé près
+de 70 000 euros en six mois sans que l’établissement A dispose d’éléments sur un accord de distribution entre
+les producteurs de ces biens et le client et sans que l’origine des biens qu’il négocie soit connue. En raison des
+Autorité de contrôle prudentiel et de résolution 13
+
+===== Page 14 =====
+Décision de la Commission des sanctions – procédure no 2019-07
+doutes sur la licéité de l’activité de ce client, ses opérations auraient dû être déclarées à Tracfin, ce que
+l’établissement A ne conteste pas. Le sous-grief 9-15 est donc fondé.
+59. Le sous-grief 9.16 vise un client, M. R, qui a déclaré une activité de « lobbyman » et a retiré les fonds
+reçus - soit plus de 16 000 euros en 10 mois - par virements Paypal à deux adresses différentes, le bénéficiaire
+des virements n’étant pas connu. En raison des incertitudes sur l’activité du client, au sujet desquelles des
+réquisitions de la gendarmerie ont été reçues, l’établissement A aurait dû informer Tracfin, ce qu’il ne conteste
+pas. Le sous-grief 9-16 est donc fondé.
+60. Le grief 9 est donc fondé, dans un périmètre réduit à 15 dossiers. l’établissement A, qui n’avait effectué
+aucune DS au moment du contrôle sur place, a au demeurant admis avoir manqué de discernement dans ce
+domaine, avant d’indiquer qu’il n’a jamais contesté ce grief.
+B- En ce qui concerne le contrôle interne et l’organisation comptable
+1°) Le contrôle interne
+a) Le système de surveillance et de mesure des risques
+61. En vertu des articles 3 c), 99 à 103 et 217 de l’arrêté du 3 novembre 2014, les établissements de paiement
+doivent disposer de systèmes et de procédures permettant de mesurer et de gérer les causes et effets de tous les
+risques auxquels ils sont exposés et disposer d’une cartographie de ces risques, l’ensemble de ces dispositifs
+devant faire l’objet d’évaluations et de mises à jour régulières.
+62. Selon le grief 10, fondé sur ces dispositions, l’établissement A ne dispose ni d’un système de mesure des
+risques et des résultats ni d’une cartographie des risques à jour et effective, dont le caractère exhaustif et adapté
+serait régulièrement évalué. Les procédures de contrôle existant au moment du contrôle se rapportent aux
+processus opérationnels et sont intégrées dans les procédures relatives à ces processus.
+63. Au moment du contrôle, l’établissement A avait mis en place un ensemble de dispositifs, tels qu’une
+matrice des risques, une cartographie des risques LCB-FT figurant en Annexe II à la procédure P3-1 ainsi que
+la procédure P6-4 « Gestion des risques opérationnels ». L’établissement a de plus fourni des éléments montrant
+que ces documents et procédures sont toujours en vigueur et mis à jour et qu’ils donnent effectivement lieu à
+des contrôles. Cette branche du grief est donc écartée.
+64. En revanche, ni la matrice des risques ni la procédure P6-4 n’ont été mises à jour pour intégrer la nouvelle
+activité [de paiement] [Z] la seule mention dans la cartographie des risques ne permettant pas d’établir une
+adaptation complète des procédures de l’établissement à la suite du démarrage de cette activité.
+65 Le grief 10 n’est donc fondé que dans un périmètre réduit ainsi qu’il a été dit.
+66. En vertu des articles 148 et 155 de l’arrêté du 3 novembre 2014, les établissements qu’ils visent doivent
+disposer de stratégies, politiques, procédures, systèmes et outils solides et de limites, permettant de détecter,
+mesurer, gérer et suivre le risque de liquidité sur différentes périodes, du court terme, y compris des périodes
+intra-journalières, au long terme, de manière à maintenir des coussins de liquidité adéquats et à ne pas pratiquer
+une transformation excessive.
+67. Selon le grief 11, fondé sur ces dispositions, en l’absence de stratégie, de politique, de système ou d’outil
+de gestion prévisionnelle dédié, l’établissement A ne surveille pas son risque de liquidité et n’est pas en mesure
+Autorité de contrôle prudentiel et de résolution 14
+
+===== Page 15 =====
+Décision de la Commission des sanctions – procédure no 2019-07
+d’évaluer les encaissements et les décaissements de liquidités à différents horizons de temps ni de projeter les
+éventuels besoins de trésorerie correspondants.
+68. Les obligations imposées par les articles 148 et 155 de l’arrêté du 3 novembre 2014 n’étant pas applicables
+aux établissements de paiement, la poursuite a abandonné ce grief. Il convient de prendre acte de cet abandon.
+b) Le suivi des incidents opérationnels
+69. En vertu des articles 98, 245 et 249 de l’arrêté du 3 novembre 2014, les établissements de paiement
+doivent mettre en place des critères et des seuils permettant d’identifier les incidents significatifs. En outre, les
+dispositions des I et II de l’article L. 521-10 du CMF imposent aux prestataires de services de paiement
+d’informer sans retard injustifié les dirigeants effectifs et l'organe de surveillance ainsi que, le cas échéant, le
+comité des risques et l'organe central auquel l'entreprise assujettie est affiliée ainsi que l’ACPR et la Banque de
+France de tout incident opérationnel majeur et de tout incident de sécurité majeur.
+70. Selon le grief 12, fondé sur ces dispositions, l’établissement A indique, dans son rapport annuel sur le
+contrôle interne, reconnaître comme significatifs ou majeurs les incidents opérationnels qui dépassent un
+montant de 2 000 euros. Or la mission de contrôle a constaté que seuls les incidents relatifs à la sécurité des
+systèmes d’information faisaient l’objet d’un recensement, qui s’apparente à un journal d’événements ou de
+tâches, sans lien avec le seuil défini.
+Les autres incidents opérationnels, même majeurs, ne sont pas documentés et ne donnent pas lieu à mise à
+jour des risques ni des contrôles. À titre d’illustration, en juin 2018, une erreur de la société S, prestataire télécom
+de l’établissement A, a occasionné une perte de chiffre d’affaires de 580 000 euros. Cet incident n’a donné lieu
+ni à une actualisation des risques ni à une adaptation des contrôles. Il n’a de plus fait l’objet d’aucune
+communication spécifique aux membres du conseil d’administration. En outre, le SGACPR n’en a été informé
+par l’établissement A que le 30 novembre 2018, après que l’Inspection lui a rappelé l’obligation légale d’une
+telle information. Le grief porte ainsi sur la limitation des diligences de l’établissement A en ce domaine aux
+incidents qui concernent la sécurité des systèmes d’information et sur le non-respect par l’établissement A de
+ses obligations lorsque survient un incident significatif dont elle a défini le seuil et non sur l’absence de tout
+« seuil de significativité » des incidents.
+71. Si la documentation et le recensement des incidents significatifs apparaissent comme la condition
+préalable à leur traitement, des carences sur ce point ne peuvent être reprochées sur le fondement des articles de
+l’arrêté du 3 novembre 2014 visés par la poursuite.
+En revanche, l’établissement ne justifie pas que son conseil d’administration - et non seulement certains de
+ses membres, il est vrai peu nombreux - et l’ACPR, soient systématiquement informés lorsque survient un
+incident significatif et ce, « sans délai », donc sans attendre une évaluation définitive du préjudice subi par
+l’entreprise du fait de cet incident. L’incident en relation avec la société S., incident opérationnel au sens du j)
+de l’article 10 de l’arrêté du 3 novembre 2014, illustre cette carence.
+72. Le grief 12 est donc fondé, dans un périmètre réduit ainsi qu’il a été dit.
+c) Les procédures internes
+73. En vertu des articles 242 et 254 de l’arrêté du 3 novembre 2014, les établissements de paiement doivent
+élaborer et tenir à jour des manuels de procédure adaptés relatifs à leurs différentes activités et leurs dirigeants
+effectifs doivent contrôler périodiquement l’efficacité de ces dispositifs et remédier à leurs éventuelles
+défaillances.
+74. Selon le grief 13, fondé sur ces dispositions, l’établissement A dispose d’un corpus de 34 procédures et
+14 annexes qui encadrent les processus mis en œuvre pour l’activité de services de paiement et qui décrivent
+son environnement de contrôle interne. Ces procédures ne couvrent pas l’activité [Z] qui s’est fortement
+développée à partir d’octobre 2018 et dont les risques et modalités d’exercice différent de ceux du service [X].
+Autorité de contrôle prudentiel et de résolution 15
+
+===== Page 16 =====
+Décision de la Commission des sanctions – procédure no 2019-07
+75. Comme la Commission l’a déjà indiqué, il appartient à tout organisme assujetti de mettre en place un
+dispositif de contrôle interne qui couvre la totalité de ses risques et de son activité (décision 18 mai 2017,
+procédure n° 2016-04, considérant 9). Afin de se conformer à cette obligation, c’est au plus tard lors du
+démarrage de l’activité [Z] en mai 2017 que l’établissement A aurait dû mettre à jour ses procédures pour les
+adapter à ce nouveau produit, qui présente des caractéristiques différentes de ses produits [Y] et [X].
+76. Les mesures de remédiation annoncées sont sans incidence sur le grief 13, qui est fondé.
+d) Les contrôles permanent et de conformité
+77. En vertu des articles 12 et 13 de l’arrêté du 3 novembre 2014, les entreprises assujetties doivent disposer
+d’agents réalisant les contrôles permanent et périodique avec des moyens adéquats.
+78. Selon le grief 14, fondé sur ces dispositions, les contrôles de deuxième niveau sont largement inexistants.
+Ainsi, 7 des 34 procédures applicables au moment du contrôle sur place n’en mentionnent pas : deux procédures
+relatives à la LCB-FT (« Traçabilité des paiements » et « P3-6 Gel des avoirs »), cinq procédures comptables
+(« P4-1 Gestion des comptes de paiement », « P4-3 États réglementaires », « P4-5 Affacturage », « P4.6
+Rapprochements comptables » et « P6-3 Plan de reprise des activités »). Le rapport de contrôle relève également
+que l’établissement A ne justifie pas que des contrôles de deuxième niveau sont réalisés et qu’elle ne dispose
+pas d’un plan de contrôle. La personne en charge des contrôles de deuxième niveau n’a pas été en mesure de
+décrire en quoi consistent ces contrôles. Il n’en existe pas de trace ni d’archivage.
+79. La communication, lors de l’instruction du dossier de demande d’agrément de l’établissement A en 2015,
+d’informations éparses, comprises dans plusieurs procédures, au sujet de certains contrôles effectués alors, ne
+peut faire obstacle à ce que des manquements soient sanctionnés en ce domaine. Si l’établissement A, sans
+contester que son dispositif ait présenté certaines carences, rappelle toutefois les diligences effectuées à ce titre,
+ces éléments ne conduisent pas à remettre en cause le constat d’une insuffisance des moyens et d’une
+formalisation défaillante des contrôles permanent et périodique. Sur ce dernier point, la poursuite souligne à
+juste titre que l’existence d’un contrôle ne peut être prise en considération que s’il est formalisé dans des
+conditions permettant d’en justifier ultérieurement, notamment devant le superviseur.
+80. Le grief 14 est donc fondé.
+81. En vertu de l’article 35 de l’arrêté du 3 novembre 2014, les entreprises assujetties doivent mettre en place
+des procédures d’approbation préalable systématique, incluant un avis écrit du responsable en charge de la
+conformité ou d’une personne dûment habilitée par ce dernier à cet effet, pour les produits nouveaux ou pour
+les transformations significatives apportées aux produits existants, pour cette entreprise ou pour le marché, ainsi
+que des procédures de contrôle des opérations réalisées.
+82. Selon le grief 15, fondé sur ces dispositions, les contrôles de conformité sont effectués par l’établissement
+A de manière irrégulière et se limitent essentiellement à une veille juridique très réduite et non formalisée. En
+particulier, il n’existe pas d’examen de conformité approfondi et indépendant pour l’engagement de
+l’établissement A auprès de nouveaux segments de clientèle tels que les plateformes d’achat de crypto-actifs ou
+les casinos en ligne ou pour de nouveaux services comme [Z], ni pour le contrôle des opérations.
+83. Il résulte des éléments produits par l’établissement A que la perspective de la conclusion d’un accord
+avec une plateforme d’achat de crypto-actifs a donné lieu à une réflexion interne de l’établissement sur le risque
+de non-conformité qui pourrait en résulter et à des échanges avec le SGACPR. Ce seul élément ne permet
+toutefois pas de remettre en cause le grief plus général d’une absence de contrôle de conformité systématique,
+qu’illustre l’absence d’une réflexion, justifiée par des documents, sur la clientèle des casinos en ligne, le service
+[Z] ou encore sur le contrôle de conformité des opérations.
+Autorité de contrôle prudentiel et de résolution 16
+
+===== Page 17 =====
+Décision de la Commission des sanctions – procédure no 2019-07
+84. Le grief 15 est donc fondé.
+85. En vertu de l’article 41 de l’arrêté du 3 novembre 2014, les entreprises assujetties mettent en place un
+dispositif de contrôle de la conformité des opérations de leurs filiales à l’étranger permettant le contrôle du
+respect des règles locales applicables à l’activité de ces filiales ainsi que l’application à ces opérations de l’arrêté
+du 3 novembre 2014.
+86. Selon le grief 16, fondé sur ces dispositions, aucun contrôle de la conformité, notamment en LCB-FT,
+n’est prévu ni effectué pour la filiale, la société U située à Hong Kong. L’établissement secondaire polynésien
+n’est pas non plus couvert par le dispositif de contrôle de la conformité.
+87. Sans contester l’absence de contrôle de conformité sur les activités de la société U, l’établissement A
+indique que cette filiale a cessé de fournir des services de paiement en août 2019, soit après le contrôle sur place.
+Une telle interruption est sans incidence sur le grief, dans sa première branche. En revanche, l’établissement A
+apporte des éléments montrant que son établissement secondaire polynésien n’a jamais fourni de services de
+paiement. Le grief doit donc, comme l’indique d’ailleurs la poursuite, être abandonné dans sa seconde branche.
+88. Le grief 16 est donc fondé dans un périmètre réduit ainsi qu’il a été dit.
+e) Le contrôle périodique
+89. En vertu de l’article 17 de l’arrêté du 3 novembre 2014, « Le contrôle périodique de la conformité des
+opérations, du niveau de risque effectivement encouru, du respect des procédures, de l'efficacité et du caractère
+approprié des dispositifs mentionnés à l'article 13 est assuré au moyen d'enquêtes par des agents au niveau
+central et, le cas échéant, local, autres que ceux mentionnés audit article […] ».
+90. Selon le grief 17, fondé sur ces dispositions, contrairement à ce que prévoient ses procédures P1-31 et
+P2-51, l’établissement A ne réalise pas de contrôle périodique de ses activités de prestataire de services de
+paiement. L’établissement n’est pas en mesure de produire un réel plan de contrôle consistant en un cycle
+d’investigations, ni de rapport de contrôle périodique. Sa responsable du contrôle périodique a reconnu n’avoir
+consacré qu’une journée à ce travail en 2017, pour une simple revue des procédures en place. Elle n’avait pas
+de programme de travail établi, ni de vision du cycle d’audit à conduire. Elle a reconnu ne pas connaître les
+activités de services de paiement et ne pas être en mesure d’en faire le contrôle. Elle ne connaît pas les actions
+de contrôle permanent et ne dispose pas de résultats sur ce point. Elle ne vérifie pas l’efficacité ni le caractère
+approprié des dispositifs de gestion des risques et de leur enregistrement comptable. L’établissement A ne fait,
+par ailleurs, appel à aucun auditeur externe pour son contrôle périodique.
+Il n’effectue pas non plus de contrôle périodique de ses filiales la société U à Hong-Kong et la société V,
+ni de son bureau à Tahiti, alors même que ceux-ci portent des risques spécifiques liés soit à la nature de leur
+clientèle, soit à la nature de leurs activités.
+91. Les éléments produits par l’établissement A, qui décrivent principalement le contrôle de ses procédures,
+ne peuvent suffire à répondre au reproche de carences majeures affectant son dispositif de contrôle périodique.
+L’établissement les avait d’ailleurs reconnues lors du contrôle sur place. En effet, il indiquait, en réponse à une
+observation du projet de rapport de contrôle soulignant le caractère largement défaillant de son dispositif, en
+termes généraux et non limités à l’année en cours, avoir « effectivement bien pu constater en cours d’activité
+que, malgré ses bonnes intentions, il avait été difficile de mettre en place un contrôle périodique efficace » et
+faisait état de sa décision, pour y remédier, de recourir à un prestataire externe.
+Par ailleurs, ainsi que la Commission l’a déjà indiqué, par la décision du 26 mai 2011, point 2.1, procédure
+n° 2010-05, le contrôle périodique doit également s’appliquer aux filiales et succursales. Toutefois, cette
+obligation résulte des dispositions de l’article 27 de l’arrêté du 3 novembre 2014, qui n’est pas visé par la
+poursuite. Cette seconde branche du grief est dès lors écartée. La Commission a en effet déjà indiqué que, lorsque
+Autorité de contrôle prudentiel et de résolution 17
+
+===== Page 18 =====
+Décision de la Commission des sanctions – procédure no 2019-07
+les obligations dont la poursuite soutient qu’elles ont été méconnues ne sont pas précisées par la disposition sur
+le fondement de laquelle le grief est formulé, « les faits invoqués dans le grief ne peuvent être regardés comme
+un manquement » (procédure n° 2016-06, , point 11).
+92. Le grief 17 est donc fondé, dans un périmètre réduit ainsi qu’il a été dit.
+2°) L’organisation comptable
+a) Les procédures et schémas comptables
+93. En vertu de l’article 11 c) de l’arrêté du 3 novembre 2014, le contrôle des opérations et des procédures
+internes a notamment pour objet, dans des conditions optimales de sécurité, de fiabilité et d’exhaustivité, de
+vérifier la qualité de l’information comptable et financière, qu’elle soit destinée aux dirigeants effectifs ou à
+l’organe de surveillance, transmise aux autorités de tutelle et de contrôle ou exposée dans les documents destinés
+à être publiés.
+94. Selon le grief 18, fondé sur ces dispositions, les procédures comptables de l’établissement A (P4-1 à P4-
+7), qui s’apparentent à des procédures de gestion, décrivent insuffisamment les schémas comptables et les
+différents contrôles requis pour la vérification de la fiabilité des informations comptables. L’établissement A a
+recours depuis 2018 à un cabinet comptable pour différents travaux, dont la réalisation des liasses fiscales. Il
+recourait déjà à un autre cabinet pour la consolidation des comptes. Ces deux cabinets procèdent à des
+traitements sur la base d’informations qu’ils échangent entre eux. L’établissement A n’est dès lors pas en mesure
+d’effectuer un contrôle sur ses comptes consolidés. Le rapport de contrôle a identifié des erreurs substantielles,
+notamment une erreur de signe relative à une perte de 1,7 million d’euros dans les comptes publiés de l’exercice
+2017, et des montants incorrects dans le rapport sur les conventions réglementées.
+95. S’agissant des erreurs reprochées dans les informations comptables, l’établissement A a tout d’abord
+produit des pièces qui montrent que des vérifications sont effectuées sur les comptes consolidés pour
+l’élaboration desquels l’établissement recourt à deux cabinets comptables.
+De même, il ne peut être déduit d’une erreur de signe sur le résultat de l’exercice 2017, constatée à la page
+55 du rapport annuel mais pas aux autres pages où ce résultat était mentionné, une insuffisance générale du
+contrôle par l’établissement A de ses comptes consolidés. Il en est de même de deux erreurs matérielles dans les
+rapports spéciaux sur les conventions réglementées retenues par la poursuite, qui concernent les prestations de
+deux filiales et le taux indiqué dans la convention de trésorerie.
+En conséquence, la poursuite n’établit pas que les insuffisances relevées dans les procédures comptables de
+l’établissement ont eu pour conséquence un défaut de la qualité de l’information comptable et financière.
+96. Le grief 18 est donc écarté.
+b) Les défaillances de la piste d’audit
+97. En vertu des articles 11 d) et 85 de l’arrêté du 3 novembre 2014, les entreprises assujetties mettent en
+place une organisation garantissant l’existence d’un ensemble de procédures, appelé piste d’audit, permettant,
+notamment, de justifier toute information par une pièce d’origine à partir de laquelle il doit être possible de
+remonter par un cheminement ininterrompu au document de synthèse et réciproquement.
+98. Selon le grief 19, fondé sur ces dispositions, l’établissement A ne peut, en raison de son organisation
+comptable, disposer d’une piste d’audit lui permettant de respecter ses obligations réglementaires. En effet, son
+système d’information comptable utilise à la fois les logiciels de gestion [X] et [Z], d’une part, qui comportent
+leur propre module de gestion des comptes de paiement, le logiciel […] de comptabilité générale, d’autre part,
+auquel s’ajoutent différents modules. Les premiers servent de référence pour la comptabilité et la position des
+comptes des clients, le logiciel [de comptabilité générale] ne pouvant gérer un grand nombre de micro-
+paiements. Ces opérations sont donc reportées en comptabilité dans un deuxième temps, de façon agrégée.
+Cependant, certaines opérations sont effectuées directement en comptabilité sous [le logiciel de comptabilité
+Autorité de contrôle prudentiel et de résolution 18
+
+===== Page 19 =====
+Décision de la Commission des sanctions – procédure no 2019-07
+générale], ce qui oblige l’établissement à les répercuter ensuite dans ses outils de gestion. Pour aligner données
+de gestion et données comptables, l’établissement A enregistre chaque mois, à des fins de régularisation, une
+écriture d’ajustement globale. Ainsi, un virement de retrait demandé par un client vendeur reste inscrit en débit
+du compte de paiement sous [X], même s’il est bloqué par l’établissement, ce qui arrive fréquemment pour les
+comptes [Y] de clients insuffisamment identifiés. De même, l’établissement A impute à ses clients vendeurs les
+impayés de carte de paiement et les annulations de codes [X], mais ces opérations ne sont pas retranscrites dans
+les opérations passées sur les comptes de paiement. À titre d’illustration, la comparaison observée à la date du
+30 juin 2018 entre le logiciel de gestion[X], d’une part, et le logiciel de comptabilité [générale], d’autre part, fait
+ressortir une différence de 12 969 euros.
+99. L’existence d’un décalage dans l’enregistrement des opérations par les logiciels [X] et [Z] d’une part, le
+logiciel [de comptabilité générale], d’autre part, ne suffit pas à établir que l’établissement A n’était pas en
+mesure, au moment du contrôle, de justifier les informations enregistrées dans ses différents logiciels en
+remontant par un cheminement ininterrompu au document de synthèse et réciproquement.
+100. Le grief 19 est donc écarté.
+c) La transmission d’états réglementaires erronés à l’ACPR
+101. En vertu des articles 11 c), 86 et 87 de l’arrêté du 3 novembre 2014, les entreprises assujetties doivent
+s’assurer du caractère vérifiable et contrôlable des informations comptables transmises au SGACPR, ainsi que
+de leur exhaustivité, de leur qualité et de leur fiabilité, notamment par des contrôles périodiques.
+102. Selon le grief 20, fondé sur ces dispositions, plusieurs pratiques comptables et prudentielles de
+l’établissement A ont pour conséquence une transmission d’états réglementaires erronés et hors délai au
+SGACPR. Ainsi, l’écart structurel entre ses logiciels de gestion et son logiciel de comptabilité a pour
+conséquence la fourniture aux clients d’informations erronées sur l’état de leur compte mais également la
+transmission à l’ACPR de données non fiables. De même, des erreurs telles que celle qui a été observée sur le
+sens du résultat net de 1,7 million d’euros dans les comptes publiés de l’exercice 2017 ou encore les ajustements
+comptables auxquels la mission de contrôle a été amenée à procéder, conduisent à constater que les informations
+transmises au SGACPR sont entachées d’erreurs qui faussent l’image de la situation financière de
+l’établissement. La production des états procède de saisies manuelles et n’est que faiblement automatisée. La
+piste d’audit n’est pas complètement assurée. En outre, il n’existe pas de contrôle de l’exhaustivité, de la qualité
+et de la fiabilité des informations entre les différentes étapes, ce qui conduit à des erreurs dans les déclarations.
+Ainsi, à l’exception des états « volumes de paiement » et « titres de transactions », tous les autres états au 30
+juin 2018 étaient erronés en raison d’une erreur de déclaration du résultat intermédiaire par l’établissement.
+Enfin, l’établissement A élabore le compte de résultats et le bilan de son activité d’établissement de paiement à
+partir de sa comptabilité sociale en appliquant des règles d’affectation et de répartition par quote-part
+conformément à sa nature hybride. Néanmoins, la mission de contrôle a dû procéder à plusieurs retraitements
+qui ont conduit à une révision du montant des fonds propres, à la date du 30 juin 2018, à - 113 000 euros au lieu
+du chiffre de + 188 000 euros comme annoncé par l’établissement.
+103. En premier lieu, la saisie manuelle des états réglementaires ou les carences éventuelles affectant la piste
+d’audit peuvent avoir pour conséquence une transmission de données erronées mais, en elles-mêmes, elles ne
+caractérisent pas un tel manquement.
+104. En deuxième lieu, si les décalages ci-dessus mentionnés dans les enregistrements comptables (cf. supra
+point 95) sont une source potentielle d’erreurs dans les informations communiquées au SGACPR,
+l’établissement A soutient, sans être contredit par la poursuite, que les corrections d’écarts auxquels elle procède
+sont toujours antérieurs à l’envoi de documents au SGACPR.
+Autorité de contrôle prudentiel et de résolution 19
+
+===== Page 20 =====
+Décision de la Commission des sanctions – procédure no 2019-07
+105. En troisième lieu, l’établissement A conteste les dévalorisations de plusieurs postes de son bilan
+auxquels la mission de contrôle a procédé et qui ont conduit celle-ci à retenir un niveau de fonds propres, au 30
+juin 2018, de - 113 000 euros. Il indique que ses comptes ont été audités et validés par ses commissaires aux
+comptes et ont de plus été établis conformément aux règles qui s’appliquent aux sociétés cotées […]. La
+Commission ne dispose pas d’éléments permettant d’apprécier les mérites respectifs des valorisations
+contradictoires retenues par l’établissement A et par la mission de contrôle.
+106. En quatrième lieu, s’il reconnaît certaines inexactitudes dans ses états réglementaires de juin 2018, qu’il
+attribue à des délais contraints pour les établir, l’établissement A indique que le SGACPR lui avait en tout état
+de cause indiqué que des chiffres provisoires pouvaient être transmis, puis, le cas échéant, corrigés. En raison
+du doute sur les circonstances dans lesquelles ces données inexactes ont été communiquées à l’ACPR, ce dernier
+reproche ne peut, lui aussi, qu’être écarté.
+107. Le grief 20 est donc écarté.
+3°) La protection des fonds de la clientèle
+108. En vertu de l’article L. 522-17 du CMF et de l’article 33 bis de l’arrêté du 29 octobre 2009 portant sur
+la réglementation prudentielle des établissements de paiement, tous les fonds reçus pour l’exécution d’opérations
+de paiement sont protégés soit par leur dépôt sur un compte spécifique soit par leur couverture par un contrat
+d’assurance ou une autre garantie comparable, dont l’objet est d’assurer ou de garantir les utilisateurs des
+services de paiement contre la défaillance de l’établissement de paiement dans l’exécution de ses obligations
+financières.
+109. Selon le grief 21, fondé sur ces dispositions, afin de protéger les fonds reçus de ses clients,
+l’établissement A a souscrit un acte de cautionnement solidaire d’un montant de 1,2 million d’euros auprès de
+l’entreprise d’assurance T.
+Or, cet acte comporte, selon la poursuite, des clauses d’exclusion en cas d’absence de communication
+d’informations comptables ou d’erreurs comptables ou de mauvaise exécution d’une obligation résultant de
+l’activité de l’établissement A, qui ne permettent pas d’assurer ou de garantir les utilisateurs des services de
+paiement contre la défaillance de l’établissement A dans l’exécution de ses obligations financières. En
+particulier, seules les sommes détenues par l’établissement A en faveur de ses clients situés en France seraient
+couvertes, alors qu’elles ne représentent que 25 % des flux [X]- hors [Y] - soit 31 000 euros sur 122 000 euros
+à la date du 17 octobre 2018 et 13 % des sommes acquises sur [Z], soit 58 500 euros sur 424 000 euros à la date
+du 14 décembre 2018.
+Par ailleurs, du fait des écarts structurels dus au partage de la gestion comptable entre les logiciels de gestion
+[X] et [Z] et le logiciel [de comptabilité générale], certains postes comptables ne sont pas pris en compte, selon
+la poursuite, dans le calcul des sommes à couvrir. En particulier, l’établissement A n’y intègre pas le montant
+correspondant aux virements de retraits bloqués, qui était de 207 000 euros au 30 juin 2018 et 8 000 euros ont
+également été omis au titre des autres soldes de comptes de paiement (46710003 et 46710019). En outre,
+l’établissement A dépose sur des comptes de paiement spécifiques, dénommés « restitutions opérateurs », les
+sommes des comptes [X] bloquées à la suite de signalements d’opérateurs de télécommunication en raison de
+suspicions de fraude du vendeur de codes [X] ou à la suite de réclamations d’acheteurs de codes. En l’absence
+de réclamation des opérateurs de télécommunication, ces fonds ne leur sont pas restitués. L’établissement A
+applique à ces fonds une prescription commerciale de cinq ans à l’issue de laquelle il les transfère dans ses
+comptes de produit. Pourtant, ces fonds restent susceptibles d’être réclamés par ces vendeurs de codes [X] ou
+par les opérateurs de télécommunication en vue de leur restitution aux acheteurs de codes [X]. Le montant
+cumulé de ces fonds identifiés dans les livres de l’établissement A au 30 juin 2018 s’élève à 254 000 euros pour
+la période 2013 - 2015.
+Enfin, l’établissement A ne dispose pas, selon la poursuite, d’une « historisation » quotidienne des soldes des
+comptes des clients [du service de paiement] [Z ], qui sont pourtant en forte augmentation depuis mi-octobre
+2018, ce qui ne lui permet pas de vérifier si les pics journaliers sur ces comptes excèdent le montant de la garantie
+qu’il a souscrite.
+Autorité de contrôle prudentiel et de résolution 20
+
+===== Page 21 =====
+Décision de la Commission des sanctions – procédure no 2019-07
+110. En premier lieu, si les conditions générales du contrat de la société d’assurance T comportent une clause
+permettant de mettre fin au contrat avec effet immédiat « en cas d’erreur ou d’omission par le client dans ses
+déclarations ou communication d’informations et de fourniture de documents comptables à T.», au moment du
+contrôle, les fonds des clients étaient protégés conformément aux dispositions légales ci-dessus rappelées. De
+plus, l’établissement A soutient, sans être utilement contredit par la poursuite, que, dans sa seconde branche, le
+grief est fondé sur l’article 1er de l’acte de cautionnement du 15 octobre 2015, qui stipule que « le présent acte
+de cautionnement ne couvre pas les indemnisations dues par l’Établissement Garanti aux tiers qui pourraient
+subir un préjudice par le fait d’une mauvaise ou non-exécution d’une obligation liée à l’activité de ce dernier
+». Or, cette clause ne peut conduire à ce que les fonds des clients de l’établissement A, qui ne sont pas des tiers
+au sens de cette convention, ne soient pas protégés. Cette branche du grief doit donc être écartée.
+111. En deuxième lieu, au vu des explications fournies par l’établissement A, la poursuite a décidé
+d’abandonner la branche du grief relative à l’exclusion de la clientèle étrangère de la protection prévue par ce
+contrat, qui est en conséquence écartée.
+112. En troisième lieu, l’établissement A a reconnu qu’en raison du décalage entre les logiciels de gestion et
+[le logiciel de comptabilité générale], certains fonds, soit 215 000 euros au 30 juin 2018, correspondant aux
+retraits bloqués, présents en comptabilité technique [du service de paiement] [X], n’étaient pas pris en compte
+dans le calcul d’un éventuel dépassement. Il soutient cependant qu’ils n’étaient nullement exclus de la garantie.
+Dès lors que la poursuite ne démontre pas que leur réintégration aurait entraîné le dépassement de la garantie
+dont bénéficiait alors l’établissement A, cette branche du grief doit être écartée.
+113. En quatrième lieu, l’établissement A indique, au sujet de la dernière branche du grief, qu’elle concerne
+des sommes qui ont été bloquées à la suite de signalements d’opérateurs de télécommunication en raison de
+suspicions de fraude du vendeur du code [du service de paiement] [X] ou à la suite de réclamations d’acheteurs
+de codes en 2014 et en 2015. Si l’établissement A estime qu’elles n’ont pas à être prises en considération dans
+le calcul de la garantie, les opérations étant antérieures à l’agrément de l’établissement A, les sommes
+correspondantes doivent être regardées au moins en partie comme des fonds de clients, la Commission n’ayant
+pas à apprécier le cadre dans lequel ces services de paiement ont été fournis avant l’agrément de
+l’établissement A. Leur réintégration ayant entraîné, à certaines périodes, des dépassements du montant de la
+garantie des fonds des clients, ce que l’établissement A ne conteste pas, cette branche du grief est fondée.
+114. Enfin, s’agissant de l’absence d’historisation quotidienne des soldes [du service de paiement] [Z] , si la
+poursuite estime qu’elle est établie au moment du contrôle, cette affirmation ne peut être regardée, compte tenu
+des éléments produits par l’établissement A, comme suffisamment établie. En conséquence, cette branche du
+grief est écartée.
+115. Le grief 21 n’est donc fondé que dans un périmètre très fortement réduit ainsi qu’il a été dit.
+*
+* *
+116. Il résulte de tout ce qui précède que, pendant la période couverte par le contrôle, le dispositif de gel des
+avoirs de l’établissement A était très lacunaire. De plus, les procédures de l’établissement A étaient incomplètes
+et l’établissement A ne respectait pas totalement ses obligations en matière de vérification de l’identité et de
+connaissance de ses clients ainsi que de suivi de la relation d’affaires, notamment pour les activités [Y] et [Z].
+Plusieurs manquements à ses obligations déclaratives ont en outre été relevés. Par ailleurs, le dispositif de
+contrôle interne de l’établissement A était encore embryonnaire.
+117. Il convient toutefois, pour déterminer la sanction applicable dans le respect du principe de
+proportionnalité, de tenir compte de plusieurs considérations. Sans incidence sur la caractérisation des
+manquements, elles peuvent conduire à retenir certaines circonstances atténuantes.
+Autorité de contrôle prudentiel et de résolution 21
+
+===== Page 22 =====
+Décision de la Commission des sanctions – procédure no 2019-07
+118. En premier lieu, pour certains des manquements retenus en matière de LCB-FT, il y a lieu de prendre
+en compte, dans une certaine mesure, les éléments d’incertitude dont l’établissement A, qui n’était agréée en
+qualité d’établissement de paiement que depuis trois ans au moment du contrôle, se prévaut, en soutenant
+notamment que certaines de ses pratiques lui semblaient ne faire l’objet d’aucune objection de la part du
+superviseur depuis son agrément. Il y a lieu, par ailleurs, de tenir compte de ce qui a été dit au point 3 de la
+présente décision.
+119. En deuxième lieu, l’établissement A a engagé, depuis le contrôle, des actions de remédiation énergiques,
+dont il souligne le coût significatif au regard de ses ressources.
+120. En troisième lieu, l’établissement A est une entreprise de très petite taille, dont la situation financière
+reste fragile et qui se développe dans un contexte de vive concurrence, notamment avec des opérateurs dont il
+soutient que, même depuis l’avis de l’Autorité bancaire européenne (ABE) du 6 septembre 2019 les excluant du
+bénéfice du dispositif d’exemption prévu, en matière de communications électroniques, par l’article 3 de la
+directive 2015/2366/EU du Parlement européen et du Conseil du 25 novembre 2015 concernant les services de
+paiement dans le marché intérieur (dite « DSP2 »), ils ne sont pas agréés en qualité d’établissement de paiement
+et n’ont pas choisi le statut d’agent de prestataire de services de paiement, échappant par suite aux obligations
+applicables à de tels établissements.
+121. Les manquements retenus par la Commission justifient, en raison de leur nature et de leur durée, le
+prononcé, en application de l’article L 612-39 du CMF, d’un blâme. Pour les mêmes raisons et au vu des
+éléments d’atténuation mentionnés ci-dessus (points 118 à 120), il y a lieu de prononcer une sanction pécuniaire
+de 20 000 euros.
+122. L’établissement A, qui soutient que la publication de la présente décision sous forme nominative lui
+causerait un préjudice disproportionné en raison de l’avantage que pourront en tirer certains de ses concurrents,
+demande qu’elle soit publiée sous une forme anonyme. Toutefois, en l’absence d’éléments de nature à établir
+qu’une publication sous forme nominative lui causerait un préjudice disproportionné et qu’elle méconnaîtrait,
+en l’espèce, l’équilibre entre l’exigence d’intérêt général à laquelle il répond et les intérêts de la société, il y a
+lieu de publier la présente décision au registre de l’ACPR sous forme nominative, pendant une durée de trois
+ans. Elle y sera ensuite maintenue sous une forme non nominative.
+*
+* *
+PAR CES MOTIFS
+DÉCIDE :
+ARTICLE 1ER – Il est prononcé à l’encontre de l’établissement A un blâme et une sanction pécuniaire de
+20 000 euros (vingt mille euros).
+ARTICLE 2 – La présente décision sera publiée au registre de l’ACPR pendant trois ans sous une forme
+nominative, puis sous une forme anonyme et pourra être consultée au secrétariat de la Commission.
+Le Président de la Commission
+des sanctions
+[Alain Ménéménis]
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification et dans
+les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 22

@@ -1,0 +1,434 @@
+===== Page 1 =====
+SOCIÉTÉ A
+Procédure no 2019-08
+–––––
+Avertissement
+–––––
+Audience du 21 décembre 2020
+Décision rendue le 27 janvier 2021
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 9 décembre 2019 par laquelle le Vice-président de l’Autorité de contrôle prudentiel et de
+résolution (ci-après l’« ACPR ») informe la Commission de ce que le Collège de supervision de l’ACPR (ci-
+après le « Collège »), statuant en sa formation sectorielle « banque », a décidé d’ouvrir une procédure
+disciplinaire à l’encontre de la société A, enregistrée en qualité d’intermédiaire en financement participatif
+(IFP) sous le n° (…) ;
+Vu la notification des griefs du 9 décembre 2019 et ses annexes ;
+Vu les mémoires en défense des 21 février 2020, 11 mai 2020 et 9 juillet 2020, par lesquels la société A
+soutient à titre principal i) qu’elle n’était pas assujettie aux obligations de lutte contre le blanchiment et le
+financement du terrorisme (ci-après « LCB-FT ») dans la mesure où elle n’a jamais exercé une activité
+d’intermédiaire en financement participatif et ii) demande que l’audience ne soit pas publique, que la décision
+à intervenir ne soit pas publiée et, si elle devait l’être, le soit sous une forme anonyme ;
+Vu les mémoires en réplique des 23 avril 2020 et 11 juin 2020, ainsi que les documents complémentaires
+versés le 10 mars 2020, par lesquels le Collège, représenté par M. Henri Toutée, estime i) que la société A
+exerce une activité d’IFP, ii) qu’à l’exception du grief relatif au contrôle interne, tous les griefs sont fondés et
+font ressortir de graves carences et iii) que la société ne démontre pas que la publication de la décision sous
+une forme nominative lui causerait un préjudice disproportionnée ou de nature à perturber gravement les
+marchés financiers ;
+Vu le rapport du 8 octobre 2020 de M. Thierry Philipponnat, rapporteur, dans lequel celui-ci conclut que la
+société A était, au moment du contrôle, assujetti aux obligations de LCB-FT en qualité d’IFP et que neuf des
+dix griefs sont établis ;
+Vu le mémoire en réponse au rapport du rapporteur, par lequel la société A conteste à nouveau sa qualité
+d’IFP ;
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2019-08
+Vu les courriers du 9 octobre 2020 convoquant à l’audience les parties ainsi que la direction générale du
+Trésor et les informant de la composition de la Commission ;
+Vu les autres pièces du dossier, notamment le rapport de contrôle du 17 juin 2019 ;
+Vu le code monétaire et financier (ci-après le « CMF »), notamment ses articles L. 548-1, L. 548-2, L. 561-
+2, L. 561-4-1, L. 561-32, L. 561-5, L. 561-5-1, L. 561-12, L. 561-32, L. 561-34, L. 561-10-2, L. 561-15, L. et
+R. 561-5, R. 561-5-1, R. 561-12 dans leur rédaction applicable au moment du contrôle ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACPR, composée de M. Alain Ménéménis, Président, Mme Claudie
+Boiteau, M. Philippe Braghini, Mme Gaëlle Dumortier et Mme Edith Sudre ;
+Après avoir entendu, lors de sa séance non publique du 21 décembre 2020 :
+- M. Philipponnat, assisté de Mme Emilie Bailly, son adjointe ;
+- le représentant de la directrice générale du Trésor, qui a indiqué n’avoir pas d’observations à formuler ;
+- le directeur des affaires juridiques du Secrétariat général de l’ACPR, représentant M. Henri Toutée,
+désigné par la formation du Collège de supervision qui a décidé de l’ouverture de la présente procédure,
+assisté de l’adjoint à la cheffe du droit de la lutte anti-blanchiment et du contrôle interne, ainsi que
+d’une juriste au sein du service des affaires institutionnelles et du droit public ; le directeur des affaires
+juridiques du Secrétariat général de l’ACPR a proposé à la Commission de prononcer un blâme et une
+sanction pécuniaire de 100 000 euros dans une décision publiée sous une forme nominative ;
+- la société A, représentée par son président, et assistée par Me Pierre Storrer, avocat à la Cour (cabinet
+Kramer Levin Naftalis & Frankel LLP) ;
+Après avoir délibéré en la seule présence de M. Ménéménis, Président, Mme Boiteau, M. Braghini,
+Mme Dumortier et Mme Sudre, ainsi que de M. Jean-Manuel Clemmer, chef du service de la Commission des
+sanctions faisant fonction de secrétaire de séance ;
+1. La société A est une société par actions simplifiée unipersonnelle (SASU) créée le 1er février 2016 par
+M. Z. Immatriculée le 23 mars 2018 à l’Organisme pour le Registre des Intermédiaires en Assurances (ci-après
+« Orias ») en qualité d’IFP, elle a été radiée à sa demande du registre de cet organisme le 6 mars 2020.
+2. Au cours des exercices 2016 à 2018, la société a, selon les informations mentionnées dans ses rapports
+d’activité, géré plus de 20 000 cagnottes, pour un montant total de fonds collectés d’environ 11 millions
+d’euros. Son chiffre d’affaires provient exclusivement des « pourboires » versés par les donateurs, à leur
+discrétion. Le montant cumulé des « pourboires » laissés par les donateurs et, donc, du chiffre d’affaires de la
+société est passé d’un peu plus de 100 000 euros à environ 160 000 euros de 2016 à 2017. En 2019, la société
+a réalisé un chiffre d’affaires de 654 000 euros.
+3. La société A a fait l’objet, du 15 janvier au 1er mars 2019, d’un contrôle sur place, portant sur son
+dispositif de lutte contre le blanchiment et le financement du terrorisme (LCB-FT), qui a donné lieu à un
+rapport de contrôle du 17 juin 2019. Au vu de ce rapport, le Collège de l’ACPR, statuant en sous-collège
+sectoriel « banque », a décidé, lors de sa séance du 14 novembre 2019, d’ouvrir la présente procédure
+disciplinaire.
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2019-08
+I – Sur la qualité d’intermédiaire en financement participatif de
+la société A pendant la période soumise à contrôle
+4. L’article L. 548-1 du code monétaire et financier (CMF) définit l’intermédiation en financement
+participatif comme consistant, sous certaines conditions, « à mettre en relation, au moyen d’un site internet,
+les porteurs d’un projet déterminé et les personnes finançant ce projet ». Un « projet » est défini, dans la
+version de cet article issue de l’ordonnance n° 2019-486 du 22 mai 2019, comme « une opération prédéfinie
+ou (…) un ensemble d’opérations prédéfini en termes d’objet, de montant, de calendrier, de projection
+financière et de résultat attendu ». Cette notion était, dans la version précédente du même article issue de
+l’ordonnance n° 2014-559 du 30 mai 2014, ainsi définie : « un projet consiste en un achat ou un ensemble
+d’achats de biens ou de prestations de service concourant à la réalisation d’une opération prédéfinie en termes
+d’objet, de montant et de calendrier ».
+En vertu de l’article L. 548-2 du code, « sont intermédiaires en financement participatif les personnes qui
+exercent, à titre habituel, l’intermédiation au sens de l’article L 548-1 (…) ». Dans sa version issue de
+l’ordonnance n° 2016-1635 du 1er décembre 2016 qui a transposé la directive (UE) 2015/849 du Parlement
+européen et du Conseil du 20 mai 2015 relative à la prévention de l’utilisation du système financier aux fins
+du blanchiment de capitaux ou du financement du terrorisme (« quatrième directive anti-blanchiment »), « les
+personnes qui exercent, à titre habituel, l’intermédiation au sens de l’article L. 548-1 et qui ne proposent que
+des opérations de dons sont également intermédiaires en financement participatif ».
+La même ordonnance du 1er décembre 2016 a modifié l’article L. 561-2 du CMF pour soumettre les IFP
+aux obligations de vigilance et de déclaration en matière de LCB-FT.
+Les organismes ayant la qualité d’IFP doivent enfin, depuis le 1er octobre 2014, en application de l’article
+L. 548-3 du CMF, être immatriculés au registre unique de l’Orias.
+5. La société A soutient qu’elle exerce une activité de plateforme de dons en ligne mais ne participe pas
+au financement de « projets » au sens de l’article L. 548-1 du CMF, dans ses rédactions ci-dessus rappelées.
+Elle souligne que son activité principale est de « collecter des fonds pour toutes les occasions via un service
+de pot commun en ligne afin de soutenir une cause, financer un évènement ou autre ». Elle renvoie également
+sur ce point à la description de ses activités dans son KBis et dans ses conditions générales d’utilisation (ci-
+après les « CGU »).
+Les fonds collectés par son intermédiaire servent, par exemple, selon elle, à financer un « pot de départ »
+ou à soutenir une cause solidaire ou humanitaire. Elle indique que ses cagnottes en ligne ne comportent ni
+calendrier obligatoire, ni projection financière, ni montant prédéfini. En conséquence, les sommes collectées
+sont remises à l’organisateur même si l’objectif indiqué n’est pas atteint.
+Estimant ne pas exercer une activité d’IFP, elle soutient ne pas être soumise aux obligations en matière de
+LCB-FT.
+Elle précise qu’elle n’a été inscrite au registre de l’Orias en qualité d’IFP à partir du 23 mars 2018 qu’à la
+suite de la demande en ce sens de son prestataire de services de paiement du 6 mars 2018, qui aurait relayé des
+demandes de l’ACPR. Elle rappelle que, après un échange entre son dirigeant et le service juridique de l’Orias,
+elle a été radiée du registre de cet organisme le 6 mars 2020. Aucun contrôle n’aurait été effectué par l’Orias,
+ni lors de la demande d’inscription ni lors de la radiation de la société A. Dès lors, il ne pourrait être déduit de
+sa mention au registre de l’Orias que la société A exerçait, au moment du contrôle, une activité d’IFP.
+6. Il n’est pas contesté que la société A fait exclusivement appel à des dons.
+Pour un tel mode de financement, apprécier si l’activité de la société relève de l’intermédiation en
+financement participatif ou d’une simple activité de cagnotte peut être délicat.
+Il ressort du rapport de contrôle du 17 juin 2019 et de l’ensemble des mémoires et documents produits par
+la société A et par le Collège que des fonds sont collectés par l’intermédiaire de la plateforme électronique de
+la société A pour financer des évènements tels que des mariages, des anniversaires, des « pots de départ », pour
+contribuer à des projets éducatifs ou humanitaires ou encore pour soutenir différentes causes. Cette activité ne
+peut être regardée comme visant au financement de projets au sens de l’article L. 548-1 du CMF, dès lors
+notamment que les porteurs des projets, auxquels les contributeurs sont seulement appelés à contribuer, peuvent
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2019-08
+moduler leur mise en œuvre a posteriori en fonction de l’importance des dons obtenus ; elle ne peut donc
+s’analyser comme une activité d’intermédiation en financement participatif, distincte d’une simple activité de
+cagnotte en ligne.
+Toutefois, il apparaît aussi que, pendant la période soumise à contrôle, il y avait lieu de regarder un certain
+nombre d’opérations financées par l’intermédiaire de la société A, pour des montants parfois élevés et par des
+appels largement ouverts, comme présentant les caractéristiques d’un financement participatif de projets au
+sens des dispositions ci-dessus rappelées. On peut citer notamment des opérations appelant les participants à
+assurer le financement de la construction d’immeubles, de la création d’entreprises ou encore de certains
+projets, en France ou à l’étranger, et à prendre ainsi en charge leur coût, préalablement estimé. À titre
+d’exemples, appartiennent à cette catégorie les opérations dénommées [O1], [O2] ou encore [O3].
+Contrairement à ce que soutient la société, ces activités, qui s’analysent comme des activités
+d’intermédiation en financement participatif, ne sont pas incompatibles avec la description des activités de la
+société qui figure dans ses CGU, lesquelles sont d’ailleurs rédigées en termes imprécis.
+En outre, par un courrier adressé le 10 juin 2020 à l’ACPR, Tracfin a indiqué que les informations à sa
+disposition tendaient à démontrer que, pendant la période soumise à contrôle, la société A proposait
+régulièrement le financement de projets au sens des dispositions citées au point 4.
+Il résulte de l’ensemble de ces éléments que la société A doit être regardée comme ayant, pendant la période
+soumise à contrôle, exercé à titre habituel une activité d’intermédiation en financement participatif. En vertu
+de l’article L. 548-2 du CMF, elle devait donc être regardée, pendant cette période, comme un IFP, soumis au
+contrôle de l’Autorité de contrôle prudentiel et de résolution en vertu du 4° du II de l’article L. 6122 du CMF
+et aux obligations en matière de LCB-FT.
+Au demeurant, ainsi qu’il a été dit, la société a elle-même demandé son immatriculation au registre de
+l’Orias en 2018 pour cette période.
+Il est vrai que, comme elle le relève, la société A a été radiée, le 6 mars 2020, du registre de l’Orias, à sa
+demande. Il n’appartient pas à la Commission des sanctions de dire si la société A a cessé d’exercer, à titre
+habituel, l’intermédiation au sens de l’article L. 548-1 du CMF. En tout état de cause, en admettant même
+qu’elle ait effectivement cessé, une telle circonstance est sans incidence sur la qualification de la société A
+pendant la période soumise à contrôle.
+II – Sur le dispositif de lutte contre le blanchiment des capitaux
+et le financement du terrorisme
+A. Sur la classification des risques
+7. En vertu du deuxième alinéa de l’article L. 561-4-1 du CMF, les entreprises assujetties se dotent d’une
+classification des risques de BC-FT présentés par leurs activités, selon le degré d’exposition à ces risques,
+apprécié en fonction notamment de la nature des produits ou services offerts, des conditions des transactions
+proposées, des canaux de distribution utilisés, des caractéristiques des clients, ainsi que du pays ou du territoire
+d’origine ou de destination des fonds.
+8. Selon le grief 1, fondé sur ces dispositions, la classification des risques de la société A était lacunaire.
+Tout d’abord, elle ne tenait pas assez compte de la nature des projets financés, notamment du fait que les
+projets humanitaires, médicaux, éducatifs et cultuels ou les projets qui concernent des personnes incarcérées
+ou encourant une peine d’emprisonnement présentent des risques accrus nécessitant une vigilance particulière,
+Tracfin soulignant, depuis 2014, les risques de détournement associés à ce type de projets.
+Par ailleurs, les caractéristiques des porteurs de projet et des participants étaient insuffisamment prises en
+considération, notamment pour les associations, qui présentent un risque particulier, en particulier lorsqu’elles
+sont de création récente, ou pour les participants effectuant des dons pour des projets dont ils sont eux-mêmes
+porteurs.
+Enfin, cette classification des risques ne tenait pas suffisamment compte de l’origine et de la destination des
+fonds, ce qui se traduisait i) par une absence d’informations sur le pays ou le territoire d’origine des fonds
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2019-08
+versés par les participants au projet et, ii) alors que la procédure de contrôle permanent de LCB-FT de la société
+A mentionne qu’elle « ne travaille pas dans les pays sous embargo, sensibles ou en guerre tels que Cuba, Iran,
+Syrie, Corée du Nord, région de Crimée, Somalie, Irak, etc. », mais sans fournir une liste exhaustive de ces
+pays, par le fait que certains projets visaient au financement d’opérations à destination de pays qui figurent sur
+la liste du GAFI, dont le Yemen et la Tunisie et sur la liste de la Commission européenne des pays tiers à haut
+risque présentant des carences stratégiques en matière de LCB-FT.
+9. Il apparaît que des projets financés par l’intermédiaire de la plateforme de la société A relevaient des
+catégories de projets présentant des risques particuliers mentionnées par la poursuite, lesquelles auraient dû
+être prises en compte dans la classification des risques, y compris lorsqu’elles représentent une faible part des
+fonds collectés.
+La diversité des projets financés, que souligne l’établissement, ne peut être regardée comme un obstacle à
+un classement par catégories, démarche préalable à une évaluation des risques propres à chacune.
+Par ailleurs, en ce qui concerne la destination des fonds, la Commission a déjà rappelé que les risques
+devaient être appréciés « en fonction du lieu de résidence du bénéficiaire des fonds transférés, dès lors que
+certains pays de destination des fonds étaient porteurs d’un risque particulier » (décision Dirham Express
+Limited France du 8 novembre 2017, considérant 8).
+B. Sur les procédures internes
+10. En vertu du I de l’article L. 561-32 du CMF, les entreprises assujetties sont tenues de mettre « en place
+une organisation et des procédures internes pour lutter contre le blanchiment des capitaux et le financement
+du terrorisme, tenant compte de l’évaluation des risques prévue à l’article L. 561-4-1. En tenant compte du
+volume et de la nature de leur activité ainsi que des risques présentés par les relations d’affaires qu’elles
+établissent, elles déterminent un profil de la relation d’affaires permettant d’exercer la vigilance constante
+prévue à l’article L. 561-6 ».
+11. Selon le grief 2, fondé sur ces dispositions, les procédures de la société A intitulées « Procédures de
+contrôle permanent et de lutte contre le blanchiment et le financement du terrorisme » et « Procédures
+d’examen renforcé » étaient très incomplètes, en ce qu’elles ne comportaient aucun élément relatif i) à la
+détection des personnes politiquement exposées (ci-après « PPE »), ii) à la mise en œuvre des mesures de
+vigilance complémentaires en raison d’une entrée en relation d’affaires à distance ou de la détection de PPE,
+iii) à la mise à jour des éléments de connaissance de la relation d’affaires, iv) à la consignation par écrit et aux
+modalités de conservation des résultats des examens renforcés et v) aux modalités de réalisation des
+déclarations de soupçon (ci-après « DS »).
+12. La société A souligne que ses procédures doivent tenir compte du volume et de la nature de ses
+activités, mais n’apporte pas d’élément de réponse aux reproches formulés par la poursuite.
+C. Sur l’identification et la vérification d’identité des clients et, le cas échéant, des
+bénéficiaires effectifs
+13. L’article L. 561-5 du CMF impose aux personnes assujetties d’identifier leurs clients et, le cas échéant,
+les bénéficiaires effectifs et de vérifier leur identité. Avant le 1er octobre 2018, les modalités de mise en œuvre
+de cette obligation étaient définies à l’article R. 561-5 du CMF ; depuis cette date, elles figurent aux articles
+R. 561-5 et R. 561-5-1 du CMF.
+14. Selon le grief 3, fondé sur ces dispositions, la vérification de l’identité des porteurs de projet, personnes
+physiques, comme celle des personnes agissant pour le compte d’une association, était insuffisante, alors même
+que Tracfin a souligné les risques élevés liés à l’utilisation de faux documents d’identité sur les plateformes de
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2019-08
+financement participatif. Ainsi, seule la copie du recto de la carte nationale d’identité (CNI) des porteurs de
+projet (dossiers 3.1 et 3.2) ou des personnes agissant pour leur compte (dossiers 3.3 et 3.4) était recueillie.
+Par ailleurs, la société A ne procédait pas systématiquement à l’identification et à la vérification d’identité
+des participants à un projet qui, en raison de la fréquence de leurs dons, doivent être regardées, pour elle,
+comme des relations d’affaires. Le grief mentionne ainsi 7 dossiers individuels au sujet desquels la poursuite
+reproche notamment un défaut de recueil des date et lieu de naissance (dossiers 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, et
+3.11).
+15. En ce qui concerne l’identification des porteurs de projet et la vérification de leur identité, la société
+A a produit le recto des pièces d’identité et démontre ainsi, contrairement à ce que soutient la poursuite, que
+les informations sur ce point étaient collectées.
+En ce qui concerne les participants aux projets financés, si les 7 personnes mentionnées par la poursuite
+(dossiers 3.5 à 3.11) n’ont pas fait l’objet, de façon systématique, d’une identification et d’une vérification
+d’identité, le faible nombre de dossiers individuels mentionnés par la poursuite ne saurait en tout état de cause
+caractériser un manquement général aux obligations d’identification et de vérification d’identité.
+D. Sur la connaissance de la relation d’affaires
+16. En vertu de l’article L. 561-5 du CMF, avant d’entrer en relation d’affaires, les entreprises assujetties
+« recueillent les informations relatives à l’objet et à la nature de cette relation et tout autre élément
+d’information pertinent ». Ces informations doivent être actualisées « pendant toute la durée de la relation
+d’affaires » ; aux termes de l’article R. 561-12 du même code, « la nature et l’étendue des informations
+collectées ainsi que la fréquence de la mise à jour de ces informations et l’étendue des analyses menées sont
+adaptées au risque de blanchiment de capitaux et de financement du terrorisme présenté par la relation
+d’affaires. Les personnes mentionnées à l’article L. 561-2 sont en mesure de justifier auprès des autorités de
+contrôle de la mise en œuvre de ces mesures et de leur adéquation au risque de blanchiment de capitaux et de
+financement du terrorisme présenté par la relation d’affaires ».
+17. Selon le grief 4, fondé sur ces dispositions, i) la société A avait une connaissance limitée de l’objet de
+ses relations d’affaires, ce qui ne lui permettait pas de s’assurer de la réalité des projets. Cette carence est
+illustrée par deux exemples (projet de l’association de protection animale B et collecte [O4] de l’association
+C. Dans plusieurs cas, l’analyse des documents justificatifs recueillis ne permettait pas de s’assurer de la réalité
+des projets financés (projets [O5], [O6] et [O7]). Par ailleurs, ii) la société A avait une connaissance insuffisante
+des personnes avec lesquelles elle doit être regardée comme étant en relation d’affaires. Ainsi, elle ne disposait
+pas d’informations suffisantes sur la situation professionnelle et financière des participants qui procèdent
+fréquemment à des dons (dossier 3.5) ni sur l’origine des fonds versés. Les éléments recueillis sur la situation
+financière des porteurs de projet étaient eux aussi insuffisants, ce qu’illustrent 4 dossiers [dossiers association
+B, association C, association D et association E].
+18. La société A ne conteste pas le reproche général formulé sur ces points.
+E. Sur la conservation des informations
+19. En vertu de l’article L. 561-12 du CMF, les organismes assujettis « conservent pendant cinq ans à
+compter de la clôture de leurs comptes ou de la cessation de leurs relations avec eux les documents et
+informations, quel qu’en soit le support, relatifs à l’identité de leurs clients habituels ou occasionnels. [Ils]
+conservent également, dans la limite de leurs attributions, pendant cinq ans à compter de leur exécution, quel
+qu’en soit le support, les documents et informations relatifs aux opérations faites par ceux-ci, ainsi que les
+documents consignant les caractéristiques des opérations mentionnées à l’article L. 561-10-2 ».
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2019-08
+20. Selon le grief 5, fondé sur ces dispositions, la conservation par la société A des données relatives aux
+opérations financées par son intermédiaire était lacunaire. En particulier, en raison d’une défaillance technique,
+plusieurs projets réalisés en 2017 ont été effacés de sa base de données. La société A n’était donc pas en mesure
+de retracer l’origine et la destination des contributions.
+21. Le fait reproché, qui fait suite à une défaillance technique ponctuelle, n’est pas contesté par la
+société A.
+F. Sur la surveillance des opérations
+22. En vertu de l’article L. 561-32 du CMF, les entreprises assujetties doivent mettre « en place une
+organisation et des procédures internes pour lutter contre le blanchiment des capitaux et le financement du
+terrorisme, tenant compte de l’évaluation des risques prévue à l’article L. 561-4-1. En tenant compte du
+volume et de la nature de leur activité ainsi que des risques présentés par les relations d’affaires qu’elles
+établissent, elles déterminent un profil de la relation d’affaires permettant d’exercer la vigilance constante
+prévue à l’article L. 561-6 ». Elles doivent également mettre en place un dispositif de gestion des risques
+permettant de détecter les PPE et les opérations à destination d’un pays figurant sur une des listes du GAFI ou
+de l’Union européenne ainsi que celles qui nécessitent un examen renforcé ou une déclaration de soupçon
+(DS).
+23. Selon le grief 6, fondé sur ces dispositions, le dispositif de surveillance de la société A, décrit dans ses
+procédures internes, ne lui permettait pas de détecter ni d’analyser toutes les opérations atypiques en matière
+de BC-FT, susceptibles de faire l’objet d’un examen renforcé ou d’une DS. Ainsi, ce dispositif, qui reposait
+sur des contrôles effectués lors de la participation à une collecte ou du virement des fonds et sur un système
+d’alerte fondé sur une liste de critères :
+- ne prévoyait pas de critère ou d’alerte permettant de détecter des opérations atypiques ou suspectes
+associées à un projet impliquant un pays présentant des risques plus élevés, notamment en matière de
+financement du terrorisme, alors même que Tracfin a mis en lumière le recours à des réseaux de collecteurs
+pour le recueil et l’envoi de fonds à destination de pays sensibles ;
+- prenait insuffisamment en compte les risques de BC-FT liés aux caractéristiques des participants,
+notamment dans le cas où ceux-ci effectuent des dons pour des projets auxquels ils sont liés [dossier Mme F] ;
+- prenait insuffisamment en compte les risques de BC-FT liés aux modalités de réalisation des
+opérations, notamment les risques liés aux versements fractionnés, qui n’étaient pas toujours détectés [dossier
+M. G] et retenait un seuil de vérification des opérations de 50 000 euros, inadapté au regard du montant moyen
+des opérations financées par l’intermédiaire de la société A ;
+- ne respectait pas les conditions de mise en œuvre d’un examen renforcé fixées par la réglementation,
+un « contrôle renforcé » n’étant effectué que lorsque plusieurs critères cumulatifs étaient réunis, ce qui est
+contraire aux dispositions de l’article L. 561-10-2 du CMF, et les diligences prévues ne respectant pas les
+dispositions de cet article qui imposent notamment de se renseigner sur l’origine des fonds.
+24. Il apparaît, tout d’abord, que, si le prestataire de services de paiement de la société A n’exécute de
+virements qu’au sein de l’Union européenne, certaines opérations servaient à financer des projets dans d’autres
+pays. Un critère de destination des fonds vers des pays présentant un risque particulier de LCB-FT aurait donc
+dû être pris en compte.
+Par ailleurs, la société A ne peut être regardée comme répondant au reproche d’une insuffisante prise en
+compte des caractéristiques des participants ou des modalités de réalisation des opérations dans l’appréciation
+des risques de LCB-FT.
+Enfin, la « Procédure d’examens renforcés » retenait notamment un seuil, élevé au regard du montant moyen
+collecté, de 50 000 euros de fonds collectés et ne prévoyait pas d’analyser le montant des dons au regard de la
+durée de la collecte ou du type de projet financé, alors que, dans son rapport « Tendances et analyse des risques
+de blanchiment de capitaux et de financement du terrorisme en 2015 », Tracfin attire l’attention sur les collectes
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2019-08
+« effectuée[s] très rapidement pour un montant total anormalement élevé par rapport au type de projet
+financé » (p. 65).
+G. Sur la formation
+25. L’article L. 561-34 du CMF impose aux IFP d’assurer « l’information régulière de leurs personnels »
+et de mettre en place « toute action de formation utile ».
+26. Selon le grief 7, fondé sur ces dispositions, au moment du contrôle, le dirigeant de la société A n’avait
+suivi aucune formation dans le domaine de la LCB-FT.
+27. La société A ne conteste pas la matérialité du grief.
+H. Sur le contrôle interne
+28. En vertu du II de l’article L. 561-32 du CMF, les entreprises assujetties au contrôle de l’ACPR mettent
+« en place des mesures de contrôle interne ».
+29. Selon le grief 8, la société A ne disposait pas d’un dispositif de contrôle interne efficace : d’une part,
+alors que ses procédures indiquent qu’elle ne « travaille pas avec des pays sous embargo, sensibles ou en
+guerre (…) », des projets concernant ces pays ont été financés par son intermédiaire ; d’autre part, alors que
+ses conditions générales d’utilisation prévoient qu’une « collecte n’est valide que si elle a fait l’objet de
+plusieurs participations de participants distincts », le projet [O8] de l’association B, qui ne comptait qu’un
+seul participant, n’a pas été invalidé.
+30. Si certaines des opérations financées par l’intermédiaire de la société A portaient sur des projets dans
+des pays « sous embargo, sensibles ou en guerre », susceptibles de présenter un risque élevé de BC-FT, aucun
+élément du dossier de procédure ne conduit à supposer que la société A « travaillait » avec de tels pays, le
+versement des fonds collectés par son intermédiaire étant, selon ses affirmations, non contredites par la
+poursuite, effectué par des virements internes à l’Union européenne. Quant à la carence reprochée au sujet du
+projet [O8] de l’association B, elle ne suffit en tout état de cause pas à porter une appréciation globale sur
+l’efficacité des mesures de contrôle interne prises par la société A.
+I. Sur les défauts d’examen renforcé
+31. Selon l’article L. 561-10-2 du CMF, les organismes assujettis au contrôle de l’ACPR effectuent « un
+examen renforcé de toute opération particulièrement complexe ou d’un montant inhabituellement élevé ou ne
+paraissant pas avoir de justification économique ou d’objet licite ». Dans l’une ou l’autre de cette hypothèse,
+ils doivent se renseigner « auprès du client sur l’origine des fonds et la destination de ces sommes ainsi que
+sur l’objet de l’opération et l’identité de la personne qui en bénéficie ».
+32. Selon le grief 9, fondé sur ces dispositions, la société A n’a pas réalisé d’examen renforcé dans 3
+dossiers (9.1 Association D, 9.2 M. H et 9.3 M. I).
+33. Dans le dossier 9.1 Association D, relatif au financement, en 2017, des repas de rupture du jeûne du
+Ramadan en Syrie, deux dons, d’un total de 1 500 euros, soit 20 % du total, ont été très supérieurs au montant
+moyen des dons alors reçus par la société A, soit 28 euros. Aucune information sur l’association bénéficiaire
+ni sur l’objet de la cagnotte n’avait été recueillie et aucun justificatif n’avait été produit sur la destination exacte
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2019-08
+des fonds qui devaient pourtant être envoyés dans un pays en guerre. Dans ces conditions, un examen renforcé
+aurait dû être effectué.
+34. Dans le dossier 9.2, M. H, le contributeur a versé plus de 27 000 euros pour 13 opérations entre juin
+2017 et novembre 2018, ces dons provenant d’un établissement bancaire situé aux Émirats arabes unis, pays
+figurant sur la liste de l’Union européenne des pays et territoires non coopératifs à des fins fiscales au moment
+des faits. En raison de leur montant et de leur provenance, ces dons auraient dû faire l’objet d’un examen
+renforcé, alors même que le bénéficiaire était une association française.
+35. Dans le dossier 9.3, M. I participant important à des projets organisés par l’association E, a réalisé
+23 dons pour un montant total supérieur à 5 500 euros. En raison du caractère inhabituellement élevé de ces
+versements, des informations sur l’origine des fonds collectés auraient dû être recueillies et un examen renforcé
+aurait dû être effectué.
+J. Sur les défauts de déclaration de soupçon
+36. En vertu du I de l’article L. 561-15 du CMF, les organismes assujettis doivent déclarer à Tracfin les
+sommes inscrites dans leurs livres ou les opérations portant sur des sommes dont ils savent, soupçonnent ou
+ont de bonnes raisons de soupçonner qu’elles proviennent d’une infraction passible d’une peine privative de
+liberté supérieure à un an ou sont liées au financement du terrorisme.
+37. Selon le grief 10, fondé sur ces dispositions, la société A aurait dû effectuer une DS dans 7 dossiers
+[10.1 Association B ; 10.2 Association C ; 10.3 Association E ; 10.4 Association J ; 10.5 Association K - projet
+[O5] ; 10.6 Association K - projet [O6] et 10.7 Mme L].
+38. Dans le dossier 10.1, une seule donatrice, au surplus trésorière de l’association bénéficiaire, a participé
+à la collecte de fonds. Le montant inhabituellement élevé des dons, soit plus de 23 000 euros, a été fractionné
+en 11 virements réalisés sur cinq jours. L’origine des fonds ne peut être établie par une attestation notariale
+d’un prêt immobilier et la relation entre une vente immobilière et les dons effectués n’est corroborée par aucune
+pièce.
+Dans les dossiers 10.2 à 10.6, la teneur exacte des projets financés par l’intermédiaire de la société A n’était
+pas suffisamment étayée. Certains de ces projets concernaient des pays présentant des risques élevés en matière
+de BC-FT, le Yemen (10.2, 10.4), la Turquie (10.3, 10.6), la Syrie, la Somalie, le Niger, le Bénin et la Géorgie
+(10.5). Pour plusieurs d’entre eux, aucun élément permettant de s’assurer de l’origine des dons n’a été collecté
+(dossiers 10.3, 10.5 et 10.6), alors même que les caractéristiques des contributions (fractionnement, pays
+d’origine des fonds) ne permettaient pas d’écarter le doute sur une possible origine frauduleuse. Les éléments
+de connaissance des organisateurs étaient en outre insuffisants et il existait, dans certains cas, une incertitude
+sur l’utilisation des fonds (10.2, 10.5 et 10.6). Enfin, dans le dossier 10.6, on constate une incohérence entre
+les montants moyens collectés et le montant des travaux de construction financés, les coûts annoncés étant de
+plus sensiblement inférieurs à ceux qu’on trouve sur des sites d’organisations non gouvernementales.
+Dans le dossier 10.7, l’utilisation des fonds collectés par l’organisatrice de la collecte, qui exerce une activité
+de medium, afin de percevoir une rémunération apparaissait dans leur intitulé (« consultations novembre »,
+consultations janvier », etc.). Le doute sur l’origine des sommes perçues, leur importance et leur mode de retrait
+fractionné auraient dû conduire à une DS.
+* *
+*
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2019-08
+39. Ce qui précède fait apparaître, pour la période soumise à contrôle, une classification des risques
+insatisfaisante, des procédures internes incomplètes, une surveillance des opérations et des dispositifs de
+contrôle interne insuffisants, une absence de formation appropriée du dirigeant et quelques carences en matière
+d’examen renforcé ou déclaration de soupçon.
+40. Il convient toutefois de tenir compte du fait que la société A, qui est une entreprise de très petite taille
+et de création récente, peut faire valoir, compte tenu notamment de ce qui a été dit au point 6, qu’elle pouvait
+avoir des difficultés pour déterminer ce qu’impliquaient exactement les obligations en matière de LCB-FT qui
+lui incombaient et leurs modalités de leur mise en œuvre, compte tenu de l’importance de son activité dans le
+domaine des simples cagnottes. Or, il y a lieu de relever qu’à l’appui de ses griefs, la poursuite cite, pour
+l’essentiel, des exemples de cagnottes dont il n’apparaît pas qu’elles relèvent d’une activité de financement
+participatif de projet au sens de l’article L. 548-1 du CMF.
+41. Dans ces conditions, il y a lieu de prononcer un avertissement à l’encontre de la société A. Une
+publication nominative de la présente décision n’est pas de nature à causer à la société A un préjudice
+disproportionné. Il y a donc lieu de la publier sous cette forme au registre de l’ACPR pendant 3 ans.
+*
+* *
+PAR CES MOTIFS
+DÉCIDE :
+ARTICLE 1ER – Il est prononcé à l’encontre de la société A un avertissement.
+ARTICLE 2 – La présente décision sera publiée au registre de l’ACPR pendant trois ans sous une forme
+nominative, puis sous une forme anonyme, et pourra être consultée au secrétariat de la Commission.
+Le Président de la Commission des
+sanctions
+[Alain Ménéménis]
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification et
+dans les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 10

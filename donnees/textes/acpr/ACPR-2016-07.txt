@@ -1,0 +1,541 @@
+===== Page 1 =====
+SOCIÉTÉ GÉNÉRALE
+Procédure no 2016-07
+–––––
+Blâme et sanction pécuniaire de
+5 millions d’euros
+–––––
+Audience du 5 juillet 2017
+Décision rendue le 19 juillet 2017
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 26 juillet 2016 par laquelle le Président de l’Autorité de contrôle prudentiel et de résolution
+(ci-après l’« ACPR ») informe la Commission de ce que le Collège de supervision de l’ACPR (ci-après le
+« Collège »), statuant en sa formation de Collège restreint, a décidé d’ouvrir une procédure disciplinaire à
+l’encontre de Société Générale (ci-après « SG ») – tour Société Générale, 75886 Paris Cedex 18 –,
+enregistrée sous le numéro 2016-07 ;
+Vu la notification des griefs du 26 juillet 2016 ;
+Vu les mémoires en défense des 25 octobre 2016, 10 mars et 28 avril 2017, ainsi que les pièces qui les
+accompagnent, et les observations en défense du 30 mai 2017 sur les derniers documents communiqués par
+la poursuite le 26 mai 2017, par lesquels SG (i) conteste tous les griefs notifiés à l’exception de celui relatif à
+la transmission d’informations erronées à l’ACPR et estime que, si la Commission devait les estimer établis,
+ils ne devraient pas être regardés comme présentant un quelconque caractère de gravité, et (ii) demande que
+la décision à intervenir soit publiée sous une forme non nominative et que la séance de la Commission se
+tienne à huis clos ;
+Vu les mémoires des 23 janvier, 13 avril et 11 mai 2017, par lesquels M. Patrick de Cambourg,
+représentant du Collège, maintient l’ensemble des griefs à l’exception du reproche formulé au sujet d’un
+dossier individuel mentionné au soutien du grief 4 ;
+Vu le rapport du 2 juin 2017 de M. Denis Prieur, rapporteur, dans lequel celui-ci conclut que tous les
+griefs notifiés sont établis mais qu’un grief doit être retenu dans un périmètre légèrement réduit ;
+Vu les courriers du 2 juin 2017 convoquant les parties à l’audience et les informant de la composition de
+la Commission et de ce qu’il sera fait droit à la demande présentée par SG tendant à ce que cette audience ne
+soit pas publique ;
+Vu les observations présentées le 19 juin 2016 par SG sur le rapport du rapporteur ;
+Vu les autres pièces du dossier, notamment le rapport de contrôle du 18 février 2016 et les documents
+versés par le représentant du Collège le 26 mai 2017 ;
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2016-07
+Vu le code monétaire et financier (ci-après le « CMF »), notamment ses articles L. 561-15, L. 561-16,
+L. 612-39 et R. 561-38, dans leur rédaction en vigueur au moment des faits ;
+Vu l’arrêté du 3 novembre 2014 relatif au contrôle interne des entreprises du secteur de la banque, des
+services de paiement et des services d’investissement soumises au contrôle de l’Autorité de contrôle
+prudentiel et de résolution (ci-après l’« arrêté du 3 novembre 2014 »), notamment ses articles 46, 71 et 72 ;
+Vu l’instruction no 2012-I-04 du 28 juin 2012 modifiée par l’instruction no 2014-I-04 du 10 février 2014
+et par l’instruction no 2014-I-06 du 2 juin 2014 relative aux informations sur le dispositif de prévention du
+blanchiment des capitaux et de financement du terrorisme (ci-après l’« instruction no 2012-I-04 ») ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACPR, composée de M. Rémi Bouchez, Président, de M. Yves
+Breillat, de M. Francis Crédot, de Mme Christine Meyer-Meuret et de M. Thierry Philipponnat ;
+Après avoir entendu, lors de sa séance non publique du 5 juillet 2017 :
+ M. Prieur, rapporteur, assisté de Mme Lauriane Bonnet, son adjointe ;
+ M. Rodolphe Lelté, représentant de la directrice générale du Trésor, qui a indiqué ne pas avoir
+d’observations à formuler ;
+ M. de Cambourg, représentant du Collège de l’ACPR, assisté de la directrice de la première direction du
+contrôle des banques, de la cheffe du service 1 de cette direction, de l’adjointe au directeur des affaires
+juridiques de l’ACPR, de l’adjointe au chef du service des affaires institutionnelles et du droit public,
+d’une juriste au sein de ce service et d’une juriste au service du droit de la lutte anti-blanchiment et du
+contrôle interne ; M. de Cambourg a proposé le prononcé d’un blâme assorti d’une sanction pécuniaire de
+15 millions d’euros, dans une décision publiée sous une forme nominative ;
+ SG, représentée par le secrétaire général et responsable de la conformité du groupe, le directeur délégué
+de la conformité du groupe, la responsable de la sécurité financière du groupe, le responsable de la lutte
+contre le blanchiment des capitaux et le financement du terrorisme et une juriste à la direction des affaires
+juridiques, ainsi que par Mes Martine Samuelian et Virginia Barat (cabinet d’avocats Jeantet), avocats à la
+Cour ;
+Les représentants de SG ayant eu la parole en dernier ;
+Après avoir délibéré en la seule présence de M. Bouchez, Président, de M. Breillat, de M. Crédot, de
+Mme Meyer-Meuret et de M. Philipponnat ainsi que de M. Jean-Manuel Clemmer, chef du service de la
+Commission des sanctions faisant fonction de secrétaire de séance ;
+1. Considérant que SG est une société anonyme à conseil d’administration agréée en qualité
+d’établissement de crédit ; que le groupe SG employait, en 2016, 145 700 collaborateurs dans 67 pays et a
+plus de 31 millions de clients, particuliers, grandes entreprises et investisseurs institutionnels ; que, la même
+année, SG a réalisé un produit net bancaire de près de 25,3 milliards d’euros, pour un résultat net d’environ
+3,9 milliards d’euros ; que le résultat net de l’activité de banque de détail en France (ci-après « BDDF »)
+s’est élevé à 1,49 milliard d’euros pour un produit net bancaire de 8,4 milliards d’euros ;
+2. Considérant qu’au moment du contrôle, la direction de la conformité de SG, rattachée à son secrétariat
+général, comportait 3 « piliers transversaux » : « Sécurité Financière du Groupe » (ci-après « SFG »),
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2016-07
+« Gouvernance, Expertise et Animation (CFT/GEA) » et « Pilotage des outils et contrôles de conformité
+(CFT/PIL) » ; que depuis 2011, la fonction de déclarant unique à Tracfin est exercée par le département
+SFG ; qu’au sein de ce département, le service SFG/AML centralise les propositions de déclaration de
+soupçon (ci-après « PDS »), devenues depuis des « fiches d’opération atypique », transmises par les équipes
+de conformité des pôles d’activités et des lignes métiers, et effectue toutes les déclarations de soupçon (ci-
+après « DS ») pour les entités françaises du groupe à l’exception de Boursorama et du Crédit du Nord ; qu’en
+son sein, les PDS concernant l’activité de banque de détail en France sont analysées par l’unité AML/KYC-
+BDDF ;
+3. Considérant que SG a fait l’objet d’un contrôle sur place du 8 septembre au 1er décembre 2015, dont
+l’objectif était d’analyser ses pratiques en matière de DS ; que ce contrôle a donné lieu à la signature d’un
+rapport définitif le 18 février 2016 (ci-après « le rapport de contrôle ») ; qu’au vu de ce rapport, le Collège a
+décidé, lors de sa séance du 5 juillet 2016, d’ouvrir la présente procédure disciplinaire ;
+4. Considérant que si le titre VI du livre V du CMF, qui définit les obligations relatives à la lutte contre le
+blanchiment et le financement du terrorisme (ci-après la « LCB-FT »), a été, dans plusieurs de ses
+dispositions, modifié par l’ordonnance no 2016-1635 du 1er décembre 2016 renforçant le dispositif français
+de lutte contre le blanchiment et le financement du terrorisme, les exigences qui résultent du texte ainsi
+modifié sont au moins équivalentes à celles en vigueur au moment du contrôle sur place ; que les
+dispositions du CMF citées ci-après sont celles en vigueur à la date des faits ;
+I. Sur les délais de déclaration à Tracfin
+A. Sur le processus de traitement des propositions de déclaration de soupçon
+5. Considérant que selon le second alinéa de l’article L. 561-16 du CMF, « […] Lorsqu’une opération
+devant faire l’objet de la déclaration prévue à l’article L. 561-15 a déjà été réalisée, soit parce qu’il a été
+impossible de surseoir à son exécution, soit que son report aurait pu faire obstacle à des investigations
+portant sur une opération suspectée de blanchiment des capitaux ou de financement du terrorisme, soit qu’il
+est apparu postérieurement à sa réalisation qu’elle était soumise à cette déclaration, la personne mentionnée
+à l’article L. 561-2 en informe sans délai le service prévu à l’article L. 561-23. » ;
+6. Considérant que selon le grief 1, fondé sur ces dispositions, le processus de traitement des PDS par la
+cellule anti-blanchiment (unité AML/KYC-BDDF) du département SFG, qui représente 95 % des PDS
+reçues par celui-ci, ne permet pas à SG de respecter son obligation d’informer sans délai Tracfin des
+opérations suspectes déjà exécutées dont elle a connaissance ; qu’en effet, SG a mis en place, fin 2013, une
+procédure de traitement des dossiers de proposition de déclaration de soupçon (ci-après « procédure PDS »),
+qui prévoit qu’un comité de lecture hebdomadaire détermine si la PDS doit être considérée comme prioritaire
+ou non, ou encore classée sans suite ; qu’ensuite la cellule anti-blanchiment de SFG traite dans un délai
+maximum d’un mois les PDS prioritaires et de 3 mois celles qui ne le sont pas ; que ces délais ne courent
+qu’à compter de la réception de la PDS par SFG de sorte qu’ils viennent s’ajouter à la phase d’analyse
+préalable de l’opération objet de la PDS qui est effectuée au sein des directions d’exploitation commerciales
+(ci-après « DEC ») ;
+7. Considérant qu’une organisation dans laquelle les opérations atypiques des clients sont d’abord
+examinées au sein du réseau, en l’occurrence au sein des DEC, afin de passer du doute au soupçon, avant que
+les propositions issues de cet examen soient à leur tour analysées et donnent lieu, le cas échéant, à l’envoi
+d’une DS à Tracfin par une unité à laquelle la fonction de déclaration a été confiée à titre exclusif, n’est pas
+en elle-même incompatible avec les dispositions légales ci-dessus rappelées et, en particulier, avec
+l’obligation d’une information « sans délai » de Tracfin sur les opérations déjà réalisées ; que toutefois, pour
+respecter cette obligation de célérité, il appartient à tout organisme assujetti à la LCB-FT de veiller à ce que,
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2016-07
+quelle que soit l’organisation retenue, et à chaque stade du processus débouchant, le cas échéant, sur une DS,
+les diligences à accomplir le soient aussi rapidement que possible ; qu’il résulte des décisions précédentes de
+la Commission que le point de départ à retenir pour apprécier le caractère éventuellement tardif d’une DS ne
+peut être systématiquement retardé jusqu’au déclenchement d’une alerte interne, laquelle peut elle-même être
+tardive ; qu’a fortiori, cette date ne peut être systématiquement repoussée à l’établissement d’une proposition
+de DS qui peut, dans certains cas, être tardive en raison de retards dans la détection puis dans l’analyse d’une
+opération suspecte ; qu’ainsi, la Commission a déjà indiqué que « tout retard dans l’envoi à Tracfin de ces
+DS par rapport à la date à laquelle l’opération suspecte a été réalisée [devait] dès lors être justifié par
+l’énoncé, dûment documenté, des diligences accomplies pour passer du doute au soupçon » (décision
+Banque Populaire des Alpes du 29 juin 2012, procédure no 2011-01, décision Caisse d’Épargne et de
+Prévoyance du Languedoc-Roussillon du 25 novembre 2013, procédure no 2013-01) ;
+8. Considérant qu’en l’espèce, le grief ne porte que sur le traitement centralisé des PDS par SFG ; que les
+modalités et délais prévus pour ce traitement, alors qu’en amont l’élaboration et la transmission par les DEC
+prennent elles-mêmes du temps, ne mettent pas correctement en œuvre l’exigence de célérité mentionnée ci-
+dessus ; qu’en effet, l’organisation retenue, qui comporte une distinction entre les PDS « prioritaires » et
+celles qui ne le seraient pas, selon un tri effectué par un comité à périodicité hebdomadaire, ainsi que la
+fixation de délais maximums respectifs d’un mois et de 3 mois pour leur traitement, ne garantit pas une
+information de Tracfin aussi rapide que possible sur toute opération suspecte déjà réalisée ; que sont sans
+incidence à cet égard les arguments présentés en défense par SG en ce qui concerne le fait générateur et le
+calcul des délais pouvant conduire à caractériser un retard dans la transmission d’une DS à Tracfin ; que si
+SG conteste la prévisibilité d’être sanctionnée pour l’organisation de sa fonction déclarative alors que
+Tracfin lui aurait donné un satisfecit sur ce point, y compris sur la fixation des deux délais mentionnés ci-
+dessus, cela n’a pas été confirmé par ce service qui, dans un document versé au dossier de la présente
+procédure, a au contraire « insisté sur les délais parfois exagérément longs entre l’identification des flux
+suspects et la transmission des DS » ; qu’ainsi, le grief 1 est établi ;
+B. Sur les déclarations de soupçon effectuées tardivement
+9. Considérant que selon le grief 2, fondé sur les mêmes dispositions que le grief 1 (cf. considérant 5), le
+délai moyen de transmission des DS de SG à Tracfin à compter de la date de l’« événement initial »
+mentionnée dans la PDS, était proche de 145 jours pour l’année 2014, et restait « d’une durée manifestement
+excessive en 2015 » ; que 34 cas de DS effectuées tardivement auprès de Tracfin peuvent être relevés en ce
+sens (dossiers A1 à A34) ;
+10. Considérant, tout d’abord, que les délais moyens dans lesquels SG adresse à Tracfin ses DS, tel que le
+délai de 145 jours constaté en 2014, calculé par SG en jours ouvrés et à compter de « l’événement initial », et
+non de l’exécution de l’opération, sont excessifs et caractérisent donc par eux-mêmes un manquement à
+l’obligation imposée par l’article L. 561-16 du CMF d’informer « sans délai » Tracfin des opérations
+suspectes qui ont déjà été exécutées, quel que soit le sens que l’on donne à ces termes ; qu’il est donc sans
+conséquence que les dossiers individuels examinés par la poursuite, soit 66 dossiers dont 34 ont été retenus
+pour illustrer le grief, ne représentent que 1,9 % des DS effectuées par SG au cours de la période examinée ;
+11. Considérant, ensuite, que dans ces 34 dossiers, les retards non justifiés dans l’envoi d’une DS à
+Tracfin sont avérés ; qu’en effet, les délais constatés, à partir de la réalisation de l’opération, de l’alerte
+qu’elle a entraînée ou de la détection de son caractère douteux, vont de 74 à 1 123 jours calendaires et sont
+supérieurs à 6 mois dans 28 cas, selon les éléments résultant de l’instruction par le rapporteur, ce qui est
+excessif au regard des diligences accomplies à chaque stade ; que ces retards résultent, dans tous ces
+dossiers, de ce que l’incohérence des opérations effectuées avec les éléments de connaissance du client aurait
+pu être constatée plus rapidement ; que parmi les 34 dossiers mentionnés par la poursuite, les opérations en
+cause étaient, tout d’abord, d’importants mouvements en espèces (dossiers A2, A5, A6, A14, A19, A20,
+A26, A32) ; que, de même, ont été constatés sur des comptes de clients des virements ou des remises de
+chèques pour des montants importants et incohérents avec leur situation professionnelle ou, pour les
+personnes morales, avec le chiffre d’affaires annoncé, sans que, pour autant, Tracfin soit informé « sans
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2016-07
+délai » de ces opérations (dossiers A3, A4, A7, A9, A10, A13, A15, A16, A17, A21, A22, A23, A25,
+A31, A33 et A34) ; que les premiers types d’opérations (mouvements en espèces) ont parfois été précédés ou
+suivis des seconds (opérations par chèques ou virements) (dossiers A1, A8, A11, A12, A18, A24, A27, A28,
+A29 et A30) ; que tous ces dossiers sont caractérisés par des lenteurs dans les analyses menées soit par la
+DEC, soit par SFG, parfois alors même que le client n’a pas donné suite aux demandes de renseignements
+qui lui étaient adressées ou n’y a répondu que partiellement ou que des soupçons avaient antérieurement été
+exprimés en interne sur le profil du client ou ses opérations (dossiers A3, A7, A14, A17, A22, A25 et A32) ;
+que si des erreurs survenues dans certains cas lors de la transmission de la PDS à SFG peuvent expliquer une
+partie des retards constatés, elles ne les justifient pas (dossiers A1, A15 et A18) ; que les diligences
+accomplies sont en grande partie non documentées (dossiers A1, A2, A4, A5, A6, A9, A10, A17, A18, A19,
+A20, A21, A22, A24, A27, A28, A29, A30, A32 et A34) ou, si elles le sont, ne justifient pas le délai mis à
+adresser une DS à Tracfin (dossiers A3, A7, A8, A11, A12, A13, A14, A15, A16, A23, A25, A26, A31 et
+A33) ;
+12. Considérant, à titre d’exemple de ces retards, qu’est tardive une DS adressée à Tracfin le 6 février
+2014 au sujet de versements en espèces de 14 000 euros effectués en septembre 2013 par une cliente, aide à
+domicile percevant un salaire de 1 493 euros, qui avait déjà versé 20 000 euros d’espèces en mars 2011
+(dossier A2) ; que de même, dans le cas d’un client qui, au second trimestre 2012, reçoit 35 virements et 18
+chèques de la Française des Jeux, pour un montant total supérieur à 200 000 euros, l’envoi d’une DS le 13
+juillet 2015 est tardif et non justifié par les diligences faites relativement à d’autres opérations suspectes du
+client exécutées ultérieurement (dossier A31) ; que les opérations d’un client, qui dispose d’un compte
+personnel et de deux comptes professionnels, l’un ouvert au nom d’une société de réparation automobile et
+l’autre d’une société de terrassement et de commerce de gros de matériaux de construction, qui ont donné
+lieu à 19 alertes dont la plus ancienne remonte au 18 décembre 2012 pour un virement de 64 408 euros suivie
+de plusieurs autres alertes pour des retraits d’espèces importants, présentaient un caractère suspect bien avant
+le 19 janvier 2015, date à laquelle elles ont été déclarées (dossier A24) ;
+13. Considérant, en outre, que si certains éléments qui figurent au dossier, en particulier ceux fournis par
+Tracfin, montrent une amélioration des délais moyens en 2015, ils ne remettent pas en cause le reproche
+tenant à la persistance, pour cette année, d’un délai de transmission des DS excessif, illustré par 12 des 34
+dossiers mentionnés ci-dessus ; qu’ainsi le grief 2 est entièrement établi ;
+II. Sur les dispositions de la procédure de propositions de déclaration
+de soupçon relatives aux déclarations de soupçon complémentaires
+14. Considérant que le 4o du I de l’article R. 561-38 du CMF prévoit que les organismes assujettis
+« définissent les procédures à appliquer pour le contrôle des risques, la mise en œuvre des mesures de
+vigilance relatives à la clientèle, la conservation des pièces, la détection des transactions inhabituelles ou
+suspectes et le respect de l’obligation de déclaration au service Tracfin » ; que ces procédures internes
+doivent couvrir la totalité des obligations en matière de LCB-FT auxquelles est assujetti un établissement de
+crédit ; que, notamment, parmi ces obligations, le V de l’article L. 561-15 du CMF prévoit que « Toute
+information de nature à infirmer, conforter ou modifier les éléments contenus dans la déclaration est portée,
+sans délai, à la connaissance du service mentionné à l’article L. 561-23. » ;
+15. Considérant que, selon le grief 3, fondé sur ces dispositions, la procédure PDS ajoute des critères très
+restrictifs à la loi au sujet de l’envoi d’une DS complémentaire ; qu’ainsi, elle prévoit, après envoi d’une DS
+initiale, d’adresser une DS complémentaire, qu’elle nomme « complément d’information », lorsque plusieurs
+conditions sont réunies (« Faits de même nature que la DS d’origine / Même activité / Même origine /
+destination des fonds / même motif de DS ») ; montant de la nouvelle opération « proportionné » ou « en
+augmentation » par rapport à la DS d’origine ; le délai est « inférieur à 4 mois par rapport à l’opération /
+aux opérations ayant fait l’objet d’une DS initiale » ; qu’en revanche, pour « des faits de même nature que la
+DS d’origine, [la] même activité, [la] même origine ou destination des fonds [et le] même motif de DS », SG
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2016-07
+prévoit qu’une « nouvelle DS » est effectuée lorsque le délai est supérieur à 4 mois par rapport à l’opération
+ayant fait l’objet de la DS précédemment effectuée ; qu’il est également prévu d’effectuer une « nouvelle DS
+» en raison d’une « nature des opérations différente de la DS initiale, [un] changement de mandataire social,
+[un] changement de tribunal de commerce, [un] changement d’activité, [des] motifs de DS différents ; [un]
+montant proportionné par rapport à la DS d’origine » ; que la procédure PDS n’est pas, sur ces deux
+derniers points, conforme aux conditions légales d’envoi d’une DS complémentaire puisque SG préconise
+d’effectuer une « nouvelle DS », sans pour autant la qualifier de complément d’information au sens de la
+réglementation ; qu’elle prévoit, en effet, uniquement de faire figurer la référence à la DS d’origine dans
+l’analyse de la fiche de l’outil informatique X, sans indiquer qu’elle doit être comprise dans l’information
+transmise à Tracfin y inclus en cas de « nouvelle DS » ; qu’il en résulte une complexité inutile quant aux
+critères à utiliser pour effectuer une DS complémentaire ou une nouvelle DS et des incohérences par rapport
+à la réglementation de la procédure à appliquer ; qu’il n’est pas certain que Tracfin puisse établir en
+complément de quelle DS initiale vient une DS complémentaire ; qu’en conséquence, cette procédure ne
+répond pas à son objet qui est d’assurer le respect des obligations déclaratives de SG ;
+16. Considérant que la procédure PDS de SG comporte des critères permettant de distinguer, parmi les
+opérations déjà déclarées, celles qui relèvent d’une DS complémentaire de celles qui relèvent d’une nouvelle
+DS ; que SG indique s’être, à cette fin, appuyée sur les lignes directrices conjointes de l’Autorité de contrôle
+prudentiel et de Tracfin sur la déclaration de soupçon de juin 2010 ; qu’après avoir rappelé les dispositions
+légales applicables, mentionnées ci-dessus, celles-ci précisaient que « Les informations de nature à infirmer
+le soupçon ou celles qui ont trait aux caractéristiques des opérations déclarées ou bien encore celles qui
+portent sur la connaissance de la relation d’affaires doivent être portées sans délai, quel que soit le montant
+des opérations concernées, à la connaissance de Tracfin » et que « En revanche, de nouveaux flux financiers
+effectués pour le compte d’un client dont les opérations ont donné lieu à une déclaration dans un laps de
+temps rapproché ne devraient donner lieu à l’envoi d’un complément à Tracfin que si les nouvelles
+opérations portent sur des montants significatifs : à titre d’exemple, s’agissant d’informations de nature à
+conforter l’appréciation portée par l’organisme à la connaissance de Tracfin dans la première déclaration
+de soupçon, ne devraient faire l’objet d’une déclaration complémentaire que les opérations dans un délai
+rapproché dont les montants cumulés sont au moins équivalents à ceux précédemment déclarés » (p. 12) ;
+qu’il n’apparaît pas qu’en caractérisant, à l’intention des analystes, deux cas de déclaration complémentaire
+et deux cas de nouvelle déclaration, la procédure PDS en vigueur au sein de SG au moment du contrôle, pour
+imparfaite qu’elle ait été, ait directement méconnu les dispositions applicables du CMF, non plus au
+demeurant que les précisions apportées par les lignes directrices précitées ; qu’il n’est pas non plus établi, ni
+même soutenu, que cette procédure a eu pour conséquence que des opérations ou informations qui auraient
+dû être portées à la connaissance de Tracfin ne l’ont pas été ; que SG soutient, sans être contredite par la
+poursuite, que la mise en œuvre de cette procédure conduit à saisir les DS nouvelles comme
+complémentaires dans son outil informatique X puis à les exporter directement vers l’applicatif ERMES de
+Tracfin, ce qui permet à ce service de faire dans tous les cas le lien entre les déclarations qui lui sont
+successivement transmises, à partir de l’information qui lui est communiquée de l’existence d’une DS
+d’origine et de son numéro de réception ; qu’au demeurant, Tracfin ne mentionne pas, parmi les points
+d’attention relatifs aux pratiques déclaratives de SG, de difficultés de traitement des DS transmises qui
+résulteraient de l’application de critères inappropriés de distinction entre les DS initiales et complémentaires
+; que le grief 3 sera en conséquence écarté ;
+III. Sur le dispositif de surveillance de lutte
+contre le blanchiment et le financement du terrorisme
+17. Considérant que le premier alinéa de l’article L. 561-16 du CMF prévoit que « Les personnes
+mentionnées à l’article L. 561-2 s’abstiennent d’effectuer toute opération portant sur des sommes dont elles
+savent, soupçonnent ou ont de bonnes raisons de soupçonner qu’elles proviennent d’une infraction passible
+d’une peine privative de liberté supérieure à un an ou sont liées au financement du terrorisme jusqu’à ce
+qu’elles aient fait la déclaration prévue à l’article L. 561-15. Elles ne peuvent alors procéder à la réalisation
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2016-07
+de l’opération que si les conditions prévues au quatrième alinéa de l’article L. 561-25 sont réunies. » ; que
+l’article 46 de l’arrêté du 3 novembre 2014 dispose que « Les entreprises assujetties se dotent de dispositifs
+de suivi et d’analyse de leurs relations d’affaires, fondés sur la connaissance de leur clientèle, permettant
+notamment de détecter les opérations qui constituent des anomalies au regard du profil des relations
+d’affaires et qui pourraient faire l’objet d’un examen renforcé mentionné au II de l’article L. 561-10-2 du
+code monétaire et financier ou d’une déclaration prévue à l’article L. 561-15 du même code. »
+18. Considérant que selon le grief 4, fondé sur ces dispositions, SG s’est dotée d’un dispositif automatisé
+de détection des opérations atypiques qui génère des alertes après la réalisation desdites opérations, ainsi que
+d’un dispositif de détection de ces mêmes opérations avant leur exécution qui repose sur la vigilance
+manuelle des agents concernés ; que ce dernier dispositif ne paraît pas répondre aux exigences
+réglementaires ni assurer un traitement efficace de l’obligation déclarative pour les raisons suivantes : (i) une
+vigilance manuelle n’est pas de nature à constituer en soi un dispositif efficace de suivi et d’analyse des
+relations d’affaires, en raison du volume important et de la diversité des opérations traitées par SG, (ii) les
+procédures transmises par SG qui consistent en des fiches synthétiques sur le thème de la LCB-FT destinées
+au personnel des agences sont insuffisantes et ne correspondent pas à un dispositif relatif à une détection
+manuelle (« humaine ») des opérations atypiques puisqu’elles ne mentionnent ni dans quels cas ou pour
+quelles opérations le personnel des agences doit s’abstenir d’exécuter l’opération et procéder au préalable à
+la DS ou, à l’inverse, les cas pour lesquels il ne peut être différé à l’exécution, suivie d’une DS sans délai, ni
+spécifiquement l’existence d’un processus de détection manuelle, en amont de l’exécution des opérations, et
+(iii) en tout état de cause, la détection des opérations suspectes avant leur exécution a été défaillante dans
+cinq dossiers : A4, A5, A25, A27 et A17 ;
+19. Considérant, tout d’abord, que les dispositions de l’article 46 de l’ordonnance du 3 novembre 2014
+imposent la mise en place d’un dispositif permettant de détecter, avant leur exécution, toutes les opérations
+qui entrent dans les prévisions du premier alinéa de l’article L. 561-16 du CMF ; que, si les lignes directrices
+de 2010 mentionnaient que l’organisation et la taille des organismes pouvaient rendre nécessaire le recours à
+des dispositifs informatiques, leur absence n’est pas, en soi, un manquement susceptible d’être sanctionné,
+dès lors que le dispositif mis en place est néanmoins efficace ; qu’au surplus SG, qui avait précédemment
+indiqué ne pas avoir mis en place de dispositif automatisé permettant de détecter a priori les opérations
+atypiques a précisé dans ses dernières écritures et confirmé à l’audience, sans être démentie, que sa réponse
+initiale résultait d’un malentendu et que les dispositifs automatisés qu’elle utilise (Y notamment) génèrent
+bien des alertes avant la complète réalisation des opérations lorsque celles-ci correspondent à des flux traités
+par ces outils (virements, chèques, etc.) ; que cette partie du grief sera en conséquence écartée ;
+20. Considérant, ensuite, que SG soutient que son dispositif manuel de détection des opérations atypiques
+avant exécution est efficace, grâce aux actions de formation mises en œuvre et à l’accès à des supports
+documentaires permanents dont des fiches techniques synthétiques; que ce dispositif a, en effet, été à
+l’origine de près de 70 % des détections avant exécution en 2015 et 50 % en 2016 ; que, toutefois, les fiches
+mises à la disposition du personnel, intitulées « L – Blanchiment et fraude » d’octobre 2013, « Lutte anti-
+blanchiment – connaissance client / KYC – Know your customer », de même que l’instruction BDDF « la
+lutte contre le blanchiment des capitaux dans le pôle banque de détail en France » no 20076 du 2 septembre
+2011 ne mentionnent pas les circonstances et les modalités d’un blocage d’une opération ; que la fiche
+« Tous Marchés – LCB-FT – Agence/DEC/DPDI – Traitement des déclarations de soupçon » ne précise pas
+clairement les circonstances dans lesquelles le salarié doit surseoir à l’exécution de l’opération, indiquant
+seulement « exemple d’opérations non exécutées : refus d’entrer en relation, refus de créditer sur le compte
+du client un virement reçu sans identification possible du donneur d’ordre »; qu’ainsi, la partie du grief
+relative à ces procédures est établie ;
+21. Considérant enfin, s’agissant des 5 dossiers individuels mentionnés, qu’il est donné acte de l’abandon
+du reproche par le représentant du Collège dans le dossier A5 ; que dans le dossier A4, si SG indique que
+l’exécution d’une opération (virement de fonds en provenance du Paraguay) a été bloquée à la suite d’une
+alerte Y, une autre partie des fonds n’a pas été bloquée, l’alerte correspondante ayant été clôturée sans avoir
+été traitée ; que, dans le dossier A25, dans lequel les opérations sont notamment caractérisées par la
+présence, sur une longue période, de plusieurs opérations, dont « 5 chèques avec signature non conforme »,
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2016-07
+la détection, manuelle, du fonctionnement atypique du compte depuis décembre 2009 n’est intervenue qu’en
+juin 2014, n’entraînant de réaction qu’à la suite de l’intervention d’un membre de la famille ; que, dans le
+dossier A27, des virements entrants, d’un montant total d’un million d’euros sur le compte à l’agence de
+Courbevoie de la société SCI […], dont Mme […] est cogérante, ont été exécutés les 17 et 24 décembre 2014
+alors que le 7 décembre 2014 une alerte avait été générée par l’outil informatique Z à la suite de versements
+en espèces de 3 000 euros ; que dans le dossier A17, malgré un fonctionnement atypique du compte utilisé
+comme un compte de passage, la demande de la cliente de faxer un ordre de transfert de 40 000 euros de son
+compte à SG Luxembourg sur celui de sa fille dans les livres de la Banque de Polynésie n’a été détectée
+qu’en raison d’une erreur de numéro de fax ; que le reproche est donc établi au sujet de 4 des 5 dossiers
+mentionnés par la poursuite ;
+22. Considérant que, dans un périmètre fortement réduit ainsi qu’il a été dit au considérant 19, le grief 4
+est établi ; qu’il n’est toutefois appuyé que par un nombre de défaillances limité à 4 ;
+IV. Sur le contrôle interne du respect des obligations déclaratives
+23. Considérant que l’article 71 de l’arrêté du 3 novembre 2014 prévoit que « Le contrôle permanent du
+dispositif de lutte contre le blanchiment des capitaux et le financement du terrorisme fait partie du dispositif
+de contrôle de la conformité, selon les conditions prévues au chapitre II du présent titre. » ; que l’article 72
+du même arrêté dispose que « Le responsable du contrôle de la conformité veille au caractère adapté des
+dispositifs et procédures mentionnés au présent chapitre, notamment au respect des obligations prévues aux
+articles L. 561-10-2, L. 561-15 et R. 561-31 du code monétaire et financier. » ;
+24. Considérant que, selon le grief 5, fondé sur ces dispositions, le contrôle interne de SG présente,
+relativement au respect des obligations déclaratives, plusieurs insuffisances : (i) qu’ainsi, la qualité des DS et
+les éléments d’analyse qui ont conduit au soupçon ne sont pas contrôlés, SFG ne procédant qu’à un contrôle
+formel trimestriel des dossiers de DS consistant uniquement en la vérification de leur complétude ; (ii)
+qu’aucune action correctrice n’avait, au moment du contrôle, été décidée ou mise en œuvre alors que les taux
+d’anomalie relevés étaient élevés, qu’il s’agisse de la complétude des dossiers (15 % d’anomalies) ou de la
+rupture de la relation d’affaires lorsqu’elle est préconisée (20 % d’anomalies) ; (iii) que la surveillance des
+délais de transmission des DS à Tracfin est insuffisante, car elle n’intègre pas les délais d’élaboration des
+PDS par les DEC ; (iv) que les délais d’élaboration des PDS ne sont pas effectivement contrôlés, compte
+tenu de l’absence de définition précise et harmonisée de la notion « d’événement initial » qui figure dans le
+formulaire de PDS et qui recouvre des situations diverses, telles que « la date d’apparition de l’alerte Y ou Z
+[outils de détection automatisés de LCB-FT], la date des premiers échanges par e-mail entre la filière risque
+et la filière commerciale ou la date de tout autre motif ayant généré le soupçon » et (v) ; que le respect de la
+procédure PDS, qui prévoit la ventilation des PDS entre « prioritaires » et « non-prioritaires », n’est pas
+davantage contrôlé ;
+25. Considérant que la description de l’organisation du contrôle mise en place par SG, qui repose sur une
+structure pyramidale, ne répond pas au reproche d’une insuffisance de la qualité du contrôle interne exercé
+en application de l’arrêté du 3 novembre 2014 ; que le contrôle permanent de second niveau ne porte pas sur
+la qualité des DS, quelles que puissent être les compétences réunies à cet égard au sein de SFG ; que les taux
+d’anomalies relevés ne sont pas sérieusement contestés, non plus que l’absence de mesures correctrices
+corrélatives, sous réserve des éléments produits par SG en ce qui concerne le contrôle de la rupture de la
+relation d’affaires ; que le plan de contrôle interne de SG « n’intègre aucune surveillance des délais »
+d’élaboration des PDS ; que l’affirmation selon laquelle chaque pôle métier surveille les délais de traitement
+des alertes et opérations atypiques ne peut suffire à établir qu’un contrôle interne, portant sur la phase
+d’élaboration des PDS, était effectivement en place lors du contrôle de l’ACPR ; que les explications de SG
+quant à l’existence de contrôles, non formalisés, de la répartition des PDS par le comité de lecture
+hebdomadaire sont imprécises et non documentées ; que la mise en place en 2016 d’un contrôle par
+échantillonnage de cette répartition apparaît comme une action correctrice postérieure au contrôle, et donc
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2016-07
+sans conséquence sur le reproche ; qu’ainsi, dans un périmètre légèrement réduit par l’abandon du reproche
+relatif au contrôle de la rupture de la relation d’affaires, le grief est établi ;
+V. Sur la remise au Secrétariat général de l’ACPR
+d’un tableau blanchiment comportant une mention erronée
+26. Considérant que, selon l’article 1er de l’instruction no 2012-I-04, « les établissements assujettis doivent
+remettre les tableaux BLANCHIMT », dont un tableau intitulé « B8 – Données statistiques », qui prévoit à la
+question no 121, comprise dans la partie relative à la « déclaration à Tracfin au cours du dernier exercice
+clos », de « [Préciser] le délai moyen entre l’exécution des opérations et leur déclaration (en jours) pour les
+déclarations à Tracfin, au cours du dernier exercice clos, en application du I au III de l’article L. 561-15 du
+CMF » ;
+27. Considérant que, selon le grief 6, fondé sur ces dispositions, SG a, dans ses tableaux blanchiment au
+titre de l’année 2014, fourni à l’ACPR une réponse erronée à la question sur le délai moyen entre l’exécution
+d’une opération suspecte et sa déclaration à Tracfin, en mentionnant un délai de 55 jours, délai qui ne tient
+pas compte du délai moyen de transmission des PDS, soit 90 jours à compter de « l’événement initial », dont
+la définition n’est, de surcroît, pas harmonisée ; qu’ainsi, SG n’a pas répondu à la question 121 dans les
+termes dans lesquels elle était posée, son délai moyen étant alors plus proche de 145 jours, auquel il convient
+d’ajouter le délai moyen courant à compter de l’exécution des opérations suspectes ;
+28. Considérant que SG reconnaît l’erreur qu’elle a commise dans sa réponse aux « états blanchiment »
+de 2014, en retenant comme délai celui du traitement des PDS, mais estime que cette erreur, involontaire,
+s’explique par le caractère inadapté de la question 121 du questionnaire de lutte contre le blanchiment
+(QLB), qui fait partir le délai de DS de l’exécution de l’opération alors qu’il ne devrait courir qu’à compter
+de la naissance du soupçon ; qu’il incombe toutefois à un organisme assujetti de répondre aux questions qui
+lui sont posées en application de dispositions réglementaires dans les termes où elles le sont, clairs et précis
+en l’espèce, et indépendamment de son appréciation de la pertinence de ces termes ; que le caractère
+intentionnel ou non d’un manquement est sans incidence ; qu’ainsi, le grief 6 est établi ;
+VI. Sur les défauts de déclaration de soupçon
+29. Considérant que selon le I et le II de l’article L. 561-15 du CMF « I. Les personnes mentionnées à
+l’article L. 561-2 sont tenues, dans les conditions fixées par le présent chapitre, de déclarer au service
+mentionné à l’article L. 561-23 les sommes inscrites dans leurs livres ou les opérations portant sur des
+sommes dont elles savent, soupçonnent ou ont de bonnes raisons de soupçonner qu’elles proviennent d’une
+infraction passible d’une peine privative de liberté supérieure à un an ou participent au financement du
+terrorisme. / II. Par dérogation au I, les personnes mentionnées à l’article L. 561-2 déclarent au service
+mentionné à l’article L. 561-23 les sommes ou opérations dont ils savent, soupçonnent ou ont de bonnes
+raisons de soupçonner qu’elles proviennent d’une fraude fiscale lorsqu’il y a présence d’au moins un critère
+défini par décret ; que le II de l’article D. 561-32-1 du même code définit notamment comme critères « 4o La
+réalisation d’opérations financières incohérentes au regard des activités habituelles de l’entreprise ou
+d’opérations suspectes dans des secteurs sensibles aux fraudes à la TVA de type carrousel, tels que les
+secteurs de l’informatique, de la téléphonie, du matériel électronique, du matériel électroménager, de la hi-fi
+et de la vidéo […] ; 8o Le retrait fréquent d’espèces d’un compte professionnel ou leur dépôt sur un tel
+compte non justifié par le niveau ou la nature de l'activité économique […] ; 11o Le refus du client de
+produire des pièces justificatives quant à la provenance des fonds reçus ou quant aux motifs avancés des
+paiements, ou l’impossibilité de produire ces pièces […] ; 15o Le dépôt par un particulier de fonds sans
+rapport avec son activité ou sa situation patrimoniale connues » ;
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2016-07
+30. Considérant que, selon le grief 7, fondé sur ces dispositions, 5 dossiers présentent un défaut de DS ;
+31. Considérant que, s’agissant de la non-représentativité alléguée de l’échantillon des dossiers examinés
+dont sont issus ces 5 cas (B1 ; B2; B3 ; B4 et B5), les obligations déclaratives dont la méconnaissance est
+reprochée doivent être respectées dans tous les cas ; qu’en conséquence, chaque carence constatée dans ce
+domaine constitue un manquement susceptible, en lui-même, d’être sanctionné ; que la question de la
+représentativité de l’échantillon dont sont issus les dossiers examinés et du nombre de manquements
+constatés ne se poserait que s’il était envisagé de donner un caractère général au reproche par extrapolation,
+ce qui n’est pas le cas en l’espèce ;
+32. Considérant que dans le dossier B1, la remise de chèques le 4 mai 2014 pour un montant total de
+950 000 euros, sur le compte personnel du client, émis par la société Y dont celui-ci est actionnaire à 99 %,
+suivie courant mai du transfert de 920 000 euros au profit d’une SCI dont les enfants du client sont associés
+majoritaires, a été analysée par la DEC, qui a transmis une PDS, comme pouvant correspondre à une
+« donation déguisée » ; que le client n’a pas répondu aux demandes d’explication qui lui ont été adressées ;
+qu’en raison de l’appauvrissement du client qui en résultait, sans contrepartie connue, ces opérations auraient
+dû, notamment sur le fondement du critère 11 du II de l’article D. 561-32-1 du CMF retenu par la poursuite,
+être déclarées à Tracfin ;
+33. Considérant que dans le dossier B2, les mouvements en espèces sur le compte de la société depuis
+février 2014, incohérents avec son activité, de même que ceux enregistrés sur le compte des associés,
+auraient dû entraîner l’envoi d’une DS sur le fondement du critère 4 du II de l’article D. 561-32-1 du CMF
+avant la réception d’une réquisition judiciaire le 13 août 2014 ;
+34. Considérant que dans le dossier B3, l’incohérence entre le montant des chèques remis sur le compte
+du client et la périodicité de ces remises avec l’emploi salarié présumé du client dans le secteur du bâtiment,
+d’une part, et une demande de retrait de 3 000 euros en espèces le 21 mars 2015 qui a entraîné une alerte
+manuelle le même jour, d’autre part, auraient dû donner lieu à l’envoi d’une DS à Tracfin ; que le chargé de
+clientèle a en outre exprimé un doute sur l’authenticité de la pièce d’identité produite par le client ; que SG a
+pourtant classé le 13 mai 2015 la PDS transmise par la DEC le 14 avril 2015; que le client a été interrogé
+tardivement au regard de la date à laquelle ses opérations étaient apparues suspectes ; qu’au vu des
+opérations tant créditrices que débitrices enregistrées sur le compte de ce client, une DS aurait dû être établie
+en application des critères 11 et 15 du II de l’article D. 561-32-1 du CMF ;
+35. Considérant que dans le dossier B4, filiale du groupe allemand du même nom, les retraits d’espèces,
+enregistrés sur le compte depuis 2011, de même que les différents chèques de 15 000 euros libellés à l’ordre
+de personnes physiques, qui avaient donné lieu à une PDS en janvier 2014, auraient dû, malgré les diligences
+faites par SFG, donner lieu à l’envoi d’une DS à Tracfin, faute d’avoir été justifiés et compte tenu
+d’informations publiques sur les pratiques au sein de ce groupe; qu’une DS aurait dû être établie en
+application du critère 8 du II de l’article D. 561-32-1 du CMF ;
+36. Considérant que dans le dossier B5, l’incohérence entre, d’une part, les revenus déclarés du client,
+dentiste exerçant une activité accessoire de location de logements, terrains et autres biens immobiliers, et les
+mouvements créditeurs enregistrés sur son compte en espèces ou par virements (554 600 euros en 2013 et
+412 500 euros en 2014) aurait dû, alors surtout que le client a refusé de répondre à la demande d’explication
+qui lui était adressée car, notamment, « demander combien on gagne est dérangeant », conduire à adresser
+une DS à Tracfin, fondée sur le I de l’article L. 561-15 du CMF ;
+37. Considérant que si les classements sans suite opérés dans ces dossiers l’ont été après une analyse et
+des diligences effectives de SFG, ils témoignent néanmoins d’une erreur d’appréciation dans chaque cas ;
+*
+Autorité de contrôle prudentiel et de résolution 10
+
+===== Page 11 =====
+Décision de la Commission des sanctions – procédure no 2016-07
+* *
+38. Considérant qu’il résulte de ce qui précède que la procédure relative au traitement des propositions de
+DS en vigueur à la date du contrôle ne permettait pas à SG de respecter au mieux son obligation de déclarer
+sans délai à Tracfin toute opération entrant dans le champ des dispositions de l’article L. 561-15 du CMF
+(grief 1) ; que le caractère excessif des délais de déclaration des opérations suspectes à Tracfin est établi en
+raison des éléments statistiques relatifs aux délais moyens de DS, illustrés par un nombre significatif de
+dossiers individuels ; qu’au demeurant, ce délai a pu être fortement réduit ultérieurement grâce au
+renforcement des effectifs de SFG, dont ceux de SFG/AML représentent plus de la moitié, passés de 37 à
+170 personnes entre 2014 et 2017, ce qui en confirme le caractère excessif en 2014 et 2015 (grief 2) ; qu’à la
+date du contrôle, le dispositif manuel de détection et d’analyse des opérations atypiques était imparfait (grief
+4), tandis que le dispositif de contrôle interne de SG relativement à ses obligations déclaratives présentait de
+sérieuses carences (grief 5) ; que la mention, en réponse à la question 121 des tableaux anti-blanchiment, du
+seul délai qui court de la réception de la PDS à l’envoi d’une DS à Tracfin, omettant ainsi la phase antérieure
+de préparation des PDS, constitue un manquement sérieux, de nature à tromper le superviseur sur la qualité
+du dispositif déclaratif de cet établissement et à fausser les comparaisons avec les autres organismes
+financiers assujettis à cette même obligation (grief 6) ; que quelques défauts de DS ont été retenus à
+l’encontre de SG (grief 7) ; qu’au total, en raison du poids relatif de l’activité déclarative de SG parmi les
+établissements assujettis à la LCB-FT, de telles insuffisances, et en particulier les retards reprochés dans
+l’envoi de DS à Tracfin, ont été de nature à réduire l’efficacité du dispositif français de prévention du
+blanchiment des capitaux et de financement du terrorisme ;
+39. Considérant, toutefois, que le grief relatif aux critères procéduraux permettant de déterminer le choix
+entre l’envoi d’une DS complémentaire ou d’une nouvelle DS a été écarté (grief 3) tandis que le périmètre
+de ceux qui portaient, respectivement, sur le dispositif de détection des opérations atypiques et sur le contrôle
+interne de SG a été réduit (griefs 4 et 5) ; qu’il y a lieu en outre de relever que Tracfin, interrogé par le
+Secrétariat général de l’ACPR au sujet des pratiques déclaratives de SG, tout en exprimant certaines critiques
+relatives aux « délais parfois exagérément longs entre l’identification des flux suspects et la transmission des
+DS », a estimé ces pratiques « globalement satisfaisantes » en 2015, dernière année sur laquelle a porté le
+rapport de contrôle ; que par ailleurs, dans la présente affaire, le dispositif de LCB-FT de SG n’est critiqué
+que sur certains de ses aspects, principalement le traitement des DS par les structures centralisées créées au
+niveau du groupe, qui ne sont pas les mêmes que ceux qui avaient fait précédemment l’objet de critiques de
+l’ACPR relatives à ce groupe ;
+40. Considérant que les manquements retenus par la Commission justifient, compte tenu de leur nature et
+de leur gravité, le prononcé d’un blâme ; que pour les mêmes raisons et au vu des éléments d’atténuation
+mentionnés ci-dessus, dans le respect du principe de proportionnalité au regard de l’assise financière de SG,
+il y a lieu de prononcer une sanction pécuniaire fixée à 5 millions d’euros ;
+41. Considérant que le préjudice résultant d’une publication de la présente décision sous forme
+nominative ne paraît pas disproportionné ; que cette publication n’est pas non plus de nature à perturber
+gravement les marchés financiers ; que la présente décision sera donc publiée sous cette forme ;
+Autorité de contrôle prudentiel et de résolution 11
+
+===== Page 12 =====
+Décision de la Commission des sanctions – procédure no 2016-07
+PAR CES MOTIFS
+DÉCIDE :
+ARTICLE 1ER – Il est prononcé à l’encontre de la Société Générale un blâme et une sanction pécuniaire
+de 5 millions d’euros (cinq millions d’euros).
+ARTICLE 2 – La présente décision sera publiée au registre de l’ACPR et pourra être consultée au
+secrétariat de la Commission.
+Le Président de la Commission
+des sanctions
+Rémi BOUCHEZ
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification et
+dans les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 12

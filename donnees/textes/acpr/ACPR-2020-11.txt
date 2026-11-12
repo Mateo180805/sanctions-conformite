@@ -1,0 +1,475 @@
+===== Page 1 =====
+Décision de la Commission des sanctions – procédure no 2020-11
+OFFICE DES POSTES ET
+TÉLÉCOMMUNICATIONS DE
+NOUVELLE-CALÉDONIE
+Procédure no 2020-11
+–––––
+Blâme et sanction pécuniaire de
+150 000 euros
+–––––
+Audience du 28 janvier 2022
+Décision rendue le 9 février 2022
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 23 décembre 2020 par laquelle le Président de l’Autorité de contrôle prudentiel et de
+résolution (ACPR) informe la Commission des sanctions (ci-après la « Commission ») de ce que le
+Collège de supervision de l’ACPR (ci-après le « Collège »), statuant en sous-collège « banque », a
+décidé d’ouvrir une procédure disciplinaire à l’encontre de l’Office des postes et télécommunications de
+Nouvelle-Calédonie (OPT-NC), dont le siège est Port Plaisance - 2, rue Paul Montchovet - 98841
+Nouméa cedex – Nouvelle-Calédonie ;
+Vu la notification des griefs du 23 décembre 2020 et ses annexes ;
+Vu les mémoires en défense des 31 mars et 30 juin 2021, par lesquels l’OPT-NC soutient (i) qu’il a
+longtemps existé une incertitude sur son assujettissement aux obligations en matière de lutte contre le
+blanchiment et le financement du terrorisme (LBC-FT), puisqu’il n’est pas mentionné à l’article L. 561-
+2 du CMF, (ii) reconnaît les insuffisances reprochées de son dispositif de LBC-FT et de gel des avoirs
+et (iii) souligne les actions correctives qu’il a entreprises ;
+Vu le mémoire en réplique du 7 mai 2021, par lequel le Collège, représenté par M. Pascal Durand,
+estime que les dispositions en vertu desquelles les obligations du titre VI du livre V du CMF sont
+applicables à l’OPT-NC sont claires, (ii) que tous les griefs sont fondés, (iii) les actions correctives ne
+pouvant conduire à les remettre en cause ;
+Vu le rapport du 8 décembre 2021 de M. Matias de Sainte Lorette, rapporteur, qui conclut (i) que
+l’OPT-NC est tenu de respecter les obligations en matière de LBC-FT mentionnées au titre VI du livre
+V du CMF et (ii) que tous les griefs sont fondés, dont un dans un périmètre très légèrement réduit (grief
+1) tandis qu’un autre paraît devoir être légèrement relativisé (grief 4) ;
+Vu les courriers du 8 décembre 2021 convoquant à l’audience les parties ainsi que la direction
+générale du Trésor (DGT) et les informant de la composition de la Commission ;
+Vu les informations complémentaires communiquées par l’OPT-NC en réponse au rapport du
+rapporteur sur la teneur et l’état d’avancement des actions de remédiation qu’il a entreprises ;
+Vu les autres pièces du dossier, notamment le rapport de « vérification du respect des dispositions
+relatives à la lutte contre le blanchiment de capitaux et le financement du terrorisme par les services
+financiers de l’Office des postes et télécommunications de Nouvelle-Calédonie » (ci-après le « rapport
+de vérification »), signé le 8 juin 2020 par les responsables de la mission de vérification ;
+Autorité de contrôle prudentiel et de résolution 1
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2020-11
+Vu la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie, notamment le 8°
+de l’article 6-2 ;
+Vu le code monétaire et financier (ci-après le « CMF »), notamment ses articles L. 561-4-1, L. 561-
+5, L. 561-5-1, L. 561-6, L. 561-5-1, L. 561-32, L. 745-7-2, L. 745-13, R. 561-12, R. 561-12-1, R. 561-
+20-2, R. 561-38, R. 561-38-3, R. 562-1, R. 745-10 et R. 745-11, dans leur rédaction en vigueur au
+moment des faits ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACPR, composée de M. Alain Ménéménis, Président, Mmes Édith
+Sudre et Dorothée de Kermadec-Courson, MM. Thierry Philipponnat et Philippe Braghini, membres de
+la Commission ;
+Après avoir entendu, lors de sa séance publique du 28 janvier 2022 :
+- M. de Sainte Lorette, rapporteur, assisté de Mme Lysiane Dauphin, son adjointe ;
+- M. Michaël Rigollot, représentant du directeur général du Trésor qui a déclaré ne pas avoir
+d’observations à formuler ;
+- M. Durand, représentant du Collège, assisté de la directrice des affaires juridiques de l’ACPR et
+de l’adjoint au chef du service des affaires institutionnelles et du droit public ; M. Durand a
+proposé à la Commission de prononcer un blâme et une sanction pécuniaire de 150 000 euros
+par une décision publiée sous une forme nominative pendant cinq ans ;
+- L’OPT-NC, représenté par le président de son conseil d’administration et son directeur général,
+dont l’avocat est Me François Froment-Meurice, avocat à la Cour (cabinet FMA Avocat) ;
+Après avoir délibéré en la seule présence de M. Ménéménis, Président, Mmes Sudre et de Kermadec-
+Courson, MM. Philipponnat et Braghini, ainsi que de M. Jean-Manuel Clemmer, chef du service de la
+Commission des sanctions faisant fonction de secrétaire de séance ;
+1. L’OPT-NC est un établissement public industriel et commercial (EPIC) qui a été transféré à la
+Nouvelle-Calédonie par le décret n°2002-717 du 2 mai 2002, pris en application de l’article 23 de la loi
+organique du 19 mars 1999. Cet office fournit, sur le territoire de la Nouvelle-Calédonie, des services
+postaux, des services de télécommunications et des services financiers.
+Au titre de ces derniers, il peut, en vertu du premier alinéa de l’article L. 745-7-1 du CMF, issu de
+l’ordonnance n° 2004-729 du 22 juillet 2004 fixant le régime applicable aux services financiers des
+offices des postes et télécommunications de Nouvelle-Calédonie et de Polynésie française, offrir des
+prestations relatives à la mise à disposition de moyens de paiement et de transfert de fonds, comprenant
+notamment les chèques postaux (articles L. 745-7-3 à L. 745-7-7 du CMF), les cartes de paiement (article
+L. 745-7-8 du CMF), les mandats (articles L. 745-7-9 à L. 745-7-11 du code) et les envois contre
+remboursement (articles L 745-7-12 à L 745-7-15 du code). Il est ainsi, sous réserve de certaines
+exclusions, un prestataire de services de paiement.
+Par ailleurs, il distribue le livret A (deuxième alinéa de l’article L. 745-7-1 du CMF).
+L’OPT-NC a environ 160 000 clients, principalement des personnes physiques, et gère plus de
+100 000 livrets d’épargne, 55 000 comptes chèques postaux et près de 120 000 cartes privatives de
+retrait et de paiement.
+2. L’OPT-NC a fait l’objet, du 2 au 13 décembre 2019, en application de l’article L 745-7-2 du CMF,
+d’une mission de vérification par l’inspection générale des finances (IGF), qui a donné lieu à la
+signature, le 8 juin 2020, d’un rapport de vérification. Au vu de ce rapport, le Collège de l’ACPR,
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2020-11
+statuant en sous-collège « banque », a décidé, lors de sa séance du 14 décembre 2020, d’ouvrir la
+présente procédure disciplinaire, dont la Commission a été saisie le 23 décembre 2020.
+I. Sur l’assujettissement de l’OPT-NC aux obligations en
+matière de LBC-FT
+3. L’OPT-NC soutient que, alors que l’article L. 745-7-2 du CMF semble l’assujettir à toutes les
+dispositions du titre VI du livre V du CMF à l’exception de celles de l’article L 563-2, il a longtemps
+existé un doute sur ce point, au motif que l’article L. 561-2 du même code, qui énumère les catégories
+d’organismes assujettis aux obligations en matière de LBC-FT, ne le mentionne pas. Les divergences
+d’interprétation sur l’applicabilité des obligations en matière de LBC-FT résultant de cette ambiguïté
+expliquent les carences de son dispositif. Ce n’est que récemment que ses dirigeants ont pleinement pris
+conscience de la responsabilité de l’établissement dans ce domaine, ce qui a conduit à la mise en œuvre
+d’actions correctives de grande envergure.
+4. L’article L. 745-7-2 du CMF dispose que : « Le titre VI du livre V relatif à la lutte contre le
+blanchiment de capitaux, à l'exception de l'article L. 563-2, ainsi que le chapitre IV du titre VII du même
+livre sont applicables à l'office des postes et télécommunications ». Il résulte des termes mêmes de cet
+article que l’OPT-NC est soumis aux obligations prévues par les dispositions qu’il mentionne, sans qu’ait
+d’incidence la circonstance que l’article L 561-2 du code ne le mentionne pas.
+Au demeurant, en 2016, l’Institut d’émission d’outre-mer (IEOM) a rappelé l’assujettissement de cet
+organisme à la réglementation dans ce domaine et cet assujettissement a à nouveau été mentionné dans
+un « compte rendu des points importants de la présentation ACPR sur la LCB-FT » du 7 mai 2019 rédigé
+par l’établissement.
+II. Sur les griefs
+A. Sur le dispositif de lutte contre le blanchiment des capitaux et le financement du
+terrorisme
+1°) La classification des risques de blanchiment des capitaux et de financement du terrorisme
+(BC-FT)
+5. En vertu de l’article L. 561-4-1 du CMF, les personnes assujetties « définissent et mettent en place
+des dispositifs d'identification et d'évaluation des risques de blanchiment des capitaux et de financement
+du terrorisme auxquels elles sont exposées ainsi qu'une politique adaptée à ces risques. Elles élaborent
+en particulier une classification des risques en question en fonction de la nature des produits ou services
+offerts, des conditions de transaction proposées, des canaux de distribution utilisés, des caractéristiques
+des clients, ainsi que du pays ou du territoire d'origine ou de destination des fonds ».
+6. Selon le grief 1, fondé sur ces dispositions, la classification des risques de l’OPT-NC était, au
+moment du contrôle, lacunaire sur plusieurs points :
+- en premier lieu, elle prenait en compte de manière insuffisante les risques liés aux produits et
+services offerts. Ainsi, elle ne mentionnait pas les paiements par carte Visa, dont le volume a pourtant
+été multiplié par 2,5 entre 2014 et 2018. De plus, le risque lié aux dépôts de chèques au nom de tiers
+n’était pas répertorié. La version de cette classification des risques en vigueur au moment du contrôle
+était en outre obsolète car elle faisait plusieurs fois référence aux virements vers l’étranger, activité
+interrompue depuis novembre 2018 ;
+- en deuxième lieu, le risque géographique n’était traité que sous l’angle des virements vers l’étranger
+et certains pays, dont la Nouvelle-Zélande et l’Australie, n’étaient pas mentionnés, alors même que
+l’OPT-NC connaissait leur exposition au risque terroriste ;
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2020-11
+- en troisième lieu, les risques liés aux caractéristiques de la clientèle étaient insuffisamment pris en
+compte. Ainsi, la vente de kava, plante traditionnelle océanienne, dont la matière première provient du
+Vanuatu, pays considéré par l’OPT-NC comme présentant un risque de BC-FT, n’y était pas mentionnée,
+alors que les comptes de plusieurs personnes ayant une activité de vente de kava étaient ouverts dans
+ses livres.
+7. Tout organisme assujetti doit « mettre en place une classification des risques couvrant les activités
+qu’il exerce et les catégories de clientèle auxquelles il s’adresse et comportant des règles pertinentes en
+ce qui concerne les services, opérations ou personnes porteurs de risques particuliers » (décision
+n° 2016-10 Dirham Express du 8 novembre 2017, considérant 6). Tel n’était pas le cas au sein de l’OPT-
+NC au moment de la vérification.
+L’OPT-NC, qui se borne à indiquer avoir élaboré, avec l’assistance du cabinet [Z], une nouvelle
+classification des risques, diffusée le 10 mai 2021, ne le conteste pas et le grief est fondé.
+Toutefois, la mention, dans la version de la classification des risques du 25 novembre 2019, du risque
+attaché aux virements à l’étranger, alors même que cette activité a, comme le relève d’ailleurs la
+classification des risques elle-même, été interrompue, ne constitue pas, par elle-même, un manquement.
+Le périmètre du grief doit en conséquence être très légèrement réduit.
+2°) L’organisation du dispositif
+8. En vertu du I de l’article L. 561-32 du CMF, les personnes assujetties doivent désigner « en tenant
+compte de la taille et de la nature de leur activité, une personne occupant une position hiérarchique
+élevée et possédant une connaissance suffisante de leurs expositions au risque de blanchiment de
+capitaux et de financement du terrorisme comme responsable de la mise en œuvre du dispositif de lutte
+contre le blanchiment des capitaux et le financement du terrorisme (…).
+Les personnes mentionnées ci-dessus mettent en place un dispositif de gestion des risques permettant
+de détecter les personnes mentionnées au 1° et les opérations mentionnées au 3° de l'article L. 561-10
+ainsi que celles mentionnée aux articles L. 561-10-2 et L. 561-15 ».
+L’article R. 561-38 du même code dispose que l’organisation du dispositif de LBC-FT doit être dotée
+« d’outils, de moyens matériels et humains permettant la mise en œuvre effective de l'ensemble des
+obligations de vigilance prévues au présent chapitre et en particulier la détection, le suivi et l'analyse
+des personnes et opérations mentionnées au troisième alinéa de l'article L. 561-32 ».
+9. Selon le grief 2, fondé sur ces dispositions, l’organisation du dispositif de surveillance des
+opérations était à plusieurs égards défaillante au moment de la vérification.
+En premier lieu, le responsable de la LBC-FT, qui était placé sous l’autorité hiérarchique du directeur
+des services bancaires et qui rapportait au directeur général délégué en charge de la performance
+économique, lui-même rattaché au directeur général, n’avait pas un positionnement hiérarchique
+suffisamment élevé pour lui permettre de veiller efficacement à la mise en œuvre des obligations de
+vigilance, notamment dans le réseau d’agences, où elles sont mises en œuvre par les guichetiers et
+conseillers, qui sont placés sous l’autorité du directeur du réseau des ventes, dont le niveau hiérarchique
+est de surcroît plus élevé que celui du responsable de la LBC-FT. En outre, ce responsable a, en 2018,
+consacré une très faible part de son temps de travail à la LBC-FT (6,5 %), part en forte diminution par
+rapport aux années 2016 (50 %) et 2017 (52 %). Il en résulte que l’OPT-NC a transmis très peu de
+déclarations de soupçon (DS) à Tracfin.
+En second lieu, les moyens matériels alloués au dispositif de surveillance des opérations - système
+d’information (SI) et interface [Y] - étaient insuffisants :
+- tout d’abord, ce dispositif était obsolète. Les requêtes paramétrées dans le SI n’étaient pas adaptées
+aux risques auxquels est exposé l’OPT-NC et ne permettaient donc pas de surveiller de manière
+appropriée les opérations des clients. Il était en conséquence nécessaire de procéder à des
+contournements, via l’outil [Y], mais celui-ci ne restituait pas l’intégralité des données présentes dans
+le SI et les extractions réalisées ne portaient pas sur toutes les opérations. Ce dispositif ne permettait pas
+non plus d’intégrer la totalité des éléments de connaissance de la clientèle au moyen des fiches « KYC »
+mises en place en 2016.
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2020-11
+- ce dispositif était par ailleurs inadapté, les scénarios utilisés ne couvrant pas la totalité des opérations,
+les paiements par carte, notamment, en étant exclus. En outre, les scénarios utilisés n’étaient pas toujours
+pertinents. Ainsi, le scénario « CCP 937 », utilisé pour surveiller les opérations effectuées sur les
+comptes, prévoyait un seuil de 500 000 XPF, alors que le montant moyen par opération en 2019 était
+très inférieur.
+10. Les carences relevées par la poursuite, qui ne sont pas contestées par l’OPT-NC, ne permettaient
+à l’établissement de respecter les obligations définies par les dispositions citées au point 8. Le grief est
+fondé.
+L’établissement se borne à souligner les actions correctives qu’il a mises en œuvre, qui ont
+notamment consisté en une amélioration du positionnement hiérarchique du responsable de la LBC-FT
+recruté en juin 2021 et en la commande, lancée au printemps 2021, de projets de développement
+informatiques destinés à intégrer les données des clients ainsi que des outils de filtrage, de surveillance
+et de scoring dans le SI. Ces actions sont sans incidence sur le bien-fondé du grief.
+B. Sur la mise en œuvre des obligations de vigilance
+1°) L’identification et la vérification de l’identité des bénéficiaires effectifs des clients
+11. En vertu de l’article L. 561-5 du CMF, « avant d'entrer en relation d'affaires avec leur client (…),
+les [organismes assujettis] :
+1° Identifient leur client et, le cas échéant, le bénéficiaire effectif au sens de l'article L. 561-2-2 ;
+2° Vérifient ces éléments d'identification sur présentation de tout document écrit à caractère
+probant ».
+12. Selon le grief 3, fondé sur ces dispositions, au moment de la vérification, l’OPT-NC n’identifiait
+pas les bénéficiaires effectifs de ses clients et, en conséquence, ne vérifiait pas leur identité.
+13. En défense, l’OPT-NC se borne à faire état d’une note interne du 10 mai 2021 sur « la
+connaissance client (KYC) et le suivi de la connaissance client au cours de la relation d’affaires », qui
+prévoit notamment l’identification et la vérification de l’identité des bénéficiaires effectifs. Compte tenu
+de sa date, cette note ne peut en tout état de cause relever que d’une action corrective, dont l’effectivité
+devra, au demeurant, être vérifiée. Elle est sans incidence sur le grief 3, qui est fondé.
+2°) La connaissance de l’objet et de la nature de la relation d’affaires
+14. En vertu de l’article L. 561-5-1 du CMF, avant d’entrer en relation d’affaires, les personnes
+assujetties « recueillent les informations relatives à l'objet et à la nature de cette relation et tout autre
+élément d'information pertinent. Elles actualisent ces informations pendant toute la durée de la relation
+d'affaires ».
+L’article R. 561-12 du même code dispose que ces personnes, « 1° Avant d'entrer en relation
+d'affaires, recueillent et analysent les éléments d'information nécessaires à la connaissance de l'objet et
+de la nature de la relation d'affaires ; / 2° Pendant toute la durée de la relation d'affaires, recueillent,
+mettent à jour et analysent les éléments d'information qui permettent de conserver une connaissance
+appropriée de leur relation d'affaires.
+La nature et l'étendue des informations collectées ainsi que la fréquence de la mise à jour de ces
+informations et l'étendue des analyses menées sont adaptés au risque de blanchiment de capitaux et de
+financement du terrorisme présenté par la relation d'affaires ».
+15. Selon le grief 4, fondé sur ces dispositions, au moment du contrôle, l’OPT-NC recueillait les
+mêmes éléments de connaissance de ses clients, quelle que fût la catégorie à laquelle ils appartenaient.
+Ces éléments n’étaient notamment pas adaptés à la catégorie des personnes politiquement exposées
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2020-11
+(PPE), que l’établissement classait pourtant comme présentant un risque élevé de blanchiment des
+capitaux ou de financement du terrorisme (BC-FT).
+Par ailleurs, l’obligation de recueillir les éléments d’information nécessaires à la connaissance de la
+relation d’affaires était mise en œuvre de façon partielle : (i) les informations sur les ressources des
+clients personnes physiques se déclarant sans profession n’étaient pas recueillies ; (ii) pour les autres
+clients personnes physiques, elles ne l’étaient pas systématiquement (dossier [A], ; dossier [B]) ; (iii) les
+informations sur la situation financière des clients personnes morales ne l’étaient pas non plus
+systématiquement(dossier [C]).
+16. Il est constant qu’au moment de la vérification dont il a fait l’objet, l’OPT-NC n’adaptait pas les
+éléments de connaissance de ses clients au risque que ceux-ci présentaient et que les informations
+recueillies étaient parcellaires. L’obligation, pour les personnes assujetties, de disposer d’informations
+exactes et précises sur leurs clients en relation d’affaires, notamment sur leurs revenus et leur patrimoine,
+bien qu’ayant déjà été rappelée par la Commission (cf. la décision n° 2017-05, Caisse fédérale de Crédit
+mutuel Nord Europe, 17 avril 2018, considérant 27), n’était pas respectée. Le grief est donc fondé, même
+si les deux exemples de clients personnes physiques mentionnés par la poursuite ne sont pas de nature à
+l’illustrer puisqu’ils contiennent des informations sur leurs revenus.
+L’OPT-NC se borne à faire état d’une série d’actions entreprises pour remédier aux carences
+reprochées. Il indique en particulier avoir lancé le 17 mars 2021, en relation avec un cabinet d’audit, un
+plan d’action visant à refondre son corpus procédural. En matière de connaissance des clients, la note
+du 10 mai 2021 ci-dessus mentionnée (cf. supra point 13) a été élaborée et diffusée. Elle prévoit une
+vigilance renforcée pour les PPE. Elle prévoit aussi le recueil de précisions sur l’environnement
+économique des clients sans profession et, lors de l’ouverture de tous les comptes de clients personnes
+physiques, l’obligation de renseigner les niveaux de revenus et de patrimoine. Elle mentionne enfin la
+nécessité de recueillir des informations sur la situation financière des clients personnes morales. L’OPT-
+NC indique par ailleurs qu’un « projet pilote OPT-NC remédiation KYC » pour la période du 26 janvier
+au 25 mars 2021 a été mis en œuvre afin d’inciter les clients à fournir les informations que l’OPT-NC
+doit recueillir et annonce la mise en production d’un outil KYC permettant de recenser l’ensemble des
+informations de connaissance client à destination des commerciaux. Ces actions sont sans incidence sur
+le bien-fondé du grief.
+3°) L’obligation de vigilance constante
+17. En vertu de l’article L. 561-6 du CMF, « pendant toute la durée de la relation d'affaires et dans
+les conditions fixées par décret en Conseil d'État, ces personnes exercent, dans la limite de leurs droits
+et obligations, une vigilance constante et pratiquent un examen attentif des opérations effectuées en
+veillant à ce qu'elles soient cohérentes avec la connaissance actualisée qu'elles ont de leur relation
+d'affaires ».
+L’article R. 561-12-1 du même code impose aux personnes assujetties de mettre en œuvre « des
+mesures permettant de s'assurer de la cohérence des opérations effectuées au titre d'une relation
+d'affaires avec la connaissance de cette relation d'affaires actualisée conformément à l'article R. 561-
+12. Ces mesures doivent notamment permettre de s'assurer que les opérations effectuées sont cohérentes
+avec les activités professionnelles du client, le profil de risque présenté par la relation d'affaires et, si
+nécessaire, selon l'appréciation du risque, l'origine et la destination des fonds concernés par les
+opérations. Les personnes mentionnées à l'article L. 561-2 sont en mesure de justifier auprès des
+autorités de contrôle de la mise en œuvre de ces mesures et de leur adéquation au risque de blanchiment
+de capitaux et de financement du terrorisme présenté par la relation d'affaires ».
+18. Selon le grief 5, fondé sur ces dispositions, au moment de la vérification, l’OPT-NC ne respectait
+pas totalement son obligation de vigilance constante.
+En premier lieu, les signalements transmis au service du contrôle interne et des risques (CIR) par le
+centre financier de Nouméa (CFN) ou les agences n’étaient pas systématiquement analysées. Ainsi, huit
+des 32 signalements transmis en 2019 qui ont fait l’objet de commentaires tels que « RAS » ou « CIR
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2020-11
+ok » auraient dû donner lieu à une analyse, l’OPT-NC ne disposant pas d’éléments suffisants pour
+justifier la cohérence de l’opération avec le profil du client (1. fiche n° 72019 ; 2. fiche n° 122019 ; 3.
+fiche n° 252019 ; 4. fiche n° 262019 ; 5. fiche n°312019 ; 6. fiche n° 422019 ; 7. fiche n °432019 ; 8.
+fiche n° 522019).
+En deuxième lieu, l’OPT-NC ne s’assurait pas systématiquement de la cohérence des opérations de
+retrait et de versement d’espèces, qui présentent pourtant un risque élevé de BC-FT : ainsi, 37 retraits
+d’espèces supérieurs à 100 000 XPF et 21 versements d’espèces, dont l’OPT-NC ne pouvait examiner
+la cohérence avec les informations qu’elle détenait au sujet des clients faute d’informations suffisantes,
+ont été exécutés.
+En troisième lieu, l’établissement ne tenait pas compte des réquisitions judiciaires reçues pour
+adapter ses mesures de vigilance à l’égard de sa clientèle.
+19. L’OPT-NC ne conteste pas les manquements relevés par la poursuite. Le grief est fondé.
+L’établissement se borne à indiquer que la « note réglementaire » du 10 mai 2021 comporte des
+instructions sur « les mesures de vigilance et les examens renforcés » qui doivent pallier les carences
+relevées par la vérification dont il a fait l’objet. Cette mesure corrective, dont l’effectivité devra au
+demeurant être vérifiée, est sans incidence sur le bien-fondé du grief.
+4°) La détection des personnes politiquement exposées
+20. En vertu du I de l’article L. 561-32 du CMF, les entreprises assujetties « mettent en place un
+dispositif de gestion des risques permettant de détecter les personnes mentionnées au 2° et les opérations
+mentionnées au 4° de l'article L. 561-10 ».
+L’article R. 561-20-2 du même code dispose que les personnes assujetties « définissent et mettent en
+œuvre des procédures, adaptées aux risques de blanchiment de capitaux et de financement du terrorisme
+auxquelles elles sont exposées, permettant de déterminer si leur client, ou son bénéficiaire effectif, est
+une personne mentionnée au 2° de l'article L. 561-10 ou le devient au cours de la relation d'affaires ».
+21. Selon le grief 6, fondé sur ces dispositions, au moment de la vérification, la liste utilisée pour
+détecter les PPE, qui ne comportait que les députés et sénateurs de Nouvelle-Calédonie ainsi que des
+personnes exerçant des fonctions locales, ne permettait pas de détecter toutes les PPE. En outre, elle
+n’était pas mise à la disposition des agents en charge de l’ouverture des comptes des clients personnes
+physiques, ce qui ne permettait pas de détecter les PPE au moment de l’entrée en relation d’affaires.
+La qualité éventuelle de PPE des bénéficiaires effectifs de ses clients personnes morales n’était pas
+non plus vérifiée.
+22. L’obligation de mettre en place un dispositif de gestion des risques permettant notamment de
+détecter les PPE a été rappelée par la Commission (décision n° 2018-06, Banque d’Escompte, 11 juillet
+2019, considérant 13). Au moment de la vérification dont il a fait l’objet, l’OPT-NC n’avait pas mis en
+place un tel dispositif, ce qu’il ne conteste pas. Le grief est fondé.
+L’établissement se borne à faire état d’une « note réglementaire » du 10 mai 2021, intitulée « Le
+filtrage », qui traite notamment de « la détection, l’identification et l’analyse » des PPE. Cette note, qui
+mentionne d’ailleurs un grand nombre de points à préciser, est, en tout état de cause, sans incidence sur
+le bien-fondé du grief.
+C. Sur le dispositif de contrôle interne
+23. En vertu du II de l’article L. 561-32 du CMF, « pour veiller au respect des obligations prévues
+au chapitre I du présent titre, les [organismes assujettis] mettent également en place des mesures de
+contrôle interne ».
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2020-11
+L’article R. 561-38-3 du même code dispose que ces organismes « mettent en place un dispositif de
+contrôle interne adapté à leur taille, à la nature, à la complexité et au volume de leurs activités et doté
+de moyens humains suffisants ».
+En vertu de son article R. 562-1, ils « mettent en place un dispositif de contrôle interne de la mise en
+œuvre des mesures mentionnées au premier alinéa [gel des avoirs et interdiction de mise à disposition
+ou d’utilisation des fonds ou ressources économiques] dans les conditions et selon les modalités prévues
+aux articles R. 561-38-2 à R. 561-38-9 ».
+24. Selon le grief 7, fondé sur ces dispositions, au moment de la vérification, les contrôles, effectués
+sur la base d’une note de procédure datée de 2012, étaient défectueux.
+En premier lieu, ce dispositif ne permettait pas de veiller au respect de l’ensemble des obligations en
+matière de LBC-FT et de gel des avoirs. Les contrôles ne portaient que sur trois types d’opérations :
+retraits et versements, mandats et ouvertures des comptes CCP ; ils ne couvraient donc qu’une partie
+des activités de l’établissement et ils excluaient le gel des avoirs. De plus, l’audit interne avait constaté
+que les contrôles sur les ouvertures de CCP n’étaient plus réalisés et relevé, en juillet 2019, que les
+contrôles n’étaient que partiellement réalisés et étaient entachés de non-conformités.
+En deuxième lieu, le dispositif de contrôle était inadapté à la taille de l’établissement ainsi qu’au
+volume de ses activités et aux risques que celles-ci présentent, selon l’analyse de Tracfin dans son étude
+« Tendances et analyse des risques de BC-FT en 2017-2018 » (p.25), confirmée par l’analyse sectorielle
+des risques de l’ACPR publiée le 2 décembre 2019 (p.12). En effet, les contrôles dits de « second
+niveau », effectués par les correspondants du contrôle interne, « annuellement pour les services du CFN
+ou tous les 2 ans dans les agences » ou par le service CIR, étaient réalisés par des personnes chargées
+de fonctions opérationnelles, notamment par les chefs d’agence, ainsi placés en situation d’autocontrôle.
+En troisième lieu, ce dispositif était inefficace puisque, malgré le constat de ses défaillances par
+l’audit interne, seules quatre de ses cinq recommandations en 2017, quatre de ses 27 recommandations
+en 2018 et quatre de ses 20 recommandations en 2019 avaient été mises en œuvre au moment de la
+vérification.
+25. L’OPT-NC ne conteste pas les manquements relevés par la poursuite. Le grief est fondé.
+L’établissement se borne à mentionner les actions de remédiation entreprises, qui consistent
+notamment en la mise en place de trois niveaux de contrôles distincts. Cette nouvelle organisation a été
+formalisée dans la procédure du 10 mai 2021 précédemment mentionnée. Il est prévu que sa mise en
+œuvre, avec l’objectif de déployer « un contrôle permanent de second niveau indépendant » et « un
+contrôle périodique robuste dédié aux services financiers », soit achevée fin 2023. Ces actions de
+remédiation sont sans incidence sur le bien-fondé du grief.
+D. Sur le dispositif de gel des avoirs
+26. En vertu de l’article R. 562-1 du CMF, les organismes assujettis « mettent en place une
+organisation et des procédures internes pour la mise en œuvre des mesures de gel des avoirs et
+d'interdiction de mise à disposition ou d'utilisation des fonds ou ressources économiques prévues aux
+articles L. 562-2, L. 562-3, L. 562-5 et L. 714-1 ».
+27. Selon le grief 8, fondé sur ces dispositions, le dispositif de détection des personnes soumises à
+une mesure de gel des avoirs n’était pas exhaustif, aucun filtrage des mandataires et des bénéficiaires
+effectifs n’étant réalisé.
+28. La Commission a déjà souligné « que la mise en place d'un dispositif efficace de gel des avoirs
+répond à une exigence essentielle pour les organismes assujettis, en particulier les établissements
+bancaires, qui sont en première ligne pour la mise en œuvre de cette législation, au titre de laquelle leur
+incombe une obligation de résultat » (décision n° 2018-01 La Banque Postale, 21 décembre 2018,
+considérant 35). Le défaut d’exhaustivité de son dispositif, qui n’est pas contesté, ne permettait pas à
+l’OPT-NC de respecter cette obligation. Le grief est fondé.
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2020-11
+L’établissement se borne à faire état des mesures correctives mises en œuvre, notamment de la
+rédaction d’une nouvelle procédure, diffusée le 20 mai 2020, qui détaille les diligences en matière de
+gel des avoirs afin de répondre aux insuffisances reprochées. Ces actions sont sans incidence sur le bien-
+fondé du grief.
+*
+* *
+29. Il résulte de ce qui précède qu’au moment de la vérification dont l’OPT-NC a fait l’objet, son
+dispositif de LBC-FT présentait de graves carences affectant plusieurs de ses aspects essentiels. Ainsi,
+sa classification des risques était lacunaire, tant au regard des produits commercialisés que des pays vers
+lesquels des opérations étaient effectuées ou encore des caractéristiques de sa clientèle (grief 1). Son
+dispositif de surveillance des opérations était défaillant pour des raisons tenant à son organisation, à
+l’insuffisance des moyens humains qui lui étaient consacrés ainsi qu’au caractère obsolète des moyens
+techniques utilisés (grief 2). Les obligations de vigilance n’étaient en conséquence que très partiellement
+respectées, qu’il s’agisse de l’identification des bénéficiaires effectifs et de la vérification de leur
+identité, de la connaissance de l’objet et de la nature des relations d’affaires, de la vigilance constante
+ou de la détection des PPE (griefs 3 à 6).
+Les défaillances du contrôle interne, parcellaire, inadapté et inefficace, contribuaient à l’état très
+dégradé de ce dispositif (grief 7).
+Par ailleurs, au moment de la vérification, l’organisation du dispositif de détection des personnes
+soumises à une mesure de gel des avoirs ne permettait pas à l’établissement de se conformer à ses
+obligations dans ce domaine (grief 8).
+30. La Commission estime cependant nécessaire de tenir compte de plusieurs circonstances
+particulières, afin de respecter le principe de proportionnalité des sanctions.
+31. Depuis son transfert à la Nouvelle-Calédonie par l’Etat, l’OPT-NC a connu une période de grande
+incertitude stratégique. Constatant le caractère déficitaire de ses activités financières, l’OPT-NC a
+d’abord envisagé de créer une banque de plein exercice, qui aurait permis de diversifier ses produits et
+qui aurait pris en charge les obligations en matière de LBC-FT. Or les négociations sur ce point, qui
+avaient donné lieu en 2010 à la signature d’une convention de trois ans avec une banque partenaire puis
+à la création en 2015 d’une filiale dédiée au portage du projet (Fiposte), se sont prolongées, avant d’être
+interrompues en 2019.
+L’établissement a alors envisagé de mettre un terme à ses activités financières. Cependant, ainsi que
+l’a d’ailleurs relevé le rapport de vérification, l’OPT-NC agit en réalité comme un « service public
+d’aménagement du territoire » : il est le seul à offrir des services financiers à une population souvent
+éloignée de l’agglomération de Nouméa, qui dispose de faibles revenus et qui, sans lui, ne serait pas
+bancarisée. Prenant en compte l’importance de ce rôle pour la société néo-calédonienne, l’OPT-NC a,
+en définitive, décidé de maintenir son activité financière. Cette décision, intervenue seulement en février
+2021, s’est accompagnée de la décision de mettre à niveau son dispositif de LBC-FT.
+Par ailleurs, la gouvernance de l’établissement a été marquée par une grande instabilité. Du fait des
+changements politiques fréquents, la composition de son conseil d’administration et, notamment sa
+présidence, ont changé plusieurs fois, ce qui ne pouvait favoriser la prise de décisions appropriées. Une
+telle instabilité ne justifie pas la persistance de carences graves en matière de LBC-FT, mais contribue
+à l’expliquer.
+32. Il y a lieu, en outre, de tenir compte du fait que l’établissement a engagé un plan de remédiation
+sur trois ans, qui prévoit des dépenses très lourdes au regard du poids modeste - environ 3 % - dans son
+chiffre d’affaires des services financiers et au regard des pertes que ceux-ci occasionnent. Certes, ce plan
+a été engagé tardivement et ses effets devront être évalués avec d’autant plus de soin que, ainsi que le
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2020-11
+relève l’OPT-NC lui-même, les caractéristiques de sa clientèle et le contexte social sont susceptibles de
+soulever des difficultés particulières. La volonté manifestée par l’établissement d’engager avec
+détermination la mise à niveau de son dispositif de LBC-FT constitue cependant un élément
+d’atténuation.
+33. La Commission a enfin été attentive à la situation financière de l’OPT-NC. L’établissement
+finance depuis de nombreuses années, grâce aux résultats de son activité dans les télécommunications
+(de l’ordre de 45 millions d’euros par an), où il bénéficie d’un monopole, les pertes de son activité
+financière (de l’ordre de 15 millions d’euros par an). Cette activité continue, dans les mêmes proportions
+que l’activité postale d’ailleurs, à peser lourdement sur ses résultats : ceux-ci étaient encore stables en
+2020 grâce à des produits exceptionnels mais les prévisions d’évolution sont défavorables. Cependant,
+les fonds propres de l’établissement sont encore d’un montant très significatif.
+34. Compte-tenu de l’ensemble de ces éléments, il y a lieu de prononcer à l’encontre de l’OPT-NC
+un blâme et une sanction financière d’un montant de 150 000 euros.
+De plus, en l’absence d’éléments de nature à établir qu’une publication sous forme nominative
+causerait à l’OPT-NC un préjudice disproportionné et qu’elle méconnaîtrait, en l’espèce, l’équilibre
+entre l’exigence d’intérêt général à laquelle elle répond et ses intérêts, il y a lieu de publier la présente
+décision au registre de l’ACPR sous forme nominative pendant une durée de cinq ans. Elle y sera ensuite
+maintenue sous une forme non nominative.
+*
+* *
+PAR CES MOTIFS
+DÉCIDE :
+ARTICLE 1ER – Il est prononcé à l’encontre de l’Office des postes et télécommunications de
+Nouvelle-Calédonie un blâme et une sanction pécuniaire de 150 000 euros (cent cinquante mille euros).
+ARTICLE 2 – La présente décision sera publiée au registre de l’ACPR pendant cinq ans sous une
+forme nominative, puis sous une forme ne permettant pas d’identifier l’Office des postes et
+télécommunications de Nouvelle-Calédonie, et pourra être consultée au secrétariat de la Commission.
+Le Président de la Commission
+des sanctions
+[Alain Ménéménis]
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification
+et dans les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 10

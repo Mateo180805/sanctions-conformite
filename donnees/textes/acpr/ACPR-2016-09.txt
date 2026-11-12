@@ -1,0 +1,572 @@
+===== Page 1 =====
+CAISSE RÉGIONALE DE CRÉDIT
+AGRICOLE MUTUEL
+ATLANTIQUE VENDÉE
+Procédure no 2016-09
+–––––
+Blâme et sanction pécuniaire
+de 2 millions d’euros
+–––––
+Audience du 14 juin 2017
+Décision rendue le 30 juin 2017
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 14 novembre 2016 par laquelle le Président de l’Autorité de contrôle prudentiel et de
+résolution (ci-après l’ACPR) informe la Commission de ce que le Collège de supervision de l’ACPR (ci-
+après le Collège), statuant en sous-collège sectoriel de la banque, a décidé d’ouvrir une procédure
+disciplinaire à l’encontre de la Caisse régionale de Crédit agricole mutuel Atlantique Vendée (ci-après la
+« CRCAM AV »), dont le siège social est situé à La Garde, route de Paris, Nantes ;
+Vu la notification des griefs du 14 novembre 2016 ;
+Vu le mémoire en défense du 23 janvier 2017 et les pièces qui l’accompagnent, par lesquels la CRCAM
+AV (i) conteste une partie des griefs et estime que le champ matériel d’autres griefs, au sujet desquels elle
+souligne l’absence d’élément intentionnel, doit être réduit, (ii) demande à la Commission de tenir compte de
+la faible gravité des faits reprochés, du contexte de réorganisation globale du dispositif de lutte contre le
+blanchiment des capitaux et le financement du terrorisme (ci-après « LCB-FT ») dans lequel le contrôle sur
+place est intervenu ainsi que des actions correctrices entreprises et, en conséquence, de ne prononcer à son
+encontre qu’un avertissement, (iii) demande en outre que la décision à intervenir ne soit pas publiée et à tout
+le moins qu’elle ne soit pas nominative et (iv) que la séance de la Commission se tienne à huis clos ;
+Vu le procès-verbal de l’audition du directeur général de la CRCAM AV, du 27 février 2017 ;
+Vu le mémoire du 17 mars 2017 et les observations du 18 mai 2017, par lesquels M. Christian Babusiaux,
+représentant du Collège, maintient l’ensemble des griefs notifiés ;
+Vu le rapport du 11 mai 2017 de Mme Christine Meyer-Meuret, rapporteur, dans lequel celle-ci conclut
+que 7 des 8 griefs notifiés sont établis ;
+Vu les courriers du 11 mai 2017 convoquant les parties à l’audience et les informant de la composition de
+la Commission et de ce qu’il sera fait droit à la demande présentée par la CRCAM AV tendant à ce que cette
+audience ne soit pas publique ;
+Vu les autres pièces du dossier, notamment le rapport de contrôle du 22 février 2016 ;
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2016-09
+Vu le code monétaire et financier (ci-après le « CMF »), notamment ses articles L. 561-6, L. 561-10-2,
+L. 561-15, L. 612-39, R. 561-12, R. 561-20, R. 561-38, R. 612-35 à R. 612-51 et D. 561-32-1, dans leur
+rédaction en vigueur au moment des faits ;
+Vu l’ordonnance no 2009-104 du 30 janvier 2009 relative à la prévention de l’utilisation du système
+financier aux fins de blanchiment de capitaux et de financement du terrorisme (ci-après l’« ordonnance
+no 2009-104 »), notamment son article 19 ;
+Vu le règlement no 97-02 relatif au contrôle interne des établissements de crédit et des entreprises
+d’investissement (ci-après le « règlement no 97-02 »), notamment son article 11-7, dont les dispositions sont
+reprises à l’article 46 de l’arrêté du 3 novembre 2014 relatif au contrôle interne des entreprises du secteur de
+la banque, des services de paiement et des services d’investissement soumises au contrôle de l’Autorité de
+contrôle prudentiel et de résolution (ci-après l’« arrêté du 3 novembre 2014 »), ainsi que les articles 57, 59,
+71, 72 et 73 de cet arrêté ;
+Vu l’arrêté du 2 septembre 2009 pris en application de l’article R. 561-12 du code monétaire et financier
+et définissant des éléments d’information liés à la connaissance du client et de la relation d’affaires aux fins
+d’évaluation des risques de blanchiment de capitaux et de financement du terrorisme ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACPR, composée de M. Rémi Bouchez, Président, et de MM. Yves
+Breillat, Francis Crédot, Christian Lajoie et Denis Prieur ;
+Après avoir entendu, lors de sa séance non publique du 14 juin 2017 :
+− Mme Meyer-Meuret, rapporteur, assistée de Mme Marie Mallard Saih, son adjointe ;
+− M. Rodolphe Lelté, représentant de la directrice générale du Trésor, qui a indiqué ne pas avoir
+d’observations à formuler ;
+− M. Babusiaux, représentant du Collège de l’ACPR, assisté de l’adjointe au directeur des affaires
+juridiques de l’ACPR, de l’adjoint au directeur de la deuxième direction du contrôle des banques, de
+l’adjointe au chef du service des affaires institutionnelles et du droit public et d’une juriste au sein de ce
+service ; M. Babusiaux a proposé le prononcé d’un blâme assorti d’une sanction pécuniaire de 3 millions
+d’euros, dans une décision publiée sous une forme nominative ;
+− la CRCAM AV, représentée par son directeur général adjoint et son secrétaire général ainsi que par
+Mes Michel Beaussier, Claire Lavarde et Arthur Merle Beral (cabinet White & Case LLP), avocats à la
+Cour ;
+Les représentants de la CRCAM AV ayant eu la parole en dernier ;
+Après avoir délibéré en la seule présence de M. Bouchez, Président, et de MM. Breillat, Crédot, Lajoie et
+Prieur ainsi que de M. Jean-Manuel Clemmer, chef du service de la Commission des sanctions faisant
+fonction de secrétaire de séance ;
+1. Considérant que la CRCAM AV, société coopérative à capital variable agréée en qualité
+d’établissement de crédit, est issue de la fusion, en janvier 2002, des Caisses de Loire-Atlantique et de
+Vendée ; qu’au moment du contrôle, elle employait 2 160 collaborateurs et comptait environ 860 000
+clients ; que ses fonds propres consolidés s’élevaient à 2,38 milliards d’euros fin 2015 et 2,5 milliards
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2016-09
+d’euros fin 2016 ; qu’elle a réalisé en 2015 et 2016, respectivement, un produit net bancaire de 460 et 429
+millions d’euros et un résultat net (part du groupe) de 131 et 114 millions d’euros ;
+2. Considérant que la CRCAM AV a fait l’objet d’un contrôle sur place du 12 janvier au 31 juillet 2015,
+qui a donné lieu à la signature d’un rapport définitif le 22 février 2016 (ci-après le « rapport de contrôle ») ;
+qu’au vu de ce rapport, le Collège a décidé, lors de sa séance du 20 octobre 2016, d’ouvrir la présente
+procédure disciplinaire ;
+I. Sur l’organisation du dispositif LCB-FT
+A. Sur la classification des risques LCB-FT
+3. Considérant que le 2o du I de l’article R. 561-38 du CMF prévoit que les organismes assujettis
+« élaborent une classification des risques de blanchiment des capitaux et de financement du terrorisme
+présentés par leurs activités, selon le degré d’exposition à ces risques apprécié en fonction notamment de la
+nature des produits ou des services offerts, des conditions des transactions proposées, des canaux de
+distribution utilisés ainsi que des caractéristiques des clients » ; que, selon l’article 57 de l’arrêté du
+3 novembre 2014, « La classification des risques de blanchiment de capitaux et de financement du
+terrorisme couvre toutes les activités susceptibles d’exposer l’entreprise à des risques dans le domaine de la
+lutte contre le blanchiment des capitaux et le financement du terrorisme, notamment : / - les opérations avec
+les personnes mentionnées à l’article R. 561-18 du code monétaire et financier ; / - les activités mentionnées
+à l’article R. 561-21 du code monétaire et financier ; / - les activités de gestion de fortune ; /- les activités
+exercées avec des personnes établies dans des États ou territoires mentionnés par le Groupe d’action
+financière parmi ceux dont la législation ou les pratiques font obstacle à la lutte contre le blanchiment de
+capitaux et le financement du terrorisme, ou par l’intermédiaire d’implantations dans ces États ou
+territoires ; / - les activités exercées avec des personnes établies dans des États ou territoires mentionnés au
+I de l’article L. 511-45 du code monétaire et financier ou par l’intermédiaire d’implantations dans ces États
+ou territoires » ; que selon l’article 59 de cet arrêté, « La classification des risques de blanchiment de
+capitaux et de financement du terrorisme évalue le niveau de risque des différents produits ou services
+offerts, des modalités ou des conditions particulières des opérations effectuées, des canaux de distribution
+utilisés ainsi que des caractéristiques de la clientèle ciblée » ;
+4. Considérant que selon le grief 1, fondé sur ces dispositions, la classification des risques de blanchiment
+des capitaux et de financement du terrorisme (ci-après « BC-FT ») de la CRCAM AV reprend, sans
+l’adapter, celle élaborée par le Groupe Crédit Agricole (ci-après le « GCA »), contrairement aux instructions
+générales de celui-ci et alors même qu’une mission de son inspection générale, conduite en 2012, avait
+relevé cette anomalie ; qu’elle ne prend en compte ni les entrées en relation des clients anglais et irlandais
+externalisées auprès de la Caisse régionale de Crédit agricole mutuel de Normandie (ci-après la « CRCAM
+Normandie ») sous l’enseigne « Britline », ni les caractéristiques de la clientèle de la banque privée qui
+représente environ (…) relations d’affaires, parmi lesquelles la mission de contrôle a relevé 4 défauts de
+déclaration de soupçon (ci-après « DS ») (A1, A2, A3 et A4) ;
+5. Considérant qu’il incombe à un établissement soumis aux règles de LCB-FT de mettre en place une
+classification des risques comportant des règles pertinentes à l’égard de toute activité qu’il exerce
+comportant des risques particuliers ; que la CRCAM AV admet ne pas avoir adapté à sa situation la
+classification des risques du GCA et ne conteste pas l’absence de traitement dans sa classification des risques
+des deux catégories de clients mentionnées par la poursuite ; que l’externalisation auprès de la CRCAM
+Normandie de l’entrée en relation avec la clientèle « Britline » ne supprimant pas le risque de BC-FT
+résultant, pour la CRCAM AV, des opérations de ces clients, ces opérations auraient dû être intégrées dans
+sa classification des risques ; qu’il en va de même des opérations de la clientèle de la banque privée, compte
+tenu de ses caractéristiques et des risques particuliers qui en résultent ; qu’au demeurant, l’activité de banque
+privée présente des risques qui ont été précisés par les lignes directrices relatives à la LCB-FT en matière de
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2016-09
+gestion de fortune publiées par l’ACPR en mars 2014 après avoir été soulignés par le Groupe d’action
+financière (GAFI) en février 2012 ; que les actions correctrices présentées, qui sont postérieures à la mission
+de contrôle, sont sans conséquence sur le grief, qui est établi ;
+B. Sur la connaissance de la clientèle et son actualisation
+6. Considérant que l’article L. 561-6 du CMF impose aux organismes assujettis, avant d’entrer en relation
+d’affaires avec un client et pendant toute la durée de celle-ci, de recueillir les informations relatives à l’objet
+et à la nature de cette relation ainsi que tout autre élément d’information pertinent sur ce client ; qu’en outre,
+ces organismes sont tenus, pendant toute la durée de cette relation d’affaires et dans les conditions fixées par
+décret en Conseil d’État, d’exercer, dans la limite de leurs droits et obligations, une vigilance constante et de
+pratiquer un examen attentif des opérations effectuées, en veillant à ce qu’elles soient cohérentes avec la
+connaissance actualisée qu’ils ont de leur client ; que selon l’article R. 561-12 du même code : « Pour
+l’application de l’article L. 561-6, les personnes mentionnées à l’article L. 561-2 : / 1o Avant d’entrer en
+relation d’affaires, recueillent et analysent les éléments d’information, parmi ceux figurant sur la liste
+dressée par un arrêté du ministre chargé de l’économie, nécessaires à la connaissance de leur client ainsi
+que de l’objet et de la nature de la relation d’affaires, pour évaluer le risque de blanchiment de capitaux et
+de financement du terrorisme ; / 2o Pendant toute la durée de la relation d’affaires, recueillent, mettent à
+jour et analysent les éléments d’information, parmi ceux figurant sur une liste dressée par un arrêté du
+ministre chargé de l’économie, qui permettent de conserver une connaissance appropriée de leur client. La
+collecte et la conservation de ces informations doivent être réalisées en adéquation avec les objectifs
+d’évaluation du risque de blanchiment des capitaux et de financement du terrorisme et de surveillance
+adaptée à ce risque ; / 3o À tout moment, sont en mesure de justifier aux autorités de contrôle l’adéquation
+des mesures de vigilance qu’elles ont mises en œuvre aux risques de blanchiment de capitaux et de
+financement du terrorisme présentés par la relation d’affaires » ; que 1’article 19 de 1’ordonnance no 2009-
+104 prévoit que les organismes assujettis appliquent à leur clientèle existante les nouvelles obligations de
+vigilance prévues aux articles L. 561-5 à L. 561-14 du CMF « dans les meilleurs délais appréciés en fonction
+des risques et au plus tard dans un délai d’un an à compter de la publication du dernier des décrets prévus
+pour l’application de ces articles et, pour les relations d’affaires inactives, à leur première réactivation » ;
+7. Considérant que selon le grief 2, fondé sur ces dispositions, au moment du contrôle, les informations
+relatives aux revenus des clients n’avaient pas été recueillies dans 15 dossiers (A5 – compte ouvert en 1998 ;
+A6 – compte ouvert en 2005 ; A7 – compte ouvert en 1993 ; A8 – compte ouvert en 2013 ; A9 – compte
+ouvert en 2008 ; A10 – compte ouvert en 2006 ; A11 – compte ouvert en 1976 ; A12 – compte ouvert en
+2011 ; A13 – compte ouvert en 2012 ; A14 – compte ouvert en 2010 ; A15 – compte ouvert en 1995 ; A16 –
+compte ouvert en 1976 ; A17 – compte ouvert en 1966 ; A18 – compte ouvert en 2011 ; et A19 – compte
+ouvert en 2012) ; que, par ailleurs, dans 5 dossiers, la CRCAM AV ne disposait pas d’informations
+actualisées sur les revenus de ses clients, depuis 2007 (A20, A21, A22), ou 2008 (A23, A24) ;
+8. Considérant que ces constatations ne sont pas contestées ; que, s’agissant de relations d’affaires en
+cours à la date à laquelle l’ordonnance no 2009-104 a été publiée, les éléments de connaissance des clients
+auraient dû être réunis ou mis à jour dans un délai expirant le 4 septembre 2010, un an après la publication
+du décret n° 2009-1087 du 2 septembre 2009, dernier des décrets d’application au sens de l’article 19 de
+l’ordonnance n° 2009-104 ; que les actions correctrices mentionnées par lesquelles, d’une part, les
+procédures de la CRCAM AV ont été revues afin d’éviter toute réitération de tels faits et, d’autre part, les
+informations sur les clients en cause ont été complétées ou, à défaut, la relation d’affaires interrompue, sont
+sans conséquence sur le grief, qui est établi ;
+C. Sur les mesures de vigilance complémentaire
+9. Considérant que selon le 3o du II du R. 561-20 du CMF, lorsque le client est une personne
+politiquement exposée (PPE), « [les personnes mentionnées à l’article L. 561-2] recherchent, pour
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2016-09
+l’appréciation des risques de blanchiment de capitaux et de financement du terrorisme, l’origine du
+patrimoine et des fonds impliqués dans la relation d’affaires ou la transaction. » ;
+10. Considérant que selon le grief 3, fondé sur ces dispositions, les 15 dossiers de clients identifiés
+comme PPE par la CRCAM AV (dossiers A25, A26, A27, A28, A29, A30, A31, A32, A33, A34, A35, A36,
+A37, A38, A39) ne contenaient pas, au moment du contrôle, d’informations sur l’origine du patrimoine et
+des fonds de ces clients ;
+11. Considérant que la CRCAM AV ne conteste pas la matérialité des faits relevés mais tient toutefois à
+restreindre le champ du grief, en indiquant que l’obligation de vigilance doit s’apprécier in concreto
+relativement aux fonds « impliqués dans la relation d’affaires ou la transaction » ; qu’elle indique vérifier la
+cohérence économique de ces fonds avec les éléments de connaissance de la clientèle et souligne qu’en
+outre, des opérations peu significatives et faibles transitent dans ses livres lorsqu’elle n’est pas la banque
+principale du client PPE, situation qui rendrait « inopportune la sollicitation d’éléments relatifs à l’origine
+du patrimoine et des fonds non impliqués dans la relation d’affaires ou les transactions réalisées par le
+client » ; que, toutefois, l’obligation de vigilance complémentaire prévue par le CMF s’applique pour toute
+PPE en relation d’affaires avec l’établissement, quelle que soit la nature de cette relation et l’importance des
+opérations réalisées ; que le caractère éventuellement secondaire du compte ouvert dans les livres de
+l’établissement au regard d’autres comptes détenus par le client est donc sans conséquence sur les obligations
+de l’établissement ; qu’il ressort du dossier que la CRCAM AV ne disposait pas d’informations sur l’origine
+du patrimoine et des fonds impliqués dans les opérations qu’elle a réalisées pour le compte de ces PPE ; que
+les actions correctrices présentées, intervenues après le contrôle sur place et qui ont consisté à obtenir, après
+la mission de contrôle, des informations supplémentaires ou, à défaut, à fermer le compte et à placer les
+clients PPE sous vigilance renforcée, sont sans conséquence sur le grief, qui est établi ;
+II. Sur le dispositif de surveillance LCB-FT
+A. Sur le paramétrage de l’outil de surveillance LCB-FT et le traitement des alertes
+12. Considérant que l’article 46 de l’arrêté du 3 novembre 2014 dispose que « les entreprises assujetties
+se dotent de dispositifs de suivi et d’analyse de leurs relations d’affaires, fondés sur la connaissance de leur
+clientèle, permettant notamment de détecter les opérations qui constituent des anomalies au regard du profil
+des relations d’affaires et qui pourraient faire l’objet d’un examen renforcé mentionné au II de l’article
+L. 561-10-2 du code monétaire et financier ou d’une déclaration prévue à l’article L. 561-15 du même
+code » ;
+1o Sur le paramétrage de l’outil de surveillance
+13. Considérant que selon le grief 4, fondé sur ces dispositions, la CRCAM AV a été dotée par le GCA,
+au même titre que les autres caisses régionales, de l’outil X qui produit des alertes afin d’évaluer le risque de
+BC-FT attaché au client, via un criblage, ou à l’opération détectée, via des scénarios ; que toutes les caisses
+régionales sont tenues d’utiliser 24 scénarios qu’elles sont libres de compléter par 13 scénarios optionnels ;
+que la CRCAM AV, qui avait, à la date du contrôle, ajouté 6 des scénarios optionnels aux 24 scénarios
+obligatoires, a choisi d’exempter 251 clients de certains de ces scénarios dont 225 clients l’ont été soit du
+scénario obligatoire S03 « Versements cumulés d’espèces hebdomadaires en montant » (89 clients), soit d’un
+des scénarios optionnels S07 « Tendance à la hausse des versements espèces mensuels (en montant) » (112
+clients) ou S08 « Nombre et montant élevé de versements espèces mensuels » (24 clients) ; que 14 clients
+étaient de plus exemptés simultanément soit des scénarios S03 et S07 (9 clients), soit des scénarios S03 et
+S08 (5 clients) ; que parmi les opérations de ces clients, 3 défauts de DS ont été relevés – dossiers A40, A41
+et A42 ; qu’en outre, la CRCAM AV n’a pas adapté aux caractéristiques des opérations de ses clients le seuil
+de détection mensuel de 8 000 euros par opération appliqué aux opérations atypiques de la clientèle sous
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2016-09
+surveillance renforcée (scénario S54), alors même qu’il n’a entraîné le déclenchement d’aucune alerte en
+2014 ;
+14. Considérant que si la CRCAM AV soutient que, dans une précédente décision, la Commission a
+estimé, au sujet d’un défaut de paramétrage de l’outil X, que « le non-respect éventuel de l’obligation de
+vigilance ne [peut] être apprécié qu’au stade des conséquences des choix retenus » (décision no 2011-01
+Banque populaire des Alpes – 29 juin 2012), le reproche adressé au titre du présent grief n’est pas relatif à un
+défaut de vigilance constante mais à l’efficacité du dispositif de suivi et d’analyse de la relation d’affaires ;
+que si l’activité de certains clients professionnels, par exemple des commerces de proximité, amène ces
+clients à recevoir des paiements en espèces récurrents et importants, cela peut conduire à moduler
+l’appréciation portée sur les versements d’espèces reçus par eux mais ne saurait suffire à justifier que leurs
+opérations soient exemptées de toute surveillance à cet égard ; que, de même, il ne peut être tiré argument de
+ce qu’aucun client n’a été exempté de tous les scénarios relatifs aux versements d’espèces puisque, dès lors
+que ceux-ci ne sont pas redondants, l’exemption d’un scénario réduisait nécessairement l’efficacité de l’outil
+de surveillance X dans la détection des opérations atypiques, ce que confirment les 3 dossiers mentionnés par
+la poursuite ; que la suppression de toutes ces exemptions après le contrôle sur place s’analyse comme une
+action correctrice, sans conséquence sur le reproche ; que si l’exemption simultanée des scénarios S03 et S08
+n’a concerné, en réalité, que 3 clients au lieu des 5 mentionnés par la notification des griefs, la réduction du
+périmètre du grief qui en résulte ne remet pas en cause celui-ci ; qu’en l’absence d’alerte produite en 2014 au
+titre du scénario 54 relatif aux mouvements client sous surveillance renforcée, absence qui démontrait le
+défaut de pertinence du seuil de 8 000 euros, celui-ci aurait dû être adapté ; que la révision des scénarios
+paramétrés dans l’outil X, dont les seuils modifiés seraient désormais opérationnels, est sans conséquence sur
+le reproche ; qu’ainsi, le grief 4 est établi ;
+2o Sur le traitement des alertes produites par l’outil LCB-FT
+15. Considérant que selon le grief 5, fondé également sur les dispositions citées au considérant 12, les
+opérations détectées par l’outil X ne font pas l’objet d’une analyse suffisante afin de détecter un
+fonctionnement atypique nécessitant un examen renforcé ; qu’en 2014, 1 250 des 5 134 alertes ont été
+clôturées sans justification valable, avec des commentaires tels que « ras » ou « aucun commentaire » ou
+« fermeture de l’alerte pour la raison suivante » sans que la raison ne soit ensuite mentionnée ; que les
+commentaires figurant dans d’autres dossiers, tels que « Activité de courtage de métaux, client interdit
+bancaire », « activité de restauration rapide », « monsieur a un magasin de motos avec son fils et au lieu de
+refuser les paiements en liquide de + de 3 000 euros, il les accepte d’où les plusieurs versements d’espèces »
+ne constituent pas une analyse des opérations et ne peuvent justifier que l’alerte ait été clôturée ;
+16. Considérant que le reproche formulé au titre du présent grief ne porte pas sur une inadaptation de
+l’outil informatique contribuant à la détection des anomalies mais sur des insuffisances dans l’analyse des
+alertes produites par cet outil ; que les dispositions réglementaires ci-dessus rappelées imposent de faire
+suivre les alertes générées par l’outil informatique d’une telle analyse en vue de la détection d’anomalies au
+regard du profil de la relation d’affaires et, le cas échéant, de justifier de façon documentée les décisions de
+classement sans suite des alertes ; qu’au demeurant, les lignes directrices de l’ACP et de Tracfin sur la
+déclaration de soupçon publiées le 21 juin 2010 mentionnaient déjà que « Une fois détectée une anomalie, le
+cas échéant par le recours à des outils informatiques et en se fondant sur des éléments d’identification et de
+connaissance du client actualisés, il est indispensable de procéder à une analyse de l’opération ou des
+opérations en cause permettant d’en établir, le cas échéant, le caractère suspect » ; que si la Commission a,
+dans une précédente affaire, écarté un grief relatif à la qualité de traitement des alertes, estimant qu’il n’était
+pas établi que les défaillances relevées résultaient d’une inadaptation des procédures de l’établissement mis
+en cause (décision Caisse d’épargne et de prévoyance du Languedoc-Roussillon, procédure 2013-01,
+25 novembre 2013), le reproche n’était pas de même nature que dans la présente procédure ; qu’au regard de
+l’article 46 de l’arrêté du 3 novembre 2014, une carence dans l’organisation du dispositif de suivi et
+d’analyse des relations d’affaires peut être établie indépendamment de l’appréciation portée sur l’importance
+des moyens humains et techniques mis œuvre pour analyser les alertes produites par l’outil X ; qu’en
+l’espèce, les mentions figurant dans les dossiers cités par la poursuite attestent d’une analyse souvent
+insuffisante de ces alertes ; qu’ainsi, le pourcentage très élevé d’alertes clôturées de façon non documentée
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2016-09
+révèle un défaut dans l’organisation même du suivi et de l’analyse des relations d’affaires ; que le grief est
+donc établi ;
+B. Sur les examens renforcés
+17. Considérant que selon le II de l’article L. 561-10-2 du CMF, « les organismes assujettis effectuent un
+examen renforcé de toute opération particulièrement complexe ou d’un montant inhabituellement élevé ou ne
+paraissant pas avoir de justification économique ou d’objet licite. Dans ce cas, ces organismes se
+renseignent auprès du client sur l’origine des fonds et la destination de ces sommes ainsi que sur l’objet de
+l’opération et l’identité de la personne qui en bénéficie.» ;
+18. Considérant que selon le grief 6, fondé sur ces dispositions, l’analyse d’un échantillon de 26 des 520
+examens renforcés que la CRCAM AV a, en 2014, déclaré à l’ACPR avoir effectués, fait ressortir des
+insuffisances attestées par l’absence d’éléments sur l’origine et la destination des fonds ou sur l’objet de
+l’opération ; qu’ainsi, dans 21 dossiers relatifs à des dépôts d’espèces importants, certains examens ont été
+clôturés alors que l’établissement ne disposait pas des documents justificatifs sur l’origine des fonds
+(dossiers A3, A7, A8, A9, A10, A11, A24, A43, A44, A45, A46, A47, A48, A49, A50, A51, A52, A53, A54,
+A55, A56), ou de documents justificatifs suffisants sur l’origine et la destination des fonds ainsi que sur
+l’objet de l’opération pour 5 dossiers (A2, A57, A58, A59, A60) ;
+19. Considérant que l’« examen renforcé » d’une opération au sens du II de l’article L. 561-10-2 du CMF
+s’entend comme une analyse détaillée, qui repose sur une connaissance actualisée du client et doit être, le cas
+échéant, étayée par des justificatifs de l’opération examinée ; que les diligences faites doivent tendre à la
+réunion d’éléments suffisants et déboucher, au vu de leur résultat, soit sur un classement soit sur l’envoi
+d’une DS à Tracfin ; que l’obligation de consigner par écrit et de conserver les résultats de cet examen
+résulte des dispositions de l’article R. 561-22 du CMF ; que l’article L. 561-12 de ce code prévoit que les
+documents consignant les caractéristiques des opérations examinées à ce titre doivent être conservés pendant
+5 ans ; que, toutefois, si un organisme financier, confronté à l’impossibilité d’obtenir d’un client dont les
+opérations ont été analysées les explications et les justificatifs demandés, met un terme à l’examen renforcé
+qu’il a entrepris, seul un défaut de DS pourra alors, le cas échéant, lui être reproché en application du III de
+l’article L. 561-15 du CMF qui dispose que « À l’issue de l’examen renforcé prescrit au II de l’article L.
+561-10-2, les personnes mentionnées à l’article L. 561-2 effectuent, le cas échéant, la déclaration prévue au
+I du présent article » ;
+20. Considérant, tout d’abord, qu’il convient de donner acte à la poursuite de l’abandon du reproche
+relatif au dossier A53 ; que dans le dossier A2, la CRCAM AV a engagé un examen renforcé de l’opération
+projetée par le client puis en a bloqué la réalisation, le client ayant refusé de répondre à ses demandes
+d’information sur la justification économique du virement à l’étranger demandé ; qu’en conséquence, le
+reproche sera écarté (sur l’absence de déclaration de soupçon dans ce dossier, cf. considérant 34 ci-après) ;
+21. Considérant, ensuite, que dans les autres dossiers, la CRCAM AV estime qu’à l’exception du dossier
+A54, les diligences faites lui ont permis de satisfaire à son obligation d’examen renforcé ; que, toutefois,
+dans ces dossiers, la CRCAM AV ne disposait pas d’éléments de connaissance du client lui permettant de
+vérifier la cohérence des opérations de celui-ci ou s’est contentée de ses déclarations, non étayées par des
+pièces justificatives, ou encore n’a effectué aucune analyse de ces opérations, de sorte qu’il ne peut être
+utilement soutenu qu’un examen renforcé a été correctement pratiqué ; que les éléments complémentaires
+apportés dans le cadre de la présente procédure par la CRCAM AV au sujet de certains dossiers (A3, A24,
+A48, A50, A57) ne conduisent pas à modifier cette appréciation, en l’absence de pièces justificatives
+suffisantes ; que la rédaction et la diffusion de procédures internes dont le « mode opératoire BA " Mener un
+examen renforcé à la suite d’une alerte de l’outil X " », élaboré le 3 juin 2016, s’analysent comme une action
+visant à prévenir la réitération de tels faits et sont sans conséquence sur le grief, qui est établi dans un
+périmètre ramené de 26 à 24 dossiers ;
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2016-09
+III. Sur le dispositif de contrôle interne
+22. Considérant que selon l’article 71 de l’arrêté du 3 novembre 2014, « Le contrôle permanent du
+dispositif de lutte contre le blanchiment des capitaux et le financement du terrorisme fait partie du dispositif
+de contrôle de la conformité, selon les conditions prévues au chapitre II du présent titre. » ; que l’article 72
+du même arrêté dispose que « Le responsable du contrôle de la conformité veille au caractère adapté des
+dispositifs et procédures mentionnés au présent chapitre, notamment au respect des obligations prévues aux
+articles L. 561-10-2, L. 561-15 et R. 561-31 du code monétaire et financier. » ; que selon l’article 73,
+« Lorsque les entreprises assujetties ont recours à un prestataire pour identifier et vérifier l’identité de leur
+client, dans les conditions prévues au II de l’article R. 561-13 du code monétaire et financier, leur système
+de contrôle s’assure du respect des dispositions des articles 234 à 239 à l’exception du a et du c de
+l’article 239 » ;
+23. Considérant que selon le grief 7, fondé sur ces dispositions, le dispositif de contrôle interne de la
+CRCAM AV présente, en matière de LCB-FT, des défaillances affectant les contrôles permanent et
+périodique ; que le premier est inexistant sur les entrées en relation d’affaires et les bilans patrimoniaux de la
+banque privée et insuffisant sur les chèques ; que deux partenaires essentiels externes, le service des affaires
+internationales de la CRCAM Anjou Maine, en charge du contrôle des flux de la CRCAM AV, ainsi que la
+CRCAM Normandie au titre de ses prestations d’aide à l’ouverture de compte à la clientèle anglophone sous
+l’enseigne « Britline », ont été exclus des dispositifs de contrôle permanent comme périodique ; que les faits
+qui fondent ce grief montrent une absence de vérification efficace de la clôture des alertes ; que, lors de
+l’exercice 2014, certains contrôles n’ont pas été conduits ou l’ont été avec retard ; qu’ainsi, sur 22 typologies
+de contrôles relatifs aux entrées en relations, 14 ont été conduits partiellement au regard du programme de
+contrôle établi pour l’année 2014 ; que, parmi les 12 typologies de contrôles portant sur le dispositif LCB-
+FT, 8 ont été conduits partiellement au regard du programme de contrôle établi pour l’année 2014;
+24. Considérant que la CRCAM AV soutient que s’il n’existait pas, à la date du contrôle sur place, de
+contrôle permanent spécifique sur les entrées en relation d’affaires et les bilans patrimoniaux avec un client
+de la banque privée, néanmoins, comme pour n’importe quel nouveau client « l’entrée en relation avec un
+client banque privée et l’actualisation de son dossier faisaient évidemment l’objet d’une série de contrôles
+permanents » ; qu’elle ne précise cependant pas la nature de ces contrôles qui, en tout état de cause,
+n’avaient pas été adaptés aux risques que présente cette catégorie de clients ; qu’elle admet, par ailleurs, ne
+pas avoir mis en place de contrôle permanent de second niveau sur les chèques ;
+25. Considérant que la CRCAM AV indique que des contrôles des deux prestataires essentiels externes
+étaient prévus par les conventions signées avec eux en 2011 et par une norme Groupe et soutient que seul le
+manque de traçabilité de ces contrôles pourrait lui être reproché ; que, toutefois, la seule mention d’un
+contrôle dans une convention ne saurait en établir la réalité tandis que la norme Groupe mentionnée,
+postérieure au lancement du contrôle sur place, ne saurait être utilement invoquée ;
+26. Considérant que la CRCAM AV demande que soit écarté le reproche relatif au contrôle du dispositif
+de suivi et d’analyse de la relation d’affaires, en raison de l’imprécision de sa rédaction, et souligne que le
+système de surveillance permettait techniquement de réaliser le contrôle visé ; que toutefois, la poursuite,
+après avoir reproché les insuffisances dans le traitement des alertes (cf. supra grief 5, considérants 15 et 16),
+indique que ces insuffisances n’ont pas été détectées par le dispositif de contrôle interne de l’établissement ;
+que ce reproche est formulé en des termes suffisamment clairs pour permettre à l’établissement de présenter
+sa défense ; qu’il n’y est pas répondu utilement par la CRCAM AV, qui mentionne seulement les
+prescriptions du GCA sur ce sujet et les fiches s’y rapportant ; que l’existence de défauts de DS faisant suite
+à des alertes de l’outil X confirme l’absence d’un tel contrôle ;
+27. Considérant enfin que, par les explications qu’elle apporte, la CRCAM AV ne conteste pas
+sérieusement que le programme de contrôle interne de l’année 2014 relatif au dispositif de LCB-FT et aux
+entrées en relation n’a été que partiellement réalisé ;
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2016-09
+28. Considérant que les actions correctrices mentionnées sont sans conséquence sur le grief, qui est
+établi ;
+IV. Sur les obligations de déclaration de soupçon
+29. Considérant que selon les I, II et V bis de l’article L. 561-15 du CMF : « I. - Les personnes
+mentionnées à l’article L. 561-2 sont tenues, dans les conditions fixées par le présent chapitre, de déclarer
+au service mentionné à l’article L. 561-23 les sommes inscrites dans leurs livres ou les opérations portant
+sur des sommes dont elles savent, soupçonnent ou ont de bonnes raisons de soupçonner qu’elles proviennent
+d’une infraction passible d’une peine privative de liberté supérieure à un an ou participent au financement
+du terrorisme. / II .- Par dérogation au I, les personnes mentionnées à l’article L. 561-2 déclarent au service
+mentionné à l’article L. 561-23 les sommes ou opérations dont ils savent, soupçonnent ou ont de bonnes
+raisons de soupçonner qu’elles proviennent d’une fraude fiscale lorsqu’il y a présence d’au moins un critère
+défini par décret. (…) / V bis.- Les tentatives d’opérations mentionnées aux I et II du présent article font
+l’objet d’une déclaration au service mentionné à l’article L. 561-23. » ; que le II de l’article D. 561-32-1 du
+même code définit notamment comme critères « 8o Le retrait fréquent d’espèces d’un compte professionnel
+ou leur dépôt sur un tel compte non justifié par le niveau ou la nature de l’activité économique », « 11o Le
+refus du client de produire des pièces justificatives quant à la provenance des fonds reçus ou quant aux
+motifs avancés des paiements, ou l’impossibilité de produire ces pièces » et « 15o Le dépôt par un particulier
+de fonds sans rapport avec son activité ou sa situation patrimoniale connues » ;
+30. Considérant que selon le grief 8, fondé sur ces dispositions, la CRCAM AV n’a pas effectué de DS
+dans 31 dossiers relatifs à des opérations qui auraient dû être déclarées à Tracfin ;
+A. Sur les défauts de DS au visa du I ou du V bis de l’article L. 561-15
+31. Considérant que, selon la notification des griefs, 20 dossiers présentent un défaut de DS au visa du I
+de l’article L. 561-15 (dossiers A7, A8, A9, A10, A40, A41, A43, A61, A62, A63, A64, A65, A66,
+A67, A68, A69, A70, A71, A72, A73) ; qu’enfin un dossier présente un défaut au visa du V bis de l’article
+L. 561-15 (A2) ;
+32. Considérant que dans le dossier A61, les retraits d’espèces de même que les virements émis sur le
+compte, qui se sont respectivement élevés à 6 740 euros et 12 200 euros entre décembre 2014 et avril 2015,
+ne relevaient pas d’une DS dès lors que l’origine des fonds déposés par le client, soit 16 000 euros, a été
+justifiée par le bénéfice d’une assurance sur la vie ; que ce reproche doit donc être écarté ;
+33. Considérant que 15 des autres dossiers au sujet desquels un manquement aux dispositions du I de
+l’article L. 561-15 du CMF est reproché sont relatifs à des versements constitués en tout ou en partie
+d’espèces, qui n’étaient pas cohérents avec les éléments de revenus ou patrimoine connus (dossiers A7, A8,
+A9, A10, A40, A41, A43, A62, A63, A64, A65, A66, A67, A68, A69) ; que les éléments supplémentaires
+produits par la CRCAM AV en défense ne permettent pas d’estimer qu’à la date du contrôle, elle disposait
+d’informations suffisantes quant à l’origine des fonds ; qu’au demeurant, dans ces 15 dossiers, la CRCAM
+AV admet le défaut de DS ;
+34. Considérant que les 5 derniers dossiers (A2, A70, A71, A72, A73), dans lesquels est reproché un
+manquement aux dispositions du I ou du V bis de l’article L. 561-15 du CMF, portent sur des virements de
+montant élevé, créditeurs ou débiteurs, incohérents avec les éléments connus de la CRCAM AV au sujet de
+l’activité du client ou insuffisamment justifiés ; que, dans ces 5 dossiers, la CRCAM AV ne conteste pas le
+défaut de DS, qui est établi ;
+35. Considérant ainsi que le reproche d’un défaut de DS est, relativement à l’obligation de déclaration
+prévue par le I ou le V bis de l’article L. 561-15, établi dans 20 dossiers ;
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2016-09
+B. Sur les défauts de DS au visa du II de l’article L. 561-15 du CMF
+36. Considérant que, selon la notification des griefs, 10 dossiers présentent un défaut de DS au visa du II
+de l’article L. 561-15 (dossiers A42, A44, A46, A56, A58, A74, A75, A76, A77, A78) ;
+37. Considérant que la CRCAM AV conteste « l’interprétation retenue par la Mission d’Inspection
+s’agissant notamment des défauts déclaratifs fondés sur un soupçon de fraude fiscale mineure » ou « de
+proximité », lorsque les montants en jeu sont inférieurs à 50 000 euros ; que, selon elle, il est contraire à
+l’objectif de la LCB-FT, qui vise principalement à lutter contre la criminalité organisée, d’exiger que soit
+déclaré tout soupçon relatif à de telles opérations ; qu’en outre, cela paraît contraire à la jurisprudence du
+Conseil constitutionnel qui, dans ses décisions QPC no 2016-555 et 2016-556 du 22 juillet 2016 a,
+respectivement, « déclaré conforme à la Constitution les dispositions de l’article L. 228 du livre des
+procédures fiscales, selon lesquelles la plainte de l’Administration, tendant à autoriser le procureur de la
+République à engager l’action publique, ne peut être déposée que sur avis conforme de la Commission des
+infractions fiscales "sous peine d’irrecevabilité" » et « confirmé que le cumul, pour les mêmes agissements
+de soustraction à l’impôt, des sanctions fiscales et pénales, ne peut avoir lieu qu’à propos des "cas de
+fraudes les plus graves" » ; qu’elle s’interroge en conséquence, en l’absence de seuil défini par la loi, sur « la
+matérialité du défaut déclaratif » dans ces dossiers (A44, A46, A58, A74, A75), à l’exception d’un seul
+(A76), qui n’est pas contesté ; que le reproche relatif aux 4 derniers dossiers (A42, A56, A77, A78) est
+également contesté car il repose, selon la CRCAM AV, sur une mauvaise analyse, par la poursuite, des
+éléments de connaissance du client ;
+38. Considérant cependant, tout d’abord, que les dispositions du II de l’article L. 561-15 du CMF, issues
+de l’ordonnance no 2009-104, ne soumettent pas, en cas de soupçon de fraude fiscale, l’obligation d’adresser
+une déclaration à Tracfin, à une condition liée au montant des opérations en cause mais au respect de critères
+définis au II de l’article D. 561-32-1 de ce code, dont aucun ne se réfère à un montant fixe ; qu’en raison de
+cette approche par critères, des défauts de DS peuvent être établis pour des opérations pouvant être regardées
+comme « mineures » ; que les manquements reprochés portent non pas sur des suspicions de fraude fiscale,
+mais de blanchiment du produit de ce délit ; que les conditions dans lesquelles, selon la jurisprudence du
+Conseil constitutionnel, les mêmes agissements peuvent donner lieu à cumul de sanctions fiscales et pénales
+n’ont aucunement vocation à s’appliquer à la mise en œuvre des obligations visées par le présent grief ; qu’il
+appartient seulement aux organismes assujettis à la LCB-FT, en cas de soupçon de faits entrant dans le
+champ de ces dispositions, de rechercher si l’un des critères devant conduire à une déclaration s’applique et,
+dans l’affirmative, d’informer Tracfin des opérations suspectes ;
+39. Considérant, ensuite, qu’il convient de donner acte à la poursuite de l’abandon du reproche relatif au
+dossier A77 ;
+40. Considérant que dans le dossier A78, [concernant une cliente] ostréicultrice avec laquelle la CRCAM
+AV est en relation d’affaires depuis plus de 30 ans et dont l’activité est susceptible de connaître des
+variations significatives d’une année sur l’autre, l’écart entre le chiffre d’affaires en 2013 (317 600 euros
+TTC) et les flux financiers enregistrés sur le compte en 2014 (383 358 euros, dont 336 000 en espèces) ne
+pouvait à lui seul avoir pour conséquence l’obligation d’adresser une DS à Tracfin ; que ce reproche sera en
+conséquence écarté ;
+41. Considérant que dans le dossier A74, [concernant un client] retraité dont les revenus n’étaient pas
+connus, le total de mouvements créditeurs enregistrés par le compte joint qu’il détient avec son épouse, s’est
+élevé à 61 000 euros en 2014, dont 3 versements d’espèces d’un montant total de 20 000 euros ; que le client
+ayant refusé de fournir des éléments relatifs à l’origine des fonds déposés et à la destination de chèques émis,
+la CRCAM AV aurait dû procéder à une DS, en application du critère 11 du II de l’article D. 561-32-1 du
+CMF mentionné ci-dessus ;
+42. Considérant que dans le dossier A44, [concernant un client] ouvrier qualifié, les opérations créditrices
+enregistrées en 2014, qui représentaient près du double du salaire annuel du client et dont environ la moitié
+Autorité de contrôle prudentiel et de résolution 10
+
+===== Page 11 =====
+Décision de la Commission des sanctions – procédure no 2016-09
+ont été réalisées en espèces, auraient dû donner lieu à l’envoi d’une DS en application du critère 15 du II de
+l’article D. 561-32-1 du CMF, les explications orales du client ne suffisant pas à justifier l’origine des fonds ;
+43. Considérant que dans le dossier A46, le compte du client, retraité ayant déclaré 4 200 euros de
+revenus annuels, a enregistré, en 2014, un total de 138 000 euros d’opérations créditrices dont 74 000 euros
+en espèces ; que la CRCAM AV aurait dû, en raison de l’incohérence de ces opérations avec les éléments de
+connaissance du client qu’elle détenait, procéder à une DS en application du critère 15 du II de l’article D.
+561-32-1 du CMF ;
+44. Considérant que dans le dossier A58, [concernant un couple de clients] respectivement intermittent du
+spectacle et technicienne et ayant déclaré 26 400 euros de revenus annuels en 2011, l’enregistrement en 2014
+sur le compte joint des clients d’opérations créditrices d’un montant total de 91 500 euros, dont 14 800 euros
+en espèces, n’a pas donné lieu au recueil de documents permettant de rendre crédibles les explications
+fournies par les clients ; que la CRCAM AV aurait dû procéder à une DS en application du critère 15 du II de
+l’article D. 561-32-1 du CMF ;
+45. Considérant que dans le dossier A75, [concernant un client] cordonnier, qui a déclaré un chiffre
+d’affaires de 38 500 euros TTC pour l’exercice 2013, les mouvements enregistrés sur le compte
+professionnel, créditeurs (107 900 euros en 2014, dont 83 600 euros de dépôts d’espèces) comme débiteurs
+(29 300 euros de retraits d’espèces), étaient incohérents avec les informations recueillies au sujet de son
+activité et n’ont été justifiés par aucune pièce ; que la CRCAM AV aurait dû en conséquence procéder à une
+DS, en application du critère 8 du II de l’article D. 561-32-1 du CMF ;
+46. Considérant que, dans le dossier A76, non actualisé depuis 2009, la réception sur le compte du client,
+résident français de nationalité russe, entre février et mars 2014, de 6 virements provenant de Russie pour un
+montant total de 125 520 euros, très supérieurs à ses revenus déclarés, aurait dû donner lieu à l’envoi à
+Tracfin d’une DS en application du critère 15 du II de l’article D. 561-32-1 du CMF, ce que la CRCAM AV
+ne conteste pas au demeurant ;
+47. Considérant que dans le dossier A56, les informations connues au sujet du chiffre d’affaires du client
+en 2013 (479 000 euros HT) ne permettaient pas, à la date du contrôle, de justifier les opérations créditrices
+enregistrées sur son compte en 2014 (1 468 000 euros, dont 707 900 euros en espèces) ; que, si la CRCAM
+AV a expliqué une partie de ces écarts dans le cadre de la présente procédure, elle aurait néanmoins dû
+procéder à une DS, en application du critère 8 du II de l’article D. 561-32-1 du CMF ;
+48. Considérant que dans le dossier A42, l’enregistrement en 2014 d’un total d’opérations créditrices,
+dont l’essentiel en espèces, sensiblement supérieur au dernier chiffre d’affaires connu n’a pas été justifié par
+des informations relatives à la progression de l’activité ; que la CRCAM AV aurait dû, en l’état des
+informations dont elle disposait, procéder à une DS en application du critère 8 du II de l’article D. 561-32-1
+du CMF ;
+49. Considérant ainsi que le grief 8 est constitué pour 28 dossiers ; qu’au demeurant, la CRCAM AV a
+adressé à Tracfin une DS dans chacun des dossiers au sujet duquel un défaut de déclaration lui était
+reproché ;
+*
+* *
+50. Considérant qu’il résulte de ce qui précède qu’à la date de la mission de contrôle, au premier semestre
+2015, la classification des risques ne couvrait pas suffisamment les activités de la CRCAM AV (grief 1) ;
+que l’établissement ne recueillait pas toujours de manière satisfaisante les informations lui permettant de
+connaître ses clients, notamment lorsqu’il s’agit de PPE (griefs 2 et 3) ; que son dispositif de surveillance
+présentait des insuffisances tenant au paramétrage de l’outil utilisé à cette fin (grief 4) et à l’analyse des
+alertes produites (grief 5) ; que, bien que quelques reproches relatifs à des dossiers individuels aient été
+écartés, les manquements retenus aux obligations d’examen renforcé (grief 6) et de DS (grief 8) sont
+nombreux et concernent notamment des opérations qui avaient donné lieu à des alertes produites par l’outil
+Autorité de contrôle prudentiel et de résolution 11
+
+===== Page 12 =====
+Décision de la Commission des sanctions – procédure no 2016-09
+de surveillance ; que, dans le domaine de la LCB-FT, plusieurs insuffisances du contrôle interne ont
+également été relevées (grief 7) ;
+51. Considérant que la CRCAM AV a admis qu’à la date du contrôle, son dispositif « présentait des
+risques opérationnels et des risques de non-conformité » ; que si elle souligne le contexte défavorable dans
+lequel est intervenu le contrôle, en raison principalement de la nomination d’un nouveau responsable de la
+conformité et de la sécurité financière peu auparavant, cette circonstance, pour réelle qu’elle soit, est sans
+conséquence sur l’appréciation par la Commission des manquements soumis à son examen, dès lors que les
+dispositions légales auxquelles un organisme financier est assujetti doivent être respectées de manière
+continue ;
+52. Considérant cependant que la direction générale de la CRCAM AV a rapidement pris les décisions qui
+s’imposaient afin d’améliorer la qualité de son dispositif de LCB-FT et a, au demeurant, marqué lors de
+l’audience son ferme engagement dans ce domaine ; qu’un budget de 3 millions d’euros y a été consacré, les
+dépenses récurrentes supplémentaires dans ce domaine s’élevant à 1,4 million d’euros par an, dont une partie
+résulte du renforcement très significatif des équipes dans la ligne métier Conformité ; que de nombreuses
+actions de formation du personnel en LCB-FT ont été également engagées ; que si l’efficacité de telles
+mesure devra, le cas échéant, être contrôlée, il convient de tenir compte, dans une certaine mesure, de ces
+actions, que l’établissement a d’ores et déjà prévu de soumettre à un audit externe ;
+53. Considérant que les manquements retenus par la Commission justifient, compte tenu de leur nature,
+de leur nombre et leur gravité, et au vu des éléments mentionnés ci-dessus, le prononcé d’un blâme ; que,
+pour les mêmes raisons et dans le respect du principe de proportionnalité au regard de l’assise financière de
+la CRCAM AV, une sanction pécuniaire de 2 millions d’euros sera également prononcée ;
+54. Considérant que la CRCAM AV ne produit aucun élément permettant d’estimer que la publication
+nominative de la présente décision lui causerait un préjudice disproportionné ; que cette publication n’est pas
+non plus de nature à perturber gravement les marchés financiers ; que la présente décision sera donc publiée
+sous cette forme ;
+PAR CES MOTIFS
+DÉCIDE :
+ARTICLE 1ER – Il est prononcé à l’encontre de la CRCAM AV un blâme et une sanction pécuniaire de
+2 millions d’euros (deux millions d’euros).
+ARTICLE 2 – La présente décision sera publiée au registre de l’ACPR et pourra être consultée au
+secrétariat de la Commission.
+Le Président de la Commission
+des sanctions
+Rémi BOUCHEZ
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification et
+dans les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 12

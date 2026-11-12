@@ -1,0 +1,684 @@
+===== Page 1 =====
+Décision de la Commission des sanctions – procédure no 2020-08
+SOCIÉTÉ A
+Procédure no 2020-08
+–––––
+Blâme et sanction pécuniaire de
+120 000 euros
+–––––
+Audience du 1er octobre 2021
+Décision rendue le 14 octobre
+2021
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 26 octobre 2020 par laquelle le Président de l’Autorité de contrôle prudentiel et de
+résolution (ci-après l’« ACPR ») informe la Commission des sanctions (ci-après la « Commission ») de
+ce que le Collège de supervision de l’ACPR (ci-après le « Collège »), statuant en sous-collège
+« banque », a décidé d’ouvrir une procédure disciplinaire à l’encontre d’un établissement de crédit (ci-
+après « la société A »), dont le siège social se trouve au Luxembourg, enregistrée sous le n° 2020-08 ;
+Vu la notification des griefs du 26 octobre 2020 et ses annexes ;
+Vu les mémoires en défense des 5 février, 28 avril 2021 et du 21 juin 2021, par lesquels la société
+A , d’une part, estime qu’elle n’était pas soumise, pour la majorité de ses clients, aux obligations de
+vigilance et que l’exécution des opérations sur la plateforme de vente en ligne en France (ci-après « la
+société E), seul objet de son activité d’émission et de gestion de monnaie électronique (ci-après « ME »)
+en France, est peu exposée au risque de blanchiment des capitaux et de financement du terrorisme (ci-
+après « BC-FT »), d’autre part, admet qu’une partie des griefs notifiés est fondée et présente les actions
+correctives mises en œuvre depuis le contrôle sur place dont elle a fait l’objet ;
+Vu les mémoires en réplique des 23 mars et 21 mai 2021, par lesquels le Collège, représenté par M.
+Henri Toutée, estime, d’une part, que les particularités de l’activité de la société A ne conduisent pas à
+« réduire le périmètre visé par la poursuite » et que les opérations réalisées sur leur plateforme Française
+(la société E) n’étant pas exemptes de risque de BC-FT, la société A ne saurait être exonérée de ses
+obligations dans ce domaine, d’autre part, que tous les griefs sont maintenus, l’un dans un périmètre
+réduit (grief 3), un autre pouvant être relativisé (grief 5) ;
+Vu le rapport du 30 août 2021 de Mme Dorothée de Kermadec-Courson, rapporteur, qui conclut que
+tous les griefs, sauf un (grief 7), sont fondés, certains dans un périmètre réduit (griefs 3, 5 et 8), tandis
+que la portée du dernier grief lui paraît devoir être limitée (grief 9) ;
+Vu les courriers du 30 août 2021 convoquant à l’audience les parties ainsi que la direction générale
+du Trésor et les informant de la composition de la Commission ;
+Vu les autres pièces du dossier, notamment le rapport de contrôle signé le 3 février 2020 par M. A,
+chef de mission et le procès-verbal de l’audition de M. B, responsable de la conformité de la société A ;
+Vu le code monétaire et financier (ci-après le « CMF »), notamment ses articles L. 561-2, L. 561-4-
+1, L. 561-5, L. 561-5-1, L. 561-9, L. 561-9-1, L. 561-10, L. 561-10-2, L. 561-15, L. 561-32, L. 561-34,
+Autorité de contrôle prudentiel et de résolution 1
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2020-08
+L. 562-4, L. 612-39, R. 561-12, R. 561-12-1, R. 561-15, R. 561-16-1, R. 561-20, R. 561-20-2 R. 561-
+38 et R. 561-38-1 ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACPR, composée de M. Alain Ménéménis, Président,
+MM. Philippe Braghini, Laurent Jacques, Philippe Laigre et Matias de Sainte Lorette ;
+Après avoir entendu, lors de sa séance non publique du 1er octobre 2021 :
+- Mme de Kermadec-Courson, rapporteur, assistée de M. Fabien Patris, son adjoint ;
+- la représentante du directeur général du Trésor ;
+- M. Toutée, représentant du Collège, assisté du directeur des affaires juridiques de l’ACPR, [et de
+deux] juristes au sein de cette direction ; M. Toutée a proposé à la Commission de prononcer un
+blâme et une sanction pécuniaire de 150 000 euros par une décision publiée sous une forme
+nominative pendant trois ans ;
+- La société A, représentée par son président-directeur général, M.B , « Head of compliance »,
+dont les avocats sont Mes Antoine Juaristi et Alexandre Beaussier (cabinet Herbert Smith
+Freehills LLP) ;
+Après avoir délibéré en la seule présence de M. Ménéménis, Président, MM. Braghini, Jacques,
+Laigre et de Sainte Lorette, ainsi que de M. Jean-Manuel Clemmer, chef du service de la Commission
+des sanctions faisant fonction de secrétaire de séance ;
+1. Fondée en 1997, la société B, renommée peu après société C (Japon)., a créé et exploite une « place
+de marché » devenue la première place de marché au Japon, où elle compte 100 millions de clients, et
+l’une des principales dans le monde. Elle s’est ensuite implantée dans d’autres pays, notamment en
+procédant à des opérations de croissance externe, en particulier à l’acquisition, en juillet 2010, de la
+plateforme de e-commerce française de la société D, ultérieurement renommée société E.
+En 2020, elle a réalisé un chiffre d’affaires consolidé de 11,4 milliards d’euros et une perte nette d’un
+peu plus d’un milliard d’euros, en raison d’investissements très lourds dans la téléphonie mobile. À la
+fin de ce même exercice, le groupe comptait plus de 25 000 salariés.
+Dans le cadre de ce développement, la société F a été créée en 2013 et renommée société A en 2015.
+D’abord établissement de paiement, elle est agréée comme établissement de crédit depuis 2015.
+Les sociétés A et E sont toutes deux détenues par la société Européenne G, elle-même contrôlée par
+la société C. (Japon).
+Outre les ventes à des particuliers par des professionnels, la société E a développé une activité de
+ventes entre particuliers (« consumer to consumer » - « C to C »), lesquelles représentent environ une
+transaction sur deux. Ses clients sont, dans leur majorité, exclusivement acheteurs, certains, notamment
+des professionnels, sont exclusivement vendeurs et certains effectuent à la fois des achats et des ventes
+sur son site.
+En 2019, le chiffre d’affaires de la société E s’est élevé à un peu plus de (…) millions d’euros pour
+[un résultat net de (…)] millions d’euros.
+À la suite de la publication de la directive UE n°2015/2366 (dite « DSP 2 »), transposée en France
+par l’ordonnance n°2017-1212 du 9 août 2017, il a été décidé que les transactions effectuées sur le site
+de la société E seraient réglées par émission de ME par la société A. En conséquence, aux termes d’une
+convention en vigueur depuis le 1er octobre 2017, la société E est agent de services de paiement de la
+société A et distributeur exclusif de la ME qu’elle émet et qu’elle gère. Toutefois, l’activité de la société
+A consiste principalement dans le traitement des paiements intra-groupe (produit « Global Payment
+Gateway »), l’émission et la gestion de ME, uniquement au titre des opérations sur le site de la société
+E, n’en représentant que moins de 6 %, soit 765 000 euros.
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2020-08
+En 2019, la société A a réalisé un produit net bancaire de 13 millions d’euros. Elle a, en 2020,
+enregistré une perte nette de 2,7 millions d’euros, en partie due aux actions de remédiation engagées à
+la suite du contrôle de l’ACPR, notamment au renforcement des équipes conformité.
+Au moment du contrôle, un portefeuille de ME (ci-après « PME ») était systématiquement ouvert
+par la société A au nom de tous les utilisateurs de la société E, y compris de ceux qui étaient
+exclusivement acheteurs : tout client de la société E était ainsi client de la société A. La ME dont les
+PME étaient crédités pouvait être utilisée pour acquérir des biens sur la plateforme la société A ou être
+virée sur un compte bancaire. Les PME étaient rechargeables par virement mais pas au moyen d’espèces.
+Les acheteurs sur le site de la société A n’étaient pas tenus d’utiliser la ME ; ils pouvaient régler leurs
+achats par carte bancaire ou par d’autres moyens de paiement électroniques ; le plus souvent, les
+montants correspondant au prix de vente n’étaient pas payés par débit du PME de l’acheteur - qui
+n’enregistrait ni mouvement créditeur ni mouvement débiteur - et ne donnaient donc lieu à aucune
+intervention de la société A. Des mouvements n’étaient dans ce cas enregistrés sur le PME d’un client
+exclusivement acheteur que s’il demandait à être remboursé.
+Le produit des transactions « primaires » effectuées sur le site de la société la société E entre un
+acheteur et un vendeur était versé, après paiement par l’acheteur, sur un compte détenu par la société E
+dans les livres [d’un établissement de crédit français]. Puis 95 % de ce montant était transféré sur un
+compte détenu par la société A au sein du même établissement, le solde devant couvrir les éventuelles
+rétractations des acheteurs. Par ailleurs, le PME des vendeurs était, au terme du délai de rétractation de
+21 jours, crédité d’un montant équivalent au prix payé par l’acheteur, net des commissions perçues. Le
+paiement final au bénéfice du vendeur (« payout ») était effectué sur un compte bancaire dont le vendeur
+avait donné les coordonnées et qui pouvait être situé en dehors du territoire national.
+Il a été mis fin, en octobre 2020, à l’obligation pour les acheteurs de détenir un PME. Pour les
+vendeurs, le schéma décrit ci-dessus est en revanche demeuré inchangé.
+2. La société A a fait l’objet, du 17 juin au 14 octobre 2019, d’un contrôle sur place, qui a donné lieu
+à la signature, le 3 février 2020, d’un rapport de contrôle. Au vu de ce rapport, le Collège de l’ACPR,
+statuant en sous-collège « banque », a décidé, lors de sa séance du 14 octobre 2020, d’ouvrir la présente
+procédure disciplinaire, dont la Commission a été saisie le 27 octobre 2020.
+I. Sur le dispositif de lutte contre le blanchiment et le
+financement du terrorisme de la société A
+A. Sur l’affirmation de la société A selon laquelle elle ne serait pas
+soumise, pour la majeure partie de sa clientèle, aux obligations de
+vigilance en matière de LCB-FT
+3. La société A indique qu’au moment du contrôle, les PME détenus par plus de 80 % de ses clients
+(soit 4,8 sur 5,7 millions), qui étaient des particuliers exclusivement acheteurs sur le site de la société E,
+n’avaient jamais enregistré aucun flux. Elle soutient qu’un acheteur au nom duquel un PME est ouvert
+mais qui ne l’utilise jamais ne peut pas être regardé comme un client en relation d’affaires.
+La société A se prévaut des « les lignes directrices de l’ACPR relatives à l’identification, la
+vérification de l’identité et la connaissance des clients », qui précisent qu’une personne est engagée
+dans une relation d’affaires notamment lorsqu’elle détient ou utilise un instrument de ME. Ce document
+indique en outre que « la détention ou l’utilisation d’un instrument de monnaie électronique, même non
+rechargeable, crée une obligation continue jusqu’au remboursement par l’émetteur de monnaie
+électronique de la valeur monétaire stockée en application des dispositions de l’article L. 315-7 (le
+contrat liant l’émetteur et le détenteur de monnaie électronique établit d’ailleurs le délai de
+remboursement) » (note de bas de page n° 6, p. 5). Il précise que les organismes assujettis doivent, dans
+la définition d’une relation d’affaires, prendre en compte « la répétition d’opérations de même nature
+sur une période déterminée » (§ 23).
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2020-08
+La société A relève par ailleurs que l’article L. 315-7 du CMF, auquel se réfèrent ces lignes
+directrices, ne parle que du contrat « liant l’émetteur et le détenteur de ME ». Or les PME des clients
+exclusivement acheteurs n’étant jamais crédités, ceux-ci ne détiennent pas de ME.
+4. Cette argumentation doit être écartée.
+En effet, selon l’article L. 562-2-1 du CMF, « une relation d'affaires est nouée lorsqu'une personne
+mentionnée à l'article L. 561-2 engage une relation professionnelle ou commerciale qui est censée, au
+moment où le contact est établi, s'inscrire dans une certaine durée ».
+Or les conditions générales d’utilisation du « Porte-Monnaie de la société A » précisaient, pour les
+acheteurs, que leur PME avait pour objet de permettre « d’effectuer des achats sur la plateforme de la
+société E » (article 1er). À tout moment, et alors même qu’il était dans un premier temps resté inutilisé,
+un PME pouvait être utilisé par un acheteur pour régler des achats ou pour commencer à vendre des
+biens sur la plateforme de la société E. En outre, l’intention de la société A était, pour tous les clients de
+société E, qui, ainsi qu’il a été dit, étaient aussi ses clients, y compris pour ceux qui étaient exclusivement
+acheteurs, d’engager une relation durable ; elle les classait d’ailleurs tous comme étant en relation
+d’affaires.
+Ainsi, tous les utilisateurs, acheteurs comme vendeurs, de la plate-forme de la société E devaient être
+regardés comme en relation d’affaires avec la société A.
+Au demeurant, une telle analyse est conforme aux explications données par les lignes directrices de
+l’ACPR ci-dessus mentionnées, selon lesquelles « la détention ou l’utilisation d’un instrument de
+monnaie électronique » et non sa seule utilisation « permet de caractériser une relation d’affaires »
+(idem, § 13).
+B- Sur les griefs
+1°) Les procédures internes
+5. En vertu de l’article L. 561-32 du CMF, les organismes assujettis « mettent en place une
+organisation et des procédures internes pour lutter contre le blanchiment des capitaux et le financement
+du terrorisme, tenant compte de l'évaluation des risques prévue à l'article L. 561-4-1 ».
+L’article R. 561-38 du même code précise que ces organismes « s'assurent que l'organisation du
+dispositif de lutte contre le blanchiment de capitaux et le financement du terrorisme mentionné au I de
+l'article L. 561-32 est adaptée à leur taille, à la nature de leurs activités ainsi qu'aux risques identifiés
+par la classification des risques mentionnée à l'article L. 561-4-1 ».
+6. Selon le grief 1, fondé sur ces dispositions, au moment du contrôle sur place, la procédure en
+vigueur au sein de la société A, dénommée « Anti-money laundering and counter terrorism financing
+policy » (Reference – COPO02 – version 6.1 du 9 juillet 2019), était incomplète, en particulier parce
+qu’elle ne précisait pas les situations dans lesquelles un examen renforcé devait être réalisé compte-tenu
+des risques de BC-FT auxquels l’établissement était exposé, ni les diligences à accomplir dans ce cas.
+7. La Commission des sanctions constate que la procédure COPO02 mentionnait, dans sa version 6.1
+de juillet 2019, les mesures à appliquer en cas de vigilance renforcée (« enhanced due diligence »), mais
+ne faisait pas état de cas dans lesquels un « examen renforcé » était nécessaire. En outre, si la version
+6.2 de cette procédure, en date du 10 décembre 2019, qui précisait les cas d’application de la vigilance
+renforcée, mentionnait la nécessité de procéder à un examen renforcé de certaines opérations, elle ne
+faisait pas état de la nécessité de recueillir, dans de tels cas, des justificatifs des opérations.
+8. La version de juillet 2019 de la procédure COPO02, actualisée en décembre 2019, ne précisait
+donc pas suffisamment les modalités du respect, par la société A, de son obligation d’effectuer un
+examen renforcé de certaines opérations et le grief 1 est fondé, sans que l’actualisation des procédures,
+effectuée par la société A dans le cadre d’un plan dénommé « Eden », qui traite désormais des
+circonstances dans lesquelles un examen renforcé doit intervenir et des modalités de réalisation de celui-
+ci, puisse conduire à le remettre en cause.
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2020-08
+2°) L’obligation de formation
+9. En vertu de l’article L. 561-34 du CMF, « en vue d'assurer le respect des obligations prévues aux
+chapitres Ier et II du présent titre, les personnes mentionnées à l'article L. 561-2 assurent l'information
+régulière de leurs personnels. / Dans le même but, elles mettent en place toute action de formation utile.
+/ Pour l'application du présent article, les agents mentionnés à l'article L. 523-1 et les personnes
+auxquelles les établissements de monnaie électronique ont recours en vue de distribuer de la monnaie
+électronique, au sens de l'article L. 525-8, sont assimilés aux personnels des personnes mentionnées à
+l'article L. 521-1 ».
+L’article R. 561-38-1 du même code dispose en outre que : « Les personnes mentionnées à l'article
+L. 561-2 s'assurent que les personnes participant à la mise en œuvre des obligations prévues au présent
+chapitre disposent d'une expérience, d'une qualification et d'une position hiérarchique adéquates pour
+exercer leurs missions. / En outre, elles veillent à ce que ces personnes bénéficient de formations
+adaptées à leurs fonctions ou activités, à leur position hiérarchique ainsi qu'aux risques identifiés par
+la classification des risques mentionnée à l'article L. 561-4-1 (…) ».
+10. Selon le grief 2, fondé sur ces dispositions, 29 salariés de la société E n’ont pas reçu de formation
+en matière de LCB-FT entre juin 2016 et juin 2019. De plus, les formations dispensées aux autres salariés
+ne présentaient pas les risques propres à la ME.
+11. Sans contester le reproche, la société A souligne les actions correctives qu’elle a menées, qui ont
+notamment consisté en un développement de la formation et en la mise en place de contrôles des
+connaissances.
+12. L’absence de formation adaptée dispensée à l’ensemble des personnels concernés étant établie,
+le grief 2 est fondé.
+3°) La mise en œuvre des obligations de vigilance
+a) Les mesures de vigilance à l’égard de la clientèle de personnes physiques (activité dite « C2C »)
+13. En vertu des articles L. 561-5 et L. 561-5-1 du CMF, les organismes assujettis, au nombre
+desquels les émetteurs de ME, ont l’obligation d’identifier et de vérifier l’identité de leurs clients et de
+recueillir des informations sur l’objet et la nature de la relation d’affaires.
+Cependant, ils peuvent, en vertu de l’article L. 561-9 de ce code, mettre en œuvre ces dispositions
+sous forme de mesures de vigilance simplifiées dans l’un ou l’autre des cas suivants : « 1° Le risque de
+blanchiment des capitaux et de financement du terrorisme leur paraît faible ; 2°Les personnes, les
+services ou les produits présentent un faible risque de blanchiment de capitaux ou de financement du
+terrorisme et il n'existe pas de soupçon de blanchiment ou de financement du terrorisme ».
+Par ailleurs, l’article R. 561-16-1 du CMF prévoit, pour les seuls émetteurs de ME, une dispense des
+obligations de vigilance, si plusieurs conditions sont réunies, notamment si :« 1° La monnaie
+électronique est émise en vue de la seule acquisition de biens ou de services de consommation ; / 2° La
+valeur monétaire maximale stockée n'excède pas 250 euros et, dans l'hypothèse où le support peut être
+rechargé, la valeur monétaire est assortie d'une limite maximale de stockage et de paiement de 250
+euros par période de trente jours et ne peut être utilisée que pour des paiements sur le territoire
+national ;3°Le support de la monnaie électronique ne peut pas être rechargé au moyen d’espèces (…) ».
+14. Selon le grief 3, fondé sur ces dispositions, au moment du contrôle sur place, la société A mettait
+en œuvre à l’égard de « la plupart de ses clients personnes physiques », des mesures de vigilance
+simplifiées ; elle ne vérifiait pas leur identité et ne recueillait pas d’informations sur l’objet et la nature
+de la relation d’affaires, alors que ni les conditions du 2° de l’article L. 561-9, qui précise les cas dans
+lesquels les organismes assujettis peuvent mettre en place des mesures de vigilance simplifiées, ni celles
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2020-08
+de l’article R. 561-16-1, qui prévoit les cas d’exonération des obligations de vigilance pour les émetteurs
+de monnaie électronique, n’étaient remplies.
+D’une part, la clientèle de particuliers de la société A ne présentait pas un faible risque de BC-FT, au
+sens du 2° de l’article L. 561-9 du CMF, permettant de déroger aux obligations de vérification de
+l’identité et de connaissance de la clientèle, puisque ces clients n’entraient dans aucune des catégories
+de personnes énumérées à l’article R. 561-15 du code comme présentant un risque faible.
+D’autre part, les conditions relatives à la ME dite « anonyme » énumérées à l’article R. 561-16-1 du
+CMF n’étaient pas remplies. Tout d’abord, parce que, « alors que le 1° de cet article prévoit que la
+monnaie électronique doit être utilisée pour la seule acquisition de biens ou de services de
+consommation, celle qui est stockée sur les portemonnaies électronique (PME) tenus par la société A
+peut être transférée sur un compte de paiement (« payout ») tenu par un prestataire de services de
+paiement ». Ensuite, parce que la limite de 250 euros prévue par ces dispositions n’était pas
+systématiquement respectée : 1 797 PME présentaient un solde supérieur à ce plafond entre juin 2018
+et mai 2019 ; en outre, la société A calculait à tort les seuils par portefeuille et non par client et des
+dépassements résultaient de la détention par un même client de plusieurs PME (ainsi dans les deux
+dossiers 3.1 - solde de 450,32 euros reversés en septembre 2018 - et 3.2 - solde de 591,6 euros en juillet
+et 573,11 euros en août 2018). Enfin, parce que, alors que la ME émise par la société A était rechargeable,
+elle pouvait être utilisée auprès de vendeurs étrangers, notamment chinois ou hongkongais.
+Selon la poursuite, la société A n’a ni vérifié l’identité ni recueilli d’éléments relatifs à l’objet et à la
+nature de la relation d’affaires pour au moins 91 504 de ses 148 504 clients personnes physiques ayant
+procédé au moins à une vente en 2019 ; elle se bornait à connaître leur identité, alors qu’elle ne pouvait
+se prévaloir, à leur sujet, ni des dispositions de l’article L. 561-9 du CMF, ni de celles de son article R.
+561-16-1.
+15. Si, comme le relève la poursuite, la clientèle de personnes physiques de la société A ne pouvait
+être regardée comme présentant un risque faible en application du 2° de l’article L 561-9 du CMF,
+puisqu’elle ne relevait d’aucune des catégories mentionnées à l’article R. 561-15 du code, il convient de
+déterminer si, en tant qu’émetteur de monnaie électronique, la société A pouvait se prévaloir, pour tout
+ou partie de cette clientèle, de la dérogation prévue, pour cette seule catégorie d’organismes assujettis,
+par les dispositions de l’article R 561-16-1 du CMF, prises en application de l’article L 561-9-1 du code.
+La poursuite soutient, dans la notification des griefs, que, dès lors que la ME créée par la société A
+pouvait être transférée sur un compte de paiement, elle n’était pas exclusivement utilisée pour
+l’acquisition de biens ou de services. Cependant, on ne saurait, en tout état de cause, déduire de la seule
+circonstance que, comme elle y était tenue en vertu des dispositions de l’article L. 133-29 du CMF, la
+société A procédait à un tel transfert, que la ME créée n’était pas utilisée, par les usagers de la société
+E, pour acquérir des biens ou services.
+En outre, si la poursuite soutient que, en méconnaissance du 2° de l’article R 561-16-1 du CMF, la
+monnaie électronique émise n’était pas toujours utilisée auprès de vendeurs français alors que les PME
+étaient rechargeables, il apparaît, d’une part, que les transactions primaires sur le site de la société E
+étaient exclusivement effectuées sur le territoire national et, d’autre part, que, pour un nombre, non
+contesté par la poursuite, de 634 clients seulement, qui ont sollicité un remboursement sur un compte
+de paiement à l’étranger, la société A admet que la condition posée par les dispositions du 2° de l’article
+R 561-16-1 du code n’était pas remplie, la condition d’absence de soupçon de blanchiment ou de
+financement du terrorisme posée par l’article L 561-9-1 du CMF ne pouvant, en tout état de cause, pour
+ces clients, être regardée comme satisfaite.
+Si la poursuite soutient enfin que la condition relative à la valeur monétaire maximale de 250 euros
+posée par le 2° de l’article R 561-16-1 n’était pas remplie, elle ne précise pas, dans la notification des
+griefs, si tel était le cas pour les seuls clients détenteurs des 1 797 PME qu’elle mentionne ou pour les
+91 504 clients qui, selon elle, n’ont fait l’objet que de mesures de vigilance simplifiées. En tout état de
+cause, la société A a évalué à 2 314, sans être contredite par la poursuite, le nombre de clients dont elle
+admet qu’ils étaient détenteurs d’un PME sur lequel le seuil de 250 euros en cumul sur 30 jours avait
+été dépassé et pour lesquels la dérogation prévue par l’article R 561-16-1 du CMF n’était donc pas
+applicable.
+En tenant compte des clients qui appartenaient aux deux catégories mentionnées aux deux
+paragraphes précédents, le total des clients pour lesquels il y a lieu de considérer que la dérogation
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2020-08
+prévue par l’article R561-16-1 du CMF n’était pas applicable s’élève à 2 978, chiffre non contesté à
+l’audience par la poursuite.
+Il résulte de ce qui précède que le grief n’est fondé que dans un périmètre réduit à 2 978 clients
+personnes physiques.
+b) Les mesures de vigilance à l’égard de la clientèle de personnes morales (B2B)
+16. En vertu de l’article L. 561-5 du CMF, les organismes assujettis doivent, avant d’entrer en relation
+d’affaires, vérifier l’identité de leurs clients personnes morales et des bénéficiaires effectifs de ceux-ci.
+Ils sont de plus tenus, aux termes des articles L. 561-5 et L. 561-5-1 du code, de recueillir des
+informations sur l’objet et la nature de la relation d’affaires. L’article R. 561-12 du code leur impose de
+recueillir, de mettre à jour et d’analyser « les éléments d’information qui permettent de conserver une
+connaissance appropriée et actualisée de leur relation d’affaires » et précise notamment que « la nature
+et l'étendue des informations collectées ainsi que la fréquence de la mise à jour de ces informations et
+l'étendue des analyses menées sont adaptées au risque de blanchiment de capitaux et de financement du
+terrorisme présenté par la relation d'affaires ».
+17. Selon le grief 4, fondé sur ces dispositions, la société A a commis plusieurs manquements à ses
+obligations de vigilance à l’égard de sa clientèle de personnes morales.
+En premier lieu, 30 clients personnes morales ont été classés parmi la clientèle de personnes
+physiques. En conséquence, la société A n’a pas vérifié leur identité ni recueilli d’éléments de
+connaissance à leur sujet.
+En deuxième lieu, dans un dossier (association C), les bénéficiaires effectifs du client n’ont pas été
+identifiés.
+En troisième lieu, au moment du contrôle, dans 75 % des dossiers de clients professionnels considérés
+comme ne présentant pas un risque élevé justifiant des mesures de vigilance renforcée, la société A ne
+recueillait pas d’information sur la connaissance du client, notamment sur sa situation financière.
+18. Si la première branche du grief a été formulée dans la notification des griefs sans que la poursuite
+fournisse la liste des clients personnes morales concernés, cette liste a été jointe aux premières
+observations en réplique du Collège et la société A a présenté des observations en défense après cette
+communication.
+La société A ne conteste pas cette première branche du grief. Elle indique toutefois que certains de
+ces comptes étaient inactifs depuis plusieurs années, ce qui conduit à relativiser l’importance du
+manquement. Elle ajoute qu’elle a clôturé plusieurs de ces comptes dans le cadre de son projet Eden et
+qu’elle a apporté les corrections nécessaires, qui ont notamment consisté en une interruption, à compter
+d’avril 2020, des relations d’affaires avec les clients personnes morales de la société E, leurs paiements
+ayant été externalisés auprès de la société M.
+19. La société A ne conteste pas non plus la deuxième branche du grief.
+Toutefois, si certaines associations présentent un risque élevé de BC-FT, il convient de tenir compte,
+dans l’appréciation de la gravité du présent manquement, du caractère particulier de l’association en
+cause, qui remplit une mission de service public et qui entretient des relations financières étroites avec
+un établissement public administratif placé sous la tutelle du ministère (…) (source : rapport annuel
+2020 de l’association C).
+20. La société A conteste la troisième branche du grief, en soutenant que, dans le cadre d’une
+approche par les risques, elle n’était pas tenue de recueillir systématiquement des informations sur la
+situation financière de ses clients professionnels. Elle mentionne les cas où le risque lui paraissait faible
+en raison du montant de la transaction en cause ou du pays concerné.
+Toutefois, le reproche ne porte pas seulement sur l’insuffisante connaissance de la situation financière
+des clients.
+En outre, la Commission a déjà rappelé qu’il appartient « à tout organisme assujetti de disposer
+notamment, avant d’entrer en relation d’affaires, d’informations sur les revenus et le patrimoine du
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2020-08
+client » (décision du 17 avril 2018, procédure n° 2017-05, considérant 27). Le respect de cette obligation
+s’impose d’autant plus qu’ainsi que Tracfin l’a souligné, certains schémas de blanchiment des capitaux
+peuvent comporter la réalisation, par des sociétés fictives, de transactions sur des sites de commerce
+(Tracfin Tendances et analyse des risques de BC-FT 2018-2019, cas n° 28, p. 71). Ce risque est
+susceptible de se réaliser quel que soit le pays concerné. En outre, il ne peut s’apprécier au regard de
+chaque transaction mais doit l’être au regard de l’ensemble de l’activité actuelle ou prévisible du client.
+21. L’amélioration du dispositif de connaissance, par la société A, de ses clients personnes morales
+mise en œuvre après le contrôle sur place est sans incidence sur le grief 4, qui est fondé.
+c) La détection des personnes politiquement exposées (« PPE ») et la mise en œuvre de mesures de
+vigilance complémentaires
+22. En vertu de l’article R. 561-20-2 du CMF, les personnes assujetties « définissent et mettent en
+œuvre des procédures, adaptées aux risques de blanchiment de capitaux et de financement du terrorisme
+auxquelles elles sont exposées, permettant de déterminer si leur client, ou son bénéficiaire effectif, est
+une personne mentionnée au 2° de l'article L. 561-10 [i.e. une personne politiquement exposée - PPE]
+ou le devient au cours de la relation d'affaires. / Lorsque le client, ou son bénéficiaire effectif, est une
+personne mentionnée au 2° de l'article L. 561-10 ou le devient au cours de la relation d'affaires, les
+personnes mentionnées à l'article L. 561-2, en sus des mesures prévues aux articles L. 561-5 à L. 561-
+6, appliquent les mesures de vigilance complémentaires suivantes : (…) 2° Elles recherchent, pour
+l'appréciation des risques de blanchiment de capitaux et de financement du terrorisme, l'origine du
+patrimoine et des fonds impliqués dans la relation d'affaires ou la transaction (…) ».
+23. Selon le grief 5, fondé sur ces dispositions, le dispositif mis en place par la société A pour détecter
+les PPE était, au moment du contrôle, défaillant.
+En premier lieu, cette détection n’intervenait, dans 90 % des dossiers, qu’après l’entrée en relation
+d’affaires, lors d’un filtrage hebdomadaire. De plus, le filtrage de la base clients était manuel, ce qui est
+une source de défaillances opérationnelles. La base de données clients n’a fait l’objet d’aucun filtrage
+du 2 au 20 juillet 2018, du 14 décembre 2018 au 14 janvier 2019 et du 2 au 28 février 2019, le fichier
+n’ayant pas été chargé dans l’outil de la société A. De plus, bien que ce fichier ait été chargé, la base n’a
+pas été correctement filtrée de septembre 2017 à juillet 2019, du fait d’une défaillance du prestataire
+externe auquel recourait la société A. En conséquence, la société A n’a pas détecté un client PPE (…)
+(dossier 5.1).
+En second lieu, six dossiers de clients PPE examinés par la mission de contrôle ne contenaient pas
+d’informations sur l’origine du patrimoine et des fonds impliqués dans la relation d’affaires (dossiers
+5.2 ; 5.3 ; 5.4 ;5.5 ; 5.6 ; 5.7).
+24. La société A ne conteste pas la première branche du grief. Elle se borne à décrire les mesures
+correctives qu’elle a mises en œuvre pour améliorer son dispositif de détection des PPE, grâce
+auxquelles le criblage des clients est désormais effectué, de manière automatisée, avant l’entrée en
+relation d’affaires.
+La Commission relève toutefois que ce manquement n’a entraîné qu’un défaut de détection d’une
+PPE.
+25. En second lieu, comme il est rappelé ci-dessus, le 2° de l’article R. 561-20-2 impose, lorsque le
+client est une PPE, de rechercher l’origine du patrimoine et des fonds impliqués dans la relation
+d’affaires ou la transaction. S’agissant des 5 clients vendeurs (dossiers 5.2 à 5.6), les biens cédés sont
+des éléments de patrimoine impliqués dans la relation d’affaires ou la transaction. La Commission relève
+toutefois, comme le Collège, que les transactions n’ont porté sur des montants significatifs que dans un
+de ces dossiers (ventes pour un total de 8 300 euros dans le dossier 5.2).
+Dans l’unique dossier relatif à un achat, les sommes n’ayant pas, selon les informations
+communiquées par la société A et non contredites par la poursuite, été créditées par l’acheteur sur le
+PME ouvert à son nom par la société A, les fonds impliqués dans la relation d’affaires sont inexistants.
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2020-08
+26- Le grief est donc fondé, dans un périmètre légèrement réduit pour sa seconde branche.
+d) Le dispositif de suivi et d’analyse des opérations et de la relation d’affaires
+27. En vertu de l’article L. 561-32 du CMF, les organismes assujettis doivent mettre en place un
+dispositif de gestion des risques leur permettant notamment de détecter les opérations mentionnées aux
+articles L. 561-10-1 (examen renforcé) et L. 561-15 du CMF (déclaration de soupçon). Ce dispositif doit
+leur permettre de respecter les dispositions de l’article L. 561-16 du CMF, selon lesquelles elles
+« s’abstiennent d’effectuer toute opération portant sur des sommes dont elles savent, soupçonnent ou
+ont de bonnes raisons de soupçonner qu'elles proviennent d'une infraction passible d'une peine privative
+de liberté supérieure à un an ou sont liées au financement du terrorisme jusqu'à ce qu'elles aient fait la
+déclaration prévue à l'article L. 561-15 ».
+28. Selon le grief 6, fondé sur ces dispositions, au moment du contrôle sur place, l’outil X utilisé par
+la société A ne déclenchait des alertes qu’après exécution des opérations sur le site de la société E, ce
+qui ne permettait pas à la société A de respecter l’obligation définie par les dispositions citées ci-dessus.
+Par ailleurs, les délais de traitement de certaines alertes étaient excessifs : ainsi, sur les 8 111 alertes
+déclenchées entre le 3 septembre 2018 et le 19 juin 2019, 12% ont été traitées plus de 6 mois après avoir
+été déclenchées, dont 490 six à sept mois après, 370 sept à huit mois après et 125 huit à neuf mois après.
+En outre, toutes les alertes ne faisaient pas l’objet d’une analyse suffisamment détaillée avant clôture :
+ainsi, pour 58 % des 8 111 alertes ci-dessus mentionnées, l’alerte n’a été suivie d’aucun commentaire
+et, dans près de 30 % des cas, le commentaire effectué a été succinct.
+29. S’agissant de la première branche du grief, la société A avait l’obligation de mettre en place un
+dispositif lui permettant d’être alertée suffisamment tôt des opérations suspectes pour bloquer la création
+de ME qui devait être créditée sur le PME du vendeur et, a fortiori, le paiement final de l’opération
+(« payout »). En effet, dès le crédit du PME, il existe un risque de BC-FT, qui résulte de la possibilité,
+pour le vendeur, d’utiliser la monnaie créée pour acheter des biens sur la plateforme de la société E. Or,
+s’il est vrai qu’il appartenait à la société A de déterminer à quel moment devaient être déclenchées les
+alertes pour qu’elle soit en mesure de respecter son obligation, il apparaît en tout état de cause que la
+société A n’avait pas mis en place de dispositif approprié.
+Dès lors, la première branche du grief est fondée, sans qu’ait d’incidence la circonstance, relevée par
+la société A, qu’elle n’était pas en mesure de bloquer les transactions primaires effectuées sur le site de
+la société E.
+30. La société A ne conteste pas la seconde branche du grief, qui est fondée.
+31. Les actions de remédiation annoncées, notamment le remplacement de l’outil de surveillance par
+un nouvel outil devant permettre une meilleure identification des transactions suspectes, sont sans
+incidence sur le grief 6, qui est fondé.
+e) L’obligation d’examen renforcé
+32. En vertu de l’article L. 561-10-2 du CMF, les personnes assujetties « effectuent un examen
+renforcé de toute opération particulièrement complexe ou d'un montant inhabituellement élevé ou ne
+paraissant pas avoir de justification économique ou d'objet licite. Dans ce cas, ces personnes se
+renseignent auprès du client sur l'origine des fonds et la destination de ces sommes ainsi que sur l'objet
+de l'opération et l'identité de la personne qui en bénéficie ».
+33. Selon le grief 7, fondé sur ces dispositions, dans un dossier, la société A a manqué à son obligation
+d’examen renforcé des opérations effectuées par les deux boutiques en ligne Y et Z Dans ces dossiers,
+deux clients spécialisés dans la vente de smartphones, représentés par deux personnes physiques
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2020-08
+différentes, ont successivement effectué en 2018 et 2019 des opérations pour des montants d’environ
+800 000 et 100 000 euros. Le produit de ces ventes, crédité sur les PME de ces clients, a été transféré
+vers un compte irlandais ouvert au nom d’un tiers sans justification économique apparente et de manière
+incohérente avec les éléments de connaissance des clients. En outre, le nombre élevé des réclamations
+enregistrées à la suite des ventes a conduit l’établissement à contacter les clients pour leur demander de
+ne plus commercialiser des smartphones et accessoires.
+34. La société A avait connaissance de ce que les deux « boutiques en ligne » Y et Z appartenaient à
+la société N. Dès lors, le transfert du produit des ventes des premières vers un compte ouvert au nom de
+la seconde n’impliquait pas, par lui-même, que la société A considère qu’il était dénué de justification
+économique. En outre, l’ouverture, sur le site de la société E, d’une nouvelle boutique en ligne, Z, après
+que la première, Y, eut interrompu ses activités à la suite de nombreuses plaintes de clients n’imposait
+pas qu’un examen renforcé de ses opérations soit effectué : en effet, cette ouverture avait pu être décidée
+pour un motif commercial.
+35. Le grief 7 est en conséquence écarté.
+4°) Les obligations de déclaration à Tracfin
+36. En vertu du I de l’article L. 561-15 du CMF, les personnes assujetties « sont tenues, dans les
+conditions fixées par le présent chapitre, de déclarer au service mentionné à l'article L. 561-23 les
+sommes inscrites dans leurs livres ou les opérations portant sur des sommes dont elles savent,
+soupçonnent ou ont de bonnes raisons de soupçonner qu'elles proviennent d'une infraction passible
+d'une peine privative de liberté supérieure à un an ou sont liées au financement du terrorisme ».
+37. Selon le grief 8, fondé sur ces dispositions, la société A a, dans 20 dossiers, manqué à ses
+obligations déclaratives (dossiers 8.1 ; 8.2 ; 8.3 ; 8.4 ; 8.5 ; 8.6 ; 8.7 ; 8.8 ; 8.9 ; 8.10 ; 8.11 ; 8.12 ; 8.13 ;
+8.14 ; 8.15 ; 8.16 ; 8.17 ; 8.18 ; 8.19 ; 8.20).
+38. La société A indique avoir, après le début de la mission de contrôle, procédé à une DS pour 11 de
+ces 20 dossiers (dossiers 8.1, 8.2, 8.3, 8.5, 8.6, 8.7, 8.8, 8.9, 8.10, 8.11 et 8.14). Ces régularisations,
+tardives, sont sans incidence sur le grief, non contesté, pour ces 11 dossiers.
+39. Dans le dossier 8.4, l’alimentation de son PME par des fonds transférés depuis un compte dont
+le titulaire était une personne morale exploitant un salon de coiffure, la société X, puis l’utilisation des
+sommes ainsi transférées pour acquérir principalement des produits sans lien avec cette activité auraient
+dû conduire la société A à informer Tracfin de ces opérations, alors même que, contrairement à ce que
+mentionne la notification des griefs, le client n’était pas le gérant de ladite société.
+40. Dans le dossier 8.12, le nombre très important de smartphones et de tablettes, notamment neufs,
+vendus par ce client enregistré comme un particulier, avait conduit la société E à lui proposer, en février
+2017, de passer au statut de client professionnel, ce que l’intéressé avait refusé. Aucune DS n’a été
+adressée à Tracfin au sujet de ces opérations, qui ont représenté plus de 40 000 euros de chiffre d’affaires
+entre le 1er juillet 2017 et le 20 septembre 2019. La proposition du client de diminuer le nombre
+d’annonces qu’il publiait mensuellement afin que leur nombre demeure compatible avec son statut de
+vendeur particulier n’était pas de nature à écarter le soupçon sur la provenance des biens ainsi cédés et
+donc sur la licéité des opérations effectuées.
+41. Dans le dossier 8.13, la réalisation, par un client enregistré comme un particulier, d’un très grand
+nombre d’opérations (26 429 achats et 6 ventes depuis le 23 juin 2016), financées par des fonds dont
+l’origine n’était pas connue, aurait dû conduire la société A à adresser une DS à Tracfin. Dans ce
+contexte, si elle ne suffisait pas à établir qu’il résidait effectivement dans ce pays, la connexion du client
+à partir d’une adresse IP en Thaïlande, alors qu’il était domicilié en France, apparaissait comme un
+Autorité de contrôle prudentiel et de résolution 10
+
+===== Page 11 =====
+Décision de la Commission des sanctions – procédure no 2020-08
+élément complémentaire qui aurait dû conduire la société A à soupçonner que les opérations entraient
+dans les prévisions de l’article L. 561-15 du CMF.
+42. Dans le dossier 8.15, l’exécution, par un client enregistré en qualité de vendeur non professionnel
+alors qu’il disait le contraire dans ses annonces, de plus de 600 ventes, pour une large part de produits
+neufs, pour près de 300 000 euros depuis octobre 2010, aurait dû conduire la société A à adresser une
+DS à Tracfin. Ce manquement est établi, alors même que la poursuite, qui n’y était pas tenue, n’a pas
+identifié l’infraction sous-jacente. L’enregistrement du client comme entrepreneur individuel à compter
+du 12 septembre 2019 n’était pas de nature à lever les incertitudes sur la licéité de ses opérations, à tout
+le moins des opérations exécutées pendant la période antérieure. Par ailleurs, le fait que tous les produits
+n’aient pas été cédés à un prix anormalement bas ne suffisait pas à écarter le soupçon d’une origine
+frauduleuse.
+43. Dans le dossier 8.16, si la société A précise que les messages qu’elle a échangés avec ce client
+étaient relatifs au retrait de certains produits de la vente à la suite de réclamations sur leur qualité (produit
+reçu défectueux ou différent de celui qui a été commandé) ou en l’absence de réception, la mise en cause
+du client dans une opération anti-contrefaçon en Chine aurait dû conduire la société à informer Tracfin
+des opérations effectuées.
+44. Dans le dossier 8.17, la vente, par un client particulier ayant ouvert plusieurs PME et dont la
+société A ne connaissait ni la profession ni le patrimoine ni les revenus, de produits informatiques divers,
+de jouets Lego et de jeux vidéo, pour près de 90 000 euros depuis septembre 2014, aurait dû conduire la
+société à informer Tracfin. Les explications de l’intéressé, selon lesquelles il était « juste fan des vide-
+greniers » et remettait ensuite sous blister des produits d’occasion, ne pouvaient suffire, en l’absence de
+pièce justifiant leur origine, à écarter le soupçon de blanchiment.
+45. Dans le dossier 8.18, le retrait de certains produits à la suite de réclamations de clients et du
+signalement par la société Nintendo d’atteintes à ses droits de propriété intellectuelle aurait dû être suivi
+d’une information à Tracfin, sans qu’il ait été nécessaire que la preuve d’une infraction pénale soit à ce
+stade apportée.
+46. Dans le dossier 8.20, la société A ne connaissait ni la profession ni les revenus ni le patrimoine
+de la cliente. La vente par l’intéressée, de juillet 2017 à juin 2019, de nombreux produits électroniques,
+neufs ou dont les acheteurs ont au contraire indiqué qu’ils étaient abîmés, principalement des
+smartphones, aurait dû, en raison du volume des transactions (par exemple, 47 téléphones Samsung) et
+de l’incertitude sur la provenance des produits, cédés par une personne qui était enregistrée
+comme « client particulier » et qui n’a pas donné suite aux propositions de passer au statut de vendeur
+professionnel, donner lieu à l’envoi par la société A d’une DS à Tracfin.
+47. À l’audience, le représentant du Collège a indiqué qu’il renonçait à reprocher à la société A un
+défaut de DS dans le dossier 8.19. Il convient de lui en donner acte.
+48. Le grief 8 est donc fondé, sauf pour le dossier 8.19.
+II. Sur Le dispositif de gel des avoirs
+49. En vertu du I de l’article L. 562-4 du CMF, « toute personne mentionnée à l'article L. 561-2, qui
+détient ou reçoit des fonds ou des ressources économiques pour le compte d'un client, est tenue
+d'appliquer sans délai les mesures de gel et les interdictions de mise à disposition ou d'utilisation
+prévues au présent chapitre et d'en informer immédiatement le ministre chargé de l'économie ».
+50. Selon le grief 9, fondé sur ces dispositions, le filtrage effectué par la société A au regard des listes
+de personnes visées par une mesure de gel des avoirs excluait ceux de ses clients qui faisaient l’objet de
+mesures de vigilance simplifiées dites « SDD », soit 97 % des clients particuliers, ce qui ne lui permettait
+Autorité de contrôle prudentiel et de résolution 11
+
+===== Page 12 =====
+Décision de la Commission des sanctions – procédure no 2020-08
+pas d’appliquer sans délai les mesures de gel et de mise à disposition ou d’utilisation de fonds au
+bénéfice de personnes dont les avoirs étaient gelés.
+Par ailleurs, les modalités de réalisation des filtrages, lorsqu’ils étaient effectués, ne permettaient pas
+de mettre en œuvre sans délai les mesures de gel à l’égard de la clientèle : d’une part, 10 % seulement
+des nouveaux clients faisaient l’objet d’un filtrage à l’entrée en relation d’affaires, le filtrage de 90 %
+des clients étant effectué selon une périodicité hebdomadaire. D’autre part, les filtrages effectués
+nécessitaient une intervention manuelle, ce qui entraînait des défaillances opérationnelles. Ainsi, la base
+de données clients n’a pas fait l’objet d’un filtrage du 2 au 20 juillet 2018, du 14 décembre 2018 au 14
+janvier 2019 et du 2 au 28 février 2019, le fichier n’ayant pas été chargé dans l’outil de filtrage. De plus,
+à la suite d’une défaillance du prestataire externe auquel recourait la société A, les trois quarts des
+données concernant les clients ou représentants légaux des sociétés n’ont pas été filtrés entre les mois
+de septembre 2017 et juillet 2019. En conséquence, l’un des clients de la société A, dont les éléments
+d’identification correspondaient à ceux d’une personne faisant l’objet d’une mesure nationale de gel,
+n’a pas été détecté (dossier Z).
+51. En premier lieu, les dispositions ci-dessus rappelées de l’article L. 562-4 du CMF imposent à
+tous les organismes assujettis une obligation de gel des fonds et des ressources des personnes visées par
+une mesure restrictive, sans prévoir de dérogation tenant, par exemple, au montant des opérations en
+cause. Le respect de cette obligation implique une exhaustivité du dispositif de détection mis en place.
+La Commission a rappelé à plusieurs reprises le caractère essentiel du respect de cette obligation.
+Elle a notamment souligné que « la mise en place d'un dispositif efficace de gel des avoirs [répond] à
+une exigence essentielle pour les organismes assujettis, en particulier les établissements bancaires, qui
+sont en première ligne pour la mise en œuvre de cette législation, au titre de laquelle leur incombe une
+obligation de résultat » (décision du 21 décembre 2018, procédure n° 2018-01, considérant 35).
+Or la poursuite relève que les clients auxquels la société A appliquait des mesures de vigilance
+simplifiées, qui consistaient en la seule prise de connaissance de l’identité qu’ils déclaraient, au motif,
+notamment, d’un seuil d’opérations débitrices ou créditrices calculé sur 30 jours glissants inférieur à
+250 euros, ne faisaient l’objet d’aucun filtrage. Pour procéder à une telle exclusion, la société A se
+fondait sur l’un des critères mentionnés, ainsi qu’on l’a dit au point 14 ci-dessus, par les dispositions de
+l’article R. 561-16-1 du CMF. Elle estimait, ce faisant, que ces dispositions ont sinon pour objet, du
+moins pour effet de soustraire une partie des clients du champ de l’obligation en matière de gel des
+avoirs définie par l’article L. 562-4 du CMF.
+La Commission constate que les lignes directrices conjointes de la direction générale du Trésor et de
+l’ACPR sur la mise en œuvre des mesures de gel des avoirs dont se prévaut sur ce point la société A,
+publiées en juin 2016, actualisées en juin 2019 puis en juin 2021, indiquent que « les établissements qui
+émettent et gèrent de la monnaie électronique sont tenus de mettre en œuvre les mesures nationales et
+européennes de gel des avoirs, sauf dans les cas visés à l’article R 561-16-1 » (§153). Bien que ces
+lignes directrices subordonnent la non-application des mesures de gel au respect de toutes les conditions
+prévues par l’article R. 561-16-1 du CMF et non du seul critère de seuil alors applicable, elles pouvaient,
+du fait de leur formulation générale, être légitimement regardées par la société A comme une prise de
+position formelle par laquelle l’ACPR admettait qu’elle procède à l’exclusion des clients pour lesquels
+les dispositions de l’article R 561-16-1 du CMF trouvaient à s’appliquer du champ de son obligation en
+matière de gel des avoirs. La circonstance que le représentant du Collège et la représentante de la
+direction générale du Trésor aient, le premier au cours de l’audience, la seconde dans une note adressée
+au Président de la Commission et communiquée à la société A qui y a répondu, indiqué, pour la première
+fois, que le paragraphe cité ci-dessus ne vise que l’hypothèse dans laquelle un établissement serait dans
+l’impossibilité d’identifier le client est à cet égard sans incidence.
+Il en résulte qu'aucun manquement susceptible d'être sanctionné en raison d'une méconnaissance des
+dispositions de l’article L 562-4 du CMF ne peut, en tout état de cause, être retenu contre la société A
+pour avoir exclu du filtrage les clients pour lesquels les dispositions de l’article R 561-16-1 du CMF
+trouvaient à s’appliquer, comme c’était le cas pour Z, que mentionne la poursuite.
+Il reste que, ainsi qu’elle le reconnaît d’ailleurs elle-même, pour certains des clients que la société A
+regardait comme relevant des dispositions de l’article R 561-16-1 du CMF, les conditions posées par cet
+article n’étaient pas réunies. la société A était donc tenue, pour respecter l’obligation définie par l’article
+Autorité de contrôle prudentiel et de résolution 12
+
+===== Page 13 =====
+Décision de la Commission des sanctions – procédure no 2020-08
+L 562-4 du code, de les soumettre à un filtrage. Elle a ainsi, dans cette mesure, en tout état de cause,
+manqué à son obligation.
+52. En deuxième lieu, les défaillances dans la mise en œuvre des filtrages, lorsque ceux-ci étaient
+effectués, ne sont pas contestées par la société A, qui indique seulement avoir amélioré son dispositif en
+effectuant désormais chaque jour ses contrôles avant l’ouverture du PME du client, afin de vérifier s’il
+fait l’objet d’une mesure restrictive.
+53. Malgré les mesures correctives ultérieurement décidées, le grief 9 est fondé, dans un périmètre
+sensiblement réduit ainsi qu’il a été dit pour sa première branche.
+*
+* *
+54. Il résulte de ce qui précède qu’au moment du contrôle, les procédures internes de la société A ne
+traitaient pas la question des dossiers devant donner lieu à un examen renforcé (grief 1) tandis que
+l’établissement ne respectait pas son obligation de formation de ses salariés en LCB-FT (grief 2). En
+outre, l’organisation alors mise en place ne lui permettait pas de mettre en œuvre son obligation de
+vigilance vis-à-vis de tous les clients personnes physiques concernés (grief 3) et des carences ont été
+relevées dans le traitement des clients personnes morales (grief 4) et des clients PPE (grief 5). Par
+ailleurs, son dispositif de surveillance des opérations était défaillant en raison d’un déclenchement tardif
+des alertes sur les opérations atypiques (grief 6). En conséquence de ces carences, des défauts de DS
+ont été retenus dans un nombre significatif de dossiers (grief 8). Enfin, en matière de gel des avoirs, les
+modalités de mise en œuvre du dispositif de filtrage étaient défaillantes (grief 9).
+55. La société A soutient, il est vrai, que son activité d’émission de ME dans le but de permettre
+l’exécution d’opérations sur la place de marché de la société E présentait un faible risque de BC-FT et
+que les manquements qui peuvent lui être reprochés ne peuvent par suite être regardés comme graves.
+Elle rappelle à ce sujet que, dans son « Analyse sectorielle du risque de BC-FT » de décembre 2019,
+l’ACPR insistait sur les risques qui s’attachent à l’émission et à l’utilisation de ME sans évoquer de
+risque particulier auquel les plateformes de commerce en ligne seraient exposées.
+Cette argumentation ne peut être suivie.
+En effet, si, dans l’analyse publiée en décembre 2019 dont se prévaut la société A, l’ACPR fait en
+particulier état des risques de BC-FT qui peuvent trouver leur origine dans l’anonymat des utilisateurs
+de ME, notamment dans l’utilisation de cartes prépayées, et si elle n’évoque pas spécifiquement les
+risques liés à l’utilisation de ME sur des sites marchands, de tels risques ne peuvent être exclus : ils
+résultent notamment de la possibilité que, sur le site d’une plateforme de commerce en ligne, soient
+proposés des produits volés. Ce risque paraît significatif, notamment dans le cas de clients vendeurs sur
+le site de la société E qui ont une activité importante alors qu’ils sont enregistrés comme des particuliers.
+En outre, comme toutes les plateformes, la société E peut être utilisée pour la vente de produits
+contrefaits (cf. « Tendances et analyses » de Tracfin 2019-2020, p. 24, sur le développement de la vente
+de produits contrefaits sur les plateformes de vente en ligne), voire pour des ventes fictives dont le
+produit est ensuite susceptible d’être transféré sur des comptes bancaires, notamment à l’étranger.
+56. Cependant, certains griefs ont une portée limitée : c’est le cas du grief 1, qui ne concerne qu’un
+aspect ponctuel des procédures internes, et des griefs 4 et 5, sur les mesures de vigilance à l’égard des
+personnes morales et des PPE, pour les raisons qui ont été dites aux points 18, 19, 24 et 25 ci-dessus.
+Par ailleurs, le périmètre de certains griefs a été sensiblement réduit (griefs 3 et 9).
+Enfin, le grief 7 a été écarté.
+57. Il convient également de tenir compte de ce que la société A a, très rapidement, mis en œuvre un
+plan de remédiation ambitieux mobilisant des ressources importantes.
+Autorité de contrôle prudentiel et de résolution 13
+
+===== Page 14 =====
+Décision de la Commission des sanctions – procédure no 2020-08
+58. Enfin, si la société A appartient à un groupe d’ampleur internationale et si elle disposait, fin 2020,
+de fonds propres d’un montant significatif (40 millions d’euros), il y a lieu de prendre en compte le fait
+que l’activité d’EME est pour elle une activité assez récente, d’où elle tire une faible part de ses
+ressources, et le fait que l’évolution de ses résultats, comme de ceux du groupe auquel elle appartient,
+reste défavorable.
+59. Compte tenu de l’ensemble des éléments relevés aux points 55 à 58, les manquements retenus
+par la Commission justifient le prononcé d’un blâme et il y a lieu, eu égard à la situation financière de
+la société A, de prononcer en outre à son encontre une sanction pécuniaire de 120 000 euros.
+En l’absence d’éléments de nature à établir qu’une publication sous forme nominative causerait à la
+société A un préjudice disproportionné et qu’elle méconnaîtrait, en l’espèce, l’équilibre entre l’exigence
+d’intérêt général à laquelle elle répond et les intérêts de l’organisme mis en cause, il y a en outre lieu de
+publier la présente décision au registre de l’ACPR sous forme nominative, pendant une durée de trois
+ans. Elle y sera ensuite maintenue sous une forme non nominative.
+*
+* *
+PAR CES MOTIFS
+DÉCIDE :
+ARTICLE 1ER – Il est prononcé à l’encontre de la société A un blâme et une sanction pécuniaire de
+120 000 euros (cent vingt mille euros).
+ARTICLE 2 – La présente décision sera publiée au registre de l’ACPR pendant trois ans sous une
+forme nominative, puis sous une forme ne permettant pas d’identifier la société A, et pourra être
+consultée au secrétariat de la Commission.
+Le Président de la Commission
+des sanctions
+[Alain Ménéménis]
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification
+et dans les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 14

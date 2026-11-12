@@ -1,0 +1,563 @@
+===== Page 1 =====
+ISBANK PARIS
+Procédure no 2015-06
+–––––
+Blâme et sanction pécuniaire
+de 150 000 euros
+–––––
+Audience du 18 avril 2016
+Décision rendue le 29 avril 2016
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 28 avril 2015, par laquelle le Président de l’Autorité de contrôle prudentiel et de résolution
+(ACPR) informe la Commission de ce que le Collège de l’ACPR, statuant en sous-collège sectoriel de la
+banque, a décidé, lors de sa séance du 13 avril 2015, d’ouvrir une procédure disciplinaire à l’encontre de la
+succursale parisienne d’Isbank AG (ci-après Isbank), située 13, place Kossuth à Paris 9e, enregistrée sous le
+numéro 2015-06 ;
+Vu la notification de griefs du 28 avril 2015 ;
+Vu les mémoires en défense des 10 juillet 2015, 20 novembre 2015, 22 janvier 2016 et 22 février 2016,
+ainsi que les pièces qui les accompagnent, par lesquels Isbank (i) soutient qu’en raison du délai écoulé entre
+la signature du rapport de contrôle et la décision d’ouverture de cette procédure disciplinaire, celle-ci n’est
+pas conforme aux dispositions de l’article 6, paragraphe 3, de la Convention européenne de sauvegarde des
+droits de l’homme et des libertés fondamentales (ci-après la CESDHLF), (ii) soutient que l’appréciation par
+la mission de contrôle de la mise en œuvre des demandes de la mise en demeure du 20 février 2012
+méconnaît le principe de légalité des délits et des peines, (iii) conteste que les griefs notifiés soient
+constitutifs de manquements et (iv) sollicite que l’audience devant la Commission ne soit pas publique et que
+la décision à intervenir ne soit pas publiée sous une forme nominative ;
+Vu les mémoires des 1er octobre 2015, 28 décembre 2015 et 9 février 2016, ainsi que les pièces qui les
+accompagnent, par lesquels M. Christian Duvillet, représentant le Collège, estime que (i) la procédure ne
+méconnaît pas l’article 6, paragraphe 3, de la CESDHLF, (ii) le grief relatif au non-respect de la mise en
+demeure du 20 février 2012 ne méconnaît pas les principes de légalité des délits et des peines et de sécurité
+juridique, (iii) les griefs notifiés sont établis à l’exception du grief 2 relatif à l’identification des clients
+occasionnels effectuant des opérations de transfert de fonds qu’il décide d’abandonner tandis que les griefs 3
+et 6 respectivement relatifs au dispositif de suivi et d’analyse de la relation d’affaires et au contrôle
+permanent du dispositif de lutte contre le blanchiment des capitaux et le financement du terrorisme (ci-après
+LCB-FT) sont établis mais sur un périmètre réduit ;
+Vu le procès-verbal d’audition de la directrice d’Isbank, entendue à sa demande par le rapporteur le
+17 novembre 2015 ;
+Vu le rapport du 16 mars 2016 de M. Thierry Philipponnat, rapporteur, dans lequel celui-ci conclut (i) que
+les atteintes alléguées à l’article 6, paragraphe 3, de la CESDHLF et aux principes de légalité des délits et des
+peines et de sécurité juridique doivent être écartées, (ii) au fond, que le grief 1 relatif à l’identification des
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2015-06
+clients en relation d’affaires est établi sur un périmètre fortement réduit, que le grief 2 relatif à
+l’identification des clients occasionnels doit être écarté, que le grief 3 relatif au dispositif de suivi et
+d’analyse de la relation d’affaires et au profil des relations d’affaires est établi dans un périmètre très
+légèrement réduit, que le grief 4 relatif aux défauts d’examen renforcé est établi mais dans un périmètre
+réduit, que le grief 5 relatif aux défauts de déclaration de soupçon (ci-après DS) est entièrement établi, que le
+grief 6 relatif au contrôle permanent du dispositif de LCB-FT est établi mais dans un périmètre fortement
+réduit et que le grief 7 relatif au non-respect de la mise en demeure est établi mais doit être relativisé ;
+Vu les courriers du 16 mars 2016 convoquant les parties à l’audience, les informant de la composition de
+la Commission et de ce qu’il sera fait droit à la demande de l’établissement tendant à ce que cette audience
+ne soit pas publique ;
+Vu les observations présentées le 31 mars 2016 par Isbank sur le rapport du rapporteur ;
+Vu le courrier du 20 août 2012 adressé par Isbank au secrétariat général de l’ACPR, produit par la
+poursuite lors de l’audience du 18 avril 2016 ;
+Vu les autres pièces du dossier, notamment le rapport de contrôle du 31 mars 2014 ;
+Vu la CESDHLF du 4 novembre 1950, notamment son article 6, paragraphe 3 ;
+Vu le code monétaire et financier (ci-après le CMF), dans sa rédaction applicable aux faits ;
+Vu le règlement no 97-02 du 21 février 1997 modifié relatif au contrôle interne des établissements de
+crédit et des entreprises d’investissement (ci-après le règlement no 97-02), dans sa rédaction applicable aux
+faits ;
+Vu l’arrêté du 3 novembre 2014 relatif au contrôle interne des entreprises du secteur de la banque, des
+services de paiement et des services d’investissement soumises au contrôle de l’ACPR ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACPR, composée de M. Rémi Bouchez, Président,
+Mme Claudie Aldigé, M. Francis Crédot, M. Jean-Pierre Jouguelet et Mme Christine Meyer-Meuret, après
+avoir entendu, lors de sa séance non publique du 18 avril 2016 :
+– M. Philipponnat, rapporteur, assisté de M. Raphaël Thébault, adjoint au rapporteur ;
+– M. Duvillet, représentant le Collège de l’ACPR, assisté de l’adjointe au directeur des affaires juridiques
+de l’ACPR, du chef du service des affaires institutionnelles et du droit public et de cadres de ce service et
+du service des établissements étrangers en France ; M. Duvillet a proposé le prononcé d’un blâme assorti
+d’une sanction pécuniaire de 150 000 euros, dans une décision publiée de manière nominative ;
+– la directrice de la succursale parisienne d’Isbank AG, assistée du directeur de la conformité d’Isbank AG
+et de Me Guillaume Berruyer, avocat à la Cour, cabinet Jeantet Associés AARPI ;
+Le représentant du directeur général du Trésor, dûment convoqué, ne s’étant pas présenté ;
+Les représentants d’Isbank ayant eu la parole en dernier ;
+Après avoir délibéré en la seule présence de M. Bouchez, de Mme Aldigé, M. Crédot, M. Jouguelet et
+Mme Meyer-Meuret, et de M. Jean-Manuel Clemmer, chef du service de la Commission des sanctions faisant
+fonction de secrétaire de séance ;
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2015-06
+1. Considérant qu’Isbank est la succursale française, créée en 1998, de la banque allemande Isbank AG,
+qui existe dans sa forme actuelle depuis 1992 et regroupe les activités des différentes filiales et succursales
+en Europe de la banque turque Tibas ; que cette succursale offre à ses clients des services de banque
+commerciale avec une dimension internationale (crédits à l’exportation ou à l’importation, crédits
+documentaires et garanties à première demande, services de paiement, financements d’exploitation, crédits à
+court ou moyen terme) ; que sa clientèle est composée à hauteur d’environ 16 % de personnes morales et de
+professionnels et 84 % de personnes physiques non professionnelles ayant des liens privilégiés avec la
+Turquie ; qu’en 2015, elle comptait 9 salariés et gérait 1 060 comptes clients ; que son total de bilan s’élevait
+alors à 19 077 000 euros pour un résultat d’exploitation de 1 131 000 euros et une perte nette de 508 000
+euros ;
+2. Considérant qu’à la suite d’un contrôle sur place effectué au premier semestre 2011 relatif au dispositif
+de lutte contre le blanchiment des capitaux et le financement du terrorisme (LCB-FT) d’Isbank, un rapport a
+été signé le 9 juin 2011 ; que le 20 février 2012, Isbank a été mise en demeure de corriger, dans un délai de 3
+ou 6 mois selon les cas, les 14 principaux manquements relevés par cette mission ; qu’une nouvelle mission
+de contrôle a été diligentée du 12 juillet au 8 novembre 2013 pour vérifier le respect des demandes qui
+figuraient dans la mise en demeure mais aussi de certaines des recommandations qui figuraient dans la lettre
+du 7 novembre 2011, également adressée à la suite de ce premier contrôle ; que cette nouvelle mission a
+donné lieu, le 31 mars 2014, à la signature d’un rapport définitif (ci-après le rapport de contrôle) ; que le
+Collège de l’ACPR, statuant en sous-collège sectoriel de la banque, a décidé, lors de sa séance du 13 avril
+2015, d’ouvrir la présente procédure disciplinaire ;
+I. Questions générales et exceptions de procédure
+1. Sur le principe du plus court délai prévu à l’article 6, paragraphe 3, de la CESDHLF
+3. Considérant que l’article 6, paragraphe 3, de la CESDHLF prévoit que « Tout accusé a droit
+notamment à : / a. être informé, dans le plus court délai, dans une langue qu’il comprend et d’une manière
+détaillée, de la nature et de la cause de l’accusation portée contre lui (…) » ; qu’Isbank soutient que le délai
+écoulé entre la date de signature du rapport de contrôle le 31 mars 2014 et la date de la séance du Collège
+ayant décidé l’ouverture de cette procédure disciplinaire le 13 avril 2015 a rendu plus difficile l’exercice des
+droits de la défense ;
+4. Considérant cependant que la garantie du plus court délai accordée par ces stipulations ne s’applique
+pas dans la période antérieure à l’accusation, laquelle se définit comme « la notification officielle émanant de
+l’autorité compétente du reproche d’avoir accompli une infraction pénale » (Cour EDH, Bertin-Mourot
+c/France, 2 août 2000, no 36343/97) ; que cette lecture de ces stipulations a également été retenue par le
+Conseil d’État (CE, 2 juillet 2015, req. no 366108) ; que, dès lors, le délai de plus d’un an qui s’est écoulé en
+l’espèce entre la signature du rapport de contrôle et la notification des griefs, laquelle est le premier acte de
+la présente procédure, n’entre pas dans leur champ ; que l’exception soulevée doit donc être écartée ;
+2. Sur les principes de légalité des délits et des peines et de sécurité juridique
+5. Considérant qu’au sujet des observations du rapport de contrôle relatives au non-respect de la mise en
+demeure (grief 7), Isbank soutient que les formulations retenues, en raison de l’association de l’adjectif
+« conforme » avec les adverbes « largement » ou « partiellement », témoignent d’une appréciation subjective
+et portent donc atteinte à la sécurité juridique que les établissements sont en droit d’attendre ;
+6. Considérant qu’ainsi, Isbank ne soutient pas que les dispositions légales et réglementaires que le
+Collège de l’ACPR lui reproche d’avoir enfreintes méconnaissent, en raison de leur imprécision ou de leur
+obscurité, le principe de légalité des délits et des peines ou ont porté atteinte à la sécurité juridique des
+établissements supervisés par l’ACPR, mais que l’appréciation du respect de ces dispositions par la mission
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2015-06
+de contrôle sur place, consignée dans le rapport de contrôle, méconnaîtrait ce principe ; que cependant, il
+résulte clairement des termes utilisés par la mission de contrôle que toute mise en œuvre de ces dispositions
+qualifiée autrement que par la mention « conforme » (aux demandes qui figurent dans la mise en demeure)
+ne l’est pas ; que les adverbes utilisés ne font qu’exprimer l’écart entre les mesures mises en œuvre et la
+conformité aux actions correctrices demandées ; qu’au demeurant, c’est à la Commission des sanctions,
+saisie d’un tel grief, d’apprécier s’il est fondé, les mentions du rapport de contrôle n’étant à cet égard que
+l’un des éléments du dossier au vu duquel elle se prononce ; qu’aucune atteinte au principe de légalité ou à la
+sécurité juridique n’est avérée ; que l’exception soulevée doit donc être écartée ;
+II. Au fond
+1. Sur la distinction entre clients occasionnels et clients en relation d’affaires
+et la mise en œuvre des mesures de vigilance adaptées à la clientèle
+1.1. Sur l’identification des clients en relation d’affaires
+7. Considérant que l’article L. 561-2-1 du CMF prévoit que « une relation d’affaires est nouée lorsqu’une
+personne mentionnée à l’article L. 561-2 engage une relation professionnelle ou commerciale qui est censée,
+au moment où le contact est établi, s’inscrire dans une certaine durée. La relation d’affaires peut être prévue
+par un contrat selon lequel plusieurs opérations successives seront réalisées entre les cocontractants ou qui
+crée à ceux-ci des obligations continues. Une relation d’affaires est également nouée lorsqu’en l’absence
+d’un tel contrat un client bénéficie de manière régulière de l’intervention d’une personne susmentionnée
+pour la réalisation de plusieurs opérations ou d’une opération présentant un caractère continu (…) » ;
+8. Considérant que, selon le grief 1, Isbank a défini et mis en œuvre, à partir du 1er janvier 2013, 3 seuils
+alternatifs au-delà desquels la clientèle occasionnelle est considérée comme une relation d’affaires (15 000
+euros d’opérations cumulées dans l’année ou 8 000 euros en une opération ou 6 opérations en tout dans
+l’année) mais que, faute d’un dispositif d’alerte ou de blocage dans l’outil de gestion, elle n’est pas en
+mesure de s’assurer du respect de ces seuils, ce contrôle étant assuré manuellement par les employés du
+guichet ; que, d’ailleurs, il ressort, de l’analyse effectuée par la mission de contrôle des opérations de
+transmission de fonds effectuées au 1er semestre 2013, 11 dépassements de seuils parmi lesquels 4 clients ont
+déposé en cumul plus de 15 000 euros, tandis que l’application des seuils sur une année glissante permet
+d’identifier 36 dépassements qui n’ont pas donné lieu immédiatement à l’ouverture d’un compte de dépôt,
+conformément à la procédure de l’établissement, et à la mise en œuvre des mesures de vigilance adaptées à la
+clientèle en relation d’affaires ;
+9. Considérant tout d’abord qu’Isbank a fourni des explications contradictoires sur l’évolution de ses
+procédures LCB-FT ; que, dans le cadre de la présente procédure, elle soutient finalement que seul le seuil
+tiré du nombre d’opérations est un critère de distinction entre clients occasionnels et relations d’affaires,
+tandis que les seuils en montant d’opérations ont pour objet d’adapter la surveillance des clients
+occasionnels ; que toutefois il ressort de ses procédures internes applicables en juillet 2012 et mars 2013
+qu’une opération dépassant le seuil unitaire de 8 000 euros ou conduisant à dépasser sur une année celui de
+15 000 euros ne peut être effectuée en qualité de client occasionnel, quels que soient les justificatifs
+présentés, tandis qu’elle peut l’être par un client ayant ouvert un compte et de ce fait regardé comme une
+« relation d’affaires » pour l’application des règles de la LCB-FT ; que, dès lors, ces critères conduisent bien
+à distinguer la clientèle occasionnelle de la clientèle en relation d’affaires, au même titre que le critère tiré du
+nombre d’opérations ; qu’au demeurant, telle est bien l’interprétation qu’Isbank donnait de ses propres
+procédures dans des courriers adressés à l’ACPR les 21 mars et 20 août 2012 ;
+10. Considérant ensuite que l’établissement ne conteste pas le reproche relatif à l’absence d’un système
+d’alerte ou de blocage dans l’outil de gestion mais fait valoir que, depuis début janvier 2013, un nouveau
+dispositif a été mis en place dans lequel il est demandé aux salariés de compléter une fiche de renseignement
+pour tout transfert d’espèces d’un montant supérieur ou égal à 5 000 euros et que, pour chaque client
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2015-06
+occasionnel se présentant aux guichets, le guichetier doit toujours interroger le système Z pour visualiser le
+nombre de transmissions de fonds précédemment réalisées et le nom du bénéficiaire déclaré des fonds
+transférés ; que cependant, s’il n’est pas interdit à un établissement d’utiliser un dispositif non automatisé de
+vérification du respect des seuils qu’il définit, il lui appartient de mettre en place une organisation permettant
+efficacement de s’assurer du respect de ces seuils et des conséquences qui leur sont attachées ; que s’il a été
+indiqué que le nouveau système informatique (…), comportant un dispositif bloquant en cas de dépassement
+des seuils paramétrés, serait opérationnel à compter de mai 2016, une telle organisation faisait défaut à la
+date du contrôle ;
+11. Considérant enfin que si la notification de griefs ne permet pas de déterminer aisément les noms des
+clients en cause dans les 11 et 36 cas qu’elle mentionne, en se bornant à citer ces chiffres et à se référer aux
+constatations du rapport de contrôle contenues dans un tableau mentionnant 55 noms, la société Isbank a en
+tout état de cause été mise en mesure, à la suite des précisions apportées sur ce point dans les observations en
+réplique du représentant du Collège, de prendre connaissance de la liste des cas retenus par la poursuite pour
+illustrer le reproche et, le cas échéant, de la contester ; qu’il résulte des pièces du dossier soumis à la
+Commission que des dépassements des seuils mentionnés ci-dessus sont avérés dans au moins 36 cas au titre
+du second semestre 2012 et du premier semestre 2013 ; qu’ainsi, la distinction prévue par Isbank entre
+clients occasionnels et relations d’affaires en application de l’article L. 561-2-1 précité n’a pas été
+correctement mise en œuvre ; que, dès lors, le grief est établi ;
+1.2. Sur l’identification des clients occasionnels effectuant
+des opérations de transmission de fonds
+12. Considérant que le 3o de l’article R. 561-10 du CMF impose l’identification et la vérification
+d’identité au premier euro des clients occasionnels réalisant une opération de transmission de fonds et, le cas
+échéant, des bénéficiaires effectifs de l’opération ;
+13. Considérant que, selon le grief 2, sur un échantillon de 11 opérations de transmissions de fonds de
+plus de 5 000 euros réalisées après le 20 mai 2012, 2 dossiers de clients ayant procédé à des remises
+d’espèces au guichet suivies de transferts de fonds ne contiennent pas la copie de la pièce d’identité ou les
+références de cette dernière ;
+14. Considérant que la poursuite a décidé d’abandonner ce grief ; qu’il lui est donné acte de cet abandon ;
+2. Sur le dispositif de suivi et d’analyse de la relation d’affaires
+15. Considérant que le point 2.2 de l’article 11-7 du règlement 97-02 prévoyait que « les entreprises
+assujetties se dotent de dispositifs de suivi et d’analyse de leurs relations d’affaires, fondés sur la
+connaissance de leur clientèle, permettant notamment de détecter les opérations qui constituent des
+anomalies au regard du profil des relations d’affaires et qui pourraient faire l’objet d’un examen renforcé
+mentionné à l’article L. 561-10-2 (II) ou d’une déclaration prévue à l’article L. 561-15 du code monétaire et
+financier. Elles se dotent également de dispositifs adaptés à leurs activités permettant de détecter toute
+opération au bénéfice d’une personne ou d’une entité faisant l’objet d’une mesure de gel des fonds,
+instruments financiers et ressources économiques » ; que ces dispositions ont été reprises aux articles 46 et
+47 de l’arrêté du 3 novembre 2014 susvisé ;
+16. Considérant que, selon le grief 3, Isbank a défini des indicateurs de risques propres à son activité en
+matière de LCB-FT ; que le calcul du score affecté à chaque dossier client est effectué manuellement sur une
+feuille Excel « fiche KYC » (Know Your Customer) au regard de ces indicateurs ; que 210 clients personnes
+physiques et 34 clients personnes morales n’avaient pas de fiches KYC au moment de la mission et étaient
+classés, de ce fait, dans le système de gestion en risque faible et que le calcul du score diffère de celui qui est
+effectivement enregistré dans le système de gestion utilisé par l’établissement (Z) et administré par la maison
+mère ; qu’ainsi 171 clients personnes physiques (soit 11,56 %) et 14 clients personnes morales (soit 6,28 %
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2015-06
+du total) ont un profil de risque dans Z moins élevé que celui résultant du score de la fiche KYC et que,
+parmi ces clients, 77 étaient classés en risque élevé par l’établissement ; que, l’outil de détection des
+opérations atypiques et suspectes (Y) n’étant relié qu’au système de gestion Z, le dispositif de suivi et
+d’analyse des relations d’affaires n’est pas en mesure de détecter l’ensemble des anomalies au regard du
+profil des relations d’affaires comme le démontrent les défauts d’examen renforcé et de DS reprochés au titre
+des griefs 4 et 5 ;
+17. Considérant que, s’agissant de la mise à jour des « scoring » pour les 34 dossiers clients personnes
+morales, la poursuite a précisé que l’inclusion des comptes « nostro » d’Isbank Paris et d’Isbank Amsterdam,
+succursales d’Isbank AG, dans le périmètre du grief, résultait d’une erreur, de sorte qu’il y a lieu de les en
+exclure ; que de même, concernant les comptes bancaires des sociétés A et B, les pièces produites par Isbank
+démontrent que si la fiche KYC ne figurait pas dans les dossiers papier de ces clients au moment du contrôle,
+elle existait dans la base de données ; qu’en outre, la poursuite ne précise pas les raisons pour lesquelles
+l’établissement aurait dû disposer de fiches KYC pour chacun des 14 comptes ouverts au nom de
+représentations de l’État (…) en France ; que le reproche sera donc, en l’état des éléments produits par la
+poursuite pour ces 14 comptes, réduit à un seul défaut de fiche ; qu’à l’inverse, si 4 comptes clients parmi
+ceux relevés par la mission de contrôle ont été clôturés, cela ne dispensait pas Isbank d’établir précédemment
+à leur sujet une fiche KYC qu’elle aurait pu produire lors du contrôle ; que, de plus, le compte de la société
+en liquidation judiciaire aurait dû donner lieu à l’établissement d’une telle fiche ; que la circonstance que
+11 dossiers de clients disposaient d’un « scoring » dans le système d’information central Z, géré par la
+maison mère en Allemagne, ne suffit pas à répondre au reproche, en raison des carences de ce système au
+sujet duquel le rapport de contrôle constatait que « L’examen des données a conduit à relever le caractère
+insuffisant des informations descriptives inscrites dans le progiciel, qu’elles concernent la connaissance du
+client ou la nature des opérations regroupées dans les codes opération (…) » ; qu’ainsi, le périmètre du
+reproche doit être réduit à 17 des dossiers clients personnes morales ; qu’il y a également lieu de tenir
+compte de ce qu’il n’est pas établi que l’absence, pour ces clients, de fiche KYC ait systématiquement eu
+pour conséquence un classement en risque faible ;
+18. Considérant que, s’agissant de la mise à jour du « scoring » pour les 210 dossiers clients personnes
+physiques, les 99 actionnaires ou dirigeants de clients, et non eux-mêmes clients, doivent être exclus du
+reproche ; que, de même, s’il est reproché à Isbank de ne pas détenir de fiche KYC pour le « compte O », ce
+nombre correspond à un identifiant client et non à un numéro de compte ; que le compte intitulé « clôture
+60800 » apparaît comme un compte technique qui doit être exclu du reproche ; que, s’agissant des comptes C
+et D, la fiche KYC existe au format Excel mais n’avait pas été imprimée pour le dossier papier examiné par
+la mission de contrôle, ce qui a été fait depuis ; qu’enfin, pour 14 dossiers clients, la banque justifie bien que
+les fiches KYC existaient dans les dossiers papier, ce qui conduit également à les écarter ; qu’à l’inverse, les
+33 dossiers pour lesquels Isbank indique que les fiches KYC étaient en cours d’achèvement au moment du
+contrôle et les 17 autres dossiers pour lesquels le « scoring » a été finalisé depuis l’ouverture de cette
+procédure ne peuvent qu’être retenus au titre de ce grief ; que les 14 comptes concernés par le programme
+sur MS Access permettant de calculer automatiquement le « scoring » et dont l’utilisation expliquerait
+l’absence de fiches KYC au format Excel dans les dossiers clients doivent aussi être retenus au titre de ce
+grief, dès lors que l’utilisation de ce programme ne dispensait pas Isbank de réunir les informations
+nécessaires à la connaissance de ces clients ; que si Isbank invoque la circonstance que 28 des comptes visés
+par la poursuite étaient clôturés, elle ne justifie cependant pas de l’existence, au sujet de ces clients, d’une
+fiche KYC ; qu’en outre, il n’existe aucune raison d’exclure du champ des obligations en matière de
+connaissance du client le compte d’un client par ailleurs salarié de l’agence ; qu’au total, 93 des dossiers
+clients personnes physiques doivent être retenus comme défaillants ;
+19. Considérant enfin que si l’établissement, qui ne conteste pas les incohérences de calcul du « scoring »
+dans les 2 outils Y et Z, tente d’en minimiser la portée en expliquant qu’elles ont pour origine un « bug »
+informatique qui aurait concerné un faible pourcentage des clients, la cause de ce dysfonctionnement est sans
+influence sur le grief ; que ces écarts ont concerné un pourcentage significatif des clients et, contrairement à
+ce que soutient Isbank, ont eu des conséquences pratiques, puisque 77 clients regardés comme présentant un
+risque élevé se sont trouvés enregistrés dans le système de gestion Z avec un risque standard, ce qui
+impliquait des mesures de vigilance moindres que s’ils avaient été classés en risque élevé ; que, si Isbank
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2015-06
+indique que, depuis juillet 2014, selon l’article 5.2.1 de sa procédure LCB-FT, tous les clients dont le score Z
+est de 1 se voient désormais appliquer les mesures de vigilance standard et pas celles de vigilance allégée, il
+s’agit d’une action correctrice qui en outre ne répond pas au reproche d’un passage en niveau 1 du score des
+clients à chaque mise à jour de la partie « identification client » du système Z ;
+20. Considérant qu’il résulte de ces différents éléments que les dispositifs de suivi et d’analyse par Isbank
+de ses relations d’affaires présentaient de sérieuses insuffisances à la date du contrôle ; que, même si le
+nombre de dossiers en cause doit être réduit ainsi qu’il a été indiqué, le grief 3 est établi ;
+3. Sur les cas de défaut d’examen renforcé et de déclaration de soupçon
+3.1. Sur les 6 cas de défaut d’examen renforcé (grief 4)
+21. Considérant que le II de l’article L. 561-10-2 du CMF prévoit que les organismes financiers procèdent
+à un examen renforcé de toute opération particulièrement complexe ou d’un montant inhabituellement élevé
+ou ne paraissant pas avoir de justification économique ou d’objet licite ; que dans ce cas, ils se renseignent
+auprès du client sur l’origine des fonds et la destination de ces sommes ainsi que sur l’objet de l’opération et
+l’identité de la personne qui en bénéficie ;
+22. Considérant que, selon le grief 4, Isbank n’a pas procédé à un examen renforcé des opérations
+enregistrées sur les comptes de 6 de ses clients dont 2 personnes morales et 4 personnes physiques ;
+23. Considérant tout d’abord que le mode de fonctionnement du compte de la première société
+mentionnée par le grief avait évolué entre 2012 et 2013, cette évolution s’étant traduite par une augmentation
+rapide du montant des opérations effectuées et une modification du sens de certaines d’entre elles, ce qui
+aurait dû entraîner la réalisation d’un examen renforcé pour comprendre les motifs de ce changement ;
+qu’ensuite, au sujet de la seconde de ces sociétés, la Commission estime en revanche que les opérations
+intra-groupe en cause, qui donnaient lieu à des regroupements de factures de petits montants, étaient
+suffisamment justifiées ; que s’agissant enfin des 4 clients personnes physiques ayant effectué des remises
+d’espèces suivies de transferts de fonds, pour des montants unitaires élevés compris entre 6 000 et 8 000
+euros, de telles opérations auraient dû à tout le moins, au regard des informations dont disposait Isbank sur
+l’activité de ces clients et en l’absence de justificatif permettant d’établir l’origine des fonds, faire l’objet
+d’un tel examen ;
+24. Considérant que dans un périmètre réduit par l’exclusion des opérations effectuées par une des
+2 personnes morales sur lesquelles il portait initialement, le grief est établi ;
+3.2. Sur les 9 cas de défaut de déclaration de soupçon
+ou de déclaration de soupçon complémentaire (grief 5)
+25. Considérant que le I de l’article L. 561-15 du CMF impose aux établissements assujettis de déclarer à
+Tracfin les sommes inscrites dans leurs livres ou les opérations portant sur des sommes dont elles savent,
+soupçonnent ou ont de bonnes raisons de soupçonner qu’elles proviennent d’une infraction passible d’une
+peine privative de liberté supérieure à un an ou participent au financement du terrorisme ; que le V de cet
+article leur impose en outre de porter sans délai à la connaissance de Tracfin toute information de nature à
+conforter ou modifier les éléments contenus dans une déclaration de soupçon ;
+26. Considérant que, selon le grief 5, Isbank n’a pas procédé à 8 DS initiales et 1 DS
+complémentaire qu’elle aurait dû adresser à Tracfin ;
+27. Considérant tout d’abord, s’agissant des 8 cas de défaut de DS initiale, que 2 concernent des séries de
+versements d’espèces suivis de transferts vers des personnes domiciliées à l’étranger, représentant des
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2015-06
+montants unitaires de plusieurs milliers d’euros, effectuées par des clients occasionnels, personnes
+physiques, qui appartenaient ou semblaient appartenir à la même famille ; que dans un troisième dossier,
+divers clients occasionnels se sont présentés au guichet pour remettre des fonds, pour un montant total de
+60 800 euros en 11 opérations, dont ils ont demandé qu’ils soient virés au bénéfice d’une même société ; que,
+dans ces 3 dossiers, Isbank ne disposait pas de justificatifs suffisants, tant sur l’origine ou la destination des
+fonds que sur l’objet des opérations et les liens entre les différents intervenants ; qu’il appartenait à Isbank de
+mettre en place et d’appliquer un dispositif permettant de repérer les opérations fractionnées et de tirer les
+conséquences, au regard du respect de ses obligations déclaratives, de la réalisation à ses guichets
+d’opérations pouvant avoir été volontairement fractionnées ;
+28. Considérant ensuite qu’un manquement par Isbank à ces obligations est également établi dans un
+quatrième dossier relatif à une relation d’affaires, personne physique, dont le compte avait enregistré des
+opérations pour des montants élevés, au débit puis au crédit, à la suite de virements à destination puis en
+provenance d’un membre de sa famille domicilié à l’étranger ; que, si les opérations créditrices étaient
+principalement expliquées par des prêts consentis au client, l’examen du compte ne permettait pas de
+constater les remboursements correspondants ; qu’en raison également des carences, à la date de réalisation
+de ces opérations, du dossier client relativement à la justification de l’origine des fonds reçus, une DS aurait
+dû être établie ;
+29. Considérant enfin que les cinquième et sixième défauts de DS reprochés concernent des relations
+d’affaires, personnes morales, sur le compte desquelles avaient été effectuées des remises d’espèces dont le
+montant ou la progression récente n’étaient cohérents ni avec la nature ni avec l’évolution de leur activité et
+que les pièces figurant au dossier client ne permettaient pas de justifier dans leur intégralité ; que, dans un
+septième dossier, une première opération ne correspondant pas au fonctionnement attendu d’un compte de la
+société cliente, puis la réception d’un virement d’un montant très inférieur à la facture qu’il devait permettre
+de régler et enfin la fermeture du compte à l’initiative du client après qu’une demande de renseignements lui
+eut été adressée auraient dû conduire à l’envoi d’une DS ; que, de même, dans un huitième dossier, les
+conditions dans lesquelles le rachat d’une société a été financé, sans que l’origine des fonds utilisés ne soit
+précisément connue et sans que des informations suffisantes ne soient réunies au sujet de son nouveau
+gérant, auraient dû conduire Isbank à soupçonner que ces opérations entraient dans les prévisions du I de
+l’article L. 561-15 du CMF ;
+30. Considérant que, dans le neuvième cas mentionné, les opérations d’une société qui, alors qu’elle avait
+déjà fait l’objet d’une DS, continuait d’effectuer des virements, dont certains à destination de divers pays
+étrangers, sans que le montant ou le sens des opérations ne soit justifié, auraient dû donner lieu à l’envoi
+d’une DS complémentaire ;
+31. Considérant ainsi que les 9 dossiers sélectionnés par la poursuite caractérisent un défaut de DS ou de
+DS complémentaire ; que le grief 5 est donc entièrement établi ;
+4. Sur le contrôle permanent du dispositif de lutte contre le blanchiment des capitaux
+et le financement du terrorisme
+32. Considérant que le point 9 de l’article 11-7 du règlement 97-02 prévoit que le contrôle permanent du
+dispositif de LCB-FT fait partie du contrôle de la conformité et que le responsable du contrôle de la
+conformité veille au caractère adapté des dispositifs et procédures de LCB-FT, notamment au respect des
+obligations prévues aux articles L. 561-10-2, L. 561-15 et R. 561-31 du CMF ; que ces dispositions figurent
+désormais aux articles 71 et 72 de l’arrêté du 3 novembre 2014 susvisé ;
+33. Considérant que selon le grief 6, le contrôle permanent d’Isbank présente 3 séries de carences,
+respectivement relatives au traitement des alertes, à la surveillance des clients occasionnels et aux DS ; que
+(i) tout d’abord, ce contrôle ne peut pas être exercé efficacement sur le traitement des alertes car celles-ci
+sont traitées quotidiennement par l’un des 2 responsables LCB-FT de l’établissement, puis leur état de
+traitement est répertorié dans un état mensuel récapitulatif qui est transmis et validé par le directeur de
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2015-06
+l’établissement, sans que ni l’opération qui a déclenché l’alerte, ni les recherches auxquelles celle-ci a pu
+donner lieu, ni le motif de sa clôture éventuelle ne soient saisis dans l’état mensuel récapitulatif qui est
+contrôlé par le directeur de l’établissement ; (ii) qu’ensuite, les clients occasionnels sont hors du champ du
+dispositif de contrôle permanent ; (iii) qu’enfin, au moment de la mission, aucun contrôle permanent n’était
+effectué avant l’envoi des DS ; qu’ainsi, la qualité de 6 des 8 DS effectuées entre le 3 octobre 2012 et le 4
+juillet 2013 est insuffisante et une autre est intervenue trop tardivement ; qu’en effet, les éléments
+d’identification du bénéficiaire effectif ne figurent pas dans les DS transmises à Tracfin dans 3 dossiers de
+personnes morales (société E, société F et société G) ; qu’en outre, les éléments d’information sur l’objet et
+la nature de la relation d’affaires font défaut dans 6 DS (sociétés H, I, J, K, L et M) et que, dans le dossier
+société I, une DS de fraude fiscale a été transmise le 12 décembre 2012 relative à l’émission de 5 chèques,
+soit 37 250 euros, sans justificatif de cette société qui exerce dans le secteur du bâtiment et des travaux
+publics, au profit de la société N ; que 3 autres chèques ont été émis pendant la seconde quinzaine de
+décembre par la société I au profit de la société N et de 2 autres entités du secteur alimentaire ; qu’aucun
+justificatif n’ayant été fourni, Isbank a clôturé le compte le 23 janvier 2013 ; qu’une DS complémentaire a
+alors été transmise le 15 mars 2013, soit plus de 2 mois après le débit du dernier chèque et près de 2 mois
+après la clôture du compte ;
+34. Considérant tout d’abord qu’Isbank soutient que si, à la suite d’une évolution de l’outil Y en octobre
+2012, seul un récapitulatif des alertes pouvait être imprimé et signé pour formaliser les contrôles, le
+responsable LCB-FT et le directeur pouvaient se connecter à cet outil ; que, toutefois, le contrôle reposant
+sur un état mensuel récapitulatif transmis et validé par le directeur de l’établissement ne mentionnant ni
+l’opération qui a déclenché l’alerte, ni les recherches auxquelles celle-ci a pu donner lieu ni le motif de sa
+clôture éventuelle, ne peut satisfaire aux exigences réglementaires ci-dessus rappelées ; que l’unique
+formulaire destiné à formaliser les recherches consécutives à une alerte produit en défense est un document
+vierge et ne permet donc pas d’apprécier l’effectivité du contrôle permanent ;
+35. Considérant ensuite qu’au moment de la mission de contrôle, les opérations réalisées par les clients
+occasionnels étaient saisies dans le système de gestion Z qui alimente l’outil Y ; que si le représentant du
+Collège fait valoir que la gestion des alertes et des contrôles était néanmoins insuffisante, le reproche
+figurant dans la notification de griefs porte sur l’exclusion par Isbank de ces clients de l’organisation de son
+dispositif ; que cette partie du grief doit être écartée ;
+36. Considérant enfin que (i) pour l’un des 3 dossiers pour lesquels était reproché initialement un défaut
+d’identification du bénéficiaire effectif, dans la DS relative aux opérations enregistrées sur le compte de la
+société K, la poursuite a abandonné ce reproche, ce dont il lui est donné acte ; que la DS relative aux
+opérations effectuées sur le compte de la société F mentionnait le nom de personnes physiques qui en
+seraient les bénéficiaires effectifs ; qu’il ne peut être utilement reproché de ne pas avoir mentionné l’identité
+du ou des bénéficiaires effectifs de la société G alors qu’Isbank avait indiqué dans sa DS que celle-ci était
+précisément motivée par la « non détermination des bénéficiaires effectifs » ; qu’aucun de ces 3 dossiers ne
+peut donc être retenu au soutien du grief ; qu’à l’inverse, (ii) les DS produites par Isbank pour les clients
+société H, société I, société K, société L et société F ne mentionnent pas assez précisément l’objet et la
+nature de la relation d’affaires ; que le délai entre les nouvelles opérations ayant motivé l’établissement
+d’une DS complémentaire au sujet de la société I et l’envoi de cette déclaration ne peut être justifié par les
+modalités de mise en œuvre de l’obligation, issue de l’arrêté du 6 juin 2013 fixant les modalités de
+transmission de la déclaration effectuée en application de l’article L. 561-15 du CMF, d’effectuer les
+déclarations via la plate-forme sécurisée Ermes puisque, d’une part, celle-ci n’était pas encore entrée en
+vigueur et, d’autre part, il est toujours possible, en cas d’indisponibilité de la plate-forme, d’envoyer une
+déclaration sous forme papier ; que ces insuffisances traduisent les carences du contrôle de la conformité en
+ce qui concerne le contenu des DS ;
+37. Considérant que, dans un périmètre réduit ainsi qu’il a été dit et en relativisant le reproche relatif à la
+mention de l’objet et de la nature de la relation d’affaires en raison des précisions apportées sur ce point dans
+la rubrique « analyse des faits, indices de blanchiment » qui figure dans les DS en cause, le grief 6 est établi ;
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2015-06
+5. Sur le non-respect de la mise en demeure du 20 février 2012
+38. Considérant que, selon l’article L. 612-31 du CMF, « L’Autorité de contrôle prudentiel et de
+résolution peut mettre en demeure toute personne soumise à son contrôle de prendre, dans un délai
+déterminé, toutes mesures destinées à sa mise en conformité avec les obligations au respect desquelles
+l’Autorité de contrôle prudentiel et de résolution a pour mission de veiller » ;
+39. Considérant que, par une mise en demeure du 20 février 2012, il était demandé à Isbank de se mettre
+en conformité avec certaines dispositions du titre VI du livre V du CMF relatives à la LCB-FT ;
+40. Considérant que selon le grief 7, Isbank n’a pas déféré à plusieurs des demandes qui figuraient dans la
+mise en demeure du 20 février 2012 : les demandes 10, 11 et 12 (grief 7-1), 7 et 14 (grief 7-2), 3 à 6 et 9
+(grief 7-3) ;
+41. Considérant que, selon le grief 7-1, cette carence est tout d’abord relative aux demandes nos 10, 11 et
+12 ; que ces demandes étaient ainsi rédigées : « 10 Définir des critères d’analyse permettant de distinguer les
+clients occasionnels des clients en relation d’affaires » ; « 11 Pour les RA considérées à tort comme CO
+constituer des dossiers de clientèle et mettre en place des mesures de vigilance adaptées » ; « 12 Définir des
+seuils de contrôle en montant (pour les opérations individuelles et pour les opérations cumulées effectuées
+par un même client sur une période déterminée) adaptés à l’activité de la clientèle » ;
+42. Considérant qu’Isbank estime qu’il ne peut lui être fait grief de ne pas avoir respecté les termes de ces
+demandes puisqu’elle a défini des critères d’analyse permettant de distinguer les clients occasionnels des
+relations d’affaires et a mis à jour ses procédures LCB-FT ; qu’en outre, il doit être tenu compte, dans
+l’appréciation du bien-fondé de ce grief, des dossiers écartés des débats et des griefs abandonnés par la
+poursuite ;
+43. Considérant que la demande no 10 faisait suite au constat de la précédente mission de contrôle, entre
+octobre 2009 et septembre 2010, de la réalisation par 93 clients occasionnels d’au moins 20 opérations dans
+les 12 mois sous revue, représentant environ 2 millions d’euros ; qu’ainsi que cela a été souligné (cf. supra
+les considérants 9 à 11), la distinction à opérer entre clients occasionnels et relations d’affaires n’a pas été
+correctement mise en œuvre par Isbank ; que, s’agissant de la demande no 11, les diligences faites par la
+mission de contrôle ont montré, sur la base d’un échantillon contrôlé de 30 de ces 93 dossiers, que 7
+contenaient des anomalies ; que le reproche doit être relativisé en raison des diligences faites dans une partie
+des dossiers pour répondre à la demande 11 ; qu’en application de la demande no 12, les seuils de contrôle
+devaient être mis en place dans un délai de 3 mois ; qu’ils ne l’ont été qu’à partir du 1er janvier 2013 ;
+qu’Isbank ne s’est pas conformée à ces demandes dans les délais qui lui avaient été imposés ;
+44. Considérant que, selon le grief 7-2, les demandes nos 7 et 14 ne sont pas satisfaites, le contrôle des
+DS, de même que le traitement des alertes restant lacunaire ; que, dans la mise en demeure, ces demandes
+étaient ainsi rédigées : « 7 Mettre en place un contrôle permanent du dispositif LCB-FT » ; « 14 Mettre en
+œuvre des contrôles internes pour s’assurer d’une correcte application de ces procédures » ;
+45. Considérant qu’Isbank conteste également ce grief en raison des diligences faites pour contrôler les
+alertes issues de l’outil Y et des mesures prises en matière de contrôle des DS ;
+46. Considérant cependant que l’appréciation portée sur le grief 6 conduit à estimer, en tenant compte de
+la réduction de périmètre et de la relativisation opérées à son sujet, que ce reproche est établi ;
+47. Considérant que, selon le grief 7-3, les demandes nos 3, 6 et 9 de la mise en demeure n’étaient pas
+satisfaites ; que, dans la mise en demeure, ces demandes étaient ainsi rédigées : « 3 Définir des profils de
+relation d’affaires de la clientèle plus discriminants » ; « 6 Élaborer une classification des risques LCB-FT
+adaptée » ; « 9 Mettre à jour l’ensemble des dossiers selon une approche par les risques cohérente avec la
+classification des risques révisée » ; que ces insuffisances résultaient de l’absence d’une table de
+correspondance entre la classification des clients et le niveau de vigilance exercé, ce qui ne permet pas à
+Autorité de contrôle prudentiel et de résolution 10
+
+===== Page 11 =====
+Décision de la Commission des sanctions – procédure no 2015-06
+l’exercice de classification de la clientèle par niveau de risque LCB-FT de se traduire sur le plan
+opérationnel, notamment de déterminer un profil de la relation d’affaires avec le client et de détecter des
+opérations atypiques ou suspectes ; que de surcroît, toutes les fiches dites « KYC » qui visent à déterminer
+un profil de relation d’affaires en fonction d’un score de 1 à 3 n’ont pas été établies, notamment pour 210
+clients personnes physiques et 34 personnes morales, ce qui donne lieu à l’affectation systématique d’un
+score l, soit le moins risqué ; qu’au surplus, les scores affectés manuellement à certains dossiers, en
+application de la matrice des risques de l’établissement, ne sont pas toujours cohérents avec ceux figurant
+dans l’outil de gestion qui est relié au dispositif de suivi et d’analyse des relations d’affaires ; que la mission
+a ainsi relevé que le score appliqué dans l’outil de gestion et in fine, dans l’outil de détection des opérations
+atypiques ou suspectes, est moindre que celui qui aurait dû être mis en œuvre en application des procédures
+de l’établissement ;
+48. Considérant qu’Isbank conteste également ce reproche, eu égard aux moyens qu’elle a engagés et au
+faible nombre de clients n’ayant pas encore à la date du contrôle de fiche KYC ;
+49. Considérant cependant que le rapport de contrôle soulignait à juste titre que les indicateurs mis en
+place par Isbank étaient peu discriminants en raison du paramétrage retenu et conduisaient fréquemment à
+une mauvaise évaluation des risques ; qu’Isbank ne disposait pas, alors, d’une classification des risques
+adaptée au regard des caractéristiques de sa clientèle ; que, dans un périmètre réduit en raison de ce qui a été
+indiqué au sujet du grief 3, ce reproche est établi ;
+50. Considérant que, s’il repose sur des manquements dont certains ont vu leur périmètre réduit ainsi qu’il
+a été dit, le grief 7, relatif au non-respect de la mise en demeure, est établi ;
+*
+* *
+51. Considérant qu’il résulte de ce qui précède, tout d’abord, qu’à la date du contrôle, le dispositif LCB-
+FT d’Isbank présentait de sérieuses carences relatives aux critères de distinction entre les clients
+occasionnels et les relations d’affaires et à leur mise en œuvre (grief 1) de même qu’au suivi et à l’analyse de
+la relation d’affaires (grief 3) ; qu’en outre, plusieurs insuffisances ont été constatées dans le traitement de
+dossiers individuels, relatives aux obligations d’effectuer un examen approfondi (grief 4) ou déclaratives
+(grief 5) ; que des carences en matière de contrôle permanent sont également établies (grief 6) ; que les
+termes de la mise en demeure du 20 février 2012 par laquelle il était demandé à Isbank de remédier aux
+principales anomalies constatées par une précédente mission de contrôle n’ont pas été respectés dans les
+délais prescrits (grief 7) ;
+52. Considérant cependant que le périmètre de plusieurs griefs (griefs 3, 4, 6) a été réduit tandis que celui
+relatif à l’identification des clients occasionnels effectuant des opérations de transmission de fonds à
+l’étranger a été abandonné (grief 2) ; que, par ailleurs, le dispositif de LCB-FT d’Isbank a été amélioré
+depuis la signature du rapport de contrôle il y a plus de 2 ans ; qu’ainsi, les moyens humains et techniques
+ont été notablement renforcés ; que, de plus, la nouvelle direction a indiqué que l’établissement concentrait
+désormais son activité sur le développement de relations d’affaires parmi des sociétés participant aux
+échanges entre la France et la Turquie ; que, dans cette perspective, elle a déjà réduit drastiquement la part
+que représentent, dans l’activité d’Isbank, les opérations de transmission de fonds par des clients
+occasionnels, ce dont attestent les documents qu’elle a produits ;
+53. Considérant que, dans ces conditions, les insuffisances relevées en matière de LCB-FT, s’agissant
+particulièrement des dossiers individuels, auxquelles s’ajoute le non-respect d’une mise en demeure,
+conduisent à prononcer un blâme à l’encontre de la société Isbank ; que pour de tels manquements et au
+regard de l’assise financière de l’établissement, une sanction pécuniaire de 150 000 euros ne paraît pas
+disproportionnée ;
+Autorité de contrôle prudentiel et de résolution 11
+
+===== Page 12 =====
+Décision de la Commission des sanctions – procédure no 2015-06
+54. Considérant ensuite qu’Isbank soutient (i) qu’en raison de l’ancienneté des faits et alors qu’elle a
+remédié à la plupart des carences reprochées ou s’apprête à le faire à très brève échéance, une publication
+nominative de la décision lui causerait un préjudice disproportionné, (ii) que la seule anonymisation du nom
+des clients mentionnés au soutien des griefs 4 et 5 ne suffirait pas au respect du secret bancaire en raison du
+montant et des caractéristiques des opérations en cause effectuées par des clients dont certains sont des
+personnalités ou des entreprises connues en Turquie ;
+55. Considérant cependant que, malgré les efforts consentis, toutes les insuffisances constatées par une
+première mission de contrôle en 2011 n’avaient pas été corrigées au terme du délai fixé par la mise en
+demeure du 20 février 2012 et que, au terme de l’instruction de la présente affaire, ainsi que cela a été dit,
+plusieurs dossiers individuels caractérisent le non-respect d’obligations déclaratives ou d’examen
+approfondi ; que cela justifie une publication nominative à l’égard de l’établissement ; (ii) que, toutefois, en
+raison du nombre peu élevé de clients d’Isbank et des caractéristiques de sa clientèle, principalement
+constituée de résidents de nationalité turque ou de personnes en relation avec la Turquie, il convient d’éviter
+que certains clients puissent, malgré l’omission de leur nom ou raison sociale, se reconnaître ou être
+reconnus par des tiers ; qu’il y a lieu, en conséquence, de retenir pour la partie de la décision relative aux
+dossiers mentionnés aux griefs 4 et 5 une présentation abrégée des situations en cause ne permettant pas
+d’identifier les intéressés ;
+PAR CES MOTIFS
+DÉCIDE :
+Article 1er : Il est prononcé à l’encontre d’Isbank Paris un blâme ainsi qu’une sanction pécuniaire de
+150 000 euros (cent cinquante mille euros).
+Article 2 : La présente décision sera publiée au registre de l’Autorité de contrôle prudentiel et pourra être
+consultée au secrétariat de la Commission.
+Le Président de la Commission des sanctions
+[Rémi BOUCHEZ]
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification et
+dans les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 12

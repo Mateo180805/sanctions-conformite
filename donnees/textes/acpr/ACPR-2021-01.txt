@@ -1,0 +1,648 @@
+===== Page 1 =====
+Décision de la Commission des sanctions – procédure no 2021-01
+W-HA
+Procédure no 2021-01
+–––––
+Blâme et sanction pécuniaire de
+700 000 euros
+–––––
+Audience du 16 février 2022
+Décision rendue le 1er mars 2022
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 12 février 2021 par laquelle le Président de l’Autorité de contrôle prudentiel et de
+résolution (ACPR) informe la Commission des sanctions (ci-après la « Commission ») de ce que le
+Collège de supervision de l’ACPR (ci-après le « Collège »), statuant en sous-collège « banque », a
+décidé d’ouvrir une procédure disciplinaire à l’encontre de la société W-HA, dont le siège social est 25
+bis avenue André Morizet 92100 Boulogne-Billancourt ;
+Vu la notification des griefs du 12 février 2021 et ses annexes ;
+Vu les mémoires en défense des 25 mai, 27 septembre et 10 novembre 2021, par lesquels W-HA
+soutient (i) que la Commission doit tenir compte de ce que le dispositif de lutte contre le blanchiment
+des capitaux et le financement du terrorisme (LBC-FT) qu’elle a mis en place pour son produit OMF
+lancé en 2016 a été présenté au préalable au Secrétariat général de l’ACPR, qui ne s’y est pas opposé et
+(ii), sur le fond, conteste en tout ou partie les quatre premiers griefs ;
+Vu les mémoires en réplique des 21 juillet et 26 octobre 2021, par lesquels le Collège, représenté par
+M. Christian Lajoie, estime (i) qu’il résulte des circonstances dans lesquelles les services de l’ACPR ont
+été informés des caractéristiques du produit OMF que W-HA ne peut bénéficier d’aucune atténuation ni
+d’aucune exonération de sa responsabilité et (ii) que tous les griefs sont fondés ;
+Vu le rapport du 12 janvier 2022 de Mme Claudie Boiteau, rapporteur, qui conclut (i) qu’il résulte des
+circonstances dans lesquelles les services de l’ACPR ont été informés des caractéristiques du produit
+OMF que W-HA ne peut bénéficier d’aucune atténuation ni d’aucune exonération de sa responsabilité
+et (ii) que tous les griefs sont fondés ;
+Vu les courriers du 12 janvier 2022 convoquant à l’audience les parties ainsi que la direction générale
+du Trésor (DGT) et les informant de la composition de la Commission ;
+Vu les observations formulées par W-HA le 25 janvier 2022 en réponse au rapport du rapporteur, par
+lesquelles elle revient sur la présentation de son offre OMF aux services de l’ACPR et précise ses
+remarques sur les griefs ;
+Vu les autres pièces du dossier, notamment le rapport de contrôle signé le 6 août 2020 ;
+Autorité de contrôle prudentiel et de résolution 1
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2021-01
+Vu le règlement (UE) 2015/847 du Parlement Européen et du Conseil du 20 mai 2015 sur les
+informations accompagnant les transferts de fonds (ci-après « le règlement n° 2015/847 »), notamment
+ses articles 4 et 6 ;
+Vu le code monétaire et financier (ci-après le « CMF »), notamment ses articles L. 561-5-1, L. 561-
+15, L. 561-32, L. 562-4, R. 561-12 et R. 561-38, dans leur rédaction en vigueur au moment des faits ;
+Vu l’arrêté du 2 septembre 2009 pris en application de l'article R. 561-12 du code monétaire et
+financier et définissant des éléments d'information liés à la connaissance du client et de la relation
+d'affaires aux fins d'évaluation des risques de blanchiment de capitaux et de financement du
+terrorisme (ci-après « l’arrêté du 2 septembre 2009 ») ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACPR, composée de M. Alain Ménéménis, Président,
+Mme Elisabeth Pauly, M. Matias de Sainte Lorette et M. Philippe Laigre, membres de la Commission ;
+Après avoir entendu, lors de sa séance non publique du 16 février 2022 :
+- Mme Boiteau, rapporteur, assistée de Mme Lysiane Dauphin, son adjointe ;
+- Le représentant du directeur général du Trésor, qui a indiqué que les griefs retenus étaient
+fondés ;
+- M. Lajoie, représentant du Collège, assisté du chef du service des affaires institutionnelles et du
+droit public et de deux juristes au sein de ce service ; M. Lajoie a proposé à la Commission de
+prononcer un blâme et une sanction pécuniaire de 800 000 euros par une décision publiée sous
+une forme nominative pendant cinq ans ;
+- La société W-HA, représentée par son directeur général, assisté du directeur Contrôle interne et
+Gestion des risques, en présence du président de W-HA et de la directrice Contrôle interne et
+Risk management d’Orange France, dont l’avocat est Me Hugues Bouchetemble, avocat à la Cour
+(cabinet Kramer Levin Naftalis & Frankel LLP) ;
+Après avoir délibéré en la seule présence de M. Ménéménis, Président, Mme Pauly, M. de Sainte
+Lorette et M. Laigre, ainsi que de M. Jean-Manuel Clemmer, chef du service de la Commission des
+sanctions faisant fonction de secrétaire de séance ;
+1. Filiale d’Orange créée en 2001, W-HA est une société anonyme dont le capital est intégralement
+détenu par sa maison-mère, initialement agréée en qualité de société financière, puis, en septembre 2013,
+en qualité d’établissement émetteur de monnaie électronique (EME). Elle emploie une quarantaine de
+salariés, auxquels s’ajoutent, en nombre à peu près égal, des salariés d’Orange qui y exercent leur activité
+dans le cadre d’un contrat d’assistance ou d’une mise à disposition. L’intégration de W-HA au sein du
+groupe Orange se manifeste notamment par le fait que son président est le responsable de la direction
+« Produits et services » d’Orange SA ; son directeur général est en outre mis à disposition par sa maison-
+mère.
+Outre l’émission de monnaie électronique (ME), la société fournit des services de paiement.
+Au moment du contrôle sur place, W-HA commercialisait une trentaine de services et de prestations
+techniques différents qui peuvent, pour l’essentiel, être regroupés en trois catégories principales :
+- l’offre « premium sur facture » : offre historique de W-HA, qui représentait en 2019 la majorité de
+son chiffre d’affaires, elle est utilisée par d’autres opérateurs qu’Orange. Elle permet à l’abonné d’un
+opérateur de téléphonie mobile d’acheter des services facturés avec son abonnement. W-HA et Orange
+sont rémunérées par un prélèvement sur chaque transaction ;
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2021-01
+- l’offre monétique : principalement destinée aux commerçants, elle constitue une solution de
+« paiement en mobilité » distribuée soit par Orange (« Paiement Pro ») soit par W-HA (« Mobile
+Collect » et « Just Collect »), avec ou sans fourniture d’un terminal de paiement;
+- l’offre de ME : elle a d’abord consisté en la mise en place, en 2016, du service « Orange Money
+France » (OMF), qui permet à un client ayant un forfait mobile, quel que soit son opérateur, d’ouvrir un
+compte de ME en utilisant une application mobile ou en passant par un point de vente physique. Pour
+cette offre, W-HA agit par l’intermédiaire de distributeurs qui animent des points de vente et s’engagent
+à lui donner accès aux informations nécessaires au suivi en temps réel des flux de ME. Le compte de
+ME peut être ouvert de deux manières, qui donnent lieu à des plafonds de transaction différents : une
+souscription partielle, dite « light », pour laquelle les clients communiquent une copie d’une pièce
+d’identité valide, un selfie et un scan de carte de crédit ; une souscription complète, dite « full », pour
+les clients qui communiquent, en complément, un justificatif de domicile.
+À partir de son compte de ME, le client peut effectuer des transferts d’argent vers des comptes de
+clients qui résident en France ou de clients d’EME filiales d’Orange qui résident au Mali, en Côte
+d’Ivoire, au Sénégal, en Guinée ou à Madagascar.
+Les « corridors » de transferts de fonds vers les trois premiers pays africains mentionnés ci-dessus
+ont été interrompus en 2018 à la demande de la Banque centrale des États d’Afrique de l’Ouest
+(BCEAO), avant d’être progressivement rétablis.
+Les transferts de clients qui résident en France vers des clients qui y résident également ne
+représentent que 5 % du total en raison de frais élevés, tandis que les transferts d’Afrique vers la France
+sont interdits.
+Les clients disposant d’un compte OMF peuvent l’alimenter via l’application internet mobile de W-
+HA, son site internet ou les points de vente physiques (550 points de vente, généralement des buralistes
+ou des boutiques de téléphonie mobile, dont des points de vente sous enseigne Orange). Dans ces points
+de vente, le compte OMF peut être alimenté en espèces.
+Au 30 avril 2021, l’activité OMF correspondait à un stock d’unités de ME d’environ un million
+d’euros et, sur l’ensemble de l’exercice, elle devrait entraîner une perte pour W-HA d’un montant
+analogue.
+En 2019, ce service, en développement rapide (16,4 millions d’euros transférés contre 1,9 million
+d’euros en 2018), ne représentait encore que 4 % du produit net bancaire (PNB) de W-HA. Sa croissance
+s’étant poursuivie, il en représente aujourd’hui environ 20 %.
+2. W-HA a fait l’objet, du 12 novembre 2019 au 7 février 2020, d’une mission de contrôle, qui a
+donné lieu à la signature, le 6 août 2020, d’un rapport (ci-après le « rapport de contrôle »). Au vu de ce
+rapport, le Collège de l’ACPR, statuant en sous-collège « banque », a décidé, lors de sa séance du 9
+février 2021, d’ouvrir la présente procédure disciplinaire, dont la Commission a été saisie par une lettre
+du 12 février 2021.
+Les griefs notifiés à l’établissement se rapportent principalement aux conditions de
+commercialisation du produit OMF ; une partie des défauts de déclaration de soupçon (DS) reprochés à
+la suite de l’examen par la mission de contrôle de dossiers individuels concerne toutefois des clients de
+l’offre monétique (grief 3).
+I. Sur la connaissance de la clientèle et le dispositif de suivi et
+d’analyse des opérations et de la relation d’affaires dans le
+cadre de l’offre OMF (griefs 1 et 2)
+A- Sur les observations liminaires de W-HA relatives à une prise de position
+antérieure de l’ACPR
+3. Plusieurs échanges sont intervenus entre W-HA et l’ACPR avant la commercialisation du produit
+OMF. Ainsi, après que les services de l’ACPR eurent indiqué le 2 février 2015 que son agrément
+permettait à W-HA de commercialiser le produit OMF, un dossier présentant les caractéristiques
+détaillées du dispositif de LBC-FT mis en place pour ce produit a été adressé à l’ACPR le 14 avril 2015,
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2021-01
+préalablement à son lancement. Puis, un « addendum au dossier de mise en œuvre de la conformité »
+(ci-après « l’addendum ») a été envoyé aux services de l’ACPR le 21 octobre 2015 en réponse à une
+demande de renseignements complémentaires, qui portait notamment sur la LBC-FT.
+Les services de l’ACPR ont répondu, par un courriel du 18 décembre 2015, que « le schéma proposé
+semble conforme aux dispositions du Code monétaire et financier en matière de distribution de monnaie
+électronique (ME) par revente et de distribution de la ME par l'intermédiaire de personnes physiques
+ou morales qui agissent pour son compte ». Ce courriel comportait des demandes supplémentaires sur
+les plafonds de dépôts, de transferts et de retrait et ajoutait : « Ces demandes ne sauraient remettre en
+cause notre analyse sur la conformité de l’offre OMF ».
+L’offre a été lancée en février 2016.
+4. Sans en faire un argument « de procédure ni même de fond », l’établissement déduit de ces
+circonstances qu’il devrait être tenu compte des informations communiquées lors de ces échanges à
+l’ACPR, notamment sur la teneur des informations qui seraient recueillies auprès des clients et sur les
+seuils d’alerte qui seraient utilisés, désormais critiqués par la poursuite au titre des griefs 1 et 2.
+5. Dans sa décision BD Multimédia du 23 décembre 2020 (procédure n° 2019-07 point 6), la
+Commission a précisé le faisceau d’éléments qu’elle entendait prendre en compte pour déterminer si la
+société BD Multimedia pouvait se prévaloir d’une prise de position antérieure de l’ACPR sur certains
+aspects de son dispositif de LBC-FT, de ses procédures ou de ses pratiques qui ferait obstacle à ce que
+des manquements soient sanctionnés.
+De même, dans la présente décision, le faisceau d’éléments suivant sera pris en compte :
+- le manquement reproché porte-t-il sur un aspect de l’organisation ou du fonctionnement de la société
+W-HA qui a été clairement porté à la connaissance de l’ACPR antérieurement à l’ouverture de la
+présente procédure ?
+- les éléments en cause ont-ils été portés à sa connaissance ou évoqués à l’occasion de l’instruction d’un
+dossier de demande d’agrément ou à l’occasion de simples échanges, hors de toute procédure
+réglementaire ?
+- les informations et pièces communiquées ont-elles conduit l’ACPR à formuler des observations, un
+accord ou un désaccord ?
+- la société poursuivie a-t-elle effectivement mis en œuvre les procédures et dispositifs présentés à
+l’ACPR ?
+- aurait-elle dû, en raison de circonstances nouvelles, notamment au vu des risques effectivement
+constatés après la commercialisation de son produit, faire évoluer le dispositif présenté à l’ACPR ?
+B- Sur la connaissance de la clientèle
+6. En vertu de l’article L. 561-5-1 du CMF, avant d'entrer en relation d'affaires, les entreprises
+assujetties « recueillent les informations relatives à l'objet et à la nature de cette relation et tout autre
+élément d'information pertinent. Elles actualisent ces informations pendant toute la durée de la relation
+d'affaires ».
+L’article R. 561-12 du même code dispose que les entreprises assujetties « 1° Avant d'entrer en
+relation d'affaires, recueillent et analysent les éléments d'information nécessaires à la connaissance de
+l'objet et de la nature de la relation d'affaires ; / 2° Pendant toute la durée de la relation d'affaires,
+recueillent, mettent à jour et analysent les éléments d'information qui permettent de conserver une
+connaissance appropriée de leur relation d'affaires. / La nature et l'étendue des informations collectées
+ainsi que la fréquence de la mise à jour de ces informations et l'étendue des analyses menées sont
+adaptés au risque de blanchiment de capitaux et de financement du terrorisme présenté par la relation
+d'affaires ».
+7. Selon le grief 1, fondé sur ces dispositions, le recueil des éléments de connaissance des clients
+utilisant le produit OMF était lacunaire au moment du contrôle, W-HA ne prévoyant pas de collecter
+d’informations, lors de l’entrée en relation d’affaires, sur leurs revenus ni sur leur profession, qu’ils
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2021-01
+disposent d’un compte « light » ou d’un compte « full » (respectivement, 7 103 clients et 9 256 clients
+au 18 décembre 2019).
+À titre d’illustration, aucun des 58 dossiers examinés par la mission de contrôle ne contenait
+d’information sur l’activité professionnelle et la situation financière du client lors de l’entrée en relation
+d’affaires. En conséquence, W-HA n’avait pas une connaissance suffisante du client, alors que le produit
+OMF présente un risque élevé en raison d’un chargement possible en espèces et des pays de destination
+des fonds, au nombre desquels figure le Mali.
+8. W-HA estime que les dispositions réglementaires qui précisent les obligations des organismes
+assujettis en matière de connaissance des clients, notamment l’article R. 561-12 du CMF et l’arrêté du
+2 septembre 2009 pris pour son application, ne lui imposaient pas de s’informer systématiquement, lors
+de l’entrée en relation d’affaires, des revenus et de la profession du client. En outre, selon W-HA, le
+revenu et la profession du client n’étant pas pris en compte dans les scénarios de surveillance des
+opérations, il n’aurait servi à rien de recueillir systématiquement des informations à leur sujet.
+9. Contrairement à ce que soutient la société, la poursuite apporte des éléments de nature à établir
+que, dans une approche par les risques, il était indispensable, pour W-HA, de recueillir systématiquement
+des informations sur les revenus et la situation professionnelle des clients OMF. Elle souligne les risques
+attachés au produit OMF, qui permet des chargements en espèces et des transferts de fonds quasi-
+exclusivement vers l’extérieur de l’Union européenne, notamment vers des pays présentant un risque
+élevé de BC-FT.
+Dans une activité de transfert de fonds, le risque lié au pays de destination a, au demeurant, été
+souligné dès 2016 par Tracfin, qui a indiqué que les réseaux de collecteurs de fonds utilisent les services
+de transmission de fonds pour centraliser les espèces en Europe puis les transférer vers des zones de
+conflit (Tracfin, rapport d’analyse 2016, pp. 30 et suivantes). Le Groupe intergouvernemental d’action
+contre le blanchiment d’argent en Afrique de l’Ouest (GIABA) a par ailleurs souligné, dans un rapport
+publié en 2019, que le Mali faisait face à un risque important de financement du terrorisme (rapport
+d’évaluation mutuelle « Les mesures de lutte contre le blanchiment des capitaux, le financement du
+terrorisme - Mali »).
+En outre, ainsi que la Commission l’a déjà rappelé, le rapport de la Commission européenne au
+Parlement européen et au Conseil du 26 juin 2017 sur l’évaluation des risques de blanchiment des
+capitaux et le financement du terrorisme (BC-FT) pesant sur le marché intérieur et liés aux activités
+transfrontalières classe l’exposition à ces risques des services de transfert de fonds comme « importante,
+voire très élevée ». Les Autorités européennes de surveillance ont porté une appréciation analogue sur
+cette activité dans leurs orientations communes sur les facteurs de risque du 4 janvier 2017 (voir sur ce
+point la décision de la Commission Attijariwafa Bank Europe du 24 décembre 2020, procédure n° 2020-
+01, point 8).
+Contrairement à ce que soutient la société W-HA, la limitation des opérations à 250 euros par
+opération et sur un mois pour un compte light et à 400 euros par opération et 2 000 euros par mois pour
+un compte « full » ne pouvait suffire à maîtriser le risque de BC-FT : pour apprécier si une opération
+présentait un caractère atypique, il était notamment indispensable de rapprocher le montant du transfert
+et celui des revenus du client.
+Par ailleurs, compte-tenu des caractéristiques du produit OMF, la prise en compte de la situation
+professionnelle des clients était également nécessaire pour permettre à W-HA d’apprécier la cohérence
+de leurs opérations. À cet égard, W-HA ne saurait se prévaloir des insuffisances de son dispositif de
+surveillance en soutenant que, dès lors que le revenu et la profession du client n’étaient pas pris en
+compte dans ses scénarios de surveillance des opérations, il n’y avait pas lieu de recueillir d’informations
+sur ces points.
+10. Le grief 1 est donc entièrement fondé, sans que les actions de remédiation que mentionne W-HA,
+qui ont consisté en une évolution de son application et de son site internet, afin que soient recueillies,
+depuis début 2021, les informations relatives aux revenus et à la situation professionnelle des clients,
+conduisent à le remettre en cause.
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2021-01
+11. Toutefois, ainsi qu’il a été dit, W-HA souligne que, dans les informations qu’elle a communiquées
+aux services de l’ACPR avant le lancement du produit OMF, elle a clairement indiqué que, dans le cadre
+d’une approche par les risques, les éléments relatifs aux revenus et à la profession de ses clients ne
+seraient pas systématiquement recueillis.
+12. Si, ainsi que le soutient W-HA, il ressortait des informations qui leur ont été communiquées en
+2015 que le recueil d’informations sur les revenus et la profession des clients ne serait pas effectué
+systématiquement lors de l’entrée en relation d’affaires et s’ils n’ont pas formulé de remarque
+particulière sur ce point, ni après la première présentation du document d’information de W-HA, ni après
+l’envoi de l’addendum du 21 octobre 2015, les services de l’ACPR ne sauraient être regardés comme
+ayant pris une position favorable à l’absence de recueil systématique d’informations sur les revenus et
+la profession des clients du service OMF. En effet, ainsi qu’il a été dit au point 3, ils se sont bornés à
+indiquer, à l’issue d’échanges avec la société et non de l’instruction d’une demande d’agrément, que le
+produit envisagé par W-HA « semblait conforme aux dispositions du CMF en matière de distribution de
+monnaie électronique ».
+Il n’y a donc pas lieu de considérer, pour le manquement reproché au titre du présent grief, que W-
+HA devrait être « exonérée de sa responsabilité » - ce que la société ne soutient d’ailleurs pas.
+Si la société soutient cependant que, pour déterminer la sanction, il y a lieu de tenir compte de ses
+échanges avec les services de l’ACPR, cette argumentation sera examinée au point 39, lorsque les
+différents motifs des sanctions prononcées seront exposés.
+C- Sur le dispositif de suivi et d’analyse des opérations et de la relation d’affaires
+dans le cadre de l’offre OMF
+13. En vertu de l’article L. 561-32 du CMF, les personnes assujetties doivent mettre en place « « une
+organisation et des procédures internes pour lutter contre le blanchiment des capitaux et le financement
+du terrorisme, tenant compte de l'évaluation des risques prévue à l'article L. 561-4-1. En tenant compte
+du volume et de la nature de leur activité ainsi que des risques présentés par les relations d'affaires
+qu'elles établissent, elles déterminent un profil de la relation d'affaires permettant d'exercer la vigilance
+constante prévue à l'article L. 561-6 ». (…) / « Les personnes mentionnées ci-dessus mettent en place
+un dispositif de gestion des risques permettant de détecter les personnes mentionnées au 1° et les
+opérations mentionnées au 3° de l'article L. 561-10 ainsi que celles mentionnée aux articles L. 561-10-
+2 et L. 561-15 ».
+L’article R. 561-38 du même code leur impose de s’assurer que « l’organisation du dispositif de lutte
+contre le blanchiment de capitaux et le financement du terrorisme mentionné au I de l’article L. 561-32
+est adaptée à leur taille, à la nature de leurs activités ainsi qu’aux risques identifiés par la classification
+des risques mentionnée à l’article L. 561-4-1 » et de se doter « d’outils, de moyens matériels et humains
+permettant la mise en œuvre effective de l'ensemble des obligations de vigilance prévues au présent
+chapitre et en particulier la détection, le suivi et l'analyse des personnes et opérations mentionnées au
+troisième alinéa de l'article L. 561-32 ».
+14. Selon le grief 2, fondé sur ces dispositions, le dispositif de surveillance des opérations OMF
+repose sur cinq scénarios dont deux seulement concernent les transferts internationaux, alors même que
+ceux-ci représentent environ 90 % des opérations réalisées par les clients OMF.
+En outre, ces deux scénarios sont inadaptés.
+En effet, le premier porte sur le dépassement d’un seuil de 1 600 euros par mois pendant 3 mois
+consécutifs ou plus de 5 fois au cours des 12 derniers mois. Or la moyenne mensuelle des transferts
+internationaux cumulés sur un mois n’est que de 256 euros sur un compte « full ». En conséquence,
+seules les opérations des 58 clients ayant dépassé ce seuil ont donné lieu à un examen renforcé en 2019
+alors que, cette même année, W-HA a exécuté 140 000 opérations de transferts de fonds internationaux.
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2021-01
+Quant au second scénario, il porte sur le cumul des fonds transférés au bénéfice d’un client par au
+moins 3 clients différents et dont le montant global est supérieur à 1 500 euros par mois au moins 3 fois
+au cours des 12 derniers mois (« many to one ») et il n’a entraîné qu’un examen renforcé en 2019.
+Aucun scénario ne porte sur les transferts de fonds réalisés par un client au profit de plusieurs
+bénéficiaires (« one to many »), alors que ce schéma d’opérations présente, selon la poursuite, des
+risques élevés de BC-FT. La mission relève qu’entre octobre 2018 et octobre 2019, 33 clients disposant
+d’un compte « full » ont chacun effectué des opérations de transferts de fonds internationaux vers plus
+de 50 bénéficiaires. Ainsi, à titre d’illustration de telles opérations, la poursuite mentionne les opérations
+de trois clients :
+- M. [A] a transféré 11 000 euros à 127 bénéficiaires situés au Mali ou en Côte d’Ivoire entre mai et
+décembre 2019 ;
+- M. [B] a transféré 13 181 euros à 110 bénéficiaires situés au Mali, en Côte d’Ivoire, en Guinée et à
+Madagascar entre avril et octobre 2019 ;
+- M. [C] a transféré 7 914 euros à 114 bénéficiaires situés au Mali, en Côte d’Ivoire et en Guinée
+entre avril et octobre 2019.
+15. La défense n’a pas répondu utilement au premier reproche de la poursuite, qui porte sur
+l’insuffisance du dispositif de surveillance des opérations de W-HA tenant au petit nombre de scénarios
+et à l’impossibilité de détecter les opérations atypiques de transferts de fonds internationaux en utilisant
+seulement deux scénarios. Elle se borne en effet à évoquer les autres scénarios utilisés au moment du
+contrôle sur place, dont elle indique qu’ils valaient indifféremment pour des opérations nationales et
+internationales. Toutefois, aucun de ces scénarios ne permettait d’appréhender les risques spécifiques
+attachés à des opérations de transmission de fonds transfrontalières qui ont été rappelés ci-dessus (cf.
+supra, point 9).
+16. S’agissant de la pertinence du seuil de 1 600 euros, la Commission a déjà indiqué à plusieurs
+reprises que, dans un dispositif de détection des opérations atypiques, les seuils de surveillance utilisés
+doivent, pour être pertinents, être fixés à des niveaux suffisamment proches du montant moyen des
+opérations exécutées (voir notamment la décision Only Payment Services du 4 février 2020, procédure
+n° 2019-04, point 19).
+Elle estime qu’en l’espèce le seuil de 1 600 euros, que la poursuite a comparé au montant moyen des
+transferts des seuls clients « full », soit 256 euros d’octobre 2018 à octobre 2019, était très excessif. Il
+était en outre inadapté au regard de l’hypothèse formulée d’un revenu moyen des clients de 2 300 euros,
+aucune alerte ne se déclenchant, en effet, lorsqu’un client transférait pourtant environ 70 % de ses
+revenus. Il était d’autant plus inadapté qu’ex post, l’hypothèse formulée sur le revenu moyen des clients
+s’est avérée excessive, ce que W-HA ne conteste pas.
+Contrairement à ce que soutient la société, la seule circonstance que les opérations étaient plafonnées
+ne la dispensait pas de mettre en place un dispositif d’alerte approprié pour repérer les opérations
+atypiques.
+S’agissant de l’absence de scénario portant sur les transferts de fonds réalisés par un client au profit
+de plusieurs bénéficiaires (« one to many »), la société ne saurait se prévaloir utilement de l’absence de
+mention spécifique, dans les rapports de Tracfin, des risques liés aux opérations de cette nature. En
+l’espèce, s’il est vrai que le seuil de 1 600 euros permettait de détecter certaines des opérations atypiques
+de type one to many, il était cependant trop élevé pour permettre de les détecter toutes.
+Enfin, si W-HA affirme que les trois dossiers mentionnés par la poursuite ont été détectés, cette
+détection n’est intervenue, pour les deux premiers, que lorsque les plafonds mensuels de transferts ont
+été atteints, alors que la mise en place d’un scénario spécifique à de telles opérations aurait permis une
+détection plus rapide – et il était loisible à la poursuite, alors même que le rapport de contrôle ne parlait
+pas expressément de réception tardive, d’en faire le reproche à la société. En outre, pour les trois
+dossiers, ainsi que la société elle-même le relève, le classement en vigilance renforcée a été opéré
+manuellement. Les exemples mentionnés par la poursuite illustrent donc le caractère imparfait des
+scénarios utilisés.
+17. Le grief 2 est donc entièrement fondé, sans que les mesures de remédiation présentées,
+postérieures au contrôle sur place, qui ont consisté en l’ajout d’un nouveau scénario permettant de
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2021-01
+surveiller spécifiquement les opérations vers plusieurs bénéficiaires ainsi qu’en un paramétrage
+permettant d’identifier les comptes OMF détenus par des personnes ayant un rôle commercial,
+conduisent à le remettre en cause.
+18. Toutefois, ainsi qu’il a été dit, W-HA soutient que ses seuils de surveillance des opérations, en
+particulier le seuil de 1 600 euros, ont été décrits de manière très précise lors des échanges avec les
+services de l’ACPR en 2015.
+19. Les services de l’ACPR ne sauraient cependant être regardés comme ayant pris une position
+favorable sur ce point. En effet, s’il est vrai que des seuils de vigilance ont été mentionnés dans le dossier
+initialement remis à l’ACPR en juin 2015, celle-ci a, par lettre du 19 juin 2015, demandé à
+l’établissement de lui fournir « les éléments qui (lui) ont permis de déterminer les différents seuils en
+fonction de la nature de la clientèle ». En réponse, W-HA a indiqué dans son addendum que « vu la
+nature changeante, voire souvent innovante, des pratiques des personnes mal intentionnées ciblant tel
+ou tel usage d’Orange Money, c’est l’expérience acquise qui permettra de rendre efficace le service en
+charge de la surveillance. Néanmoins, un premier ensemble de scénarios a été identifié, il permettra de
+démarrer l’activité. Voici quelques exemples de scénarios préétablis ». Le caractère provisoire de ces
+informations a ensuite été confirmé et, consciente des risques de BC-FT de son activité, qu’elle attribuait
+en particulier à la forte utilisation des espèces par ses clients, W-HA a écrit début 2016 au superviseur
+qu’il lui paraissait plus « judicieux d’augmenter le nombre de scénarios sous surveillance (…) que de
+limiter les plafonds de dépôts en espèces » – même si la nécessité d’une telle augmentation, qui est
+apparue après le lancement du produit OMF, n’a pas été suivie d’effet avant la mission de contrôle.
+Ainsi, aucun dispositif stabilisé n’a été clairement porté à la connaissance des services de l’ACPR au
+cours de ses échanges avec la société et aucune prise de position favorable de leur part ne saurait donc
+être retenue.
+Il n’y a donc pas lieu de considérer, pour le manquement reproché au titre du présent grief, que W-
+HA devrait être « exonérée de sa responsabilité » – ce que la société W-HA ne soutient d’ailleurs pas.
+Si la société soutient cependant que, pour déterminer la sanction, il y a lieu de tenir compte de ses
+échanges avec les services de l’ACPR, cette argumentation sera examinée au point 39, lorsque les
+différents motifs des sanctions prononcées seront exposés.
+II. Sur le respect de l’obligation de déclaration à Tracfin
+20. En vertu du I de l’article L. 561-15 du CMF, les entreprises assujetties « sont tenues, dans les
+conditions fixées par le présent chapitre, de déclarer au service mentionné à l'article L. 561-23 les
+sommes inscrites dans leurs livres ou les opérations portant sur des sommes dont elles savent,
+soupçonnent ou ont de bonnes raisons de soupçonner qu'elles proviennent d'une infraction passible
+d'une peine privative de liberté supérieure à un an ou sont liées au financement du terrorisme ».
+Selon le III du même article, « à l'issue de l'examen renforcé prescrit à l'article L. 561-10-2, les
+[entreprises assujetties] effectuent, le cas échéant, la déclaration prévue au I du présent article ».
+21. Selon le grief 3, fondé sur ces dispositions, vingt-quatre dossiers présentaient un défaut de
+déclaration de soupçon (DS) au moment du contrôle sur place : onze concernaient des opérations de
+clients de l’offre monétique « Mobile Collect » (dossiers 3.1,3.2, 3.3, 3.4, 3.5, 3.6 3.7, 3.8, 3.9, 3.10,
+3.11) ; treize concernaient des clients du produit OMF (3.12, 3.13, 3.14, 3.15, 3.16, 3.17, 3.18, 3.19,
+3.20, 3.21, 3.22, 3.23, 3.24).
+22. Pour les défauts de DS reprochés au titre de l’offre « Mobile Collect » (dossiers 3.1 à 3.11), W-
+HA soutient que ni le dépassement du seuil de 1 500 euros (0,23 % des transactions en 2019), qui
+déclenche une demande d’explication ou de justificatifs, ni une telle demande adressée à un client, ni la
+clôture d’un compte lorsque le client ne répondait pas à des sollicitations de l’établissement ou lorsque
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2021-01
+[Y], banque chef de file de W-HA, le demandait, pour des motifs qui lui étaient propres et dont
+l’établissement ignorait le détail n’impliquaient l’obligation de déclarer les opérations du client.
+W-HA ne reconnaît donc que trois des 11 défauts de DS de cette première série (dossiers 3.1, 3.2 et
+3.8).
+23. Cependant, dans ces 11 dossiers, le grief, qui n’est jamais fondé uniquement sur le dépassement
+du seuil de 1 500 euros – même s’il incombait à l’établissement de prendre toujours en compte un tel
+dépassement - est justifié par l’ensemble des caractéristiques des opérations en cause :
+- dans le dossier 3.1 : dépassements multiples du seuil de 1 500 euros ; résiliation du contrat par W-
+HA ; activité présentant un risque particulier de blanchiment des capitaux (« (…) plomberie,
+serrurerie, … ») ; insuffisance des justificatifs ;
+- dans le dossier 3.2 : dépassements multiples du seuil de 1 500 euros ; résiliation du contrat par W-
+HA ; activité présentant un risque particulier de blanchiment des capitaux ; absence de justificatif des
+opérations ; menaces reçues en réponse aux demandes de justificatifs ;
+- dans le dossier 3.3 : dépassements multiples du seuil de 1 500 euros ; suspicion de fractionnement
+d’opérations ; résiliation du contrat par W-HA, le client n’ayant pas répondu aux demandes
+d’information sur la cohérence entre son activité et les opérations qu’il réalisait ; informations
+défavorables communiquées par la banque chef de file, qui évoque un comportement « très suspect » ;
+- dans le dossier 3.4 : dépassements multiples du seuil de 1 500 euros sur une courte période ;
+suspension du contrat par W-HA ; activité présentant un risque particulier de blanchiment des capitaux
+(« serrurerie, plomberie, vitrerie, électricité et toutes activités annexes ») ; insuffisance des
+justificatifs (factures sans adresse) ;
+- dans le dossier 3.5 : dépassement du seuil de 1 500 euros pour une opération représentant le quart
+du montant des opérations réalisées par le client en un mois ; absence de justificatifs ; informations
+publiques défavorables sur le client mis en cause dans un article de presse pour de possibles
+escroqueries ;
+- dans le dossier 3.6 : dépassements multiples du seuil de 1 500 euros ; transactions de montants
+atypiques avec des cartes étrangères ; résiliation du contrat par W-HA en raison d’une « suspicion
+d’escroquerie suite à une remontée » par la banque chef de file ;
+- dans le dossier 3.7 : dépassements multiples du seuil de 1 500 euros ; entreprise récente fondée en
+janvier 2019 ayant réalisé un chiffre d’affaires de près de 25 000 euros sur 5 jours ; suspicion de
+fractionnement d’opérations ; résiliation du contrat par la banque chef de file à la suite d’une « fraude
+avérée » et par W-HA ; informations défavorables communiquées par la banque chef de file ;
+- dans le dossier 3.8: dépassements multiples du seuil de 1 500 euros ; suspicion de fractionnement
+d’opérations ; résiliation du compte par W-HA ; informations défavorables communiquées par la banque
+chef de file ; activité présentant un risque particulier de blanchiment des capitaux ;
+- dans le dossier 3.9 : dépassements multiples du seuil de 1 500 euros ; suspicion de fractionnement
+d’opérations ; informations défavorables communiquées par la banque chef de file ; activité présentant
+un risque particulier de blanchiment des capitaux ; résiliation du contrat par W-HA en raison de
+l’absence de réponse du client aux sollicitations de W-HA ;
+- dans le dossier 3.10 : dépassements multiples du seuil de 1 500 euros ; entreprise fondée en mars
+2019 ayant réalisé un chiffre d’affaires de près de 30 000 euros en trois mois ; suspicion de
+fractionnement d’opérations ; secteur d’activité présentant un risque particulier de blanchiment des
+capitaux ; résiliation du contrat par W-HA en raison de l’absence de réponse du client aux demandes de
+justificatifs ;
+- dans le dossier 3.11 : dépassements multiples du seuil de 1 500 euros ; entreprise de création récente
+ayant réalisé en un peu plus de deux semaines près de 25 000 euros de chiffre d’affaires ; suspicion de
+fractionnement d’opérations ; résiliation du contrat par W-HA ; activité présentant un risque particulier
+de blanchiment des capitaux ; absence de réponse du client aux sollicitations de W-HA.
+24. Pour les dossiers relatifs à des clients du produit OMF (dossiers 3.12 à 3.24), W-HA n’admet un
+défaut de DS que dans un cas (dossier 3.21). Elle relève que, dans neuf dossiers, le manquement lui est
+reproché alors qu’une déclaration a été envoyée à Tracfin après le début de la mission de contrôle mais
+avant la signature du rapport de contrôle (dossiers 3.14, 3.15, 3.17, 3.18, 3.19, 3.20, 3.22, 3.23 et 3.24).
+Elle indique que les trois autres dossiers concernent des gérants de points de vente qui réalisent sur leur
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2021-01
+compte des opérations pour une clientèle analphabète ou ne parlant pas bien français (dossiers 3.12,
+3.13, 3.16), estime que de telles situations n’entraînent pas nécessairement un risque de BC-FT et relève
+qu’un rappel à la règle et une mise sous surveillance des opérations ont été déclenchés.
+25. La Commission rappelle tout d’abord que l’envoi de DS à Tracfin après le démarrage d’une
+mission de contrôle ne fait pas obstacle à ce qu’un manquement aux dispositions de l’article L. 561-15
+du CMF soit retenu (cf. décision du 30 mars 2017 Lemon Way, n° 2016-05, considérant 25).
+26. La Commission estime ensuite que les dossiers dans lesquels un défaut de DS est reproché
+présentaient des caractéristiques qui auraient dû conduire W-HA, qui ignorait l’origine des fonds, à
+informer Tracfin des opérations en cause.
+- dans le dossier 3.12 : alimentation du compte uniquement en espèces ; suspicion d’utilisation du
+compte personnel du client, gérant du point de vente OMF de Grigny, pour effectuer des transactions
+pour le compte de tiers ; transferts au profit de bénéficiaires multiples (110 numéros de téléphone par
+mois d’octobre 2018 à octobre 2019) domiciliés à l’extérieur de l’Union européenne (Mali) ;
+- dans le dossier 3.13 : alimentation du compte uniquement en espèces ; plafonds mensuels de
+transfert atteints à de nombreuses reprises ; transferts au profit de bénéficiaires multiples (114 numéros
+de téléphone mobiles différents d’avril à octobre 2019) ; 90 % des transferts effectués vers le Mali ;
+absence de réponse du client aux demandes d’explications de W-HA ;
+- dans le dossier 3.14 : transferts vers le Mali ; atteintes répétées des plafonds mensuels de transfert ;
+refus du client de communiquer des justificatifs ;
+- dans le dossier 3.15 : atteintes répétées des plafonds mensuels de transfert ; alimentation du compte
+en espèces ; transferts au profit de bénéficiaires multiples domiciliés à l’extérieur de l’Union
+européenne (Mali) ; absence de réponse du client aux demandes de communiquer des justificatifs ;
+suspension du compte à l’initiative de W-HA en raison de cette absence de réponse ;
+- dans le dossier 3.16 : atteintes répétées des plafonds mensuels de transfert ; alimentation du compte
+en espèces ; transferts à partir du compte personnel du client, gérant du point de vent OMF de
+Compiègne, au profit de bénéficiaires multiples domiciliés à l’extérieur de l’Union européenne (Mali) ;
+- dans le dossier 3.17 : atteintes répétées des plafonds mensuels de transfert ; transferts au profit de
+bénéficiaires multiples (26 numéros de téléphone par mois en moyenne d’octobre 2018 à octobre 2019)
+domiciliés à l’extérieur de l’Union européenne (Madagascar) ; absence de réponse du client aux
+demandes d’explications de W-HA ;
+- dans le dossier 3.18 : dépassement répété des plafonds mensuels de transfert ; transferts au profit
+de bénéficiaires multiples (20 numéros de mobile différents de janvier à décembre 2019) domiciliés à
+l’extérieur de l’Union européenne (Côte d’Ivoire) ; absence de réponse du client aux demandes
+d’explications réitérées de W-HA ;
+- dans le dossier 3.19 : dépassements des plafonds mensuels de transfert ; transferts au profit de
+bénéficiaires multiples (20 numéros de téléphone en moyenne par mois d’octobre 2018 à octobre 2019)
+domiciliés à l’extérieur de l’Union européenne (Madagascar) ; explications non justifiées du client sur
+l’origine des fonds en réponse aux demandes qui lui ont été adressées ;
+- dans le dossier 3.20 : atteintes répétées des plafonds mensuels de transfert ; transferts au profit de
+bénéficiaires multiples (18 numéros de téléphone en moyenne par mois d’octobre 2018 à octobre 2019)
+domiciliés à l’extérieur de l’Union européenne (Guinée) ; communication de justificatifs insuffisants sur
+les destinataires des transferts et sur les revenus de l’intéressé ;
+- dans le dossier 3.21 : transferts au profit de bénéficiaires multiples (108 numéros de téléphone par
+mois en moyenne sur la période d’octobre 2018 à octobre 2019) domiciliés à l’extérieur de l’Union
+européenne (Mali) ; absence de réponse aux demandes d’explication ;
+- dans le dossier 3.22 : transferts au profit de bénéficiaires multiples (23 numéros de téléphone par
+mois en moyenne d’octobre 2018 à octobre 2019) domiciliés à l’extérieur de l’Union européenne (Côte
+d’Ivoire) ; absence de réponse du client aux demandes d’explications de W-HA ;
+- dans le dossier 3.23 : atteintes répétées des plafonds mensuels de transfert (Côte d’Ivoire) ; refus
+du client de fournir des justificatifs de la provenance des fonds ;
+- dans le dossier 3.24 : atteintes répétées des plafonds mensuels de transfert ; transferts vers la
+Guinée ; absence de réponse du client aux demandes d’explications de W-HA.
+Autorité de contrôle prudentiel et de résolution 10
+
+===== Page 11 =====
+Décision de la Commission des sanctions – procédure no 2021-01
+27. Le grief 3 est donc entièrement fondé, sans qu’ait d’incidence sur son bien-fondé le recrutement,
+en septembre 2020, d’une personne supplémentaire pour participer à l’exécution des obligations
+déclaratives de W-HA.
+III. Sur l’application des dispositions du règlement (UE)
+2015/847 du parlement européen et du conseil du 20 mai
+2015 sur les informations accompagnant les transferts de
+fonds
+28. Pour les transferts vers l’extérieur de l’Union, l’article 6 du règlement n° 2015/847 prévoit :
+« (…) 2. Par dérogation à l'article 4, paragraphe 1, et, le cas échéant, sans préjudice des informations
+requises conformément au règlement (UE) no 260/2012, les transferts de fonds pour lesquels le
+prestataire de services de paiement du bénéficiaire est établi en dehors de l'Union, dont le montant
+n'excède pas 1 000 EUR et qui ne semblent pas liés à d'autres transferts de fonds dont le montant,
+cumulé avec celui du transfert en question, excède 1 000 EUR, sont au moins accompagnés des
+informations suivantes: a) les noms du donneur d'ordre et du bénéficiaire ; et b) les numéros de compte
+de paiement du donneur d'ordre et du bénéficiaire ou, lorsque l'article 4, paragraphe 3, s'applique,
+l'identifiant de transaction unique ».
+29. Selon le grief 4, fondé sur ces dispositions, au moment du contrôle, les transferts de fonds pour
+lesquels le prestataire de services de paiement (« PSP ») du bénéficiaire était établi dans un pays
+d’Afrique ne comportaient pas le nom du bénéficiaire.
+30. Contrairement à ce que soutient la société, les dispositions citées ci-dessus, qui concernent
+spécifiquement les transferts vers l’extérieur de l’Union et qui réitèrent explicitement l’obligation
+prévue, de façon générale, par le a) du 2) de l’article 4 du règlement, imposaient que les transferts de
+fonds vers l’extérieur de l’Union réalisés dans le cadre du produit OMF, dont le montant était plafonné
+à des montants inférieurs à 1000 euros, soient accompagnés du nom de leurs bénéficiaires. La poursuite
+a donc pu indiquer que l’absence d’une telle mention était susceptible de contrevenir à ces dispositions.
+31. Si la société soutient que la mention du seul numéro de téléphone des bénéficiaires des transferts
+était équivalente à la mention de leur nom, dès lors que ces bénéficiaires disposaient d’un compte Orange
+Money auprès d’un EME africain et que le service fourni était donc « privatif », elle ne le démontre pas
+et le manquement, dont la matérialité n’est pas contestée, est établi.
+32. Le grief 4 est donc fondé, sans que la mention systématique du nom du client, effectuée depuis
+juin 2020, soit postérieurement à la fin du contrôle sur place, conduise à le remettre en cause.
+IV. Sur le gel des avoirs
+33. En vertu de l’article L.562-4 du CMF, les organismes assujettis « sont tenus d'appliquer sans
+délai les mesures de gel et les interdictions de mise à disposition ou d'utilisation prévues au présent
+chapitre et à l'article L. 713-16 et d'en informer immédiatement le ministre chargé de l'économie ».
+34. Selon le grief 5, fondé sur ces dispositions, pour les clients utilisant son offre OMF, W-HA ne
+procédait pas, dès l’entrée en vigueur des mesures nationales de gel des avoirs, à un filtrage de sa base
+de données clients au regard des listes françaises de gel. En effet, ces listes faisaient l’objet d’une mise
+à jour hebdomadaire et les bases clients étaient filtrées sur une base trimestrielle.
+Autorité de contrôle prudentiel et de résolution 11
+
+===== Page 12 =====
+Décision de la Commission des sanctions – procédure no 2021-01
+35. W-HA ne conteste pas ce grief, qui est fondé, sans qu’aient d’incidence sur son bien-fondé les
+mesures correctives mises en œuvre depuis juin 2020.
+*
+* *
+36. Il résulte de ce qui précède que W-HA n’avait pas une connaissance suffisante des clients de son
+produit OMF (grief 1) et que le suivi et l’analyse de leurs opérations étaient défaillants (grief 2). Son
+dispositif de LBC-FT, qu’elle avait cru pouvoir faire reposer essentiellement sur des plafonds imposés
+aux opérations, ne lui permettait pas de procéder efficacement à la surveillance, à la détection et au
+traitement des opérations atypiques. Les nombreux défauts de DS illustrent cette carence fondamentale
+(grief 3). À quoi s’ajoute que W-HA méconnaissait son obligation relative aux mentions qui doivent
+accompagner les transferts vers l’extérieur de l’Union (grief 4).
+Ces manquements sont d’autant plus graves que le produit OMF, commercialisé par W-HA à partir
+de 2016 et sur lequel portent, ainsi que cela a été dit, la plupart des reproches, présente, comme toute
+activité de transfert de fonds, un risque élevé de BC-FT. Ce risque était encore aggravé, en l’espèce, en
+en raison des pays de destination des fonds et de l’utilisation d’espèces par les clients d’OMF.
+W-HA, qui est un professionnel avisé et qui est intégré au groupe Orange, ne pouvait ignorer ni les
+risques de son produit OMF ni la portée de ses obligations en matière de LBC-FT. Elle ne saurait se
+prévaloir ni de ce que le produit OMF a été lancé seulement en 2016, ni de ce que cette activité, au
+demeurant en forte croissance, ne représentait, au moment du contrôle, que 7% environ de son PNB.
+37. W-HA ne disposait pas non plus d’un dispositif approprié en matière de gel des avoirs (grief 5) :
+les insuffisances dans la mise à jour des fichiers clients et des listes de personnes soumises à des mesures
+restrictives rendaient impossible le respect de ses obligations sur ce point.
+Or, la Commission a souligné à plusieurs reprises que la mise en place d’un dispositif efficace de gel
+des avoirs répond à une exigence essentielle pour les organismes assujettis, qui ont, en ce domaine, une
+obligation de résultat (voir notamment la décision La Banque Postale 21 décembre 2018, procédure n°
+2018-01, considérant 35) et qui sont tenus de « détecter immédiatement et de façon exhaustive les clients
+ou bénéficiaires d’opérations soumis à une mesure restrictive, d’informer sans délai la DGT et de
+bloquer, sans délai, les opérations pour les personnes et organismes désignés » (décision 30 novembre
+2021 MMA IARD, procédure n° 2020-09, point 28).
+Le manquement reproché à W-HA dans ce domaine est ainsi d’une particulière gravité « eu égard à
+l’intérêt général impérieux de protection de l’ordre public et de la sécurité publique auquel répond la
+législation relative au gel des avoirs dans le cadre de la lutte contre le blanchiment des capitaux et le
+financement du terrorisme » (Conseil d'État 15 novembre 2019 Société La Banque Postale n° 428292,
+point 15).
+38. La Commission relève par ailleurs que la situation financière de la société W-HA est solide. Si
+le service OMF est encore, à ce jour, déficitaire, les résultats de la société, qui étaient de 1,5 million
+d’euros en 2018, devraient atteindre environ 5,6 millions d’euros en 2021 (pour un PNB de plus de 21
+millions d’euros). Ses fonds propres étaient de 17,6 millions d’euros en 2020.
+39. Il y a lieu, cependant, de tenir compte, d’une part, des conditions de lancement du produit OMF
+et, d’autre part, des actions correctives mises en œuvre par la société depuis le contrôle sur place.
+Comme on l’a dit, les services de l’ACPR ne peuvent être regardés comme ayant approuvé le
+dispositif LBC-FT envisagé par W-HA pour le produit OMF lors des échanges qui ont eu lieu fin 2015.
+Le seul fait qu’ils n’aient pas formulé d’objections ne pouvait dispenser W-HA de prendre toutes les
+dispositions nécessaires, une fois le produit lancé, pour un suivi efficace d’opérations qui présentaient
+des risques élevés en matière de blanchiment et de financement du terrorisme, comme la société l’avait
+d’ailleurs elle-même relevé pendant ses échanges avec l’ACPR. Il reste qu’il convient de relever que la
+société a spontanément pris l’attache des services de l’ACPR fin 2015 pour présenter le produit OMF et
+son dispositif de LBC-FT.
+De même, il convient de noter que la société a engagé, à la suite du contrôle, des actions volontaristes,
+avec le soutien de la maison-mère, pour régulariser sa situation.
+Autorité de contrôle prudentiel et de résolution 12
+
+===== Page 13 =====
+Décision de la Commission des sanctions – procédure no 2021-01
+Ainsi, depuis juin 2020, la mise à jour des listes des personnes soumises à des mesures restrictives
+est quotidienne et la base clients est filtrée tous les jours.
+W-HA recueille désormais, au titre de la connaissance de la clientèle, des informations sur le revenu
+et la profession du client. Elle a mis en place un scénario permettant de surveiller les opérations vers
+plusieurs bénéficiaires, porté une plus grande attention à ses obligations déclaratives - ce qui a entraîné
+l’envoi de 641 DS en 2021, selon la défense, contre 8 en 2019 - et modifié son protocole de transmission
+de fonds ainsi que son système d’information pour faire remonter automatiquement l’information sur
+l’identité du bénéficiaire des transferts.
+Les effectifs en charge de la conformité et du contrôle interne doivent, sur deux ans, être augmentés
+de 20 %. Une somme de 1,6 million d’euros a été investie de 2019 à 2021 au titre de la mise à niveau
+du dispositif de LBC-FT, dont 310 000 euros pour le développement informatique au cours du second
+trimestre 2020 uniquement.
+Si leur efficacité reste à apprécier, ces mesures témoignent du souci de la société de prendre en
+compte les critiques du superviseur.
+40. Compte tenu de l’ensemble des éléments relevés aux points 36 à 39, les manquements retenus
+par la Commission justifient le prononcé d’un blâme et il y a lieu de prononcer en outre à son encontre
+une sanction pécuniaire de 700 000 euros. En l’absence d’éléments de nature à établir qu’une publication
+sous forme nominative causerait à W-HA un préjudice disproportionné et qu’elle méconnaîtrait, en
+l’espèce, l’équilibre entre l’exigence d’intérêt général à laquelle elle répond et les intérêts de la société,
+il y a en outre lieu de publier la présente décision au registre de l’ACPR sous forme nominative, pendant
+une durée de cinq ans. Elle y sera ensuite maintenue sous une forme non nominative.
+*
+* *
+PAR CES MOTIFS
+DÉCIDE :
+ARTICLE 1ER – Il est prononcé à l’encontre de W-HA un blâme et une sanction pécuniaire de
+700 000 euros (sept cent mille euros).
+ARTICLE 2 – La présente décision sera publiée au registre de l’ACPR pendant cinq ans sous une
+forme nominative, puis sous une forme ne permettant pas d’identifier W-HA, et pourra être consultée
+au secrétariat de la Commission.
+Le Président de la Commission
+des sanctions
+[Alain Ménéménis]
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification
+et dans les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 13

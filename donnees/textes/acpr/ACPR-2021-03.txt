@@ -1,0 +1,549 @@
+===== Page 1 =====
+Décision de la Commission des sanctions – procédure no 2021-03
+NATIXIS INTEREPARGNE
+Procédure no 2021-03
+–––––
+Blâme et sanction pécuniaire
+de 3 millions d’euros
+–––––
+Audience du 18 mai 2022
+Décision rendue le 30 mai 2022
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 10 mai 2021 par laquelle le Président de l’Autorité de contrôle prudentiel et de
+résolution (ACPR) informe la Commission des sanctions (ci-après la « Commission ») de ce que le
+Collège de supervision de l’ACPR (ci-après le « Collège »), statuant en sa formation de Collège restreint,
+a décidé d’ouvrir une procédure disciplinaire à l’encontre de la société Natixis Interépargne (ci-après
+« NIE »), dont le siège social est 30, avenue Pierre Mendès-France 75013 Paris ;
+Vu la notification des griefs du 10 mai 2021 et ses annexes ;
+Vu les mémoires en défense des 21 juillet et 23 novembre 2021 et des 12 janvier et 22 février 2022,
+par lesquels NIE soutient que l’application à l’épargne salariale du dispositif légal de prévention de la
+déshérence soulève des difficultés spécifiques, que la procédure de contrôle s’est déroulée dans des
+conditions particulières et que plusieurs griefs doivent être écartés ou, à tout le moins, relativisés ;
+Vu les mémoires en réplique des 7 octobre 2021, 21 décembre 2021 et 7 février 2022, par lesquels le
+Collège, représenté par Mme Anne Larpin-Pourdieu, estime que l’application aux produits d’épargne
+salariale du dispositif légal de prévention de la déshérence ne soulève pas de difficulté particulière,
+indique que la mission de contrôle s’est déroulée normalement et maintient les griefs dans leur
+intégralité ;
+Vu les pièces complémentaires produites par le RC en réponse à une demande de NIE ;
+Vu le rapport du 15 avril 2022 de M. Philippe Braghini, rapporteur, qui conclut que six des sept griefs
+sont fondés, certains dans un périmètre réduit, et qu’un grief doit être écarté ;
+Vu les courriers du 15 avril 2022 convoquant à l’audience les parties ainsi que la direction générale
+du Trésor et les informant de la composition de la Commission ;
+Vu les observations formulées par NIE le 2 mai 2022 en réponse au rapport du rapporteur, par
+lesquelles la société présente une appréciation de la gravité, qu’elle estime faible, des griefs notifiés, au
+regard notamment des gains pour NIE, et présente des éléments complémentaires sur leur
+caractérisation ;
+Vu les autres pièces du dossier, notamment le rapport de contrôle signé le 25 janvier 2021 ;
+Autorité de contrôle prudentiel et de résolution 1
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2021-03
+Vu le code monétaire et financier (ci-après le « CMF »), notamment ses articles L. 312-19, L. 312-
+20 et R. 312-19, dans leur rédaction applicable au moment du contrôle ;
+Vu l'arrêté du 21 septembre 2015 pris en application de l’article R. 312-19 du CMF, notamment son
+article 1er, dans sa rédaction applicable au moment du contrôle ;
+Vu l'arrêté du 3 novembre 2014 relatif au contrôle interne des entreprises du secteur de la banque,
+des services de paiement et des services d’investissement soumises au contrôle de l'ACPR (ci-après
+l’« arrêté du 3 novembre 2014 »), notamment son article 11 ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACPR, composée de M. Alain Ménéménis, Président,
+Mme Dorothée de Kermadec-Courson, MM. Thierry Philipponnat, Matias de Sainte Lorette et Laurent
+Jacques ;
+Après avoir entendu, lors de sa séance non publique du 18 mai 2022 :
+- M. Braghini, rapporteur, assisté de Mme Laëtitia Havas, son adjointe ;
+- Mme Dorine Bérard, représentante du directeur général du Trésor ;
+- Mme Larpin-Pourdieu, représentante du Collège, assistée de la directrice des affaires juridiques,
+de l’adjoint au chef du service des affaires institutionnelles et du droit public, de deux juristes au
+sein de ce service ainsi que d’une contrôleuse au service de contrôle 1 de la direction du contrôle
+des pratiques commerciales ; Mme Larpin-Pourdieu a proposé à la Commission de prononcer un
+blâme et une sanction pécuniaire qui ne devrait pas être inférieure à six millions d’euros, par une
+décision publiée sous une forme nominative pendant cinq ans ;
+- La société NIE, représentée par son directeur général, et sa directrice générale déléguée, dont les
+avocats sont Mes Jean-Philippe Pons-Henry, Marie Robert-Schmid, Amaury Lavenant et Louis
+Martin, avocats à la Cour (cabinet Gide Loyrette Nouel) ;
+Après avoir délibéré en la seule présence de M. Ménéménis, Président, Mme de Kermadec-Courson,
+MM. Philipponnat, de Sainte Lorette et Jacques ainsi que de M. Jean-Manuel Clemmer, chef du service
+de la Commission des sanctions faisant fonction de secrétaire de séance ;
+1. Créée en 1969, NIE, filiale du groupe Natixis, appartient depuis 2009 au groupe BPCE. Elle est
+agréée en qualité d’entreprise d’investissement pour la fourniture des services de réception et de
+transmission d’ordres et de tenue de compte-conservation.
+NIE exerce son activité de teneur de compte conservateur de parts (TCCP) en épargne salariale pour
+67 000 entreprises clientes. Au 31 décembre 2020, elle gérait près de 3 millions de comptes, soit une
+part de marché de 26,7%, pour un total de 28 milliards d’euros d’actifs.
+NIE compte près de 500 salariés.
+2. NIE a fait l’objet, du 23 septembre 2019 au 1er octobre 2020, d’un contrôle, qui a porté sur la mise
+en œuvre des dispositions de la loi n° 2014-617 du 13 juin 2014 relative aux comptes bancaires inactifs
+et aux contrats d’assurance vie en déshérence (ci-après la « loi Eckert »). Cette mission a donné lieu à
+la signature, le 25 janvier 2021, d’un rapport (ci-après le « rapport de contrôle »). Au vu de ce rapport,
+le Collège de l’ACPR, statuant en sa formation de Collège restreint, a décidé, lors de sa séance du 21
+avril 2021, d’ouvrir la présente procédure disciplinaire, dont la Commission a été saisie par lettre du 10
+mai 2021.
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2021-03
+I. Questions générales
+A. Sur les difficultés d’application de la loi Eckert à l’épargne salariale
+3. NIE fait état de difficultés juridiques et d’obstacles opérationnels liés aux spécificités de l’épargne
+salariale et de son statut de TCCP, qui ne lui auraient pas permis d’appliquer totalement les dispositions
+de la loi Eckert pendant la période couverte par le contrôle. Elle indique que le dispositif mis en place
+par la loi a été conçu pour les banques et non pour les TCCP en épargne salariale. Elle estime que les
+dispositions de la réglementation manquent de clarté et sont parfois lacunaires, voire contre-intuitives.
+Elle mentionne à titre d’exemple les dispositions du II de l’article R. 312-19 du CMF sur l’appréciation
+de l’inactivité d’un compte d’épargne salariale et les difficultés de traitement de la déshérence en cas de
+décès du titulaire du compte puis de l’ayant droit après une manifestation de ce dernier.
+Elle soutient par ailleurs que la relation tripartite entre le TCCP, l’entreprise et le titulaire du compte
+a des conséquences sur la structure des bases de données des TCCP, qui ont pour clients les entreprises
+et non leurs salariés. C’est, selon elle, l’entreprise qui joue un rôle essentiel dans la collecte et la mise à
+jour des informations personnelles, notamment des données de contact. C’est également l’entreprise qui
+doit recueillir, en cas de départ de son salarié, les informations qui permettront à celui-ci de continuer à
+être informé de ses droits.
+En raison de ces particularités, NIE indique notamment que ses bases n’ont pas été conçues pour
+identifier les différents comptes d’épargne salariale détenus par un même titulaire et que la qualité des
+données et leur actualisation dépendent du respect, par les employeurs, de leurs obligations.
+NIE relève que la Cour des comptes a fait état de ces difficultés dans son rapport annuel 2019.
+4. Les questions juridiques que soulève NIE seront analysées ci-dessous dans la mesure où elles ont
+des conséquences sur l’appréciation d’un grief (voir infra points 10, 26 et 31).
+En ce qui concerne les difficultés opérationnelles mentionnées par NIE, il apparaît que l’organisation
+tripartite entreprise/titulaire du compte/TCCP peut être source de problèmes particuliers pour la gestion
+de comptes d’épargne salariale, variables selon la nature des obligations imposées aux TCCP. Le rapport
+d’activité pour l’année 2019 du pôle « Assurance Banque Épargne » commun à l’AMF et à l’ACPR -
+structure dont les missions sont définies par l’article L. 612-47 du CMF - en évoquait certaines :
+« L’enquête [lancée en 2019 auprès des principaux TCCP en épargne salariale du marché français] a
+confirmé que les comptes d’épargne salariale se trouvent particulièrement exposés à la problématique
+de la déshérence, notamment favorisée par la mobilité professionnelle qui engendre une perte de contact
+entre l’épargnant et le teneur de compte, dont l’interlocuteur principal était historiquement l’employeur.
+Les premiers travaux soulignent ainsi l’importance de renouveler les efforts et d’accroître les actions
+entreprises par les acteurs du marché dans le traitement des comptes inactifs, en particulier pour
+fiabiliser les coordonnées des titulaires de compte afin de maintenir le contact et de les informer de
+leurs droits ».
+Ces difficultés tiennent notamment à la structuration des bases de données du TCCP par entreprises
+clientes et non par titulaires de comptes et au rôle des entreprises dans la collecte des informations
+relatives aux salariés.
+Elles ne sauraient cependant dispenser les établissements teneurs de compte conservateurs de se
+conformer à leurs obligations au titre de la loi Eckert.
+Elles seront prises en compte pour l’examen des griefs chaque fois que cela paraîtra pertinent (voir
+II ci-dessous).
+B. Sur le déroulement de la mission de contrôle
+5. NIE s’étonne de la « dimension répressive » prise par le contrôle sur place, qui est intervenu alors
+que des rencontres avec les professionnels étaient annoncées en 2020 par le pôle commun AMF-ACPR
+afin d’échanger sur les constats de l’enquête de place mentionnée au point 4.
+Elle souligne qu’il était difficile de dialoguer avec la mission de contrôle, dont les diligences ont été
+principalement faites à distance en raison de la pandémie de covid-19.
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2021-03
+Elle reproche en outre à la poursuite de ne pas avoir exposé sa méthode d’échantillonnage, qui a
+introduit des biais méthodologiques significatifs, d’avoir mentionné des taux de défaillance sans préciser
+le périmètre applicable et d’avoir procédé à des extrapolations à partir de ces taux de défaillance établis
+sur la base d’échantillons non représentatifs.
+6. En premier lieu, même si l’initiative prise en 2019 par le pôle commun AMF-ACPR de lancer
+l’enquête mentionnée au point 4 s’inscrivait dans une logique d’identification des difficultés et de
+recherche de meilleures pratiques par l’ensemble des acteurs de la place, elle ne faisait pas par elle-
+même obstacle à ce que l’ACPR procède à des contrôles individuels sur place.
+En deuxième lieu, si NIE fait état de difficultés liées notamment à la pandémie, il n’apparaît pas et
+n’est d’ailleurs pas soutenu que le contrôle dont NIE a fait l’objet ait été entaché d’irrégularités.
+Enfin, si NIE soutient que la mission de contrôle a retenu des échantillons de dossiers non
+représentatifs et qu’elle a tiré des conséquences excessives de leur examen, une telle circonstance, à la
+supposer établie, devra seulement être prise en compte pour apprécier le bien-fondé et la portée des
+manquements reprochés (voir ci-dessous l’examen des griefs et la détermination des sanctions).
+II. Sur les griefs
+A. Sur le recensement des comptes inactifs
+7. En vertu du I de l’article L. 312-19 du CMF, les TCCP « recensent chaque année les comptes
+inactifs ouverts dans leurs livres ». Selon ce même article, un compte est considéré comme inactif soit
+à l’issue d’une période de cinq ans au cours de laquelle « le compte n'a fait l'objet d'aucune opération,
+hors inscription d'intérêts et débit par l'établissement tenant le compte de frais et commissions de toutes
+natures ou versement de produits ou remboursement de titres de capital ou de créance » et « le titulaire
+du compte, son représentant légal ou la personne habilitée par lui ne s'est pas manifesté, sous quelque
+forme que ce soit, auprès de cet établissement ni n'a effectué aucune opération sur un autre compte
+ouvert à son nom dans les livres de l'établissement » soit, si le titulaire du compte est décédé, « à l’issue
+d’une période de douze mois suivant le décès au cours de laquelle aucun de ses ayants droit n'a informé
+l'établissement tenant le compte de sa volonté de faire valoir ses droits sur les avoirs et dépôts qui y sont
+inscrits ».
+8. Selon le grief 1, fondé sur ces dispositions, NIE n’a pas détecté un nombre important de comptes
+inactifs ouverts dans ses livres.
+Selon la première branche du grief, sur 5 700 « comptes actifs dont le titulaire était décédé depuis
+plus d’un an » - dont 133 depuis plus de 30 ans - identifiés par la mission de contrôle, 69 ont été analysés.
+À la suite d’une demande de NIE, la poursuite, qui avait initialement mentionné 30 dossiers, a
+communiqué une liste de 29 comptes qui n'ont pas été identifiés comme inactifs par l’établissement,
+malgré l’absence de toute manifestation des ayants droit (1.1 à 1.29).
+Selon la seconde branche du grief, NIE a maintenu actifs ou réactivé des comptes dont ni le titulaire,
+ni son représentant ou une personne habilitée ne s’étaient pourtant manifestés. À la suite d’une demande
+de NIE, la poursuite, qui avait initialement mentionné 75 comptes maintenus actifs ou réactivés en raison
+d’une manifestation de l’employeur et 21 comptes maintenus actifs ou réactivés en raison du retour d’un
+courrier adressé à leurs titulaires comme « pli non distribué » (PND), a communiqué une liste
+comportant un total de 75 dossiers défaillants parmi les 96 initialement mentionnés (1.30 à 1.104). Sur
+ce total, 57 comptes ont été maintenus actifs ou réactivés à la suite d’une manifestation de l’employeur
+(dossiers 1.30 à 1.70 ; 1.81, 1.84 à 1.88 ; 1.92 ; 1.94 ;1.95 ; 1.97 ; 1.99 à 1.104), 20 à la suite d’un retour
+du courrier en « PND » (1.71 à 1.84 ; 1.89 à 1.91 ; 1.93 ; 1.96 ; 1.98), deux dossiers apparaissant
+simultanément dans ces deux catégories (dossiers 1.81 et 1.84).
+La notification des griefs indique enfin que la mission de contrôle a estimé que, au moment du
+contrôle sur place, 15 000 comptes « auraient été » identifiés à tort comme actifs par NIE, pour
+un encours de 53 millions d'euros.
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2021-03
+9. NIE ne conteste pas la première branche du grief et indique que des comptes dont le titulaire était
+décédé, classés « en succession » et regardés comme actifs avant l’entrée en vigueur de la loi Eckert,
+ont continué de l’être après, alors même qu’aucune manifestation des ayants droit n’était documentée.
+La première branche du grief est donc fondée.
+10. En ce qui concerne la seconde branche du grief, NIE se borne à soutenir que l’employeur du
+titulaire du compte doit être regardé comme une « personne habilitée » au sens des dispositions ci-dessus
+rappelées de l’article L. 312-19 du CMF, de sorte qu’une manifestation de sa part suffisait pour maintenir
+actif un compte ou le réactiver.
+Cependant, une habilitation ne se présume pas et, en tout état de cause, ni les dispositions du
+règlement général de l’Autorité des marchés financiers (RGAMF) invoquées en défense (I de l’article
+322-76, articles 322-82, 322-84, 322-85 et 322-86), qui sont relatives aux conditions d’exécution des
+instructions des titulaires de compte, ni les termes des « conditions générales employeur » souscrites par
+les entreprises clientes, ni ceux des « modalités de fonctionnement » des comptes remises aux salariés
+ne permettent de considérer que l’employeur pourrait être une « personne habilitée ». Si elle résulte de
+la mise à jour par l’employeur des données du salarié, une trace de navigation électronique produite par
+l’employeur lors de l’authentification et de l’utilisation de l’espace client (« Espace sécurisé
+Entreprise ») ne peut être regardée comme une manifestation du titulaire du compte. Par ailleurs, dans
+les exemples cités en défense, les informations mentionnées ont été communiquées par l’employeur à
+NIE sans que le titulaire du compte soit à l’origine de la mise à jour des données, de sorte que ce dernier
+ne saurait être regardé comme ayant donné une quelconque habilitation.
+Par ailleurs, le retour en « PND » d’un courrier adressé au titulaire du compte ne saurait être regardé
+comme une habilitation ou un motif permettant de maintenir un compte comme actif ou de le réactiver,
+ce qui n’est d’ailleurs pas soutenu.
+La seconde branche du grief est donc fondée.
+11. Il résulte de tout ce qui précède que le grief 1 est fondé.
+La carence de NIE est illustrée par 29 comptes au titre de la première branche du grief et 75 comptes
+au titre de la seconde.
+La Commission relève que NIE admet avoir maintenu actifs à tort 1 197 comptes, parmi les 11 188
+comptes pour lesquels elle était déjà informée du décès du titulaire en 2015.
+En revanche, les 15 000 comptes que mentionne la notification des griefs ne peuvent être pris en
+considération, dès lors que la poursuite se borne à relever que « la mission de contrôle » a estimé que
+ces comptes, dont le nombre est au demeurant incertain, « auraient été identifiés à tort comme actifs par
+NIE ».
+B. Sur l’identification des titulaires décédés des comptes d’épargne salariale inactifs
+12. En vertu du I de l’article L. 312-19 du CMF, les établissements assujettis « consultent chaque
+année, dans des conditions fixées par décret en Conseil d'État, les données figurant au répertoire
+national d'identification des personnes physiques et relatives au décès des personnes inscrites », afin
+d’identifier les titulaires décédés de comptes ouverts dans leurs livres.
+Les dispositions du I de l’article R. 312-19 du même code précisent que « pour la recherche de
+titulaires décédés d'un compte sur lequel sont inscrits des dépôts et avoirs au titre des produits d'épargne
+mentionnés au chapitre II du titre II du livre II, la consultation peut être effectuée sur la base du numéro
+d'inscription au répertoire national d'identification des personnes physiques ».
+13. Selon le grief 2, fondé sur ces dispositions, le dispositif de détection des décès des titulaires des
+comptes d'épargne salariale inactifs mis en place par NIE n'a pas permis, en raison de plusieurs
+défaillances, de détecter tous les titulaires de comptes décédés.
+Selon la première branche du grief, NIE n’a utilisé que les bases décès de l’INSEE enrichies du
+numéro d’inscription au répertoire (NIR), dont l'historique ne remonte qu'à l'année 2014, sans consulter
+les bases publiques de l’INSEE, qui répertorient les décès depuis 1970. À titre d'illustration, parmi les
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2021-03
+dossiers pour lesquels NIE disposait des données signalétiques des salariés, la mission de contrôle a
+identifié 13 décès non détectés lors des consultations annuelles effectuées en mai 2017, décembre 2018
+et juin 2019.
+Selon la deuxième branche du grief, NIE n’a pas utilisé, contrairement à ce que prévoient les
+spécifications fonctionnelles transmises par son prestataire [la société Z], les données signalétiques
+mises à sa disposition afin de réaliser les croisements avec les bases décès extraites du Répertoire
+national d’identification des personnes physiques (RNIPP), excluant ainsi du périmètre des
+consultations les titulaires dont le NIR n'était pas renseigné dans ses bases. Entre le 1er janvier 2016 et
+le 16 octobre 2019, environ 12 500 titulaires de comptes inactifs ont été exclus du périmètre des
+recherches. Pour 825 de ces comptes inactifs, NIE n'a pas consulté le RNIPP afin d'identifier les titulaires
+décédés, alors que la date de naissance du titulaire était renseignée.
+Selon la troisième branche du grief, des erreurs opérationnelles (exclusion à tort de fichiers)
+commises en 2018 et 2019 ont entraîné l'exclusion du périmètre de croisement des données de nombreux
+comptes inactifs pour lesquels le NIR était pourtant renseigné dans les bases. Ainsi, environ 31 000
+comptes ont été exclus en 2018 (encours de 60 millions d'euros) et environ 43 000 comptes en 2019
+(encours de 70 millions d'euros), soit respectivement la moitié et les deux tiers des comptes inactifs pour
+lesquels le NIR était renseigné.
+14. En ce qui concerne la première branche du grief, la Commission estime qu’en vertu des
+dispositions ci-dessus rappelées du I de l’article L. 312-19 du CMF, il appartenait à NIE, alors même
+que les bases de l’INSEE relatives aux décès antérieurs à 2014 ne mentionnaient pas le NIR, de détecter
+le décès des titulaires de comptes en consultant les bases publiques de l’INSEE. Le fait que cette
+recherche ait été confiée à un prestataire externe est sans incidence sur l’imputabilité du manquement à
+NIE.
+La première branche du grief est donc fondée.
+Cette carence est illustrée par 13 comptes.
+15. En ce qui concerne la deuxième branche du grief, NIE soutient que le choix de ne transmettre à
+son prestataire [la société Z], quand le NIR du titulaire du compte était disponible dans le RNIPP, que
+ceux pour lesquels ce NIR avait été enregistré dans ses propres bases résulte d’abord du manque de
+diligence des entreprises clientes, qui ne transmettaient pas systématiquement les données signalétiques
+de leurs salariés.
+Il lui appartenait cependant de demander aux entreprises clientes de lui transmettre des informations
+suffisamment complètes pour lui permettre de respecter ses obligations, comme elle indique le faire
+depuis plusieurs années maintenant et avoir ainsi amélioré de façon significative la qualité de ses bases
+de données.
+La deuxième branche du grief est donc fondée, sans qu’ait d’incidence l’extension récente de la
+consultation du RNIPP aux comptes inactifs pour lesquels NIE ne dispose pas du NIR.
+La Commission relève que, sur les 12 499 comptes non dotés d’un NIR exclus du périmètre des
+recherches, la date de naissance était renseignée dans 824 cas, ce qui permettait d’effectuer, pour ces
+comptes, une recherche, dont les résultats pouvaient, le cas échéant, être ensuite affinés afin de pallier
+les difficultés qui pouvaient résulter de l’absence de mention du lieu de naissance du titulaire du compte
+dans les bases de NIE.
+Elle note par ailleurs que NIE insiste sur les difficultés opérationnelles qu’aurait soulevées le
+développement, par elle seule, d’un système de traitement automatisé de comparaison des données à
+partir des seules données signalétiques des salariés, même pour un faible nombre de comptes, alors que
+le dispositif de place avait déjà nécessité des développements significatifs avec le concours de [la société
+Z].
+16. En ce qui concerne la troisième branche du grief, NIE, qui ne conteste pas les exclusions
+reprochées, explique qu’elles résultent d’erreurs dans la saisie de la dernière date d’activité, qui ont
+conduit à ce que certains comptes inactifs soient indûment exclus du périmètre des rapprochements avec
+le RNIPP en 2018 et 2019, alors que l’établissement disposait du NIR du client. Elle indique qu’il y a
+été remédié en janvier 2020 par une automatisation de la saisie de cette donnée et que la confrontation
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2021-03
+au RNIPP des comptes clients précédemment exclus a permis seulement la détection de 375 décès
+supplémentaires.
+17. Il résulte de tout ce qui précède que le grief 2 est fondé.
+C. Sur les moyens mis en œuvre pour informer les titulaires de l’inactivité de leur
+compte
+18. En vertu du dernier alinéa du I de l’article L. 312-19 du CMF, « lorsqu'un compte est considéré
+comme inactif, l'établissement tenant ce compte en informe par tout moyen à sa disposition le titulaire,
+son représentant légal, la personne habilitée par lui ou, le cas échéant, ses ayants droit connus de
+l'établissement et leur indique les conséquences qui y sont attachées en application du présent article et
+de l'article L. 312-20 ».
+Les dispositions du III de l’article R. 312-19 du CMF prévoient que « l'information prévue au dernier
+alinéa du I de l'article L. 312-19 est renouvelée annuellement jusqu'à l'année précédant le dépôt à la
+Caisse des dépôts et consignations des dépôts et avoirs en application du I de l'article L. 312-20.
+Lorsque l'établissement ne dispose pas d'une adresse postale valide à laquelle adresser cette information,
+il contacte par tout autre moyen à sa disposition le titulaire de compte, son représentant légal, la
+personne habilitée par lui ou, le cas échéant, ses ayants droit connus. Les établissements conservent sur
+support durable la trace des éléments permettant de justifier des dates et modalités de délivrance de
+cette information ».
+19. Selon le grief 3, fondé sur ces dispositions, NIE utilisait de façon très insuffisante les moyens de
+contact alternatifs dont elle disposait pour informer les titulaires de comptes inactifs de l’inactivité de
+leur compte lorsque l'adresse postale était absente du dossier du client ou erronée : ainsi, de 2016 à 2018,
+de tels moyens n'ont jamais été utilisés et, en 2019, seuls des courriels invitant certains salariés présents
+dans l'entreprise à se connecter à leur espace personnel ont été envoyés. En tout état de cause, le « canal
+de contact téléphonique » n'avait pas été mis en place.
+Cette défaillance est illustrée par 57 des 66 dossiers sans adresse valide sur les 78 dossiers étudiés
+par la mission de contrôle.
+Au total, la mission de contrôle a estimé que « cette inertie concerne environ 851 comptes
+représentant un encours de 1,7 million d'euros ».
+20. NIE admet cette carence pour 805 comptes, dans lesquels l’adresse postale du titulaire était
+invalide mais pour lesquels elle disposait de moyens de contact alternatifs - sur un total d’environ 84 000
+comptes inactifs. Si l’établissement précise que, pour 710 de ces comptes, les titulaires avaient été
+contactés par un courriel les invitant à se connecter à leur espace en ligne, le texte de ce courriel ne
+comportait pas les mentions indispensables.
+Le grief 3 est fondé.
+D. Sur les moyens mis en œuvre pour informer les titulaires de comptes inactifs
+avant le transfert de leurs avoirs à la CDC
+21. En vertu du dernier alinéa du I de l’article L. 312-20 du CMF, « six mois avant l'expiration du
+délai mentionné au 1° du présent I, l'établissement tenant le compte informe, par tout moyen à sa
+disposition, son titulaire, son représentant légal, la personne habilitée par lui ou, le cas échéant, ses
+ayants droit connus de l'établissement de la mise en œuvre du présent article ».
+22. Selon le grief 4, fondé sur ces dispositions, NIE n’a pas utilisé, jusqu’en mars 2020 au moins, les
+moyens de contact alternatifs dont elle disposait (numéro de téléphone, adresse électronique) pour
+informer les titulaires de comptes du transfert imminent de leurs avoirs à la CDC lorsque l’adresse
+postale du titulaire était inconnue ou erronée.
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2021-03
+Ainsi, sur 72 dossiers étudiés par la mission de contrôle, NIE n’a pas utilisé de tels moyens avant le
+transfert des avoirs à la CDC dans 14 cas, alors qu’elle disposait des informations nécessaires (4.1 à
+4.14).
+23. Les difficultés techniques que mentionne NIE, qui ont notamment trait à l’absence de moyens de
+contact alternatifs, dans de nombreux cas, en particulier lorsque le compte avait été ouvert plusieurs
+décennies plus tôt, ne peuvent répondre au reproche d’une absence totale de recours à de tels moyens
+jusqu’en mars 2020.
+Le grief 4 est donc fondé.
+Il est illustré par 13 dossiers, le dossier 4.3 devant être écarté en raison d’un doute sur l’identité du
+titulaire du compte.
+E. Sur le transfert des avoirs à la CDC malgré l’existence d’un autre compte actif
+24. Selon les dispositions du I de l’article L. 312-19 du CMF, un compte d'épargne salariale est
+considéré comme inactif si pendant une période de cinq ans il n’a fait l’objet « d’aucune opération » et
+si « le titulaire du compte, son représentant légal ou la personne habilitée par lui ne s'est pas manifesté,
+sous quelque forme que ce soit, auprès de cet établissement ni n'a effectué aucune opération sur un
+autre compte ouvert à son nom dans les livres de l'établissement ».
+En vertu de l’article L. 312-20 du même code, « les dépôts et avoirs inscrits sur les comptes inactifs
+mentionnés à l'article L. 312-19 sont déposés à la Caisse des dépôts et consignations ».
+25. Selon le grief 5, fondé sur ces dispositions, le dispositif mis en place par NIE pour rapprocher
+les comptes détenus par un même titulaire comportait d’importantes lacunes puisque seuls les comptes
+assortis d’un NIR faisaient l’objet d’un rapprochement, ce qui a conduit à exclure tout rapprochement
+pour près de 400 000 comptes au 17 mars 2020, dont un peu plus de 31 000 étaient inactifs.
+Par ailleurs, le NIR était parfois erroné et la façon de renseigner les champs « nom » et « prénom »
+était variable, ce qui ne permettait pas le croisement des comptes liés au même titulaire.
+Du fait de ces lacunes, NIE a effectué des transferts indus de fonds à la Caisse des dépôts et
+consignations (CDC) malgré l’existence d’un autre compte actif ouvert au nom du même titulaire dans
+ses livres.
+Ainsi, sur les 72 dossiers de transfert des avoirs à la CDC analysés par la mission de contrôle, 42
+dossiers concernaient un épargnant disposant d'un autre compte pour lequel il s'était manifesté ou sur
+lequel il avait effectué une opération dans le délai prescrit par l'article L. 312-19 du CMF, ce qui
+conduisait à considérer son compte d’épargne salariale comme actif (5.1 à 5.42).
+Sur la base des extractions qui lui ont été communiquées par NIE, la mission de contrôle a estimé à
+au moins 865, pour un encours d'environ 2,2 millions d'euros, le nombre des comptes dont le solde a été
+transféré à tort à la CDC alors qu'un autre compte demeurait actif dans les livres de l'établissement.
+26. NIE soutient que les dispositions du I de l’article L. 312-19 du CMF doivent être interprétées « à
+la lumière » de celles du II de l’article R. 312-19 du même code, selon lesquelles « l'absence de
+manifestation d'une personne ou de réalisation d'opération sur un compte relatif aux produits d'épargne
+mentionnés au chapitre II du titre II du livre II ne peut, à elle seule, être prise en considération pour
+caractériser l'inactivité d'un autre compte entrant dans le champ d'application du I de l'article L. 312-
+19, et réciproquement » et qu’il en résulte une incertitude sur sa portée exacte.
+Toutefois, les dispositions de l’article L. 312-19 du CMF prévoient clairement que, pour que
+l’inactivité d’un compte d’épargne salariale soit susceptible d’être caractérisée à l’issue d’un délai de
+cinq ans, il est nécessaire que, pendant ce délai, aucune opération n’ait été effectuée sur aucun compte
+détenu dans les livres de l’établissement par le même salarié. L’article R. 312-19 du CMF se borne quant
+à lui à préciser que l’inactivité d’un compte ne saurait suffire à caractériser celle d’un autre compte.
+27. En tout état de cause, l’exclusion du dispositif de rapprochement des comptes d’un même salarié
+de tous ceux pour lesquels, au moment du contrôle sur place, NIE ne disposait pas du NIR, sans
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2021-03
+recherche, auprès des employeurs concernés, des informations utiles sur l’identité du titulaire, ne lui
+permettait pas de respecter les obligations découlant de l’article L. 312-19 du CMF.
+Contrairement à ce que soutient NIE, la recherche des informations nécessaires auprès des entreprises
+pouvait être effectuée sans que soient communiquées aux employeurs des informations confidentielles
+sur les titulaires des comptes.
+28. Il résulte de tout ce qui précède que le grief 5 est fondé.
+Il est illustré par 39 dossiers, 3 des 42 dossiers mentionnés par la poursuite (5.4, 5.5 et 5.7) devant
+être exclus en raison d’une incertitude sur l’identité du titulaire du compte.
+Cette carence a conduit à des transferts injustifiés à la CDC, en particulier pour les 577 dossiers dans
+lesquels les NIR associés à plusieurs comptes étaient identiques, pour lesquels NIE admet elle-même
+son erreur.
+F. Sur le prélèvement de frais à l'occasion du transfert des avoirs à la CDC
+29. En vertu du III de l’article L. 312-19 du CMF, « le montant annuel des frais et commissions de
+toutes natures prélevés sur les comptes mentionnés aux 1° et 2° du I est plafonné ».
+Le IV de l’article R. 312-19 du même code prévoit que « les frais et commissions de toute nature
+prélevés sur les comptes inactifs s'entendent de l'ensemble des frais et commissions perçus par les
+établissements sur les opérations relatives à la gestion et à la clôture de ces comptes et les produits et
+services bancaires liés à ces comptes. / Ils sont débités dans la limite du solde créditeur ou le cas échéant
+du plafond réglementaire ».
+L’article 1er de l’arrêté du 21 septembre 2015 pris en application de l’article R. 312-19 du CMF
+dispose que : « 2° Pour les comptes d'épargne mentionnés aux sections 6 et 6 bis du même chapitre [i.e.
+le chapitre Ier du titre II du livre II du même code] et les produits d'épargne mentionnés au chapitre II
+du même titre [i.e. les produits d’épargne salariale] : les frais et commissions prélevés annuellement par
+compte ne peuvent être supérieurs aux frais et commissions qui auraient été prélevés si le compte n'avait
+pas été considéré comme inactif ».
+30. Selon le grief 6, fondé sur ces dispositions, NIE a, lors du transfert à la CDC des avoirs détenus
+sur les comptes inactifs, prélevé des « frais de consignation » (22,61 euros par compte en 2019) en plus
+des frais de clôture (27,34 euros par compte). Ces frais ont été prélevés sur les 72 dossiers de transfert à
+la CDC étudiés par la mission de contrôle. Les frais de consignation ont représenté environ 2 millions
+d'euros prélevés sur les comptes dont les avoirs ont été transférés à la CDC depuis 2016.
+31. Les dispositions citées ci-dessus de l’article L. 312-19 du CMF posent le principe d’un
+plafonnement des frais de toute nature prélevés sur les comptes inactifs. Il ressort des travaux
+préparatoires de la loi Eckert, de laquelle ces dispositions sont issues, qu’à la suite du rapport de la Cour
+des comptes de juin 2013 sur « les avoirs bancaires et les contrats d’assurance-vie en déshérence », le
+législateur a entendu « mettre fin aux pratiques abusives de certaines banques, consistant à ponctionner
+une part importante des actifs inscrits sur les comptes inactifs, alors que la gestion de ces comptes ne
+génère que des coûts marginaux » (rapport de M. Christian Eckert, rapporteur général, fait au nom de la
+commission des finances, de l’économie générale et du contrôle budgétaire sur la proposition de loi
+relative aux comptes bancaires inactifs et aux contrats d’assurance-vie en déshérence (n° 1546),
+enregistré à la présidence de l’Assemblée nationale le 5 février 2014).
+Toutefois, les dispositions citées ci-dessus de l’arrêté du 21 septembre 2015 ne définissent pas de
+façon claire les modalités du plafonnement des frais pour les comptes qu’elles visent. La poursuite et la
+direction générale du Trésor en ont d’ailleurs donné, au cours de la présente procédure, notamment
+pendant la séance du 18 mai 2022, des interprétations divergentes.
+L’obligation qu’il est reproché par le présent grief à NIE de n’avoir pas respectée n’étant pas claire,
+aucun manquement ne peut être retenu à son encontre.
+32. Le grief 6 ne peut donc qu’être écarté.
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2021-03
+G. Sur le contrôle interne mis en place par NIE
+33. En vertu du a) de l’article 11 de l’arrêté du 3 novembre 2014, le contrôle interne a notamment
+pour objet de « vérifier que les opérations réalisées par l'entreprise, ainsi que l'organisation et les
+procédures internes, sont conformes aux dispositions propres aux activités bancaires et financières,
+qu'elles soient de nature législative ou réglementaire, nationales ou européennes directement
+applicables, ou qu'il s'agisse de normes professionnelles et déontologiques, ou d'instructions des
+dirigeants effectifs ».
+34. Selon le grief 7, fondé sur ces dispositions, les défaillances relevées au titre des précédents griefs
+caractérisent une insuffisance du dispositif de contrôle interne de NIE.
+La notification des griefs relève que le rapport de contrôle a plus particulièrement mis en évidence
+que le contrôle interne n'a pas été en mesure de détecter des défaillances telles que l'absence de recours
+aux données signalétiques des titulaires des comptes inactifs et les erreurs opérationnelles qui ont
+entraîné l'exclusion du périmètre de croisement de plusieurs dizaines de milliers de comptes en 2018 et
+2019.
+Elle ajoute que le rapport de contrôle a constaté qu’aucun contrôle interne n'était déployé en vue de
+détecter d’éventuelles lacunes relatives au dispositif d’identification des comptes inactifs, qui aurait par
+exemple permis d’identifier des comptes regardés à tort comme actifs ou dont la date D - date à compter
+de laquelle court le délai d’inactivité - aurait été réinitialisée pour des motifs non conformes à la loi.
+35. Contrairement à ce que soutient NIE, la mission de contrôle a mis en évidence, comme le soutient
+la poursuite, des carences dont la prévention relevait, selon les dispositions du a) de l’article 11 de
+l’arrêté du 3 novembre 2014, de son dispositif de contrôle interne.
+En outre, NIE ne peut utilement soutenir que certaines de ces carences résultaient de décisions de la
+gouvernance dès lors qu’il appartenait, y compris dans ce cas, à son contrôle interne de les détecter et
+d’en analyser les conséquences au regard du risque de non-conformité.
+36. Les actions correctives mises en œuvre après le contrôle sur place (contrôle récurrent de la date
+d’inactivité d’un compte, augmentation de la taille des échantillons contrôlés avant transfert à la CDC,
+notamment) ou programmées cette année (mission de contrôle périodique sur le « processus Eckert »
+diligentée par l’audit interne de [la société Y] sont sans incidence sur le grief 7, qui est fondé.
+*
+* *
+37. Il résulte de ce qui précède que NIE n’a pas détecté un certain nombre de comptes inactifs,
+notamment parce qu’elle considérait qu’une manifestation de l’employeur pouvait être prise en
+considération pour estimer qu’un compte était actif (grief 1). Le dispositif de détection des titulaires
+décédés de comptes inactifs était défaillant (grief 2). NIE n’utilisait pas suffisamment les moyens de
+contact alternatifs permettant d’informer les titulaires de l’inactivité de leur compte (grief 3) et n’utilisait
+pas de tels moyens pour informer les titulaires de comptes inactifs du prochain transfert des avoirs à la
+CDC (grief 4). Les modalités de rapprochement des comptes détenus par un même titulaire ne lui
+permettaient pas de respecter totalement l’interdiction de transférer à la CDC les avoirs détenus sur un
+compte d’épargne alors qu’un autre compte ouvert dans ses livres par le même titulaire était actif (grief
+5). Ces carences révèlent une efficacité insuffisante du dispositif de contrôle interne de l’établissement
+(grief 7).
+38. Il est vrai que les carences ainsi retenues ont parfois eu des conséquences limitées. En outre, la
+présente décision écarte un grief qui porte sur un aspect essentiel du dispositif voulu par la loi Eckert
+(voir points 31 et 32 ci-dessus).
+Autorité de contrôle prudentiel et de résolution 10
+
+===== Page 11 =====
+Décision de la Commission des sanctions – procédure no 2021-03
+Par ailleurs, ainsi qu’il a déjà été dit, les modalités de mise en œuvre des obligations prévues par la
+loi Eckert soulevaient, pour tous les TCCP en épargne salariale, des difficultés spécifiques, notamment
+pour les comptes ouverts voire devenus inactifs depuis très longtemps. Ces difficultés avaient, comme
+on l’a dit, justifié qu’une enquête de place soit lancée. Cette enquête, qui n’a d’ailleurs été suivie de la
+publication d’aucune ligne directrice susceptible de guider l’action des professionnels, avait pour
+objectif de favoriser un meilleur traitement des comptes inactifs par tous les acteurs de marché. En outre,
+certaines des difficultés des TCCP tenaient au fait que les bases de données de l’INSEE ne fournissaient
+pas, au moment du contrôle, le NIR pour les décès survenus avant le 1er janvier 2014.
+Enfin, NIE souligne sans être contredite sur ce point par la poursuite, qu’à la différence d’une banque,
+elle n’a pas, en sa qualité de TCCP, la libre disposition des avoirs de ses clients : elle ne peut donc, au-
+delà des frais qu’elle perçoit, tirer profit de la conservation indue d’avoirs.
+39. Toutefois, les manquements retenus par la Commission, qui résultent aussi bien d’erreurs
+d’analyse juridique que de carences opérationnelles et d’une insuffisance du contrôle interne, traduisent
+une adaptation insuffisante et tardive de l’établissement aux exigences de la loi Eckert.
+Or, NIE occupe une place de tout premier plan parmi les TCCP en épargne salariale et elle disposait
+des moyens humains et financiers qui lui auraient permis de respecter ses obligations dans le délai fixé
+par la loi Eckert.
+Les actions correctives, qui sont certes nombreuses et qui paraissent de nature à corriger une grande
+partie des manquements notifiés, n’ont été mises en place que très progressivement : il en est notamment
+ainsi de l’arrêt de la prise en compte des manifestations de l’employeur pour déterminer si un compte
+doit être maintenu actif ou réactivé, de la réintégration au « processus Eckert » des comptes classés en
+succession lors de l’entrée en vigueur de la loi Eckert et pour lesquels NIE ne dispose d’aucune preuve
+de la manifestation d’un ayant droit (effectué après décembre 2020), de la correction des erreurs
+opérationnelles reprochées, de l’amélioration des bases clients et du recueil des données de contact
+(2021, 2022) ou de la réalisation d’une mission de contrôle périodique sur le « processus Eckert » de
+l’établissement (2022).
+40. La situation financière de NIE apparaît solide. En 2021, elle a réalisé un résultat net de 20 millions
+d’euros, dont 16,7 millions d’euros au titre de son activité de TCCP. À la fin de cet exercice, elle
+disposait de 27 millions d’euros de fonds propres hors résultat net de ce même exercice.
+41. Compte tenu de l’ensemble des éléments mentionnés aux points 37 à 40, les manquements retenus
+par la Commission justifient le prononcé d’un blâme et il y a lieu de prononcer en outre à l’encontre de
+NIE une sanction pécuniaire de trois millions d’euros. En l’absence d’éléments de nature à établir qu’une
+publication sous forme nominative causerait à NIE un préjudice disproportionné et qu’elle méconnaîtrait,
+en l’espèce, l’équilibre entre l’exigence d’intérêt général à laquelle elle répond et les intérêts de la société,
+il y a en outre lieu de publier la présente décision au registre de l’ACPR sous forme nominative, pendant
+une durée de cinq ans. Elle y sera ensuite maintenue sous une forme non nominative.
+Autorité de contrôle prudentiel et de résolution 11
+
+===== Page 12 =====
+Décision de la Commission des sanctions – procédure no 2021-03
+*
+* *
+PAR CES MOTIFS
+DÉCIDE :
+ARTICLE 1ER – Il est prononcé à l’encontre de Natixis Interépargne un blâme et une sanction
+pécuniaire de trois millions d’euros.
+ARTICLE 2 – La présente décision sera publiée au registre de l’ACPR pendant cinq ans sous une
+forme nominative, puis sous une forme ne permettant pas d’identifier Natixis Interépargne, et pourra
+être consultée au secrétariat de la Commission.
+Le Président de la Commission
+des sanctions
+[Alain Ménéménis]
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification
+et dans les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 12

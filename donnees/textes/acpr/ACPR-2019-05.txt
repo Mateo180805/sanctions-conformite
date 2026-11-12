@@ -1,0 +1,514 @@
+===== Page 1 =====
+SOCIÉTÉ A
+Procédure no 2019-05
+–––––
+Blâme et interdiction de
+commercialiser des contrats
+d’assurance pendant 2 mois
+–––––
+Audience du 7 février 2020
+Décision rendue le 28 février 2020
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 22 mai 2019 par laquelle le Président de l’Autorité de contrôle prudentiel et de résolution
+(ci-après l’« ACPR ») informe la Commission de ce que le Collège de supervision de l’ACPR (ci-après le
+« Collège »), statuant en sous-collège sectoriel de l’assurance, a décidé d’ouvrir une procédure disciplinaire à
+l’encontre de « la société A », enregistrée comme courtier en assurance, sous le n° 2019-05 ;
+Vu la notification des griefs du 22 mai 2019 ;
+Vu le mémoire en défense du 26 août 2019 par lequel la société A, d’une part, soutient qu’en raison des
+modalités de son intervention dans la vente à distance de contrats d’assurances, elle bénéficiait de la dérogation
+permettant que certaines informations ne soient communiquées qu’après la conclusion du contrat et, d’autre
+part, reconnaît quelques insuffisances quant au respect de ses obligations d’information précontractuelle et de
+conseil du client, tout en soulignant qu’elles ne présentaient pas un caractère intentionnel ;
+Vu le mémoire en réplique du 25 octobre 2019, par lequel M. Francis Assié, représentant du Collège,
+maintient l’ensemble des griefs notifiés ;
+Vu le rapport du 6 janvier 2020 de M. Francis Crédot, rapporteur, dans lequel celui-ci conclut que les 3
+griefs sont entièrement établis ;
+Vu les courriers du 6 janvier 2020 convoquant les parties à l’audience et les informant de la composition
+de la Commission ;
+Vu les autres pièces du dossier, notamment le rapport de contrôle du 29 janvier 2019 et les 21
+enregistrements de conversations téléphoniques entre des téléopérateurs et des prospects de la société A
+communiqués par la poursuite sur une clé USB ;
+Vu le code des assurances, notamment ses articles L. 112-2, L. 112-2-1, L. 520-1, L. 521-2, L. 521-4,
+L. 521- 6, R. 112-4, R. 520-1, R. 520-2, R. 520-3, R. 521-1, R. 521-2 et R. 521-4 dans leur rédaction applicable
+aux faits ;
+Vu le code de la consommation, notamment son article L. 222-6 ;
+Vu le règlement intérieur de la Commission des sanctions ;
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2019-05
+La Commission des sanctions de l’ACPR, composée de M. Rémi Bouchez, Président, de Mmes Claudie
+Aldigé et Christine Meyer-Meuret et de MM. Jean-Pierre Jouguelet et Thierry Philipponnat ;
+Après avoir entendu, lors de sa séance publique du 7 février 2020 :
+- M. Crédot, rapporteur, assisté de Mme Laëtitia Havas, son adjointe ;
+- la représentante de la directrice générale du Trésor ;
+- M. Assié, représentant du Collège, assisté de l’adjointe au directeur des affaires juridique de l’ACPR,
+de l’adjoint au chef du service des affaires institutionnelles et du droit public, ainsi que de deux juristes
+au sein de ce service ; M. Assié a proposé à la Commission de prononcer, dans une décision publiée
+sous forme nominative pendant 5 ans, une interdiction de commercialiser de nouveaux contrats
+pendant deux mois, directement, ou par le biais d’une succursale ou de toute personne mandatée à cet
+effet ;
+- la société A, représentée par M. A, actionnaire majoritaire, et Me Benoît Lapointe de Vaudreuil, avocat
+à la Cour (cabinet BLV Avocats) ;
+Après avoir délibéré en la seule présence de M. Bouchez, Président, de Mmes Aldigé et Meyer-Meuret et de
+MM. Jouguelet et Philipponnat, ainsi que de M. Jean-Manuel Clemmer, chef du service de la Commission des
+sanctions faisant fonction de secrétaire de séance ;
+1. Considérant que la société A est une société à responsabilité limitée dont le capital de 2 000 euros est
+détenu à 99 % par M. A ; que cette société, immatriculée à l’ORIAS dans la catégorie des courtiers d’assurance,
+exerce son activité depuis 2013 ; qu’au moment du contrôle, la commercialisation des contrats était faite par
+une trentaine de personnes au sein de sa succursale marocaine ; que son niveau d’activité varie fortement d’une
+année à l’autre ; qu’en 2018, elle a réalisé un chiffre d’affaires de 250 000 euros et un résultat net d’environ
+15 000 euros ; qu’à la fin de ce même exercice, ses fonds propres s’élevaient à environ 3 400 euros ; qu’après
+avoir conclu plusieurs partenariats commerciaux, elle n’exerce plus son activité qu’en relation avec le courtier
+B avec lequel une convention de partenariat a été conclue en juillet 2015 (produits C – groupe D) ;
+2. Considérant que la société A distribue, par des appels téléphoniques sortants effectués depuis sa
+plateforme marocaine, des contrats d’assurance prévoyance ; qu’elle exploite à cette fin des extractions de
+l’annuaire téléphonique français filtrées par Bloctel ; qu’elle commercialise 3 produits, respectivement
+dénommés [C1] (contrat « individuel accident » destiné aux moins de 65 ans, qui prévoit le versement d’un
+capital en cas de décès ou de perte totale et irréversible d’autonomie consécutif à un accident), [C2] (contrat
+« hospitalisation » destiné aux moins de 65 ans, qui prévoit le versement d’une indemnité journalière forfaitaire
+avec 3 niveaux de prestation en cas d’hospitalisation à la suite d’un accident) et [C3] (contrat couvrant le risque
+décès accidentel des personnes âgées de 65 à 85 ans, qui prévoit le versement d’un capital décès avec 3 niveaux
+possibles de prestation) ;
+3. Considérant qu’il ressort du dossier qu’au moment du contrôle sur place, le processus de
+commercialisation de la société A comportait 3 étapes, l’appel de vente, réalisé par des téléopérateurs selon un
+« guide argumentaire » ou script, la qualification des souscriptions puis la réception par voie postale, par le
+souscripteur, des documents contractuels ; que le téléopérateur était chargé de collecter auprès du client les
+informations nécessaires à la vente (date de naissance, régime social, profession, coordonnées postales,
+téléphoniques et bancaires, choix de la formule, modalités de règlement, clause bénéficiaires) qu’il saisissait
+dans l’outil extranet mis à sa disposition par le courtier B en vue d’adresser par courriel au client, avant la
+souscription, un devis et une fiche d’information et de conseil ; que cet outil générait un code, adressé par SMS
+ou par messagerie vocale au client qui le communiquait par téléphone au téléopérateur ; que la saisie de ce
+code dans l’outil de souscription par le téléopérateur permettait de signer électroniquement le contrat et, en
+principe, de générer l’envoi par mail au client des documents de souscription signés ; que l’appel de vente était
+réécouté par la cellule qualité de la société A, qui en rejetait en moyenne 20 %, les ventes jugées conformes
+étant, depuis 2017, transmises au courtier B, qui les contrôlait à son tour ; que, si la vente était jugée conforme,
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2019-05
+la société E, délégataire de gestion de l’assureur, envoyait au client un dossier papier comprenant les documents
+contractuels dont les conditions particulières et l’échéancier des cotisations ;
+4. Considérant que la société A a fait l’objet d’un contrôle sur place du 2 mars au 2 octobre 2018 ; qu’au vu
+du rapport du 29 janvier 2019 établi à la suite de ce contrôle, le Collège a décidé, lors de sa séance du 18 avril
+2019, d’ouvrir la présente procédure disciplinaire ;
+I. – Sur le défaut de remise par écrit de l’information
+précontractuelle avant la souscription à distance de contrats
+d’assurance
+5. Considérant, d’une part, qu’aux termes du 1o du I de l’article L. 112-2-1 du code des assurances, « la
+fourniture à distance d’opérations d’assurance à un consommateur est régie par le présent livre et par les
+articles L. 222-1 à L. 222-3, L. 222-6 et L. 222-13 à L. 222-16, L. 222-18, L. 232-4, L. 242-15 du code de la
+consommation » ; que, selon le premier alinéa de l’article L. 222-6 du code de la consommation, « Le
+consommateur reçoit, par écrit ou sur un autre support durable à sa disposition et auquel il a accès en temps
+utile et avant tout engagement, les conditions contractuelles ainsi que les informations mentionnées à l’article
+L. 222-5. Elles sont fournies au consommateur conformément aux dispositions législatives et réglementaires
+spécifiques à chaque produit, instrument financier ou service proposé. » ; que l’article L. 112-2 du code des
+assurances dispose qu’avant la conclusion du contrat, l’assuré doit recevoir « une fiche d’information sur le
+prix et les garanties » ainsi qu’« un exemplaire du projet de contrat et de ses pièces annexes ou une notice
+d’information sur le contrat qui décrit précisément les garanties assorties des exclusions, ainsi que les
+obligations de l’assuré » ; que le III de l’article L. 112-2-1 du code des assurances précise les informations qui
+doivent être communiquées au souscripteur, « en temps utile avant la conclusion à distance d’un contrat
+d’assurance » ; que ces informations sont relatives à l’identification du fournisseur et aux principales
+dispositions contractuelles ainsi qu’à leurs modalités d’exécution ; qu’il résulte du I de cet article que les
+obligations qu’il prévoit s’appliquent tant aux assureurs qu’aux intermédiaires ;
+6. Considérant, d’autre part, que le deuxième alinéa de l’article L. 222-6 du code de la consommation, dont
+les dispositions étaient, au moment du contrôle, reprises, pour les intermédiaires d’assurance, par l’article
+R. 520-2 du code des assurances , permet de déroger à l’obligation d’information préalable par écrit ou sur un
+autre support durable lorsque le contrat « a été conclu à la demande du souscripteur en utilisant une technique
+à distance ne permettant pas la transmission des informations sur support papier ou sur un autre support
+durable » ; que, dans ce cas, les informations doivent être « fournies au souscripteur sur support papier ou
+tout autre support durable à la disposition du souscripteur et auquel celui-ci a facilement accès,
+immédiatement après la conclusion du contrat d'assurance » ;
+7. Considérant que, selon le grief 1, fondé sur ces dispositions, la société A ne fournit pas à ses clients, par
+écrit ou sur tout autre support durable, les informations précontractuelles qu’elle est tenue de leur fournir ; or,
+le client ne prenant pas l’initiative de la prise de contact et n’entreprenant pas de démarche personnelle pour
+la souscription du contrat, celui-ci n’est pas conclu à sa demande au sens des dispositions ci-dessus rappelées ;
+que, dans 70 % des enregistrements analysés par la mission de contrôle, l'adresse électronique, recueillie
+oralement auprès du client, n’est pas saisie par le téléopérateur dans l’outil extranet ; que dans 20 % des cas,
+le processus de souscription s'est poursuivi alors que le client, qui avait déclaré ne pas disposer d'une adresse
+électronique, ne pouvait prendre connaissance des informations qui lui étaient communiquées par cette voie ;
+qu’ainsi, dans près de 90 % des souscriptions réalisées entre le 1er janvier 2017 et le 8 juin 2018, soit 5 457
+souscriptions signées électroniquement et validées par les cellules qualité de la société A et du courtier B,
+aucune information précontractuelle n’a été remise sur support durable au client ; que dans les 10 % de
+souscriptions où la fonctionnalité d’envoi du devis était actionnée, les courriels reçus par les clients ne leur
+permettaient pas de consulter les documents d’information précontractuelle, au demeurant insuffisants et
+incomplets, en raison d’un dysfonctionnement affectant l’outil informatique, qui n’a été corrigé qu’en cours
+de mission ; qu’ainsi, pour l’ensemble des souscriptions intervenues avant juillet 2018, aucune information sur
+support durable n’a été remise au client avant la conclusion du contrat ;
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2019-05
+8. Considérant, tout d’abord, que le reproche formulé par la poursuite ne porte pas, contrairement à ce que
+soutient la société A, sur le principe même de la vente à distance en un temps de contrats d’assurance mais sur
+les modalités de réalisation, par cet intermédiaire, de telles ventes ; que, par ailleurs, l’examen par la
+Commission des faits soumis à son appréciation par le Collège et de la qualification juridique que celui-ci a
+retenue ne s’analyse pas comme l’exercice, par l’ACPR, d’un pouvoir réglementaire, contrairement à ce que
+semble soutenir la défense, mais comme l’exécution, par la Commission, de la mission que le législateur lui a
+confiée ; qu’en l’espèce, la société A ne conteste pas que les prospects sont toujours contactés à son initiative ;
+qu’ainsi que la Commission l’a déjà souligné à plusieurs reprises (décision du 26 février 2018, n° 2017-09 ;
+décision du 15 mai 2019, n° 2018-02), l’intermédiaire ne peut dès lors bénéficier de la dérogation prévue par
+les articles L. 222-6 du code de la consommation et R. 520-2 du code des assurances précités ; que la
+circonstance qu’un client potentiel, qui n’a pas, préalablement à l’appel, manifesté le souhait de souscrire un
+contrat d’assurance par l’entremise de la société A ni même seulement d’être contacté par cet intermédiaire,
+ne mette pas fin à l’échange téléphonique avec le téléconseiller, puis le cas échéant, souscrive un contrat, ne
+saurait à l’évidence, contrairement à ce que soutient la société A, caractériser une « demande » de sa part au
+sens de ces dispositions ; que les personnes ainsi appelées ne font d’ailleurs l’objet d’aucune sélection préalable
+sur des critères autres que la mention de leurs coordonnées dans un annuaire téléphonique et l’absence de leur
+inscription sur la liste d’opposition au démarchage téléphonique ; qu’ainsi, faute de toute initiative du client,
+l’une des deux conditions exigées par la législation n’est pas remplie, de sorte que l’argument selon lequel les
+caractéristiques techniques du démarchage téléphonique pratiqué par la société A feraient obstacle à la
+transmission au client, avant la conclusion du contrat et sur support papier ou sur un autre support durable, des
+informations précontractuelles requises, à le supposer exact, est sans incidence ; qu’enfin, c’est en vain que la
+société A fait valoir que la vente en face à face peut être réalisée en un temps et dans des conditions qui ne sont
+pas plus protectrices du client, les deux modes de vente étant régis par des dispositions légales différentes ;
+9. Considérant ainsi que le grief 1 est établi ;
+II. – Sur l’inexactitude et l’insuffisance des informations
+communiquées
+A. En ce qui concerne les informations orales propres à la vente à distance de
+contrats d’assurance
+10. Considérant, tout d’abord, que le III de l’article L. 112-2-1 du code des assurances énumère les
+informations qui doivent, « en temps utile avant la conclusion à distance d’un contrat d’assurance », être
+communiquées au souscripteur « de manière claire et compréhensible » ; qu’il s’agit de « 1° La dénomination
+de l'entreprise d'assurance contractante, l'adresse de son siège social, lorsque l'entreprise d'assurance est
+inscrite au registre du commerce et des sociétés, son numéro d'immatriculation, les coordonnées de l'autorité
+chargée de son contrôle ainsi que, le cas échéant, l'adresse de la succursale qui propose la couverture ou
+l'identité, l'adresse de l'intermédiaire d'assurance et son numéro d'immatriculation au registre mentionné au I
+de l'article L. 512-1 ; / 2° Le montant total de la prime ou cotisation ou, lorsque ce montant ne peut être
+indiqué, la base de calcul de cette prime ou cotisation permettant au souscripteur de vérifier celle-ci ; / 3° La
+durée minimale du contrat ainsi que les garanties et exclusions prévues par celui-ci ; / 4° La durée pendant
+laquelle les informations fournies sont valables, les modalités de conclusion du contrat et de paiement de la
+prime ou cotisation ainsi que l'indication, le cas échéant, du coût supplémentaire spécifique à l'utilisation
+d'une technique de commercialisation à distance ; 5° L'existence ou l'absence d'un droit à renonciation et, si
+ce droit existe, sa durée, les modalités pratiques de son exercice notamment l'adresse à laquelle la notification
+de la renonciation doit être envoyée. Le souscripteur doit également être informé du montant de prime ou de
+cotisation que l'assureur peut lui réclamer en contrepartie de la prise d'effet de la garantie, à sa demande
+expresse, avant l'expiration du délai de renonciation ; / 6° La loi sur laquelle l'assureur se fonde pour établir
+les relations précontractuelles avec le consommateur ainsi que la loi applicable au contrat et la langue que
+l'assureur s'engage à utiliser, avec l'accord du souscripteur, pendant la durée du contrat ; / 7° Les modalités
+d'examen des réclamations que le souscripteur peut formuler au sujet du contrat et de recours à un processus
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2019-05
+de médiation dans les conditions prévues au titre V du livre Ier du code de la consommation, sans préjudice
+pour lui d'intenter une action en justice ainsi que, le cas échéant, l'existence de fonds de garantie ou d'autres
+mécanismes d'indemnisation. (…) » ;
+11. Considérant, ensuite, que pour l’application de cet article, l’article R. 112-4 du code des assurances
+dispose que, doivent être communiquées au souscripteur « 1° Les modalités de conclusion du contrat et de
+paiement de la prime ou cotisation. / Ces informations, dont le caractère commercial doit apparaître sans
+équivoque, sont fournies de manière claire et compréhensible par tout moyen adapté à la technique de
+commercialisation à distance utilisée. / 2° En cas de communication par téléphonie vocale, le nom de
+l'assureur ainsi que le caractère commercial de l'appel sont indiqués sans équivoque au début de toute
+conversation avec le souscripteur. La personne en contact avec le souscripteur doit en outre préciser son
+identité et son lien avec l'assureur ; / Sous réserve de l'accord formel du souscripteur, seules les informations
+mentionnées aux 2°, 3° et 5° du III de l'article L. 112-1-12-1 doivent lui être communiquées. Il est porté à la
+connaissance du souscripteur que les informations mentionnées aux 1°, 4°, 6° et 7° peuvent lui être fournies
+sur demande. (…) » ; que les dispositions de l’ancien article R. 520-2 du code des assurances, désormais
+reprises, ainsi que cela a déjà été indiqué, à l’article R. 521-2 du même code, prévoyaient que « Toute
+information fournie par un intermédiaire en application de l’article L. 520-1 est communiquée avec clarté et
+exactitude. La communication se fait sur support papier ou tout autre support durable à la disposition du
+souscripteur et auquel celui-ci a facilement accès. / Toutefois, lorsque le souscripteur le demande ou
+lorsqu'une couverture immédiate est nécessaire, les informations peuvent être fournies oralement. Dans ce
+cas, les informations sont fournies sur support papier ou tout autre support durable à la disposition du
+souscripteur et auquel celui-ci a facilement accès, immédiatement après la conclusion du contrat d'assurance.
+/ En cas de commercialisation d’un contrat à distance, les informations précontractuelles fournies au
+souscripteur sont conformes aux dispositions de l’article L. 112-2-1 du code des assurances. / En outre, lorsque
+le contrat a été conclu à la demande du souscripteur en utilisant une technique à distance ne permettant pas
+la transmission des informations sur support papier ou sur un autre support durable, les informations sont
+fournies au souscripteur sur support papier ou tout autre support durable à la disposition du souscripteur et
+auquel celui-ci a facilement accès, immédiatement après la conclusion du contrat d'assurance. » ;
+12. Considérant que, selon le sous-grief 2.1, fondé sur ces dispositions, tout d’abord, (i) dans 75 % des
+enregistrements analysés (15/20), le téléopérateur évoque, comme motif de son appel, une garantie manquante
+dans le contrat du client ou une option non activée donnant droit à un capital de 100 000 euros ou met en avant
+le caractère incomplet du dossier ; que, dans d’autres cas, il est fait mention d’une garantie déjà souscrite
+désactivée par erreur ou encore une modification d’un contrat en cours ; que le script commercial utilisé prévoit
+qu’il dise : « Bonjour, J'suis (Kevin / Emma), de la société B (*1), vous êtes bien Mr/Mme ? / Je suis chargé
+de vous appeler parce qu'apparemment il manque une garantie accidentelle qui n'est pas encore activée et qui
+donne droit à un capital de 100 000 € en cas de décès ou invalidité » ; qu’ensuite, (ii) la société A délivre
+oralement aux clients des informations lacunaires, inexactes ou imprécises ; qu’il ressort ainsi des 20
+enregistrements téléphoniques analysés par la mission de contrôle que ses téléopérateurs ne sollicitent pas
+l’accord du prospect pour être autorisés à limiter la liste des informations communiquées ; que le droit de
+renonciation n’est évoqué, avant la souscription du contrat, que dans 25 % des enregistrements ; que les
+modalités d’examen des réclamations ne sont évoquées que dans 15 % des cas, l’information communiquée
+étant en outre limitée à la fourniture du numéro de « service client » ; que le montant de la prime n’est
+mentionné que dans un seul enregistrement, à la demande du client ; que les modalités de conclusion du contrat,
+notamment la signature par voie électronique grâce à un code envoyé par SMS, ne sont pas clairement
+explicitées dans 90 % des cas, de sorte que les clients n'ont pu avoir conscience de s'engager ; que dans tous
+les dossiers analysés, la société A ne donne aucune information sur l'assureur, la durée du contrat, la loi sur
+laquelle l'assureur se fonde ou encore la langue qu'il s'engage à utiliser ; que de plus, s’agissant des garanties,
+la présentation du produit, lorsqu'elle est faite, ne représente en moyenne que 4 % de la durée de chaque
+entretien avant la souscription ; que dans 20 % des dossiers analysés, l'information délivrée sur le produit est
+inexistante ou de nature à induire en erreur le client ; que les exclusions ne sont jamais évoquées alors même
+que certaines relèvent de situations courantes ; que les informations relatives au montant de la prime et au droit
+de renonciation, pourtant indispensables à l’appréciation des risques couverts et à la délivrance d’un
+consentement éclairé, ne sont dans la quasi-totalité des cas communiquées que postérieurement à l’engagement
+de l’assuré ;
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2019-05
+13. Considérant qu’il ressort du dossier et qu’il n’est pas contesté qu’au moment du contrôle, les
+téléopérateurs de la société A prétextaient l’existence d’une garantie manquante ou non activée dans un contrat
+ou un défaut de protection du prospect qui aurait droit à un capital de 100 000 euros en cas de « décès suite à
+un accident et aussi (…) une indemnité de 1500 € par mois en cas d’incapacité temporaire de travail » ; que,
+par exemple, parmi les enregistrements qui figurent au dossier, il apparaît qu’un téléopérateur a indiqué au
+futur assuré : « alors moi je vous appelle parce que euuh je traite les dossiers incomplets, vous vous avez votre
+mutuelle vous avez l’assurance sauf qu’au niveau de l’assurance c’est pas activé, on va vous envoyer du
+courrier » (enregistrement n° 3) ou « je vous appelle parce qu’apparemment il manquait une garantie
+accidentelle qui n’est pas encore activée sur votre dossier » (enregistrement n° 12) ; que, dans la suite de
+l’échange téléphonique, des informations sur, notamment, les modalités de souscription et de résiliation du
+contrat, les tarifs ainsi que les garanties et exclusions, n’étaient pas communiquées avant la souscription du
+contrat ; que, si la société A admet seulement « certaines lacunes sur les informations orales et écrites », les
+carences en matière d’information sur le fonctionnement du contrat, son contenu et les droits des clients étaient
+en réalité massives puisqu’elles trouvaient leur origine dans le script élaboré par l’entreprise ; qu’elles
+affectaient gravement la clarté ou l’exactitude des informations communiquées au prospect ; que le sous-grief
+2.1 est donc établi ;
+B. En ce qui concerne les informations écrites propres à l’intermédiation en
+assurance
+14. Considérant qu’aux termes du I de l’ancien article L. 520-1, avant la conclusion d’un premier contrat
+d’assurance, l’intermédiaire d’assurance « doit fournir au souscripteur éventuel des informations relatives
+notamment à son identité, à son immatriculation et aux procédures de recours et de réclamation, ainsi que, le
+cas échéant, à l'existence de liens financiers avec une ou plusieurs entreprises d'assurance. » ; que ces
+dispositions figurent désormais à article L. 521-2 de ce code ; que l’ancien article R. 520-1 (I du nouvel article
+R. 521-1) précise les informations le concernant ; que l’intermédiaire d’assurance doit alors fournir au
+souscripteur éventuel ; qu’il s’agit notamment de son nom ou dénomination sociale, de son immatriculation
+ainsi que, de ses liens capitalistiques et commerciaux avec des entreprises d’assurances ; que le II de l’ancien
+article L. 520-1 (II du nouvel article L. 521-2) du code des assurances prévoit qu’« avant la conclusion de tout
+contrat », l’intermédiaire d’assurance doit préciser les conditions dans lesquelles les contrats sont
+commercialisés et, notamment, indiquer s’il travaille exclusivement avec une ou plusieurs entreprises
+d’assurance ou s’il procède à une analyse du marché ; que les dispositions de l’ancien article R. 520-2 (nouvel
+article R. 521-2) de ce code imposent aux intermédiaires d’assurance que toute information communiquée au
+souscripteur le soit « avec clarté et exactitude » et précisent que la communication doit se faire « sur support
+papier ou tout autre support durable à la disposition du souscripteur et auquel celui-ci a facilement accès » ;
+qu’elles prévoient également qu’« En cas de commercialisation d’un contrat à distance, les informations
+précontractuelles fournies au souscripteur sont conformes aux dispositions de l’article L. 112-2-1 du code des
+assurances. […] » ; que l’ancien article R. 520-3 du même code (nouvel article R. 521-4) prévoit en outre que
+« Toute correspondance ou publicité, quel qu’en soit le support, émanant d’un intermédiaire agissant en cette
+qualité doit indiquer son nom ou sa dénomination sociale, son adresse professionnelle et son numéro
+d’immatriculation d’intermédiaire » ;
+15. Considérant que, selon le sous-grief 2.2, fondé sur ces dispositions, l’information donnée au client ne
+lui permet pas d’identifier son interlocuteur dans 40 % des dossiers analysés ; qu’ainsi que cela a été indiqué
+(cf. supra l’extrait du script au considérant 13), le téléopérateur se présente comme agissant pour le compte de
+« la société B » et non de la société A ; que le numéro d’immatriculation ORIAS n’est communiqué que dans
+un enregistrement sur les 20 examinés ; que par ailleurs, le degré d’indépendance de la société A vis-à-vis des
+entreprises d’assurance dont elle commercialise les contrats n’est jamais indiqué au client ; qu’enfin, les
+documents de correspondance de la société A ne sont pas entièrement conformes aux exigences de l’ancien
+article R. 520-3 du code des assurances, faute de comporter l’ensemble des mentions réglementaires ; qu’en
+effet, le mandat de courtage et le courrier de confirmation de la demande d’adhésion utilisés par la société A
+n’indiquent ni son numéro ORIAS, ni son adresse ;
+16. Considérant qu’il n’est pas contesté que dans 40 % des dossiers analysés, le téléopérateur indiquait qu’il
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2019-05
+appelait en tant que salarié de « la société B », dénomination induisant en erreur, dès lors que la société A, pour
+qui travaillent les téléopérateurs, n’a pas de lien avec le monde mutualiste ; qu’ensuite, la documentation
+remise après la souscription n’indiquait alors ni le numéro ORIAS de la société A, ni son adresse, ni si cette
+société avait conclu un partenariat avec un ou plusieurs assureurs ou si elle procédait à une analyse objective
+du marché ; que les autres carences relevées par la mission de contrôle au titre de ce grief sont également
+admises par la société A ; que le sous-grief 2.2 est donc établi ;
+17. Considérant ainsi que le grief 2 est établi dans tous ses éléments ;
+III. – Sur le non-respect du devoir de conseil qui incombe à
+l’intermédiaire
+18. Considérant qu’aux termes du II de l’ancien article L. 520-1 du code des assurances (I du nouvel article
+L. 521-4 du même code), « avant la conclusion de tout contrat d’assurance, l’intermédiaire doit : (…) 2o
+préciser les exigences et les besoins du souscripteur éventuel ainsi que les raisons qui motivent le conseil
+fourni quant à un produit d’assurance déterminé. Ces précisions, qui reposent en particulier sur les éléments
+d’information communiqués par le souscripteur éventuel, sont adaptés à la complexité du contrat d’assurance
+proposé » ; que le III de l’article L. 520-1 renvoie à l’article L. 132-27-1 de ce code, aux termes duquel, « I.
+- Avant la conclusion d’un contrat d’assurance individuel comportant des valeurs de rachat, d’un contrat de
+capitalisation, ou avant l’adhésion à un contrat mentionné à l’article L. 132-5-3 ou à l’article L. 441-1,
+l’entreprise d’assurance ou de capitalisation précise les exigences et les besoins exprimés par le souscripteur
+ou l’adhérent ainsi que les raisons qui motivent le conseil fourni quant à un contrat déterminé. Ces précisions,
+qui reposent en particulier sur les éléments d’information communiqués par le souscripteur ou l’adhérent
+concernant sa situation financière et ses objectifs de souscription, sont adaptées à la complexité du contrat
+d’assurance ou de capitalisation proposé. / Pour l’application du premier alinéa, l’entreprise d’assurance ou
+de capitalisation s’enquiert auprès du souscripteur ou de l’adhérent de ses connaissances et de son expérience
+en matière financière. / Lorsque le souscripteur ou l’adhérent ne donne pas les informations mentionnées aux
+premier et deuxième alinéas, l’entreprise d’assurance ou de capitalisation le met en garde préalablement à la
+conclusion du contrat (…) » ; qu’ainsi que cela a été indiqué, les dispositions de l’ancien article R. 520-2
+(nouveaux articles L. 521-6 et R. 521-2) du même code imposent également que toute l’information due par
+l’intermédiaire d’assurance en vertu de l’ancien article L. 520-1 (nouvel article L. 521-4) de ce code soit
+communiquée au souscripteur par écrit, avec clarté et exactitude, sur support papier ou tout autre support
+durable à sa disposition et auquel il a facilement accès ;
+A. En ce qui concerne le recueil et la précision des exigences et besoins du client
+19. Considérant que, selon le sous-grief 3.1, fondé sur ces dispositions, le recueil, par la société A, des
+exigences et besoins du client lors du démarchage téléphonique est insuffisant ; qu’il ressort de l’écoute de 20
+enregistrements téléphoniques entre un téléopérateur et un prospect que, tout d’abord, (i), les clients ne sont
+interrogés ni sur la détention d’un contrat similaire, y compris lorsqu’ils en signalent l’existence, ni sur leur
+situation financière, même lorsque des difficultés à ce sujet sont spontanément évoquées ; que dans 25 % des
+enregistrements analysés, bien que les clients aient été dans une situation de fragilité financière (chômeur,
+étudiant), aucune question n’a été posée pour s’assurer qu’ils pourraient payer la prime ; que, par exemple,
+dans l’enregistrement n° 12, la souscription a été menée à son terme alors que la cliente avait déclaré : « Là
+vous êtes en train de me mettre le couteau sous la gorge, là je vous dis que non. Moi je suis toute seule avec
+une gamine, je ne peux pas me mettre, permettre de faire d'autres euh des versements excessifs, euh en plus de
+ce que je fais d'habitude » ; qu’aucune question n’est posée sur la nature exacte de l’emploi des prospects,
+alors que les contrats [C1]et [C3] comportent des exclusions de garantie pour certaines professions tels que
+policier ou gendarme, pour le premier, métiers à risque impliquant un travail sous l’eau, en haute montagne ou
+en mer, pour le second ; que, de même, le client n’est pas interrogé sur ses pratiques sportives ou sur ses
+habitudes de transport, alors que tous les contrats proposés comportent des exclusions concernant la pratique
+de certains sports, tels la plongée ou le rafting et la pratique du deux-roues ; (ii) qu’ensuite, les exigences et
+besoins des clients sont retranscrits de manière très lacunaire, puisque seule figure l’identité du bénéficiaire en
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2019-05
+cas de décès du souscripteur dans la rubrique « vos besoins et exigences » de la fiche d’information et de
+conseil, qui au demeurant, n’est transmise qu’après la souscription du contrat ;
+20. Considérant que la société A, qui ne conteste pas les faits reprochés, admet qu’il existait à l’époque
+certaines lacunes en matière de respect du devoir de conseil mais sans que puisse en être déduite une volonté
+manifeste de se soustraire à ses obligations ou de tromper le client ; que toutefois, les carences constatées
+montrent une insuffisance d’une particulière gravité quant au recueil des exigences et besoins du client ; que
+les actions correctrices présentées, postérieures au contrôle sur place, sont sans incidence sur le sous-grief 3.1
+qui est établi ;
+B. En ce qui concerne la motivation du conseil
+21. Considérant que, selon, le sous-grief 3.2, fondé sur les dispositions ci-dessus rappelées des anciens
+articles L. 520-1 et R. 520-2 du code des assurances (nouveaux articles L. 521-4, L. 521-6 et R. 521-2,
+respectivement) (cf. supra, considérant 18), les raisons qui motivent le choix du contrat proposé ne sont
+précisées ni avant la souscription, lors du démarchage téléphonique, ni après, lors de l’envoi de la fiche
+d’information et de conseil ;
+22. Considérant ainsi, tout d’abord, que la poursuite reproche à la société A que, lors du démarchage
+téléphonique, dans 22 des 24 souscriptions analysées par la mission de contrôle, la formule la plus onéreuse
+du contrat a été attribuée au client, sans que les raisons motivant ce choix aient été évoquées par les
+téléopérateurs ; que d’ailleurs, dans 90 % des dossiers analysés, les téléopérateurs n’évoquent pas l’existence
+de différentes formules ; que dans l’un des deux seuls enregistrements où la pluralité de formules est évoquée,
+le client est invité à étudier lui-même les différentes options et, le cas échéant, à changer de formule
+ultérieurement ; que dans deux des 8 dossiers de souscription au contrat [C1] (enregistrements n° 14 et 20)
+comportant une garantie ITT, le téléopérateur ne s’est pas assuré que le souscripteur était actuellement en
+activité, condition pour qu’il puisse bénéficier de cette garantie ; que dans deux autres cas (enregistrements
+n° 13 et 19), les souscripteurs ont indiqué être en invalidité ou en arrêt de travail de longue durée, sans être
+informés de ce qu’ils n’étaient pas couverts au titre des sinistres en cours ; qu’au contraire, dans l’un de ces
+enregistrements, il a été indiqué à tort au client qu’il pourrait bénéficier de la garantie au titre de l’invalidité
+en cours : « Ah, d’accord, écoutez Madame, entre nous il n’y a aucun test médical, ni questionnaire de santé
+à remplir pour bénéficier des indemnités de santé, donc si ça vous tente, je peux bien sûr vous faire le contrat,
+vous l’envoyer et vous allez commencer à toucher vos indemnités, qu’est-ce que vous en
+dites? » (enregistrement n° 19) ;
+23. Considérant ensuite que, s’agissant de la formalisation de la motivation du conseil, dans 22 des 24
+souscriptions analysées, la rubrique « notre conseil » de la fiche d’information et de conseil comportait, selon
+la poursuite, la phrase-type suivante : « Votre présente Demande d'adhésion est issue du devis réf: DXXXXX ;
+Nous vous préconisons une garantie de niveau X [niveau le plus élevé], seule assurance d'un capital maximal.
+Conformément à notre préconisation vous avez opté pour une garantie de niveau X » ; que, pour les deux
+souscriptions restantes, la mention porte sur la fiche est la suivante : « Votre présente Demande d'adhésion est
+issue du devis réf: DXXXXX; Nous vous préconisons une garantie de niveau 5, seule assurance d'un capital
+maximal. Contrairement à notre préconisation, vous avez opté pour une garantie de niveau Y [niveau souscrit
+par le client] » ; que, dans tous les cas, l’octroi d’un capital maximal est la seule raison qui motive la
+proposition, aucun lien n’étant fait avec la situation personnelle du client et ses besoins, ce qui ne lui permet
+pas de comprendre en quoi la proposition qui lui est faite est adaptée à sa situation ;
+24. Considérant que ces constatations ne sont pas contestées ; que la proposition systématique de la formule
+du contrat la plus onéreuse et l’absence d’information sur les différentes formules possibles, de même que le
+défaut de communication d’informations exactes sur l’inapplicabilité de garanties aux sinistres en cours,
+constituent des manquements d’une particulière gravité ; que, s’agissant de la formalisation des raisons
+motivant le conseil fourni, l’utilisation de formules standardisées non complétées par des informations
+complémentaires propres aux clients ne permet pas, ainsi que la Commission l’a déjà souligné (décision du 22
+décembre 2016, procédure n° 2015-09), d’apprécier correctement l’adéquation entre le besoin identifié du
+souscripteur et le contrat proposé ; que le sous-grief 3.2 est établi ;
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2019-05
+25. Considérant ainsi que le grief 3 est établi dans tous ses éléments ;
+*
+* *
+26. Considérant que la société A fait valoir que les enregistrements d’échanges téléphoniques sur lesquels
+s’appuie la poursuite sont en nombre trop restreint pour être probants et qu’une part importante des contrats
+conclus à leur suite a été infirmée ou annulée ; qu’elle a produit à l’audience un document d’où il ressort que
+sur l’échantillon de 20 clients ayant conclu 24 contrats, 13 de ces contrats seraient demeurés sans effet à la
+suite de l’intervention du contrôle qualité de la société A puis du courtier B, 4 auraient été résiliés et 3 seulement
+seraient toujours en cours ; que, plus généralement, sur les 3 655 contrats conclus au premier semestre 2018
+par ses téléconseillers, 1 650 auraient été annulés par le contrôle qualité et 1 073 auraient été rejetés ou résiliés,
+si bien que le nombre net ne serait que de 932 contrats, soit environ le quart de ceux qui avaient été initialement
+conclus ; qu’elle affirme en outre que si un client demande, plusieurs mois après la signature de son contrat, le
+remboursement des primes versées, il lui arrive de faire droit à cette demande si le client a des difficultés
+financières ;
+27. Considérant, cependant, que les reproches adressés par la poursuite à la société A portent sur les
+méthodes de vente à distance employées et les diligences faites avant la conclusion de contrats d’assurance ;
+qu’en conséquence, ne sont pas déterminants, pour apprécier si les griefs sont établis et quelle est leur gravité,
+les circonstances postérieures au démarchage et, le cas échéant, à la conclusion du contrat par le téléopérateur
+et le client ; qu’au demeurant, la pièce produite à l’audience à ce sujet mentionne des données qui ne sont
+étayées par aucun justificatif, alors même que la société A a eu la possibilité de présenter toute observation
+qu’elle estimait utile lors de l’instruction préalable de ce dossier ; que le rapport de contrôle précisait, sans
+avoir été contesté sur ce point jusqu’à l’audience, que l’échantillon examiné avait été constitué à partir
+d’enregistrements exploitables fournis par la société A comme « ayant trait à des souscriptions qualifiées par
+les cellules qualité de la société A et du courtier B » ; que cet échantillon, pour être réduit, n’en illustre pas
+moins les méthodes et pratiques de cet intermédiaire ; qu’enfin, aucune pièce du dossier de procédure ne vient
+étayer l’affirmation selon laquelle la société A, sensible à la situation des intéressés, aurait remboursé, au-delà
+de la période de rétractation, des primes payées par des clients demandant la résiliation de leur contrat ;
+28. Considérant, par ailleurs, que la société A a indiqué publiquement avant l’audience puis au cours de
+celle-ci qu’un nouveau contrôle sur place était en cours, qui se déroulait notamment dans les locaux de sa
+succursale marocaine, et a mentionné l’existence d’une procédure engagée par l’ACPR pouvant aboutir au
+prononcé d’une mesure de police administrative à son encontre ; que ces éléments sont toutefois sans incidence
+sur la présente procédure disciplinaire, qui porte sur les faits constatés au moment du contrôle sur
+place effectué courant 2018 ;
+*
+* *
+29. Considérant qu’il résulte de ce qui précède qu’aucun des clients dont le dossier a été examiné par la
+mission de contrôle n’a pu, préalablement à la conclusion d’un contrat proposé par la société A, prendre
+connaissance, sur support durable, des informations précontractuelles qui auraient dû lui être communiquées ;
+que, comme le confirment la plupart des enregistrements produits au dossier, les prospects ainsi contactés,
+disponibles pour répondre à un appel non annoncé d’un téléopérateur, sont susceptibles d’appartenir à une
+catégorie vulnérable de la population en raison de leur situation professionnelle, de leurs revenus, de leur âge
+ou de leur niveau de connaissances en matière de contrats d’assurance (grief 1) ; que ces clients ne savaient
+pas toujours par quel organisme ils étaient contactés et ignoraient le motif commercial de l’appel ; qu’ils ne
+savaient pas non plus précisément à quel moment et selon quelles modalités il leur était proposé de souscrire
+un nouveau contrat d’assurance et, avant souscription, ne disposaient pas d’informations essentielles que la
+société A avait pourtant l’obligation de leur communiquer (grief 2) ; qu’au moment du contrôle, la société A
+manquait gravement à son devoir de conseil, en ne recherchant pas d’informations sur l’existence d’autres
+contrats en cours comportant des garanties analogues à celles proposées, en ne tenant compte ni de la situation
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2019-05
+financière du prospect, y compris lorsque celui-ci signalait des difficultés, ni d’éléments d’où il pouvait résulter
+des exclusions de garantie, en indiquant à tort à certains clients qu’ils pourraient bénéficier de garanties au titre
+d’une invalidité en cours, ou encore, dans la quasi-totalité des dossiers examinés par la mission de contrôle, en
+faisant souscrire au client la formule la plus onéreuse du contrat (grief 3) ; que si la société A soutient que les
+lacunes reprochées au titre de ces deux derniers griefs provenaient d'une méconnaissance de l'ensemble des
+exigences réglementaires et non d'une volonté manifeste de s'y soustraire, ou de duper le client, il appartient à
+un intermédiaire d’assurance de connaître les dispositions qu’il est tenu d’appliquer ; que, de plus, ainsi qu’il
+a été dit, ces lacunes trouvaient pour une large part leur origine dans le script élaboré par la société A, qui était
+suivi par ses salariés avec seulement quelques variations non substantielles dans l’expression ; que la relative
+simplicité des garanties proposée par la société A de même que la relative modicité des primes mensuelles
+afférentes à ces garanties ne conduisent pas à relativiser les graves défaillances constatées au titre de ces 3
+griefs, d’autant que la Commission, ainsi qu’il a également été dit, a déjà eu l’occasion de sanctionner des
+manquements similaires dans la commercialisation à distance de contrats d’assurance (cf. la décision du 26
+février 2018, procédure n° 2017-09) ;
+30. Considérant que la société A fait valoir les actions correctrices engagées depuis le contrôle, qui lui
+permettraient de respecter maintenant ses obligations lors de la commercialisation de nouveaux contrats ; qu’en
+particulier, elle indique que, désormais, les contrats commercialisés par son intermédiaire sont vendus en deux
+temps ; que, de plus, les informations précontractuelles seraient communiquées sur support durable avant la
+conclusion du contrat ; que son script de vente a été modifié ; que toutefois, les mesures présentées, dont la
+Commission ne peut apprécier totalement l’effectivité, paraissent tardives ; qu’ainsi, le représentant du Collège
+a indiqué, sans être démenti par la société la société A, que le nouveau script de vente avait été mis en œuvre
+en décembre 2019 seulement ; qu’il résulte d’un enregistrement d’une conversation récente entre un prospect
+et un téléopérateur produit par la poursuite que de graves lacunes persistent ;
+31. Considérant que si la société A soutient que le prononcé d’une interdiction de commercialiser des
+contrats d’assurance pendant deux mois entraînerait la cessation définitive de son activité en raison de l’impact
+de cette mesure sur son chiffre d’affaires et sa trésorerie, une telle interdiction ne présente pas, compte tenu de
+la gravité des manquements constatés et au vu des éléments dont la Commission dispose sur la situation de
+cette société, un caractère disproportionné ; qu’une telle interruption d’activité pourra être mise à profit par la
+société A pour réviser ses procédures de commercialisation afin de se conformer à toutes ses obligations légales
+en matière d’information et de conseil du client ; que pour les mêmes raisons, un blâme sera également
+prononcé ; que la publication de la présente décision sous une forme nominative ne paraît pas non plus
+susceptible de causer à la société A un préjudice disproportionné ; qu’il y a donc lieu de la publier sous cette
+forme pendant 5 ans ;
+*
+* *
+Autorité de contrôle prudentiel et de résolution 10
+
+===== Page 11 =====
+Décision de la Commission des sanctions – procédure no 2019-05
+PAR CES MOTIFS
+DÉCIDE :
+ARTICLE 1ER – Il est prononcé à l’encontre de la société la société A un blâme et une interdiction de
+commercialiser pendant deux mois des contrats d’assurance, directement ou par le biais d’une succursale en
+France ou à l’étranger ou de toute personne mandatée à cet effet.
+ARTICLE 2 – La présente décision sera publiée au registre de l’ACPR, pendant 5 ans sous une forme
+nominative puis sous une forme anonyme, et pourra être consultée au secrétariat de la Commission.
+Le Président de la Commission
+des sanctions
+[Rémi Bouchez]
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification et
+dans les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 11

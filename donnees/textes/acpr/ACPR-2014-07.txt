@@ -1,0 +1,934 @@
+===== Page 1 =====
+GENERALI VIE
+Procédure no 2014-07
+–––––
+Blâme et sanction pécuniaire
+de 5 millions d’euros
+–––––
+Audience du 3 juillet 2015
+Décision rendue le 24 juillet 2015
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 29 juillet 2014 par laquelle le Président de l’Autorité de contrôle prudentiel et de résolution
+(ci-après l’ACPR) informe la Commission de ce que le Collège de supervision de l’ACPR (ci-après le
+Collège), statuant en sous-collège sectoriel de l’assurance, a décidé, lors de sa séance du 10 juillet 2014,
+d’ouvrir une procédure disciplinaire à l’encontre de la société Generali Vie, ayant son siège social
+11 boulevard Haussmann, enregistrée sous le numéro 2014-07 ;
+Vu la notification de griefs du 29 juillet 2014 ;
+Vu les mémoires en défense des 14 octobre 2014, 29 janvier 2015 et 17 avril 2015, ainsi que les pièces
+qui les accompagnent, par lesquels Generali Vie soutient (i) que les agents de la mission de contrôle ont
+méconnu les droits de la défense et manqué à leurs devoirs de loyauté, de neutralité et d’impartialité, si bien
+que la nullité de la procédure s’impose, (ii) à titre subsidiaire, que plusieurs griefs sont dépourvus de base
+légale, en violation du principe de légalité des délits et des peines, et (iii) à titre infiniment subsidiaire, que
+certains griefs sont mal fondés en fait comme en droit ;
+Vu les mémoires des 22 décembre 2014 et 5 mars 2015, par lesquels M. Jean-Louis Faure, représentant le
+Collège, estime que les exceptions de procédure soulevées doivent être écartées et maintient l’ensemble des
+griefs notifiés ;
+Vu le rapport du 28 mai 2015 de M. Jean-Pierre Jouguelet, rapporteur, dans lequel celui-ci conclut que les
+exceptions soulevées sur les conditions du déroulement de la mission de contrôle sur place, qui auraient vicié
+la procédure dans son ensemble, ne sont pas fondées, tandis que l’exception tirée de la violation du principe
+de légalité des délits et des peines, qui selon l’entreprise devrait conduire à écarter les griefs 1, 2, 8 et 12, doit
+elle-même être rejetée en ce qu’elle concerne les griefs 1 et 2, mais doit au contraire être retenue en ce
+qu’elle concerne les griefs 8 et 12 ; que par ailleurs, sont fondés, dans leur périmètre initial, les griefs 1 et 2,
+4 à 7 et 9 à 11, et que sont également fondés, dans un périmètre réduit, les griefs 3, 8 et 12 ;
+Vu les courriers du 29 mai 2015 convoquant les parties à la séance de la Commission du 3 juillet 2015 et
+les informant de la composition de celle-ci lors de cette séance ;
+Vu les observations présentées le 15 juin 2015 par Generali Vie sur le rapport du rapporteur ;
+Vu les observations présentées le 22 juin 2015 par le représentant du Collège sur le rapport du
+rapporteur ;
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2014-07
+Vu les observations présentées le 30 juin 2015 par Generali Vie ;
+Vu les autres pièces du dossier, notamment le rapport de contrôle signé le 28 mai 2014 par M. Patrick
+Garrouste, responsable de mission ;
+Vu l’article 6 de la convention européenne de sauvegarde des droits de l’homme et des libertés
+fondamentales (ci-après CESDHLF) ;
+Vu le code monétaire et financier (ci-après le CMF), notamment ses articles L. 612-39 et R. 612-35 à
+R. 612-51 et L. 561-6, L. 561-10-2, L. 561-15, L. 561-16, R. 561-5, R. 561-7, R. 561-11, R. 561-12, R. 561-
+20 et R. 561-31, dans leur rédaction en vigueur au moment des faits ;
+Vu le code des assurances, notamment son article A. 310-8 ;
+Vu l’ordonnance no 2009-104 du 30 janvier 2009 relative à la prévention de l’utilisation du système
+financier aux fins de blanchiment de capitaux et de financement du terrorisme (ci-après l’ordonnance
+no 2009-104), notamment son article 19 ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACPR, composée de M. Rémi Bouchez, Président, Mme Claudie
+Aldigé, M. Christian Lajoie, Mme Christine Meyer-Meuret et Mme Elisabeth Pauly ;
+Après avoir décidé de faire droit à la demande de l’établissement tendant à ce que l’audience ne soit pas
+publique et entendu, lors de sa séance du 3 juillet 2015 :
+- M. Jouguelet, rapporteur, assisté de Mme Aline Waleffe, son adjointe ;
+- M. Laurent Bornia, représentant du directeur général du Trésor, qui a indiqué ne pas avoir d’observations
+à formuler ;
+- M. Faure, représentant le Collège de l’ACPR, assisté de Mme Anne-Marie Moulin, adjointe au directeur
+des affaires juridiques de l’ACPR, de Mme Pauline de la Bouillerie, M. Fabrice Jeanne, M. Guillaume
+Mathey, cadres au sein de cette direction, de M. Grégoire Vuarlot, adjoint au directeur des contrôles
+spécialisés et transversaux, de M. Patrick Garrouste, chef du service du contrôle des dispositifs anti-
+blanchiment, et de M. Clément Grospiron, son adjoint ; M. Faure a proposé le prononcé d’un blâme
+assorti d’une sanction pécuniaire de 5 millions d’euros, dans une décision publiée sous une forme
+nominative ;
+- Le directeur général de Generali Vie, assisté du directeur général délégué, du secrétaire général et
+directeur juridique, de la directrice de la conformité et du responsable de la sécurité financière et membre
+de la direction de la conformité de Generali Vie, assistés de Mes Kiril Bougartchev, Marc Perrone et
+Ngoc-Hong Ma, avocats à la Cour (Linklaters LLP) ;
+Les représentants de Generali Vie ayant eu la parole en dernier ;
+Après avoir délibéré en la seule présence de MM. Bouchez, Mme Aldigé, M. Lajoie, Mme Meyer-Meuret et
+Mme Pauly, ainsi que de M. Jean-Manuel Clemmer, chef du service de la Commission des sanctions faisant
+fonction de secrétaire de séance ;
+1. Considérant que Generali Vie, filiale à 99,99 % du groupe Generali France Assurances, deuxième
+assureur généraliste en France qui fait lui-même partie du groupe italien Assicurazioni Generali S.P.A., porte
+l’ensemble des contrats d’assurance de personnes (vie, retraite et prévoyance) dudit groupe sur le territoire
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2014-07
+français, à l’exception des contrats souscrits via Internet ; qu’en 2014, le résultat net de Generali Vie s’est
+élevé à 110 millions d’euros ; qu’au terme de cet exercice, elle disposait de 3 milliards d’euros de fonds
+propres ; qu’à la date du contrôle, l’activité d’épargne individuelle était exercée par plusieurs unités
+fonctionnelles, Generali Gestion Privée (ci-après GGP), qui était une direction jusqu’au départ de son
+responsable en juillet 2012 (1 milliard d’euros de collecte brute sur les 9 premiers mois de 2012), la direction
+de l’épargne et du patrimoine (ci-après DEP), qui gérait alors un portefeuille de 490 000 clients de
+patrimoine moyen ou élevé et réalisait environ 55 % du chiffre d’affaires de Generali Vie, et, enfin, la
+direction des opérations d’assurance (ci-après DOA), qui gérait les autres clients et, en particulier, ceux des
+réseaux salariés et des agences de Generali Vie ;
+2. Considérant que Generali Vie a fait l’objet d’un contrôle sur place du 27 septembre 2012 au
+1er juillet 2013, qui a donné lieu à la signature d’un rapport définitif le 28 mai 2014 (ci-après le rapport de
+contrôle); qu’au vu de ce rapport, le Collège de l’ACPR, statuant en sous-collège sectoriel de l’assurance, a
+décidé, lors de sa séance du 10 juillet 2014, d’ouvrir la présente procédure disciplinaire ;
+Questions générales et exceptions de procédure
+I. Sur le respect des droits de la défense
+1. Sur le principe du respect des droits de la défense
+avant l’ouverture d’une procédure disciplinaire
+3. Considérant que Generali Vie soutient qu’ainsi que la Cour de cassation l’a jugé, l’obligation
+d’assurer l’exercice des droits de la défense au sens de l’article 6 de la CESDHLF, auquel la Commission est
+soumise dès lors qu’elle décide du bien-fondé d’accusations en matière pénale, « doit être respectée dès le
+stade de l’enquête préalable [diligentée par une autorité administrative indépendante] » [Crim., 25 juin 2014,
+no 13-81471] ; que cette décision s’inscrit dans la droite ligne de la jurisprudence de la Cour européenne des
+droits de l’homme (ci-après CEDH) [24 novembre 1993, no 13972/88, Imbrioscia c/ Suisse ; 27 novembre
+2008, no 36391/02, Salduz c/ Turquie ; 6 janvier 2010, no 74181/01, Vera Fernandez-Huidobro c/ Espagne]
+qui, dans un arrêt du 30 septembre 2011 [no 25041/07, Messier c/ France], a vérifié in concreto que
+l’enquête diligentée par l’Autorité des marchés financiers n’avait pas porté atteinte aux droits de la défense
+du mis en cause ;
+4. Considérant, cependant, qu’ainsi que la Commission l’a rappelé dans sa décision Arca Patrimoine du
+18 juin 2013, la CEDH a estimé, dans ses arrêts du 21 septembre 1994 (Fayed c/ Royaume-Uni) et du
+17 décembre 1996 (Saunders c/ Royaume-Uni), le fait d’assujettir aux garanties d’une procédure judiciaire
+une enquête administrative préparatoire, visant seulement à établir et consigner des faits susceptibles de
+servir de base à une action répressive ultérieure devant d’autres autorités compétentes, gênerait indûment la
+réglementation efficace, dans l’intérêt public, d’activités financières et commerciales complexes ; que, selon
+la jurisprudence du Conseil d’État (CE, 15 mai 2013, Alternative Leaders France, nos 356054 et 359477 ; 12
+juin 2013, Société Générale et autres, no 359245 ; 15 décembre 2014, Banque Populaire Côte d’Azur,
+no 366640), rappelée à plusieurs reprises par la Commission (cf. décisions des 18 juin 2013, 25 novembre
+2013 et 7 avril 2014), le respect du principe des droits de la défense ne s’impose qu’à compter de la
+notification des griefs, tandis que les contrôleurs ne sont tenus que par un devoir de loyauté et d’impartialité ;
+qu’ainsi, en ce qui concerne la phase antérieure à sa saisine, il n’appartient à la Commission que d’examiner
+s’il résulte des circonstances dans lesquelles a été réalisé un contrôle sur place une atteinte irrémédiable aux
+droits de la défense ; que dès lors, c’est à tort que Generali Vie soutient qu’indépendamment d’une telle
+atteinte, le non-respect des droits de la défense lors d’un contrôle de l’ACPR est susceptible de porter atteinte
+à la régularité de la procédure disciplinaire ensuite engagée ;
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2014-07
+2. Sur la méconnaissance alléguée, par les agents de l’ACPR, des droits
+de la défense et de leurs devoirs de loyauté, de neutralité et d’impartialité
+5. Considérant que Generali Vie soutient que les agents de la mission de contrôle ont commis plusieurs
+manquements en ce domaine, qui ont vicié dès l’origine la procédure et entaché de nullité la décision
+d’ouverture de la procédure par le Collège et, partant, la mise en cause de l’entreprise au plan disciplinaire ;
+(1) qu’ainsi, le chef de mission a, au cours d’un entretien donné à un journal économique et financier
+français le 19 octobre 2012, lorsqu’a débuté la mission de contrôle, « pointé du doigt » les modalités du
+respect par les organismes d’assurance de leurs obligations en matière de lutte contre le blanchiment des
+capitaux et le financement du terrorisme (ci-après LCB-FT) ; que ces propos constituent un pré-jugement de
+culpabilité à l’égard des organismes susvisés et ne sont pas conformes au devoir d’impartialité qui s’impose
+aux agents de l’ACPR [CE, 30 décembre 2010, M6, no 338273] ; qu’ils étaient, du fait de « sa vision pour le
+moins critique et orientée des dispositifs LCB/FT des organismes d’assurance », « à tout le moins de nature
+à nourrir un doute légitime quant à l’impartialité des contrôleurs » ; (2) qu’elle n’a pas, dès le stade du
+contrôle, reçu d’informations sur la cause de l’accusation portée contre elle, le projet de rapport pas plus que
+le rapport définitif ne mentionnant « l’ensemble des textes comme la jurisprudence fondant leurs griefs » ;
+(3) qu’elle n’a pas disposé d’un délai suffisant pour préparer ses observations en défense dans le cadre de la
+mission de contrôle, dont les agents se sont octroyé en revanche des délais conséquents pour rédiger le projet
+de rapport puis le finaliser ; (4) que ces agents n’ont pas respecté le principe du contradictoire, en
+développant une argumentation exclusivement à charge et en ignorant l’argumentation factuelle ou juridique
+qu’elle a présentée à l’égard de plusieurs observations du rapport, argumentation qui aurait dû conduire le
+Collège, mieux informé sur l’ensemble des mesures prises, à décider de formuler de simples
+recommandations plutôt que d’ouvrir une procédure disciplinaire ; (5) qu’en l’absence de procès-verbaux
+établis par les agents de la mission de contrôle, qui ont eu accès à un grand nombre d’informations extraites
+des systèmes de gestion et de surveillance de l’entreprise et ont eu des entretiens informels avec plusieurs de
+ses collaborateurs, elle n’a pu être placée sur un pied d’égalité avec les contrôleurs ni exercer ses droits ;
+6. Considérant cependant (1) que les remarques du chef de mission, tenues lors de la conférence du
+contrôle de l’ACPR du 19 octobre 2012 en sa qualité de chef du service des contrôles des dispositifs anti-
+blanchiment, avaient une portée générale et ne comportaient pas d’appréciation se rapportant à un
+établissement en particulier ; qu’il ne saurait donc en être déduit un quelconque manquement à
+l’impartialité ; (2) que, la détermination des faits reprochés et leur qualification dans le cadre d’une
+procédure disciplinaire relevant de la compétence du Collège, les agents chargés d’un contrôle sur place ne
+peuvent aviser un établissement qui sera, le cas échéant, mis en cause, des manquements qui lui seront alors
+notifiés ; qu’au stade de l’examen de la situation d’un établissement à la suite d’un contrôle sur place, le
+Collège n’est pas tenu par les observations contenues dans le rapport de contrôle ; (3) que, quelle que puisse
+être l’appréciation sur le délai laissé à un établissement pour prendre connaissance d’un document de travail
+servant de base à une présentation des principales observations de la mission lors la séance de reddition, sa
+brièveté ne peut constituer une atteinte irrémédiable aux droits de la défense dès lors que cet établissement a
+pu ultérieurement disposer des délais suffisants pour présenter ses observations en défense ; (4) qu’il en est
+de même de l’absence de réponse des contrôleurs à chacune des observations de Generali Vie sur le projet de
+rapport, dès lors que l’établissement peut ensuite, devant la Commission, rétablir une présentation des faits
+qui lui paraît plus équilibrée ; qu’il n’appartient pas à la Commission, ainsi qu’elle l’a précédemment précisé,
+de se prononcer sur ce qu’aurait pu être la décision du Collège s’il avait disposé d’informations différentes
+de celles qui lui ont été soumises, mais seulement d’examiner les faits dont elle est saisie ; (5) que l’article
+L. 612-27 du CMF n’impose pas que, lors d’un contrôle, les agents dressent des procès-verbaux, mais
+prévoit seulement qu’ils en ont la faculté « en cas d’urgence ou d’autre nécessité de procéder sans délai à
+des relevés de constatations pour des faits ou agissements susceptibles de constituer des manquements aux
+dispositions applicables aux personnes contrôlées » ; qu’il ne ressort pas de la jurisprudence invoquée par
+Generali Vie (Cour de cassation, 28 novembre 1995, no 95-80598 ; CEDH, 20 janvier 2011, Vernes
+c/ France, no 30183/06) que le défaut de remise d’un procès-verbal vicierait non seulement la procédure
+ouverte par une autorité devant en établir dans le cadre de ses enquêtes ou contrôles mais également celles
+d’autorités qui, comme l’ACPR, n’y sont pas tenues et auxquelles les règles d’une enquête judiciaire ne
+doivent pas, ainsi qu’il a été dit, être transposées ; que les informations recueillies par la mission de contrôle,
+y compris celles qui proviennent d’entretiens informels avec des salariés ou de recherches dans les systèmes
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2014-07
+informatiques, sont, si elles sont pertinentes et de nature à caractériser un manquement, consignées dans le
+rapport et ses annexes et donc portées à la connaissance de la personne contrôlée et peuvent être discutées
+par elle avant la signature du rapport définitif puis, en cas d’ouverture d’une procédure disciplinaire, au cours
+de celle-ci ; qu’ainsi, le défaut d’établissement de procès-verbaux par des contrôleurs de l’ACPR ne peut, en
+soi, entraîner une rupture d’égalité avec la poursuite ; que les dispositions applicables, qui précisent les
+modalités de la procédure dans le cadre d’un contrôle sur place, ont été respectées ; que l’exception soulevée
+par Generali Vie doit donc être rejetée ;
+3. Sur l’atteinte au principe du contradictoire résultant de la production,
+par le représentant du Collège, d’une réponse au rapport du rapporteur
+après expiration du délai dont la personne mise en cause disposait elle-même
+7. Considérant que, selon Generali Vie, la production par le représentant du Collège le 22 juin 2015
+d’un nouveau mémoire, dont elle a eu connaissance le 23 juin 2015, constitue une atteinte manifeste au
+principe du contradictoire ; qu’il est de règle que le mis en cause ait la parole en dernier ; qu’en conséquence,
+ce mémoire doit être déclaré irrecevable ;
+8. Considérant que la communication par le représentant du Collège de ses observations sur le rapport
+du rapporteur, après l’expiration du délai de 15 jours francs dont disposait Generali Vie pour produire ses
+propres observations sur ce rapport, n’a pas porté atteinte, en l’espèce, au principe du contradictoire dès lors
+que Generali Vie a disposé d’un délai suffisant avant l’audience pour y répondre, ce qu’elle a fait par un
+mémoire transmis le 30 juin, et qu’elle était en tout état de cause en mesure de faire au cours de l’audience
+qui s’est tenue le 3 juillet 2015 ; que la règle, fixée pour les procédures disciplinaires de l’ACPR par le I de
+l’article R. 612-48 du CMF, selon laquelle la personne mise en cause doit avoir la parole en dernier,
+concerne l’audience et non la phase d’instruction préalable à celle-ci ; qu’il ne sera dès lors pas fait droit à la
+demande de Generali Vie ;
+II. Sur la violation du principe de légalité des délits et des peines
+9. Considérant que Generali Vie fait valoir que certains griefs formulés par le Collège sont dénués de
+base légale et heurtent le principe de légalité des délits et des peines ; que les faits reprochés y sont qualifiés
+de manquements à des obligations définies en termes trop imprécis pour que le prononcé d’une sanction par
+le superviseur soit prévisible ; que cette imprévisibilité affecte notamment les griefs 1, 2, 8 et 12 ;
+10. Considérant, cependant, qu’ainsi que la Commission l’a déjà souligné (cf. décision n° 2011-02
+Établissement de crédit A du 24 octobre 2012, p. 9), l’atteinte invoquée au principe de légalité ne serait
+caractérisée que si l’établissement n’avait pu déterminer, de façon raisonnablement prévisible eu égard aux
+dispositions définissant ses obligations professionnelles et à l’interprétation en ayant été donnée jusqu’alors
+par le superviseur, que son comportement constituait un manquement ; que la conformité de ces dispositions
+à cette exigence constitutionnelle doit s’apprécier in concreto, en confrontant la disposition dont il est
+soutenu qu’elle aurait été méconnue et le comportement litigieux du professionnel concerné tel qu’il est
+décrit dans le grief notifié ; qu’il sera procédé à cet examen relativement à chacun des grief concernés ;
+Au fond
+I. Sur l’organisation du dispositif de LCB-FT
+11. Considérant que le I de l’article A. 310-8 du code des assurances impose aux entreprises d’assurance
+d’établir une classification et une évaluation des risques qui doit porter, d’une part, sur les différents produits
+ou services proposés, leur mode de commercialisation, la localisation ou les conditions particulières des
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2014-07
+opérations, ainsi que les caractéristiques de la clientèle, et, d’autre part, sur les activités de gestion des
+contrats, y compris celles qui ont été externalisées ;
+12. Considérant que, selon le grief 1, la classification des risques ne comprend pas l’ensemble des
+risques de blanchiment des capitaux et de financement du terrorisme liés aux activités et clientèles de
+Generali Vie ; que les lacunes précitées se sont traduites par des défauts de vigilance dans les dossiers
+mentionnés par la poursuite ;
+1. Sur les opérations de remboursement de bons anonymes de capitalisation
+13. Considérant que, selon le grief 1.1, ne sont pas pris en compte les risques importants présentés par
+les opérations de remboursement de bons anonymes de capitalisation, alors qu’elles présentent un risque
+spécifique en raison notamment de la portabilité de ces produits et de l’anonymat fiscal pouvant leur être
+attaché, comme cela ressort notamment des dossiers de Mme A1, M. A2, Mme A3, Mme A4 et M. A5 ;
+14. Considérant tout d’abord que si Generali Vie soutient que les dispositions du I de l’article A. 310-8
+du code des assurances ne sont pas suffisamment précises pour que soit sanctionnée l’absence, dans une
+classification des risques, de dispositions relatives au traitement du remboursement des bons anonymes, il
+appartient à un organisme assujetti de prendre en compte le but recherché et donc de mettre en place une
+classification couvrant tous les produits ou services qu’il propose et toutes les opérations qu’il effectue et
+surtout n’omettant pas de traiter les produits, services ou opérations qui sont porteurs de risques particuliers ;
+15. Considérant ensuite que la procédure de LCB-FT de Generali Vie mentionne, dans son tableau de
+synthèse intitulé « Classification des risques et des mesures de vigilance », les « bons et contrats de
+capitalisation » comme présentant un risque moyen appelant une vigilance standard tandis que la
+« cartographie des risques liés aux produits », qui figure dans la même procédure, classe les « bons de
+capitalisation anonymes » dans la catégorie des produits présentant un risque élevé ; que ces dispositions,
+contradictoires quant à la classification de ces produits, ne traitent pas explicitement des opérations de
+remboursement de ces bons mais évoquent les obligations de vigilance en cours de contrat ; que l’obligation
+imposée par l’article A. 310-8 du code des assurances ne peut être regardée comme satisfaite, compte tenu de
+ce que ces produits présentent un risque élevé d’utilisation à des fins de blanchiment ; que les améliorations
+dans le traitement de ces bons, intervenues depuis fin 2013, sont postérieures au contrôle et donc sans
+conséquence sur cette partie du grief, qui est établie ; qu’en revanche, les défauts de vigilance dans les
+dossiers individuels mentionnés par la notification de griefs s’analysent comme les effets, selon la poursuite,
+des carences affectant cette classification mais ne sont pas compris dans le présent grief ;
+2. Sur les opérations de rachat dites « précoces »
+16. Considérant que, selon le grief 1.2, les opérations de rachat dites « précoces » sont regardées à juste
+titre comme présentant un risque élevé par l’organisme, qui limite pourtant à 12 mois la période durant
+laquelle elles sont classées comme risquées alors que le taux maximum d’imposition des plus-values est
+applicable jusqu’à 48 mois après la souscription ;
+17. Considérant tout d’abord que si Generali Vie soutient qu’elle ne peut être sanctionnée pour avoir fixé
+une durée insuffisante pendant laquelle les opérations de rachat présentent un risque élevé, ni la loi ni les
+« Principes d’application sectoriels » (ci-après PAS) n’imposant que ce délai corresponde nécessairement à
+celui du taux maximal d’imposition des plus-values, le reproche concerne aussi l’unicité du délai qui, pour
+être conforme à une approche par les risques, aurait dû être apprécié selon les catégories de clients et en
+fonction de l’objet et de la nature de la relation d’affaires ; que si les PAS de juin 2010 indiquaient qu’un
+rachat intervenant 2 ans après la souscription devait être regardé comme précoce, ils mentionnaient un délai
+plus long que celui retenu par Generali Vie et, surtout, cette mention était complétée par la recommandation
+d’effectuer un examen de la cohérence de ces rachats « par rapport au projet initialement annoncé de la
+relation d’affaires ou par rapport à l’opportunité économique du rachat ou de l’avance » ; qu’un
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2014-07
+mouvement de décollecte affectant l’assurance sur la vie lié à des circonstances particulières ou la volatilité
+éventuelle de sa clientèle ne peuvent dispenser un organisme assujetti de mettre en place une classification
+des risques appropriée ; qu’à supposer que, comme Generali Vie l’a indiqué à l’audience, ce délai ne faisait
+pas obstacle à un examen des rachats opérés après cette période de 12 mois, ceci ne répond pas à la critique
+qui porte sur la classification des risques ; que le traitement opéré par Generali Vie de ces opérations dans sa
+classification des risques peut donc être sanctionné dans le respect du principe de légalité ; que si le grief est
+ainsi établi, il doit néanmoins être apprécié en tenant compte de ce que, dans une période de collecte nette
+négative, la fixation d’un délai plus long aurait pu entraîner la production d’un nombre d’alertes trop élevé
+pour qu’elles puissent être utilement traitées ;
+3. Sur le risque présenté par la clientèle de personnes morales
+18. Considérant que, selon le grief 1.3, la classification des risques ne traite pas le risque présenté par la
+clientèle de personnes morales, qui représente pourtant 14 % des contrats gérés par Generali Vie,
+lorsqu’intervient une société de domiciliation, lorsqu’une personne morale est détenue par d’autres personnes
+morales ou lorsqu’une société est une holding patrimoniale ;
+19. Considérant tout d’abord qu’il ressort des dispositions législatives ci-dessus rappelées qu’une
+classification des risques doit couvrir l’ensemble des catégories de produits proposés par un établissement,
+d’opérations qu’il effectue et de clients avec lesquels il est en relation d’affaires ; que l’absence de mention
+d’une partie de la clientèle dans une telle classification peut donc de ce fait être sanctionnée dans le respect
+du principe de légalité ;
+20. Considérant ensuite que Generali Vie reconnaît des défaillances dans la tenue des dossiers de ses
+clients personnes morales et ne conteste pas que sa classification des risques ne traitait pas suffisamment de
+cette partie de sa clientèle ; que cette partie du grief est établie ;
+II. Sur les outils de suivi de la relation d’affaires
+et de détection des anomalies
+21. Considérant que le VI de 1’article A. 310-8 du code des assurances impose aux entreprises
+d’assurance de se doter de dispositifs de suivi et d’analyse de leur relation d’affaires fondés sur la
+connaissance de la clientèle ou, si besoin est, sur le profil de cette relation permettant de détecter des
+anomalies ; que ces dispositifs doivent être adaptés aux risques identifiés par la classification et permettre de
+définir des critères et des seuils significatifs et spécifiques en matière de LCB-FT ;
+22. Considérant que, selon le grief 2, le dispositif de suivi et d’analyse des relations d’affaires est
+insuffisant pour détecter efficacement 1’ensemble des anomalies ;
+1. Sur les systèmes d’information multiples et non interopérables
+23. Considérant que, selon le grief 2.1, les systèmes d’information déployés au sein des directions de
+Generali Vie en charge de la gestion des contrats sont multiples et ne sont pas interopérables ; qu’or un
+même client peut être géré, suivant le produit souscrit ou le réseau de distribution de celui-ci, par différentes
+directions ; que la directrice de la conformité, responsable de la mise en œuvre du dispositif de LCB-FT, ne
+dispose d’aucun moyen lui permettant d’avoir une vision complète de la relation d’affaires ; que seules deux
+directions utilisent un fichier Excel partagé portant sur les opérations et clients préalablement identifiés
+comme sensibles ; que ce fichier n’est pas correctement rempli ; que dans ces conditions, il n’existe, ni au
+niveau de la fonction centrale de conformité LCB-FT, ni au niveau des directions concernées par la gestion
+de la clientèle, de dispositifs permettant de détecter, de manière appropriée et sur l’ensemble de la relation
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2014-07
+d’affaires, les anomalies des opérations effectuées [cf. dossier de M. B], ni d’en établir un profil si
+nécessaire;
+24. Considérant tout d’abord que les dispositions ci-dessus rappelées imposent que les dispositifs retenus
+permettent notamment de définir des critères et des seuils significatifs et de détecter des anomalies ; que la
+multiplicité des systèmes d’information et leur défaut d’interopérabilité ne sont reprochés à Generali Vie
+qu’en ce qu’ils ne lui ont pas permis, à la date du contrôle, de respecter ces obligations ; que, dès lors, les
+carences constatées sont susceptibles d’être sanctionnées dans le respect du principe de légalité ;
+25. Considérant ensuite que la mise en place d’un référentiel client unique au terme d’un projet lancé en
+2008 et non encore achevé à la date du contrôle apparaît comme une mesure de régularisation dont la mise en
+œuvre devra, le cas échéant, être vérifiée ; que l’accès de la directrice de la conformité ou des correspondants
+Tracfin aux différents systèmes informatiques ne peut pallier cette carence, faute pour eux de pouvoir, en
+pratique, agréger manuellement les opérations effectuées par chaque client ; que, dans le dossier particulier
+mentionné pour illustrer le manquement, il n’est pas reproché à Generali Vie de ne pas avoir adressé de
+déclaration de soupçon (ci-après DS) complémentaire au service Tracfin, mais de ne pas avoir, en raison de
+l’organisation de ses systèmes informatiques ne permettant pas une consolidation des données clients,
+centralisé les informations afin de disposer d’une connaissance appropriée de cette relation d’affaires ; que
+cette partie du grief est établie ;
+2. Sur l’outil informatique X
+26. Considérant que, selon le grief 2.2, le déploiement de l’outil informatique de surveillance, par contrat
+souscrit, des opérations avant leur exécution (progiciel X) était inachevé au moment du contrôle ; qu’en
+effet, cet outil examinait alors les souscriptions et les opérations de versement libre mais pas, pour
+l’intégralité des systèmes de gestion concernés, les versements libres programmés ; que, par ailleurs, cet outil
+ne couvre pas les rachats, y compris les rachats « précoces », pourtant classés à risque élevé dans la
+classification des risques (cf. grief 1) ; qu’enfin, si Generali Vie l’a paramétré pour qu’il génère des alertes
+automatiques en fonction de critères de risques, déterminés par rapport (i) aux montants des opérations (par
+tranches de revenus et/ou de patrimoine déclarés), (ii) à certains types de clients (personnes politiquement
+exposées, ci-après PPE, non-résidents) et (iii) aux modalités de règlement des primes (payeur différent du
+souscripteur, paiement en provenance de l’étranger, etc.), pour les contrats des clients dont les données de
+revenus et de patrimoine n’étaient pas disponibles dans les systèmes de gestion, il ne permettait pas de
+détecter les versements atypiques au regard de ces données ;
+27. Considérant tout d’abord qu’afin de respecter l’obligation de détection des anomalies qui figure au
+VI de 1’article A. 310-8 du code des assurances, les outils mis en place au sein des organismes assujettis
+doivent couvrir la totalité des types d’opérations de versement et de retrait effectuées par toutes les
+catégories de clients ; que l’exclusion d’une partie de ces opérations, qui réduit nécessairement l’efficacité du
+dispositif de détection mis en place, peut donc être sanctionnée dans le respect du principe de légalité ; qu’en
+revanche un organisme assujetti peut faire reposer le respect de cette obligation sur plusieurs dispositifs, dès
+lors qu’agrégés, ils couvrent de manière exhaustive sa clientèle et ses opérations ;
+28. Considérant ensuite que le progiciel X, qui analyse a priori des flux entrants, n’en examinait pas la
+totalité à la date du contrôle ; que Generali Vie a admis qu’à cette date, une partie des versements libres
+programmés, celle réalisée par le réseau des conseillers en gestion de patrimoine indépendants (CGPI) et les
+partenaires bancaires, n’y était pas encore intégrée ; que faute d’avoir mis en place un dispositif efficace de
+détection des opérations, cette partie du grief est établie ;
+3. Sur le caractère inefficace des autres outils de détection dont Gelab
+et l’absence de traitement de la totalité des alertes issues de cet outil
+29. Considérant que, selon le grief 2.3, d’autres outils de détection des opérations atypiques après leur
+exécution ne sont disponibles qu’auprès de 2 directions et ne sont pas, au surplus, efficaces ; qu’ainsi, (i) la
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2014-07
+DOA et la DEP utilisent des requêtes mensuelles par extractions de leurs propres systèmes de gestion, dites
+Gelab ; qu’élaborées entre 2008 et 2009, ces extractions servent à détecter des opérations atypiques ou à
+risques après exécution, telles que des renonciations et des rachats supérieurs à 50 000 euros effectués par
+des non-résidents ; que le paramétrage des requêtes Gelab n’a pas été actualisé, notamment au regard de la
+classification des risques élaborée en 2011 ; que par exemple, les requêtes prévoient toujours le cumul des
+versements sur 12 mois glissants supérieurs à 150 000 euros (seuil d’examen renforcé des opérations
+atypiques prévu par la précédente réglementation relative à la LCB-FT, abrogée en 2009) ; (ii) que le
+paramétrage ne porte pas sur les rachats « précoces » tels que définis par l’organisme dans sa classification
+des risques (cf. grief 1) ; (iii) que ces 2 mêmes directions partagent également un fichier des opérations et
+clients sensibles, mais toutes les catégories de clients et opérations sensibles, dont les clients ayant fait
+l’objet d’une DS et les opérations ayant donné lieu à un examen renforcé, n’y sont pas répertoriées ; (iv) que
+les activités de la direction GGP échappent, pour 1’essentiel, au dispositif de surveillance des opérations
+après leur exécution ; qu’un seul examen renforcé au titre de la LCB-FT a d’ailleurs été mené entre
+septembre 2010 et fin octobre 2012 sur ce périmètre ; qu’en outre, selon le grief 2.4, les alertes reçues de
+Gelab ne sont pas toutes traitées ; qu’ainsi, les alertes traitées par la DEP via les requêtes Gelab montrent
+qu’en 2011, il y a eu 34 075 réponses reçues et, en 2012, 21 493 ; que cependant, en 2011, seules 462
+réponses ont été traitées et, en 2012, 256, sans qu’aucune explication n’ait été fournie à la mission sur les
+raisons ayant conduit à ne pas traiter toutes les autres alertes ; qu’il ne suffit pas de se doter d’un outil de
+détection des opérations atypiques, en 1’occurrence un outil de requêtes Gelab qui ne concerne, par ailleurs,
+qu’une partie des directions en charge de la gestion de la clientèle, encore faut-il que les personnes qui
+reçoivent les réponses aux requêtes Gelab les analysent et les traitent effectivement pour répondre à la
+réglementation, ce qui implique une analyse de chacune des alertes afin, soit de procéder à la clôture de
+1’alerte dès lors que les éléments recueillis conduisent à la considérer comme non justifiée, soit de procéder
+à un examen renforcé ou à une DS ;
+30. Considérant, tout d’abord, qu’ainsi que cela a été indiqué, le VI de 1’article A. 310-8 du code des
+assurances implique, même en l’absence de toute précision législative ou réglementaire, un traitement
+exhaustif des différentes catégories d’opérations ; qu’au terme de l’analyse de l’efficacité du système Gelab,
+les carences constatées peuvent, dans le respect du principe de légalité, être sanctionnées ;
+31. Considérant ensuite que, dans un dispositif de LCB-FT, la surveillance a posteriori des opérations
+doit être conçue en fonction de la classification des risques ; que Generali Vie ne conteste ni l’absence
+d’adaptation du paramétrage des requêtes à sa classification des risques de 2011, ni le défaut d’exhaustivité
+de son fichier Excel « des opérations et clients sensibles », tenu par les pôles Tracfin de la DEP et de la
+DOA, censé regrouper les opérations des clients PPE ayant fait l’objet d’une DS ainsi que les opérations de
+rachat précoces et les renonciations ; que, parmi les 18 scénarios alors utilisés par l’outil Gelab, celui qui
+utilisait le seuil de 150 000 euros était nécessairement contraire à une approche par les risques dès lors qu’il
+était fixé indépendamment du patrimoine et des revenus du client ; que les dossiers de GGP n’étaient pas
+compris dans Gelab et que Generali Vie n’a pas produit de pièces établissant l’existence d’un suivi des
+opérations de cette partie de sa clientèle ; que cette dernière carence apparaît comme particulièrement
+sérieuse eu égard aux volumes d’épargne collectés par cette ancienne direction ; que l’amélioration du
+paramétrage des alertes, tenant notamment compte de la classification des risques effectuée en 2011, est
+postérieure à la mission de contrôle ;
+32. Considérant enfin que, s’agissant du traitement des alertes reçues, Generali Vie soutient que Gelab
+générait des « extractions » et non des « alertes », en vue de vérifier a posteriori et par sondage l’efficacité à
+l’entrée du progiciel X, pour des opérations qualifiées par la procédure de LCB-FT de Generali Vie
+applicable à compter d’avril 2011, de « sensibles par nature (rachats précoces, tiers payeurs, paiement en
+provenance de l’étranger, etc...) » ou « des clients, contrats ou opérations présentant des caractéristiques
+combinées (ou cumulatives) de nature à éveiller un doute » ; qu’il n’en demeure pas moins que cet outil de
+vérification a posteriori n’a pas permis de déceler les imperfections du dispositif de contrôle primaire ;
+qu’ainsi, au total, les griefs tenant au manque d’exhaustivité et d’efficacité des outils de détection autres que
+le progiciel X et, par suite, du contrôle de second niveau, sont fondés ;
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2014-07
+III. Sur les mesures de vigilance
+33. Considérant, à titre liminaire, que Generali Vie indique que la plupart des dossiers au sujet desquels
+lui sont reprochés des manquements à son obligation de vigilance constante proviennent de l’ancienne
+direction GGP ; qu’elle ne conteste pas que la tenue des dossiers clients dans cette direction a pu se traduire
+par des insuffisances dans la mise en œuvre de son dispositif de LCB-FT ; que l’appréciation concernant les
+constats relatifs à cette direction ne doit pas être étendue à l’entreprise dans son ensemble ;
+34. Considérant cependant qu’il appartenait à Generali Vie de faire respecter par l’ensemble de ses
+services les obligations de vigilance auxquelles elle est soumise ;
+1. Concernant l’identification du client
+35. Considérant que l’article R. 561-5 du CMF impose aux établissements assujettis, pour l’application
+des I et II de l’article L. 561-5 du même code, de vérifier l’identité du client et, le cas échéant, l’identité et
+les pouvoirs des personnes agissant pour le compte de celui-ci, dans les conditions suivantes : « 1o Lorsque le
+client est une personne physique, par la présentation d’un document officiel en cours de validité comportant
+sa photographie (…) ; / 2o Lorsque le client est une personne morale, par la communication de l’original ou
+de la copie de tout acte ou extrait de registre officiel datant de moins de trois mois constatant la
+dénomination, la forme juridique, l’adresse du siège social et l’identité des associés et dirigeants sociaux
+mentionnés aux 1o et 2o de l’article R. 123-54 du code de commerce ou de leurs équivalents en droit
+étranger ; (…) » ; que l’article R. 561-11 du CMF dispose que lorsque les organismes assujettis ont de
+bonnes raisons de penser que l’identité de leur client et les éléments d’identification précédemment obtenus
+ne sont plus exacts ou pertinents, ils procèdent à nouveau à l’identification du client ;
+36. Considérant que, selon le grief 3, les entreprises d’assurance ont la faculté de vérifier l’identité de
+leur client en s’assurant que le paiement de leur première prime s’effectue par le débit d’un compte ouvert à
+leur nom auprès d’un établissement de crédit lui-même tenu à l’obligation d’identification ; que Generali Vie
+n’utilise pas cette faculté ; que cependant le rapport de contrôle relève des insuffisances en matière
+d’identification de la clientèle dans 21 dossiers, soit à l’entrée en relation d’affaires, soit en cours de celle-ci
+[dossiers de Mme C1, Mme C2, M. C3, M. C4, M. C5 et des sociétés C6, C7, C8, de l’association C9, des
+sociétés C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20 et C21] ; que s’agissant des dossiers de
+personnes morales, l’entreprise n’a pas procédé à une nouvelle identification alors que les éléments d’identité
+et les pouvoirs de leurs représentants n’étaient plus exacts, en particulier dans les dossiers des sociétés C6,
+C13 et C22 ;
+37. Considérant que Generali Vie ne conteste pas les défauts d’identification reprochés qu’elle attribue à
+la tenue des dossiers au sein de sa direction GGP ; que cependant, le défaut d’identification n’est pas
+caractérisé dans les dossiers des sociétés C11 et C21 ; que, dans ce périmètre légèrement réduit, le grief est
+établi ;
+2. Concernant l’identification du bénéficiaire effectif
+38. Considérant que l’article R. 561-7 du CMF impose aux établissements assujettis d’identifier le
+bénéficiaire effectif de la relation d’affaires, le cas échéant, par des moyens adaptés et de vérifier les
+éléments d’identification recueillis sur celui-ci par le recueil de tout document ou justificatif approprié,
+compte tenu des risques de blanchiment des capitaux et de financement du terrorisme ; qu’en outre, lesdits
+établissements doivent être en mesure de justifier leurs diligences auprès des autorités de contrôle ;
+39. Considérant que, selon le grief 4, la procédure de Generali Vie, en particulier le dossier client type
+en annexe à celle-ci, ne prévoit l’identification et la vérification d’identité du bénéficiaire effectif d’un client
+personne morale que dans les cas où une (des) personne(s) physique(s) en détient (détiennent) plus de 25 %
+des parts, du capital ou des droits de vote ; qu’elle ne couvre donc pas l’ensemble des cas prévus par la
+réglementation, en particulier par les articles R. 561-1 et R. 561-3 du CMF ; que par ailleurs, il ressort du
+Autorité de contrôle prudentiel et de résolution 10
+
+===== Page 11 =====
+Décision de la Commission des sanctions – procédure no 2014-07
+rapport de contrôle que dans au moins 10 des 34 dossiers de personnes morales examinés par la mission
+[dossiers des sociétés C7, C8, C10, C11, C12, C14, C17, C18, C21 et D], l’identification ou la vérification de
+l’identité du ou des bénéficiaires effectifs est incomplète, y compris dans 2 cas ayant fait l’objet d’une DS
+[dossier de la société C8] ou d’un examen renforcé [dossier de la société C10] ;
+40. Considérant que le grief, qui n’est pas contesté par Generali Vie, est établi ;
+3. Sur le respect de l’obligation de connaissance de clientèle
+41. Considérant que, l’article L. 561-6 du CMF impose aux organismes assujettis, avant d’entrer en
+relation d’affaires et pendant toute la durée de la relation d’affaires avec un client, de recueillir les
+informations relatives à l’objet et à la nature de cette relation ainsi que tout autre élément d’information
+pertinent sur ce client ; qu’en outre, lesdits organismes sont tenus, pendant toute sa durée et dans les
+conditions fixées par décret en Conseil d’État, d’exercer sur la relation d’affaires, dans la limite de leurs
+droits et obligations, une vigilance constante et de pratiquer un examen attentif des opérations effectuées en
+veillant à ce qu’elles soient cohérentes avec la connaissance actualisée qu’ils ont de leur client ; que suivant
+l’article R. 561-12 du même code, pour l’application de l’article L. 561-6 précité, les organismes assujettis
+« 1o Avant d’entrer en relation d’affaires, recueillent et analysent les éléments d’information, parmi ceux
+figurant sur la liste dressée par un arrêté du ministre chargé de l’économie, nécessaires à la connaissance
+de leur client ainsi que de l’objet et de la nature de la relation d’affaires, pour évaluer le risque de
+blanchiment des capitaux et de financement du terrorisme ; / 2o Pendant toute la durée de la relation
+d’affaires, recueillent, mettent à jour et analysent les éléments d’information, parmi ceux figurant sur une
+liste dressée par un arrêté du ministre chargé de l’économie, qui permettent de conserver une connaissance
+appropriée de leur client. La collecte et la conservation de ces informations doivent être réalisées en
+adéquation avec les objectifs d’évaluation du risque de blanchiment des capitaux et de financement du
+terrorisme et de surveillance adaptée à ce risque ; / 3o À tout moment, sont en mesure de justifier aux
+autorités de contrôle l’adéquation des mesures de vigilance qu’elles ont mises en œuvre aux risques de
+blanchiment des capitaux et de financement du terrorisme présentés par la relation d’affaires » ; que
+l’article 19 de l’ordonnance no 2009-104 prévoit que les organismes assujettis appliquent à leur clientèle
+existante les nouvelles obligations de vigilance prévues aux articles L. 561-5 à L. 561-14 du CMF « dans les
+meilleurs délais appréciés en fonction des risques et au plus tard dans un délai d’un an à compter de la
+publication du dernier des décrets prévus pour l’application de ces articles et, pour les relations d’affaires
+inactives, à leur première réactivation » ;
+42. Considérant que, selon le grief 5, la mission de contrôle a examiné 150 dossiers de relations
+d’affaires (personnes physiques et morales) qui révèlent de nombreuses défaillances en matière
+d’informations relatives à la connaissance du client, à l’entrée en relation d’affaires ou au cours de celle-ci ;
+que, premièrement, s’agissant des 85 dossiers de clients personnes physiques, des lacunes dans la
+connaissance du client ou du (des) bénéficiaire(s) effectif(s) ont été constatées dans 25 dossiers, aux motifs
+(i) que si les éléments de connaissance de la clientèle à recueillir tant pour la souscription que pour la
+clientèle existante, lors d’une opération de versement libre, sont listés dans le « dossier client », la fiche
+d’actualisation du dossier client est utilisée en cas d’événement intervenant dans la situation de ce dernier
+[par exemple, changement de domicile ou de payeur], mais pas à l’occasion d’une opération de sortie de
+fonds ; que de surcroît, cette fiche ne prévoyait pas, à la date du contrôle, l’actualisation des données
+relatives aux revenus et au patrimoine d’un client, même dans des situations où ces informations étaient
+nécessaires pour évaluer les risques de la relation d’affaires ; (ii) que Generali Vie n’a pris aucune autre
+mesure pour effectuer la mise à jour systématique des éléments de connaissance des clients lors de la
+réactivation de leur contrat, notamment à l’occasion d’une opération de rachat, y compris lors d’un rachat «
+précoce », considéré à risque élevé par 1’entreprise ; (iii) que dans un certain nombre de dossiers, les
+éléments de nature financière et patrimoniale portés au dossier comportaient des erreurs ou approximations ;
+que, deuxièmement, le « dossier client »ne prévoit pas le recueil d’informations sur la situation financière du
+client personne morale ou leur mise à jour, pourtant indispensables pour apprécier les opérations de
+versements de fonds sur un contrat de capitalisation au regard de la surface financière de la personne morale
+; que 26 des 32 dossiers examinés par la mission présentaient des lacunes en matière de connaissance du
+Autorité de contrôle prudentiel et de résolution 11
+
+===== Page 12 =====
+Décision de la Commission des sanctions – procédure no 2014-07
+client ; que le rapport de contrôle met en exergue 7 dossiers qui ne comportaient soit aucune donnée sur la
+situation financière, soit aucune donnée à jour [dossiers des sociétés C17, C18, C22, E1, E2, E3 et E4] ;
+43. Considérant que l’obligation de vigilance constante implique que les organismes assujettis disposent
+d’une connaissance actualisée de la situation patrimoniale et des revenus de leurs clients ; que seule une telle
+connaissance peut leur permettre de déterminer si une opération de souscription comme de rachat présente un
+caractère inhabituel justifiant que, le cas échéant, soient faites, dans le cadre d’une approche par les risques,
+des diligences complémentaires ; que cette connaissance doit être actualisée jusqu’au terme de la relation
+d’affaires afin que, notamment, les raisons d’un rachat total, qui la réactive avant d’y mettre fin, puissent être
+analysées ; que Generali Vie, qui admet des carences concernant la tenue des dossiers de clients personnes
+morales de l’ex-direction GGP, n’apporte aucun élément permettant de contester utilement les autres aspects
+du grief, qui est établi ;
+4. Concernant les personnes politiquement exposées
+44. Considérant que selon le II de l’article R. 561-20 du CMF, lorsque le client est une personne
+mentionnée au 2o de l’article L. 561-10, c’est-à-dire une personne résidant dans un autre État membre de
+l’Union européenne ou un pays tiers et qui est exposée à des risques particuliers en raison des fonctions
+politiques, juridictionnelles ou administratives qu’elle exerce ou a exercées pour le compte d’un autre État ou
+de celles qu’exercent ou ont exercées des membres directs de sa famille ou des personnes connues pour lui
+être étroitement associées, ou le devient au cours de la relation d’affaires, les organismes assujettis
+appliquent l’ensemble des mesures de vigilance complémentaires suivantes, en sus des mesures prévues aux
+articles L. 561-5 et L. 561-6 : « 1o Elles définissent et mettent en œuvre des procédures, adaptées au risque
+de blanchiment des capitaux et de financement du terrorisme, permettant de déterminer si leur client est une
+personne mentionnée à l’article R. 561-18 ; / 2o La décision de nouer une relation d’affaires avec cette
+personne ne peut être prise que par un membre de l’organe exécutif ou toute personne habilitée à cet effet
+par l’organe exécutif ; / 3o Elles recherchent, pour l’appréciation des risques de blanchiment des capitaux et
+de financement du terrorisme, l’origine du patrimoine et des fonds impliqués dans la relation d’affaires ou la
+transaction » ;
+45. Considérant que, selon le grief 6, Generali Vie ne s’est pas dotée de procédures adaptées lui
+permettant de détecter les PPE au moment de 1’entrée en relation et tout au long de la relation d’affaires ;
+qu’en effet, la détection des PPE repose uniquement sur la déclaration du client, dans le cadre d’une annexe
+au dossier client que doivent renseigner les non-résidents, et sur les diligences qui peuvent être
+éventuellement mises en œuvre par les chargés de suivi de la relation d’affaires, qui ne disposent d’aucune
+procédure pour guider leurs démarches, ni d’outil automatisé d’aide à la détection des PPE ; que le dispositif
+d’identification et les contrôles mis en place par Generali Vie pour détecter et traiter les PPE ne sont pas
+efficaces ; que les contrôles conduits par la mission avec ses outils propres ont permis d’identifier (i) 7
+clients entrant dans la définition des PPE prévue par le CMF, alors même que Generali Vie aurait dû détecter
+2 d’entre elles, et (ii) 3 personnes présentant des homonymies avec des PPE ; que par ailleurs, lorsqu’elle
+détecte des PPE, l’entreprise n’applique pas l’ensemble des mesures de vigilance complémentaires à leur
+égard ; qu’ainsi, l’autorisation d’entrée en relation d’affaires ou de poursuite de celle-ci par un membre de
+l’organe exécutif ou une personne habilitée par ce dernier ne figure dans aucun des dossiers ; qu’en outre, les
+dossiers examinés par la mission ne comportaient pas d’éléments d’informations sur l’origine du patrimoine
+et des fonds impliqués dans la relation d’affaires ;
+46. Considérant que Generali Vie admet qu’elle ne disposait pas, à la date du contrôle, de procédure
+relative à la détection des PPE et aux diligences complémentaires à mettre en œuvre avant d’entrer en
+relation d’affaires et tout au long de celle-ci ; qu’ainsi, les modalités d’entrée en relation avec des clients
+appartenant à cette catégorie ne sont pas conformes aux dispositions ci-dessus rappelées ; que si
+l’établissement soutient, en se référant à un considérant de la directive d’application 2006/70/CE du 1er août
+2006 de la 3e directive anti-blanchiment, selon lequel les organismes assujettis doivent mettre en œuvre des
+« mesures raisonnables et appropriées », avoir mis en place de telles mesures, il ressort du dossier de la
+procédure que les modalités de détection de cette catégorie de clients, reposant uniquement sur les
+Autorité de contrôle prudentiel et de résolution 12
+
+===== Page 13 =====
+Décision de la Commission des sanctions – procédure no 2014-07
+déclarations des intéressés étaient, en tout état de cause, insuffisantes ; qu’à défaut de système automatisé de
+détection de ces clients, il appartenait à Generali Vie de mettre en place un dispositif capable de traiter une
+base clients qui comporte 3 millions de noms ; qu’aucun moyen n’a été mis en œuvre pour vérifier si les
+clients sont devenus des PPE ou ont cessé de l’être pendant la durée de la relation d’affaires ; que les
+quelques exemples de clients non détectés comme PPE illustrent une carence plus générale quant au
+traitement de cette catégorie de clients ; que, s’agissant de M. F1, député du Congo, une vérification
+appropriée aurait permis à Generali Vie, en ne se contentant pas de la déclaration du client, de constater qu’il
+n’était pas résident français ; que l’absence de détection, en qualité de PPE, de Mme F2 par les outils Y et Z,
+en cours d’acquisition, ne peut exonérer Generali Vie de sa responsabilité sur ce sujet, alors que son fils
+s’était déclaré en cette qualité ; qu’il est établi que, dans aucun des dossiers examinés par la mission de
+contrôle, l’autorisation d’entrer en relation d’affaires n’a été demandée à un membre du comité exécutif ou
+une personne habilitée, contrairement à ce qu’exigent les textes ; que les 3 cas non détectés d’homonymie
+avec des PPE, s’ils montrent l’insuffisance des diligences faites dans ce domaine ne peuvent, en eux-mêmes,
+contribuer au reproche ; que, dans le périmètre légèrement réduit conformément à ce qui vient d’être indiqué,
+le grief est établi ;
+5. Sur le respect de l’obligation d’effectuer un examen renforcé
+47. Considérant que le II de 1’article L. 561-10-2 du CMF impose aux organismes assujettis d’effectuer
+un examen renforcé de toute opération particulièrement complexe ou d’un montant inhabituellement élevé ou
+ne paraissant pas avoir de justification économique ou d’objet licite ; que dans ce cas, ils doivent se
+renseigner auprès du client sur l’origine des fonds et la destination de ces sommes ainsi que sur l’objet de
+l’opération et l’identité de la personne qui en bénéficie ;
+48. Considérant que, selon le grief 7, le rapport de contrôle a mis en évidence plusieurs dossiers qui
+auraient dû faire l’objet d’un examen renforcé, en particulier les dossiers de M. G1, M. G2, Mme G3, M. G4
+ainsi que celui des sociétés C15 et C16 ;
+49. Considérant que Generali Vie reconnaît des insuffisances dans la tenue des dossiers clients par sa
+direction GGP, dont relève, selon elle, la moitié des dossiers visés par le grief ; que, quoi qu’il en soit, dans
+le dossier de M. G1, le rachat de la totalité d’un contrat de 2,8 millions d’euros 4 mois seulement après sa
+souscription aurait dû donner lieu à une recherche de justificatifs ; que l’incohérence entre l’activité connue
+de M. G2, moniteur de ski, et son patrimoine déclaré compris entre 2 et 5 millions d’euros aurait dû, lors du
+rachat partiel, à hauteur de 1 million d’euros, d’un contrat de 1,5 million d’euros souscrit 8 mois plus tôt,
+donner lieu à une analyse approfondie de cette dernière opération ; que la situation de Mme G3, sans
+profession et divorcée, disposant d’un patrimoine compris « entre 70 000 euros et 750 000 euros » n’est
+cohérente ni avec la souscription en février 2011 d’un contrat à hauteur de 1 443 000 euros ni avec son
+rachat en quasi-totalité moins de 9 mois plus tard ; que M. G4, diplomate français, a souscrit un contrat
+d’assurance sur la vie en septembre 2005, justifié par une vente immobilière, puis a procédé à des versements
+libres de 269 000 euros en 2006 et 2007, suivis de retraits partiels successifs pour un montant total de
+677 000 euros entre février 2011 et octobre 2012 ; que les indications fournies par le client sur les « besoins
+de trésorerie » qui expliqueraient ces retraits paraissent insuffisantes, alors qu’aucun justificatif n’a été
+recueilli ; qu’à tout le moins, Generali Vie aurait dû en effectuer un examen approfondi ; que la société C15,
+dont l’objet social renseigné est « marchand de biens, location de bateaux équipés », a souscrit en décembre
+2009 un contrat de capitalisation et a procédé à un versement initial de 1 000 euros ; que l’actif net de cette
+société est ensuite devenu inférieur à la moitié de son capital social ; qu’en 2011, elle a cependant absorbé la
+société C16 qui avait également souscrit auprès de Generali Vie un contrat de 75 millions d’euros financé par
+un prêt bancaire consenti par un établissement luxembourgeois, ultérieurement porté à 82 millions d’euros ;
+qu’à la date de la fusion-absorption de la société C16 par la société C15, les fonds investis sur le contrat de la
+première à hauteur de 85 141 000 euros ont été transférés sur le contrat de la seconde ; qu’au regard de la
+situation financière de la société C15, les opérations ci-dessus décrites auraient dû donner lieu à un examen
+approfondi ; que les explications de Generali Vie, consistant à mettre en cause les insuffisances de la tenue
+des dossiers clients par la direction GGP, sont partielles et, comme cela a été précédemment indiqué,
+Autorité de contrôle prudentiel et de résolution 13
+
+===== Page 14 =====
+Décision de la Commission des sanctions – procédure no 2014-07
+inopérantes ; qu’au total, Generali Vie ne fournit aucun élément de nature à remettre en cause les constats
+effectués au sujet de l’ensemble des dossiers ci-dessus mentionnés ; que le grief est établi ;
+IV. Sur l’obligation de déclarer au service Tracfin
+certaines sommes et opérations
+1. Sur les défauts de déclarations de soupçon initiales
+50. Considérant que le I de l’article L. 561-15 du CMF, dans sa rédaction en vigueur pendant la période
+contrôlée, impose aux organismes assujettis de déclarer au service Tracfin les sommes inscrites dans leurs
+livres ou les opérations portant sur des sommes dont elles savent, soupçonnent ou ont de bonnes raisons de
+soupçonner qu’elles proviennent d’une infraction passible d’une peine privative de liberté supérieure à un an
+ou participent au financement du terrorisme ; que le III de l’article L. 561-15 du même code, dans sa
+rédaction en vigueur pendant la période contrôlée, leur impose par ailleurs, à l’issue de l’examen renforcé
+prescrit au II de l’article L. 561-10-2, d’effectuer, le cas échéant, cette déclaration;
+51. Considérant que le grief 8 reproche à Generali Vie des défauts de DS dans les dossiers de 13 clients
+[M. H1, M. et Mme H2, société H3, société H4, société H5, Famille H6, M. H7, M. H8, société C14, société
+C20, société C7, M. A5, et Mme H9] ;
+52. Considérant que Generali Vie reconnaît des insuffisances dans la tenue des dossiers clients par sa
+direction GGP, dont font partie 5 des 13 dossiers visés par le grief [dossiers des sociétés H4 et H5, Famille
+H6 et sociétés C14 et C20] ; que l’entreprise ne fournit aucun élément susceptible de remettre en cause les
+constats effectués au sujet de ces 5 dossiers, ni au sujet de 3 des autres dossiers mentionnés par le grief
+[dossiers de M. H7, M. H8, société C7] ; que le grief 8 est donc fondé en ce qui concerne 8 des 13 dossiers
+qui y sont visés ; que seuls les 5 dossiers restants, au sujet desquels Generali Vie a présenté des arguments en
+défense, font l’objet d’un examen détaillé ci-après ; qu’il importe cependant de souligner que les défauts de
+DS non contestés, concernant des clients de GGP, portent sur des contrats ayant enregistré des mouvements
+très élevés et dans des circonstances particulières : souscription puis rachat d’un contrat de plus de 40
+millions d’euros dont les fonds ont été ensuite transférés chez Generali Luxembourg, souscription par une
+famille de 5 contrats pour un total de près de 9 millions d’euros, rachetés dans les 2 ans sans justification,
+souscription par une société d’un contrat sur lequel ont été versés plus de 60 millions d’euros, qui a fait
+l’objet de 3 nantissements successifs au bénéfice d’une banque puis a été finalement racheté, le tout sur une
+période de 2 ans ;
+53. Considérant que, selon le grief 8.1, M. H1, ancien cadre supérieur de Generali Vie, est courtier
+d’assurance à Paris depuis juillet 2012 ; qu’il a déclaré en décembre 2012 des revenus supérieurs à 300 000
+euros et un patrimoine supérieur à 10 millions d’euros ; qu’il a souscrit un contrat d’assurance sur la vie
+auprès de Generali Vie en 2002 ; qu’il a obtenu de nombreuses avances sur son contrat entre janvier 2009 et
+juin 2012 ; qu’en décembre 2012, il a effectué un versement de 12 millions d’euros avant de procéder au
+rachat total de son contrat en avril 2013 pour un montant brut de 17,5 millions d’euros ; que le dossier client
+ne contient aucune information relative aux multiples opérations d’avances effectuées, qui révèlent une
+incohérence dans le fonctionnement du contrat, du moins pour celles postérieures à janvier 2011, moment où
+Generali Vie a cessé d’octroyer à son personnel des avances remboursables sans intérêt ; que s’agissant du
+versement d’un montant particulièrement élevé de 12 millions d’euros, néanmoins compatible avec la
+tranche de patrimoine déclarée, le client indique qu’il provient d’une opération immobilière d’un montant de
+20,5 millions d’euros ; que figure au dossier client (i) un chèque d’un notaire à M. H1 pour 12,8 millions
+d’euros et (ii) une attestation d’un autre notaire relative à un acte d’échange entre M. H1 et la société civile
+immobilière H10 par lequel le premier apporte à la seconde un ensemble immobilier attenant à son domicile
+évalué à 20,5 millions d’euros ; qu’il n’est pas indiqué quel bien ou quelle somme M. H1 a reçu en
+contrepartie de son apport dans 1’échange et aucun élément d’information concernant la SCI ne figure au
+dossier ; qu’interrogé par Generali Vie sur le motif de ses demandes d’avances suite aux investigations de la
+mission de contrôle, M. H1 a mis fin à la relation d’affaires en procédant à un rachat total de son contrat
+motivé par sa « perte de confiance dans Generali » ;
+Autorité de contrôle prudentiel et de résolution 14
+
+===== Page 15 =====
+Décision de la Commission des sanctions – procédure no 2014-07
+54. Considérant que le manque de coopération dont a fait preuve ce client, quel qu’ait été le contexte, ou
+la « perte de confiance en Generali Vie » dont il aurait fait état, pour motiver le rachat de son contrat en avril
+2013, ne pouvaient conduire à écarter le soupçon que les sommes versées proviennent d’une des infractions
+mentionnées au I de l’article L. 561-15 du CMF, compte tenu des montants en cause et des éléments de
+connaissance du client dont l’établissement disposait ; que Generali Vie n’établit pas que le dispositif
+spécifique de gestion des contrats d’assurance sur la vie souscrits par ses dirigeants et collaborateurs a été en
+l’espèce utilisé à bon escient ; que les opérations d’avances réalisées par M. H1 après janvier 2011, alors que
+Generali Vie avait cessé d’accorder à son personnel des conditions avantageuses en cas d’avance, auraient dû
+donner lieu à des vérifications quant à leur cause ; que, plus généralement, les avances effectuées entre
+janvier 2009 et juin 2012, au nombre d’une trentaine environ, alors que les négociations en vue de son départ
+n’ont été entamées qu’au premier semestre de 2012, auraient dû être déclarées faute d’avoir été justifiées ;
+que, surtout, le versement d’environ 12 millions d’euros en décembre n’est justifié par aucune explication
+claire, cohérente et documentée sur l’origine des fonds versés ; qu’ainsi, le grief 8.1 est établi ;
+55. Considérant que, selon le grief 8.2, M. et Mme H2, de nationalité française mais résidant aux États-
+Unis et dont la situation déclarée est, d’une part, « sans activité professionnelle » et, d’autre part, « gestion
+des immobiliers », ont demandé le 5 juin 2012 un rachat total de leurs deux contrats (souscrits en février et
+mars 1996) pour 430 000 euros avec versement des fonds sur un compte ouvert dans un établissement en
+France ; que les dossiers des deux clients ne comprennent aucune pièce justificative sur 1’origine des fonds
+versés initialement, ni aucun élément d’information sur leurs revenus et leur patrimoine ; que lorsque
+Generali Vie envoie une lettre le 14 juin 2012 détaillant les choix fiscaux possibles et mentionnant
+1’existence d’une convention fiscale entre la France et les États-Unis, les clients modifient leur demande
+initiale et demandent le virement des fonds sur un compte ouvert à leur nom dans un établissement à Hong
+Kong, afin de « faciliter la gestion de leurs avoirs » ; que ce choix ne nécessite pas d’obtenir un document de
+l’administration fiscale américaine mais conduit à l’application d’un taux de prélèvement fiscal plus
+important ; que le motif avancé par les clients apparaissant incohérent avec leur lieu de résidence connu,
+Generali Vie effectue un examen renforcé des opérations de rachat ; que cet examen renforcé n’a pas permis
+d’obtenir d’autres éléments sur ces opérations ;
+56. Considérant que le reproche ne porte pas sur le défaut de mise à jour de la connaissance que
+l’entreprise avait de ces clients, en application de l’article 19 de l’ordonnance no 2009-104, dès la
+réactivation des contrats en 2012 ; qu’en l’état des informations imprécises et contradictoires dont disposait
+Generali Vie sur ces clients, et de l’incertitude sur la provenance des fonds, une DS aurait dû être adressée au
+service Tracfin au plus tard lors du rachat total du contrat et du virement, 16 ans plus tard, sur un compte
+bancaire à Hong Kong ; qu’au terme de son examen renforcé, Generali Vie aurait dû effectuer une DS ; que
+le grief 8.2 est donc établi ;
+57. Considérant que, selon le grief 8.3, la société H3, représentée par M. H11, a souscrit 2 contrats de
+capitalisation le 15 septembre 2010 sur lesquels a été effectué un versement initial cumulé de 26 725 600
+euros ; que ces deux contrats sont déclarés sans effet le 4 octobre 2010 et remplacés par deux autres contrats
+; que, sur l’avis du conseiller fiscal de la famille H12, qui détient ce groupe, ces deux derniers contrats ont
+été déclarés sans effet le 22 novembre 2010 et les fonds répartis sur 4 nouveaux contrats ; que 2 de ces 4
+contrats ont en même temps fait l’objet d’un changement de souscripteur ; qu’ainsi, le 20 novembre 2010,
+Generali Vie a confirmé l’enregistrement des sociétés civiles H13 et H14 en tant que souscripteurs de ceux-
+ci, en lieu et place de la société H3, qui demeure souscripteur des deux autres contrats ; qu’en définitive, les
+fonds investis à la souscription des deux contrats initiaux, le 15 septembre 2010, ont été répartis ainsi à la
+suite des opérations ci-dessus mentionnées : contrats des sociétés H13 et H14 (9 951 527 euros chacun) et
+contrats de société H3 (3 411 273 euros chacun) ; que ces contrats ont enregistré de nombreuses opérations
+de rachats partiels anticipés entre 2010 et 2012, qui ont donné lieu à des pénalités de 2 % du montant du
+rachat partiel aux termes des contrats ; qu’en outre, les bénéficiaires des rachats partiels des 21 et 23
+novembre 2010 ne sont pas les souscripteurs mais des personnes physiques qui leur sont liées ; que ne figure
+au dossier aucun élément d’identité et de connaissance concernant ces personnes, soit : (i) contrat
+no 83050762 : Mme H15 (bénéficiaire du rachat partiel de 156 936 euros), M. H16 (bénéficiaire du rachat
+partiel de 156 936 euros), Mme H17 (bénéficiaire du rachat partiel de 1 896 180 euros) ; (ii) contrat no
+Autorité de contrôle prudentiel et de résolution 15
+
+===== Page 16 =====
+Décision de la Commission des sanctions – procédure no 2014-07
+83050761 : Mme H18 (bénéficiaire du rachat partiel de 2 153 190 euros), M. H19 (bénéficiaire du rachat
+partiel de 439 998 euros) et Mme H20 (bénéficiaire du rachat partiel de 439 998 euros) ; que certains rachats
+partiels effectués en 2011, repérés via l’outil Gelab, ont été classées sans suite par le pôle Tracfin de la DEP
+sans que le motif de ces rachats ait été demandé ;
+58. Considérant qu’en l’absence d’explication sur les motifs des 2 renonciations successives à des
+contrats sur une période de 2 mois et sur le changement de souscripteur pour 2 contrats, non plus que sur les
+motifs des rachats partiels ci-dessus décrits, dont les bénéficiaires n’ont donné lieu à aucune mesure de
+vigilance, Generali Vie aurait dû adresser une DS au service Tracfin au titre du I de l’article L. 561-15 du
+CMF ; que le grief 8.3 est établi ;
+59. Considérant que, selon les griefs 8.4 et 8.5, Generali Vie n’a pas respecté ses obligations déclaratives
+en ce qui concerne des opérations de remboursement de bons de capitalisation ;
+60. Considérant qu’ainsi, dans le premier dossier (grief 8.4), M. A5, né en 1948, a présenté au
+remboursement sous forme anonyme (opération très pénalisée fiscalement), le 15 juin 2011, 23 bons de
+capitalisation souscrits en 2003 sous forme nominative par M. H21 (né en 1920, veuf au moment de la
+souscription), pour un montant total de 26 000 euros ; que 2 jours auparavant, le souscripteur avait informé
+par courrier Generali Vie qu’il avait « égaré » ses bons de souscription et formulé une demande d’opposition
+à leur règlement ; que l’entreprise aurait alors contacté par téléphone le souscripteur qui aurait donné son
+accord pour procéder au remboursement de ces bons au profit d’un tiers, lequel a été effectué le 22 juillet
+2011 au bénéfice de leur porteur, M. A5 ; que Generali Vie ne dispose toutefois d’aucun document
+justificatif de cet accord donné téléphoniquement ; que le dossier client ne comporte pas davantage de
+précision sur les raisons qui l’auraient conduit à annuler sa demande d’opposition, ni aucune confirmation
+écrite de cette annulation, ni aucune pièce justificative de 1’entrée en possession des bons par leur porteur ;
+qu’au vu des éléments du dossier qui ne comportent pas, notamment, d’éléments probants quant à l’entrée en
+possession des bons par la personne se présentant au remboursement de ceux-ci, Generali Vie aurait dû
+effectuer une DS au titre du I de l’article L. 561-15 du CMF ;
+61. Considérant que selon la notification de griefs, dans le second dossier (grief 8.5), Mme H9, née en
+1985, est en possession de 8 bons de capitalisation souscrits en 2003 sous forme anonyme par M. H22 (né en
+1912 et veuf au moment de la souscription) pour un montant total de 9 100 euros et 72 bons de capitalisation
+souscrits en 2003 sous forme anonyme par Mme H23 (née en 1920, veuve au moment de la souscription) pour
+un montant total de 82 milliers d’euros ; que ces 80 bons de capitalisation ont tous été souscrits par
+l’intermédiaire du père de la cliente, M. H24, qui en 2003 était conseiller commercial auprès de Generali Vie
+avant d’être radié en janvier 2007 des effectifs de l’entreprise ; qu’il est décédé depuis ; que 3 des bons
+souscrits par M. H22 sont présentés au remboursement par Mme H9 sous forme anonyme en mai 2012 ; que
+cette dernière a alors précisé à Generali Vie avoir retrouvé ces bons lors du rangement des papiers de son
+défunt père, accompagnés d’un mot manuscrit du souscripteur, qui ne figure pas au dossier client, indiquant
+« Pour vous remercier de votre gentillesse et de votre dévouement » ; que le correspondant Tracfin de
+Generali Vie, saisi du dossier, a indiqué dans un premier temps qu’« au regard de 1’acquisition des bons,
+nous pourrions être dans une situation d’abus de faiblesse... cf date de naissance du souscripteur » ; qu’il a
+conclu le 2 juillet 2012 que l’entreprise ne pouvait s’opposer au remboursement de ces bons dès lors que la
+pièce d’identité de leur porteur pouvait être récupérée et qu’en raison de l’âge du client au moment de la
+souscription, celui-ci ne pourrait vraisemblablement pas clarifier la possession des bons par son ex-conseiller
+commercial, voire serait peut-être décédé ; que Generali Vie a procédé au remboursement de ces 3 bons le 4
+juillet 2012 pour un montant de 3 400 euros ; que les 5 derniers bons souscrits par M. H22 et les 72 bons
+souscrits par Mme H23 ont été présentés au remboursement par Mme H9 sous forme anonyme à l’automne
+2012 ; que Generali Vie a procédé au remboursement des 77 bons restants le 3 octobre 2012 pour un montant
+total de 87 700 euros ;
+62. Considérant tout d’abord que, si Generali Vie soutient qu’aucun texte législatif ou réglementaire ne
+prévoit l’obligation pour les organismes d’assurance de collecter des informations relatives aux liens unissant
+le souscripteur du bon à son porteur, le I de l’article L. 561-15 du CMF leur impose de déclarer au service
+Tracfin toute opération dont ils ne peuvent exclure qu’elle porte sur des sommes provenant d’une infraction
+Autorité de contrôle prudentiel et de résolution 16
+
+===== Page 17 =====
+Décision de la Commission des sanctions – procédure no 2014-07
+sanctionnée d’une peine d’emprisonnement supérieure à un an ou participant au financement du terrorisme ;
+que de telles dispositions permettent que soient sanctionnées les carences d’un établissement qui omettrait,
+quel que soit le produit financier concerné, d’effectuer les diligences nécessaires, lesquelles n’incluent
+cependant pas la recherche ni la qualification de l’infraction pouvant faire l’objet de blanchiment ;
+63. Considérant ensuite que, dans ces 2 dossiers, les circonstances dans lesquelles le remboursement des
+bons de capitalisation, souscrits par des personnes âgées, a été demandé étaient de nature à faire naître un
+doute sur les conditions dans lesquelles les porteurs étaient entrés en leur possession et sollicitaient leur
+remboursement ; que dès lors, et eu égard à la nature particulière de ces bons, Generali Vie ne pouvait écarter
+le soupçon que les sommes en cause, au sens du I de l’article L. 561-15 du CMF, provenaient de la
+commission d’une infraction punie de plus d’un an d’emprisonnement ; qu’elle aurait donc dû déclarer ces
+opérations au service Tracfin ; que ce soupçon n’aurait pu être écarté que sur la base d’éléments tangibles,
+pouvant être ensuite produits devant le superviseur ; que de tels éléments n’ont pas, dans ces dossiers, été
+réunis ; que les griefs 8.4 et 8.5 sont établis ;
+2. Sur les défauts de déclarations de soupçon complémentaires
+64. Considérant que selon le V de l’article L. 561-15 du CMF, dans sa rédaction en vigueur pendant la
+période contrôlée, toute information de nature à infirmer, conforter ou modifier les éléments contenus dans
+une DS est portée au service Tracfin sans délai ;
+65. Considérant que, selon le grief 9, Generali Vie a omis de procéder à des DS complémentaires
+relativement aux dossiers de 3 clients, M. I1, Mme I2 et M. I3 ;
+66. Considérant que Generali Vie reconnaît le défaut de DS complémentaire dans les dossiers de Mme I2
+et de I3 ; qu’après un versement initial de 42 000 euros qui a donné lieu à l’envoi de la DS initiale, les
+versements libres complémentaires de M. I1 ont atteint 57 000 euros ; qu’ils auraient donc dû donner lieu à
+l’envoi d’une DS complémentaire ; que le grief est établi ;
+3. Sur les déclarations de soupçon tardives
+67. Considérant que le second alinéa de l’article L. 561-16 du CMF dispose que lorsqu’une opération
+devant faire l’objet d’une DS a déjà été réalisée, soit parce qu’il a été impossible de surseoir à son exécution,
+soit que son report aurait pu faire obstacle à des investigations portant sur une opération suspectée au titre de
+la LCB-FT, soit qu’il est apparu postérieurement à sa réalisation qu’elle était soumise à cette déclaration,
+l’organisme assujetti en informe le service Tracfin sans délai ;
+68. Considérant que, selon le grief 10, il ressort du rapport de contrôle que Generali Vie a transmis au
+service Tracfin des DS portant sur des opérations de versement pour lesquelles l’entreprise n’avait pas
+d’assurance raisonnable quant à l’origine des fonds, après l’exécution d’opérations de rachat des fonds
+douteux ; que dans 4 dossiers [dossiers de M. J1, Mme J2, M. et Mme J3, Mme C1], les délais entre 1’exécution
+de 1’opération suspecte et la transmission de la DS avoisinent les 2 ans, voire sont supérieurs ; que des délais
+aussi longs ne sauraient se justifier au regard des investigations éventuellement mises en œuvre par Generali
+Vie ;
+69. Considérant que Generali Vie ne conteste pas le grief, qui est établi au moment du contrôle sur place
+; que les mesures d’amélioration mises en œuvre postérieurement à la mission de contrôle, dont la diffusion
+le 23 juin 2014 d’une note opérationnelle relative à la DS, ne peuvent conduire à le remettre en cause ;
+Autorité de contrôle prudentiel et de résolution 17
+
+===== Page 18 =====
+Décision de la Commission des sanctions – procédure no 2014-07
+4. Sur les déclarations de soupçon de mauvaise qualité
+70. Considérant que selon le deuxième alinéa du I de l’article R. 561-31 du CMF, dans sa rédaction en
+vigueur pendant la période contrôlée, la DS doit notamment mentionner les éléments d’identification et de
+connaissance du client, et le cas échéant, du bénéficiaire effectif, l’objet et la nature de la relation d’affaires,
+ainsi que le descriptif des opérations concernées ;
+71. Considérant que, selon le grief 11, la plupart des 32 DS examinées par la mission de contrôle
+apparaissent insuffisamment détaillées et documentées, faute d’une connaissance adéquate de la clientèle ;
+que les informations financières et patrimoniales des clients déclarées au service Tracfin sont très souvent
+« inconnues » ou non mises à jour ; que cette insuffisance affecte les 23 dossiers suivants : société C8,
+association C9, Mme K1, M. K2, M. K3, M. K4, M. K5, Mme K6, M. K7, M. K8, M et Mme K9, M. K10, M.
+K11, Mme K12, M. I1, Mme C1 et M. K13, Mme K14, M. K15, M. I3, Mme K16, Mme K17, M. K18 et M. K19 ;
+72. Considérant que Generali Vie, qui conteste le grief, indique que le manque d’informations
+financières peut précisément entraîner l’envoi d’une DS ; que toutefois des carences en matière
+d’identification ou de connaissance du client affectent tous les dossiers énumérés par la poursuite ; qu’elles
+ont nécessairement pour conséquence de limiter la qualité des DS adressées au service Tracfin ; qu’en outre,
+les opérations du client ne sont pas toujours analysées alors qu’elles ont contribué au soupçon ; que l’absence
+de réaction du service Tracfin sur la qualité des déclarations reçues ne peut suffire à montrer que les
+obligations d’un établissement assujetti à ce sujet sont satisfaites ; que le grief est établi ;
+5. Sur les « déclarations infirmatives » non justifiées
+73. Considérant que selon le V de l’article L. 561-15 du CMF, dans sa rédaction en vigueur pendant la
+période contrôlée, toute information de nature à infirmer, conforter ou modifier les éléments contenus dans
+une DS est portée à la connaissance du service Tracfin sans délai ;
+74. Considérant que, selon le grief 12, Generali Vie a transmis 23 DS infirmatives de 2010 à fin octobre
+2012, à rapprocher de 71 déclarations initiales ; qu’elle a expliqué à la mission de contrôle que cette pratique,
+que l’ACPR n’a pas constatée dans d’autres organismes financiers, résultait d’une campagne de
+régularisation des dossiers clients en 2008, qui aurait permis de récupérer un certain nombre d’informations
+manquantes sur l’origine des fonds ; que le rapport de contrôle relève que dans certaines des déclarations
+infirmatives, (i) les informations transmises au service Tracfin sur l’origine des fonds reposent sur une
+simple déclaration du client ou de l’apporteur, et non sur un justificatif probant de nature à infirmer le
+soupçon initial, ou (ii) l’échéance d’une période de conservation des données est alléguée comme motif de
+déclaration infirmative, alors qu’aucun texte ne le prévoit ; qu’en outre, les déclarations infirmatives sont le
+plus souvent tardives, car adressées longtemps après la DS initiale, en particulier dans 4 dossiers de clients
+[dossiers de M. K11, Mme K16, M. K19 et de M. et Mme L] ; que Generali Vie n’a pas respecté son
+obligation de porter sans délai à la connaissance du service Tracfin toute information de nature à infirmer les
+éléments contenus dans la DS initiale et qu’en outre, la déclaration infirmative transmise ne comportait pas
+les éléments factuels et étayés de nature à infirmer lesdits éléments ;
+75. Considérant tout d’abord que Generali Vie soutient à juste titre que les dispositions ci-dessus
+rappelées n’imposent pas explicitement de fournir des documents justificatifs à l’appui des « déclarations
+infirmatives » adressées au service Tracfin ; que le défaut de communication au service Tracfin de tels
+documents ne peut être reproché au visa de cet article ; que cette partie du grief doit être écartée ;
+76. Considérant cependant que les reproches, non contestés par l’entreprise, tirés, d’une part, de la
+réalisation de « DS infirmatives » motivées seulement par l’échéance d’une période de conservation des
+données, alors qu’un tel élément n’est pas de nature à lever des soupçons de blanchiment antérieurs, et,
+d’autre part, de la transmission le plus souvent tardive des informations infirmatives à Tracfin, en particulier
+dans les 4 dossiers de clients visés par la lettre de griefs, alors que le V de l’article L. 561-15 du CMF impose
+Autorité de contrôle prudentiel et de résolution 18
+
+===== Page 19 =====
+Décision de la Commission des sanctions – procédure no 2014-07
+qu’il soit procédé à celle-ci « sans délai », sont fondés ; que, dans le périmètre réduit ainsi qu’il vient d’être
+indiqué, le grief est établi ;
+*
+* *
+77. Considérant qu’il résulte de ce qui précède que, malgré l’atténuation de la portée ou la légère
+réduction de périmètre de certains griefs opérées par la Commission, le dispositif de LCB-FT de Generali
+Vie présentait de très sérieuses carences qui affectaient à la fois son organisation (grief 1) et ses outils de
+suivi (grief 2), ainsi que les modalités du respect de ses obligations de vigilance (griefs 3 à 7) et déclaratives
+(griefs 8 à 12) ; qu’eu égard à la taille de l’établissement et à sa place sur le marché de l’assurance sur la vie,
+ces carences ne s’expliquent que par une attention insuffisante portée à ces questions dans la période
+antérieure au contrôle de l’ACPR ; que la correction des insuffisances constatées dans le cadre d’un plan
+d’action ambitieux, mis en place en 2013, renforcé depuis et suivi au plus haut niveau de l’entreprise, est à
+mettre au crédit de Generali Vie mais ne conduit pas à remettre en cause les griefs ; qu’au demeurant, si
+Generali Vie indique que de 2012 à 2017, elle aura engagé environ 30 millions d’euros pour mettre à niveau
+son dispositif de LCB-FT, elle ne prévoit d’achever la mise en œuvre de ce plan que dans 2 ans ; qu’ainsi,
+tout en tenant compte de l’effort désormais consenti, dont les effets devront toutefois être vérifiés, la
+Commission ne peut que constater le long délai mis par l’établissement pour se conformer aux dispositions
+de l’ordonnance no 2009-104 du 30 janvier 2009 et des textes pris pour son application ; que si Generali Vie
+a mis en avant la part prise par son ancienne direction GGP dans les insuffisances constatées par la mission
+de contrôle, il ne saurait en résulter une quelconque circonstance atténuante, étant d’ailleurs précisé que les
+manquements ne concernent pas tous cette seule unité ; qu’enfin, il doit être relevé que les reproches en
+matière de défauts de DS portent sur des dossiers dans lesquels les montants en cause étaient dans plusieurs
+cas particulièrement élevés ;
+78. Considérant qu’il convient, eu égard à la nature et à la gravité des manquements constatés et compte
+tenu de la situation financière de Generali Vie, de prononcer à son encontre un blâme et une sanction
+pécuniaire de 5 millions d’euros ; qu’une publication nominative n’est pas susceptible de causer à
+l’établissement un préjudice disproportionné ni de perturber gravement les marchés financiers ; qu’il y a
+donc lieu de publier la présente décision sous cette forme ;
+PAR CES MOTIFS
+DÉCIDE :
+Article 1er – Il est prononcé à l’encontre de Generali Vie un blâme ainsi qu’une sanction pécuniaire de 5
+millions d’euros (cinq millions d’euros).
+Article 2 – La présente décision sera publiée au registre de l’ACPR et pourra être consultée au secrétariat
+de la Commission.
+Le Président de la Commission
+des sanctions
+[Rémi BOUCHEZ]
+Conseiller d’État
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification et
+dans les conditions prévues au IV de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 19

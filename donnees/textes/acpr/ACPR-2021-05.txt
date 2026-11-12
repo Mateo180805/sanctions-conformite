@@ -1,0 +1,646 @@
+===== Page 1 =====
+Décision de la Commission des sanctions – procédure no 2021-05
+CAISSE RÉGIONALE DE
+CRÉDIT AGRICOLE MUTUEL
+DU LANGUEDOC
+Procédure no 2021-05
+–––––
+Blâme et sanction pécuniaire de
+1,5 million d’euros
+–––––
+Audience du 14 novembre 2022
+Décision rendue le 1er décembre
+2022
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 2 novembre 2021 par laquelle le Président de l’Autorité de contrôle prudentiel et de
+résolution (ACPR) informe la Commission des sanctions (ci-après la « Commission ») de ce que le
+Collège de supervision de l’ACPR (ci-après le « Collège »), statuant en sa formation restreinte, a décidé
+d’ouvrir une procédure disciplinaire à l’encontre de la Caisse régionale de Crédit agricole mutuel du
+Languedoc (ci-après la « CRCAM Languedoc »), dont le siège social est avenue de Montpellieret
+Maurin 34977 Lattes ;
+Vu la notification des griefs du 2 novembre 2021 et ses annexes ;
+Vu les mémoires en défense des 1er février, 10 mai, 5 juillet et 28 juillet 2022, par lesquels la CRCAM
+Languedoc (i) soutient que les conditions d’utilisation du Logiciel à l’Usage du Contrôle assisté par
+l’Intelligence Artificielle (LUCIA) pour analyser les opérations de la clientèle ont affecté la régularité
+de la procédure disciplinaire en ce qu’elles n’ont pas respecté l’obligation de loyauté à laquelle la
+mission de contrôle était soumise et ont porté irrémédiablement atteinte aux droits de la défense, (ii)
+conteste les deux premiers griefs et estime que le périmètre des deux derniers doit être réduit ;
+Vu les mémoires en réplique des 30 mars, 14 juin et 19 juillet 2022, par lesquels le Collège, représenté
+par M. Henri Toutée, estime (i) que les circonstances dans lesquelles la mission de contrôle a, pour la
+première fois lors d’un contrôle sur place, utilisé le logiciel LUCIA, n’ont pas été de nature à porter
+atteinte aux droits de la défense et (ii) que tous les griefs sont fondés ;
+Vu le rapport du 10 octobre 2022 de Mme Dorothée de Kermadec-Courson, rapporteur, qui conclut
+(i) que les circonstances dans lesquelles la mission de contrôle a utilisé le logiciel LUCIA ne sont pas
+critiquables, notamment qu’il n’en résulte aucune atteinte aux droits de la défense et (ii) que tous les
+griefs sont fondés, les trois premiers dans un périmètre réduit ;
+Vu les courriers du 10 octobre 2022 convoquant à l’audience les parties ainsi que la direction générale
+du Trésor (DGT) et les informant de la composition de la Commission ;
+Autorité de contrôle prudentiel et de résolution 1
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2021-05
+Vu les observations formulées par la CRCAM Languedoc le 25 octobre 2022 en réponse au rapport
+du rapporteur, par lesquelles elle (i) souligne à nouveau le caractère inédit et disproportionné des moyens
+utilisés par LUCIA et relève qu’au regard de tels moyens, les carences reprochées sont marginales ; (ii)
+persiste dans ses remarques au sujet des griefs, (iii) apporte des explications complémentaires au sujet
+d’un dossier de défaut de déclaration de soupçon (DS) (dossier 4.6) ; (iv) demande à la Commission de
+tenir compte des actions qu’elle mène en matière de lutte contre le blanchiment des capitaux et le
+financement du terrorisme (LCB-FT) ; (v) demande à la Commission de publier la décision sous forme
+non nominative ou de ne pas la publier ;
+Vu les autres pièces du dossier, notamment le rapport de contrôle signé le 29 juin 2021 et le procès-
+verbal de l’audition du directeur général de la CRCAM Languedoc, le 21 septembre 2022 ;
+Vu le code monétaire et financier (ci-après le « CMF »), notamment ses articles L. 561-5-1, L. 561-
+6, L. 561-10-2, L. 561-15, L. 561-32, L. 562-4, R. 561-12 et R. 561-12-1, dans leur rédaction en vigueur
+au moment des faits ;
+Vu l’arrêté du 3 novembre 2014 relatif au contrôle interne des entreprises du secteur de la banque,
+des services de paiement et des services d'investissement soumises au contrôle de l'Autorité de contrôle
+prudentiel et de résolution (ci-après « l’arrêté du 3 novembre 2014 »), notamment ses articles 46 et 49 ;
+Vu l’arrêté du 6 janvier 2021 relatif au dispositif et au contrôle interne en matière de lutte contre le
+blanchiment de capitaux et le financement du terrorisme et de gel des avoirs et d’interdiction de mise à
+disposition ou d’utilisation des fonds ou ressources économiques, notamment son article 4 ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACPR, composée de M. Alain Ménéménis, Président, Mmes Gaëlle
+Dumortier, Élisabeth Pauly et Édith Sudre ainsi que de M. Philippe Laigre, membres de la Commission ;
+Après avoir entendu, lors de sa séance publique du 14 novembre 2022 :
+- Mme de Kermadec-Courson, rapporteur, assistée de Mme Lysiane Dauphin, son adjointe ;
+- le chef du service des affaires institutionnelles et du droit public, représentant M. Henri Toutée,
+désigné par la formation du Collège de supervision qui a décidé de l’ouverture de la présente
+procédure, assisté de deux juristes au sein de ce service ; il a proposé à la Commission de prononcer
+un blâme et une sanction pécuniaire de 2 millions d’euros par une décision publiée sous une forme
+nominative ;
+- la CRCAM Languedoc, représentée par son directeur général, assisté de
+son responsable Contrôle permanent, Risques et Conformité, dont les avocats sont Mes Claire de
+Haut de Sigy et Julian Christen Coat (Coat Haut de Sigy de Roux Minor AARPI) ;
+En l’absence de la DGT, dûment convoquée ;
+Après avoir délibéré en la seule présence de M. Ménéménis, Président, Mmes Dumortier, Pauly et
+Sudre, M. Laigre, membres de la Commission, ainsi que de M. Jean-Manuel Clemmer, chef du service
+de la Commission des sanctions, faisant fonction de secrétaire de séance ;
+1. La CRCAM Languedoc, qui compte environ 2 700 collaborateurs, exerce son activité dans quatre
+départements de la région Occitanie (Aude, Gard, Hérault et Lozère). Sa part de marché, supérieure à
+30 %, la situe au premier rang des établissements de crédit dans ces départements. Elle a consenti
+6 milliards d’euros de crédit en 2021 (prêts garantis par l’État compris), dont 2,6 milliards d’euros de
+crédits immobiliers et 3 milliards d’euros pour les marchés des professionnels et des collectivités
+publiques.
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2021-05
+Au moment du contrôle, elle comptait environ un million de clients, dont plus de 90 % de particuliers
+(au nombre desquels 0,8 % de clients « banque privée »), le solde étant réparti entre les agriculteurs
+(7,6 %), les associations (1 %) et enfin les entreprises, collectivités locales et institutions financières.
+Au titre de l’exercice 2021, elle a réalisé un produit net bancaire de 624 millions d’euros et un résultat
+net de 211 millions d’euros. À la fin de cet exercice, ses fonds propres s’élevaient à 4,7 milliards d’euros.
+2. La CRCAM Languedoc a fait l’objet, du 29 juin 2020 au 15 janvier 2021, d’une mission de
+contrôle, qui a donné lieu à la signature, le 29 juin 2021, d’un rapport (ci-après le « rapport de
+contrôle »). Au vu de ce rapport, le Collège de l’ACPR, statuant en sa formation restreinte, a décidé,
+lors de sa séance du 15 octobre 2021, d’ouvrir la présente procédure disciplinaire, dont la Commission
+a été saisie par une lettre du 2 novembre 2021.
+I- Sur l’utilisation par la mission de contrôle de l’outil LUCIA
+3. La CRCAM Languedoc relève que, pour la première fois lors d’un contrôle sur place de l’ACPR,
+la mission de contrôle a utilisé l’outil d’intelligence artificielle LUCIA. Cet outil a permis aux
+contrôleurs de traiter des quantités importantes de données après que les demandes adressées à
+l’établissement ont conduit celui-ci à leur transférer 540 gigabits (GB) de données, notamment relatives
+à 750 millions d’opérations de paiement effectuées par la clientèle de janvier 2018 à juin 2020. Or
+l’utilisation de cet outil LUCIA n’a été révélée qu’à la suite d’une demande de l’établissement, un
+courriel antérieur à cette demande ayant seulement mentionné une « démarche exploratoire » et LUCIA
+n’étant alors présenté que comme un prototype. Ainsi, l’établissement n’a pas été informé en temps utile
+de l’exploitation de la quasi-totalité des données par LUCIA à des fins de contrôle et, le cas échéant,
+disciplinaires.
+Les explications obtenues tardivement sont, selon la CRCAM Languedoc, sans incidence sur
+l’atteinte irrémédiable qui a été portée aux droits de la défense même si, comme l’indique désormais le
+Collège, LUCIA n’a pas été utilisé pour la constitution des échantillons utilisés au titre du grief 1.
+4. Ainsi que la Commission l’a déjà rappelé à plusieurs reprises (voir notamment la décision MGEN
+Vie du 12 mai 2022, procédure n° 2020-10, point 4), le Conseil d’État a jugé que « le principe des droits
+de la défense (…) s’applique seulement à la procédure de sanction ouverte par la notification de griefs
+par le collège de l’Autorité et par la saisine de la commission des sanctions, et non à la phase préalable
+des enquêtes (…) » (CE 15 mai 2013 Société Alternative Leaders France, n°356054, rendu à propos
+d’un contrôle de l’Autorité des marchés financiers, mais transposable aux procédures devant l’ACPR).
+Dans la phase qui précède cette procédure, les contrôles doivent seulement « se dérouler dans des
+conditions garantissant qu'il ne soit pas porté une atteinte irrémédiable aux droits de la défense des
+personnes auxquelles des griefs sont ensuite notifiés » (ibidem ; CE 15 décembre 2014 Banque Populaire
+Côte d’Azur, n° 366640 ; CE 7 juin 2017 Société Vaillance Courtage, n° 393509 ; voir également la
+décision de la Commission Caisse d’Épargne du Languedoc-Roussillon du 25 novembre 2013,
+procédure n° 2013-01).
+En l’espèce, et même si elle ne peut que déplorer que les écritures et les explications orales de la
+poursuite ne l’aient pas mise en mesure de comprendre avec précision l’objet et les conditions
+d’utilisation de l’outil d’intelligence artificielle LUCIA, la Commission constate que la CRCAM
+Languedoc n’a en rien été empêchée de contester les manquements qui lui ont été reprochés ni de
+présenter ses observations en défense.
+Par ailleurs, à supposer même que LUCIA ait joué un rôle dans le choix des dossiers individuels
+mentionnés au titre de différents griefs, une telle circonstance est sans incidence, par elle-même, sur la
+régularité de la procédure. La Commission détermine, en tout état de cause, la portée de chaque grief,
+en appréciant si, compte tenu de sa nature et des conditions dans lesquelles les dossiers individuels
+mentionnés ont été choisis, le manquement reproché s’analyse comme une carence affectant une
+composante du dispositif LCB-FT de l’établissement (connaissance de la clientèle, suivi des opérations
+et détection des opérations atypiques….), que les quelques dossiers mentionnés par la poursuite ont pour
+fonction d’illustrer, ou seulement comme un ensemble de quelques défaillances ponctuelles (défaut de
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2021-05
+connaissance suffisante de quelques clients, défaut d’examen renforcé de quelques opérations…). On se
+reportera à cet égard à l’analyse des différents griefs au II ci-dessous.
+Enfin, si, comme l’a déjà rappelé la Commission (voir décision MGEN Vie du 12 mai 2022
+mentionnée ci-dessus, point 4), les contrôleurs sont soumis à une obligation de loyauté, ils ne sont pas
+tenus de faire connaître aux organismes contrôlés les caractéristiques des logiciels qu’ils peuvent être,
+le cas échéant, conduits à utiliser. En outre, rien ne permet, en l’espèce, de considérer qu’en raison du
+grand nombre de données que le logiciel LUCIA est capable de traiter, l’utilisation d’un tel instrument,
+pour la première fois à l’occasion d’un contrôle sur place, aurait été disproportionnée ou aurait affecté
+la loyauté du contrôle.
+5. Il résulte de ce qui précède que la CRCAM Languedoc n’est pas fondée à soutenir que la présente
+procédure disciplinaire serait entachée d’irrégularité en raison de l’utilisation du logiciel LUCIA. Par
+ailleurs, la Commission n’est en tout état de cause pas compétente pour annuler, comme le demande la
+CRCAM Languedoc, la décision du Collège d’engager la procédure disciplinaire.
+II- Sur les griefs
+A. Sur le défaut de connaissance de la clientèle
+6. En vertu de l’article L. 561-5-1 du CMF, avant d'entrer en relation d’affaires, les entreprises
+assujetties « recueillent les informations relatives à l'objet et à la nature de cette relation et tout autre
+élément d'information pertinent. Elles actualisent ces informations pendant toute la durée de la relation
+d'affaires ».
+L’article R. 561-12 du même code dispose que les entreprises assujetties « 1° Avant d'entrer en
+relation d'affaires, recueillent et analysent les éléments d'information nécessaires à la connaissance de
+l'objet et de la nature de la relation d'affaires ; / 2° Pendant toute la durée de la relation d'affaires,
+recueillent, mettent à jour et analysent les éléments d'information qui permettent de conserver une
+connaissance appropriée de leur relation d'affaires. / La nature et l'étendue des informations collectées
+ainsi que la fréquence de la mise à jour de ces informations et l'étendue des analyses menées sont
+adaptés au risque de blanchiment de capitaux et de financement du terrorisme présenté par la relation
+d'affaires ».
+7. Selon le grief 1, fondé sur ces dispositions, la CRCAM Languedoc ne respectait pas totalement,
+au moment du contrôle, ses obligations en matière de connaissance du client.
+Selon la première branche du grief, le niveau de connaissance de la clientèle placée en risque élevé
+ou très élevé par l’établissement, qui doit pourtant faire l’objet d’une vigilance renforcée, était
+insuffisant.
+Ainsi, 34 des 224 dossiers de particuliers étudiés par la mission de contrôle concernent des clients
+placés en risque élevé ou très élevé. Or 9 de ces 34 dossiers (dossiers 1.1 à 1.9) ne comportaient pas de
+justificatif des revenus ou du patrimoine.
+Par ailleurs, sur les 191 dossiers de professionnels et d’entreprises mentionnés par la mission de
+contrôle, 14 concernent des clients actifs placés en risque élevé ou très élevé. Sur ces 14 dossiers, 8 ne
+comportaient pas de justificatif des revenus et du patrimoine, 4 dossiers ne contenant même aucune
+donnée financière (1.10 à 1.17).
+Selon la seconde branche du grief, la périodicité de l’actualisation des informations relatives à la
+connaissance de la clientèle était, au moment du contrôle, insuffisante. Ainsi, 41 des 379 dossiers non
+clôturés que comportait l’échantillon sélectionné n’avaient pas été actualisés : 14 dossiers de personnes
+physiques (dossiers 1.5, 1.8, 1.18, 1.19, 1.20, 1.21, 1.22, 1.23, 1.24, 1.25, 1.26, 1.27, 1.28 et 1.29) et 27
+dossiers de personnes morales (1.10, 1.11, 1.14, 1.15, 1.16, 1.30 à 1.51).
+À cet égard, le suivi effectué par les services de la CRCAM Languedoc avait révélé un défaut de
+mise à jour des informations pour 21 % de la clientèle de l’établissement, notamment une absence ou
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2021-05
+une ancienneté des données relatives à la profession dans 39 % des cas et une absence ou une ancienneté
+des données relatives aux revenus des clients dans 84 % des cas.
+Dès lors, la CRCAM Languedoc n’était pas en mesure de contrôler la cohérence des opérations
+effectuées par ses clients en relation d’affaires avec leur activité, leurs revenus et leur patrimoine, ce qui
+ne lui permettait pas d’effectuer, le cas échéant, un examen renforcé de leurs opérations (cf. infra les
+dossiers 3.3, 3.4, 3.5, 3.6, 3.10, 3.12 et 3.14) ou une déclaration de soupçon (DS) (cf. infra les dossiers
+4.4 et 4.9).
+En outre, la CRCAM Languedoc ne disposait pas d’une connaissance appropriée et actualisée de ses
+relations d’affaires pour 44 clients de sa clientèle « banque privée », segment qui présente des risques
+de BC-FT plus élevés (dossiers 1.52 à 1.96).
+Enfin, les données financières relatives à 7 associations (dossiers 1.10, 1.16, 1.12, 1.13, 1.15, 1.97 et
+1.98) et à une société anonyme (dossier 1.17), qui présentaient des risques élevés, faisaient également
+défaut.
+8. La CRCAM Languedoc soutient à titre liminaire que la mention des mêmes dossiers au soutien de
+plusieurs reproches serait contraire au principe non bis in idem (dossiers 1.5, 1.8, 1.10, 1.14, 1.15 et
+1.16).
+Statuant sur un recours contre une décision de la Commission des sanctions de l’Autorité des marchés
+financiers, le Conseil d’État a jugé que « si une sanction administrative reposant sur plusieurs
+manquements doit être conforme au principe de proportionnalité, le principe du non bis in idem
+découlant du principe de nécessité des délits et des peines garanti par l'article 8 de la Déclaration des
+droits de l'homme et du citoyen de 1789 ne fait pas obstacle à ce que, dans le cadre d'une même poursuite
+conduisant à une même décision de sanction, plusieurs manquements distincts puissent résulter de
+mêmes faits» (CE 6 novembre 2019, n° 418463, point 18).
+La Commission avait pour sa part déjà indiqué qu’elle estimait que le principe non bis in idem ne
+trouvait « pas à s’appliquer dans une procédure disciplinaire unique au titre de laquelle les mêmes faits
+recevraient plusieurs qualifications » (décision du 8 décembre 2016 Axa France Vie, point 29 ; voir en
+outre, notamment, la décision BD Multimédia du 23 décembre 2020, point 4). Elle a seulement précisé
+qu’il convenait, dans le respect du principe de proportionnalité, d’en tenir compte dans la détermination
+de la sanction (décision ING Bank France du 24 février 2020, point 50).
+Ainsi, la mention de certains dossiers dans les deux branches du présent grief, relatives
+respectivement à la connaissance initiale de la clientèle et à son actualisation, n’est pas de nature à
+contrevenir au principe non bis in idem.
+9. L’argumentation selon laquelle le présent grief serait imprécis sera appréciée lors de l’examen de
+chacune de ses deux branches.
+Sur la première branche du grief
+10. La CRACM Languedoc soutient que, dans plusieurs cas, l’absence de recueil de justificatifs de
+la situation financière des clients qu’elle place en vigilance renforcée en raison d’un score (…) élevé
+serait palliée par « la mise en place en place d’un dispositif de surveillance (…) dédié, un KYC complet,
+renforcé et adapté au visa des procédures internes et une actualisation régulière des dossiers clients
+(tous les ans ou tous les 3 ans) » et par l’analyse du dossier de chaque client dans le cadre d’une approche
+par les risques faisant intervenir les conseillers et la « sécurité financière », avant que le dossier ne soit
+examiné en comité d’arbitrage (banque privée) ou en comité de contrôle interne (PPE et résidents de
+pays à risque).
+Elle estime par ailleurs qu’elle n’est pas tenue de disposer de pièces comptables de ses clients
+personnes morales et rappelle que l’obligation, pour les associations cultuelles, d’établir des comptes
+annuels n’a été imposée que par la loi n° 2018-727 du 10 août 2018.
+11. Sur le premier point, la Commission a rappelé à plusieurs reprises la nécessité, pour un
+établissement assujetti, de disposer, avant l’entrée en relation d’affaires, d’informations exactes et
+précises sur les revenus et le patrimoine du client (voir notamment les décisions Caisse fédérale du
+Crédit mutuel Nord Europe du 17 avril 2018, point 27, CNP Assurances du 26 juillet 2018, point 26 et
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2021-05
+Rakuten Europe Bank SA du 14 octobre 2021, point 20). Cette obligation s’impose d’autant plus,
+notamment en ce qui concerne le patrimoine (décision du 24 février 2021 ING Bank France, point 23),
+que le risque de blanchiment des capitaux ou de financement du terrorisme (BC-FT) que présente le
+client est élevé, les explications orales recueillies dans un tel cas étant nécessairement insuffisantes.
+S’ils sont utiles, les dispositifs alternatifs décrits ci-dessus ne pouvaient, à eux seuls, suffire.
+L’établissement doit en effet être à même d’établir, par tout moyen, que les informations dont il dispose
+sont suffisamment justifiées. Tel est le cas, par exemple, lorsque, pour les informations relatives au
+revenu d’un client, il a recueilli son avis d’imposition.
+Pour les personnes morales, il est nécessaire, pour justifier que l’établissement dispose de
+renseignements suffisants, de disposer de documents comptables. Pour les associations, même pour
+celles qui n’étaient pas tenues d’établir des documents comptables, il appartenait à l’établissement,
+s’agissant de clients qu’il avait lui-même placés en risque élevé, de recueillir un justificatif de leur
+situation financière.
+12. La CRCAM Languedoc soutient par ailleurs que les comptes de deux associations (dossiers 1.10
+et 1.15) étaient inactifs, respectivement depuis 2013 et depuis 2017, soit depuis une date antérieure à la
+période examinée par la mission de contrôle (1er janvier 2018 au 30 juin 2020).
+Cependant, même quand le compte d’un client est inactif, l’établissement est tenu d’actualiser la
+connaissance du client, sauf à clôturer le compte (décision Banque d’Escompte du 11 juillet 2019, point
+33) ou, à tout le moins, à accomplir les diligences nécessaires pour clôturer le compte, puisque, comme
+le relève la défense, pour un compte inactif au sens de l’article L. 312-19 du CMF, la clôture ne peut
+intervenir instantanément.
+Ainsi, dès lors que la relation d’affaires avec les deux associations était maintenue, il appartenait à
+l’établissement de réunir des justificatifs de leur situation financière. Pour les mêmes raisons, il devait
+réunir des justificatifs de la situation financière du client 1.17.
+Par ailleurs, si l’établissement soutient que, dans les 9 dossiers de personnes physiques, l’entrée en
+relation était antérieure à 2013 et que, pour les 8 dossiers de personnes morales, l’entrée en relation était
+antérieure à 2013 pour 3 d’entre eux, avait eu lieu en 2013 pour deux autres et en 2016 pour un autre, le
+reproche formulé porte sur la période qui a suivi le classement des clients en risque élevé, qui a
+commencé en 2016.
+Dans tous ces cas, le reproche est donc fondé, sans qu’ait d’incidence le fait qu’il doive être regardé
+comme se rattachant non à la première, mais à la seconde branche du grief.
+En revanche, compte tenu des justificatifs produits en défense, deux dossiers de personnes physiques
+(dossiers 1.2 et 1.6) doivent être écartés.
+13. Il résulte de ce qui précède que la première branche du grief - qui, même si certains reproches se
+rattachent en réalité à sa seconde branche, a été formulée en termes suffisamment précis pour permettre
+à l’établissement de présenter sa défense - est fondée, dans un périmètre légèrement réduit.
+La Commission relève qu’elle ne porte que sur 15 dossiers – pour une clientèle placée en risque élevé
+représentant, en juin 2020, environ 12 000 clients – et que la poursuite n’apporte pas d’éléments
+permettant d’établir, à partir des échantillons de 224 et 191 clients mentionnés au point 7, dont elle
+n’explique pas clairement comment ils ont été constitués, que ces quelques défaillances ponctuelles
+illustreraient une carence du dispositif même de connaissance initiale de la clientèle de l’établissement,
+composante de son dispositif LCB-FT.
+Sur la seconde branche du grief
+14. Si la CRCAM Languedoc soutient que la fréquence d’actualisation des données n’est pas définie
+par la loi, il appartient aux établissements assujettis de la définir en tenant compte du niveau de risque
+que présentent les différentes catégories de clients, afin de procéder à une actualisation appropriée des
+éléments de connaissance pertinents.
+En l’espèce, l’établissement avait défini une telle fréquence, en retenant une périodicité dont il n’est
+pas contesté qu’elle était adaptée aux risques présentés par ses différents clients et de nature à lui
+permettre de respecter son obligation de connaissance actualisée de ses clients : tous les deux ans pour
+les clients classés en risque très élevé, tous les trois ans pour les clients classés en risque élevé et tous
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2021-05
+les 5 ans pour les clients classés en risque standard. Dès lors, pour respecter son obligation légale,
+l’établissement devait, sauf justification particulière, respecter cette périodicité.
+Pour les 41 dossiers mentionnés par la poursuite (dossiers de personnes physiques n° 1.5, 1.8, 1.10,
+1.11, 1.14, 1.15, 1.16 et 1.18 à 1.51), ni l’ancienneté de la relation d’affaires ni la faible activité du
+compte ni, compte tenu de ce qui a été dit ci-dessus au point 12, son inactivité ne pouvaient justifier un
+défaut d’actualisation selon les fréquences mentionnées ci-dessus. Il appartenait ainsi à la CRCAM
+Languedoc de mettre à jour les éléments de connaissance du client dont elle disposait ou de mettre fin à
+la relation d’affaires.
+En revanche, au vu des explications et des pièces produites par l’établissement, 14 de ces 41 dossiers
+ne peuvent être retenus, les actualisations ayant été effectuées dans des délais appropriés (dossiers 1.16,
+1.19, 1.25, 1.27, 1.32, 1.37, 1.39, 1.40, 1.43, 1.44, 1.45, 1.46, 1.50 et 1.51).
+15. Pour les 44 clients « du segment banque privée présentant des risques de BC-FT plus élevés », la
+poursuite se borne à renvoyer à un document interne de la banque indiquant, pour un certain nombre de
+dossiers individuels, les éléments d’information détenus par l’établissement, sans préciser de quelles
+informations l’établissement devait disposer, dans le cadre d’une approche par les risques, au titre de
+l’actualisation de la connaissance de chacun de ces clients ni, pour chacun d’eux, ce qui manquait.
+Le reproche sur ce point, trop imprécis pour permettre à la défense de présenter utilement ses
+observations, ne peut donc qu’être écarté.
+16. Enfin, en ce qui concerne les données financières relatives à 7 clients du secteur associatif et une
+société commerciale (dossiers 1.10, 1.12, 1.13, 1.15, 1.16, 1.97, 1.98 et 1.17), il y a lieu de relever que
+la mention de 6 de ces dossiers (1.10, 1.12, 1.13, 1.15, 1.16 et 1.17) - qui ont d’ailleurs déjà été retenus
+au titre de la première branche du grief - au titre de la seconde branche du grief est sans objet.
+Pour les deux derniers (dossiers 1.97 et 1.98), l’absence de recueil d’informations relatives à la
+situation financière est établie, la Commission relevant seulement que ce reproche aurait dû être formulé
+au titre de la première branche du grief.
+17. La seconde branche du présent grief, qui, sous réserve de ce qui a été dit ci-dessus au point 15, a
+été formulée en termes suffisamment précis pour permettre à l’établissement de présenter sa défense,
+est donc fondée, pour un nombre de dossiers réduit ainsi qu’il a été dit, dont la Commission relève qu’il
+est très faible au regard de l’importance de l’établissement.
+Il est vrai que la poursuite retient plus largement un « défaut de mise à jour des informations pour
+21 % de la clientèle de l’établissement », en s’appuyant sur un document de travail remis par
+l’établissement contenant notamment des données chiffrées sur l’absence ou l’ancienneté des données
+relatives aux revenus. Cependant, la CRCAM Languedoc soutient, sans être contredite, que la mention,
+dans ce document, de « 82 % de données non suivies pour une population (EER<2013) », c’est-à-dire
+pour une population avec laquelle elle est entrée en relation d’affaires avant 2013, reprise par la
+notification des griefs, ne signifie pas, comme l’a estimé la poursuite, une absence de suivi, mais
+seulement un suivi par un autre instrument.
+Seuls peuvent donc être pris en compte les autres pourcentages mentionnés dans le document -
+données trop anciennes sur la profession du client pour 12 % des clients et sur les revenus pour 2% des
+clients – à propos desquels la défense se borne à dire qu’elle les conteste, sans apporter d’élément de
+nature à faire douter de leur exactitude.
+Cependant, si ces éléments peuvent donner à penser que le manquement reproché au titre de la
+seconde branche du grief va au-delà des seuls dossiers mentionnés ci-dessus, ils ne sauraient suffire pour
+considérer que la poursuite, sur laquelle repose la charge de la preuve, a établi une carence du dispositif
+de connaissance actualisée de l’établissement, composante de son dispositif LCB-FT.
+La seconde branche du grief n’est donc fondée qu’en tant qu’elle reproche des défaillances
+ponctuelles dans les quelques dossiers mentionnés ci-dessus.
+18. Il résulte de ce qui précède que le grief 1 est fondé, dans les limites définies aux points 13 et 17
+ci-dessus, sans que les actions de remédiation présentées aient à cet égard d’incidence.
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2021-05
+B. Sur le dispositif de suivi et d’analyse des opérations
+19. En vertu de l’article L. 561-6 du CMF, « pendant toute la durée de la relation d'affaires et dans
+les conditions fixées par décret en Conseil d’État, ces personnes exercent, dans la limite de leurs droits
+et obligations, une vigilance constante et pratiquent un examen attentif des opérations effectuées en
+veillant à ce qu'elles soient cohérentes avec la connaissance actualisée qu'elles ont de leur relation
+d'affaires ».
+Selon l’article R. 561-12-1 du même code, « pour l'application de l'article L. 561-6, les personnes
+mentionnées à l'article L. 561-2 mettent en œuvre des mesures permettant de s'assurer de la cohérence
+des opérations effectuées au titre d'une relation d'affaires avec la connaissance de cette relation
+d'affaires, actualisée conformément aux prévisions de l'article R. 561-12. Ces mesures doivent
+notamment permettre de s'assurer que les opérations effectuées sont cohérentes avec les activités
+professionnelles du client, avec le profil de risque de la relation d'affaires et, si nécessaire, selon
+l'appréciation du risque, avec l'origine et la destination des fonds concernés par les opérations. / Les
+personnes mentionnées à l'article L. 561-2 doivent être en mesure de justifier auprès des autorités de
+contrôle mentionnées à l'article L. 561-36 de la mise en œuvre de ces mesures et de leur adéquation au
+risque de blanchiment de capitaux et de financement du terrorisme présenté par la relation d'affaires ».
+L’article L. 561-32 du CMF impose aux personnes assujetties de mettre en place « « une organisation
+et des procédures internes pour lutter contre le blanchiment des capitaux et le financement du
+terrorisme, tenant compte de l'évaluation des risques prévue à l'article L. 561-4-1. En tenant compte du
+volume et de la nature de leur activité ainsi que des risques présentés par les relations d'affaires qu'elles
+établissent, elles déterminent un profil de la relation d'affaires permettant d'exercer la vigilance
+constante prévue à l'article L. 561-6 ». (…) / « Les personnes mentionnées ci-dessus mettent en place
+un dispositif de gestion des risques permettant de détecter les personnes mentionnées au 1° et les
+opérations mentionnées au 3° de l'article L. 561-10 ainsi que celles mentionnée aux articles L. 561-10-
+2 et L. 561-15 ».
+L’article R. 561-38 du même code leur impose de s’assurer que « l’organisation du dispositif de lutte
+contre le blanchiment de capitaux et le financement du terrorisme mentionné au I de l’article L. 561-32
+est adaptée à leur taille, à la nature de leurs activités ainsi qu’aux risques identifiés par la classification
+des risques mentionnée à l’article L. 561-4-1 » et de se doter « d’outils, de moyens matériels et humains
+permettant la mise en œuvre effective de l'ensemble des obligations de vigilance prévues au présent
+chapitre et en particulier la détection, le suivi et l'analyse des personnes et opérations mentionnées au
+troisième alinéa de l'article L. 561-32 ».
+Enfin, l’article 46 de l’arrêté du 3 novembre 2014 disposait, jusqu’à son abrogation par un arrêté du
+6 janvier 2021 : « Les entreprises assujetties se dotent de dispositifs de suivi et d'analyse de leurs
+relations d'affaires, fondés sur la connaissance de leur clientèle, permettant notamment de détecter les
+opérations qui constituent des anomalies au regard du profil des relations d'affaires et qui pourraient
+faire l'objet d'un examen renforcé mentionné au II de l'article L. 561-10-2 du code monétaire et financier
+ou d'une déclaration prévue à l'article L. 561-15 du même code ». Ces dispositions sont complétées par
+celles de l’article 49 de ce même arrêté qui prévoit que « les dispositifs mentionnés aux articles 46 et 47
+sont adaptés aux activités, aux clientèles, aux implantations de l'entreprise assujettie et aux risques
+identifiés par la classification ».
+20. Selon le grief 2, fondé sur ces dispositions, le dispositif de suivi et d’analyse des opérations de
+la CRCAM Languedoc était inadapté à son activité et incomplet.
+En premier lieu, le paramétrage de certains scénarios était inadapté aux risques de blanchiment des
+capitaux et de financement du terrorisme (BC-FT) de l’établissement. Ainsi, le scénario « S03 - détection
+de versements espèces dont la somme est significative et avec une incidence comportementale » détectait
+les dépôts hebdomadaires d’espèces par des particuliers supérieurs à 14 000 euros et supérieurs à 5 fois
+la moyenne des trois mois précédents, quel que fût leur niveau de ressources. Ce seuil, en totale
+inadéquation avec la typologie de la clientèle de la CRCAM Languedoc, conduisait à écarter 90 % des
+clients titulaires « non professionnels » et même plus de 99 % du segment de clientèle « particuliers
+grand public/particuliers par défaut » (PART1). Par exemple, il n’a pas permis de détecter les opérations
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2021-05
+de plusieurs clients (dossiers 3.15, 4.5 et 4.9), qui auraient dû faire l’objet d’un examen renforcé ou
+d’une déclaration de soupçon (DS) à Tracfin.
+En deuxième lieu, le scénario « S17 – Remises chèques mensuelles élevées en nombre et en montant
+(particuliers) » détectait , pour les clientèles « particuliers – grand public / particuliers par défaut
+(PART1) » et « particuliers – intermédiaire (PART2) », les remises mensuelles de chèques en nombre
+supérieur à 6 et d’un montant total supérieur à 14 000 euros et, pour la clientèle « particuliers haut-de-
+gamme (PART 3) », les remises mensuelles de chèques en nombre supérieur à 9 et d’un montant total
+supérieur à 21 500 euros. Ce scénario, qui a conduit au déclenchement de 42 alertes du 1er janvier 2018
+au 30 juin 2020, était en totale inadéquation avec chacun des segments de la clientèle de particuliers de
+la CRCAM Languedoc. Ainsi, le seuil de 14 000 euros retenu pour le segment PART1, qui concerne
+plus de la moitié de la clientèle de particuliers de la CRCAM Languedoc, représentait près de la moitié
+de l’épargne maximale détenue par le client ou de ses flux annuels domiciliés auprès de l’établissement
+et 68 % du revenu médian pour la région Occitanie. À titre d’exemples, ce scénario n’a pas permis de
+détecter les opérations des clients dans trois cas (cf. infra les dossiers 3.1, 3.7 et 3.23), qui auraient dû
+faire l’objet d’un examen renforcé ou d’une DS à Tracfin.
+En troisième lieu, aucun scénario n’était adapté aux opérations de faibles montants pouvant
+notamment relever du financement du terrorisme. Le seuil de 8 000 euros fixé par le scénario « S54 –
+Mouvements clients sous surveillance renforcée » n’a par exemple pas permis de détecter les opérations
+réalisées par un client qui auraient dû faire l’objet d’une DS à Tracfin pour ce motif (dossier 4.6).
+En quatrième lieu, ce dispositif était incomplet en ce qu’il n’existait pas de scénario permettant de
+suivre la cohérence entre les revenus connus du client et les flux créditeurs sur son compte. Cela a
+empêché de détecter les opérations de plusieurs clients (cf. infra les dossiers 3.1, 3.10, 3.14, 3.20, 3.22
+et 3.23).
+21. Si la CRCAM Languedoc soutient, à titre liminaire, que la pertinence d’un dispositif de détection
+des opérations atypiques ne peut être appréciée au vu des seules carences de certains des scénarios
+utilisés, mais doit l’être globalement selon une approche par les risques, le paramétrage inadapté d’un
+scénario, qui interdit de repérer certaines opérations atypiques des clients, caractérise en tout état de
+cause une insuffisance du dispositif. À cet égard, dans la décision qu’elle mentionne (décision Banque
+Populaire des Alpes du 29 juin 2012), la Commission a seulement indiqué que les établissements
+assujettis n’étaient pas tenus de formaliser les choix retenus en matière de paramétrage. Par ailleurs, par
+sa décision du 20 janvier 2016 Caisse d’épargne et de prévoyance du Languedoc-Roussillon (n° 374950,
+point 9), le Conseil d’État n’a pas davantage jugé que la qualité d’un dispositif de surveillance
+automatisé des opérations fondé sur l’utilisation de scénarios ne pouvait être critiquée qu’en cas
+d’absence de détection d’opérations significatives.
+22. La Commission a déjà rappelé qu’un dispositif de détection des opérations atypiques devait tenir
+compte du montant moyen des opérations des clients et des écarts à ce montant (décisions Société
+d’exploitation Merson du 19 décembre 2016, considérant 16 ; Sigue Ltd du 13 juin 2018, considérant
+12 ; Only Payment Services du 4 février 2020, considérant 19) ainsi que des revenus et du patrimoine
+du client (décision n° 2017-05 Caisse Fédérale du crédit mutuel Nord Europe du 17 avril 2018,
+considérant 9). Il n’y a pas lieu, à cet égard, de faire une différence entre la clientèle occasionnelle et la
+clientèle en relation d’affaires.
+23. En premier lieu, l’application, sans adaptation aux caractéristiques propres de la CRCAM
+Languedoc, d’un scénario du groupe Crédit Agricole prévoyant, au moment du contrôle, un seuil de
+14 000 euros pour le dépôt hebdomadaire d’espèces (scénario S03), très supérieur au montant moyen de
+ces dépôts (compris entre 400 et 700 euros) et excluant donc de facto l’immense majorité des opérations
+en cause, ne permettait pas à l’établissement de respecter ses obligations.
+Les autres scénarios mentionnés [S01 (…), S09 (…), S10 (…), S12 (…), S13 (…), S14 (…), S25,
+(…), S26 (…), S28, (…), S51 (…), S52 (…), S53 (…), S54 (…), S54bis (…), S56 (…), S66 (…),
+S68 (…) et S68bis (…)] n’étaient pas de nature à pallier cette carence dès lors qu’ils portaient sur des
+retraits d’espèces (S13, S14, S28, S68 et S68bis), étaient trop généraux (S51, S52, S54bis, S54), ne
+concernaient qu’une partie de la clientèle ou des opérations très particulières (S01, S09, S10, S12, S25,
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2021-05
+S26, S51, S52, S53, S54, S56 et S66) ou comportaient également des seuils élevés (S01, S09, S10, S51,
+S54, S66, S68 et S68bis).
+Quant à la vigilance humaine, dont l’utilité est indiscutable, elle peut seulement, dans un
+établissement de la taille de la CRCAM Languedoc, compléter les alertes déclenchées par un dispositif
+automatisé.
+Cette inadaptation du scénario S03 aux caractéristiques de la clientèle concernée a eu pour
+conséquence le déclenchement d’un faible nombre d’alertes.
+24. En deuxième lieu, la défense indique, sans être contredite par la poursuite, que le scénario S17 a
+été testé pendant 2 mois en 2018 avant d’être abandonné. Le reproche, qui porte sur l’inadéquation du
+paramétrage de ce scénario aux opérations de la clientèle, doit donc être écarté.
+25. En troisième lieu, la CRCAM Languedoc n’apporte aucun élément de nature à établir l’utilisation,
+au moment du contrôle sur place, d’un scénario permettant la détection d’opérations de faible montant
+pouvant correspondre à un financement du terrorisme. En effet, les scénarios qu’elle mentionne, dont
+l’objet est de détecter soit des opérations d’un montant inhabituellement élevé de clients sous
+surveillance renforcée (S54), soit les retraits d’espèces supérieurs au seuil de 5 000 euros à la suite de
+l’octroi d’un crédit (S68 et S68bis) ne pouvaient être utilisés à cette fin.
+Or la nécessité d’un tel scénario a déjà été rappelée par la Commission, notamment pour les retraits
+d’espèces faisant suite à un crédit à la consommation (décision Établissement de crédit B du 22 mars
+2018, considérants 11 à 13).
+La CRCAM Languedoc produit, il est vrai, pour contester la carence qui lui est reprochée, des
+éléments relatifs au suivi de quelques opérations. Cependant, si la pièce produite décrit des retraits de
+faible montant effectués par six clients qui venaient de bénéficier d’un prêt en avril 2018, elle n’établit
+nullement que ces retraits auraient été détectés grâce aux scenarios existants. En particulier, les scenarios
+S68 et S68 bis dont, ainsi qu’il a été dit, les seuils étaient d’ailleurs élevés, n’ont été mis en place qu’en
+mars 2020.
+Ni la mise en place de requêtes spécifiques, visant à surveiller les retraits DAB de villes chinoises
+ou turques ni la formation des collaborateurs à la détection de signaux faibles ne pouvaient suffire, dans
+un établissement de la taille de la CRCAM Languedoc, à pallier l’insuffisance reprochée ici.
+26. En quatrième lieu, si des décalages entre les revenus déclarés par le client et les flux créditeurs
+enregistrés sur son compte sont fréquents, des écarts significatifs et récurrents constituent des anomalies
+qui doivent être détectées. Or aucun scénario permettant de détecter ce type d’incohérences n’avait été
+mis en place et les autres scénarios mentionnés en défense [S03, S53bis, S31 (…) ; S54ter, S62bis (…)]
+ne permettaient pas de pallier cette carence.
+27. Le grief 2 est donc fondé. Une défaillance significative du dispositif de surveillance des
+opérations de l’établissement, composante de son dispositif LCB-FT, est établie, sans que le petit
+nombre de dossiers mentionnés par la poursuite, qui illustrent cette carence, en affecte la portée et sans
+qu’aient d’incidence les améliorations attendues du nouvel outil de détection fondé sur l’intelligence
+artificielle.
+C. Sur les obligations d’examen renforcé et de déclaration de
+certaines sommes ou opérations à Tracfin
+28. En vertu de l’article L. 561-10-2 du CMF, les organismes assujettis doivent effectuer « un examen
+renforcé de toute opération particulièrement complexe ou d'un montant inhabituellement élevé ou ne
+paraissant pas avoir de justification économique ou d'objet licite. Dans ce cas, ces personnes se
+renseignent auprès du client sur l'origine des fonds et la destination de ces sommes ainsi que sur l'objet
+de l'opération et l'identité de la personne qui en bénéficie ».
+Autorité de contrôle prudentiel et de résolution 10
+
+===== Page 11 =====
+Décision de la Commission des sanctions – procédure no 2021-05
+29. En vertu du I de l’article L. 561-15 du CMF, les entreprises assujetties « sont tenues, dans les
+conditions fixées par le présent chapitre, de déclarer au service mentionné à l'article L. 561-23 les
+sommes inscrites dans leurs livres ou les opérations portant sur des sommes dont elles savent,
+soupçonnent ou ont de bonnes raisons de soupçonner qu'elles proviennent d'une infraction passible
+d'une peine privative de liberté supérieure à un an ou sont liées au financement du terrorisme ».
+Le II de cet article prévoit que « par dérogation au I, les personnes mentionnées à l’article L. 561-2
+déclarent au service mentionné à l'article L. 561-23 les sommes ou opérations dont ils savent,
+soupçonnent ou ont de bonnes raisons de soupçonner qu'elles proviennent d'une fraude fiscale lorsqu'il
+y a présence d'au moins un critère défini par décret ».
+Selon le III du même article, « à l'issue de l'examen renforcé prescrit à l'article L. 561-10-2, les
+[entreprises assujetties] effectuent, le cas échéant, la déclaration prévue au I du présent article ».
+30. Contrairement à ce que soutient la CRCAM Languedoc, il est possible de retenir un manquement
+à l’obligation d’examen renforcé ou à l’obligation d’informer Tracfin de certaines opérations pour un
+dossier individuel, sans avoir d’abord caractérisé une défaillance générale de l’organisme assujetti dans
+ce domaine.
+Si la défense soutient par ailleurs que les organismes assujettis doivent disposer d’une marge
+d’appréciation des dossiers individuels, la Commission a déjà souligné que les organismes assujettis ne
+sauraient se prévaloir d’une « liberté d’appréciation indéterminée : ils ne peuvent être regardés comme
+ayant respecté leurs obligations que si les dispositifs et procédures mis en place répondent aux exigences
+qui justifient les obligations auxquelles ils sont soumis (décision du 24 décembre 2020 Attijariwafa Bank
+Europe, procédure n° 2020-01, point 6 ; voir également 29 avril 2021 Cardif Assurance Vie procédure
+n° 2020-03, point 9). De la même façon, pour respecter les obligations prévues par les textes cités aux
+points 28 et 29 ci-dessus, il incombe aux organismes assujettis d’apprécier exactement si les conditions
+que posent ces textes sont ou non remplies.
+1°) Sur l’obligation d’examen renforcé
+31. Selon le grief 3, fondé sur les dispositions ci-dessus mentionnées (cf. supra point 28), 24 dossiers
+présentaient un défaut d’examen renforcé au moment du contrôle sur place (dossiers 3.1 à 3.24).
+32. En premier lieu, la Commission estime que ne peuvent être reprochés, au visa de l’article L. 561-
+10-2 du CMF, que des manquements à l’obligation d’effectuer un examen renforcé d’opérations
+susceptibles de caractériser des faits de blanchiment de capitaux ou de financement du terrorisme. Or,
+dans 7 des dossiers mentionnés ci-dessus, les opérations en cause étaient susceptibles de caractériser
+une fraude fiscale, résultant de la possible soustraction à l’impôt de sommes provenant de la location de
+biens immobiliers par l’intermédiaire de plateformes spécialisées ou d’une activité de chauffeur VTC.
+Ces 7 dossiers sont en conséquence écartés (dossiers 3.9, 3.10, 3.11, 3.12, 3.13, 3.14 et 3.24).
+33. En deuxième lieu, la CRCAM Languedoc admet que, dans 7 autres dossiers (dossiers 3.2, 3.3,
+3.5, 3.6, 3.15, 3.16 et 3.22), elle aurait dû effectuer un examen renforcé des opérations du client. En
+raison du caractère inhabituel de ces opérations et de leur absence de justification économique au regard
+des éléments de connaissance du client, le manquement est en effet caractérisé dans ces 7 cas.
+34. En troisième lieu, dans les 10 autres cas (dossiers 3.1, 3.4, 3.7, 3.8, 3.17, 3.18, 3.19, 3.20, 3.21 et
+3.23), la CRCAM Languedoc aurait dû effectuer un examen renforcé des opérations des clients, qui
+entraient dans les prévisions de l’article L. 561-10-2 du CMF, en raison de l’incohérence des opérations
+enregistrées au crédit des comptes des clients au regard de leur situation financière connue (dossiers 3.1,
+3.4, 3.20 et 3.23), des mouvements d’espèces exécutés (dossiers 3.1, 3.7 et 3.19), de transferts de fonds
+(dossiers 3.8, 3.17 et 3.23), du risque particulier attaché au secteur associatif (dossiers 3.3, 3.4) ou encore
+de l’exécution d’opérations non documentées présentées par le client comme participant au financement
+de projets immobiliers à l’étranger (dossiers 3.18, 3.19 et 3.21).
+35. Le grief 3 est donc fondé pour 17 dossiers.
+Autorité de contrôle prudentiel et de résolution 11
+
+===== Page 12 =====
+Décision de la Commission des sanctions – procédure no 2021-05
+2°) Sur le respect des obligations de déclaration à TRACFIN
+36. Selon le grief 4, fondé sur les dispositions citées ci-dessus (point 29), neuf des dossiers examinés
+par la mission de contrôle présentaient un défaut de DS (dossiers 4.1 à 4.9).
+37. La CRCAM Languedoc admet que des DS auraient été justifiées dans 7 dossiers (4.2, 4.3, 4.4,
+4.5, 4.7, 4.8 et 4.9).
+Dans ces dossiers, les opérations étaient caractérisées par (i) de nombreux mouvements d’espèces
+parfois précédés de remises de chèques (dossiers 4.2 à 4.5), notamment de chèques de banque (dossier
+4.4), (ii) la réception de virements de l’étranger (4.5), (iii) l’envoi fréquent de fonds via Western Union
+(dossier 4.7), (iv) la quasi-absence de mouvements correspondant au paiement de rémunérations sur le
+compte d’une société, dont l’activité exacte était en outre mal connue (dossier 4.8) avec, dans certains
+cas, une absence de réponse du client aux demandes de renseignements de l’établissement (dossiers 4.2
+à 4.4).
+Toutes ces opérations, dont la justification économique était mal connue, paraissaient incohérentes
+avec les éléments de connaissance du client, d’ailleurs le plus souvent lacunaires, dont disposait la
+CRCAM Languedoc. Des DS étaient donc nécessaires.
+38. Pour le premier des deux dossiers contestés (4.1), la Commission relève que les mouvements de
+chèques et d’espèces enregistrés sur le compte en 2018 (9 201 euros) et 2019 (14 225 euros) étaient
+élevés et paraissaient incohérents avec la situation personnelle de ces clients, qui étaient retraités.
+Précédemment, leur compte enregistrait principalement, au crédit, leurs pensions de retraite.
+En outre, les mouvements en cause avaient été effectués pendant la période où la société dirigée par
+leur fils, M. Z, placée en redressement judiciaire le 18 juin 2018, rencontrait des difficultés et alors que
+l’intéressé disposait d’une procuration sur le compte de ses parents.
+Enfin, il existait des incertitudes sur les revenus déclarés des clients, portés à 80 000 euros en
+novembre 2020 contre 30 000 euros auparavant.
+Ces trois séries d’éléments justifiaient une DS.
+39. Dans le dossier 4.6, [les opérations enregistrées sur le compte auraient] dû, eu égard aux
+éléments de connaissance dont disposait la CRCAM Languedoc sur ce client, faire naître un soupçon et
+conduire l’établissement à envoyer à Tracfin, dans le prolongement du premier signalement auquel il
+avait procédé, une déclaration de soupçon.
+40. Le grief 4 est donc fondé pour 9 dossiers.
+*
+* *
+41. Il résulte de tout ce qui précède qu’au moment du contrôle sur place, le dispositif de suivi et
+d’analyse des opérations de la clientèle de la CRCAM Languedoc reposait sur un ensemble de scénarios
+incomplet, ce qui ne la mettait pas en mesure de détecter certains types d’opérations atypiques (grief 2).
+Cette défaillance partielle d’une composante du dispositif LCB-FT constitue un manquement
+important à des obligations définies depuis longtemps par les textes, dont la portée a été explicitée par
+de nombreuses décisions de la Commission, qui a notamment déjà eu l’occasion de souligner
+l’importance, pour les organismes assujettis, de disposer d’un scenario établissant une relation entre les
+revenus d’un client et ses opérations (voir par exemple la décision Axa France Vie du 8 décembre 2016,
+procédure n° 2015-08, considérant 32).
+Un tel manquement est d’autant plus critiquable que la CRCAM Languedoc dispose, du fait de sa
+taille et de son appartenance au groupe Crédit Agricole (GCA), de moyens humains, techniques et
+financiers importants.
+Autorité de contrôle prudentiel et de résolution 12
+
+===== Page 13 =====
+Décision de la Commission des sanctions – procédure no 2021-05
+42. Pour le reste, la poursuite a seulement établi un certain nombre de défaillances ponctuelles. Ainsi
+qu’il a été dit, les quelques manquements retenus au titre du grief 1 ne peuvent caractériser une carence
+du dispositif de connaissance de la clientèle lui-même. De même, les 17 défauts d’examen renforcé
+(grief 3) et les 9 défauts de déclaration de soupçon à Tracfin (grief 4) retenus – dont chacun constitue
+un manquement - ne peuvent, à eux seuls, révéler une carence d’ensemble du dispositif LCB-FT de
+l’établissement.
+43. Il convient par ailleurs de tenir compte des actions de remédiation présentées par la CRCAM
+Languedoc, qui a notamment renforcé les effectifs affectés à la sécurité financière et amélioré son
+dispositif de connaissance des clients et de surveillance de leurs opérations en matière de LCB-FT.
+L’établissement a en particulier été l’un des deux premiers du GCA à participer au programme de
+détection de la délinquance financière, qui utilise des technologies innovantes au service de la LCB-FT.
+44. Compte tenu des éléments mentionnés aux points 41 à 43, les manquements retenus par la
+Commission justifient le prononcé d’un blâme et il y a lieu de prononcer en outre à l’encontre de la
+CRCAM Languedoc une sanction pécuniaire de 1,5 million d’euros. En l’absence d’éléments de nature
+à établir qu’une publication sous forme nominative causerait à la CRCAM Languedoc un préjudice
+disproportionné et qu’elle méconnaîtrait, en l’espèce, l’équilibre entre l’exigence d’intérêt général à
+laquelle elle répond et les intérêts de la société, il y a en outre lieu de publier la présente décision au
+registre de l’ACPR sous forme nominative, pendant une durée de cinq ans. Elle y sera ensuite maintenue
+sous une forme non nominative.
+*
+* *
+PAR CES MOTIFS
+DÉCIDE :
+ARTICLE 1ER – Il est prononcé à l’encontre de la CRCAM Languedoc un blâme et une sanction
+pécuniaire de 1,5 million d’euros.
+ARTICLE 2 – La présente décision sera publiée au registre de l’ACPR pendant cinq ans sous une
+forme nominative, puis sous une forme ne permettant pas d’identifier la CRCAM Languedoc, et pourra
+être consultée au secrétariat de la Commission.
+Le Président de la Commission
+des sanctions
+[Alain Ménéménis]
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification
+et dans les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 13

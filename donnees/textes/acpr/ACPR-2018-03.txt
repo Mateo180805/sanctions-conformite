@@ -1,0 +1,578 @@
+===== Page 1 =====
+SOCIÉTÉ A
+Procédure no 2018-03
+–––––
+Blâme
+–––––
+Audience du 12 juin 2019
+Décision rendue le 2 juillet 2019
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 12 juin 2018 par laquelle le Président de l’Autorité de contrôle prudentiel et de résolution
+(ci-après « l’ACPR ») informe la Commission de ce que le Collège de supervision de l’ACPR (ci-après le
+« Collège »), statuant en sa formation sectorielle de la banque, a décidé d’ouvrir une procédure disciplinaire à
+l’encontre d’un établissement de monnaie électronique, la société A, enregistrée sous le no 2018-03 ;
+Vu la notification des griefs du 12 juin 2018 ;
+Vu les mémoires en défense des 14 septembre et 17 décembre 2018, par lesquels la société A i) soutient
+qu’en application du principe de légalité des délits et des peines, les principaux griefs doivent être écartés, ii)
+fait valoir qu’à la suite de la première sanction prononcée en 2015 à son encontre par la Commission, elle a
+renforcé son dispositif de lutte contre le blanchiment et le financement du terrorisme (ci-après « LCB-FT »),
+iii) soutient que la Commission doit prendre en considération les nombreuses mesures qu’elle a engagées, dès
+le second semestre 2016, pour remédier aux carences reprochées et iv) demande que l’audience ne soit pas
+publique, que la décision à intervenir ne soit pas publiée et, si elle devait l’être, que ce soit sous une forme
+anonyme ;
+Vu le mémoire en réplique du 8 novembre 2018, par lequel M. Christian Poirier, représentant du Collège,
+maintient tous les griefs ;
+Vu le rapport du 9 mai 2019 de Mme Elisabeth Pauly, rapporteure, dans lequel celle-ci conclut que 7 griefs
+sont établis, dont 3 dans un périmètre réduit ou à relativiser (griefs 3, 5 et 7) et que le grief 4 doit être écarté ;
+Vu les observations présentées le 24 mai 2019 par la société A en réponse au rapport de la rapporteure, par
+lesquelles elle soutient qu’en raison des modalités et délais de la transposition, en France, de la directive (UE)
+2015/849 du Parlement européen et du Conseil du 20 mai 2015 relative à la prévention de l’utilisation du
+système financier aux fins du blanchiment de capitaux ou du financement du terrorisme (ci-après la « 4ème
+directive anti-blanchiment ») des sanctions ne sauraient être prononcées à l’encontre d’un organisme assujetti
+pour des manquements constatés entre la publication de l’ordonnance n° 2016-1635 du 1er décembre 2016 (ci-
+après l’« ordonnance du 1er décembre 2016 ») et celle du décret n° 2018-284 du 18 avril 2018 (ci-après le
+« décret du 18 avril 2018 ») qui en a précisé les dispositions ; qu’elle estime en outre que c’était une erreur
+d’ouvrir une procédure disciplinaire alors qu’un processus de changement de contrôle de l’établissement était
+en cours ;
+Vu les courriers du 10 mai 2019 convoquant les parties à l’audience et les informant de la composition de
+la Commission ;
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2018-03
+Vu les autres pièces du dossier, notamment le rapport de contrôle du 26 février 2018, les documents produits
+par le représentant du Collège et par la société A à la demande de la rapporteure, ainsi que les pièces versées
+au dossier de procédure par cette dernière ;
+Vu le code monétaire et financier (ci-après le « CMF »), notamment ses articles L. 561-5, L. 561-6, L. 561-
+36-1, L. 612-38, L. 612-39, R. 561-16, R. 561-20 II et R. 612-35 à R. 612-51, dans leur rédaction applicable
+au moment du contrôle ;
+Vu l’arrêté du 3 novembre 2014 relatif au contrôle interne des entreprises du secteur de la banque, des
+services de paiement et des services d’investissement soumises au contrôle de l’ACPR (ci-après « l’arrêté du
+3 novembre 2014 »), notamment ses articles 11, 38, 46, 47, 67 et 233 ;
+Vu l’instruction n° 2012-I-04 du 28 juin 2012 modifiée relative aux informations sur le dispositif de
+prévention du blanchiment de capitaux et de financement des activités terroristes, dans sa version en vigueur
+au moment du contrôle ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACPR, composée de M. Rémi Bouchez, Président, Mme Claudie Aldigé,
+Mme Claudie Boiteau, M. Christian Lajoie et M. Denis Prieur ;
+Après avoir entendu, lors de sa séance non publique du 12 juin 2019 :
+– Mme Pauly, rapporteure, assistée de M. Fabien Patris ;
+– M. Thomas Ernoult, représentant la directrice générale du Trésor ;
+– M..Poirier, représentant du Collège, assisté du directeur des affaires juridiques, du chef du service des
+affaires institutionnelles et du droit public, de deux juristes au sein de ce service, ainsi que de la cheffe
+du service compétent de la direction du contrôle des banques ; M. Poirier a proposé à la Commission de
+prononcer un blâme et une sanction pécuniaire de 100 000 euros dans une décision publiée sous une
+forme nominative ;
+– La société A, représentée par [son] directeur général, ainsi que par Me Pierre Storrer, avocat à la Cour
+(cabinet Kramer Levin Naftalis & Frankel LLP) ;
+Après avoir délibéré en la seule présence de M. Rémi Bouchez, Président, Mme Claudie Aldigé, Mme Claudie
+Boiteau, M. Christian Lajoie et M. Denis Prieur, ainsi que de M. Jean-Manuel Clemmer, chef du service de la
+Commission des sanctions faisant fonction de secrétaire de séance ;
+1. Considérant que la société A est une société anonyme, agréée depuis 2010 comme établissement de
+monnaie électronique, qui intervient principalement dans le secteur des jeux en ligne ; qu’elle comptait, au
+moment du contrôle, une quarantaine de collaborateurs ; qu’elle réalisait alors la quasi-totalité de son chiffre
+d’affaires avec deux supports de monnaie électronique, [ME1] et [ME2], permettant de régler des achats sur
+les sites internet partenaires de la société A ayant adopté son interface de programmation applicative (« API ») ;
+que [ME1] est un coupon non rechargeable plafonné à 250 euros, principalement alimenté en espèces auprès
+de buralistes rattachés à des réseaux de distribution d’enseignes spécialisées ; qu’un seul des partenaires
+commerciaux de la société A, la société [B], achetait à l’avance un stock de [ME1] géré par ses propres outils ;
+que [ME2], également non rechargeable, était approvisionné uniquement par carte bancaire avec un plafond
+de 10 000 euros et était notamment utilisé pour alimenter des comptes de joueurs, pour la plupart résidents
+norvégiens, intervenant sur des sites de jeux en ligne majoritairement domiciliés à Malte ; qu’en 2017, la
+société A a émis […] millions d’euros de monnaie électronique sous forme de [ME1] et […] millions d’euros
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2018-03
+sous forme de [ME2], ce qui a généré respectivement […] et […] millions d’euros de commissions, soit 23 %
+et 73 % de ses […] millions d’euros de chiffre d’affaires, pour un résultat net [positif] de près de […] millions
+d’euros ;
+2. Considérant qu’en 2018, l’interruption de la commercialisation du produit [ME2] et la diminution de
+moitié de l’activité sur les [ME1] ont entraîné une très forte baisse du chiffre d’affaires de la société A
+conduisant à une perte estimée de […] millions d’euros ; que, par ailleurs, en février 2019, l’ACPR a donné
+son accord, sous certaines conditions, à la prise de contrôle de la société A par le groupe […] de services
+financiers et commerciaux [X] ; que le 21 mars 2019, une assemblée générale extraordinaire a décidé une
+augmentation de capital de […] millions d’euros, avec versement des fonds au plus tard le 30 avril 2019,
+versement qui, selon les indications données lors de l’audience, n’avait pas eu lieu à la date de celle-ci ; qu’à
+fin mars 2019, l’insuffisance de fonds propres prudentiels de la société A, qui s’est sensiblement aggravée en
+raison des pertes enregistrées au premier trimestre, a dépassé les […] millions d’euros ; qu’une perte supérieure
+à […] millions d’euros est anticipée par la société A pour l’année en cours ;
+3. Considérant qu’à la suite du contrôle sur place, réalisé entre septembre et novembre 2017, du dispositif
+de LCB-FT de la société A, un rapport a été établi le 26 février 2018 ; qu’au vu de ce rapport, le Collège,
+statuant en sa formation de sous-collège sectoriel de la banque, a décidé, lors de sa séance du 29 mai 2018,
+d’ouvrir la présente procédure disciplinaire ;
+I - Sur les questions générales et exceptions de procédure
+A. Sur l’ouverture d’une procédure disciplinaire à l’égard d’un organisme en cours de
+changement d’actionnaire majoritaire
+4. Considérant que la société A soutient que l’ouverture d’une procédure disciplinaire à son encontre, alors
+qu’étaient en cours les discussions en vue d’une prise de contrôle de l’établissement par le groupe [X], était
+inopportune ; qu’elle a eu des effets délétères sur le processus de changement d’actionnaire, qui se sont ajoutés
+à ceux déjà produits par les allégations, qu’elle estime totalement infondées, du rapport de contrôle selon
+lesquelles son produit [ME2] serait « presque exclusivement utilisé afin de contourner la législation
+norvégienne sur le jeu en « anonymisant » des transactions interdites », de sorte que « l’essentiel du fonds de
+commerce de la société A n’est pas conforme aux obligations réglementaires françaises en matière de risque
+de conformité et viole les lois pénales norvégiennes » ; qu’une sanction pécuniaire, dont la perspective n’a pas
+été intégrée dans les discussions avec le groupe [X], serait susceptible d’obérer gravement l’avenir de la société
+A et la réputation internationale de ce groupe ;
+5. Considérant, cependant, qu’ainsi que la Commission l’a rappelé précédemment, il existe au sein de
+l’ACPR une stricte séparation des fonctions de poursuite et de sanction ; qu’il n’appartient pas à la Commission
+de se prononcer sur les circonstances dans lesquelles le Collège a décidé d’ouvrir une procédure disciplinaire
+mais « au terme de l’instruction d’un dossier, [de] statuer sur les faits soumis à son examen au vu des
+arguments échangés » par écrit ou lors de l’audience (décision n° 2014-08 du 19 juin 2015, considérant 9) ;
+que sont également sans incidence les critiques adressées au rapport de contrôle par la société A, dès lors,
+d’une part, qu’elles portent sur des points qui n’ont pas été repris par la notification des griefs et, d’autre part,
+qu’il n’en résulte pas d’atteinte irrémédiable aux droits de la défense dans le cadre de la présente procédure
+disciplinaire ; qu’au terme de l’examen de l’affaire auquel elle procède, la Commission détermine les sanctions
+qu’elle prononce après avoir analysé la teneur et la gravité des griefs qui lui sont soumis, la situation financière
+de l’organisme mis en cause et, le cas échéant, les actions correctrices mises en œuvre ; que c’est ainsi qu’il
+sera procédé ci-après ;
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2018-03
+B. Sur le défaut de publication, à la date du contrôle, des dispositions réglementaires
+précisant les dispositions de l’ordonnance du 1er décembre 2016 et l’absence
+d’actualisation de l’arrêté du 3 novembre 2014
+6. Considérant que la société A soutient que la période au cours de laquelle le contrôle sur place a été
+diligenté était caractérisée par une confusion affectant l’ensemble du dispositif français de LCB-FT ; que cette
+confusion a résulté du délai qui s’est écoulé entre la publication de l’ordonnance du 1er décembre 2016 et celle
+du décret du 18 avril 2018 qui est venu préciser les aspects réglementaires de la transposition de la 4ème directive
+anti-blanchiment ; que les lignes directrices de l’ACPR relatives à l’identification, la vérification de l’identité
+et la connaissance de la clientèle faisant suite à cette transposition n’ont été publiées que le 14 décembre 2018 ;
+que, de même, le document de Tracfin compilant les nouvelles dispositions législatives et réglementaires
+relatives à la LCB-FT est daté du 4 octobre 2018 ; que la Commission ne saurait, selon la société A, sanctionner
+la méconnaissance d’obligations qui n’existaient qu’en germe au moment du contrôle ; que, de plus, les
+dispositions de l’arrêté du 3 novembre 2014 n’ont pas été actualisées pour tenir compte des dispositions issues
+de la transposition de la 4ème directive anti-blanchiment ; qu’au demeurant, dans son rapport annuel 2018,
+l’ACPR a fait elle-même référence au dispositif de LCB-FT issu de la transposition de cette directive en
+indiquant que l’adaptation de la réglementation en découlant était « pleinement entrée en vigueur le 1er octobre
+2018 », soit postérieurement aux faits reprochés ;
+7. Considérant, cependant, qu’une appréciation générale sur la date à laquelle les dispositions issues de la
+transposition de la 4ème directive anti-blanchiment seraient « pleinement » entrées en vigueur ne peut se
+substituer à un examen de chacune des dispositions au visa desquelles les faits sont qualifiés dans la notification
+des griefs ; que la clarté de ces dispositions en l’absence, à la date du contrôle, de mesures réglementaires en
+précisant la teneur et la portée, de même que les conséquences éventuelles de l’absence de mise à jour de
+l’arrêté du 3 novembre 2014 feront ainsi l’objet d’une analyse à l’occasion de l’examen de chacun des griefs
+pour lequel la question se pose ;
+C. Sur l’application des dispositions du CMF qui permettent, lorsque certains critères
+sont satisfaits, de dispenser les établissements de monnaie électronique de leurs
+obligations de vigilance
+8. Considérant que, selon l’article R. 561-16 du CMF dans sa rédaction issue du décret n° 2016-1523 du 10
+novembre 2016 relatif à la lutte contre le financement du terrorisme applicable au 1er janvier 2017, les
+organismes assujettis ne sont pas soumis « aux obligations de vigilance prévues aux articles L. 561-5 et L.
+561-6, pour autant qu'il n'existe pas de soupçons de blanchiment de capitaux ou de financement du terrorisme,
+lorsque l'opération porte sur les produits suivants : (…) / 5° La monnaie électronique si toutes les conditions
+suivantes sont réunies : / a) Elle est émise en vue de la seule acquisition de biens ou de services, à l'exclusion
+des opérations mentionnées au 3° du II de l'article R. 561-10 ; / b) La valeur monétaire maximale stockée
+n'excède pas 250 euros et, dans l'hypothèse où le support peut être rechargé, la valeur monétaire est assortie
+d'une limite maximale de stockage et de paiement de 250 euros par période de trente jours et ne peut être
+utilisée que pour des paiements sur le territoire national ; / c) Le support de la monnaie électronique ne peut
+pas être chargé au moyen d'espèces. Toutefois, cette condition ne s'applique pas à la monnaie électronique
+émise en vue de l'acquisition de biens ou de services dans un réseau limité de personnes acceptant ces moyens
+de paiement ou pour un éventail limité de biens ou de services ; / d) Le support de la monnaie électronique ne
+peut pas être chargé au moyen de monnaie électronique dont le détenteur n'est pas identifié dans les conditions
+prévues à l'article R. 561-5. / Les opérations de retrait ou de remboursement en espèces de la monnaie
+électronique d'un montant supérieur à 100 euros demeurent soumises aux obligations de vigilance prévues
+aux articles L. 561-5 et L. 561-6. » ;
+9. Considérant que, s’agissant de la possibilité pour son produit [ME1] de bénéficier de l’exception à la
+condition prévue au c) du 5° de l’article R. 561-16 du CMF, seule débattue, la société A soutient que ce produit
+était distribué auprès d’un réseau limité d’accepteurs composé de sites marchands préalablement inscrits auprès
+d’elle et ne pouvait être utilisé que pour acquérir un éventail limité de services, principalement dans le domaine
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2018-03
+de la vente en ligne et du divertissement ; que ce n’est qu’après une large consultation de place courant 2017
+que l’ACPR a indiqué, dans sa position n° 2017-P-01 publiée le 25 octobre 2017, soit pendant le contrôle sur
+place, qu’elle retenait une définition restrictive de ces deux notions ; que, dès lors, la société A estime que la
+Commission ne saurait, dans le respect du principe de légalité des délits et des peines, la sanctionner pour des
+manquements constatés entre janvier et septembre 2017, au regard de dispositions dont la teneur n’avait pas
+encore été précisée ;
+10. Considérant, cependant, tout d’abord, que les notions de « réseau limité d’accepteurs » et d’ « éventail
+limité de biens ou services », inscrites dans le CMF pour la transposition de directives européennes sur la
+monnaie électronique et sur les services de paiement, ne sont ni obscures ni équivoques et ne sont pas non plus
+récentes ; qu’ainsi, elles ont en particulier été utilisées et explicitées par la directive 2009/110/CE du Parlement
+européen et du Conseil du 16 septembre 2009 relative aux établissements de monnaie électronique (ci-après
+les « EME »), dont le considérant 5 mentionnait notamment que : « Un instrument devrait être réputé utilisé à
+l’intérieur d’un tel réseau limité s’il est valable uniquement pour l’achat de biens et de services dans un
+magasin donné, dans une chaîne de magasins donnée ou pour un éventail limité de biens ou de services, quelle
+que soit la situation géographique du point de vente. Il peut s’agir notamment de cartes d’enseigne, de cartes
+d’essence, de cartes de membre, de cartes de transport en commun, de titres-repas ou de titres de services
+(tels que des titres de services pour la garde d’enfant, des prestations sociales ou des régimes de prestations
+subventionnant l’emploi de personnes pour effectuer des tâches ménagères comme le nettoyage, le repassage
+ou le jardinage) (…). » ; que le II de l’article L. 511-7 du CMF dans sa rédaction issue de l’ordonnance
+n° 2009-866 du 15 juillet 2009 exemptait d’agrément les fournisseurs de services bancaires de paiement
+lorsque ces deux critères, libellés exactement dans les mêmes termes, étaient satisfaits ; que ces critères ont
+ensuite été repris en 2013, toujours dans les mêmes termes, à l’article L. 525-5 de ce code qui définit les
+conditions dans lesquelles une entreprise peut à titre dérogatoire émettre et gérer de la monnaie
+électronique sans être agréée ; qu’utilisés tant par l’article R. 561-16 que par les articles L. 511-7 et L. 525-5
+pour définir le champ d’une dérogation, ces notions ne sauraient faire l’objet d’une interprétation large ;
+qu’ainsi, les dispositions du c) du 5°) de l’article R. 561-16 étant claires, l’éventualité pour une entreprise qui
+ne les respecterait pas d’être sanctionnée apparaissait, au moment du contrôle, raisonnablement prévisible ;
+qu’au demeurant la société A, qui n’a pas bénéficié malgré sa demande de la dérogation fondée sur ces critères
+en matière d’agrément et qui a participé activement à la consultation préalable à la publication de la position
+de l’ACPR d’octobre 2017, en connaissait nécessairement, avant cette date, l’existence et la teneur dans la
+pratique de l’ACPR ;
+11. Considérant, ensuite, que le support de monnaie électronique [ME1] ne pouvait être regardé comme
+satisfaisant l’un ou l’autre des deux critères ci-dessus rappelés, puisqu’il était utilisable sur un grand nombre
+de sites, dont des sites de commercialisation généralistes (…) sans aucune restriction géographique,
+fournissant des services variés, dans des secteurs tels que les jeux, le jardinage, l’astrologie, la téléphonie, les
+rencontres en ligne, la presse ou l’achat de produits minceur, proposés par des partenaires commerciaux
+différents ; que la société A ne produit aucun élément venant utilement contredire les affirmations de la
+poursuite sur son incapacité, au moment du contrôle, à identifier les adresses URL que recouvre son partenaire
+commercial [C] et donc de connaître précisément le réseau de commerçants acceptant des [ME1], réseau qui
+pouvait ainsi s’étendre sans même que la société A en soit informée a priori ;
+12. Considérant en conséquence que la société A ne pouvait bénéficier des dispositions du c) du 5° de
+l’article R. 561-16 du CMF prévoyant, sous certaines conditions, une exception aux obligations de vigilance
+auxquelles sont soumis les émetteurs de monnaie électronique ;
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2018-03
+II - Au fond
+A. Sur l’organisation du dispositif de LCB-FT
+1° Sur la traçabilité des opérations de chargement des supports de monnaie électronique
+13. Considérant que, selon l’article 67 de l’arrêté du 3 novembre 2014, les procédures des établissements
+émetteurs de monnaie électronique, doivent prévoir les informations à recueillir et conserver pour les
+opérations ayant pour support la monnaie électronique ; que, selon le a) de cet article, doivent notamment être
+conservés « Les éléments d'information permettant d'assurer la traçabilité des chargements, des
+encaissements et remboursements des unités de monnaie électronique, par l'établissement émetteur (…) » ;
+14. Considérant que selon le grief 1, fondé sur ces dispositions, la société A ne disposait pas d’information
+sur les modes de règlement des opérations de chargement de [ME1] effectuées par l’intermédiaire de buralistes,
+ce qui est le plus souvent le cas, faute d’avoir, au moment du contrôle, défini une procédure prévoyant le
+recueil et la conservation des modes de règlement des opérations de chargement de ce produit effectuées auprès
+de ce réseau ; qu’elle n’était ainsi pas en mesure de connaître la proportion des chargements effectués
+notamment en espèces sur ce produit, alors que les risques de blanchiment des capitaux et de financement du
+terrorisme (ci-après « BC-FT ») sont plus élevés dans ce cas ;
+15. Considérant que si la société A fait valoir que les dispositions ci-dessus rappelées ne précisent pas
+expressément les informations à recueillir, notamment dans le cas d’un chargement en espèces, faute pour
+l’arrêté prévu par l’article L. 561-12 d’avoir été pris, le grief a une portée plus générale et porte principalement
+sur les insuffisances des procédures de la société A en matière de traçabilité des chargements ; que l’article 67
+de l’arrêté du 3 novembre 2014 doit s’interpréter à la lumière des dispositions du I de l’article L. 561-12 du
+CMF, qui imposent de conserver pendant 5 ans à compter de leur exécution, « les documents consignant les
+caractéristiques des opérations mentionnées à l'article L. 561-10-2 » ; que faute de conserver les
+caractéristiques des chargements effectués auprès de buralistes, la société A ne pouvait détecter les opérations
+nécessitant un examen renforcé, voire une déclaration de soupçon (ci-après « DS ») ; que, de plus, l’article 67
+complète sur ce sujet les dispositions de l’article 66 du même arrêté aux termes duquel les procédures doivent
+prévoir les « les informations à recueillir et à conserver pour les opérations mentionnées au II de l'article L.
+561-10-2 du code monétaire et financier [i.e. devant donner lieu à examen renforcé] concernant (…) : / d) Les
+caractéristiques de l'opération (montant, date) et les modalités de son exécution (utilisation d'un système de
+paiement particulier notamment) » ; qu’il est sans incidence que le formulaire de déclaration à Tracfin d’une
+opération suspecte ne comporte pas de champ obligatoire relatif au mode de règlement dès lors qu’en amont
+cette information est nécessaire à l’organisme assujetti pour examiner les opérations atypiques devant donner
+lieu à un examen renforcé ou à une DS ; que ces dispositions sont claires, de sorte qu’il était raisonnablement
+prévisible qu’au moment du contrôle une telle carence était susceptible d’être reprochée à la société A ; que,
+par ailleurs, la modification, en juin 2018, de l’interface de programmation « distribution » (API distribution)
+afin de permettre à la société A de recevoir sans délai les informations sur le moyen de paiement utilisé
+s’analyse comme une action correctrice, sans conséquence sur le grief, qui est établi ;
+2° Sur le dispositif de suivi et d’analyse de la relation d’affaires
+16. Considérant que, selon l’article 46 de l’arrêté du 3 novembre 2014, les établissements assujettis se
+dotent de dispositifs de suivi et d’analyse de leurs relations d’affaires, fondés sur la connaissance de leur
+clientèle, permettant notamment de détecter les opérations qui constituent des anomalies au regard du profil
+des relations d’affaires et qui pourraient faire l’objet d’un examen renforcé ou d’une DS ;
+17. Considérant que selon le grief 2, fondé sur ces dispositions, une partie de l’activité de la société A
+n’avait pas, au moment du contrôle sur place, été intégrée à son dispositif de suivi de la relation d’affaires ;
+qu’ainsi, le réseau [B], représentant près de 20 % de la monnaie électronique émise sur le support [ME1] en
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2018-03
+était exclu, faute d’avoir été raccordé au système informatique Pin on Demand (ci-après « POD ») ; que, de
+même, le réseau [D], représentant 41,5 % du volume total de transactions, par l’intermédiaire duquel le produit
+est distribué auprès de buralistes, n’a pas répondu aux demandes de la société A relatives à des ventes effectuées
+entre le 1er janvier 2016 et le 31 décembre 2017, de sorte que la société A n’était pas en situation de traiter les
+alertes générées par son dispositif ; que les alertes portant sur l’achat de coupons de produits [ME2] n’ont pas
+été traitées ;
+18. Considérant, tout d’abord, que si la société A soutient qu’elle recevait de la part de son distributeur [B]
+un état, par point de vente, des opérations réalisées sur le produit [ME1], qu’elle croisait ensuite avec les
+données recueillies sur la consommation des coupons auprès des sites marchands, un tel état, comportant
+uniquement des données agrégées, ne pouvait permettre de détecter les opérations atypiques ; qu’il ne ressort
+pas du document intitulé « Traitement de l’outil LAB du 18/02/2017 au 24/02/2017 » recensant l’historique
+des alertes générées depuis 2016 que certaines aient été émises et traitées à la suite de la réception de ces
+informations ; qu’ensuite, il est constant qu’en dépit de ses très nombreuses demandes, formulées à partir
+d’avril 2016, la société A n’avait obtenu aucune réponse du [réseau D] sur des alertes émises par son dispositif
+de suivi des relations d’affaires ; que, contrairement à ce que soutient la société A, le défaut de traitement des
+alertes, fût-ce en raison d’un manque de coopération de certains distributeurs s’analyse, en l’absence de suite
+donnée par l’établissement, comme un manquement ; que le fait que les alertes en question n’aient représenté
+que 0,12 % seulement du flux total de [ME1] émis par la société A ne peut excuser une telle carence ; que, de
+même, s’agissant du produit [ME2], la demande d’un état de vérification des « KYC » dont se prévaut la
+société A mais qui n’a pas été suivie d’effet, ne peut tenir lieu de traitement d’une alerte ; que les mesures
+correctrices présentées, dont le raccordement, en novembre 2017 du réseau [B] au système POD, le
+renforcement du contrôle des distributeurs et l’abandon de la commercialisation du produit [ME2] en
+septembre 2018, postérieures au contrôle sur place, n’ont pas de conséquence sur le grief ; qu’enfin, quelles
+que soient les modifications apportées, depuis la publication de l’arrêté du 3 novembre 2014, aux articles du
+CMF qui précisent les obligations des organismes assujettis en matière d’examen renforcé et de DS, les
+diligences attendues en application de l’article 46 de cet arrêté sont claires ; qu’ainsi, le grief est établi ;
+3° Sur le dispositif de détection des personnes politiquement exposées et des personnes faisant l’objet d’une
+mesure de gel des avoirs
+19. Considérant que, selon le 1° du II de l’article R. 561-20 du CMF, les EME définissent et mettent en
+œuvre des procédures adaptées au risque de BC-FT permettant de déterminer si leur client est une personne
+politiquement exposée (ci-après une « PPE ») ; que lorsqu’un client appartient à cette catégorie, ces organismes
+doivent, en application de l’article L. 561-10 du CMF, renforcer à leur égard les mesures de vigilance prévues
+aux articles L. 561-5 et L. 561-6 du même code ; que, selon l’article 47 de l’arrêté du 3 novembre 2014, ils
+doivent également se doter de dispositifs adaptés à leurs activités permettant de détecter toute opération au
+bénéfice d’une personne ou d’une entité faisant l’objet d’une mesure de gel des fonds, instruments financiers
+et ressources économiques ;
+20. Considérant que selon le grief 3, fondé sur ces dispositions, le dispositif mis en place par la société A
+pour détecter les PPE et les personnes faisant l’objet d’une mesure de gel des avoirs (ci-après les « personnes
+listées ») était insuffisant ; qu’en effet ce dispositif, dont la société A s’est dotée en 2016, excluait de son
+périmètre tous les clients du produit [ME1], alors que la société A ne pouvait prétendre au bénéfice de la
+dérogation de l’article R. 561-16 du CMF ; que celui mis en place pour le produit [ME2] était totalement
+inefficace en raison des carences de la base de données clientèle de la société A ; qu’ainsi, pour plus de 86 %
+des clients, la date de naissance renseignée (1er janvier 1900) est fictive ; que le lieu de naissance n’est pas
+renseigné pour 90 % des clients ; que plus de 30 000 clients ont des noms ou prénoms orthographiés de manière
+illisible en raison de l’incapacité de la base de données de l’établissement à intégrer l’alphabet norvégien ; que
+pour plus de 5 000 clients, la rubrique de la base de données relative au nom de famille est composée d’une
+seule lettre ; que, de surcroît, l’absence de toute donnée nominative sur les clients utilisant le site marchand
+[C] aboutissait à ce que ces derniers ne soient pas filtrés par le dispositif ; que, même lorsqu’elles existaient,
+les informations contenues dans la base de données des clients étaient de mauvaise qualité ou incomplètes ;
+qu’ainsi, à défaut de disposer de données nécessaires au traitement des alertes, les 23 260 alertes générées au
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2018-03
+moment de la mise en place du dispositif de filtrage en 2016 n’avaient toujours pas été traitées par
+l’établissement au moment de la mission de contrôle sur place ;
+21. Considérant, tout d’abord, que si la société A souligne qu’elle avait bien mis en place un mécanisme de
+filtrage, il ne lui est pas reproché de n’avoir disposé d’aucun dispositif de détection des PPE et des personnes
+listées, mais les sérieuses insuffisances de son dispositif ; qu’ainsi qu’il a été dit (cf. supra, considérants 10 à
+12), la société A ne pouvait, pour son produit [ME1], bénéficier de la dérogation prévue par l’article R. 561-
+16 du CMF ; que le respect des obligations de détection des PPE et des personnes listées nécessite le recueil
+d’informations similaires sur l’identité de la personne, permettant notamment de traiter les cas d’homonymie ;
+qu’à défaut de détenir des données suffisamment complètes et fiables sur l’identité de ses clients, la société A
+ne pouvait satisfaire à ses obligations dans aucun de ces deux domaines ; que le fait que des établissements de
+crédit, parties prenantes aux opérations sur [ME2] effectuées par carte bancaire, soient également soumis aux
+obligations de LCB-FT et de gel des avoirs n’exonérait pas la société A du respect de ses propres obligations ;
+que le délai de publication des mesures d’application de l’ordonnance du 1er décembre 2016, de même que le
+défaut d’actualisation de l’arrêté du 3 novembre 2014, sont sans conséquence sur le grief, l’obligation de mettre
+en place un dispositif de détection des PPE et des personnes listées n’ayant pas été substantiellement affectée
+par les mesures de transposition ; que les carences ici reprochées avaient été soulignées lors de la réunion du
+comité des risques opérationnels et de conformité de la société A du 20 janvier 2017 au cours de laquelle il
+avait été mentionné que la société était « en situation de non-conformité au regard de (son) obligation
+d’identification des PPE et de gel des avoirs » ; que les dispositions alors applicables étaient claires ; que les
+actions correctrices mises en œuvre, visant à améliorer le recueil d’informations sur les clients, notamment sur
+leur lieu de naissance et leur profession, n’étaient pas effectives au moment du contrôle sur place ; que le grief
+est donc établi ;
+B – Sur le contrôle interne du dispositif de LCB-FT
+1° Sur la conformité des opérations sur le produit [ME1] à la réglementation LCB-FT
+22. Considérant que, selon le a) de l’article 11 de l’arrêté du 3 novembre 2014, le système de contrôle des
+opérations et des procédures internes des EME a notamment pour objet, dans des conditions optimales de
+sécurité, de fiabilité et d’exhaustivité, de vérifier que les opérations réalisées par l’établissement, ainsi que
+l’organisation et les procédures internes, sont conformes aux dispositions propres aux activités bancaires et
+financières, qu’elles soient de nature législative ou réglementaire, nationales ou européennes, directement
+applicables ;
+23. Considérant que selon le grief 4, fondé sur ces dispositions, le dispositif de contrôle interne de la société
+A n’a pas, de janvier à septembre 2017, porté sur la vérification du respect, au titre de la commercialisation du
+produit [ME1], des conditions du c) du 5° de l’article R. 561-16 du CMF permettant aux EME, pour les
+supports de monnaie électronique pouvant être chargés au moyen d’espèces, d’être dispensés, sous condition,
+de leurs obligations de vigilance, alors que les caractéristiques de la diffusion de ce produit ne lui permettaient
+pas d’en bénéficier ; que, pendant cette période, la société A ne s’est donc pas assurée que ce produit ne pouvait
+être utilisé que dans un réseau limité d’accepteurs ou pour un éventail limité de biens ou de services ;
+24. Considérant qu’il incombait à la société A d’intégrer à son dispositif de contrôle interne la vérification
+du respect, au titre de la commercialisation de [ME1], des critères alternatifs du c) du 5°) de l’article R. 561-
+16 ; que cette intégration n’ayant pas été effectuée, ce qui n’est pas contesté, le grief est établi ;
+2° Sur le contrôle des distributeurs du produit [ME1]
+25. Considérant que, selon l’article 233 de l’arrêté du 3 novembre 2014, les EME qui recourent à des agents
+ou à des personnes en vue de distribuer, pour leur compte, de la monnaie électronique dans les conditions
+posées aux articles L. 525-8 et suivants du CMF, s’assurent du respect des dispositions des articles 234 à 239
+relatifs au contrôle des activités externalisées, à l’exception du a) et du c) de l’article 239 du même arrêté sur
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2018-03
+le niveau de qualité répondant à un fonctionnement normal du service et les mécanismes de secours en cas de
+difficulté grave affectant la continuité du service ;
+26. Considérant que selon le grief 5, fondé sur ces dispositions, le contrôle par la société A de ses
+distributeurs était incomplet ; qu’en effet, la fiche portant sur le respect des dispositions contractuelles
+convenues entre la société A et les réseaux de distribution de [ME1] ne prévoyait aucun contrôle du respect,
+par ces derniers, de leur obligation de vigilance à l’égard des clients en cas de soupçon de BC-FT ; qu’il était
+en outre insuffisamment efficace puisqu’alors que ni le réseau [D], ni le réseau [E] ne répondaient de manière
+satisfaisante aux demandes de la société A aux fins de traitement des alertes, aucune action correctrice n’avait,
+au moment du contrôle, été adoptée pour remédier à ces dysfonctionnements ;
+27. Considérant qu’ainsi que cela a été indiqué (cf. supra considérants 10 à 12), la société A ne peut
+utilement soutenir qu’elle n’avait pas l’obligation d’identifier les clients achetant son produit [ME1] ; que le
+respect des stipulations des contrats de prestations de services externalisées, selon lesquelles le client devait
+« impérativement être identifié » en cas de soupçon de BC-FT, aurait dû être contrôlé ; que les constats du
+rapport de contrôle repris par la poursuite quant au défaut de réponse des réseaux [D] et [E] ne sont pas
+contestés ; que le délai de publication des mesures d’application de l’ordonnance du 1er décembre 2016 est
+sans conséquence sur le grief, l’obligation en cause dans le présent grief n’ayant pas été substantiellement
+affectée par ces mesures ; que l’absence de modification de l’article 233 de l’arrêté du 3 novembre 2014 est
+également sans incidence sur le grief, les règles qu’il contient ne comportant pas de contradiction avec
+l’ordonnance du 1er décembre 2016 et le décret du 18 avril 2018 ; qu’en ne procédant, dans les cas mentionnés
+par la poursuite, à aucun contrôle de ses réseaux de distribution, notamment en l’absence de réponse de ceux-
+ci, la société A n’a pas respecté son obligation de contrôler leurs opérations ; que si ces reproches se recoupent
+partiellement avec ceux formulés au titre des griefs 2 et 6, cela ne fait pas obstacle à ce que de tels manquements
+soient qualifiés au visa de l’article 233 de l’arrêté du 3 novembre 2014 ; que le grief est donc établi ;
+3° Sur la mise en œuvre des mesures correctrices
+28. Considérant que, selon l’article 38 de l’arrêté du 3 novembre 2014, les EME mettent en place des
+procédures permettant de suivre et d’évaluer la mise en œuvre effective des actions visant à remédier à tout
+dysfonctionnement dans la mise en œuvre des obligations de conformité ; que selon le f) de l’article 11 du
+même arrêté, le système de contrôle des opérations et des procédures internes a notamment pour objet, dans
+des conditions optimales de sécurité, de fiabilité et d’exhaustivité, de vérifier l’exécution dans des délais
+raisonnables des mesures correctrices décidées au sein de l’entreprise ;
+29. Considérant que selon le grief 6, fondé sur ces dispositions, la société A avait été alertée dès le rapport
+de contrôle périodique du second semestre 2016 et le compte-rendu du comité des risques opérationnels et de
+conformité du 20 janvier 2017 de l’inefficacité de son dispositif de détection des PPE et des personnes listées,
+en raison de la faible qualité des données relatives à l’identité de ses clients ; qu’en dépit de cette alerte, la
+société A n’avait toujours pas développé, au début de la mission de contrôle, un outil permettant de recueillir
+l’information nécessaire pour détecter les personnes appartenant à l’une ou l’autre de ces catégories qui
+utilisent le produit [ME2] ;
+30. Considérant que la société A estime qu’elle a réagi aux carences constatées dans un délai raisonnable
+compte tenu de l’évolution de son équipe dirigeante et de son actionnariat ; que dès octobre 2016, elle avait
+interrogé les équipes fournissant le logiciel [Y] pour tenter d’y remédier ; qu’entre août et décembre 2017, elle
+a incité les sites marchands à migrer vers une nouvelle version de son interface applicative qui prévoyait que
+les clients utilisateurs de monnaie électronique fournissent de manière déclarative leurs éléments d’identité ;
+qu’afin de remédier aux problèmes associés à la faible qualité de la base de données des clients, un processus
+manuel a été mis en place en octobre 2017 ; qu’enfin, un compte de gestion centralisé permettant d’assurer le
+suivi de consommation des produits la société A par les utilisateurs a été créé en juin 2018 ; que, toutefois, en
+raison des délais de régularisation de cette insuffisance, effective seulement après la mission de contrôle, la
+société A ne s’est pas conformée avec la diligence requise à son obligation de mise en œuvre d’actions
+correctrices ; que l’absence de modification de l’article 38 de l’arrêté du 3 novembre 2014 est sans incidence
+sur le grief, les obligations qu’il contient n’ayant pas été affectées par l’ordonnance du 1er décembre 2016 et
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2018-03
+le décret du 18 avril 2018 ; que les éléments avancés quant à la prise de contrôle de la société A par le groupe
+[X] ou l’arrêt, au 1er septembre 2018, de la commercialisation du produit [ME2], s’ils peuvent contribuer à
+expliquer ces retards, ne sauraient pour autant les justifier ; que le grief est ainsi établi ;
+C. - Sur la mise en œuvre des obligations de vigilance
+31. Considérant que, selon l’article L. 561-5 du CMF, les organismes assujettis, dont les EME, ont
+l’obligation d’identifier et de vérifier l’identité de leurs clients, et le cas échéant, des bénéficiaires effectifs,
+dès lors qu’ils ne relèvent pas de la dérogation aux obligations de vigilance prévue, selon la date des faits, au
+1° du II de l’article L. 561-9 ou à l’article L. 561-9-1, tels que précisés par le 5°) de l’article R. 561-16 du
+même code ; que, selon l’article L.561-6 du CMF, dont les dispositions ont été modifiées par l’ordonnance du
+1er décembre 2016 qui a également créé l’article L. 561-5-1, les EME sont tenus de recueillir les informations
+relatives à l’objet et à la nature de la relation d’affaires ainsi que tout élément d’information pertinent sur le
+client, dès lors qu’ils ne bénéficient pas de la dérogation aux obligations de vigilance prévue, selon la date des
+faits, par l’article L. 561-9 ou par L. 561-9-1, tels que précisés par le 5°) de l’article R. 561-16 du même code
+;
+32. Considérant que selon le grief 7, fondé sur ces dispositions, tout d’abord, la société A a émis, entre juin
+2016 et juin 2017, par l’intermédiaire de son distributeur [D], des dizaines de coupons [ME1] en l’espace d’une
+minute ou moins pour des montants cumulés compris entre 2 000 et 5 000 euros, sans avoir identifié ni vérifié
+l’identité des clients ayant réalisé les 28 séries d’opérations en cause ; que chacune des ventes précitées a
+généré une alerte dans le système de surveillance de la société A du fait du dépassement du seuil de 1 500
+euros de coupons vendus auprès d’un même point de vente en moins de 10 minutes, sans que l’établissement
+ne soit en mesure de lever tout soupçon de BC-FT, faute de réponse de ce distributeur ; qu’au regard du laps
+de temps très court qui s’est écoulé entre chaque émission de coupons non rechargeables auprès du même point
+de vente, il ne peut s’agir que d’opérations fractionnées réalisées par un même client ; qu’ainsi, la société A a
+eu la confirmation que les produits émis par un distributeur localisé à […] ont été utilisés par un même client
+pour alimenter son compte joueur ; que la société A n’a pas non plus correctement identifié les personnes
+utilisatrices des 15 000 adresses e-mail qui ont acheté des produits [ME2] pour un montant unitaire supérieur
+à 250 euros entre le 1er janvier et le 30 octobre 2017, en près de 250 000 opérations, pour un montant total
+d’environ 150 millions d’euros ; qu’en effet, le recueil des éléments d’identification était effectué par les sites
+marchands sur une base uniquement déclarative ; qu’ensuite, les éléments de connaissance de ces clients,
+acquéreurs des produits [ME1] et [ME2] n’ont pas été recueillis ; que la société A n’a pas davantage déterminé
+les bénéficiaires effectifs du site marchand [W], se contentant à leur sujet d’un organigramme d’actionnaires
+dont l’origine est inconnue ; qu’enfin, aucun des 8 dossiers de sites marchands partenaires vérifiés par la
+mission de contrôle ne comportait d’éléments relatifs à leur situation financière ; que ces défaillances dans la
+mise en œuvre des obligations de vigilance avaient déjà été sanctionnées par la Commission en 2015 (décision
+du 16 octobre 2015, grief 4) ;
+33. Considérant, tout d’abord, que, dans les 28 séries d’opérations litigieuses mentionnées par le grief
+portant sur les achats de coupons [ME1], la société A ne pouvait, ainsi que cela a été indiqué (cf. supra,
+considérants 10 à 12), bénéficier de l’exception à la condition prévue par le c) du 5°) de l’article R. 561-16 du
+CMF ; que si la société A soutient que son dispositif a correctement fonctionné puisque des alertes ont été
+produites, cette circonstance est sans incidence sur le présent grief, par lequel il lui est reproché de n’avoir ni
+identifié ni vérifié l’identité des clients concernés, non plus, le cas échéant, que celle de leurs bénéficiaires
+effectifs ; que la société A ne conteste pas n’avoir recueilli aucun élément d’identité des clients [ME2], dans
+les conditions requises par l’article L. 561-5 du CMF ; que l’arrêt de la commercialisation de ce produit après
+le contrôle sur place est sans conséquence sur la possibilité de sanctionner des manquements survenus
+antérieurement à cette interruption ; que le recueil des éléments d’identité sur une base purement déclarative
+ne permet pas de satisfaire à l’obligation d’identification et de vérification de l’identité des clients ; que les
+carences des partenaires de la société A ne sauraient conduire à écarter le reproche ; qu’enfin, l’organigramme
+de la société [W] dont disposait la société A ne permettait pas d’en déterminer le bénéficiaire effectif au sens
+des articles précités ; que les obligations d’identification et de vérification de l’identité des clients fixées par
+Autorité de contrôle prudentiel et de résolution 10
+
+===== Page 11 =====
+Décision de la Commission des sanctions – procédure no 2018-03
+l’article L. 561-5 du CMF sont claires, tant dans leur rédaction antérieure à l’ordonnance du 1er décembre 2016
+que dans celle issue de celle-ci ;
+34. Considérant, ensuite, que la société A, bien que regardant les 8 sites partenaires visés par le grief comme
+des relations d’affaires, soutient qu’elle avait recueilli à leur égard des informations suffisantes en collectant à
+leur sujet une partie des éléments figurant sur la liste de l’arrêté du 2 septembre 2009, pris en application de
+l’article R. 561-12 du CMF ; que, toutefois, les éléments réunis au sujet de ces sites, qui ne comportaient
+aucune indication sur leur situation financière, étaient insuffisants, tandis que la liste des bénéficiaires effectifs
+du site marchand [W] n’était pas, à la date du contrôle, étayée par des documents attestant de leur qualité ; que
+les modifications introduites par l’ordonnance du 1er décembre 2016 qui a, en particulier, ainsi que cela a été
+dit, créé un article L. 561-5-1 qui reprend et précise des dispositions qui figuraient auparavant à l’article L.
+561-6, n’ont pas allégé ni substantiellement modifié les obligations imposées aux organismes assujettis en
+matière de connaissance de leurs relations d’affaires ; que ces obligations sont claires ; que leur non-respect
+peut donc être sanctionné sans méconnaître le principe de légalité des délits et des peines ;
+35. Considérant ainsi que le grief 7 est entièrement établi ;
+D. - Sur la transmission de renseignements erronés à l’ACPR
+36. Considérant qu’il résulte de l’instruction n° 2012-I-04 du 28 juin 2012 modifiée relative aux
+informations sur le dispositif de prévention du blanchiment de capitaux et du financement des activités
+terroristes des changeurs manuels, dans sa version en vigueur au titre de l’exercice 2016, que les organismes
+assujettis doivent remettre au Secrétariat général de l’ACPR des tableaux dénommés « BLANCHIMT » dans
+lesquels figurent des informations relatives à leur dispositif de LCB-FT ;
+37. Considérant que selon le grief 8, fondé sur ces dispositions, la société A a répondu de manière erronée
+à certaines questions du questionnaire annuel relatif à la LCB-FT portant sur l’année 2016 ; qu’elle a en effet
+déclaré vérifier que ses procédures dans ce domaine étaient bien mises en œuvre par ses prestataires en cas
+d’externalisation (question n° 40), alors que certains de ceux-ci ne répondaient pas à ses demandes dans le
+cadre du traitement des alertes générées par son dispositif et qu’elle ne contrôlait pas le respect des stipulations
+du contrat selon lesquelles ceux-ci doivent mettre en œuvre des mesures de vigilance à l’égard des clients en
+cas de soupçon de BC-FT ; qu’elle a en outre déclaré à tort que son dispositif permettait de détecter les PPE à
+l’entrée et en cours de relation d’affaires (questions 49 et 50) et de respecter ses obligations à l’égard des
+personnes listées (questions 71, 73 et 186) ;
+38. Considérant, tout d’abord, que si la société A avait mis en place des contrôles de ses distributeurs, elle
+ne pouvait ignorer leur relative inefficacité, puisqu’elle n’obtenait pas de ceux-ci les informations requises
+pour traiter convenablement les alertes issues de son dispositif de suivi et d’analyse des relations d’affaires (cf.
+supra grief 2) ; qu’à la suite du projet de rapport de contrôle sur place, soit en janvier 2018, elle a accepté le
+principe du « renforcement de la mise en œuvre opérationnelle du dispositif de contrôle des distributeurs » ;
+qu’ensuite, la société A ne pouvait méconnaître le caractère défectueux de son dispositif de détection des PPE
+et des personnes listées ; que les modifications successives de l’instruction ACPR n° 2012-I-04 du 28 juin
+2012, dont la société A fait état pour sa défense, sont sans conséquence sur l’obligation de communiquer des
+informations exactes à l’ACPR ; qu’ainsi, ce grief est établi ;
+*
+* *
+39. Considérant qu’il résulte de ce qui précède qu’à la date du contrôle, la société A ne disposait pas
+d’information sur les modes de règlement d’une partie de ses opérations de rechargement de [ME1] (grief 1) ;
+que son dispositif de suivi et d’analyse des relations d’affaires présentait de sérieuses carences (grief 2) tandis
+que son dispositif de détection des PPE et des personnes listées était très insuffisant (grief 3) ; que les actions
+correctrices mises en œuvre à cet égard l’ont été tardivement (grief 6) ; que la société A n’a pas vérifié que les
+opérations sur [ME1] étaient exécutées dans des conditions lui permettant de déroger à ses obligations de
+Autorité de contrôle prudentiel et de résolution 11
+
+===== Page 12 =====
+Décision de la Commission des sanctions – procédure no 2018-03
+vigilance (grief 4) ; que le contrôle de ses partenaires distributeurs de [ME1] était incomplet et insuffisamment
+efficace (grief 5) ; que la société A ne respectait pas correctement ses obligations d’identification, de
+vérification de l’identité et de connaissance de ses clients, les données recueillies étant insuffisantes et de
+mauvaise qualité (grief 7) ; que ces insuffisances doivent être appréciées en tenant compte de ce que la partie
+de son activité relative aux [ME1] autorise des mouvements d’espèces, qui présentent un risque particulier de
+BC-FT ; que la société A a en outre communiqué à l’ACPR des informations erronées sur son dispositif de
+LCB-FT et sur le respect des mesures restrictives (grief 8) ;
+40. Considérant ainsi que tous les griefs sont établis ; qu’ils représentent des manquements substantiels aux
+obligations de la société A, qui a déjà été sanctionnée en 2015 ; que, toutefois, il y a lieu de tenir compte, dans
+une certaine mesure, des actions correctrices mises en œuvre depuis le contrôle sur place, qui ont, selon les
+indications de l’entreprise, notamment eu pour objet de renforcer les effectifs du département Conformité, de
+mettre en place une détection des modes de règlement des opérations de chargement de [ME1], de recentrer
+les ventes de ce produit sur les jeux en ligne et de mieux contrôler les nouveaux sites pouvant l’utiliser, de
+renforcer les moyens permettant de respecter les obligations d’identification, de vérification de l’identité des
+clients et de vigilance constante à leur égard, ainsi que de détection des personnes listées ; que la société A a
+cessé la commercialisation de [ME2] ; qu’elle a en outre indiqué avoir renforcé son dispositif de contrôle de
+ses distributeurs ; qu’il y a également lieu de prendre en compte la circonstance que certains faits sont
+successivement reprochés sous plusieurs qualifications (griefs 2, 5 et 6) ; que, de même, les griefs relatifs à
+l’insuffisance de détection des PPE et personnes listées et à la réaction insuffisante de la société A pour y
+remédier rapidement (griefs 3 et 6) sont connexes ;
+41. Considérant qu’il y a lieu, en tenant compte de ces éléments, soit d’aggravation, soit d’atténuation, de
+prononcer un blâme à l’encontre de la société A; que, en raison de la situation financière de l’entreprise à la
+date de la présente décision (cf. supra considérant 2), il n’y a pas lieu de prononcer en outre une sanction
+pécuniaire ; qu’une publication nominative de la présente décision n’est pas susceptible de causer à la société
+A un préjudice disproportionné ; que cette publication n’est pas non plus de nature à perturber gravement les
+marchés financiers ; qu’il y a donc lieu de publier la présente décision sous cette forme au registre de l’ACPR
+pendant une durée de 5 ans ; qu’elle y sera ensuite maintenue sous une forme ne mentionnant plus le nom de
+l’organisme sanctionné ;
+PAR CES MOTIFS
+DÉCIDE :
+ARTICLE 1ER – Il est prononcé à l’encontre de la société la société A un blâme.
+ARTICLE 2 – La présente décision sera publiée au registre de l’ACPR et pourra être consultée au
+secrétariat de la Commission.
+Le Président de la Commission
+des sanctions
+[Rémi Bouchez]
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification et
+dans les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 12

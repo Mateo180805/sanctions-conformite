@@ -1,0 +1,610 @@
+===== Page 1 =====
+Décision de la Commission des sanctions – procédure no 2020-04
+CAISSE DE CRÉDIT
+MUNICIPAL DE [X]
+Procédure no 2020-04
+–––––
+Blâme et sanction pécuniaire de
+120 000 euros
+Audience du 21 mai 2021
+Décision rendue le 3 juin 2021
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 16 juin 2020 par laquelle le Président de l’Autorité de contrôle prudentiel et de
+résolution (ci-après l’« ACPR ») informe la Commission des sanctions (ci-après la « Commission ») de
+ce que le Collège de supervision de l’ACPR (ci-après le « Collège »), statuant en sous-collège
+« banque », a décidé d’ouvrir une procédure disciplinaire à l’encontre de la Caisse de crédit municipal
+de la ville de [X] (ci-après la « CCMX »), enregistré sous le no 2020-04 ;
+Vu la notification des griefs du 16 juin 2020 ;
+Vu les mémoires en défense des 9 octobre 2020 et 6 janvier 2021 par lesquels la CCMX (i) soutient
+que la notification des griefs est entachée d’une erreur de droit, les dispositions de l’article L. 612-40 du
+code monétaire et financier (CMF), seules visées par la poursuite, ne permettant pas de réprimer les
+manquements reprochés, (ii) reconnaît une partie des insuffisances qui lui sont reprochées (griefs1, 4, 5,
+6, 12 et 14) et en conteste d’autres, au moins en partie (griefs 2, 3, 7, 8, 9, 10, 11 et 13) ;
+Vu le mémoire en réplique du 26 novembre 2020 par lequel le Collège, représenté par M. Christian
+Lajoie, estime que (i) il n’a pas commis d’erreur en mentionnant, dans la notification des griefs, que les
+faits reprochés pouvaient conduire à l’une des sanctions prévues par l’article L. 612-40 du CMF et (ii)
+tous les griefs sont fondés ;
+Vu le rapport du 14 avril 2021 de M. Matias de Sainte Lorette, rapporteur, qui conclut que tous les
+griefs sont fondés, à l’exception des griefs 7 et 13, les griefs 8 et 12 l’étant dans un périmètre réduit ;
+Vu les courriers du 14 avril 2021 convoquant à l’audience les parties ainsi que la direction générale
+du Trésor et les informant de la composition de la Commission ;
+Vu le mémoire du 29 avril 2021, par lequel la CCMX, en réponse au rapport du rapporteur, admet le
+bien fondé de certains griefs et demande que certains griefs soient relativisés au regard tant de la situation
+financière de la CCMX que de l’ampleur des actions correctives menées depuis le contrôle sur place ;
+Vu les autres pièces du dossier, notamment le rapport de contrôle signé le 31 octobre 2019 par M. A.
+chef de mission, et le procès-verbal de l’audition le 25 janvier 2021 du maire de la ville de [X] ;
+Vu le code monétaire et financier (ci-après le « CMF »), notamment ses articles L. 511-60, L. 511-
+67, L. 514-2, L612-39, L. 612-40, D. 514-2, D514-9 ;
+Vu l’arrêté du 3 novembre 2014 relatif au contrôle interne des entreprises du secteur de la banque,
+des services de paiement et des services d'investissement soumises au contrôle de l'Autorité de contrôle
+Autorité de contrôle prudentiel et de résolution 1
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2020-04
+prudentiel et de résolution (ci-après l’« arrêté du 3 novembre 2014 »), notamment ses articles 11, 13, 17,
+25, 35, 38, 106, 107, 108, 111, 112, 221 et 254 ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACPR, composée de M. Alain Ménéménis, Président, ainsi que
+de Mme Claudie Boiteau, MM. Philippe Braghini et Philippe Laigre ;
+Après avoir entendu, lors de sa séance publique du 21 mai 2021 :
+- M. de Sainte Lorette, rapporteur, assisté de M. Fabien Patris, son adjoint ;
+- Le représentant du directeur général du Trésor, qui a déclaré ne pas avoir d’observations à
+formuler ;
+- M. Lajoie, représentant du Collège, assisté du directeur des affaires juridiques et d’un juriste au
+sein de cette direction ; M. Lajoie a proposé à la Commission de prononcer un blâme et une
+sanction pécuniaire qui ne soit pas inférieure à deux cent mille euros par une décision publiée
+sous une forme nominative pendant trois ans ;
+- La CCMX, représentée par la première adjointe au maire de la ville de [X] et vice-présidente du
+comité d’orientation et de surveillance (ci-après le « COS ») et du directeur de cette Caisse, dont
+les avocats sont Mes David Masson et Sonia Oudjhani (cabinet Racine) ;
+Après avoir délibéré en la seule présence de M. Ménéménis, Président, Mme Boiteau, MM. Braghini
+et Laigre ainsi que de M. Jean-Manuel Clemmer, chef du service de la Commission des sanctions faisant
+fonction de secrétaire de séance ;
+1. Au moment de la mission de contrôle, la CCMX, établissement public communal de crédit et
+d’aide sociale, était dotée d’un réseau de douze agences par l’intermédiaire desquelles elle exerçait
+principalement une activité de prêts personnels non affectés (115,7 millions d’euros d’encours fin 2019)
+et une activité traditionnelle de prêts sur gage, d’un montant moyen de 600 euros (23 millions d’euros
+d’encours), ces deux produits contribuant à environ 80 % de son produit net bancaire. Les prêts
+personnels, de montants compris entre 3 000 et 75 000 euros, étaient principalement consentis à une
+clientèle de fonctionnaires et de retraités résidant en France métropolitaine ou dans les territoires
+d’outremer, en grande partie par l’intermédiaire d’apporteurs d’affaires.
+Elle avait commercialisé à partir de 2017 des prêts sur gage à haute valeur ajoutée (ci-après « PSG-
+HV »), garantis par un gage d’une valeur supérieure à 100 000 euros, et des prêts patrimoniaux (ci-après
+« PPX »), d’un montant supérieur à 75 000 euros, adossés à une garantie hypothécaire de premier rang
+ou à une sûreté réelle, pour des encours, fin 2019, d’un peu plus de 15 et de plus de 3 millions d’euros,
+respectivement.
+La CCMX exerçait en outre une activité de distribution de microcrédits (466 000 euros d’encours fin
+2019) et de prêts conventionnés et bonifiés, une activité de placements et, enfin, une activité de gestion
+de comptes à vue et de moyens de paiement associés issue de la reprise partielle, en 2013, des activités
+de la Caisse de crédit municipal de la ville de [Y]. Elle disposait ainsi, fin 2019, d’un peu plus de
+150 millions d’euros de ressources (dépôts à vue et à terme, livrets et bons de caisse).
+Par convention, 40 % du résultat net de la CCMX est affecté au centre communal d’action sociale de
+la ville de [X], le reste étant principalement affecté au report à nouveau. De 2016 à 2018, ce résultat a
+été d’environ 1,5 million d’euros, cette stabilité étant assurée par les variations des dotations au fonds
+pour risques bancaires généraux (ci-après le « FRBG »), qui compensaient les variations de son résultat
+brut d’exploitation. En 2019, la CCMX a réalisé un résultat net de 34 000 euros, en raison notamment
+de la constitution d’une provision de 950 000 euros « pour anticiper d’éventuelles mauvaises nouvelles
+en lien avec la fin des prêts patrimoniaux et une sanction ACPR » (rapport annuel de la CCMX, p. 6).
+En 2020, la CCMX a enregistré une perte nette de 695 000 euros. À la fin de cet exercice, ses fonds
+propres s’élevaient à 38,8 millions d’euros, dont 9,1 millions d’euros au titre du FRBG.
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2020-04
+2. La CCMX a fait l’objet, du 1er avril au 28 juin 2019, d’un contrôle sur place qui a donné lieu à la
+signature, le 31 octobre 2019, d’un rapport de contrôle. Au vu de ce rapport, le Collège de l’ACPR,
+statuant en sous-collège « banque », a décidé, lors de sa séance du 25 mai 2020, d’ouvrir la présente
+procédure disciplinaire, dont la Commission a été saisie le 17 juin 2020.
+3. La lettre de griefs mentionne que la CCMX encourt, au titre de la présente procédure, l’une des
+sanctions prévues par l’article L. 612-40 du CMF. Or la CCMX soutient que cet article n’est applicable
+que lorsque l’établissement mis en cause a méconnu une disposition prudentielle découlant du règlement
+(UE) n° 575/2013 du Parlement européen et du Conseil du 26 juin 2013, dit CRR, ou d’une disposition
+de droit français prise pour son application, à l’exclusion de tout manquement en matière de gouvernance
+ou de contrôle interne.
+L’argumentation de la CCMX ne peut être retenue.
+En effet, et en tout état de cause, il résulte de la lettre même des dispositions de l’article L 612-40 du
+CMF, qui sont claires, que les sanctions qu’elles mentionnent sont notamment applicables aux
+organismes assujettis qui méconnaissent une disposition du règlement (UE) n° 575/2013 du Parlement
+européen et du Conseil du 26 juin 2013 (CRR), une disposition du titre Ier ou du titre III du livre V du
+CMF ou d’un règlement pris pour son application ou toute autre disposition législative ou réglementaire
+dont la méconnaissance entraîne celle des dispositions précitées. Les manquements ainsi visés ne
+concernent pas les seules règles prudentielles, mais aussi les obligations des organismes assujettis
+relatives à la gouvernance et au contrôle interne.
+Or, les griefs retenus par la poursuite dans la présente procédure sont tirés de manquements à des
+obligations prévues par le titre premier du livre V du CMF ou par l’arrêté du 3 novembre 2014, qui
+procède à une partie de la transposition de la directive 2013/36/UE du Parlement européen et du Conseil
+du 26 juin 2013 concernant l’accès à l’activité des établissements de crédit et la surveillance prudentielle
+des établissements de crédit et des entreprises d’investissement, en conséquence de laquelle l’article
+L. 612-40 a d’ailleurs été introduit dans le CMF.
+De tels manquements, qui ne concernent ni la lutte contre le blanchiment des capitaux et le
+financement du terrorisme (LCB-FT) ni la protection des clientèles, mais des obligations relatives à la
+gouvernance et au contrôle interne, sont susceptibles de justifier le prononcé d’une sanction sur le
+fondement de l’article L 612-40 du CMF.
+I. L’exercice de sa mission de contrôle de la gestion de
+l’établissement par l’organe de surveillance de la CCMX
+4. En vertu de l’article L. 511-60 du CMF, « le conseil d'administration, le conseil de surveillance
+ou tout autre organe exerçant des fonctions de surveillance équivalentes approuve et revoit
+régulièrement les stratégies et politiques régissant la prise, la gestion, le suivi et la réduction des risques
+auxquels l'établissement de crédit ou la société de financement est ou pourrait être exposé, y compris
+les risques engendrés par l'environnement économique (…) ».
+L’article L. 511-67 du même code prévoit en outre que « le conseil d'administration, le conseil de
+surveillance ou tout autre organe exerçant des fonctions de surveillance équivalentes détermine les
+orientations et contrôle la mise en œuvre par les personnes mentionnées à l'article L. 511-13 des
+dispositifs de surveillance afin de garantir une gestion efficace et prudente de l'établissement,
+notamment la séparation des fonctions au sein de l'organisation de l'établissement de crédit ou de la
+société de financement et la prévention des conflits d'intérêts (…) ».
+Les alinéas 5 et 7 de l’article L. 514-2 du CMF disposent en outre, respectivement, que « le conseil
+d'orientation et de surveillance définit les orientations générales ainsi que les règles d'organisation de
+la caisse de crédit municipal et exerce le contrôle permanent de la gestion de l'établissement par le
+directeur » et que « le conseil d'orientation et de surveillance veille au respect des réglementations
+générales de la profession bancaire et des dispositions législatives, réglementaires ou européennes
+directement applicables aux caisses de crédit municipal. À cette fin, il opère les vérifications et les
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2020-04
+contrôles qu'il juge opportuns et se fait communiquer les documents qu'il estime utiles à
+l'accomplissement de sa mission ».
+5. Selon le grief 1, fondé sur ces dispositions, le conseil d’orientation et de surveillance de la CCMX
+ne s’impliquait pas suffisamment dans l’analyse de la stratégie, la revue des risques et le contrôle de la
+gestion de la Caisse. Seuls des indicateurs de gestion, d’activité commerciale, de résultats et de trésorerie
+étaient portés à sa connaissance et il ne disposait d’aucun détail sur l’évolution et les risques des
+nouvelles activités. Il approuvait systématiquement, en l’état, les projets de développement qui lui
+étaient soumis, à première présentation, sans assortir son accord d’un encadrement en termes de
+conditions, montants ou durées.
+La CCMX a ainsi commercialisé de nouveaux produits, particulièrement risqués, tels que les prêts
+sur gage de haute valeur (PSG-HV), sans que le COS exige la mise en place d'une procédure
+d'approbation préalable au regard notamment du risque de non-conformité et sans qu’il fixe de limite de
+risque pour ces concours, que ce soit au regard de la nature des biens acceptés en garantie ou des
+montants prêtés. De même, l’activité nouvelle de prêts patrimoniaux assis sur des droits de la Société
+des Auteurs, Compositeurs et Éditeurs de Musique (PPX SACEM), dans le cadre de laquelle la CCMX
+bénéficiait d’une cession de droits d’auteur dont les montants devaient couvrir les échéances d’intérêt
+et le remboursement du capital in fine, a été initiée sans avoir été soumise à la validation préalable du
+COS.
+6. La CCMX admet que son COS n’était pas, au moment du contrôle sur place, en mesure d’exercer
+sa mission, essentiellement en raison de la faible implication d’une partie de ses membres, notamment
+des élus communaux, ce qui avait fait l’objet de critiques récurrentes du Secrétariat général de l’ACPR,
+portées le 23 mars 2018 à la connaissance du maire de la ville de [X].
+Par ailleurs, si les procès-verbaux de réunion du COS mentionnent parfois des « réserves » sur les
+projets soumis à son examen, celles-ci ne sont assorties d’aucune règle précise permettant d’encadrer la
+distribution des nouveaux produits, tels que les PSG-HV et les PPX, qui présentaient pourtant des risques
+plus élevés que les concours traditionnels de la CCMX. La communication a posteriori au COS
+d’informations sur l’activité du comité des risques ou du comité des engagements de l’établissement ne
+pouvait suffire, de sorte que la poursuite soutient à raison que le COS se bornait en réalité à approuver
+systématiquement les projets qui lui étaient présentés, sans exiger la mise en place d’une procédure
+préalable à la commercialisation des nouveaux produits ni la définition d’une limite d’engagement.
+7. La CCMX indique que la mission de contrôle lui a permis de prendre pleinement conscience des
+améliorations à apporter à sa gouvernance. Elle met en avant les actions correctives qu’elle a conduites,
+qui ont notamment consisté en une définition plus précise des fonctions respectives des dirigeants
+effectifs, du contrôle interne et de l’organe de surveillance, qui a été soumise au COS le 6 mai 2021, en
+un renforcement des qualifications des membres de la direction et du COS, en la présence désormais
+effective et systématique de tous les membres du COS à ses réunions. De telles actions correctives,
+intervenues après les constats de la mission de contrôle, sont toutefois sans incidence sur le grief 1, qui
+est fondé.
+II. Les lacunes du dispositif de contrôle de la conformité
+8. En vertu de l’article 35 de l’arrêté du 3 novembre 2014, « les entreprises assujetties prévoient des
+procédures spécifiques d'examen de la conformité, notamment : / - des procédures d'approbation
+préalable systématique, incluant un avis écrit du responsable en charge de la conformité ou d'une
+personne dûment habilitée par ce dernier à cet effet, pour les produits nouveaux ou pour les
+transformations significatives apportées aux produits existants, pour cette entreprise ou pour le
+marché ;
+- ou, pour la fourniture de services d'investissement, tout dispositif de nature à conseiller et assister
+les personnes concernées chargées des services d'investissement afin qu'elles se conforment à leurs
+obligations au titre du présent chapitre.
+Elles prévoient également des procédures de contrôle des opérations réalisées ».
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2020-04
+Selon l’article 221 de cet arrêté, « les entreprises assujetties mettent en place des systèmes et
+procédures assurant une analyse à la fois en amont et prospective des risques encourus lorsqu'elles
+décident : / - de réaliser des opérations portant sur de nouveaux produits ; / - d'apporter des
+modifications significatives à un produit existant, pour cette entreprise ou pour le marché ; / - de réaliser
+des opérations de croissance interne et externe ; / - de réaliser des transactions exceptionnelles ».
+9. Selon le grief 2, fondé sur ces dispositions, la CCMX a étendu ses activités de crédit à de nouveaux
+concours présentant un profil de risque particulièrement important, les prêts patrimoniaux (PPX) et les
+prêts sur gages de haute valeur (PSG-HV), sans mettre en œuvre de procédure d'approbation préalable,
+notamment au regard du risque de non-conformité.
+10. Selon le grief 3, également fondé sur ces dispositions, la CCMX n’a pas davantage procédé, en
+amont de leur commercialisation, à une analyse des risques courus. Or cette démarche aurait été d'autant
+plus nécessaire qu'ont été décidées des opérations totalement inédites, pour lesquelles les dirigeants
+effectifs et le personnel de la CCMX ne disposaient pas de l'expérience et des connaissances requises,
+ni en droit ni pour l'encadrement, la structuration, l'analyse et le suivi de crédits importants, impliquant
+parfois une clientèle d'entrepreneurs.
+11. La CCMX ne conteste pas l’absence de procédure d’approbation et d’analyse des risques pour
+les PSG-HV et les PPX et le « processus décisionnel » mis en place pour ces deux produits, bien que
+comportant des échanges entre les dirigeants effectifs, une présentation au COS le 13 décembre 2016 et
+la mise en place d’un tableau de suivi des PPX n’était pas de nature à pallier cette absence.
+Elle se borne à soutenir que les PSG-HV et les PPX n’étaient pas des produits nouveaux et que les
+dispositions citées ci-dessus de l’article 35 de l’arrêté du 3 novembre 2014 ne leur étaient donc pas
+applicables.
+Or ces dispositions sont applicables en cas de commercialisation de nouveaux produits mais aussi en
+cas de transformations significatives de produits existants. Elles étaient donc applicables aux PSG-HV
+comme aux PPX, aux premiers parce qu’ils prévoyaient des gages d’une valeur supérieure à 100 000
+euros alors que les gages qui donnent lieu aux prêts sur gage classiques consentis par la CCMX ont une
+valeur moyenne de 600 euros et aux seconds parce que, consentis pour une durée généralement
+supérieure à 10 ans et distribués grâce à un réseau spécifique d’apporteurs d’affaires (…), ils se
+distinguaient de façon significative des autres prêts accordés par l’établissement. Au demeurant, la
+CCMX avait elle-même qualifié ces prêts de nouveaux produits et ils avaient en conséquence donné lieu
+à l’élaboration de nouvelles « fiches produits ».
+12. Les actions de remédiation mentionnées par la CCMX, qui ont notamment consisté en la
+rédaction d’une procédure d’approbation des nouveaux produits, et le fait que la commercialisation des
+PSG-HV et des PPX ait été interrompue en 2020 sont sans incidence sur les griefs 2 et 3, qui sont fondés.
+13. En vertu du a) de l’article 11 de l’arrêté du 3 novembre 2014, le système de contrôle des
+opérations et des procédures internes a notamment pour objet, dans des conditions optimales de sécurité,
+de fiabilité et d'exhaustivité, de vérifier « que les opérations réalisées par l'entreprise, ainsi que
+l'organisation et les procédures internes, sont conformes aux dispositions propres aux activités
+bancaires et financières, qu'elles soient de nature législative ou réglementaire, nationales ou
+européennes directement applicables, ou qu'il s'agisse de normes professionnelles et déontologiques,
+ou d'instructions des dirigeants effectifs prises notamment en application des stratégies et politiques
+régissant la prise, la gestion, le suivi et la réduction des risques ainsi que des orientations et de la
+politique de surveillance de l'organe de surveillance ».
+L’article 38 du même arrêté dispose que « les entreprises assujetties mettent en place des procédures
+permettant de suivre et d'évaluer la mise en œuvre effective des actions visant à remédier à tout
+dysfonctionnement dans la mise en œuvre des obligations de conformité. / Dans ce cadre, les dirigeants
+effectifs définissent des procédures permettant de garantir la séparation des tâches et de prévenir les
+conflits d'intérêts conformément aux orientations de l'organe de surveillance. »
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2020-04
+14. Selon le grief 4, fondé sur ces dispositions, la CCMX a lancé son activité de prêts patrimoniaux
+en les traitant comme des crédits à la consommation, alors que ces prêts avaient pour objet de regrouper
+des crédits - dont des crédits immobiliers – et étaient assortis de garanties hypothécaires, ce qui l'a
+conduite à appliquer un taux de l'usure inexact, à tout le moins pour les contrats de regroupement
+comportant plus de 60 % de crédits immobiliers, et à s'exposer ainsi à un risque de non-conformité.
+15. Selon le grief 5, également fondé sur ces dispositions, si la CCMX, qui a identifié ce risque en
+septembre 2017, a alors procédé à des consultations juridiques, elle a néanmoins mis en place entre le
+1er octobre 2017 et le 1er avril 2018, des PPX tels qu'ils avaient été conçus et étudiés initialement, sans
+réexaminer leur taux.
+16. La CCMX ne conteste pas que, pour quatorze dossiers de PPX, dans lesquels la proportion de
+crédits immobiliers était supérieure à 60 %, un taux d’usure erroné a été appliqué.
+La CCMX n’a pas fait réaliser d’étude juridique avant la commercialisation de ces produits. Elle a,
+à partir de septembre 2017, commandé plusieurs études juridiques, mais, alors même que celles-ci
+faisaient apparaître des incertitudes sur le taux d’usure à appliquer et, par conséquent, un risque de non-
+conformité, ce dont le COS avait été informé dès le 12 octobre 2017, elle ne conteste pas avoir mis en
+place 9 dossiers de PPX entre le 1er octobre 2017 et le 1er avril 2018, sans en réduire les taux, pour un
+total légèrement supérieur à 3 millions d’euros.
+La CCMX n’a ainsi ni anticipé ni traité le risque de non-conformité de ces concours et les griefs 4 et
+5 sont donc fondés.
+La Commission relève que la CCMX a mis fin à son activité de PPX en décembre 2020 seulement,
+qu’elle n’a engagé qu’à la fin de l’année 2020 une indemnisation des clients et qu’elle a, au titre du
+risque de requalification, constitué 729 000 euros de provisions sur son portefeuille de PPX dans ses
+comptes de l’exercice 2020.
+17. En vertu de l’article D. 514-2 du CMF, « l'appréciation des objets remis en gage par les
+emprunteurs est faite par des commissaires-priseurs judiciaires, qui sont nommés pour une durée de
+trois ans renouvelable par le directeur de chaque caisse de crédit municipal ».
+18. Selon le grief 6, fondé sur ces dispositions, certaines agences de la CCMX ne disposaient pas de
+commissaires-priseurs judiciaires tandis que, dans d'autres agences, les commissaires-priseurs opéraient
+sans qu'un contrat fixe leurs engagements avec la CCMX.
+19. La CCMX ne conteste aucune des deux branches du grief, qui est entièrement fondé. Elle indique
+seulement que la situation a, depuis, été entièrement régularisée.
+20. L’article D. 514-9 du CMF prévoit que : « (…) II. – L'acte formalisant l'accord de l'emprunteur
+et de la caisse sur le prêt est rédigé en caractères dont la hauteur ne peut être inférieure à celle du corps
+huit. Il indique de manière claire et lisible, les informations suivantes : / 1° L'identité et l'adresse
+géographique des parties contractantes ; / 2° La date de l'acte et la signature de l'emprunteur ; / 3°
+L'identification du bien mis en gage et sa valeur appréciable, estimée par les appréciateurs ; / 4° La
+description des caractéristiques du prêt, dont : / a) Le type de crédit ; / b) Le montant total du prêt et
+les conditions de mise à disposition des fonds ; / c) La durée du prêt et les conditions de prolongation
+et de renouvellement du prêt ; / 5° Les informations relatives au coût du prêt, soit : / a) Le taux débiteur
+conventionnel ; / b) Le cas échéant, les autres frais liés à l'exécution du contrat de crédit et les conditions
+dans lesquelles ces frais peuvent être modifiés ; / c) Le taux annuel effectif global ; / d) Le montant total
+dû par l'emprunteur ; / e) Les frais consécutifs à l'inexécution du contrat ; / 6° La mention selon laquelle
+le prêteur doit remettre à l'emprunteur une reconnaissance de dépôt de l'objet engagé, conformément à
+l'article D. 514-10 ; / 7° Les informations relatives à l'exécution du contrat (…) ».
+21. Selon le grief 7, fondé sur ces dispositions, les actes signés par les clients de la CCMX pour les
+PSG-HV ne comportaient pas de manière claire et lisible les informations requises, notamment l'identité
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2020-04
+et l'adresse géographique des parties contractantes, l'identification du bien mis en gage et sa valeur
+appréciable, estimée par les appréciateurs, les caractéristiques du prêt et les informations relatives à
+l'exécution du contrat.
+22. Le reproche adressé à la CCMX sur ce point n’est étayé par aucun dossier client et les tableaux
+d’analyse élaborés par la mission de contrôle ne suffisent pas à l’établir. En l’état des informations dont
+dispose la Commission, le grief 7 ne peut qu’être écarté.
+III. Le défaut de sélection et de surveillance des risques de crédit
+23. En vertu de l’article 106 de l’arrêté du 3 novembre 2014, « les entreprises assujetties disposent
+d'une procédure de sélection des risques de crédit et d'un système de mesure de ces risques leur
+permettant notamment : / a) D'identifier de manière centralisée leurs risques de bilan et de hors-bilan
+à l'égard d'une contrepartie ou de contreparties considérées comme un même groupe de clients liés
+conformément au 39 du paragraphe 1 de l'article 4 du règlement (UE) n° 575/2013 susvisé ; / b)
+D'appréhender différentes catégories de niveaux de risque à partir d'informations qualitatives et
+quantitatives, y compris pour le risque de crédit en cours de journée, lorsqu'il est significatif pour
+l'activité de l'entreprise assujettie ; / c) D'appréhender et de contrôler le risque de concentration au
+moyen de procédures documentées ; / d) D'appréhender et de contrôler le risque résiduel au moyen de
+politiques et de procédures documentées s'inscrivant dans les politiques définies en la matière ; / e) De
+vérifier l'adéquation de la diversification des engagements à leur politique en matière de crédit ».
+L’article 254 du même arrêté prévoit que « les entreprises assujetties élaborent et tiennent à jour des
+manuels de procédures adaptés relatifs à leurs différentes activités. / Ces documents décrivent
+notamment les modalités d'enregistrement, de traitement et de restitution des informations, les schémas
+comptables et les procédures d'engagement des opérations ».
+24. Selon le grief 8, fondé sur ces dispositions, alors que les nouvelles activités de PSG-HV et de
+PPX ont été présentées au COS du 13 décembre 2016, les procédures visant à encadrer l'activité de PSG-
+HV n'ont été présentées et validées par le comité interne des risques que le 17 avril 2019, soit plus de
+deux ans après la mise en place de ces prêts. À cette date, trois dossiers comprenant au total 111 prêts
+avaient déjà été mis en place en 2017 et en 2018.
+Quant aux projets de procédures relatifs à la distribution des PPX, datés de février 2018, ils ont eux
+aussi été établis après la mise en place des premiers concours réalisés. Ils n'étaient toujours pas validés
+à la fin du mois de mai 2019, alors que 30 prêts de cette nature ont été accordés entre février 2017 et
+avril 2019 pour un montant total de 24,9 millions d’euros.
+25. Les pièces produites par la CCMX, notamment l’extrait du procès-verbal de la réunion du COS
+du 19 juin 2018, ne remettent pas en cause le reproche d’une absence de définition d’une procédure
+préalable à la commercialisation pour ces deux produits (PSG-HV et PPX). Toutefois, il existe une
+incertitude sur la date à laquelle la procédure relative aux PPX a été mise en place. La CCMX,
+s’appuyant sur un extrait du procès-verbal de la réunion du COS du 19 juin 2018, dont les informations
+sont confirmées par celui de la réunion du 19 septembre 2018, affirme que la procédure a été définie en
+juin 2018 et non, comme le soutient la poursuite, qui se réfère à une annexe au rapport de contrôle
+contestée par la CCMX dès sa réponse à ce rapport, fin mai 2019 seulement. En raison de cette
+incertitude, la période sur laquelle porte le grief doit être, pour ce produit, réduite d’un an.
+26. Sous réserve de la réduction ci-dessus mentionnée, le grief 8 est fondé.
+27. En vertu de l’article 111 de l’arrêté du 3 novembre 2014, « les procédures de décision de prêts,
+d'engagements ou de reconduction, notamment lorsqu'elles sont organisées par voie de délégations,
+sont fondées sur des critères précis, clairement formalisées et adaptées aux caractéristiques de
+l'entreprise assujettie, en particulier sa taille, son organisation et la nature de son activité ».
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2020-04
+L’article 112 de cet arrêté prévoit en outre que « lorsque la nature et l'importance des opérations le
+rendent nécessaire, les entreprises assujetties s'assurent, dans le cadre du respect des procédures de
+délégations éventuellement définies, que les décisions de prêts ou d'engagements ou de reconduction
+sont prises par au moins deux personnes et que les dossiers de crédit font également l'objet d'une analyse
+par une unité spécialisée indépendante des entités opérationnelles ».
+28. Selon le grief 9, fondé sur ces dispositions, les dossiers présentés au comité des engagements
+compétents pour les PPX et les PSG-HV, ne faisaient pas l'objet d'une analyse du risque indépendante
+et formalisée. La responsable de la gestion des risques, qui n'avait communication des dossiers que la
+veille ou l'avant-veille des séances de ce comité, disposait d'un temps insuffisant pour examiner les
+dossiers, ce qui ne lui permettait pas de conduire une analyse complète et étayée du risque. Si elle
+formulait un avis et pouvait émettre des réserves par courriels avant le comité, ces éléments n’étaient
+pas joints au dossier de prêt et n’étaient pas expressément pris en compte dans la décision d'octroi. Il
+n'existait donc pas d'analyse formalisée des risques conduite par la filière risque, présentée et prise en
+compte pour la validation du dossier par le comité des engagements. Les comptes rendus des réunions
+du comité ne font apparaître que des mentions manuscrites peu claires, en marge de fiches de
+présentation qui ne comportent aucune étude élaborée, structurée et complète des risques inhérents aux
+prêts.
+En outre, tous les dossiers qui avaient vocation à être traités par le comité des engagements n'y étaient
+pas présentés.
+Enfin, les trois dossiers de PSG-HV ont été mis en place avant la création du comité des engagements,
+qui est intervenue en septembre 2018 et n'ont pas fait l'objet d'un avis de la responsable de la gestion des
+risques.
+29. Dans le dernier état de sa défense, la CCMX ne conteste pas les reproches qui lui sont adressés
+au titre du présent grief. Les actions de remédiation qu’elle décrit, qui ont notamment consisté en une
+refonte de la charte de son comité des engagements afin de clarifier son fonctionnement et ses missions,
+en un renforcement des moyens de la direction des risques et en une refonte de toutes ses procédures
+avec l’aide d’un cabinet de conseil externe sont sans incidence sur le grief 9, qui est entièrement fondé.
+30. En vertu de l’article 107 de l’arrêté du 3 novembre 2014, « sous réserve des dispositions prévues
+à l'article 117 [qui précise les obligations des entreprises assujetties utilisant des systèmes statistiques
+pour la sélection et la mesure du risque de crédit], l'appréciation du risque de crédit tient notamment
+compte des éléments sur la situation financière du bénéficiaire, en particulier sa capacité de
+remboursement, et, le cas échéant, des garanties reçues. / Pour les risques sur des entreprises, elle tient
+compte également de l'analyse de leur environnement, des caractéristiques des associés ou actionnaires
+et des dirigeants ainsi que des documents comptables les plus récents ».
+En vertu de l’article 108 du même arrêté, « les entreprises assujetties constituent des dossiers de
+crédit destinés à recueillir l'ensemble des informations mentionnées à l'article 107, de nature qualitative
+et quantitative, et regroupent dans un même dossier les informations concernant les contreparties
+considérées comme un même groupe de clients liés conformément au 39 du paragraphe 1 de l'article 4
+du règlement (UE) n° 575/2013 susvisé, sous réserve de l'application de réglementations étrangères
+limitant éventuellement la communication d'informations.
+Les entreprises assujetties complètent ces dossiers au moins trimestriellement pour les contreparties
+dont les créances sont impayées ou douteuses ou qui présentent des risques ou des volumes
+significatifs ».
+31. Selon le grief 10, fondé sur ces dispositions, le dispositif mis en œuvre au moment de la
+conclusion des prêts ne permettait pas à la CCMX de recueillir et de conserver les informations
+nécessaires sur le client pour apprécier correctement le risque de crédit. Les dossiers de crédit
+comportaient de nombreuses insuffisances : - pour les PSG : dossiers absents, incomplets ou non
+conformes ; / - pour les PSG-HV : dossiers ne comportant pas les éléments de connaissance du client et
+ne permettant pas de s'assurer qu’il pourra faire face à ses échéances, absence de plus de la moitié des
+contrats de prêts ; / - pour les PPX : dossiers ne comportant pas les éléments indispensables à la
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2020-04
+connaissance du client tels que ses activités, ses revenus, son patrimoine et son endettement, absence
+des contrats de prêts dans plusieurs dossiers.
+32. Après avoir contesté le grief en soutenant qu’elle n’était pas tenue de recueillir des informations
+sur la capacité du client à faire face aux échéances de crédit, la CCMX a admis, dans le dernier état de
+sa défense, certaines insuffisances en matière de formalisation du processus d’entrée en relation avec la
+clientèle.
+Elle n’apporte aucun élément de nature à contredire les constats du rapport de contrôle sur les
+carences du recueil d’informations sur les clients aux fins d’apprécier le risque de crédit.
+Les actions de remédiation qu’elle présente, qui, outre la rédaction de procédures internes relatives
+à l’octroi des prêts personnels et des prêts sur gage, ont consisté en une amélioration de la formation de
+son personnel et en un changement du logiciel destiné au profilage des clients, sont sans incidence sur
+le grief 10, qui est entièrement fondé.
+IV. Les défaillances du dispositif de contrôle interne
+33. En vertu de l’article 13 de l’arrêté du 3 novembre 2014, « le contrôle permanent de la conformité,
+de la sécurité et de la validation des opérations réalisées et du respect des autres diligences liées aux
+missions de la fonction de gestion des risques est assuré, avec un ensemble de moyens adéquats, par :
+/- certains agents, au niveau des services centraux et locaux, exclusivement dédiés à cette fonction ; / -
+d'autres agents exerçant des activités opérationnelles. »
+34. Selon le grief 11, fondé sur ces dispositions, le dispositif de contrôle permanent de la CCMX
+était, au moment du contrôle, lacunaire. Aucun plan annuel de contrôle permanent ni aucun document
+formalisant les contrôles à conduire (périodicité, modalités de constitution des échantillons et de
+conduite des contrôles...) sur l'ensemble des activités (octroi de prêts, collecte de l'épargne, gestion des
+comptes courants...) n’avaient été établis.
+Le projet de mise en place d'états standards de contrôle permanent de premier et de second niveau,
+confié au cabinet [B] en 2015, n'était toujours pas finalisé au moment de la mission.
+Les contrôles de second niveau étaient en outre largement insuffisants. Limités aux agences, ils ne
+couvraient ni le siège de la CCMX, ni le GIE CM Services qui gérait notamment le système
+d'information. Ils ne couvraient pas un certain nombre d'activités, comme les PPX et les PSG-HV. La
+comptabilité et les états prudentiels ne faisaient pas l'objet d'un contrôle de second niveau puisque leur
+vérification était effectuée par leurs responsables.
+Les quatre missions de contrôle permanent conduites dans les agences en 2018 n’ont pas couvert
+l'ensemble des services proposés par les agences contrôlées : centrées sur l'activité de prêt sur gage, elles
+ont porté principalement sur les espèces, mais aucun inventaire annuel des gages détenus dans les
+agences n’a été effectué et les activités bancaires en ont été exclues. Elles ne couvraient pas non plus les
+recommandations formulées par l'audit.
+Enfin, les résultats des contrôles réalisés en 2017 et 2018 n’avaient été présentés et formalisés que
+dans des courriels ou fiches succincts adressés notamment au directeur adjoint, à la secrétaire générale
+et aux collaborateurs ayant participé aux missions. En outre, ils n’étaient pas assortis de plans d'action
+à mettre en place par les agences.
+35. La CCMX ne conteste pas que son dispositif de contrôle permanent était doté de moyens
+insuffisants pour exercer les missions qui lui incombaient. Si elle relève cependant que certains contrôles
+permanents de second niveau avaient été réalisés, les éléments qu’elle produit sur l’organisation de ces
+contrôles ne sont pas de nature à remettre en cause les constats du rapport de contrôle sur les carences
+relevées au titre du présent grief et son dispositif de contrôle permanent ne peut être regardé comme
+adapté à sa taille et à ses missions.
+36. Les actions de remédiation mentionnées ont notamment consisté en une adaptation de la charte
+du contrôle interne de l’établissement, en un renforcement des moyens humains dédiés au contrôle
+interne et en une revue de la classification des risques, achevée en juin 2020. Celle-ci a permis une
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2020-04
+refonte de toutes les procédures et la diffusion, en février 2021, de fiches de contrôle de premier et de
+second niveau. Avec l’aide d’un prestataire externe, un plan de contrôle permanent et d’états standards
+de contrôle a été rédigé. De telles actions, postérieures à la mission de contrôle, sont sans incidence sur
+le grief 11, qui est fondé.
+37. En vertu de l’article 17 de l’arrêté du 3 novembre 2014, « le contrôle périodique de la conformité
+des opérations, du niveau de risque effectivement encouru, du respect des procédures, de l'efficacité et
+du caractère approprié des dispositifs mentionnés à l'article 13 est assuré au moyen d'enquêtes par des
+agents au niveau central et, le cas échéant, local, autres que ceux mentionnés audit article. / Les
+entreprises assujetties désignent également un responsable chargé de veiller à la cohérence et à
+l'efficacité des missions mentionnées au premier alinéa. / Les agents en charge du contrôle périodique
+prévu au premier alinéa exercent leurs missions de manière indépendante à l'égard de l'ensemble des
+entités et services qu'ils contrôlent ».
+L’article 25 du même arrêté prévoit par ailleurs que « les moyens affectés au contrôle périodique au
+titre des dispositifs mentionnés à l'article 17 sont suffisants pour mener un cycle complet d'investigations
+de l'ensemble des activités sur un nombre d'exercices aussi limité que possible. / Un programme des
+missions de contrôle est établi au moins une fois par an en intégrant les objectifs annuels des dirigeants
+effectifs et des orientations de l'organe de surveillance en matière de contrôle ».
+38. Selon le grief 12, fondé sur ces dispositions, les moyens affectés par la CCMX au contrôle
+périodique étaient insuffisants. Le cabinet [C], auquel ce contrôle avait été délégué, n’avait pas été en
+mesure de respecter le plan d’audit triennal qu’il avait lui-même défini et déployé de 2016 à 2018. Ainsi,
+treize missions programmées en agence n'avaient pas eu lieu. De plus, alors que le plan d'intervention
+de [C] pour 2016-2018 prévoyait plusieurs contrôles portant sur des aspects comptables, aucun de ces
+contrôles n'avait été réalisé. Le contrôle périodique n'avait pas couvert les unités et activités du siège, ni
+les prestations externalisées, dont celles des apporteurs d'affaires, à l'exception de la gestion financière.
+En outre, en raison de la finalisation tardive du contrat de service avec le nouveau prestataire [D], qui a
+succédé au cabinet [C], aucune mission de contrôle périodique n'a été engagée au premier semestre
+2019.
+39. Sans contester les faits qui lui sont reprochés, la CCMX indique que les carences constatées par
+la mission de contrôle sont imputables au prestataire externe, qui n’a pas respecté le plan triennal qui
+avait été fixé.
+Selon l’article 237 de l’arrêté du 3 novembre 2014, « les entreprises assujetties qui externalisent des
+prestations de services ou d’autres tâches opérationnelles essentielles ou importantes (…) demeurent
+pleinement responsables du respect de toutes les obligations qui leur incombent ». Ainsi, les défaillances
+d’un prestataire externe sont sans incidence sur la responsabilité de la CCMX. La première branche du
+grief, qui porte sur le non-respect par la CCMX de son plan de contrôle, est donc fondée.
+En revanche, aucune disposition légale ne contraignant les organismes assujettis à effectuer chaque
+semestre au moins une mission de contrôle, la seconde branche du grief, relative à l’absence de mission
+de contrôle périodique au premier semestre 2019, doit être écartée.
+40. Le grief 12 est donc fondé, dans sa première branche seulement.
+41. Selon le grief 13, fondé sur les dispositions citées au point 37, le cabinet [C], qui avait élaboré
+l’outil ALM de la CCMX n'était pas en mesure d'auditer de manière indépendante sa gestion financière.
+42. Les dispositions citées ci-dessus de l’arrêté du 3 novembre 2014 ne font pas obstacle à ce qu’un
+même prestataire externe élabore un outil ALM et audite la gestion financière d’un établissement, dès
+lors que les deux missions sont réalisées par des collaborateurs différents relevant d’autorités
+hiérarchiques distinctes. Le grief 13 doit donc être écarté.
+Autorité de contrôle prudentiel et de résolution 10
+
+===== Page 11 =====
+Décision de la Commission des sanctions – procédure no 2020-04
+43. En vertu du f) de l’article 11 de l’arrêté du 3 novembre 2014, le système de contrôle des opérations
+et des procédures internes a notamment pour objet, dans des conditions optimales de sécurité, de fiabilité
+et d'exhaustivité, de « vérifier l'exécution dans des délais raisonnables des mesures correctrices
+décidées au sein des entreprises assujetties ».
+44. Selon le grief 14, fondé sur ces dispositions, le suivi des mesures correctrices à mettre en place
+à la suite des constats effectués par le cabinet [C] était défaillant :
+- des recommandations n’étaient pas assorties d'actions ; / - aucune échéance n'était fixée dans le
+tableau de suivi des recommandations de 2017 et une forte proportion de celles que mentionnaient les
+tableaux de suivi de 2016 et 2018 n’étaient pas reprises par la CCMX ou l’étaient de façon
+approximative ; / - de nombreuses actions à mettre en œuvre ne mentionnaient pas les acteurs concernés,
+ce qui n'assurait pas leur prise en charge effective.
+De surcroît, les tableaux de suivi ne comprenaient pas les recommandations émises par [C] lors des
+exercices précédents et non apurées et ne comportaient pas d’informations sur leur degré d'avancement.
+45. La CCMX ne conteste pas que le suivi des mesures de remédiation préconisées par son prestataire
+externe n’était pas suffisamment formalisé. Elle relève cependant qu’elle avait mis en place un document
+de synthèse des constats de la société [C], afin de définir les mesures correctrices nécessaires et qu’elle
+mentionnait en outre dans ses rapports de contrôle interne les résultats des contrôles périodiques afin
+que le suivi en soit assuré, ce dont son comité des risques était avisé.
+Toutefois, de tels éléments ne suffisent pas à remettre en cause les constats de la mission de contrôle,
+qui montrent non seulement que le suivi des recommandations était peu formalisé mais, en outre, que la
+CCMX n’était pas en mesure de vérifier l’exécution dans des délais raisonnables des mesures
+correctrices préconisées. Les défaillances alléguées du prestataire externe ne sauraient, ainsi qu’il a été
+dit, excuser de telles carences.
+46. Les mesures de remédiation évoquées par la CCMX, qui ont notamment consisté en un
+renforcement de ses exigences à l’égard de son prestataire externe sur la formalisation des résultats des
+contrôles périodiques, afin d’en faciliter le suivi, sont sans incidence sur le grief 14, qui est entièrement
+fondé.
+*
+* *
+47. Il résulte de ce qui précède que, cherchant de nouvelles sources de revenus, la CCMX a
+commercialisé des produits (PPX et PSG-HV) dont les risques étaient très supérieurs à ceux que
+présentaient ses produits traditionnels, en raison du montant de certains engagements unitaires, de la
+nature des garanties reçues, des clientèles visées et des apporteurs d’affaires mobilisés.
+Cette tentative de diversification a été menée pendant une période où le COS de la CCMX
+s’impliquait insuffisamment dans l’analyse de la stratégie, la revue des risques et le contrôle de la gestion
+de l’établissement, du fait, en particulier, de l’absentéisme important des membres élus en son sein par
+le conseil municipal (grief 1).
+Les risques afférents aux nouveaux produits, notamment en matière de conformité, n’ont fait l’objet
+ni d’une approbation ni d’une évaluation préalablement à leur commercialisation (griefs 2 et 3 et grief
+8).
+Les PPX et les PSG-HV ont ainsi été lancés alors même que le cadre juridique dans lequel s’inscrivait
+cette activité avait été insuffisamment analysé et que la CCMX se trouvait donc exposée à un risque de
+non-conformité. Du fait de ces carences, des erreurs ont été commises dans la détermination du taux de
+l’usure applicable aux PPX (grief 4) et la CCMX, bien que disposant d’éléments d’analyse s’y
+rapportant, n’a pas immédiatement réagi pour y remédier (grief 5).
+Les dossiers de demande de PPX et de [PSG-HV] ne faisaient pas l’objet d’une analyse des risques
+indépendante et formalisée (grief 9) et la CCMX ne recueillait pas toutes les informations nécessaires
+pour apprécier le risque de crédit afférent aux concours sollicités (grief 10). D’autres manquements
+Autorité de contrôle prudentiel et de résolution 11
+
+===== Page 12 =====
+Décision de la Commission des sanctions – procédure no 2020-04
+relatifs à l’attribution des prêts, tenant notamment à l’absence, dans certaines agences, de commissaires-
+priseurs judiciaires (grief 6) ont également été établis.
+De plus, le dispositif de contrôle interne de la CCMX présentait au moment du contrôle sur place de
+très nombreuses carences, notamment dues à une insuffisance de moyens. Si ces carences ne
+concernaient pas les seuls PSG-HV et PPX, la Commission relève toutefois que ces produits étaient
+exclus du dispositif de contrôle permanent de l’établissement (griefs 11 à 14).
+Au total, la CCMX s’est donc engagée dans une diversification qui l’a exposée à des risques
+importants (qui auraient eu des conséquences plus graves encore en l’absence de contrôle de l’ACPR),
+alors même que sa gouvernance, ses procédures et ses dispositifs de contrôle souffraient de graves
+carences.
+48. Il convient cependant de tenir compte du fait que la CCMX a pris une claire conscience de ces
+graves manquements et qu’elle a engagé un plan de remédiation ambitieux, dont les principaux aspects
+ont été mentionnés ci-dessus. La CCMX est désormais recentrée sur les activités que sa double nature
+d’établissement de crédit et d’établissement d’aide sociale lui donne vocation à exercer et dotée d’une
+gouvernance et d’une organisation renouvelées.
+Il est également nécessaire de tenir compte de la forte dégradation des résultats de l’établissement,
+qui résulte de l’échec de sa tentative de diversification et de la décision d’indemniser les clients qui ont
+subi un préjudice du fait de l’application d’un taux erroné, mais aussi du coût de son plan de remédiation.
+Cette situation mérite d'autant plus attention que la CCMX est, en vertu de l’article L 514-4 du CMF,
+un acteur important en matière d’aide sociale, qui contribue notamment, ainsi qu’il a été dit, au
+financement du centre communal d’action sociale (CCAS). L’absence de tout versement de la CCMX
+en 2020, même partiellement compensée par la ville de [X], a été source de difficultés pour cet
+établissement. Or la Commission constate que, comme le montrent les informations communiquées à
+l’audience, les besoins en matière d’aide sociale ont augmenté significativement dans la ville de [X]
+depuis le début de la crise sanitaire.
+49. Les manquements retenus par la Commission justifient, compte tenu de leur gravité ainsi que des
+éléments d’atténuation ci-dessus mentionnés, le prononcé d’un blâme et il y a lieu, eu égard à la situation
+financière de la CCMX, de prononcer en outre à son encontre une sanction pécuniaire de 120 000 euros.
+En l’absence d’éléments de nature à établir qu’une publication sous forme nominative lui causerait
+un préjudice disproportionné et qu’elle méconnaîtrait, en l’espèce, l’équilibre entre l’exigence d’intérêt
+général à laquelle elle répond et les intérêts de l’organisme mis en cause, il y a en outre lieu de publier
+la présente décision au registre de l’ACPR sous forme nominative, pendant une durée de trois ans. Elle
+y sera ensuite maintenue sous une forme non nominative.
+Autorité de contrôle prudentiel et de résolution 12
+
+===== Page 13 =====
+Décision de la Commission des sanctions – procédure no 2020-04
+*
+* *
+PAR CES MOTIFS
+DÉCIDE :
+ARTICLE 1ER – Il est prononcé à l’encontre de la Caisse de crédit municipal de la ville de [X] un
+blâme et une sanction pécuniaire de 120 000 euros (cent vingt mille euros).
+ARTICLE 2 – La présente décision sera publiée au registre de l’ACPR pendant trois ans sous une
+forme nominative, puis sous une forme ne permettant pas d’identifier la Caisse de crédit municipal de
+la ville de [X], et pourra être consultée au secrétariat de la Commission.
+Le Président de la Commission
+des sanctions
+[Alain Ménéménis]
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification
+et dans les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 13

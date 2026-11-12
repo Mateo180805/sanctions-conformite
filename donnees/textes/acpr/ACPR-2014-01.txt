@@ -1,0 +1,701 @@
+===== Page 1 =====
+ALLIANZ VIE
+Procédure no 2014-01
+_____
+Blâme et sanction pécuniaire
+de 50 millions d’euros
+_____
+Audience du 28 novembre 2014
+Décision rendue le 19 décembre 2014
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+_______________
+Vu la lettre du 4 février 2014 par laquelle le Vice-président de l’Autorité de contrôle prudentiel et de
+résolution (ACPR) informe la Commission de ce que le Collège de l’ACPR, statuant en sous-collège
+sectoriel de l’assurance, a décidé, lors de sa séance du 23 janvier 2014, d’ouvrir une procédure disciplinaire à
+l’encontre de la société ALLIANZ VIE, procédure enregistrée sous le numéro 2014-01 ;
+Vu la notification de griefs du 3 février 2014 ;
+Vu les mémoires en défense des 8 avril 2014, 9 juillet 2014, 15 septembre 2014 et 6 octobre 2014 et les
+pièces qui les accompagnent ainsi que celles produites à la demande du rapporteur, par lesquels
+ALLIANZ VIE soutient (i) n’avoir commis aucun manquement aux dispositions des articles L. 113-5,
+L. 132-8, L. 132-9-3 et A. 342-5 du code des assurances et L. 123-22 du code de commerce, (ii) reconnaît
+qu’au moment du contrôle elle n’avait pas mis en place de procédure de revalorisation systématique des
+capitaux décès en application des dispositions de l’article L. 132-5 du code des assurances et ne disposait pas
+des listes imposées par l’article A. 342-6 de ce code, (iii) demande que l’audience ne soit pas publique, que
+la publication de la décision à intervenir ne soit pas nominative ou qu’elle soit différée au mois de novembre
+2016, terme du délai sur lequel elle s’est engagée pour finaliser le traitement des contrats d’assurance sur la
+vie non réglés gérés sous son système principal de gestion de tels contrats et que, à défaut, les informations
+touchant au secret des affaires ou à son organisation interne ne soient pas publiées ;
+Vu les mémoires en réplique des 4 juin 2014, 31 juillet 2014 et 29 septembre 2014 et les pièces qui les
+accompagnent par lesquels M. Dominique Thiry, représentant le Collège de l’ACPR, maintient l’ensemble
+des griefs notifiés qui lui paraissent, compte tenu notamment de la place d’ALLIANZ VIE parmi les acteurs
+majeurs en France de l’assurance sur la vie, justifier une très lourde sanction disciplinaire ;
+Vu le procès-verbal de l’audition du directeur général délégué de la société ALLIANZ VIE, entendu par
+rapporteur le 1er juillet 2014, et les pièces qui y sont annexées ;
+Vu le rapport du 24 octobre 2014, dans lequel le rapporteur, M. Pierre Florin, après avoir numéroté les
+griefs de 1 à 6, estime qu’ils sont établis, dans un périmètre toutefois légèrement réduit s’agissant du grief 2
+car 3 des 31 dossiers qualifiés de défaillants par la poursuite au regard de l’obligation de recherche des
+bénéficiaires ne lui paraissent pas pouvoir caractériser un manquement à l’article L. 132-8 du code des
+assurances ;
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2014-01
+Vu les courriers du 24 octobre 2014 convoquant les parties à la séance de la Commission du
+28 novembre 2014 et les informant de sa composition lors de cette séance ;
+Vu les observations présentées le 14 novembre 2014 sur le rapport du rapporteur et les trois pièces jointes
+par lesquelles ALLIANZ VIE conteste les conclusions du rapporteur ;
+Vu les autres pièces du dossier, notamment le rapport de contrôle signé le 19 novembre 2013 par
+M. Geoffroy de Vaucelles, chef de mission, à la suite du contrôle sur place effectué du 31 janvier au
+31 juillet 2013 ;
+Vu le code des assurances, notamment ses articles L. 113-5, L. 132-5, L. 132-8, L. 132-9-3, R. 341-2,
+A. 342-5 et A. 342-6, dans leur version applicable aux faits ;
+Vu le code de commerce, notamment son article L. 123-22 ;
+Vu le code monétaire et financier, notamment ses articles L. 612-38 et L. 612-41 et ses articles R. 612-35
+à R. 612-51 ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACPR, composée de M. Rémi Bouchez, Président, de
+Mme Claudie Aldigé et de MM. Francis Crédot, André Icard et Denis Prieur ;
+Après avoir décidé de faire droit à la demande de la société ALLIANZ VIE tendant à ce que l’audience ne
+soit pas publique et entendu, lors de sa séance du 28 novembre 2014 :
+− M. Florin, rapporteur, assisté de M. Raphaël Thébault, son adjoint ;
+− M. Eric Paul, représentant du directeur général du Trésor, qui a indiqué ne pas avoir d’observations à
+formuler ;
+− M. Thiry, représentant le Collège de l’ACPR, assisté de MM. Henry de Ganay, directeur des affaires
+juridiques de l’ACPR, Jean-Gaspard d’Ailhaud de Brisis, chef du service des affaires institutionnelles et
+du droit public et Fabrice Jeanne, juriste au sein de ce service, ainsi que de M. Olivier Fliche, directeur
+des pratiques commerciales, de Mme Hélène Arveiller, chef du service de veille sur les contrats et les
+risques, de M. Geoffroy de Vaucelles, contrôleur des pratiques commerciales et de M. Luc Delage,
+adjoint au chef de brigade de la 2e direction du contrôle des assurances ; M. Thiry a proposé le prononcé
+d’une interdiction de souscription de nouveaux contrats d’assurance sur la vie pendant une période d’un
+mois ainsi qu’une sanction pécuniaire de 100 millions d’euros ; subsidiairement, si la Commission
+estimait que les manquements qui lui sont soumis dans cette affaire n’atteignent pas la gravité
+exceptionnelle qu’elle a définie comme la condition nécessaire pour que soit prononcée une sanction
+pécuniaire égale au maximum encouru, il a proposé le prononcé d’un blâme assorti d’une sanction
+pécuniaire de 80 millions d’euros ; en outre, les conditions permettant de déroger au principe d’une
+publication nominative des décisions de la Commission n’étant pas réunies, le représentant du Collège a
+proposé que la décision à intervenir soit publiée sous cette forme ;
+− le président-directeur général et le directeur général délégué de la société ALLIANZ VIE, assistés de la
+secrétaire générale, du directeur des opérations vie, de la directrice juridique assurances de personnes, du
+directeur des assurances de personnes, de la directrice juridique assurance, et de Maîtres Nicolas Baverez,
+Benoît Fleury et Audrey Paul, avocats à la Cour, cabinet Gibson, Dunn & Crutcher LLP ;
+Les représentants de la société ALLIANZ VIE ayant eu la parole en dernier ;
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2014-01
+Après en avoir délibéré en la seule présence de M. Bouchez, Président, Mme Aldigé et MM. Crédot,
+Icard et Prieur ainsi que de M. Jean-Manuel Clemmer, faisant fonction de secrétaire de séance ;
+1. Considérant que la société ALLIANZ VIE, filiale à 100 % de la société ALLIANZ, a réalisé un chiffre
+d’affaires de 6,2 milliards d’euros en 2012 ; que son encours de provisions mathématiques sous gestion en
+assurance sur la vie s’élevait à 56,5 milliards d’euros à fin 2012 ; qu’en 2011, ALLIANZ VIE détenait 4,7 %
+de parts du marché français en assurance de personnes et 3,7 % en assurance sur la vie ; que les gammes des
+produits qu’elle commercialise comprennent des contrats d’épargne (vie et capitalisation), des contrats de
+prévoyance (temporaire décès et vie entière) et des contrats de retraite sous forme individuelle ou collective
+distribués via 2 530 points de vente répartis sur le réseau des salariés ALLIANZ (2 350 conseillers
+ALLIANZ FINANCE CONSEIL et 360 conseillers ALLIANZ PRÉVOYANCE SANTÉ), le réseau des
+agents généraux (1 900 agents généraux) et les courtiers indépendants ; que les contrats d’assurance
+individuelle sur la vie d’ALLIANZ VIE, souscrits par 1,5 million d’assurés, sont principalement gérés sur
+son système d’information « GCP » ;
+2. Considérant que la mission de contrôle sur place d’ALLIANZ VIE diligentée par le Secrétariat général
+de l’ACPR s’est déroulée du 31 janvier au 31 juillet 2013 et, après observations orales et écrites de la société
+contrôlée sur un projet de rapport établi le 15 octobre 2013, a donné lieu à la signature d’un rapport le
+19 novembre 2013 (le « rapport de contrôle ») ; que lors de sa séance du 23 janvier 2014, le Collège de
+l’ACPR (sous-collège sectoriel assurance) a ouvert la présente procédure, dont la Commission a été saisie le
+4 février 2014 ;
+3. Considérant que les griefs notifiés à ALLIANZ VIE seront examinés selon la numérotation retenue par
+le rapporteur :
+1. Sur le respect de l’obligation d’identifier les assurés décédés (grief 1) ;
+2. Sur le respect de l’obligation de recherche des bénéficiaires (grief 2) ;
+3. Sur le respect de l’obligation d’exécution des contrats à terme fixe (grief 3) ;
+4. Sur l’absence de traitement des dossiers et de conservation des pièces à la suite de « purges
+comptables » (grief 4) ;
+5. Sur le respect de l’obligation de mettre en place un dispositif de revalorisation des capitaux décès
+(grief 5) ;
+6. Sur le respect de l’obligation d’établir la liste des contrats d’assurance sur la vie dénoués
+comportant des montants non réglés (grief 6) ;
+1. Sur le respect de l’obligation d’identifier les assurés décédés
+4. Considérant que l’article L. 132-9-3 du code des assurances, inséré par la loi no 2007-1775 du
+17 décembre 2007 permettant la recherche des bénéficiaires des contrats d’assurance sur la vie non réclamés
+et garantissant les droits des assurés (ci-après la loi no 2007-1775), dans sa version en vigueur au moment des
+faits, dispose que « I. - Les entreprises d’assurance mentionnées au 1o de l’article L. 310-1 du présent code
+ainsi que les institutions de prévoyance et unions régies par le titre III du livre IX du code de la sécurité
+sociale s’informent, dans les conditions prévues au II du présent article, du décès éventuel de l’assuré. / II. -
+Les organismes professionnels mentionnés à l’article L. 132-9-2 sont autorisés à consulter les données
+figurant au répertoire national d’identification des personnes physiques et relatives au décès des personnes
+qui y sont inscrites. Les entreprises d’assurance ainsi que les institutions de prévoyance et unions
+mentionnées au I obtiennent de ces organismes professionnels communication de ces données en vue
+d’effectuer des traitements de données nominatives. Ces traitements ont pour objet la recherche des assurés
+et bénéficiaires des contrats d’assurance sur la vie décédés. » ;
+5. Considérant que, selon le grief 1, ALLIANZ VIE a effectué, à compter de 2009 selon la société, des
+consultations du RNIPP (i) en introduisant des critères de sélection des assurés dont elle recherchait le décès
+éventuel et (ii) en excluant certains portefeuilles, ce qui a conduit à rendre pratiquement inopérante
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2014-01
+l’obligation d’identification des assurés décédés ; qu’en assurance sur la vie individuelle, les critères
+cumulatifs mis en place ont limité les consultations du RNIPP aux seuls contrats en cours dont les assurés
+sont âgés de plus de 90 ans et dont la provision mathématique est supérieure à 2 000 euros, soit 0,51 %
+seulement du portefeuille concerné ; qu’ainsi, en 2012, ALLIANZ VIE a soumis au RNIPP 6 831 noms
+d’assurés et obtenu une information de décès sur 307 contrats correspondant à 9,6 millions d’euros de
+capitaux décès ; qu’en outre, des portefeuilles importants de contrats d’assurance vie ont été exclus du
+périmètre de cette identification, notamment les contrats collectifs, qui représentent plus de 12 milliards
+d’euros de provisions mathématiques, ou les contrats à terme fixe arrivés à échéance ; que si ALLIANZ VIE
+a indiqué avoir abandonné les critères de sélection des assurés et soumis au RNIPP, en octobre 2013, près
+d’un million et demi de noms d’assurés, ce qui a donné lieu à une information de décès pour 37 074
+personnes, et s’est engagée à procéder au traitement de ces dossiers dans un délai maximal de 3 ans, cela ne
+remet pas en cause les constats du rapport de contrôle ; qu’en effectuant une sélection des contrats devant
+faire l’objet de consultations du RNIPP pour s’informer du décès éventuel de ses assurés, ALLIANZ VIE n’a
+pas respecté les dispositions de l’article L. 132-9-3 du code des assurances ;
+6. Considérant que les dispositions ci-dessus rappelées de l’article L. 132-9-3 imposent aux entreprises
+d’assurance sur la vie de rechercher, pour la totalité de leur portefeuille de contrats d’assurance sur la vie, si
+leurs assurés sont décédés ; que, lorsqu’il a institué cette obligation, le législateur n’a prévu ni mesures
+transitoires ni possibilité de réalisation partielle ou échelonnée des recherches ; qu’il appartenait donc aux
+entreprises d’assurance de n’exclure aucune catégorie de contrats de leurs recherches et de mettre en œuvre
+les moyens nécessaires à une démarche générale et systématique ; que des mesures de limitation du champ
+des recherches au moyen du RNIPP ne pouvaient dès lors être envisagées, en raison de contraintes
+techniques ou pratiques, qu’à condition de s’insérer dans une démarche d’ensemble prédéterminée et réalisée
+dans des délais courts ; qu’il résulte aussi de ces dispositions qu’un établissement qui ne consulterait pas le
+RNIPP, outil de recherche efficace que le législateur a mis en regard de l’obligation qu’il instituait, ou qui
+introduirait dans ce cadre des critères de sélection, devrait être en mesure de montrer par quels autres
+moyens, à supposer qu’il en existe, il a néanmoins satisfait pleinement à son obligation de recherche générale
+des assurés décédés ; qu’un manquement à cette obligation de recherche ne peut toutefois être sanctionné
+qu’à partir de mars 2009, date à laquelle le dispositif AGIRA 2 est devenu pleinement opérationnel ;
+7. Considérant qu’ainsi, le caractère général du reproche formulé par la poursuite ne résulte pas d’une
+extension arbitraire de l’obligation de recherche des informations de décès des assurés, comme le soutient
+ALLIANZ VIE, mais des termes de la loi no 2007-1775, qui définissent clairement des obligations
+professionnelles dont la méconnaissance peut être sanctionnée dans le respect du principe de légalité des
+délits et des peines appliqué à la matière administrative ; que, par ailleurs, si ALLIANZ VIE fait valoir
+qu’elle n’a fait qu’appliquer les « engagements déontologiques » de la Fédération française des sociétés
+d’assurance (FFSA) adoptés en décembre 2007 et soutient que ceux-ci faisaient écho aux travaux
+préparatoires de la loi no 2007-1775, ces circonstances sont sans incidence sur la réalité du manquement aux
+obligations rappelées ci-dessus, qui résultent de la loi ainsi qu’il a été dit, dès lors que ces engagements
+étaient dénués de portée normative ; qu’est également sans incidence la circonstance que ces engagements de
+la FFSA n’ont fait l’objet d’aucune critique de la part des pouvoirs publics ou du superviseur jusqu’à une
+date très récente ; que si des évolutions législatives ultérieures ont précisé ses modalités de mise en œuvre,
+l’obligation de recherche de l’éventuel décès des assurés avait, dès l’entrée en vigueur de la loi no 2007-
+1775, un caractère général ;
+8. Considérant que si ALLIANZ VIE indique avoir mis en œuvre d’autres moyens de recherche des
+assurés décédés, il ne ressort pas des explications recueillies que ces moyens aient permis de répondre aux
+exigences de l’article L. 132-9-3 ; qu’en particulier, si ALLIANZ VIE fait valoir que son traitement des
+courriers d’information, prévus à l’article L. 132-22 du code des assurances, qu’elle adresse annuellement à
+tous les détenteurs d’un contrat d’épargne, quels que soient leur âge et le montant de la provision
+mathématique de leur contrat, et qui lui revenaient avec la mention « n’habite pas à l’adresse indiquée »
+(NPAI) lui avait permis, à la date du contrôle, d’identifier 9 315 assurés décédés au total depuis 2000, soit
+moins de 1 000 par an, l’efficacité de cette méthode paraît faible au vu du nombre d’assurés ainsi identifiés
+sur une période de plus de 12 ans, rapporté à celui issu de la consultation du RNIPP opérée en octobre 2013
+relativement aux seuls contrats gérés dans le système GCP ; qu’en particulier, le contrôle a établi l’existence
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2014-01
+de nombreuses insuffisances dans le traitement de ces courriers, la consultation systématique du RNIPP en
+cas de « retour NPAI » n’étant prévue dans la procédure consacrée à cette question que depuis février 2013,
+après une première formalisation intervenue en juillet 2011 seulement ; que le nombre élevé de décès que la
+consultation du RNIPP a permis de connaître montre l’insuffisance des autres moyens précédemment
+utilisés ;
+9. Considérant qu’il ressort du dossier qu’ALLIANZ VIE n’a pas profité du délai de mise en place du
+dispositif AGIRA pour rendre ses fichiers fiables et compatibles avec les caractéristiques INSEE et n’a
+jamais, avant octobre 2013, présenté dans le cadre du dispositif AGIRA 2 de fichier supérieur à 11 000 noms
+d’assurés, alors que la limite technique était fixée à 50 000 noms par interrogation ; que, plus généralement,
+les contraintes opérationnelles avancées par ALLIANZ VIE pour justifier une consultation sélective du
+RNIPP ne peuvent excuser les manquements constatés ; que si ALLIANZ VIE a indiqué avoir mis en place
+en mai 2009 une procédure de consultation du fichier RNIPP, elle n’a effectué à ce titre que
+3 294 interrogations AGIRA 2 en 2009, 12 409 en 2010, 13 873 en 2011 et 10 027 en 2012 ; que ses
+consultations n’ont concerné 1,5 million de noms, soit la totalité des contrats gérés sous GCP auxquels se
+sont ajoutés les contrats gérés sous d’autres systèmes d’information, qu’en octobre 2013, après l’achèvement
+du contrôle sur place ; qu’avant cette interrogation, le périmètre et les critères de sélection retenus par
+ALLIANZ VIE pour la consultation du RNIPP ont abouti à ce qu’une proportion de 0,51 % seulement de son
+portefeuille de contrats d’assurance sur la vie donne lieu à une telle recherche ; que ses consultations n’ont
+en conséquence représenté que 0,02 % des noms d’assurés soumis à AGIRA 2 en 2011 et 2012, alors que la
+part de marché d’ALLIANZ VIE s’élève à 3,7 % ; que la consultation systématique, au terme de laquelle ce
+sont 2,7 millions de vérifications qui ont désormais été effectuées, est postérieure à la mission de contrôle ;
+que si la diffusion le 19 septembre 2012 d’une note de cadrage et la mise en place d’une équipe projet
+témoignent, près de cinq ans après la publication de la loi no 2007-1775, d’une volonté de pallier les carences
+qui avaient persisté jusqu’alors, pour « définir et appliquer un processus optimal de gestion des contrats Vie
+non réclamés », cette « nouvelle lecture des dispositions légales » est très tardive ; que la consultation, déjà
+mentionnée, du RNIPP, effectuée en octobre 2013, excluait encore, selon les indications fournies par
+ALLIANZ VIE, plusieurs catégories de contrats d’assurance sur la vie, pour lesquelles une consultation était
+prévue au plus tard le 15 septembre 2014, de sorte que ce n’est qu’en 2014 que l’ensemble du portefeuille de
+contrats aura été traité ; qu’à l’audience, les représentants de l’établissement ont indiqué qu’en intégrant les
+consultations relatives aux contrats gérés en dehors du système informatique GCP, plus de 75 000 dossiers
+(données brutes) étaient à traiter à ce jour et non 44 421 seulement comme cela avait été précédemment
+indiqué en l’état précédent de ces consultations ;
+10. Considérant qu’il résulte de ce qui précède que le grief 1 est établi ; que s’il convient de tenir compte
+des mesures que la société a mises en place pour satisfaire à cette obligation, le non-respect de l’obligation
+de recherche des assurés décédés de la société ALLIANZ VIE pour la quasi-totalité de son portefeuille,
+jusqu’au dernier trimestre 2013, soit six ans après l’adoption des dispositions créant cette obligation et plus
+de quatre ans après que le dispositif AGIRA 2 est devenu opérationnel, constitue un manquement d’une
+particulière gravité aux obligations issues de la loi no 2007-1775 ;
+2. Sur le respect de l’obligation de recherche des bénéficiaires
+11. Considérant que, selon le dernier alinéa de l’article L. 132-8 du code des assurances, dans sa rédaction
+issue de la loi no 2007-1775 : « Lorsque l’assureur est informé du décès de l’assuré, l’assureur est tenu de
+rechercher le bénéficiaire, et, si cette recherche aboutit, de l’aviser de la stipulation effectuée à son profit » ;
+12. Considérant que, selon le grief 2, ALLIANZ VIE n’a pas respecté son obligation de recherche des
+bénéficiaires de contrats d’assurance sur la vie ; que, parmi ses contrats comportant des capitaux décès non
+réglés, la mission de contrôle a revu trois échantillons respectivement constitués de (i) 20 contrats dont le
+capital décès est supérieur à 100 000 euros, dont la date de décès est antérieure à février 2008, et dont les
+capitaux sont non réglés plus de deux ans depuis la connaissance du décès ; (ii) 20 contrats dont le capital
+décès se situe entre 3 000 euros et 100 000 euros, dont la date de décès est antérieure à mai 2005, et dont les
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2014-01
+capitaux décès sont non réglés depuis plus de deux ans depuis la connaissance du décès ; (iii) 20 contrats
+dont le capital décès est supérieur à 20 000 euros, dont la date de décès est antérieure à avril 2004, et dont les
+capitaux sont non réglés depuis plus de deux ans depuis la connaissance du décès ; que la revue de ces
+60 dossiers de capitaux décès non réglés a mis en évidence 31 dossiers considérés défaillants, soit un taux de
+52 % ; qu’en particulier il a été constaté que dans un dossier, il n’y a eu aucune démarche pour régler les
+associations bénéficiaires alors que la clause bénéficiaire comportait leurs coordonnées complètes ; que deux
+dossiers ont donné lieu à une instruction très tardive par ALLIANZ VIE, plus de dix ans après la
+connaissance du décès ; qu’en outre, de nombreuses situations relevées par la mission de contrôle illustrent
+l’insuffisance des moyens mis en œuvre en matière de recherche des bénéficiaires ; qu’en particulier, dans 20
+dossiers (33 %), le suivi a été abandonné de longue date et dans 12 dossiers (20 %), le délai écoulé entre
+deux actions de recherche des bénéficiaires a été spécialement long ; que malgré une expérience concluante
+en 2007-2008, ALLIANZ VIE a renoncé à recourir à des cabinets de généalogie « en raison des surcoûts
+cumulés en gestion et honoraires de prestations » ; qu’ainsi, ALLIANZ VIE n’a pas respecté son obligation
+de recherche des bénéficiaires prévue par l’article L. 132-8 du code des assurances ;
+2.1. Sur le respect de l’obligation générale de recherche des bénéficiaires
+13. Considérant que les dispositions du dernier alinéa de l’article L. 132-8 du code des assurances doivent
+être interprétées en ce sens que les informations de décès recueillies par consultation du RNIPP ou autrement
+déclenchent, pour l’assureur, l’obligation d’une recherche active du bénéficiaire du contrat d’assurance sur la
+vie ; que si, à ce sujet, l’absence de résultat ne peut caractériser un manquement, il incombe à l’assureur de
+justifier, en particulier lorsque les difficultés résultent d’une insuffisante coopération de tiers, qu’il a mis en
+œuvre les différents moyens de recherche auxquels il peut être recouru avec suffisamment d’implication et
+de continuité, en utilisant le cas échéant des ressources externes ; que la loi no 2007-1775 n’a prévu aucune
+mesure transitoire ni entrée en vigueur différée ou progressive de ces dispositions, qui étaient donc
+applicables à compter du 19 décembre 2007, lendemain de sa publication ; qu’il appartenait donc à
+ALLIANZ VIE comme à l’ensemble des entreprises d’assurance, pour respecter cette nouvelle obligation, de
+n’exclure aucune catégorie de contrats de leurs recherches et de mettre en œuvre les moyens nécessaires à un
+traitement général et systématique des dossiers ; que dès lors que ces dispositions sont claires, l’éventualité
+pour une entreprise qui ne les respecterait pas d’être sanctionnée apparaissait, dès décembre 2007, comme
+raisonnablement prévisible ; qu’il en va ainsi alors même que, ainsi que le soutient ALLIANZ VIE, cette
+obligation de recherche des bénéficiaires s’analyse comme une obligation de moyens et que le législateur n’a
+pas précisé les modalités selon lesquelles elle doit être appliquée ; qu’elle se distingue toutefois de
+l’obligation de verser au bénéficiaire le capital qui lui est dû, un retard dans ce domaine n’étant pas
+susceptible d’entrer dans les prévisions de l’article L. 132-8 ci-dessus mentionné ; qu’enfin le respect des
+dispositions de cet article, pour les décès antérieurs au 19 décembre 2007 et dont l’assureur était déjà
+informé, s’apprécie à compter de cette date ;
+14. Considérant qu’ALLIANZ VIE fait valoir qu’elle recherchait les bénéficiaires avant 2007 et qu’elle a
+mis en place une procédure interne sur ce sujet, modifiée et mise à jour en 2009, 2010 et 2011, puis en
+janvier 2014, afin d’instituer un processus spécifique et d’améliorer le suivi des dossiers ; que les équipes en
+charge de ce travail, progressivement spécialisées et regroupées sur une plateforme dédiée, ont été
+régulièrement renforcées ; que, toutefois, le dossier ne fait pas apparaître de modification sensible et rapide
+des moyens alloués dans la période qui a suivi l’entrée en vigueur de l’obligation de recherche ; que la
+réaction par laquelle 3 équivalents temps plein (ETP) ont été ajoutés fin 2008 à l’unité sinistres prestations,
+passant alors de 13,6 à 16,6 ETP entre février 2007 et fin 2008, était manifestement insuffisante ; que
+l’ajustement ultérieur de ces moyens, par lequel ces équipes ont été portées à 29,8 ETP en mars 2010, 49,9
+en octobre 2011 puis à 64 courant 2014 a été lent et progressif ; que le renforcement des moyens dédiés au
+traitement des contrats à terme l’a été plus encore ; qu’en ce qui concerne le recours à des spécialistes
+extérieurs pour les cas les plus complexes, la possibilité de partenariat avec des généalogistes, qui avait
+donné lieu à un test dont les résultats s’étaient avérés satisfaisants, a pourtant été abandonnée ; que ce n’est
+qu’en décembre 2013 que la société ALLIANZ VIE a confié à des enquêteurs privés, à titre de test, 53
+dossiers non réglés, avant d’étendre cette pratique à près de 2 000 dossiers en juillet 2014 et plus de 3 000 en
+octobre de cette année ; que ces améliorations, postérieures à la mission de contrôle et dont les conséquences
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2014-01
+sur le respect de l’obligation de recherche du bénéficiaire demanderaient à être vérifiées, sont sans
+conséquence sur le grief ; qu’un processus de traitement des dossiers issus des consultations AGIRA 2 qui
+permet de les isoler et de suivre de manière spécifique l’avancement du traitement n’a été défini que depuis
+la consultation d’octobre 2013 ; que la procédure de recherche graduée des bénéficiaires a été mise à jour
+début 2014 seulement ; que, plus généralement, les mesures annoncées par ALLIANZ VIE pour faire évoluer
+son organisation interne sont postérieures au contrôle et apparaissent comme des actions de remédiation ;
+2.2. Sur l’examen par la mission de contrôle d’un échantillon de 60 dossiers
+15. Considérant que s’il convient, comme il vient d’être fait, de tenir compte de la démarche générale
+engagée, des procédures élaborées et des moyens affectés par l’assureur à la recherche des bénéficiaires, la
+vérification du respect de l’obligation issue des dispositions de l’article L. 132-8 du code des assurances
+impose également d’apprécier, le cas échéant à partir d’un échantillon de contrats, quelles ont été les
+diligences entreprises dans le traitement des dossiers individuels, après l’entrée en vigueur de ces
+dispositions le 19 décembre 2007 ; qu’au regard des exigences résultant des textes applicables, des
+défaillances dans le traitement de quelques dossiers sont susceptibles de caractériser un manquement ; que la
+méthode d’échantillonnage adoptée par les contrôleurs est détaillée par le rapport de contrôle, qui explique
+l’approche retenue pour la revue des 60 dossiers choisis parmi des contrats de montants élevés pour lesquels
+la date du décès est ancienne et qui examine chacun d’eux en intégrant les observations de la société ; que le
+rapport mentionne 31 dossiers regardés comme défaillants, soit les dossiers A1, A2, A3, A4, A5, A6, A7,
+A8, A9, A10, A11, A12, A13, A14, A15, A16, A17, A18, A19, A20, A21, A22, A23, A24, A25, A26, A27,
+A28, A29, A30 et A31 ;
+16. Considérant que dans la détermination du taux de défaillance dans le traitement de ces dossiers, il peut
+être tenu compte de ce que plusieurs contrats souscrits par un même assuré sont susceptibles d’être traités
+ensemble après information de décès et de présenter des difficultés analogues dans la recherche de
+bénéficiaires, ce qui conduit, en raison de la présence dans l’échantillon des 3 contrats de Mme Y (dossiers
+A18, A21 et A30) à réduire l’échantillon à 58 dossiers et le reproche à des défaillances dans le traitement de
+29 d’entre eux ; que doivent être écartés comme ne révélant pas un manquement aux dispositions de l’article
+L. 132-8 du code des assurances les dossiers A1, A3, A25 et A28, dans lesquels est relevé un défaut de
+paiement des capitaux une fois le bénéficiaire avisé de la stipulation à son profit, ce qui n’entre pas dans les
+prévisions de cet article ; que dans le dossier A29, pour lequel il n’est pas établi qu’ALLIANZ VIE aurait eu
+connaissance du décès de l’assuré courant 1999, l’absence de relance, entre avril et décembre 2010, du
+notaire auquel la dévolution successorale avait été demandée, ne caractérise pas un manquement ;
+17. Considérant qu’en revanche, contrairement à ce que soutient ALLIANZ VIE, le reproche porte
+effectivement sur la recherche des bénéficiaires des contrats dans les dossiers A12, A14, A15, A16 et A31,
+qui font apparaître une longue période d’inertie après des premières diligences ; qu’ALLIANZ VIE reconnaît
+ne pas avoir développé les moyens appropriés ou ne pas avoir procédé à des recherches suffisantes dans les
+dossiers A5, A9, A17, A19 et A24 ; que le non-respect de l’obligation de recherche des bénéficiaires résulte,
+dans le dossier A20, d’une absence d’instruction, les explications d’ALLIANZ VIE relatives à « une
+mauvaise retranscription de la clause bénéficiaire dans le système informatique » ne pouvant conduire à
+remettre en cause le manquement ; que dans le dossier A13, une période de plus de neuf ans s’est écoulée
+entre la connaissance du décès de l’assurée et le début des recherches du bénéficiaire, délai que « l’erreur de
+gestion » invoquée par ALLIANZ VIE ne peut excuser ; que l’absence de suivi dans les recherches ou un
+délai très long entre deux actions a été constaté dans les dossiers A2, A4, A6, A7, A8, A10, A11, A18-A21-
+A30, A22, A23, A26 et A27, cette défaillance, toutefois, ne concernant parfois qu’une partie des
+bénéficiaires comme dans les dossiers A7, A10 et A28 ; que, dans un cas, les coordonnées ont pu être
+retrouvées par la mission de contrôle à la suite d’une simple recherche sur internet (A26) ; que le défaut de
+précision de la clause bénéficiaire ne peut avoir pour conséquence d’excuser les carences dans la conduite de
+ces recherches, comme dans les dossiers A2, A4, A6, A11 et A17 ; qu’ainsi que cela a été mentionné, s’il
+n’est pas imposé par le législateur, le recours à des moyens externes, d’ailleurs parfois suggéré par les
+services en charge du traitement des dossiers peut dans les cas les plus difficiles (A2), apparaître comme la
+seule manière de satisfaire à l’obligation de recherche des bénéficiaires ; qu’une période de plusieurs années
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2014-01
+entre une recherche infructueuse du bénéficiaire de premier rang en utilisant son nom marital et une nouvelle
+recherche en utilisant son nom de jeune fille, révélant alors son décès (dossier A6) révèle un manquement à
+l’obligation imposée par l’article L. 132-8 ci-dessus mentionné ; que, dans plusieurs cas, malgré l’ancienneté
+du décès de l’assuré, les diligences entreprises après la mission de contrôle ont permis d’aviser les
+bénéficiaires de la stipulation effectuée à leur profit, ce qui démontre pour ce qui les concerne l’insuffisance
+des moyens précédemment déployés ; qu’ainsi, dans l’échantillon analysé par la mission de contrôle, les
+défaillances postérieures au 19 décembre 2007 sont établies dans 24 des 58 dossiers examinés, soit 41 % de
+l’échantillon ; que ce taux élevé, même s’il porte sur un échantillon relativement faible, et même si les
+défaillances constatées ne sont pas toutes de la même gravité, apparaît comme la conséquence et l’illustration
+des insuffisances de la société ALLIANZ VIE dans la mise à jour de ses procédures et l’adaptation des
+moyens à consacrer à la recherche des bénéficiaires de contrats d’assurance sur la vie, plusieurs années après
+l’entrée en vigueur des dispositions de la loi no 2007-1775 ;
+18. Considérant ainsi que le grief 2 est établi ; que les insuffisances constatées sont d’autant plus
+significatives qu’elles portent sur un volume de recherches de bénéficiaires à effectuer fortement réduit,
+jusqu’à une date très récente, au regard des exigences de la loi no 2007-1775, en raison des manquements
+relevés au titre du grief 1 en ce qui concerne l’identification des assurés décédés ;
+3. Sur le respect de l’obligation d’exécution des contrats à terme fixe
+19. Considérant que l’article L. 113-5 du code des assurances prévoit que : « Lors de la réalisation du
+risque ou à l’échéance du contrat, l’assureur doit exécuter dans le délai convenu la prestation déterminée
+par le contrat et ne peut être tenu au-delà » ;
+20. Considérant que, selon le grief 3, ALLIANZ VIE a mis en place en juillet 2009 une procédure de
+recherche pour les contrats à terme fixe indiquant notamment qu’elle s’engage : « pleinement dans cette
+démarche de recherche active des bénéficiaires en cas de vie par une procédure systématique de recherche
+des bénéficiaires termes » ; que parmi les capitaux termes non réglés, la revue de 30 contrats échus et non
+réglés depuis plus de trois ans a mis en évidence 26 dossiers défaillants en matière de traitement, soit un taux
+de 87 % ; que, le plus souvent, ALLIANZ VIE n’a pas initié d’actions ou s’est limitée à des démarches
+succinctes et non suivies ; que cette situation explique le montant élevé des capitaux échus non réglés dans
+son portefeuille, soit 82 millions d’euros au 31 décembre 2012 pour 97 430 contrats ; qu’ainsi,
+ALLIANZ VIE n’a pas respecté l’article L. 113-5 du code des assurances ;
+21. Considérant qu’ALLIANZ VIE soutient qu’aucun des faits reprochés au titre de ce grief ne constitue
+un manquement aux dispositions de l’article L. 113-5, qui se borne à fixer les conditions du versement de la
+prestation par l’assureur, c’est-à-dire essentiellement le point de départ de l’exigibilité de l’obligation de
+paiement, et qui n’institue ni n’implique, s’agissant des contrats à terme fixe, une obligation d’information
+de l’assuré ou une obligation de rechercher le bénéficiaire ; que toutefois cet article, quoique issu de lois
+anciennes et formulé en des termes généraux, fonde l’obligation, pour l’assureur, de verser la prestation
+après réalisation du risque ou à l’échéance du contrat et impose donc, à l’échéance d’un contrat d’assurance
+sur la vie à terme fixe, que l’assureur accomplisse les diligences nécessaires au règlement du capital, de
+manière à exécuter ses obligations contractuelles ; qu’il en va notamment ainsi lorsque le bénéficiaire de la
+prestation qui doit être exécutée n’est pas l’assuré ;
+22. Considérant que les constats de la mission de contrôle quant au défaut de diligences en vue d’assurer
+le règlement de 26 des 30 dossiers qu’elle a examinés ne sont pas sérieusement contestés par les écritures
+d’ALLIANZ VIE ; qu’ainsi, lors du contrôle, dans 10 dossiers anciens comportant une somme à verser
+comprise entre un peu plus de 2 000 et plus de 20 000 euros, aucune action en vue du règlement ne semble
+avoir été entreprise après l’échéance, les éventuelles difficultés techniques liées aux modalités de transfert de
+ces contrats souscrits avec des sociétés ultérieurement absorbées par ALLIANZ VIE ne constituant pas une
+justification suffisante à cette inertie ; que dans 16 autres dossiers comportant des capitaux dus d’un montant
+élevé, de 45 000 à 200 000 euros, et pour plusieurs desquels le souscripteur est décédé ou n’était pas le
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2014-01
+bénéficiaire désigné, les diligences de l’assureur se sont en général limitées à l’envoi d’un ou deux courriers,
+parfois revenus NPAI, ou à un contact avec le courtier ou l’agent général, et se sont ensuite totalement
+interrompues ; qu’en outre, plus du tiers des 26 contrats à terme fixe examinés par les contrôleurs
+comportaient un bénéficiaire distinct du souscripteur, qui n’a pas été avisé de sa désignation ; que l’inertie
+d’ALLIANZ VIE dans ce domaine a contribué à ce que plus de 82 millions d’euros de capitaux échus ne
+soient pas réglés à fin 2012, ce montant ayant augmenté ultérieurement ; qu’en moyenne, à la date du
+contrôle, ces contrats étaient arrivés à terme depuis huit ans ; que le manquement reproché ne porte pas sur
+l’absence d’une démarche de recherche active des bénéficiaires des contrats, comme l’impose l’article
+L. 132-8, mais sur les insuffisances constatées dans le traitement des contrats dénoués ; que la reprise de ces
+dossiers annoncée en novembre 2013 est sans conséquence sur le grief ; que ne le sont pas davantage
+l’élaboration, la diffusion et la mise à jour d’une procédure interne sur les contrats à terme ou les diligences
+qu’ALLIANZ VIE indique accomplir pour aviser l’assuré de l’arrivée du terme ; qu’ainsi, le grief est établi ;
+4. Sur l’absence de traitement des dossiers et de conservation des pièces
+à la suite de « purges comptables »
+23. Considérant que selon l’article L. 123-22 du code de commerce : « Les documents comptables sont
+établis en euros et en langue française. Les documents comptables et les pièces justificatives sont conservés
+pendant 10 ans. Les documents comptables relatifs à l’enregistrement des opérations et à l’inventaire sont
+établis et tenus sans blanc ni altération d’aucune sorte, dans des conditions fixées par décret en Conseil
+d’État » ; que selon l’article R. 341-2 du code des assurances : « Les entreprises définies à l’article R. 341-1
+sont soumises aux dispositions des articles 8 à 16 du code de commerce et aux dispositions du décret
+no 83-1020 du 29 novembre 1983 pris en application de la loi no 83-353 du 30 avril 1983 et relatif aux
+obligations comptables des commerçants et de certaines sociétés, à l’exception des articles 10 à 18, 24 et 26
+dudit décret, et sous réserve des dispositions particulières prévues au présent code » ; que selon l’article
+A. 342-5 du même code : « Les entreprises doivent soit délivrer les contrats sous un numérotage continu
+pouvant comprendre plusieurs séries, sans omission ni double emploi, les avenants successifs étant rattachés
+au contrat d’origine, soit affecter aux assurés ou sociétaires des numéros continus répondant aux mêmes
+exigences. Les informations relatives à ces documents doivent être à tout moment d’un accès facile et
+comporter au moins les éléments suivants : soit numéro du contrat ou de l’avenant, soit numéro de l’assuré
+ou du sociétaire avec tous les contrats ou avenants le concernant ; date de souscription, durée du contrat ;
+nom du souscripteur, de l’assuré ; éventuellement nom ou code de l’intermédiaire ; date et heure de la prise
+d’effet stipulée au contrat ; date et motif de la sortie éventuelle ; monnaie dans laquelle le contrat est
+libellé ; type de garantie par référence aux catégories d’assurance définies à l’article A. 344-2 ; montant des
+limites de garantie, du capital ou de la rente assurée » ; que selon l’article A. 342-6 du même code : « Les
+événements et les sinistres faisant jouer ou susceptibles de faire jouer au moins une des garanties prévues au
+contrat ou les sorties sont enregistrés dès qu’ils sont connus, sous un numérotage continu pouvant
+comprendre plusieurs séries. Cet enregistrement est effectué par exercice de survenance ou, en transports,
+par exercice de souscription. Il comporte les renseignements suivants : date et numéro de l’enregistrement,
+numéro de contrat et, en tant que de besoin, date de la souscription, nom de l’assuré, date de l’événement. Il
+en est établi au moins une fois par mois une liste à lecture directe. Par ailleurs, pour chaque sinistre, un
+document facilement accessible à partir du numéro d’enregistrement doit donner notamment la description
+des principaux éléments du sinistre et des réclamations et contentieux, le détail des décaissements et
+encaissements et, sauf si l’entreprise est dispensée de la méthode dossier par dossier, les évaluations
+successives des sommes à payer ou à recouvrer. À la clôture de l’exercice, il est établi pour chaque
+catégorie définie à l’article A. 344-2 ci-après une liste à lecture directe comportant pour chaque sinistre
+survenu dans l’exercice, outre le numéro d’enregistrement, les sommes payées au cours de l’exercice,
+l’évaluation des sommes restant à payer (sauf si l’entreprise est dispensée de la méthode dossier par
+dossier) et le total de ces éléments ; les sinistres survenus au cours des exercices antérieurs et qui n’étaient
+pas réglés à l’ouverture de l’exercice font l’objet de listes analogues comportant en outre les évaluations à
+la fin de l’exercice précédent. Ces listes fournissent enfin, s’il y a lieu, les indications analogues concernant
+les recours ou sauvetages » ;
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2014-01
+24. Considérant que, selon le grief 4, chaque année jusqu’en 2006, ALLIANZ VIE a procédé
+annuellement à des « purges comptables » cinq ans après le dénouement du contrat (décès ou terme), si
+aucune prestation ne lui avait été réclamée par le bénéficiaire, et à des destructions d’archives se rapportant à
+des contrats non réglés ; que ces pratiques se sont traduites par la reprise de provisions pour sinistres à payer
+vers le compte de produits techniques à hauteur de plus de 114 millions d’euros entre 1985 et 2006 ; qu’une
+fois purgés, ces dossiers, dont la preuve de la prescription n’a pas été rapportée, n’ont plus donné lieu à
+traitement ni recherche des bénéficiaires ; qu’un grand nombre de ces dossiers ont même été détruits ; que de
+telles pratiques sont contraires aux dispositions (i) de l’article L. 132-22 du code de commerce, rendu
+applicable aux entreprises d’assurance par l’article R. 341-2 du code des assurances, et des articles A. 342-5
+et A. 342-6 de ce code, relatives à la conservation des documents comptables ainsi qu’à l’accès aux
+informations relatives aux contrats, et (ii) de l’article L. 113-5 du code des assurances relatives à l’obligation
+d’exécution du contrat d’assurance sur la vie et de l’article L. 132-8 du même code sur la recherche des
+bénéficiaire ;
+25. Considérant, tout d’abord, que les « purges comptables » qu’ALLIANZ VIE a pratiquées
+annuellement depuis 1985 et jusqu’en 2006 ont consisté en des reprises de provisions sur sinistres à payer au
+titre des dossiers non réglés dans lesquels, au terme d’un délai de cinq ans, les bénéficiaires n’avaient pas été
+identifiés ; que ces reprises, d’un montant total de 114 millions d’euros hors exercices 1988 et 1989 pour
+lesquels les pièces correspondantes n’ont pas été retrouvées, ont en contrepartie alimenté, via un compte
+technique, la participation aux bénéfices ; que si ALLIANZ VIE n’a pas été en mesure d’expliquer le
+fondement juridique et les justifications de cette pratique, l’éventuelle irrégularité de celle-ci au plan
+comptable et prudentiel n’est en tout état de cause pas qualifiée de manquement dans le cadre de la présente
+procédure, aucun des textes invoqués par la poursuite au titre de ce grief n’ayant une telle portée ;
+26. Considérant, ensuite, qu’il est également reproché à ALLIANZ VIE d’avoir, jusqu’en 1999,
+accompagné ces « purges comptables » d’une destruction physique des dossiers concernés, qui auraient été
+pilonnés ; que les procédures s’y rapportant prévoyaient ainsi la destruction physique des dossiers « épurés »
+et en précisaient les modalités ; que sur un échantillon de 44 dossiers revus par la mission de contrôle, ne
+subsistait, pour 13 d’entre eux (30 %), « qu’une copie d’écran avec le numéro de police, la date de
+dénouement, la date "d’épuration" (effacement des principales informations dans les systèmes) et la date de
+"pilonnage" des dossiers papier (…) » ; qu’à partir de cette date, ALLIANZ VIE a développé un outil
+informatique lui permettant d’assurer un suivi de leur état, faisant sortir les contrats concernés de la base de
+gestion informatique tout en conservant, d’une part, des références succinctes dans la base « Epuration » et,
+d’autre part, la copie, sous forme de microfiches, de données de la base de gestion ; que, dans le cadre de
+cette pratique, les contrats en cause étaient extraits de la base SGPVPRO et recopiés dans une base
+d’archivage de données spécifique qui ne conservait que les dates d’effet, de sortie, d’épuration et de
+pilonnage ; que, selon la poursuite, les informations conservées à l’issue de ces opérations dans ces dossiers
+étaient trop succinctes pour permettre à ALLIANZ VIE de se conformer aux dispositions des articles L. 132-
+22 du code de commerce et A. 342-5 et A. 342-6 du code des assurances ;
+27. Considérant cependant que la société ALLIANZ VIE a contesté devant la Commission que les
+dossiers qui n’ont pas été retrouvés aient été détruits dans le cadre d’une pratique organisée et systématique,
+dont il est soutenu qu’elle ne saurait se déduire du faible échantillon examiné lors du contrôle ni des
+procédures anciennes mentionnant le « pilonnage » ; qu’il doit être tenu compte, au soutien de ces dires, de
+ce qu’ALLIANZ VIE a, en réponse au reproche d’un pilonnage entraînant des destructions de données dans
+30 % des dossiers individuels examinés par la mission de contrôle, fait effectuer une analyse de 344 autres
+dossiers ayant également donné lieu à des reprises de provisions pour sinistres à payer (PSAP) et que, dans
+cet échantillon de dossiers examinés sur 19 années contre 3 pour ceux étudiés par la mission de contrôle, elle
+a retrouvé dans 93,3 % des cas les informations relatives aux contrats, sous forme physique le plus souvent
+ou de microfiches ; qu’ALLIANZ VIE produit un procès-verbal de constat d’huissier du 9 juillet 2014
+mentionnant qu’à partir des listes de dossiers de provisions pour sinistre à payer couvrant la période de 1985
+à 2006 à l’exception des années 1988 et 1989 qui n’ont pas été retrouvées, 300 numéros de polices de
+contrats d’assurance vie ou de capitalisation répartis dans 27 cartons d’archives ont été choisis « au
+hasard » ; qu’aucun élément ne permettant de contester l’exhaustivité de ces états, sous les réserves ci-dessus
+rappelées concernant deux années, non plus que les modalités selon lesquelles l’échantillon a été constitué ou
+Autorité de contrôle prudentiel et de résolution 10
+
+===== Page 11 =====
+Décision de la Commission des sanctions – procédure no 2014-01
+les informations relatives aux clients conservées, selon ses dires, par l’établissement, le périmètre et la portée
+du reproche doivent être significativement réduits ;
+28. Considérant que, en tout état de cause, la Commission doit, en application du principe de
+proportionnalité, et en l’absence d’une règle de prescription applicable devant elle, tenir compte de
+l’ancienneté des faits reprochés ; qu’en l’espèce, ceux-ci, commis par un établissement soumis de manière
+permanente au contrôle du superviseur, ne peuvent, 15 ans après la commission des plus récents, contribuer à
+la détermination d’une sanction disciplinaire ; qu’au surplus, ces faits ne peuvent, en eux-mêmes, être
+qualifiés de manquement à l’obligation de recherche énoncée par l’article L. 132-8 du code des assurances,
+entrée en vigueur le 19 décembre 2007 ;
+29. Considérant enfin que, indépendamment de ces « purges comptables » elles-mêmes et des opérations
+liées examinées ci-dessus, est reproché à ALLIANZ VIE au titre de ce grief, à partir d’un échantillon de
+44 dossiers anciens ayant fait l’objet de ces mesures, un manquement à ses obligations d’exécution des
+contrats, en application de l’article L. 113-5 du code des assurances, ou de recherche des bénéficiaires,
+conformément aux exigences de l’article L. 132-8 du même code ; que sur cet échantillon de 34 dossiers, qui
+comprend 11 contrats de la « purge » effectuée en 1990, 11 contrats de la « purge » de 1995 et 22 contrats de
+la « purge » de 2004, tous dénoués par décès ou à terme fixe échu et non réglés ou partiellement réglés, le
+reproche est relatif à une défaillance dans 34 dossiers, soit 77 % du total ; que pour ces contrats, la poursuite
+soutient que, de longue date, ALLIANZ VIE s’est abstenue de toute démarche active en vue du règlement
+des sommes dues ou de l’identification des bénéficiaires ;
+30. Considérant toutefois que le contrat B, souscrit le 1er novembre 1982 et résilié en février 1984, doit
+être exclu du champ du reproche ; que, s’agissant du dossier C, l’assuré étant décédé en 1976, le contrat était
+prescrit en 2006 ; que les circonstances très particulières du dossier D conduisent également à ne pas le
+retenir comme défaillant ; qu’il y a donc lieu d’écarter ces trois dossiers ;
+31. Considérant que pour les 13 contrats dont le bénéficiaire en cas de vie était l’assuré lui-même, et dont
+le terme est survenu en 1985 ou 1994 alors que, selon les indications d’ALLIANZ VIE, l’assuré était en vie,
+la prescription par deux ans de l’action du bénéficiaire, en application des dispositions de l’article L. 114-1
+du code des assurances, est selon toute vraisemblance acquise depuis longtemps ; que, par suite, l’absence de
+diligences d’ALLIANZ VIE dans la période récente ne caractérise pas suffisamment un manquement dans le
+cadre de la présente procédure disciplinaire ;
+32. Considérant que pour les 18 autres contrats de l’échantillon, les éléments produits par ALLIANZ VIE
+n’établissent pas qu’il résulterait des démarches antérieurement entreprises que de nouvelles diligences
+auraient été vouées à l’échec ; qu’il ne ressort pas suffisamment des éléments fournis que l’action des
+bénéficiaires de ces contrats serait prescrite, dès lors que, notamment, le bénéficiaire désigné étant différent
+de l’assuré, ou celui-ci ayant pu décéder avant la survenance du terme, la date de départ de la prescription
+des actions dérivant des contrats est repoussée dans l’hypothèse où le bénéficiaire établit qu’il n’avait pas
+connaissance de la stipulation à son profit ; qu’en particulier, dans les dossiers E, F et G, ALLIANZ VIE ne
+conteste pas que les diligences accomplies en vue d’aviser l’un des bénéficiaires et de lui régler les sommes
+lui revenant ont été insuffisantes ; que la reprise annoncée des recherches dans ces dossiers constitue une
+mesure de régularisation sans conséquence sur le grief ; que, s’agissant du dossier H, si les diligences faites
+relativement au premier contrat ont abouti au règlement des sommes dues, celles relatives au second ont été
+manifestement défaillantes ; que dans le dossier I, il en va de même malgré l’envoi d’un chèque qui n’a pas
+été encaissé, l’établissement n’ayant pas poursuivi les démarches jusqu’à ce qu’il soit sûr que le bénéficiaire
+était bien informé de la stipulation à son profit ; qu’en l’absence de diligence depuis décembre 2005, le
+dossier J doit également être regardé comme défaillant, malgré des échanges de courriers avec le notaire
+jusqu’en 2004 ; qu’ainsi, pour ces 18 dossiers, le manquement aux obligations de recherche des bénéficiaires
+ou de diligences en vue du règlement des sommes dues est établi ; que cette partie du grief complète, en
+l’appuyant sur plusieurs autres cas particuliers, le reproche global d’un respect insuffisant des dispositions de
+l’article L. 132-8, que le grief 2 illustrait par l’examen d’un premier échantillon de contrats, ainsi que les
+manquements aux obligations d’exécution des contrats dénoués qui font l’objet du grief 3 ;
+Autorité de contrôle prudentiel et de résolution 11
+
+===== Page 12 =====
+Décision de la Commission des sanctions – procédure no 2014-01
+33. Considérant au total que, dans le périmètre significativement réduit par ce qui précède, le grief 4 est
+établi ;
+5. Sur le respect de l’obligation de mettre en place un dispositif
+de revalorisation des capitaux décès
+34. Considérant que selon le dernier alinéa de l’article L. 132-5 du code des assurances : « Le contrat
+d’assurance sur la vie comportant des valeurs de rachat précise les conditions dans lesquelles, en cas de
+décès, la revalorisation du capital garanti intervient à compter au plus tard du premier anniversaire du
+décès de l’assuré jusqu’à la réception des pièces mentionnées à l’article L. 132-23-1 » ; que ces dispositions
+ont été introduites par la loi no 2007-1775 afin d’imposer aux assureurs une revalorisation du capital garanti
+pour la période comprise entre le décès de l’assuré et le versement du bénéfice du contrat d’assurance ;
+35. Considérant que, selon le grief 5, si les contrats d’ALLIANZ VIE comportent bien une clause de
+revalorisation post mortem, la société n’a cependant pas mis en œuvre un dispositif de revalorisation
+systématique des contrats pour se conformer aux dispositions de l’article L. 132-5 du code des assurances ;
+que cette absence de revalorisation a concerné 132 contrats entre les exercices 2010 et 2012 ; que la société a
+donc méconnu les dispositions de cet article ;
+36. Considérant qu’ALLIANZ VIE ne conteste pas les observations de la mission de contrôle relatives à
+l’absence de procédure de revalorisation systématique des capitaux décès ni le bien-fondé de ce grief ; qu’il
+en est résulté que, dans 132 cas relevés par la mission de contrôle, aucune revalorisation post mortem n’a été
+appliquée ; que si la société indique avoir, en janvier 2014, mis en place un nouvel outil de calcul, diffusé
+une nouvelle procédure et commencé, depuis juillet 2014, à régulariser le manquement, de telles actions,
+postérieures au rapport de contrôle, ne sont pas de nature à remettre en cause le bien-fondé du grief ;
+qu’ainsi, le grief 5 est établi ;
+6. Sur le respect de l’obligation d’établir la liste des contrats d’assurance sur la vie dénoués
+comportant des montants non réglés
+37. Considérant que le troisième alinéa de l’article A. 342-6 du code des assurances, inséré par l’arrêté du
+20 juin 1994, impose qu’à la clôture de l’exercice, il soit établi, pour chaque catégorie d’opérations définie à
+l’article A. 344-2 du même code, « une liste à lecture directe comportant pour chaque sinistre survenu dans
+l’exercice, outre le numéro d’enregistrement, les sommes payées au cours de l’exercice, l’évaluation des
+sommes restant à payer (sauf si l’entreprise est dispensée de la méthode dossier par dossier) et le total de
+ces éléments ; les sinistres survenus au cours des exercices antérieurs et qui n’étaient pas réglés à
+l’ouverture de l’exercice font l’objet de listes analogues comportant en outre les évaluations à la fin de
+l’exercice précédent. Ces listes fournissent enfin, s’il y a lieu, les indications analogues concernant les
+recours ou sauvetages. » ;
+38. Considérant que, selon le grief 6, ALLIANZ VIE n’a pas été en mesure de fournir les informations
+relatives à la liquidation des sinistres non réglés prévues par l’article A. 342-6 du code des assurances ; qu’au
+cours du contrôle sur place, elle a justifié ce manquement par l’absence de demande de ses commissaires aux
+comptes ; que les informations qu’elle a transmises font état, à la fin de l’exercice 2012, de plus de 74
+millions d’euros de capitaux décès restant à régler pour 4 211 contrats ; qu’elle a indiqué au cours du
+contrôle sur place qu’elle n’avait « pas la certitude de disposer de l’exhaustivité des informations avant
+2001 » ; qu’en outre, le montant communiqué ne tient pas compte du stock de capitaux décès non réglés qui
+ont donné lieu à des purges comptables entre 1985 et 2006 ; qu’en tout état de cause, le montant
+communiqué ne prend pas en considération les décès qui n’ont pas été identifiés à défaut d’avoir généralisé
+Autorité de contrôle prudentiel et de résolution 12
+
+===== Page 13 =====
+Décision de la Commission des sanctions – procédure no 2014-01
+l’exploitation du RNIPP conformément aux dispositions du code des assurances ; qu’ALLIANZ VIE n’a pas
+respecté les dispositions de l’article A. 342-6 du code des assurances ;
+39. Considérant qu’ALLIANZ VIE a reconnu au moment du contrôle ne pas disposer des listes que les
+dispositions de l’article A. 342-6 du code des assurances, introduites par l’arrêté du 20 juin 1994 et entrées
+en vigueur le 1er janvier 1995, imposent d’établir à la clôture de chaque exercice ; qu’en conséquence, elle a
+été dans l’incapacité de communiquer à la mission de contrôle des informations fiables et détaillées sur le
+montant des capitaux décès non réglés, même pour les exercices récents ; que si ALLIANZ VIE indique
+détenir des informations à propos des contrats d’assurance sur la vie individuelle pour lesquels un sinistre est
+survenu au cours de l’exercice 2013 ou des contrats pour lesquels un sinistre est survenu avant cet exercice,
+cela est sans incidence sur le grief ; qu’il en va de même de ses affirmations sur les contrats collectifs, dont
+elle soutient que leur gestion par regroupements de contrats homogènes empêche de communiquer des
+données chiffrées par contrat ; que si, dans le cadre de la présente procédure disciplinaire, elle a produit,
+comme elle s’y était engagée, plusieurs tableaux établis par catégorie de contrats, en application des
+dispositions de l’article A. 342-6 du code des assurances, et arrêtés au 31 décembre 2013, cette mesure de
+régularisation n’est pas de nature à remettre en cause le bien-fondé du grief ; qu’ainsi, le grief 6 est établi ;
+* *
+*
+40. Considérant que pour proportionner le montant de la sanction pécuniaire qu’elle prononce dans la
+limite du plafond prévu par la loi, la Commission des sanctions doit apprécier la gravité du ou des
+manquements qu’elle estime établis, eu égard notamment à la nature des obligations en cause dans ces
+manquements, à leur nombre et à leur durée, aux torts qu’ils ont pu causer aux clients ou à des tiers ainsi
+qu’aux économies ou bénéfices indus qui ont pu en résulter pour la personne sanctionnée ; qu’il lui
+appartient aussi de prendre en compte, le cas échéant, la rapidité et l’ampleur des mesures de correction
+mises en œuvre et, enfin, de s’assurer de ce que la sanction envisagée n’est pas excessive au vu des capacités
+financières de la personne sanctionnée ; qu’une sanction égale au maximum légal, assortie de surcroît d’une
+interdiction temporaire d’exercice de l’activité principale, comme l’a demandé le représentant du Collège
+dans la présente affaire, ne pourrait être retenue, dans le respect du principe de proportionnalité, que pour
+réprimer des manquements d’une exceptionnelle gravité au regard de ces différents éléments d’appréciation ;
+41. Considérant que sous les termes de « purges comptables » (grief 4) sont mises en cause plusieurs
+pratiques distinctes ; qu’en ce qui concerne celles qui ont consisté à archiver au plan informatique et dans
+certains cas à détruire matériellement (« pilonnage ») les dossiers non réglés au terme d’un délai de cinq ans,
+de sorte que n’était pas conservée la totalité des informations permettant, au final, à l’établissement de
+respecter ses obligations vis-à-vis du bénéficiaire, les manquements sont sérieusement contestés par
+ALLIANZ VIE, de sorte qu’il est difficile d’en établir l’ampleur, et, surtout, se rapportent à des faits très
+anciens, tous antérieurs à 2000 ;
+42. Considérant en revanche qu’il ressort nettement du dossier de la présente procédure
+qu’ALLIANZ VIE n’a pas, après l’entrée en vigueur des dispositions de la loi no 2007-1775, adapté son
+organisation et ses moyens afin de satisfaire aux nouvelles exigences en matière d’identification des assurés
+décédés ; qu’ALLIANZ VIE avait, jusqu’en octobre 2013, écarté la quasi-totalité de son portefeuille de ses
+consultations du RNIPP ; qu’au demeurant, devant la Commission, ses dirigeants n’ont pas contesté le retard
+mis à consulter ce registre ; que le nombre de décès identifiés lors des consultations effectuées à partir
+d’octobre 2013, au regard des résultats des précédentes recherches, démontre de la part d’ALLIANZ VIE,
+jusqu’au contrôle dont elle a fait l’objet, une infraction massive et prolongée à ses obligations dans ce
+domaine (grief 1) ; que de plus, malgré la faiblesse du nombre de recherches à effectuer, qui a résulté de la
+première carence, de sérieuses insuffisances ont également été constatées dans les diligences entreprises en
+vue d’identifier les bénéficiaires des contrats d’assurance sur la vie dénoués par décès (grief 2) ; que les
+actions de remédiation, qui ont notamment consisté en un renforcement des moyens, sont tardives, les
+12 millions d’euros de dépenses correspondantes ayant été engagées pour l’essentiel (7 millions) en 2014
+seulement ; que le recours à des prestataires externes, qui avait fait l’objet d’un essai positif, n’a été mis en
+Autorité de contrôle prudentiel et de résolution 13
+
+===== Page 14 =====
+Décision de la Commission des sanctions – procédure no 2014-01
+œuvre que tardivement ; qu’en raison de l’ampleur de ces carences, ALLIANZ VIE n’envisage d’achever le
+traitement du seul « stock GCP » qu’avant la fin de l’année 2016, soit neuf ans après l’entrée en vigueur de
+la loi ; que ces insuffisances et retards dans l’application des dispositions issues de la loi du 17 décembre
+2007 se sont traduits initialement par des dépenses moindres que ce qui était nécessaire et par la conservation
+indue de sommes, atteignant des montants très élevés, qui auraient dû être versées aux bénéficiaires ; qu’il en
+est résulté pour ceux-ci un préjudice ainsi que, sur un plan plus général, un effet négatif sur la confiance des
+assurés pour les produits d’assurance sur la vie ;
+43. Considérant que, de plus, des carences en matière d’exécution des contrats ont, selon l’échantillon
+examiné par la mission de contrôle, concerné une part très importante des contrats à terme ; qu’il revenait à
+l’entreprise de s’organiser afin que les bénéficiaires de ces contrats ne subissent pas les conséquences des
+pertes d’informations qui ont accompagné les rapprochements successifs qui ont abouti à sa
+constitution (griefs 3 et 4) ; qu’en méconnaissance de ses obligations légales, ALLIANZ VIE n’a pas, de
+2010 à 2012, systématiquement appliqué la clause de revalorisation contractuelle des capitaux décès
+(grief 5) ; qu’elle n’établissait pas non plus, à la date du contrôle, la liste des contrats d’assurance sur la vie
+dénoués comportant des montants non réglés (grief 6) ; que pour ces différents griefs les régularisations,
+quand elles ont été opérées, sont tardives ;
+44. Considérant qu’il doit également être tenu compte de l’assise financière d’ALLIANZ VIE ; qu’au
+terme de l’exercice 2013, le résultat technique de cette société s’est élevé à 100 millions d’euros et le résultat
+net à 140 millions d’euros, tandis que les fonds propres représentaient 2,7 milliards d’euros ; qu’il convient
+ainsi de prononcer, en répression des manquements retenus par la Commission, qui, s’agissant des griefs 1 et
+2, sont d’une particulière gravité, un blâme assorti d’une sanction pécuniaire de 50 millions d’euros ;
+45. Considérant que le préjudice résultant d’une publication de la présente décision sous une forme
+nominative ne paraît pas disproportionné ; qu’une telle publication n’est pas susceptible de perturber les
+marchés financiers ; qu’il y a donc lieu de publier la présente décision sous forme nominative ;
+PAR CES MOTIFS
+DÉCIDE :
+Article 1er : Il est prononcé à l’encontre de la société ALLIANZ VIE un blâme ainsi qu’une sanction
+pécuniaire de 50 (cinquante) millions d’euros.
+Article 2 : La présente décision sera publiée au registre de l’Autorité de contrôle prudentiel et de
+résolution et pourra être consultée au secrétariat de la Commission.
+Le Président de la Commission des sanctions
+[Rémi BOUCHEZ]
+Conseiller d’État
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification et
+dans les conditions prévues au IV de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 14

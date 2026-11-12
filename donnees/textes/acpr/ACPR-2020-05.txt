@@ -1,0 +1,617 @@
+===== Page 1 =====
+Décision de la Commission des sanctions – procédure no 2020-05
+LA SOCIETE A
+Procédure no 2020-05
+–––––
+Blâme et sanction pécuniaire
+de 1,5 million d’euros
+–––––
+Audience du 16 avril 2021
+Décision rendue le 7 mai 2021
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 16 juin 2020 par laquelle le Président de l’Autorité de contrôle prudentiel et de
+résolution (ci-après l’« ACPR ») informe la Commission des sanctions (ci-après la « Commission ») de
+ce que le Collège de supervision de l’ACPR (ci-après le « Collège »), statuant en sa formation sectorielle
+« banque », a décidé d’ouvrir une procédure disciplinaire à l’encontre de la société [A], enregistrée en
+qualité d’établissement de crédit, sous le n° 2020-05 ;
+Vu la notification des griefs du 16 juin 2020 et ses annexes ;
+Vu les mémoires en défense des 15 septembre 2020, 17 décembre 2020 et 17 février 2021, par
+lesquels la société [A], (i) reconnaît la plupart des manquements reprochés et souligne qu’ils résultent
+principalement des difficultés qui ont suivi la commercialisation d’un de ses produits, le compte [CZ]
+(ii) souligne l’ampleur des actions correctives entreprises, notamment dans le cadre d’un plan dénommé
+[GT] et (iii) demande que l’audience au cours de laquelle cette affaire sera examinée ne soit pas publique
+et que la décision soit publiée sous une forme anonyme ;
+Vu les mémoires en réplique des 16 novembre 2020 et 21 janvier 2021, par lesquels le Collège,
+représenté par Mme Valérie Michel-Amsellem, estime que tous les griefs sont fondés et que les actions
+de remédiation mises en œuvre par la société [A] sont tardives ;
+Vu le rapport du 11 mars 2021 de Mme Edith Sudre, rapporteur, qui conclut que tous les griefs sont
+fondés, dont deux (griefs 8 et 9) dans un périmètre légèrement réduit ;
+Vu les courriers du 11 mars 2021 convoquant à l’audience les parties ainsi que la direction générale
+du Trésor et les informant de la composition de la Commission des sanctions ;
+Vu le mémoire du 26 mars 2021 par lequel la société [A], en réponse au rapport du rapporteur, précise
+l’état d’avancement des actions correctives qu’elle a mises en œuvre, communique des informations
+financières récentes, souligne la part des difficultés liées à la commercialisation du produit [CZ] dans la
+plupart des reproches qui lui sont adressés et présente des observations complémentaires sur certains
+griefs ;
+Vu les autres pièces du dossier, notamment le rapport de contrôle du 31 décembre 2019 ;
+Autorité de contrôle prudentiel et de résolution 1
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2020-05
+Vu le code monétaire et financier (ci-après le « CMF »), notamment ses articles L. 561-5-1, L. 561-
+10, L. 561-10-2, L. 561-15, L. 561-16, L. 561-32, L. 561-33, L. 562-4, R. 561-12, R. 561-20-2, R. 561-
+29, R. 561-31 et R. 561-38-4, R. 561-38-6 et D. 561-32-1, dans leur rédaction applicable aux faits
+contrôlés ;
+Vu l’arrêté du 3 novembre 2014 relatif au contrôle interne des entreprises du secteur de la banque,
+des services de paiement et des services d’investissement (ci-après l’« arrêté du 3 novembre 2014 »),
+notamment ses articles 11, 13, 46, 47, 49, 51, 71, 72, 243 et 246 ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACPR, composée de M. Alain Ménéménis, Président, Mmes Gaëlle
+Dumortier, Dorothée de Kermadec-Courson, Élisabeth Pauly et M. Philippe Laigre ;
+Après avoir entendu, lors de sa séance non publique du 16 avril 2021 :
+- Mme Edith Sudre, rapporteur, assisté de Mme Laëtitia Havas, son adjointe ;
+- Mme Juliette Roux, représentante du directeur général du Trésor, qui a déclaré ne pas avoir
+d’observations à formuler ;
+- Mme Valérie Michel-Amsellem, représentante du Collège, assistée de l’adjointe au directeur des
+affaires juridiques, de l’adjoint au chef du service des affaires institutionnelles et du droit public
+et d’un cadre au sein du service du droit de la lutte anti-blanchiment et du contrôle interne ; Mme
+Michel-Amsellem a proposé à la Commission de prononcer un blâme et une sanction pécuniaire
+qui ne soit pas inférieure à 1,5 million d’euros par une décision publiée sous une forme
+nominative pendant cinq ans ;
+- la société [A], représentée par son président du conseil d’administration et sa directrice générale,
+assistés de son directeur de la conformité, dont les avocats sont Mes Benjamin May et David
+Roche (cabinet Aramis) ;
+Après avoir délibéré en la seule présence de M. Ménéménis, Président, Mmes Dumortier, Pauly et de
+Kermadec-Courson et M. Laigre, ainsi que de M. Jean-Manuel Clemmer, chef du service de la
+Commission des sanctions faisant fonction de secrétaire de séance ;
+1. Créée en 1980 par le groupe [O], la société [A] a été agréée en qualité de banque en 1988. Son
+capital est détenu par la société [O] (60 %) et par la société [Y] (40 %), cette dernière étant intégralement
+détenue par la société [X]. Son offre, mise en place principalement afin de soutenir les ventes de
+l’enseigne, se compose de crédits renouvelables et de prêts personnels, qui sont à l’origine des trois
+quarts environ de son produit net bancaire, mais aussi de produits d’épargne et d’assurance. Elle propose
+notamment un produit dénommé [AB], associé à une carte, utilisable dans les magasins de la société [O]
+et en dehors des magasins de l’enseigne, qui permet de cumuler des points de fidélité et offre des
+solutions de paiement différé.
+Elle a en outre mis en place en avril 2017 un compte courant dénommé [CZ], associé à une carte de
+paiement internationale […] à autorisation systématique sans découvert autorisé ni possibilité de
+rechargement en espèces, celui-ci pouvant être effectué par virement d’un autre compte bancaire, par
+paiement internet à l’aide d’une autre carte bancaire ou encore par domiciliation de salaire ou d’autres
+revenus. Ce service n’a attiré au maximum qu’un peu moins de […] clients en 2018 et a entraîné des
+pertes récurrentes jusqu’à sa suppression le 15 juillet 2020.
+La société [A] est présente dans plusieurs pays d’Europe, notamment en Belgique via sa filiale [W].
+En 2019 et 2020, cette société a successivement réalisé des pertes nettes de [plusieurs dizaines de]
+millions d’euros. Elle disposait, à la fin de cet exercice, de [plusieurs centaines de] millions d’euros de
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2020-05
+capitaux propres. Ses effectifs, divisés par deux depuis 2018, s’élèvent aujourd’hui à un peu moins de
+[plusieurs centaines] équivalents temps plein.
+2. La société [A] a fait l’objet, du 17 juin au 4 octobre 2019, d’un contrôle sur place, qui a donné lieu
+à la signature, le 31 décembre 2019, d’un rapport de contrôle. Au vu de ce rapport, le Collège de l’ACPR,
+statuant en sous-collège sectoriel « banque », a décidé, lors de sa séance du 25 mai 2020, d’ouvrir la
+présente procédure disciplinaire, dont la Commission a été saisie le 17 juin 2020.
+I- L’organisation et le contrôle interne du dispositif de LCB-
+FT
+A. Sur les moyens humains dédiés au traitement des alertes
+3. En vertu l’article 51 de l’arrêté du 3 novembre 2014, « les entreprises assujetties se dotent, selon
+des modalités adaptées à leur taille, à la nature de leurs activités et aux risques identifiés par la
+classification des risques de blanchiment de capitaux et de financement du terrorisme, de moyens
+humains suffisants pour analyser les anomalies détectées par les dispositifs susmentionnés. »
+4. Selon le grief 1, fondé sur ces dispositions, la société [A] ne s’est pas dotée de moyens humains
+suffisants pour traiter les alertes déclenchées par son dispositif de LCB-FT. En effet, au moment du
+contrôle, son pôle LCB-FT était doté de 6,8 équivalents temps plein (ci-après « ETP »), répartis en trois
+niveaux d’analyse. Or, en moyenne, entre mai 2018 et la fin de la mission de contrôle, 130 alertes ont
+été traitées quotidiennement pour 470 nouvelles alertes déclenchées. Il en est résulté, au 30 septembre
+2019, soit plus d’un an après la mise en œuvre par la société [A] d’un premier plan de remédiation, un
+stock de 100 000 alertes non traitées, ainsi que 900 dossiers susceptibles de faire l’objet d’une
+déclaration de soupçon (ci-après « DS ») et qui devaient être traités par la seule personne en charge des
+examens renforcés et des DS. Ce stock d’alertes s’est ajouté à celui de plus de 100 000 alertes
+déclenchées avant le 1er mai 2018, à partir des scénarios de détection a posteriori des opérations sur le
+produit [CZ], non encore intégrées à la base des alertes [Z].
+Cette insuffisance des moyens humains affectés au traitement des alertes est également illustrée par
+le délai moyen élevé de transmission des DS à Tracfin (cf. grief 11).
+5. Le grief 1, que la société [A] ne conteste pas, est entièrement fondé.
+B. Sur le dispositif d’analyse des alertes déclenchées par l’outil de
+surveillance LCB-FT
+6. En vertu de l’article 46 de l’arrêté du 3 novembre 2014, « les entreprises assujetties se dotent de
+dispositifs de suivi et d'analyse de leurs relations d'affaires, fondés sur la connaissance de leur clientèle,
+permettant notamment de détecter les opérations qui constituent des anomalies au regard du profil des
+relations d'affaires et qui pourraient faire l'objet d'un examen renforcé mentionné au II de l'article L.
+561-10-2 du code monétaire et financier ou d'une déclaration prévue à l'article L. 561-15 du même
+code. ». Selon l’article 49 de cet arrêté, « les dispositifs mentionnés aux articles 46 et 47 sont adaptés
+aux activités, aux clientèles, aux implantations de l'entreprise assujettie et aux risques identifiés par la
+classification. »
+7. Selon le grief 2, fondé sur ces dispositions, la société [A] a mis en place un dispositif d’analyse
+des alertes déclenchées par son outil de surveillance ne tenant pas suffisamment compte des risques liés
+à la nature des clients, au montant des opérations ou aux services offerts conformément à sa classification
+des risques. Il en est résulté de nombreux défauts d’examen renforcé et de DS.
+En particulier, les alertes déclenchées par l’application [Z] sont présentées dans cet outil selon l’ordre
+alphabétique du nom des clients. Ainsi, la société [A] traitait quatre fois plus d’alertes portant sur des
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2020-05
+clients dont le nom commence par la lettre A (60 %) que d’alertes portant sur des clients dont le nom
+commence par la lettre S (15 %). En outre, au moment du contrôle, la société [A] traitait en priorité les
+alertes déclenchées le jour même (60 % des alertes traitées quotidiennement par les niveaux 1 et 2 du
+pôle LCB-FT). Cela a entraîné des insuffisances du dispositif de suivi et d’analyse des relations
+d’affaires ainsi que de nombreux défauts d’examen renforcé et de DS (cf. griefs 8 et 9).
+Par ailleurs, ainsi qu’il a été dit, le dispositif mis en place au sein de la société [A] permettait, au
+moment du contrôle, le traitement quotidien de 130 alertes alors que 470 étaient déclenchées chaque
+jour à la suite de la commercialisation du compte [CZ], qui a entraîné une multiplication de leur nombre
+par quarante. En conséquence, au 30 septembre 2019, environ 100 000 alertes étaient en attente de
+traitement.
+8. Si la société [A] soutient que les dispositions ci-dessus rappelées de l’arrêté du 3 novembre 2014
+lui imposent de mettre en place un dispositif de surveillance adapté à ses activités, à ses clients et à ses
+risques mais qu’elles lui laissent la possibilité de choisir l’ordre de priorité de ses traitements, une
+entreprise ne peut en tout état de cause être regardée comme les respectant que si son dispositif de
+surveillance permet d’atteindre les objectifs que ces dispositions lui assignent. Tel n’était pas le cas en
+l’espèce, compte-tenu des lacunes mentionnées ci-dessus, dont la matérialité est établie.
+9. Le grief 2 est donc entièrement fondé.
+C. Sur l’information du conseil d’administration en matière de LCB-FT
+10. En vertu de l’article R. 561-38-6 du CMF, « au moins une fois par an, le conseil d'administration,
+le conseil de surveillance ou tout autre organe exerçant des fonctions de surveillance des personnes
+mentionnées au premier alinéa de l'article R. 561-38-4 est informé de l'activité et des résultats des
+contrôles internes mentionnés à ce même article ainsi que des insuffisances mentionnées au 1° de celui-
+ci (i.e. en LCB-FT) (…) ».
+Selon l’article 243 de l’arrêté du 3 novembre 2014, « l'organe de surveillance est tenu d'examiner
+régulièrement, le cas échéant, avec l'aide du comité des risques, les politiques mises en place pour se
+conformer au présent arrêté, d'en évaluer l'efficacité ainsi que celle des dispositifs et procédures mis en
+œuvre aux mêmes fins ainsi que des mesures correctrices apportées en cas de défaillances. »
+Selon l’article 246 de ce même arrêté : « Une information sur les anomalies significatives détectées
+par le dispositif de suivi et d'analyse en matière de lutte contre le blanchiment des capitaux et le
+financement du terrorisme ainsi que sur les insuffisances de ce dispositif, notamment celles constatées
+par les autorités de contrôle nationales et étrangères, est portée à la connaissance des dirigeants
+effectifs et de l'organe de surveillance ainsi que, le cas échéant, du comité des risques et de l'organe
+central auquel l'entreprise assujettie est affiliée. »
+11. Selon le grief 3, fondé sur ces dispositions, le conseil d’administration de CBSA n’a pas été tenu
+suffisamment informé des carences dans le traitement des alertes LCB-FT. En effet, en 2018, cette
+instance, qui s’est réunie à 7 reprises, n’a été informée qu’une seule fois de l’existence d’un stock
+d’alertes non traitées.
+De surcroît, l’information qui lui a été communiquée à ce sujet était partielle, puisqu’il était
+seulement mentionné que « près de 70 % des alertes concernent [CZ], / que l’on constate un retard
+dans le traitement suite au délai de mise en place de l’organisation dédiée (…) » (procès-verbal du
+conseil d’administration du 11 juin 2018) et qu’aucun élément quantitatif sur le stock d’alertes non
+traitées n’était fourni.
+12. Si la société [A] soutient qu’aucun texte n’impose que des justifications des informations données
+au conseil d’administration soient formalisées dans les procès-verbaux de ses réunions, il est constant
+que ceux-ci mentionnent en principe nécessairement les informations qui sont communiquées au conseil
+d’administration. En tout état de cause, la société [A] n’apporte aucun élément qui permette de penser
+que, malgré l’absence de mention dans les procès-verbaux des réunions du conseil d’administration, les
+informations sur les carences du dispositif de traitement des alertes auraient été données à celui-ci selon
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2020-05
+d’autres modalités. À cet égard, on ne saurait déduire du seul fait que de premières décisions aient été
+prises pendant l’année 2018 pour engager un traitement de ces carences que le conseil d’administration
+aurait nécessairement bénéficié d’une information appropriée.
+13. Le grief 3 est donc entièrement fondé.
+D. Sur le contrôle permanent de second niveau du dispositif de LCB-FT
+14. En vertu du II de l’article L. 561-32 du CMF, « pour veiller au respect des obligations prévues
+au chapitre I du présent titre, les personnes mentionnées à l'article L. 561-2 mettent également en place
+des mesures de contrôle interne (…). »
+Selon le 2° de l’article R. 561-38-4 du CMF, le dispositif mis en place à ce titre comporte notamment
+«2°Un contrôle interne permanent réalisé selon les procédures définies ci-dessus par des personnes
+exerçant des activités opérationnelles d'une part et par des personnes dédiées à la seule fonction de
+contrôle des opérations d'autre part (…). »
+Selon l’article 71 de l’arrêté du 3 novembre 2014, « le contrôle permanent du dispositif de lutte
+contre le blanchiment des capitaux et le financement du terrorisme fait partie du dispositif de contrôle
+de la conformité, selon les conditions prévues au chapitre II du présent titre. »
+Selon l’article 72 de l’arrêté du 3 novembre 2014, « le responsable du contrôle de la conformité
+veille au caractère adapté des dispositifs et procédures mentionnés au présent chapitre, notamment au
+respect des obligations prévues aux articles L. 561-10-2, L. 561-15 et R. 561-31 du code monétaire et
+financier. »
+15. Selon le grief 4, fondé sur ces dispositions, au moment du contrôle sur place, les contrôles
+permanents de second niveau au sein de la société [A] ne couvraient pas l’ensemble de ses obligations
+en matière de LCB-FT. En particulier, ils n’avaient pas été déployés pour : / - le suivi de la mise en
+œuvre des obligations de vigilance complémentaires à l’égard des personnes politiquement exposées
+(ci-après les « PPE ») en relation d’affaires avec l’établissement ; / - la détection des « comportements
+atypiques » et des transactions inhabituelles devant faire l’objet d’une saisine du pôle LCB-FT ; / - le
+traitement des alertes déclenchées par l’outil [Z] ; / - le filtrage au regard des listes de sanction et
+l’identification de personnes faisant l’objet d’une mesure de gel des avoirs ainsi que leur signalement à
+la direction générale du Trésor.
+La mission de contrôle a ainsi relevé les conséquences de ces insuffisances sur le suivi de la mise en
+œuvre des mesures de vigilance complémentaires, notamment sur le défaut de recueil des justificatifs
+requis pour 50 des 69 clients identifiés comme PPE (cf. grief 7), sur le traitement des alertes, sur le
+dispositif de surveillance des opérations (cf. griefs 1 et 2) et sur le dispositif de gel des avoirs (cf. grief
+12).
+16. la société [A] ne conteste pas les défaillances, au moment du contrôle sur place, de son dispositif
+de contrôle permanent de second niveau. Les actions correctives mises en œuvre, dans le cadre du plan
+d’actions [GT], sont sans incidence sur le grief 4, qui est entièrement fondé.
+E. Sur les procédures internes
+17. En vertu du I de l’article L. 561-33 du CMF, les organismes assujettis qui « font partie d'un
+groupe au sens de l'article L. 511-20 (…) ou d'un groupe défini comme un ensemble de sociétés dont
+l'une contrôle les autres au sens de l'article L. 233-3 du code de commerce, (…) mettent en place au
+niveau du groupe une organisation et des procédures qui tiennent compte des risques identifiés par la
+classification des risques mentionnée à l'article L. 561-4-1. L'organisation et les procédures au niveau
+du groupe sont définies par l'entreprise mère du groupe lorsque celle-ci a son siège social en France.
+Ces procédures prévoient le partage des informations au sein du groupe, y compris pour l'application
+de l'article L. 511-34, la protection des données à caractère personnel ainsi que les mesures de contrôle
+interne. »
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2020-05
+Selon l’article R. 561-29 du CMF, « les procédures prévues au deuxième alinéa du I de l'article L.
+561-33 permettent l'échange d'informations nécessaires à la vigilance dans le groupe en matière de lutte
+contre le blanchiment de capitaux et le financement du terrorisme, y compris les données nominatives
+relatives à la clientèle et aux relations d'affaires, les documents consignant les caractéristiques des
+opérations mentionnées à l'article L. 561-10-2 et, le cas échéant, les informations prévues à l'article
+L. 561-20 ».
+18. Selon le grief 5, fondé sur ces dispositions, la société [A] n’a défini aucune procédure prévoyant
+les modalités des échanges d’informations nécessaires à la vigilance en matière de LCB-FT avec sa
+filiale [A], établissement belge de monnaie électronique.
+19. L’absence de procédure définissant les modalités d’échanges d’informations de la société [A]
+avec sa filiale [A] n’est pas contestée par la société [A].
+20. L’établissement indique que de tels échanges avaient lieu lors des réunions trimestrielles d’un
+« comité Risk & Compliance » regroupant des représentants de l’audit et du contrôle permanent de la
+société [A] et de sa filiale belge. Cependant, l’existence d’échanges d’informations en matière de LCB-
+FT dans le cadre des réunions de ce comité, au demeurant depuis mars 2019 seulement, ne permet pas,
+faute d’une procédure de partage et de traitement des informations échangées, de garantir que toutes les
+informations devant être communiquées à la société [A] l’étaient effectivement selon des modalités
+appropriées.
+Par ailleurs, les actions de remédiation engagées dans le cadre du plan [GT], postérieures au contrôle
+sur place, sont sans incidence sur le grief 5, qui est entièrement fondé.
+II. La mise en œuvre des obligations de vigilance
+A. Sur l’obligation de connaissance de la clientèle
+21. En vertu de l’article L. 561-5-1 du CMF, « avant d'entrer en relation d'affaires, les personnes
+mentionnées à l'article L. 561-2 recueillent les informations relatives à l'objet et à la nature de cette
+relation et tout autre élément d'information pertinent. Elles actualisent ces informations pendant toute
+la durée de la relation d'affaires. / Les modalités d'application de cet article sont précisées par décret
+en Conseil d'État. »
+Selon l’article R. 561-12 du CMF, « pour l'application de l'article L. 561-5-1, les personnes
+mentionnées à l'article L. 561-2 :
+1° Avant d'entrer en relation d'affaires, recueillent et analysent les éléments d'information
+nécessaires à la connaissance de l'objet et de la nature de la relation d'affaires ; / 2° Pendant toute la
+durée de la relation d'affaires, recueillent, mettent à jour et analysent les éléments d'information qui
+permettent de conserver une connaissance appropriée de leur relation d'affaires. / La nature et l'étendue
+des informations collectées ainsi que la fréquence de la mise à jour de ces informations et l'étendue des
+analyses menées sont adaptés au risque de blanchiment de capitaux et de financement du terrorisme
+présenté par la relation d'affaires. / Les personnes mentionnées à l'article L. 561-2 sont en mesure de
+justifier auprès des autorités de contrôle de la mise en œuvre de ces mesures et de leur adéquation au
+risque de blanchiment de capitaux et de financement du terrorisme présenté par la relation d'affaires
+(…). »
+22. Selon le grief 6, fondé sur ces dispositions, les éléments de connaissance des clients en relation
+d’affaires que recueillait la société [A] au moment du contrôle sur place étaient insuffisants. Ainsi, aucun
+document justificatif des revenus ou du patrimoine n’était exigé lors de l’ouverture d’un compte [CZ]
+pour les clients dont l’établissement considérait pourtant qu’ils présentaient un profil de risque élevé,
+notamment en raison de leur situation professionnelle, sauf pour ceux qui avaient la qualité de PPE.
+En outre, les éléments recueillis étaient parfois incohérents : ainsi, 696 clients titulaires de comptes
+[CZ], ont déclaré un revenu mensuel supérieur à 10 000 euros, qui était incompatible avec la situation
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2020-05
+professionnelle qu’ils avaient indiquée (401 employés, 176 demandeurs d’emploi, 87 techniciens et 32
+étudiants). De même, 234 clients [CZ], nés avant 1950, ont mentionné, au moment de leur entrée en
+relation d'affaires, une situation professionnelle incohérente avec leur âge.
+23. Si les établissements assujettis disposent d’une marge d’appréciation pour la mise en œuvre de
+leurs obligations en matière de connaissance des clients, ils n’en sont pas moins tenus de mettre en place
+un dispositif efficace, c’est-à-dire qui leur permette notamment de détecter, parmi les opérations
+atypiques de leurs clients, celles dont Tracfin doit être avisé. Or les incohérences relevées par la mission
+de contrôle entre l’activité des clients et leurs revenus ou leur âge ne permettaient pas de respecter
+totalement cette exigence. En outre, si le champ du reproche, ainsi que le souligne la société [A], est
+limité aux clients ayant ouvert un compte [CZ], le nombre des clients concernés est très élevé.
+24. La société [A] ne conteste pas les reproches qui lui sont adressés au titre du présent grief.
+Les actions correctives mises en œuvre dans le cadre du plan [GT], qui ont notamment porté sur une
+refonte des procédures internes et des outils de gestion de compte, postérieures à la mission de contrôle,
+sont sans incidence et le grief 6 est entièrement fondé.
+B. Sur le dispositif de détection des personnes politiquement exposées et
+la mise en œuvre des mesures de vigilance complémentaires
+25. En vertu de l’article L. 561-10 du CMF, les organismes assujettis « appliquent des mesures de
+vigilance complémentaires à l'égard de leur client, en sus des mesures prévues aux articles L. 561-5 et
+L. 561-5-1, lorsque : / 1° Le client, le cas échéant son bénéficiaire effectif, le bénéficiaire d'un contrat
+d'assurance-vie ou de capitalisation, le cas échéant son bénéficiaire effectif, est une personne qui est
+exposée à des risques particuliers en raison des fonctions politiques, juridictionnelles ou administratives
+qu'elle exerce ou a exercées ou de celles qu'exercent ou ont exercées des membres directs de sa famille
+ou des personnes connues pour lui être étroitement associées ou le devient en cours de relation
+d'affaires ; (…). »
+En vertu de l’article R. 561-20-2 du CMF, ils « définissent et mettent en œuvre des procédures,
+adaptées aux risques de blanchiment de capitaux et de financement du terrorisme auxquelles (ils) sont
+(exposés), permettant de déterminer si leur client, ou son bénéficiaire effectif, est une personne
+mentionnée au 2° de l'article L. 561-10 ou le devient au cours de la relation d'affaires. / Lorsque le
+client, ou son bénéficiaire effectif, est une personne mentionnée au 2° de l'article L. 561-10 ou le devient
+au cours de la relation d'affaires, les [organismes assujettis], en sus des mesures prévues aux articles L.
+561-5 à L. 561-6, appliquent les mesures de vigilance complémentaires suivantes : / 1° [ils] s'assurent
+que la décision de nouer ou maintenir une relation d'affaires avec cette personne ne peut être prise que
+par un membre de l'organe exécutif ou toute personne habilitée à cet effet par l'organe exécutif ; / 2°
+[ils] recherchent, pour l'appréciation des risques de blanchiment de capitaux et de financement du
+terrorisme, l'origine du patrimoine et des fonds impliqués dans la relation d'affaires ou la transaction ;
+/ 3° [ils] renforcent les mesures de vigilance prévues à l'article R. 561-12-1. »
+26. Selon le grief 7, fondé sur ces dispositions, le dispositif de détection des PPE mis en place au
+sein de la société [A] était inefficace au moment du contrôle. Ainsi, aucune périodicité n’ayant alors été
+prévue pour le filtrage intégral de la base clients afin de détecter les PPE, le dernier filtrage avait été
+effectué à l’été 2018. De plus, sur les 69 PPE détectées par la société [A] au sein de sa clientèle, 41
+l’avaient été à l’occasion de ce filtrage, alors qu’elles avaient cette qualité depuis 2017 au moins. En
+outre, le dispositif de détection ne prévoyait pas, lorsqu’une PPE était détectée, de vérifier si la société
+[A] était également en relation d’affaires avec des membres directs de sa famille.
+La mise en œuvre des mesures de vigilance complémentaires applicables aux PPE présentait elle
+aussi des insuffisances. Ainsi, pour la majorité des PPE détectées, la société [A] n’avait pas recueilli
+d’informations sur l’origine du patrimoine et des fonds impliqués dans la relation d’affaires : 50 clients,
+parmi les 69 identifiés par la société [A] comme PPE, n’avaient pas, faute d’un dispositif de suivi
+efficace des demandes, fourni les informations sur leurs revenus et leur activité professionnelle
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2020-05
+demandées plus d’un an auparavant. En l’absence de telles informations, la société [A] n’était pas en
+mesure d’apprécier les risques présentés par ces clients.
+27. La société [A] ne conteste pas les insuffisances de son dispositif de détection et de suivi des PPE.
+Les informations qu’elle a communiquées sur les améliorations qu’elle y a apportées, effectives depuis
+fin 2020, sont sans incidence sur le grief 7, qui est entièrement fondé.
+C. Sur l’obligation d’examen renforcé
+28. En application de l’article L. 561-10-2 du CMF : « Les personnes mentionnées à l'article L. 561-
+2 effectuent un examen renforcé de toute opération particulièrement complexe ou d'un montant
+inhabituellement élevé ou ne paraissant pas avoir de justification économique ou d'objet licite. Dans ce
+cas, ces personnes se renseignent auprès du client sur l'origine des fonds et la destination de ces sommes
+ainsi que sur l'objet de l'opération et l'identité de la personne qui en bénéficie. »
+29. Selon le grief 8, fondé sur ces dispositions, 7 dossiers présentent un défaut d’examen renforcé
+(dossiers 8.1 à 8.7).
+30. La société [A] ne conteste le reproche dans aucun de ces 7 dossiers individuels. Le grief 8 est
+ainsi entièrement fondé.
+En particulier, dans le dossier 8.6, le fait que l’intéressé ait réparti l’essentiel d’une allocation
+chômage entre plusieurs comptes n’aurait pas justifié, à lui seul, un examen renforcé. Les
+renseignements figurant au dossier sur la situation ou non de chômage de l’intéressé étaient toutefois
+contradictoires. Dans ces conditions, cette répartition pouvait avoir eu pour objet de faciliter l’utilisation
+d’allocations indues. Elle aurait donc dû conduire à effectuer un tel examen.
+Les actions de remédiation mentionnées, postérieures à la mission de contrôle, sont sans conséquence
+sur le grief.
+D. Sur le respect des obligations de déclaration à Tracfin
+1°) En ce qui concerne les défauts de déclaration reprochés
+31. En vertu de l’article L. 561-15 du CMF : « I. – Les personnes mentionnées à l'article L. 561-2
+sont tenues, dans les conditions fixées par le présent chapitre, de déclarer au service mentionné à
+l'article L. 561-23 les sommes inscrites dans leurs livres ou les opérations portant sur des sommes dont
+elles savent, soupçonnent ou ont de bonnes raisons de soupçonner qu'elles proviennent d'une infraction
+passible d'une peine privative de liberté supérieure à un an ou sont liées au financement du terrorisme.
+II. – Par dérogation au I, les personnes mentionnées à l'article L. 561-2 déclarent au service
+mentionné à l'article L. 561-23 les sommes ou opérations dont ils savent, soupçonnent ou ont de bonnes
+raisons de soupçonner qu'elles proviennent d'une fraude fiscale lorsqu'il y a présence d'au moins un
+critère défini par décret.
+III. – A l'issue de l'examen renforcé prescrit à l'article L. 561-10-2, les personnes mentionnées à
+l'article L. 561-2 effectuent, le cas échéant, la déclaration prévue au I du présent article. (…) »
+32. Selon le grief 9, fondé sur ces dispositions, la société [A] n’a pas respecté ses obligations de
+déclaration à Tracfin dans 56 dossiers relatifs à des clients titulaires d’un compte [CZ] : (dossiers9.1 à
+9.56).
+33. La société [A] ne conteste pas les faits qui lui sont reprochés dans ces dossiers.
+La Commission relève d’ailleurs, dans un nombre élevé de dossiers, le compte [CZ], compte destiné
+à un usage personnel, était utilisé dans le cadre d’une activité professionnelle susceptible d’avoir été
+dissimulée (dossiers 9.1, 9.2, 9.3, 9.4, 9.8, 9.9, 9.11, 9.14, 9.15, 9.16, 9.20, 9.22, 9.27, 9.28, 9.29, 9.32,
+9.36, 9.39, 9.40, 9.41, 9.42, 9.43, 9.44, 9.45, 9.46, 9.47, 9.48, 9.49, 9.50, 9.51, 9.52, 9.53, 9.54, 9.55).
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2020-05
+Elle note que, dans plusieurs dossiers, la société [A] aurait dû soupçonner des fraudes aux prestations
+sociales (dossiers 9.23, 9.24, 9.25, 9.26). Elle constate que, dans certains cas, les comptes [CZ] des
+clients apparaissaient comme des comptes de passage, sans que les mouvements au crédit ou au débit
+du compte, parfois en provenance ou à destination de l’étranger, aient paru avoir, au regard des
+informations dont la société [A] disposait sur la profession et les revenus des clients, de justification
+économique (dossiers 9.5, 9.6, 9.7, 9.10, 9.12, 9.13, 9.17, 9.18, 9.19, 9.21, 9.31, 9.33, 9.34, 9.35 et 9.56),
+que certains comptes étaient utilisés afin d’investir dans des crypto-actifs (dossiers 9.17, 9.21 et 9.56),
+que l’un des comptes a pu être utilisé dans le cadre d’une escroquerie (dossier 9.30) ou encore que les
+opérations enregistrées dans deux dossiers étaient susceptibles de correspondre à du blanchiment de
+fraude fiscale (dossiers 9.37 et 9.38).
+34. Les actions correctives mentionnées par la société [A] sont sans incidence sur le grief 9, qui est
+entièrement fondé
+2°) En ce qui concerne la qualité des déclarations de soupçon
+35. En vertu du III de l’article R. 561-31 du CMF, « dans tous les cas, la déclaration comporte les
+renseignements et éléments d'information suivants : / 1° La profession exercée par la personne qui
+effectue la déclaration par référence aux catégories mentionnées à l'article L. 561-2 ; / 2° Les éléments
+d'identification et les coordonnées professionnelles du déclarant désigné conformément aux dispositions
+du I de l'article R. 561-23 ; / 3° Le cas de déclaration par référence aux cas mentionnés à l'article L.
+561-15 ; / 4° Les éléments d'identification du client et, le cas échéant, du bénéficiaire effectif de
+l'opération qui fait l'objet de la déclaration ainsi que, dans le cas où une relation d'affaires a été nouée
+avec le client, l'objet et la nature de cette relation ; / 5° Un descriptif de l'opération et les éléments
+d'analyse qui ont conduit à effectuer déclaration ; / 6° Lorsque l'opération n'a pas encore été exécutée,
+son délai d'exécution. »
+36. Selon le grief 10, fondé sur ces dispositions, 13 des 26 DS réalisées par l’établissement et
+analysées par la mission de contrôle comportaient des éléments d’analyse insuffisants et des
+informations relatives à la connaissance des clients lacunaires (dossiers 10.1 à 10.13).
+37. Le grief 10, que la société [A] ne conteste pas, est entièrement fondé.
+3°) En ce qui concerne les déclarations de soupçon tardives
+38. En vertu de l’article L. 561-16 du CMF : « I. – Les personnes mentionnées à l'article L. 561-2
+adressent au service mentionné à l'article L. 561-23 les éléments d'information relatifs à certaines
+opérations présentant un risque élevé de blanchiment ou de financement du terrorisme en raison du
+pays ou du territoire d'origine ou de destination des fonds, de la nature des opérations en cause ou des
+structures juridiques impliquées dans ces opérations. Un décret en Conseil d'Etat fixe les conditions
+d'application du présent article en ce qui concerne notamment les personnes et les opérations
+concernées ainsi que les modalités de transmission de l'information.
+II. – Les informations adressées en application du présent article sont faites sans préjudice des
+déclarations éventuellement faites en application de l'article L. 561-15. »
+39. Selon le grief 11, fondé sur ces dispositions, sur l’échantillon analysé par la mission de contrôle,
+11 DS ont été envoyées tardivement (dossiers 11.1 à 11.11). Le délai moyen de transmission des DS à
+Tracfin, calculé par la mission de contrôle, était de 104 jours en 2018 et de 180 jours au premier semestre
+2019. En outre, parmi les DS transmises à Tracfin au premier semestre 2019, 12 % l’ont été dans un
+délai supérieur à 360 jours.
+40. La société [A] ne conteste pas le grief. Si elle souligne que le nombre de DS que le Collège
+analyse comme tardives est très supérieur à celui que mentionne le rapport de contrôle, qui n’en retenait
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2020-05
+que six, la Commission rappelle que le Collège est seul compétent pour qualifier les faits reprochés à un
+organisme mis en cause et pour retenir à son encontre des griefs (cf. sur ce sujet la décision Generali
+Vie du 24 juillet 2015, procédure n° 2014-07, considérant 6).
+41. Les actions mises en œuvre dans le cadre du plan d’actions [GT] pour permettre un traitement
+plus efficace des alertes sont sans incidence sur le grief 11, qui est entièrement fondé. La circonstance
+que ces déclarations soient toutes relatives aux opérations de clients titulaires d’un compte [CZ] n’est
+pas de nature à en réduire la portée.
+E. Sur le dispositif de gel des avoirs
+42. En vertu de l’article L. 562-4 du CMF : « I. – Toute personne mentionnée à l'article L. 561-2, qui
+détient ou reçoit des fonds ou des ressources économiques pour le compte d'un client, est tenue
+d'appliquer sans délai les mesures de gel et les interdictions de mise à disposition ou d'utilisation
+prévues au présent chapitre et d'en informer immédiatement le ministre chargé de l'économie. (…) »
+En vertu de l’article 47 de l’arrêté du 3 novembre 2014, « les entreprises assujetties se dotent également
+de dispositifs adaptés à leurs activités permettant de détecter toute opération au bénéfice d'une personne
+ou d'une entité faisant l'objet d'une mesure de gel des fonds, instruments financiers et ressources
+économiques ».
+43. Selon le grief 12, fondé sur ces dispositions, le dispositif de détection des personnes soumises à
+une mesure de gel des avoirs mis en place par la société [A] présentait des défaillances au moment du
+contrôle.
+En premier lieu, ce dispositif était inefficace car il exigeait de nombreuses manipulations
+(paramétrage et intégration manuels des fichiers dans l’outil de détection des clients faisant l’objet d’une
+sanction financière), qui ont entraîné des carences. En particulier :
+- certains fichiers clients n’ont pas fait l’objet d’un filtrage en raison d’une erreur opérationnelle :
+par exemple, le fichier « Balayage 12 », qui comportait environ 80 000 noms de clients, n’a pas été
+soumis au filtrage du 16 mai 2019 et le fichier « Mandataires », qui comportait à cette même date plus
+de 35 000 noms, n’a pas été soumis à celui du 20 mai 2019 ;
+- certains fichiers ont fait l’objet d’un filtrage partiel en raison d’une erreur de sélection de format
+lors du chargement du fichier. Ainsi, lors des quatre revues réalisées entre le 20 mai 2019 et le 31 mai
+2019, le fichier des représentants légaux n’a pas été intégralement balayé à cause d’une telle erreur.
+En second lieu, ce dispositif n’était pas exhaustif puisqu’il ne comportait aucun filtrage des
+opérations effectuées par les clients de la société [A] au bénéfice d’une personne ou d’une entité faisant
+l’objet d’une mesure restrictive mais uniquement de ses bases clients. Ainsi, la société [A] a exécuté le
+5 février 2019, pour le compte d’un de ses clients [CZ], M. [B], un virement transfrontalier de 1 380
+euros au bénéfice de M. [F], dont les nom et prénom correspondaient à ceux d’une personne faisant
+l’objet, depuis le 2 octobre 2018, d’une mesure nationale de gel en raison d’activités terroristes. Cette
+opération n’ayant pas été détectée, aucune recherche n’a été effectuée par la société [A] pour lever le
+doute sur une éventuelle homonymie de son client avec la personne visée par cette mesure.
+44. La Commission estime que, au moment du contrôle sur place, la société [A] filtrait ses bases
+clients selon des modalités qui ne lui permettaient pas de respecter, en matière de gel des avoirs,
+l’obligation de résultat à laquelle elle est soumise (cf. notamment sur ce point la décision, du 4 février
+2020, procédure n° 2019-04, considérant 41).
+La production par la société [A] du rapport de traitement du fichier « Balayage 12 » effectué le 20
+mai 2019 à la suite d’un incident opérationnel survenu le 16 mai 2019 qui a conduit à ce que le fichier
+« Balayage 11 » soit ce jour-là balayé par erreur à deux reprises, n’est pas de nature à remettre en cause
+le reproche d’une insuffisance résultant de l’organisation qui était alors en place au sein de
+l’établissement. De même, si le fichier des représentants légaux a, selon les pièces produites par la
+société [A], été soumis à des opérations de « balayage » à quatre reprises entre le 20 et le 31 mai 2021,
+deux ont dû être effectuées le 20 mai 2019 en raison d’une erreur de format, ce qui confirme la carence
+reprochée.
+Autorité de contrôle prudentiel et de résolution 10
+
+===== Page 11 =====
+Décision de la Commission des sanctions – procédure no 2020-05
+S’il peut être donné acte à la société [A] de ce qu’elle produit un justificatif du balayage de son fichier
+« Mandataires » le 20 mai 2019, ce seul élément ne peut suffire à remettre en cause la première branche
+du grief, selon laquelle l’efficacité globale du dispositif de détection des personnes soumises à mesure
+de gel était insuffisante du fait des nombreuses manipulations de fichiers qui étaient effectuées.
+45. Par ailleurs, la société [A] ne conteste pas l’absence de filtrage, au moment du contrôle sur place,
+des opérations de ses clients au titre de ses obligations en matière de gel des avoirs. Si, dans le dossier
+individuel mentionné par la poursuite, elle soutient que le virement effectué serait un virement
+domestique et non un virement international qui aurait appelé des vérifications complémentaires, il lui
+appartenait en tout état de cause, sans préjudice des diligences faites par le teneur de compte du
+bénéficiaire, de respecter les dispositions légales interdisant la mise à disposition de fonds au bénéfice
+de toute personne faisant l’objet d’une mesure restrictive, quelle que soit l’opération par laquelle des
+fonds sont transférés. Au demeurant, le virement en cause, d’un montant de 1 380 euros, était effectué
+vers l’Allemagne. La carence relevée à ce titre est une conséquence de l’absence de vérification des
+opérations de ses clients, notamment des bénéficiaires de virements SEPA effectués depuis un compte
+[CZ].
+La société [A] a donc manqué à l’obligation que lui imposaient les dispositions citées ci-dessus et
+cette seconde branche du grief est entièrement fondée. La Commission relève seulement que ce
+manquement semble n’avoir eu pour conséquence qu’un défaut de détection d’une personne dont les
+nom et prénom correspondaient à ceux d’une personne faisant l’objet d’une mesure de gel des avoirs.
+46. Les actions correctives effectuées au titre du plan [GT] , achevées selon la société [A] depuis
+novembre 2020, qui ont notamment consisté en une automatisation des traitements dans l’outil de
+filtrage [N], postérieures aux faits, sont sans incidence sur le grief 12, qui est fondé.
+*
+* *
+47. Il résulte de ce qui précède qu’au moment du contrôle sur place, le dispositif d’analyse des alertes
+au sein de la société [A] était largement défaillant, faute de moyens humains suffisants (griefs 1 et 2),
+ce dont son conseil d’administration n’avait pas été correctement informé (grief 3). De plus, le contrôle
+permanent de second niveau du dispositif de LCB-FT était défaillant sur plusieurs points (grief 4), tandis
+que les procédures internes ne prévoyaient pas les modalités d’échanges d’informations avec sa filiale
+belge (grief 5).
+Plusieurs insuffisances dans le respect, par la société [A], de ses obligations de vigilance ont
+également été relevées, en ce qui concerne la connaissance des clients ayant ouvert un compte [CZ]
+(grief 6), la détection des PPE (grief 7) ou encore l’obligation d’effectuer un examen renforcé de
+certaines opérations (grief 8).
+En outre, un nombre particulièrement élevé de défauts de DS au sujet d’opérations de clients titulaires
+d’un compte [CZ] a été retenu (grief 9) et la qualité (grief 10) ainsi que les délais d’envoi (grief 11) de
+ces déclarations étaient, au moment du contrôle sur place, insatisfaisants.
+Enfin, le dispositif de gel des avoirs présentait également des carences (grief 12).
+48. Tout en admettant la quasi-totalité des manquements qui lui sont reprochés, la société [A] soutient
+que la Commission doit tenir compte du fait que ces manquements résultent, pour l’essentiel, de la
+commercialisation de son compte [CZ], qui a entraîné une progression considérable des alertes à laquelle
+elle n’a pas été immédiatement à même de faire face et qui a pesé, en aval, sur le respect de ses autres
+obligations de vigilance et sur ses obligations de déclaration à Tracfin. Elle estime qu’un organisme
+assujetti ne peut, sans méconnaissance du principe non bis in idem, être sanctionné pour plusieurs
+manquements ayant la même origine.
+Autorité de contrôle prudentiel et de résolution 11
+
+===== Page 12 =====
+Décision de la Commission des sanctions – procédure no 2020-05
+Elle soutient par ailleurs que la Commission doit également tenir compte de ce que le compte [CZ],
+compte de paiement, était un produit nouveau pour elle, que ses utilisateurs n’ont représenté que 5 % du
+total de ses clients et qu’elle y a renoncé depuis 2020, après une commercialisation qui n’a duré que
+trois ans.
+Enfin la société [A] fait valoir qu’elle n’a pas attendu la mission de contrôle pour remédier aux
+carences de son dispositif de LCB-FT.
+49. En premier lieu, ainsi que la Commission l’a récemment rappelé (décision du 29 avril 2021,
+procédure n° 2020-03) le Conseil d’État a jugé que « (…) si une sanction administrative reposant sur
+plusieurs manquements doit être conforme au principe de proportionnalité, le principe du non bis in
+idem découlant du principe de nécessité des délits et des peines garanti par l'article 8 de la Déclaration
+des droits de l'homme et du citoyen de 1789 ne fait pas obstacle à ce que, dans le cadre d'une même
+poursuite conduisant à une même décision de sanction, plusieurs manquements distincts puissent
+résulter de mêmes faits. » (CE, 6 novembre 2019, n° 418463, point 18). Au demeurant, la poursuite ne
+reproche pas à la société [A] les mêmes faits sous plusieurs qualifications mais les conséquences d’un
+fait – le défaut d’anticipation des risques de BC-FT résultant de la commercialisation de [CZ] - d’abord
+sur le traitement des alertes (griefs 1 et 2) puis sur le respect des obligations déclaratives (griefs 9 et 11).
+Il en résulte que rien ne fait obstacle à ce que les manquements qui fondent les griefs concernés soient
+les uns et les autres sanctionnés.
+En deuxième lieu, la Commission relève que tous les manquements retenus à l’encontre de la société
+[A] ne résultent pas des difficultés liées à la commercialisation du produit [CZ]. En particulier, les
+insuffisances de l’information du conseil d’administration (grief 3), des contrôles permanents de second
+niveau (grief 4), du partage des informations au sein du groupe (grief 5), du dispositif de détection des
+PPE (grief 7) ou du dispositif de gel des avoirs (grief 12) concernent l’ensemble de ses activités. En
+outre, si elles ne se sont manifestées qu’à la suite de la commercialisation du produit [CZ], certaines
+carences ont révélé un défaut de conception de certains dispositifs, notamment du dispositif de
+traitement des alertes.
+En troisième lieu et en tout état de cause, il appartenait à la société [A] d’anticiper les conséquences
+sur son dispositif de LCB-FT, notamment en matière de traitement des alertes et d’envoi de DS à Tracfin,
+de la commercialisation, à partir d’avril 2017, de son produit [CZ]. Il ne pouvait échapper à une
+entreprise comme la société [A] et à ses actionnaires que la commercialisation d’un compte de paiement
+présentait, en matière de LCB-FT, des risques sensiblement plus élevés que ses activités traditionnelles.
+À cet égard, et même si la commercialisation d’un compte comme [CZ] constituait pour elle une
+innovation, la société [A] ne peut sérieusement soutenir qu’il était difficile d’anticiper, pour un produit
+en lui-même banal, de tels risques. Or, faute d’avoir pris en compte ces risques dans la préparation du
+lancement du produit [CZ], la société [A] a subi une progression considérable du nombre d’alertes non
+traitées à laquelle elle n’a pas été en mesure de faire face. Ainsi qu’il a été dit, le stock des alertes non
+traitées a dépassé le chiffre 200 000 (grief 1) et le dispositif de détection et d’analyse des opérations
+atypiques a été saturé. Eu égard à l’ampleur de ce phénomène, le fait que la clientèle [CZ] n’ait
+représenté que 5% des clients de l’établissement et que ce produit n’ait été commercialisé que pendant
+trois ans ne permet pas de relativiser la gravité des manquements et ne peut être regardé comme un
+élément d’atténuation.
+50. Il convient en revanche de tenir compte du plan de remédiation volontariste mis en œuvre par la
+société [A]. Si le plan dénommé [GT] n’a été décidé qu’en mars 2020, comme le souligne à juste titre
+la poursuite, il avait été précédé de mesures significatives, antérieures à l’ouverture de la présente
+procédure disciplinaire.
+Au 19 mars 2021, la société [A] avait déjà engagé plus de 3,4 millions d’euros à ce titre dont 2,9
+millions d’euros de dépenses d’exploitation et environ 0,5 million d’euros de dépenses d’investissement.
+Dans ce cadre, les fonctions Conformité et LCB-FT ont été restructurées et renforcées.
+Il y a lieu enfin de constater que la société [A] n’est plus, aujourd’hui, en raison de la fin de la
+commercialisation de son produit [CZ], exposée aux risques particuliers que présentait ce produit.
+51. Les manquements retenus par la Commission justifient, compte tenu de leur gravité ainsi que des
+éléments d’aggravation et d’atténuation ci-dessus mentionnés, le prononcé d’un blâme et il y a lieu, eu
+Autorité de contrôle prudentiel et de résolution 12
+
+===== Page 13 =====
+Décision de la Commission des sanctions – procédure no 2020-05
+égard à la situation financière de la société [A], de prononcer en outre à son encontre une sanction
+pécuniaire de 1,5 million d’euros.
+La société [A], qui se borne à reprendre son argumentation selon laquelle les manquements
+sanctionnés concernent pour l’essentiel la clientèle du produit [CZ], qui n’existe plus, ne fait pas état
+d’éléments de nature à établir qu’une publication sous forme nominative lui causerait un préjudice
+disproportionné au regard de la gravité des griefs et qu’elle méconnaîtrait, en l’espèce, l’équilibre entre
+l’exigence d’intérêt général à laquelle elle répond et les intérêts de l’organisme mis en cause. Il y a donc
+lieu de publier la présente décision au registre de l’ACPR sous forme nominative, pendant une durée de
+cinq ans. Elle y sera ensuite maintenue sous une forme non nominative.
+*
+* *
+PAR CES MOTIFS
+DÉCIDE :
+ARTICLE 1ER – Il est prononcé à l’encontre de la société [A] un blâme et une sanction pécuniaire
+de 1,5 million d’euros.
+ARTICLE 2 – La présente décision sera publiée au registre de l’ACPR pendant cinq ans sous une
+forme nominative, puis sous une forme ne permettant pas de l’identifier, et pourra être consultée au
+secrétariat de la Commission.
+Le Président de la Commission
+des sanctions
+[Alain Ménéménis]
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification
+et dans les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 13

@@ -1,0 +1,360 @@
+===== Page 1 =====
+SOCIÉTÉ A
+Procédure no 2018-08
+–––––
+Blâme et sanction pécuniaire d’un
+million d’euros
+–––––
+Audience du 6 septembre 2019
+Décision rendue le 24 septembre 2019
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 7 décembre 2018 par laquelle le Président de l’Autorité de contrôle prudentiel et de résolution
+(ci-après l’« ACPR ») informe la Commission de ce que le Collège de supervision de l’ACPR (ci-après le
+« Collège »), statuant en Sous-collège sectoriel de la banque, a décidé d’ouvrir une procédure disciplinaire à
+l’encontre d’un établissement de monnaie électronique (ci-après « la société A »), enregistrée sous le n° 2018-
+08 ;
+Vu la notification des griefs du 7 décembre 2018 ;
+Vu les mémoires en défense des 20 février, 15 mai et 20 juin 2019, par lesquels la société A estime que le
+périmètre des griefs 1 et 5 doit être réduit et que le grief 1 doit également être relativisé ;
+Vu les mémoires en réplique des 8 avril et 4 juin 2019, par lesquels Mme Martine Lefebvre, représentante
+du Collège, maintient l’ensemble des griefs notifiés ;
+Vu le rapport du 25 juillet 2019 de M. Thierry Philipponnat, rapporteur, dans lequel celui-ci conclut que
+les 7 griefs sont établis, mais que le périmètre du grief 1 peut être réduit tandis que les griefs 1 et 5 peuvent
+être relativisés ;
+Vu les courriers du 26 juillet 2019 convoquant les parties à l’audience et les informant de la composition
+de la Commission ;
+Vu les observations présentées le 16 août 2019 par la société A en réponse au rapport du rapporteur ;
+Vu les autres pièces du dossier, notamment le rapport de contrôle du 7 mai 2018 et les fichiers informatiques
+non cotés produits par la défense ;
+Vu la note en délibéré du 6 septembre 2019 dans laquelle la société A soutient que la publication nominative
+de la décision de sanction lui serait hautement préjudiciable ;
+Vu le code monétaire et financier (ci-après le « CMF »), notamment ses articles L. 561-3, L. 561-5, L. 561-
+5-1, L. 561-6, L. 561-10-2, L. 561-12, L. 561-15, L. 561-36-1, L. 562-1 à L. 562-5, L. 612-39, R. 561-5,
+R. 561-5-1, R. 561-12, R. 561-16, R. 561-16-1 et R. 612-35 et suivants, R. 562-2, D. 315-2 et D. 561-32-1
+dans leur rédaction applicable aux faits ;
+Vu le règlement intérieur de la Commission des sanctions ;
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2018-08
+La Commission des sanctions de l’ACPR, composée de M. Jean-Pierre Jouguelet, Président et de
+Mmes Claudie Aldigé, Claudie Boiteau et Elisabeth Pauly ;
+Après avoir entendu, lors de sa séance non publique du 6 septembre 2018 :
+- M. Philipponnat, rapporteur, assisté de Mme Laëtitia Havas, son adjointe ;
+- Le, représentant la directrice générale du Trésor ;
+- Mme Lefebvre, représentante du Collège, assistée de l’adjointe au directeur des affaires juridiques, du
+responsable du pôle permanent LCB-FT de la 1ère direction du contrôle des banques, du chef du service
+des affaires institutionnelles et du droit public ainsi que de deux juristes au sein de ce service ;
+Mme Lefebvre a proposé à la Commission de prononcer un blâme et une sanction pécuniaire qui ne
+saurait être inférieure à un million d’euros dans une décision publiée sous forme nominative ;
+- la société A, représentée par le directeur de son département risque et conformité, la responsable de la
+conformité réglementaire ainsi que par Mes Olivier Karsenti et Malik Bahmani, avocats à la Cour ;
+Après avoir délibéré en la seule présence de M. Jouguelet, Président, de Mmes Aldigé, Boiteau et Pauly,
+ainsi que de M. Jean-Manuel Clemmer, chef du service de la Commission des sanctions faisant fonction de
+secrétaire de séance ;
+1. Considérant que la société A est un établissement de monnaie électronique agréé au Royaume-Uni dont
+le service en charge de la lutte contre le blanchiment des capitaux et le financement du terrorisme (ci-après
+« LCB-FT ») [est] en Irlande ; qu’elle employait environ […] personnes en 2018 contre […] en 2017 ; qu’elle
+exerce en France sous passeport européen ; que la société A émet de la monnaie électronique et fournit des
+cartes vierges dont elle délègue la commercialisation à des gestionnaires de programme qui adaptent les
+caractéristiques d’utilisation des cartes vendues sous leur enseigne en fonction de leurs cibles de clientèle ;
+qu’elle émet, d’une part, des cartes prépayées dites « anonymes » et « SDD » (« simplified due diligence »),
+non rechargeables, pour la commercialisation desquelles l’identité du client n’est pas vérifiée, et, d’autre part,
+des cartes dites «KYC » (« know your customer »), rechargeables, qui impliquent une telle vérification ; que
+ses gestionnaires commercialisent la monnaie électronique soit directement, à partir de leur site internet relié
+au système de la société A, soit par l’intermédiaire de grossistes à la tête de réseaux de distribution regroupant
+les points de vente qui sont des buralistes et des points presse ; que ces points de vente commercialisent
+également des coupons de rechargement ; que le principal gestionnaire de programme, la société A1, est
+également représentant permanent de la société A en France au sens du VI de l’article L. 561-3 du CMF ; qu’au
+moment du contrôle, il avait conclu […] contrats de distribution représentant près de […] points de vente tandis
+que la société A2, principal grossiste, en représentait plus de 10 000 ; que la société A définit les règles
+d’identification de la clientèle et dispose d’outils afin de vérifier les éléments d’identification et de détecter les
+opérations atypiques ou suspectes ; que pour la plus grande part de la clientèle apportée par les différents
+gestionnaires de programme, la société A effectue directement ces diligences, tandis que pour les clients
+apportés par 3 d’entre eux (A3, A4 et A5), ces fonctions sont déléguées ;
+2. Considérant que la société A a réalisé en 2018 un chiffre d’affaires (« revenue ») de […] millions de
+livres Sterling (M£) auquel son activité en France a contribué à hauteur de […] % ; que cette même année, son
+bénéfice (« profit for the year ») s’est élevé à environ […] M£, en forte progression par rapport à 2016 et 2017 ;
+que […] % des flux entrants sont constitués par des achats de coupons ; que les retraits représentent […] %
+des flux sortants et les achats […] % ;
+3. Considérant qu’à la suite du contrôle sur place du dispositif de LCB-FT de la société A, réalisé entre le
+29 novembre 2017 et le 23 février 2018 […], un rapport a été établi le 7 mai 2018 ; qu’au vu de ce rapport, le
+Collège, statuant en sa formation de sous-Collège sectoriel de la banque, a décidé, lors de sa séance du
+12 novembre 2018, d’ouvrir la présente procédure disciplinaire ;
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2018-08
+I - Sur les mesures de vigilance
+A. En ce qui concerne les porteurs de cartes dites Simplified due diligence (ci-après
+« SDD ») et « anonymes »
+4. Considérant que les dispositions des articles L. 561-5 et R. 561-5 du CMF imposent aux organismes
+assujettis de vérifier l’identité de leur client sur présentation de tout document écrit à caractère probant ; que
+les dispositions de l’article L. 561-5-1 du CMF, précisées par celles de l’article R. 561-12 du même code, leur
+imposent en outre de recueillir les informations relatives à l’objet et la nature de la relation d’affaires ainsi que
+tout élément d’information pertinent sur le client ; que selon l’article R. 561-16 du CMF, les émetteurs de
+monnaie électronique ne sont pas soumis « aux obligations de vigilance prévues aux articles L. 561-5 et L.
+561-6, pour autant qu'il n'existe pas de soupçons de blanchiment de capitaux ou de financement du terrorisme,
+lorsque l'opération porte sur les produits suivants : (…) / 5° La monnaie électronique si toutes les conditions
+suivantes sont réunies : / a) Elle est émise en vue de la seule acquisition de biens ou de services, à l'exclusion
+des opérations mentionnées au 3° du II de l'article R. 561-10 ; / b) La valeur monétaire maximale stockée
+n'excède pas 250 euros et, dans l'hypothèse où le support peut être rechargé, la valeur monétaire est assortie
+d'une limite maximale de stockage et de paiement de 250 euros par période de trente jours et ne peut être
+utilisée que pour des paiements sur le territoire national ; / c) Le support de la monnaie électronique ne peut
+pas être chargé au moyen d'espèces. Toutefois, cette condition ne s'applique pas à la monnaie électronique
+émise en vue de l'acquisition de biens ou de services dans un réseau limité de personnes acceptant ces moyens
+de paiement ou pour un éventail limité de biens ou de services ; / d) Le support de la monnaie électronique ne
+peut pas être chargé au moyen de monnaie électronique dont le détenteur n'est pas identifié dans les conditions
+prévues à l'article R. 561-5. / Les opérations de retrait ou de remboursement en espèces de la monnaie
+électronique d'un montant supérieur à 100 euros demeurent soumises aux obligations de vigilance prévues
+aux articles L. 561-5 et L. 561-6. » ;
+5. Considérant que, selon le grief 1, fondé sur ces dispositions, de janvier à novembre 2017, la société A a
+commercialisé des cartes dites « SDD » ou « anonymes » pour lesquelles les obligations de vérification de
+l’identité du client et, le cas échéant, du bénéficiaire effectif, ainsi que de recueil des informations sur la
+connaissance de la relation d’affaires n’ont pas été appliquées, alors que les conditions pour bénéficier de la
+dérogation n’étaient pas remplies ; qu’ainsi (i) 1 038 cartes dites « SDD » ou « anonymes » émises par la
+société A et distribuées en France par la société A1 avaient une valeur monétaire stockée supérieure à 250
+euros à la date du 30 novembre 2017 ; que (ii) sur cette même période, la société A a réalisé 871 opérations de
+retrait en espèces en France à partir de 670 cartes prépayées dites « SDD » ou « anonymes » et 156 opérations
+à l’étranger à partir de 67 cartes prépayées dites « SDD » ou « anonymes » dont le montant unitaire a dépassé
+100 euros ; que (iii) la société A a exécuté, les 10 et 12 octobre 2017, deux opérations de chargement d’une
+carte [Y] « anonyme » avec de la monnaie électronique stockée sur une autre carte [Y] « anonyme », dont
+l’identité du porteur n’avait pas été davantage vérifiée ;
+6. Considérant, tout d’abord, que la société A, qui ne conteste pas la réalité du grief, souligne que les 1 038
+cartes dites « anonymes » mentionnées par la poursuite représentaient moins de 0,3 % des cartes de ce type
+commercialisées sur cette même période tandis que les 1 027 retraits d’espèces d’un montant unitaire supérieur
+à 100 euros reprochés se comparent aux 13 741 demandes de même nature, qui ont donc été refusées à 93 % ;
+qu’elle soutient que ces anomalies résultent de difficultés techniques dues à l’intervention d’un prestataire
+externe, difficultés auxquelles elle a remédié en acquérant sa propre plateforme de traitement, ce qui a
+représenté un investissement d’environ 4,5 millions d’euros ; que les explications fournies, qui visent à
+relativiser les reproches, ne sont toutefois pas de nature à les remettre en cause ;
+7. Considérant, ensuite, que la société A soutient que des mesures de « vérifications simplifiées » ont été
+appliquées aux deux opérations de chargement d'une carte « anonyme » avec de la monnaie stockée sur une
+autre carte « anonyme » ; qu’ainsi, l’identité du client, son nom, sa date de naissance ainsi que son adresse ont
+bien été vérifiés par la présentation d’une pièce d’identité dont une copie, qu’elle produit, a été conservée ;
+qu’il n’est pas démontré par la poursuite qu’au moment de la réalisation de ces opérations, la société A n’avait
+pas fait ces diligences ; que ce reproche sera donc écarté ;
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2018-08
+8. Considérant ainsi que le grief 1 est établi dans un périmètre réduit ainsi qu’il a été dit ;
+B. En ce qui concerne la connaissance des clients porteurs de cartes « KYC » en
+relation d’affaires
+9. Considérant que, selon les dispositions de l’article L. 561-6 du CMF et, depuis le 3 décembre 2016, de
+l’article L. 561-5-1, précisées par celles de l’article R. 561-12 du même code, les émetteurs de monnaie
+électronique sont tenus de recueillir les informations relatives à l’objet et la nature de la relation d’affaires
+ainsi que tout élément d’information pertinent sur le client ;
+10. Considérant que, selon le grief 2, fondé sur ces dispositions, la connaissance des clients porteurs de
+cartes dites « KYC » pour lesquelles la société A ne peut bénéficier de la dérogation aux obligations de
+vigilance est insuffisante, bien que ses procédures internes prévoient les diligences qui doivent être faites à ce
+titre ; qu’en particulier, sur un échantillon de 41 dossiers, la mission de contrôle a relevé 14 dossiers de
+personnes physiques pour lesquelles la société A ne disposait pas d’informations relatives à la profession, aux
+revenus et aux ressources du client (dossiers 2.1 à 2.14), 6 dossiers de clients personnes physiques pour
+lesquels la société A ne disposait pas d’informations sur leurs revenus et ressources financières (dossiers 2.15
+à 2.20) et 2 dossiers de personnes morales pour lesquels la société A ne disposait pas d’informations relatives
+à la surface financière et à l’activité de son client (dossiers 2.21 et 2.22) ;
+11. Considérant que la société A ne conteste pas ces constatations mais souligne les mesures correctrices
+mises en œuvre dès le 5 février 2018 visant à améliorer la connaissance des clients porteurs de cartes dites «
+KYC », mesures dont elle indique qu’elles ont permis de remédier aux insuffisances reprochées ; que toutefois
+ces actions, qui sont postérieures au début du contrôle sur place, sont sans conséquence sur le grief 2, qui est
+établi ;
+II - Sur le recueil et la conservation des informations relatives au
+chargement des cartes prépayées
+12. Considérant que, selon l’article L. 561-12 du CMF, « Sous réserve de dispositions plus contraignantes,
+les personnes mentionnées à l’article L. 561-2 conservent pendant cinq ans à compter de la clôture de leurs
+comptes ou de la cessation de leurs relations avec eux les documents et informations, quel qu’en soit le support,
+relatifs à l’identité de leurs clients habituels ou occasionnels. Elles conservent également, dans la limite de
+leurs attributions, pendant cinq ans à compter de leur exécution, quel qu’en soit le support, les documents et
+informations relatifs aux opérations faites par ceux-ci, ainsi que les documents consignant les caractéristiques
+des opérations mentionnées à l’article L. 561-10-2. / Sans préjudice des obligations mentionnées au premier
+alinéa du présent article, les personnes mentionnées aux 1°, 1° ter et 1° quater de l’article L. 561-2 recueillent
+les informations et les données techniques relatives à l’activation, au chargement et à l’utilisation de la
+monnaie électronique au moyen d’un support physique et les conservent pendant une durée de cinq ans à
+compter de l’exécution de ces opérations. (…) » ;
+13. Considérant que, selon le grief 3, fondé sur ces dispositions, la société A ne recueillait et donc ne
+conservait, au moment du contrôle, aucune information sur le mode de règlement des opérations de chargement
+de cartes prépayées auprès des points de vente, lorsque celles-ci étaient effectuées par l’achat de « coupons »,
+soit dans 82% des cas ; qu’ainsi la société A, qui n’était pas en mesure de connaître la proportion des
+chargements effectués notamment en espèces, ne disposait pas d’éléments d’information indispensables à la
+mise en œuvre des dispositions réglementaires qui prévoient des conditions strictes relatives aux opérations de
+chargement en espèces pour bénéficier d’une dérogation aux obligations de vigilance, ainsi qu’un
+plafonnement du montant de tels chargements sur les cartes prépayées ;
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2018-08
+14. Considérant que la société A, qui ne conteste pas le reproche, souligne les difficultés techniques qui
+gênent le recueil et la conservation des informations relatives au chargement des cartes prépayées, activité qui
+implique la participation de plusieurs intervenants ; qu’elle a indiqué à l’audience rechercher une solution par
+laquelle l’information sur les modes de règlement serait saisie par le détaillant dans l’interface technique mise
+à sa disposition ; qu’à défaut d’en disposer, elle avait décidé de traiter tous les rechargements par coupon
+comme des rechargements en espèces ; que toutefois, les mesures de surveillance actuellement appliquées, qui
+portent notamment sur le rechargement des cartes par coupon suivis de retrait d’espèces et sur les virements
+supérieurs à un certain seuil, ne sont pas de nature à répondre au grief ; que la société A ne conservait pas, au
+moment du contrôle, « les données techniques relatives […] au chargement » de la monnaie électronique ;
+qu’ainsi, elle ne détenait pas des éléments indispensables à la mise en œuvre des dispositions réglementaires
+soustrayant, sous certaines conditions, un émetteur de monnaie électronique à ses obligations de vigilance
+relatives à certaines opérations et prévoyant des conditions strictes s’agissant des opérations de chargement en
+espèces (5° de l’article R. 561-16 du CMF) ; qu’elle ne pouvait davantage appliquer correctement les
+dispositions qui limitent le chargement en espèces de cartes prépayées (article D. 315-2 du CMF pris en
+application de l’article L. 315-9 du même code) ; que les mesures correctrices envisagées n’ont pas d’incidence
+sur le grief 3, qui est établi ;
+III - Sur les défauts d’examen renforcé
+15. Considérant que, selon l’article L. 561-10-2 du CMF, les organismes assujettis « effectuent un examen
+renforcé de toute opération particulièrement complexe ou d'un montant inhabituellement élevé ou ne
+paraissant pas avoir de justification économique ou d'objet licite. Dans ce cas, ces personnes se renseignent
+auprès du client sur l'origine des fonds et la destination de ces sommes ainsi que sur l'objet de l'opération et
+l'identité de la personne qui en bénéficie. » ;
+16. Considérant que, selon le grief 4, fondé sur ces dispositions, la société A n’a pas effectué d’examen
+renforcé des opérations de 5 clients (dossiers 4.1 à 4.5) ;
+17. Considérant que, dans ces 5 dossiers, les opérations effectuées ont porté sur des montants
+inhabituellement élevés au regard du montant moyen des opérations de la société A ; que le solde de deux de
+ces cartes (4.1, 4.2) était, au moment du contrôle, supérieur à 10 000 euros ; que, dans l’un de ces dossiers, les
+opérations ont consisté quasi-exclusivement en chargements à l’aide de coupons, pour des montants totaux
+supérieurs à 10 000 euros sur une période d’un mois (dossier 4.3) ; que, dans un autre dossier, le montant élevé
+des virements entrants et sortants était conjugué à des retraits en espèces importants (dossier 4.4) ; que le
+dernier de ces clients a effectué 422 opérations de chargement à l’aide de coupons, jusqu’à 3 coupons par jour
+portant sur un montant supérieur à 84 000 euros en 8 mois et a effectué des retraits d’espèces pour un montant
+cumulé d’environ 7 000 euros et plus de 50 000 euros d’achats auprès d’une société (dossier 4.5) ; que, faute
+de disposer d’éléments de connaissance de clients lui permettant de déterminer la justification économique des
+opérations effectuées, la société A aurait dû procéder à un examen renforcé ; que la société A, qui ne conteste
+pas le grief, présente les mesures correctrices qu’elle a mises en œuvre après le contrôle sur place et qui ont
+notamment porté sur l’application de la limite réglementaire de stockage de 10 000 euros, la création d’un
+questionnaire d’accueil destiné à connaître la nature de la relation d’affaires et les éléments de connaissance
+du client ainsi qu’une alerte sur les retraits d’espèces au-delà d’un certain seuil ; que ces actions, postérieures
+au contrôle sur place, sont sans conséquence sur le grief 4, qui est intégralement établi ;
+IV - Sur la mise en œuvre des obligations déclaratives
+A. En ce qui concerne le non-respect, par le représentant permanent de la société A, de
+ses obligations de déclaration de soupçon à Tracfin
+18. Considérant que, selon le B du IV de l’article L. 561-3 du CMF, « Les fonctions du représentant
+permanent sont exercées par une personne spécialement désignée à cet effet. / Le représentant permanent
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2018-08
+procède au nom et pour le compte de la personne mentionnée au 1° quater de l’article L. 561-2 aux
+déclarations et aux communications d’informations prescrites par les articles L. 561-15 et L. 561-15-1 (…) » ;
+19. Considérant que, selon le grief 5, fondé sur ces dispositions, alors que la société A exerce son activité
+d’émission et de gestion de monnaie électronique en France par l’intermédiaire d’agents et de distributeurs
+situés sur le territoire national, il ressort du rapport qu’entre février 2017 et le début de la mission de contrôle
+sur place, fin novembre 2017, elle n’a pas informé Tracfin, par l’intermédiaire de son représentant permanent,
+de l’ensemble des opérations suspectes détectées sur son activité en France ; qu’ainsi, 72 DS portant sur
+l’activité de monnaie électronique émise en France en ayant recours à des agents et des distributeurs n’ont pas
+été transmises à Tracfin ;
+20. Considérant que la société A, qui ne conteste pas la réalité du grief, soutient qu’il porte sur un nombre
+de déclarations bien plus faible que celui qui lui est reproché ; que toutefois, si elle fait valoir, tout d’abord,
+que le nombre de DS mentionné dans son rapport annuel est incorrect et doit être réduit à 116 DS, elle
+n’explique pas les raisons pour lesquelles 27 DS comptabilisées « en doublon » auprès de National Crime
+Agency (ci-après « NCA ») britannique, devraient être déduites du total des DS qui auraient dû être adressées
+à Tracfin et ne l’ont pas été ; que, de plus, l’envoi par erreur à la NCA de 11 déclarations, s’il permet de
+comprendre une partie de l’écart constaté, ne peut suffire à justifier la carence de la société A ; qu’ensuite, les
+31 DS adressées en décembre 2017, soit après le début du contrôle sur place, ne peuvent contribuer à réduire
+le périmètre du grief ; que les actions correctrices présentées, dont la révision de chaque déclaration par le
+spécialiste en conformité situé en France avant tout envoi à Tracfin, postérieures à la mission de contrôle, sont
+sans conséquence sur le grief 5, qui est établi ;
+B. Sur les défauts de déclaration de soupçon
+21. Considérant que, selon le I de l’article L. 561-15 du CMF, les organismes assujettis doivent déclarer à
+Tracfin « les sommes inscrites dans leurs livres ou les opérations portant sur des sommes dont elles savent,
+soupçonnent ou ont de bonnes raisons de soupçonner qu’elles proviennent d’une infraction passible d’une
+peine privative de liberté supérieure à un an ou sont liées au financement du terrorisme. » ; que le II du même
+article dispose que par dérogation au I, les organismes assujettis doivent déclarer à Tracfin « les sommes ou
+opérations dont ils savent, soupçonnent ou ont de bonnes raisons de soupçonner qu’elles proviennent d’une
+fraude fiscale lorsqu’il y a présence d’au moins un critère défini par décret. » ; que le II de l’article D. 561-
+32-1 du CMF mentionne, comme critère conduisant à suspecter des faits de fraude fiscale « 7° Le recours
+inexpliqué à des comptes utilisés comme des comptes de passage ou par lesquels transitent de multiples
+opérations tant au débit qu'au crédit, alors que les soldes des comptes sont souvent proches de zéro » ;
+22. Considérant que, selon le grief 6, fondé sur ces dispositions, 8 dossiers présentaient un défaut de DS,
+sur le fondement du I (dossiers 5.1 à 5.7) ou du II (dossier 5.8) de l’article L. 561-15 du CMF ;
+1°) Sur les manquements reprochés au I de l’article L. 561-15 du CMF
+23. Considérant qu’au moment du contrôle, les informations réunies au sujet du patrimoine et des revenus
+des clients, incomplètes ou inexistantes, ne suffisaient pas à analyser l’objet des opérations exécutées pour le
+compte de ceux-ci ; que de nombreux rechargements en espèces ou par coupon ont été effectués, pour des
+montants inhabituels, sans que l’origine des fonds ne soit justifiée (dossiers 5.2 et 5.3) ; que les fonds stockés
+sur la carte d’un client ont été supérieurs à 10 000 euros (dossier 5.6) ; que l’objet des paiements ou des
+transferts de fonds effectués n’était pas justifié au regard des informations dont disposait la société A (dossiers
+5.1, 5.2, 5.4 à 5.7) ; que dans plusieurs cas des retraits d’espèces pour des montants supérieurs au plafond
+réglementaire de 1 000 euros par mois ont été effectués (dossiers 5.1, 5.4 et 5.7) ; qu’enfin, dans deux cas, des
+informations publiques très défavorables concernant le client étaient disponibles, qui auraient dû être intégrées
+à l’analyse de ses opérations (dossiers 5.1 et 5.6) ; que le blocage de la carte du client (dossiers 5.1, 5.3, 5.4 et
+5.7) ne peut se substituer au respect par la société A de ses obligations déclaratives ;
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2018-08
+2°) Sur le manquement reproché aux dispositions du II de l’article L. 561-15 du CMF
+24. Considérant que dans le dossier 5.8, les opérations consistaient quasi-exclusivement à transférer ou à
+retirer en espèces l’argent issu des virements réalisés par la société B gérée par M. C ; que selon le rapport de
+contrôle, ce dernier fait partie des 8 principaux destinataires de virements sortants en 2017 en provenance de
+porteurs de cartes de la société A ; que la société A a indiqué postérieurement au constat qu’il s’agirait de
+salaires mais aurait égaré les informations sur l’origine des fonds ; que la société A ne pouvait exclure que les
+opérations effectuées, d’un montant récurrent et arrondi en centaines d’euros (souvent 500 euros, plusieurs
+fois par jour) entraient dans les prévisions du II de l’article L. 561-15 du CMF ;
+25. Considérant que la société A, tout en insistant sur les actions correctrices entreprises qui, ainsi que cela
+a été précédemment indiqué, ont notamment porté sur la mise en place d’un questionnaire d’accueil, destiné à
+recueillir des informations relatives à la relation d’affaires, la profession, les revenus financiers et l’utilisation
+prévue de la carte, mais aussi sur la mise en place de « règles LCB » et d’outils de contrôle et de détection, le
+recours à un prestataire externe et le renforcement des effectifs de son département LCB-FT, ne conteste pas
+les défauts de DS reprochés ; que le grief 6 est établi dans sa totalité ;
+V - Sur la mise en œuvre des mesures de gel des avoirs
+26. Considérant que, selon les dispositions de l’article R. 562-2 du CMF, reprises au I de l’article L. 562-4
+du même code à compter du 1er juillet 2017, les assujettis « qui détiennent ou reçoivent des fonds, des
+instruments financiers ou des ressources économiques pour le compte d'un client faisant l'objet d'une mesure
+de gel mettent immédiatement en œuvre cette mesure et en informent sans délai le ministre chargé de
+l'économie. » ;
+27. Considérant que, selon le grief 7, fondé sur ces dispositions, au moment du contrôle, la société A ne
+prenait pas en compte dans son dispositif de mise en œuvre des mesures de gel, celles prises en application des
+articles L. 562-2 et L. 562-3 du CMF ; qu’ainsi, la société A n’était pas en mesure de détecter, dès l’entrée en
+vigueur d’une mesure nationale de gel, les clients porteurs d’une carte prépayée faisant l’objet d’une telle
+mesure, ni a fortiori, de bloquer l’utilisation de leur carte et d’en informer sans délai le ministre chargé de
+l’économie ; qu’à titre d’illustration, la société A n’a pas détecté deux clients porteurs de cartes prépayées
+(dossiers 7.1 et 7.2) qui faisaient l’objet d’une telle mesure et a réalisé, pour le compte du premier, plusieurs
+opérations de paiement et de retrait en espèces à partir de sa carte ;
+28. Considérant que la société A ne conteste pas le grief ; qu’ainsi que la Commission l’a déjà rappelé à
+plusieurs reprises (cf. en particulier la décision n° 2017-06 du 13 juin 2018, considérant 32), la mise en place
+d’un dispositif efficace de gel des avoirs répond à une exigence essentielle pour les organismes assujettis, au
+titre de laquelle leur incombe une obligation de résultat ; que le recours à un nouveau prestataire (société D) et
+la mise en place d’un outil de filtrage qui passe désormais en revue toute la base de données clients de la société
+A au regard des listes de personnes sanctionnées, postérieurs au contrôle sur place, sont sans conséquence sur
+le grief, qui est établi ;
+*
+* *
+29. Considérant qu’il résulte de ce qui précède qu’au moment du contrôle, la société A ne respectait pas ses
+obligations de vérification de l’identité et de connaissance des clients porteurs de la monnaie électronique
+qu’elle émet (griefs 1 et 2) ; que les informations recueillies sur le mode de règlement des opérations de
+rechargement des cartes prépayées étaient également insuffisantes (grief 3) ; que plusieurs carences à ses
+obligations d’examen renforcé (grief 4) et de déclaration de soupçon ont en outre été relevées (grief 6) ; que,
+dans un nombre significatif de cas, son représentant permanent n’a pas informé Tracfin d’opérations que la
+société A analysait comme suspectes (grief 5) ; qu’enfin, son dispositif de gel des avoirs était lacunaire (grief
+7) ;
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2018-08
+30. Considérant qu’il convient de tenir compte, dans une certaine mesure, des actions correctrices
+présentées par la société A tant en LCB-FT qu’en matière de gel des avoirs ; que, de plus, le périmètre d’un
+grief a été réduit (grief 1) ;
+31. Considérant que les manquements retenus par la Commission justifient, compte tenu de leur nature et
+de leur durée, le prononcé d’un blâme ; que, pour les mêmes raisons et en tenant compte des éléments
+d’atténuation mentionnés ci-dessus, il y a lieu, dans le respect du principe de proportionnalité au regard de
+l’assise financière de la société A, de prononcer une sanction pécuniaire d’un million d’euros ;
+32. Considérant que, si la société A soutient que la publication de la décision sous forme nominative lui
+serait hautement préjudiciable, notamment dans ses relations avec ses partenaires financiers, un tel préjudice
+ne serait pas disproportionné au regard des manquements retenus qui, ainsi que cela a été rappelé (cf. supra,
+considérant 29), ont notamment porté sur les obligations déclaratives de l’établissement et son dispositif de gel
+des avoirs, et du caractère tardif des actions correctrices mises en œuvre ou annoncées ; qu’il y a donc lieu de
+publier la présente décision sous cette forme au registre de l’ACPR pendant une durée de 5 ans ; qu’elle y sera
+ensuite maintenue sous une forme ne mentionnant plus le nom de l’organisme sanctionné ;
+PAR CES MOTIFS
+DÉCIDE :
+ARTICLE 1ER – Il est prononcé à l’encontre de la société la société A un blâme et une sanction pécuniaire
+d’un million d’euros.
+ARTICLE 2 – La présente décision sera publiée au registre de l’ACPR, pendant 5 ans sous une forme
+nominative puis sous une forme anonyme, et pourra être consultée au secrétariat de la Commission.
+Le Président de la formation de la Commission
+des sanctions
+[Jean-Pierre Jouguelet]
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification et
+dans les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 8

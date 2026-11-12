@@ -1,0 +1,580 @@
+===== Page 1 =====
+CAISSE FÉDÉRALE
+DU CRÉDIT MUTUEL
+NORD EUROPE
+Procédure no 2017-05
+–––––
+Blâme et sanction pécuniaire
+de 1,5 million d’euros
+–––––
+Audience du 28 mars 2018
+Décision rendue le 17 avril 2018
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 15 mai 2017 par laquelle le Président de l’Autorité de contrôle prudentiel et de résolution
+(ci-après l’ « ACPR ») informe la Commission de ce que le Collège de supervision de l’ACPR (ci-après le
+« Collège »), statuant en sa formation de Collège restreint, a décidé d’ouvrir une procédure disciplinaire à
+l’encontre de la Caisse Fédérale du Crédit Mutuel Nord Europe (ci-après la « CFCMNE »), 4 place Richebé,
+59011 Lille Cedex, enregistrée sous le no 2017-05 ;
+Vu la notification des griefs du 15 mai 2017 ;
+Vu les mémoires en défense des 7 août, 8 novembre et 20 décembre 2017 et le courrier du 30 janvier
+2018 par lesquels la CFCMNE conteste partiellement les griefs, présente les actions correctrices prises
+depuis le contrôle et demande que la décision à intervenir soit publiée sous une forme non nominative ;
+Vu les mémoires en réplique des 2 octobre et 1er décembre 2017, par lesquels M. Jean-Louis Faure,
+représentant du Collège, maintient l’ensemble des griefs notifiés ;
+Vu le rapport du 5 février 2018 de Mme Claudie Boiteau, rapporteur, dans lequel celle-ci conclut que 8 des
+10 griefs notifiés sont établis, dont 3 dans un périmètre réduit (griefs 1, 5 et 7), tandis que 2 griefs doivent
+être écartés (griefs 3 et 4) ;
+Vu les courriers du 5 février 2018 convoquant les parties à l’audience et les informant de la composition
+de la Commission et de ce qu’il sera fait droit à la demande présentée par la CFCMNE tendant à ce que cette
+audience ne soit pas publique ;
+Vu les observations présentées le 15 février 2018 par le représentant du Collège, et les 21 février et 21
+mars 2018 par la CFCMNE sur le rapport du rapporteur ;
+Vu les autres pièces du dossier, notamment le rapport de contrôle du 19 juillet 2016 et les documents
+versés par le représentant du Collège et la CFCMNE en réponse aux demandes du rapporteur ;
+Vu le code monétaire et financier (ci-après le « CMF »), notamment ses articles L. 561-6, L. 561-8, L.
+561-10-2, L. 561-15, L. 561-16, L. 612-39, R. 561-12, R. 561-14, D. 561-32-1 et R. 612-35 à R. 612-51,
+dans leur rédaction en vigueur au moment du contrôle sur place ;
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2017-05
+Vu le règlement no 97-02 relatif au contrôle interne des établissements de crédit et des entreprises
+d’investissement (ci-après le règlement no 97-02), notamment ses articles 5, 6 et 11-7 ;
+Vu l’arrêté du 3 novembre 2014 relatif au contrôle interne des entreprises du secteur de la banque, des
+services de paiement et des services d’investissement soumises au contrôle de l’Autorité de contrôle
+prudentiel et de résolution (ci-après l’arrêté du 3 novembre 2014), notamment ses articles 11, 13, 46, 50, 51,
+55 et 71 ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACPR, composée de M. Rémi Bouchez, Président, de MM. Yves
+Breillat et Jean-Pierre Jouguelet, de Mme Elisabeth Pauly et de M. Thierry Philipponnat ;
+Après avoir entendu, lors de sa séance non publique du 28 mars 2018 :
+– Mme Boiteau, rapporteur, assistée de M. Fabien Patris, son adjoint ;
+– Mme Priscille Merle, représentante de la directrice générale du Trésor ;
+– M. Faure, représentant du Collège, assisté de l’adjointe au directeur des affaires juridiques, de l’adjoint
+au directeur de la deuxième direction du contrôle des banques, du chef du service des affaires
+institutionnelles et du droit public, de deux juristes au sein de ce service et d’une juriste au service du
+droit de la lutte anti-blanchiment et du contrôle interne ; M. Faure a proposé à la Commission de
+prononcer un blâme et une sanction pécuniaire qui ne saurait être inférieure à 3 millions d’euros dans
+une décision publiée sous une forme nominative ;
+– la CFCMNE, représentée par son directeur général, assisté du responsable de la lutte contre le
+blanchiment et le financement du terrorisme (ci-après la « LCB-FT »), ainsi que de Mes Marc Perrone
+et Ngoc-Hong Ma, avocats à la Cour (cabinet Linklaters LLP) ;
+Après avoir délibéré en la seule présence de M. Bouchez, Président, de MM. Breillat et Jouguelet, de Mme
+Pauly et de M. Philipponnat, ainsi que de M. Jean-Manuel Clemmer, chef du service de la Commission des
+sanctions faisant fonction de secrétaire de séance ;
+1. Considérant que la CFCMNE est un établissement de crédit qui exerce sous la forme juridique d’une
+société anonyme coopérative de crédit à capital variable ; qu’issue du regroupement, en 1993 et 1994, des
+caisses fédérales « Nord », « Artois-Picardie » et « Champagne-Ardenne », elle a pour objet de gérer les
+intérêts communs des 153 caisses locales qui, ensemble, la détiennent à 100 % et de faciliter leur
+fonctionnement technique et financier ; qu’à ce titre, elle dispose d’un agrément collectif qui bénéficie à
+toutes les caisses qui lui sont affiliées ; qu’elle est de plus la holding du groupe Crédit Mutuel Nord Europe
+(ci-après « CMNE »), composé de cinq pôles, dont celui de la bancassurance France, directement assumé par
+la CFCMNE ; qu’en 2016, le groupe CMNE, qui disposait de 1,28 milliard d’euros de capitaux propres, a
+réalisé un produit net bancaire (ci-après « PNB ») de 1,13 milliard d’euros et un résultat net consolidé de 205
+millions d’euros ; que, sur ce total, la CFCMNE, qui représente le pôle bancassurance France, a réalisé un
+PNB de 454 millions d’euros et un résultat net de 110 millions d’euros ; que le groupe employait 4 748
+collaborateurs fin 2016, dont un peu moins de 4 000 pour le pôle banque en France ;
+2. Considérant que la CFCMNE a fait l’objet d’un contrôle sur place du 23 février au 7 août 2015 portant
+sur le dispositif de LCB-FT ; que ce contrôle a donné lieu à la signature d’un rapport définitif le 19 juillet
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2017-05
+2016 (ci-après le « rapport de contrôle ») ; qu’au vu de ce rapport, le Collège a décidé, lors de sa séance du
+20 avril 2017, d’ouvrir la présente procédure disciplinaire ;
+I. Sur les questions générales soulevées en défense
+par la Caisse Fédérale du Crédit Mutuel Nord Europe
+3. Considérant, en premier lieu, que si l’établissement fait valoir que la mission de contrôle, restée sur
+place plus de 5 mois, a examiné en tout environ 500 dossiers pour n’en retenir qu’une trentaine, réutilisés
+sous différentes qualifications au titre de plusieurs griefs (cf. infra, griefs 1, 2, 3, 5, 8 et 9), l’utilisation, à
+l’appui de plusieurs reproches, des mêmes dossiers, ne méconnaît aucun texte ni aucun principe ; qu’il doit
+néanmoins en être tenu compte dans l’appréciation globale des défaillances retenues à l’encontre d’un
+établissement (voir considérant 57) ; qu’en outre, lorsque l’échantillon examiné est trop faible, il ne peut être
+systématiquement déduit de son analyse un manquement général aux obligations auxquelles l'organisme
+assujetti est soumis ;
+4. Considérant, en second lieu, que la CFCMNE indique que Tracfin, par la voix de l’un de ses
+responsables, a porté une appréciation générale favorable sur son activité déclarative, relevant la qualité des
+déclarations de soupçon (ci-après « DS ») adressées à ce service mais aussi la détection d’opérations de
+financement potentiel du terrorisme ; que, cependant, il revient à l’ACPR d’évaluer la qualité du dispositif
+déclaratif de tout organisme assujetti à son contrôle et d’identifier d’éventuels manquements ; qu’en tout état
+de cause, l’appréciation qui aurait ainsi été portée par un responsable de Tracfin n’est pas de nature à
+remettre en cause les griefs notifiés dans la présente procédure, qui sont relatifs à des faits précis incluant
+plusieurs défauts de DS et retards dans l’envoi de certaines d’entre elles à Tracfin (cf. infra considérants 37 à
+55) ;
+II. Sur le dispositif de suivi et d’analyse des relations d’affaires
+A. Sur les carences dans le paramétrage du dispositif
+5. Considérant que selon l’article 50 de l’arrêté du 3 novembre 2014, qui reprend les dispositions du 2.2
+de l’article 11-7 du règlement no 97-02, les dispositifs de suivi et d’analyse des opérations permettent de
+définir des critères et seuils de significativité spécifiques aux anomalies en matière de blanchiment des
+capitaux et de financement du terrorisme ;
+6. Considérant que selon le grief 1, fondé sur ces dispositions, le dispositif de suivi et d’analyse des
+relations d’affaires mis en place par la CFCMNE reposait principalement sur des catégories d’alertes
+dénommées « signalements ponctuels » (ci-après « SP ») établies en fonction de seuils définis selon le type
+d’opération (numéraire, chèque ou virement) et le type de clientèle concernés ; que ce dispositif ne tenait pas
+suffisamment compte des éléments de connaissance de la clientèle, en particulier des revenus et du
+patrimoine des clients, comme le montre l’examen de 13 dossiers (A1 ; A2 ; A3 ; A4 ; A5 ; A6 ; A7 ; A8 ;
+A9 ; A10 ; A11 ; A12 ; A13) ; qu’il ne portait en outre que sur une partie des virements effectués par la
+clientèle, ceux à destination ou en provenance de pays sur liste « rouge » ou « orange » (dossiers nos A4 à A8
+et A10) ; qu’en conséquence de ces inadaptations, les alertes générées étaient principalement relatives aux
+opérations en espèces des clients - dossiers (n°sA2 ; A3 ; A4 ; A6 ; A7 ; A13 ; A14 ; A15 ; A16 ; A17 ; A18 ;
+A19 ; A20 ; A21 ; A22 ; A23 ; A24 ; A25) - et ne permettaient pas de détecter efficacement d’autres
+opérations inhabituelles ou atypiques ;
+7. Considérant que ni la cartographie des risques, ni les typologies de SP qui en résultent ne
+comprenaient, au moment du contrôle, de règle permettant de détecter une opération atypique au regard des
+revenus ou du patrimoine du client ; que la prise en compte de la situation financière des clients est pourtant
+indispensable à la détection des opérations atypiques qu’ils exécutent ; qu’indépendamment de l’appréciation
+sur les opérations effectuées dans les 13 dossiers mentionnés par la poursuite, la carence reprochée, qui porte
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2017-05
+sur une insuffisance dans le paramétrage des alertes dites « SP », est établie ; qu’au demeurant, dans ces
+dossiers, les opérations effectuées paraissent effectivement incohérentes avec les éléments détenus
+relativement aux revenus et au patrimoine de ces clients ; que, de plus, l’application de seuils à certaines
+catégories de virements seulement, en fonction du pays de provenance ou de destination des fonds, ne permet
+pas de respecter l’obligation ci-dessus rappelée (cf. supra considérant 5) ;
+8. Considérant, toutefois, que la CFCMNE indique, sans être démentie par la poursuite, que, pour les
+clients ayant fait l’objet d’une déclaration de soupçon (ci-après « DS ») ou appartenant à la catégorie des
+personnes politiquement exposées (ci-après « PPE »), elle avait, au moment du contrôle, prévu des alertes sur
+tout type d’opérations, y compris les virements quelle que soit leur provenance ou leur destination ; que, par
+ailleurs, elle fait valoir que si la grande majorité des dossiers examinés par la mission de contrôle sont relatifs
+à des opérations en espèces, cet échantillon n’est pas représentatif, comme en atteste une pièce qu’elle
+produit selon laquelle environ un tiers seulement des 11 160 SP effectués en 2016 étaient relatifs à des
+opérations en espèces ;
+9. Considérant que, sous ces réserves, qui sont fondées, le grief 1, relatif principalement au défaut de prise
+en compte à la date du contrôle, dans le dispositif de détection d’opérations atypiques des clients, des
+éléments essentiels que sont le revenu et le patrimoine des clients, est établi ; que les projets d’évolution du
+système d’information en cours de développement, qui ont notamment pour but d’y inclure ces informations,
+s’analysent comme des actions correctrices, sans incidence à cet égard ;
+B. Sur le traitement des alertes
+10. Considérant que selon l’article 46 de l’arrêté du 3 novembre 2014, qui reprend les dispositions du
+point 2.2 de l’article 11-7 du règlement no 97-02, les établissements assujettis se dotent de dispositifs de suivi
+et d’analyse de leurs relations d’affaires, fondés sur la connaissance de leur clientèle, permettant notamment
+de détecter les opérations qui constituent des anomalies au regard du profil des relations d’affaires et qui
+pourraient faire l’objet d’un examen renforcé mentionné au II de l’article L. 561-10-2 du CMF ou d’une
+déclaration prévue à l’article L. 561-15 du même code ;
+11. Considérant que selon le grief 2, fondé sur ces dispositions, les SP ne faisaient pas l’objet d’une
+analyse suffisante au sein des caisses locales par les chargés de clientèle ou les directeurs de caisse avant
+transmission d’une pré-déclaration de soupçon (ci-après « PDS ») au « service LAB » de la CFCMNE en
+charge des envois de DS à Tracfin pour l’ensemble des caisses locales ; qu’en particulier, dans 5 dossiers,
+l’analyse n’a porté que sur la ou les opérations objet de l’alerte, sans que le fonctionnement général du
+compte ne soit examiné aux fins de détection, le cas échéant d’autres opérations atypiques (dossiers nos A1,
+A2, A4, A5 et A7 mentionnés au considérant 6) ;
+12. Considérant que la CFCMNE, qui ne conteste pas le grief, fait valoir qu’elle avait engagé des actions
+correctrices avant le contrôle sur place, qui ont notamment consisté en une amélioration des procédures, une
+adaptation des formations et un renforcement des contrôles de premier et de second niveau ; que ces
+mesures, qui ont été prolongées après la mission de contrôle, lui ont permis d’améliorer le traitement des
+alertes mais ne sont cependant pas, en raison de la date à laquelle elles ont, pour la plupart, été mises en
+œuvre, de nature à remettre en cause le grief 2, qui est établi ;
+III. Sur le contrôle interne du dispositif de lutte
+contre le blanchiment et le financement du terrorisme
+A. Sur le non-respect des procédures internes
+13. Considérant que selon l’article 71 de l’arrêté du 3 novembre 2014, qui reprend les dispositions du
+point 9 de l’article 11-7 du règlement no 97-02, le contrôle permanent du dispositif de LCB-FT fait partie du
+dispositif de contrôle de la conformité ; qu’aux termes du a) de l’article 11 du même arrêté, qui reprend en
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2017-05
+substance les dispositions du a) de l’article 5 du règlement no 97-02, le système de contrôle des opérations et
+des procédures internes a pour objet de vérifier « dans des conditions optimales de sécurité, de fiabilité et
+d’exhaustivité (…), que les opérations réalisées par l’entreprise, ainsi que l’organisation et les procédures
+internes, sont conformes aux dispositions propres aux activités bancaires et financières, qu’elles soient de
+nature législative ou réglementaire, nationales ou européennes directement applicables, ou qu’il s’agisse de
+normes professionnelles et déontologiques, ou d’instructions des dirigeants effectifs prises notamment en
+application des stratégies et politiques régissant la prise, la gestion, le suivi et la réduction des risques ainsi
+que des orientations et de la politique de surveillance de l’organe de surveillance » ;
+14. Considérant que selon le grief 3, fondé sur ces dispositions, les procédures internes relatives au
+traitement des alertes « SP » ne sont pas respectées ; qu’en effet les procédures dites « memento Tracfin » et
+« procédure réseau », qui prévoient la création d’un « dossier d’analyse » ou d’un « dossier d’analyse
+approfondie » lorsqu’il ressort du traitement d’une alerte que l’opération appelle un examen renforcé, n’ont
+pas été respectées dans 4 dossiers (nos A4, A6, A16 et A18 mentionnés au considérant 6) ; que, de même, les
+dispositions de ces procédures qui prévoient l’envoi au « service LAB » d’une PDS lorsque l’analyse de
+l’alerte ne permet pas d’établir « l’origine licite d’une somme ou d’une opération » ou « lorsque le contexte
+de l’opération reste flou et que les demandes de clarifications n’aboutissent pas » n’ont pas été respectées
+dans 2 dossiers (no A21 mentionné au considérant 6 et no A26) ; que des carences ont été constatées dans la
+mise à jour des dossiers de clients classés en « risque normal » et faisant donc l’objet de « diligences
+normales » impliquant, aux termes de la classification des risques, une actualisation tous les 3 ans (dossiers
+nos A7, A11 et A12 mentionnés au considérant 6) ;
+15. Considérant que dans les 10 dossiers mentionnés par la poursuite, nonobstant les précisions apportées
+pour 3 d’entre eux par la CFCMNE (nos A11, A14 et A26), les procédures internes n’ont pas été respectées,
+ce qui atteste, dans ces 10 cas, d’une défaillance du système de contrôle des opérations et procédures internes
+mentionné au a) de l’article 11 de l’arrêté précité, au regard des exigences de sécurité, de fiabilité et
+d’exhaustivité qu’il comporte ; que dans les dossiers no A11 et no A14, la CFCMNE n’apporte pas
+d’éléments montrant que les informations qu’elle détenait étaient à jour à la date du contrôle ; que dans le
+dossier no A26, le classement par la caisse locale du dossier d’analyse faisant apparaître un soupçon de
+fraude fiscale puis l’absence de PDS relative à la poursuite des opérations suspectes du client après mars
+2013 ne sont pas conformes aux procédures ci-dessus mentionnées ;
+B. Sur l’insuffisance du contrôle permanent de second niveau
+16. Considérant qu’ainsi qu’il a été rappelé, l’article 71 de l’arrêté du 3 novembre 2014 dispose que le
+contrôle permanent du dispositif de LCB-FT fait partie du dispositif de contrôle de la conformité ; que
+l’article 13 de cet arrêté (article 6 du règlement no 97-02) dispose que « Le contrôle permanent de la
+conformité, de la sécurité et de la validation des opérations réalisées et du respect des autres diligences liées
+aux missions de la fonction de gestion des risques est assuré, avec un ensemble de moyens adéquats, par : / -
+certains agents, au niveau des services centraux et locaux, exclusivement dédiés à cette fonction ; / - d’autres
+agents exerçant des activités opérationnelles. » ; que l’article 11 de ce texte (article 5 de l’arrêté no 97-02)
+décrit l’objet d’un système de contrôle des opérations et procédures internes ;
+17. Considérant que selon le grief 4, fondé sur ces dispositions, les contrôles de second niveau du
+dispositif de LCB-FT sont insuffisants ; qu’en particulier, le « service LAB » de la CFCMNE qui est en
+charge des contrôles permanents de second niveau du dispositif de LCB-FT n’a, à ce titre, que très
+partiellement exploité les bases de données « X » et « Y » pendant une longue période, alors même que ces
+bases contribuent pour une part importante à la surveillance des opérations et à l’activité déclarative ;
+qu’ainsi, seulement 4 mouvements sur 514 signalés en 2013 et 107 mouvements sur 1 165 signalés en 2014
+dans la base « X » ont été analysés ; que, s’agissant de la base « Y », aucune opération n’a été analysée par le
+« service LAB » sur les 9 035 opérations détectées entre janvier et juin 2015 ; qu’en conséquence, les
+contrôles de second niveau du dispositif de LCB-FT de CFCMNE étaient insuffisants ;
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2017-05
+18. Considérant que la CFCMNE ne conteste pas utilement les insuffisances relevées, qui tiennent à ce
+que les outils à la disposition du « service LAB » pour compléter, au second niveau, le travail de détection
+des opérations atypiques effectué au premier niveau n’ont pas été correctement exploités ; qu’en effet, il ne
+ressort pas du dossier qu’à la date du contrôle, les informations apportées par les bases « X » et « Y » étaient
+d’ores et déjà remplacées par celles issues d’autres outils opérationnels à la disposition des services de
+second niveau, notamment la base « Z » ; qu’au demeurant, en 2014, soit juste avant le début de la mission
+de contrôle, l’exploitation de la base « X » avait été à l’origine du quart des DS adressées à Tracfin par
+l’établissement ; que si la CFCMNE fait valoir que les carences relevées résultent de la période particulière
+au cours de laquelle la mission de contrôle s’est déroulée, cet argument, ainsi que les autres circonstances
+évoquées, n’est pas de nature à répondre au grief, qui est établi ;
+C. Sur l’accès à l’information des déclarants et correspondants Tracfin
+19. Considérant que selon l’article 55 de l’arrêté du 3 novembre 2014 (point 2.4 de l’article 11-7 du
+règlement no 97-02), les établissements veillent à ce que le déclarant et le correspondant Tracfin aient accès à
+toutes les informations nécessaires à l’exercice de leurs fonctions et mettent à leur disposition des outils et
+des moyens pour qu’ils procèdent, selon leurs compétences respectives, aux DS et au traitement des
+demandes d’information de Tracfin ;
+20. Considérant que selon le grief 5, fondé sur ces dispositions, le chef et l’adjoint du « service LAB » de
+la CFCMNE, déclarants et correspondants Tracfin pour le pôle bancassurance France de l’établissement,
+n’ont pas accès à toutes les informations nécessaires à l’exercice de leur mission ; que cela est illustré par 4
+dossiers (nos A3, A15, A25 mentionnés au considérant 6 et no A27), dans lesquels les demandes adressées
+par le « service LAB » aux caisses locales sont restées sans réponse ; que de surcroît, la CFCMNE n’avait
+pas mis en place de procédure d’escalade permettant à son « service LAB » d’être assuré de l’accès aux
+informations en provenance des caisses locales ;
+21. Considérant, tout d’abord, que si la CFCMNE soutient que les difficultés relevées dans 4 dossiers
+s’expliquent par la nécessité de prendre contact avec les clients concernés et qu’en outre ses correspondants
+et déclarants Tracfin disposent des outils et moyens nécessaires pour effectuer eux-mêmes les requêtes qu’ils
+jugent utiles, il n’appartient pas aux salariés du « service LAB » de solliciter directement auprès du client les
+explications complémentaires nécessaires à la compréhension de certaines opérations ; que, dans ces
+dossiers, les demandes du « service LAB » étaient à la date du contrôle restées sans réponse, alors que ce
+service aurait dû, le cas échéant, être informé de l’impossibilité pour les agences d’obtenir du client qu’il
+fournisse des explications ; qu’ainsi les 4 dossiers évoqués, quoique en nombre limité, illustrent les
+difficultés d’accès du « service LAB » aux informations nécessaires à l’exercice de ses missions ; qu’il
+n’existait pas, à la date du contrôle, de procédure organisée d’escalade permettant de surmonter de telles
+difficultés, aucun élément du dossier ne montrant au demeurant qu’elle aurait été pratiquée de manière
+informelle ; que la mise en place, à partir du 26 septembre 2017, d’un processus d’escalade, constitue une
+action correctrice ; qu’ainsi, le grief est établi ;
+D. Sur l’insuffisance des moyens humains affectés à l’analyse
+des anomalies du dispositif de LCB-FT et au contrôle permanent
+22. Considérant que selon l’article 51 de l’arrêté du 3 novembre 2014, reprenant les dispositions du point
+2.3 de l’article 11-7 du règlement no 97-02, les entreprises assujetties se dotent, selon des modalités adaptées
+à leur taille, à la nature de leurs activités et aux risques identifiés par la classification des risques de
+blanchiment des capitaux et de financement du terrorisme, de moyens humains suffisants pour analyser les
+anomalies détectées par les dispositifs susmentionnés ;
+23. Considérant que selon le grief 6, fondé sur ces dispositions, le « service LAB » est en charge de
+l’analyse et du traitement des PDS transmises par les 153 caisses locales, de la transmission des DS à Tracfin
+ainsi que de l’exécution d’une partie des contrôles de second niveau du dispositif de LCB-FT ; qu’à la date
+de la mission de contrôle, son effectif de 5 personnes était manifestement insuffisant pour lui permettre
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2017-05
+d’accomplir toutes ses tâches ; que cela a eu pour conséquences, d’une part, d’augmenter le stock de PDS en
+attente de traitement de 120 à 177 entre fin décembre 2014 et juin 2015 ainsi que le nombre de défauts de DS
+et de déclarations tardives et, d’autre part, d’empêcher ce service, entre début 2015 et août 2015, d’effectuer
+les contrôles de second niveau, dont il est pourtant chargé, du dispositif de LCB-FT ; qu’ainsi ce service n’a
+pas été en mesure d’exploiter correctement les bases « Y » et « X » ;
+24. Considérant que la CFCMNE fait valoir que l’accroissement de PDS à la fin de 2014, était
+conjoncturel et résultait d’une meilleure sensibilisation des caisses locales aux problématiques de LCB-FT ;
+qu’elle avait en outre renforcé ses moyens dès janvier 2015, soit avant le début de la mission de contrôle, et a
+continué à le faire ensuite pour porter l’effectif de ce service, qui était de 4 personnes seulement jusqu’à fin
+2014, à 9 personnes en 2017 ; que, toutefois, le stock de PDS en cours de traitement est passé d’une
+vingtaine au 31 mars 2014 à 279 au 31 décembre 2015 ; qu’il s’élevait encore à 259 PDS au 31 décembre
+2016 ; que les délais moyens de transmission des DS à Tracfin demeuraient en 2016 largement supérieurs à
+leur niveau de 2014 ; que le défaut d’analyse pendant plusieurs mois des bases « Y » et « X » démontre
+également l’insuffisance, à la date du contrôle, des moyens dont ce service était doté ; que le grief est donc
+établi ;
+IV. Sur le respect des obligations de vigilance à l’égard de la clientèle
+A. Sur l’obligation de connaissance de la clientèle
+25. Considérant que, selon les articles L. 561-6 et R. 561-12 du CMF, les organismes assujettis doivent,
+avant d’entrer en relation d’affaires avec un client et pendant toute la durée de celle-ci, recueillir, analyser et
+mettre à jour les informations relatives à l’objet et à la nature de cette relation ainsi que tout autre élément
+d’information pertinent sur ce client ;
+26. Considérant que selon le grief 7, fondé sur ces dispositions, les informations relatives à la
+connaissance de la clientèle recueillies par CFCMNE sont insuffisantes ; qu’ainsi, dans 13 dossiers sur les
+36 examinés par la mission de contrôle, celles relatives à la profession dans deux dossiers (no A1 mentionné
+au considérant 6 et no A28), aux revenus ou au patrimoine, sont soit manquantes (dossiers nos A1, A3, A14,
+A18 et A25 mentionnés au considérant 6 et nos A29, A30 et A31), soit inexactes (dossiers nos A2, A7 et A8
+mentionnés au considérant 6) ;
+27. Considérant que la CFCMNE ne produit aucun élément conduisant à remettre en cause les constats de
+la mission de contrôle selon lesquels les informations recueillies au sujet de ses clients étaient insuffisantes ;
+qu’il appartient à tout organisme assujetti de disposer notamment, avant d’entrer en relation d’affaires,
+d’informations sur les revenus et le patrimoine du client ; que l’existence d’indicateurs pertinents dans les
+bases de données ainsi que le suivi des opérations par les chargés de clientèle supposent que les dossiers
+clients soient suffisamment renseignés ; que le recueil des informations sur la profession du client dans 97 %
+de l’ensemble des dossiers examinés lors du contrôle ne suffit pas à compenser cette carence ; que le nombre
+de DS adressées par la CFCMNE à Tracfin ne permet pas non plus d’établir que celle-ci disposait, à la date
+du contrôle, d’informations actualisées sur la totalité de ses clients ; que les actions correctrices présentées
+sont sans conséquence sur le grief, qui est établi ;
+B. Sur les défauts d’examen renforcé
+28. Considérant que selon le II de l’article L. 561-10-2 du CMF, les organismes assujettis effectuent un
+examen renforcé de toute opération particulièrement complexe ou d’un montant inhabituellement élevé ou ne
+paraissant pas avoir de justification économique ou d’objet licite ; que dans ce cas, ils se renseignent auprès
+du client sur l’origine des fonds et la destination de ces sommes ainsi que sur l’objet de l’opération et
+l’identité de la personne qui en bénéficie ;
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2017-05
+29. Considérant que selon le grief 8, fondé sur ces dispositions, 5 dossiers parmi ceux examinés par la
+mission de contrôle présentent un défaut d’examen renforcé ;
+30. Considérant que dans le dossier [des époux] A2, respectivement employé et gérante d’une épicerie-
+primeurs, dont les revenus annuels déclarés s’élevaient à 11 000 euros de salaires et 43 000 euros de revenus
+fonciers, pour un patrimoine évalué à 1,9 million d’euros, les mouvements enregistrés entre janvier 2013 et
+juin 2015 sur un compte personnel, soit 71 dépôts d’espèces pour une valeur totale de 105 000 euros, 57
+remises de chèques pour un montant de 71 500 euros ainsi que deux retraits d’espèces, l’un de 65 000 euros
+le 22 février 2014 et l’autre de 35 000 euros le 12 mars 2015, auraient dû donner lieu à un examen renforcé
+en raison de leurs montants inhabituellement élevés et de leur absence apparente de justification économique
+; que les deux dernières opérations ont généré deux alertes, classées sans suite car les clients auraient indiqué
+que ces retraits avaient pour but l’acquisition d’une maison familiale en Algérie ainsi que l’achat de
+matériaux pour la réalisation de travaux dans leur résidence principale, sans toutefois que la CFCMNE ait
+demandé à ses clients de produire des justificatifs à cet égard ; qu’ainsi, le manquement est établi ;
+31. Considérant que dans le dossier [de M.] A12, enregistré dans la base tiers de la CFCMNE comme le
+gérant d’un café-tabac-loto, le compte professionnel du client a fait l’objet, entre 2013 et 2015, de nombreux
+dépôts en espèces, de même que d’importants encaissements ou débits de chèques (431), dont les montants
+ont atteint respectivement plus de 1,6 million d’euros pour les espèces, 60 000 euros pour les chèques
+encaissés, et près de 2 millions d’euros pour les chèques émis ; que de tels mouvements auraient dû, au
+regard du dernier chiffre d’affaires connu, remontant à près de 10 ans (soit 130 000 euros hors taxes en 2006)
+et du dernier revenu mensuel connu du client, soit 158 euros en 2010, donner lieu à un examen renforcé ;
+que, malgré l’examen de quelques chèques, insuffisant au regard du nombre d’opérations enregistrées sur le
+compte, le manquement est établi ;
+32. Considérant que dans le dossier [de M.] A16, infirmier libéral de 45 ans, percevant des revenus
+mensuels de 2 000 euros et disposant d’une épargne au CMNE de 36 000 euros, la réception le 7 novembre
+2014 d’un virement de 67 000 euros en provenance d’une autre banque, puis le retrait de 66 000 euros en
+espèces auraient dû donner lieu à un examen approfondi en raison du montant inhabituellement élevé de
+cette opération au regard des revenus du client ; que l’information mentionnée par le chargé de clientèle, à la
+suite du signalement ponctuel effectué, selon laquelle ce client était en instance de divorce, ne peut en tenir
+lieu ; que le reproche est établi ;
+33. Considérant que dans le dossier [de Mme] A25, psychologue psychanalyste, dont les revenus n’étaient
+pas renseignés dans la base tiers, les 5 remises de chèques effectuées entre janvier 2014 et juin 2015, pour un
+montant cumulé de 114 000 euros, et les 107 retraits d’espèces, pour un montant total de près de 179 000
+euros, ont généré des alertes qui n’ont pas été traitées par la caisse locale concernée, cette dernière n’ayant au
+demeurant pas répondu, au moment du contrôle, aux demandes d’éclaircissements formulées en janvier 2015
+par le « service LAB » ; que si la CFCMNE se borne à faire valoir en défense que, devant le mutisme dont a
+fait preuve sa cliente, elle a clôturé ses comptes en septembre 2016, le défaut de coopération de la cliente ne
+peut permettre de justifier l’inaction de l’établissement sur une période aussi longue ; que le manquement est
+établi ;
+34. Considérant que dans le dossier [de M.] A32, la réception en décembre 2014 par ce client, artisan à la
+retraite âgé de 83 ans en 2015 et percevant une pension de 744 euros et des revenus fonciers de 2 972 euros
+par mois, qui avait été placé en surveillance renforcée quelques mois plus tôt, d’un virement de 117 640
+dollars américains en provenance d’Uruguay, aurait dû donner lieu à un examen renforcé ; que pourtant, elle
+n’a entraîné qu’un « SP 638 » (« opé Pays liste rouge à analyser »), classé sans suite au motif que l’intéressé
+disposerait d’un patrimoine important en Espagne d’où il rapatrie des fonds ; que les explications de la
+CFCMNE sur l’origine des fonds, qui proviendraient de la « vente d’une hacienda qu’il détenait avec des
+amis », ne sont pas cohérentes avec les informations détenues au sujet de ce client ; qu’elles ne sont en outre
+étayées par aucune pièce ; que le reproche est donc établi ;
+35. Considérant ainsi que le grief 8 est établi dans son intégralité ;
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2017-05
+V. Sur le respect des obligations déclaratives
+A. Sur les défauts de déclaration de soupçon
+36. Considérant que selon les articles L. 561-15 et R. 561-14 du CMF, les établissements doivent déclarer
+à Tracfin les opérations portant sur des sommes dont ils savent, soupçonnent ou ont de bonnes raisons de
+soupçonner qu’elles proviennent d’une infraction passible d’une peine privative de liberté supérieure à un an,
+d’une fraude fiscale ou sont liées au financement du terrorisme ; que l’article D. 561-32-1 de ce code
+énumère plusieurs critères devant conduire à effectuer une déclaration au titre du II de l’article L. 561-15,
+dont le quatrième relatif à « La réalisation d’opérations financières incohérentes au regard des activités
+habituelles de l’entreprise ou d’opérations suspectes dans des secteurs sensibles aux fraudes à la TVA de
+type carrousel, tels que les secteurs de l’informatique, de la téléphonie, du matériel électronique, du matériel
+électroménager, de la hi-fi et de la vidéo » et le quinzième relatif au « dépôt par un particulier de fonds sans
+rapport avec son activité ou sa situation patrimoniale connues » ;
+37. Considérant que selon le grief 9, fondé sur ces dispositions, un défaut de DS est reproché relativement
+aux opérations réalisées dans 13 dossiers ;
+38. Considérant que dans le dossier [de Mme] A1, cliente âgée de 28 ans en 2015 enregistrée dans la base
+tiers de la CFCMNE sans précision quant à sa profession, le dépôt d’espèces de 18 000 euros le
+1er septembre 2014 a été expliqué par la vente d’une caravane ; que, pourtant, le certificat de cession fourni
+par la cliente comportait des indications incohérentes avec ses dires ; qu’en outre, Mme A1, dont ni les
+revenus ni le patrimoine n’étaient connus de CFCMNE, a effectué de nombreuses remises de chèques pour
+un montant total de près de 45 000 euros entre janvier 2013 et juin 2015, sans que ces opérations donnent
+lieu à l’envoi d’une DS ;
+39. Considérant que dans le dossier [des époux] A3, dont les revenus mensuels étaient inconnus de
+l’établissement et dont l’épargne au CMNE s’élevait à 36 000 euros en 2015, les 7 versements d’espèces
+effectués en avril 2014, soit 89 000 euros en tout, ne paraissaient pas cohérents avec leur situation
+personnelle ; que, malgré une alerte, ce dossier n’a pas connu de suite, en l’absence de réponse par la caisse
+concernée aux demandes d’explication du « service LAB » ; que si la CFCMNE soutient que de telles
+opérations étaient cohérentes avec la surface financière de M. A3, qui dirige l’entreprise familiale B dont le
+chiffre d’affaires de 2015 s’élevait à 4,9 millions d’euros, il ne ressort pas du dossier de procédure que ces
+éléments d’information étaient connus de la CFCMNE au moment de la réalisation des opérations
+litigieuses ; qu’ils ne peuvent en outre justifier les dépôts d’espèces effectués ; que le manquement aux
+dispositions de l’article II de l’article L. 561-15 et du critère 15 ci-dessus rappelé est établi ;
+40. Considérant que dans le dossier [des époux] A4, la réception sur le compte joint de ces clients, entre
+janvier 2013 et juin 2015, de 120 000 euros provenant de virements de M. C et de la société D, est
+incohérente avec les informations sur la profession des clients, respectivement « en recherche d’emploi ou
+gérante de la société E » et policier, ainsi que sur leurs revenus (4 000 euros en tout) et leur patrimoine
+(23 000 euros) ; que la circonstance que le même compte joint ait enregistré trois remises de chèques pour un
+montant cumulé de près de 126 000 euros en 2013 et 2014 et un dépôt d’espèces de 22 000 euros le 1er août
+2014 paraît également incohérente avec les informations dont disposait la CFCMNE ; qu’il en est de même
+des 85 virements débiteurs, pour un montant cumulé de 364 000 euros et des deux chèques, l’un de
+57 000 euros le 6 août 2014 et l’autre de 40 000 euros le 25 juin 2015, dont les bénéficiaires n’ont pas été
+identifiés ; qu’en dépit de l’alerte générée par le dépôt d’espèces du 1er août 2014, la caisse locale concernée
+n’a constitué aucun dossier d’analyse ; que les explications de la CFCMNE, selon lesquelles 99 % des
+virements ne lui paraissent pas pouvoir être regardés comme suspects, alors que les chèques du 6 août 2014
+et du 25 juin 2015 ont de plus été contrôlés, ne suffisent pas à justifier les écarts importants entre les
+opérations en cause et les revenus connus des clients ; qu’en outre, l’origine des fonds du dépôt de
+22 000 euros en espèces demeure inexpliquée ; que ces éléments auraient dû conduire la CFCMNE à
+procéder à une DS au titre du II de l’article L. 561-15 et du critère 15 ci-dessus rappelé ;
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2017-05
+41. Considérant que dans le dossier [de M.] A6, âgé de 19 ans en 2014, serveur et commis dans le
+commerce de restauration de son père, dont les revenus mensuels de 762 euros étaient remis par chèque sur
+son compte, la réception le 29 octobre 2014 d’un virement de 9 000 euros provenant d’un compte ouvert en
+Allemagne au nom de M. F suivie du retrait en espèces, entre le 25 septembre 2014 et le 5 novembre 2014,
+de 8 250 euros dont 7 000 euros ce dernier jour auraient dû être déclarés ; que ces opérations ont seulement
+donné lieu à une alerte, confirmée de plus par la caisse locale qui avait indiqué en commentaire « que cette
+opération pourrait s’assimiler à un abus de biens sociaux ou un blanchiment d’argent compte tenu des
+indications fournies par le client » ; que cette alerte étant demeurée sans suite, le manquement est établi ;
+42. Considérant que dans le dossier [de M.] A8, gérant de la SCI G, le compte personnel du client a
+enregistré des mouvements créditeurs (chèques et virements) évalués à près de 900 000 euros, sans rapport
+avec sa situation la plus récente connue de la CFCMNE, selon laquelle il avait en 2012 perçu 47 000 euros
+de revenus fonciers, et incohérents avec les données qui figuraient dans la base tiers à son sujet ; qu’aucune
+alerte n’a été générée dans ce dossier ; que ces opérations auraient dû conduire à procéder à une DS au titre
+du II de l’article L. 561-15 et du critère 15 ci-dessus rappelé, ce que ne conteste pas la CFCMNE ;
+43. Considérant que dans le dossier [de M.] A9, qui préside la société « H», non détentrice d’un compte
+au Crédit mutuel, le total des mouvements enregistrés sur le compte personnel du client a dépassé son salaire
+connu (1 652 euros en mars 2014) et les nombreux dépôts et retraits d’espèces enregistrés entre août 2014 et
+début juillet 2015 sur ce compte, pour environ 27 000 euros et 29 000 euros respectivement, n’ont pas été
+justifiés ; que ce compte personnel a de plus enregistré au crédit des chèques émis par la société « H », pour
+un montant cumulé d’environ 27 000 euros au cours de cette même période, et par d’autres sociétés, pour un
+montant de 17 000 euros ; que parmi les chèques encaissés en figurait un établi à l’ordre de la société H, sur
+lequel la mention du bénéficiaire avait été rayée et remplacée par le nom de M.A9 ; que le défaut de DS est
+ainsi établi ;
+44. Considérant que dans le dossier [de M.] A10, entre janvier 2014 et juin 2015, la réception de 24
+virements nationaux pour un montant total de 243 800 euros et d’un virement international de 168 000 euros
+provenant d’une SCI, au sujet de laquelle la CFCMNE ne disposait d’aucune information, de même que la
+remise de 2 chèques d’un montant total de 46 000 euros, était incohérente avec les éléments de connaissance
+de ce client, qui percevait une allocation chômage ; que ces opérations, qui n’ont fait l’objet d’aucune alerte,
+auraient dû conduire à procéder à une DS au titre du II de l’article L. 561-15 et du critère 15 de l’article D.
+561-32-1 du CMF, ce que ne conteste pas la CFCMNE ;
+45. Considérant que dans le dossier [de M.] A20, les opérations enregistrées sur le compte, dont des
+versements en espèces de plus de 66 000 euros entre le 1er janvier 2013 et le 20 juillet 2015, étaient
+totalement incohérentes avec les informations détenues au sujet de la profession du client, chef d’équipe
+ferrailleur chez la société I, et le montant de ses revenus connus, soit 2 052 euros par mois ; que ces
+éléments, qui n’ont entraîné aucune alerte, auraient dû conduire à procéder à une DS au titre du II de l’article
+L. 561-15 et du critère 15 ci-dessus rappelé, ce que ne conteste pas la CFCMNE ;
+46. Considérant que, dans le dossier [de Mme] A23, les 54 dépôts d’espèces effectués, entre le 1er janvier
+2013 et le 16 juillet 2015, pour un montant cumulé de près de 91 000 euros, n’étaient pas justifiés au regard
+des éléments de connaissance de cette cliente, étudiante disposant d’un peu plus de 2 000 euros de revenus
+mensuels ; que le manquement est établi ;
+47. Considérant que dans le dossier [de Mme] A28, qui a indiqué percevoir des salaires en espèces tout en
+refusant d’indiquer sa profession, les 15 dépôts d’espèces pour un montant total de 3 780 euros effectués
+entre le 4 avril et le 10 octobre 2014 auraient dû être déclarés à Tracfin ; que seule une PDS a, dans ce
+dossier, été établie, puis classée sans suite le 30 juin 2015 ; que le manquement est établi ;
+48. Considérant que dans le dossier [de M.] A29, la réception d’un peu plus de 35 000 euros de virements
+en provenance de la Belgique était incohérente avec les éléments d’information détenus à son sujet ; qu’il
+avait en effet, lors de l’ouverture de son compte mi-2014, indiqué exercer la profession de « petit détaillant
+Autorité de contrôle prudentiel et de résolution 10
+
+===== Page 11 =====
+Décision de la Commission des sanctions – procédure no 2017-05
+en quincaillerie » avant de créer, en octobre 2014, l’EURL J dont l’activité indiquée était « le commerce de
+voitures légères » ; que toutefois les virements créditeurs ont débuté avant la création de cette EURL ; que
+ces éléments ont conduit la caisse locale à refuser à M. A29 l’ouverture d’un compte professionnel, à clôturer
+son compte personnel et à transmettre au « service LAB » le 20 janvier 2015 une PDS qui a été classée sans
+suite, alors même qu’en 2015, 25 autres virements, pour un montant total légèrement inférieur à 43 000 euros
+ont été enregistrés ; que ces éléments auraient dû conduire à procéder à une DS au titre du II de l’article L.
+561-15 et du critère 4 ci-dessus rappelé ;
+49. Considérant que dans le dossier [de M.] A30, président de l’association K, créée en 2013, l’exécution
+en 2014 de mouvements entre le compte de cette association et celui du client, mais aussi de deux autres
+personnes physiques, le trésorier de l’association, M. L, et une troisième personne, M. M, auraient dû
+conduire la CFCMNE à déclarer ces opérations à Tracfin, ce que la CFCMNE ne conteste pas ; que
+notamment, en 2014, l’association a versé un peu plus de 10 000 euros à ces trois personnes et le triple au
+premier semestre 2015 ; qu’en outre, le client a émis, au profit de M. M, un chèque qui a rendu son compte
+débiteur puis a remis sur son compte un chèque de 4 900 euros émis par ce dernier, tiré sur un autre
+établissement bancaire, rejeté ensuite pour défaut de provision ; que malgré le refus de l’intéressé de
+s’expliquer sur ces opérations, aucune DS n’avait été adressée à Tracfin au moment du contrôle, malgré
+l’envoi d’une PDS au « service LAB » le 1er avril 2015 ; que le manquement est établi ;
+50. Considérant que dans le dossier [de Mme] A33, âgée de 24 ans au moment des faits, sans activité et
+dont les ressources mensuelles connues s’élevaient à 930 euros en 2010, la cliente a remis à l’encaissement
+le 26 septembre 2014 un chèque d’un montant de 7 500 euros émis par la société « N », rejeté pour vol le 3
+octobre suivant ; qu’entre-temps, elle avait tenté d’effectuer plusieurs retraits d’espèces dont un, le 1er
+octobre 2014, avait été bloqué ; que, malgré l’établissement d’une PDS, aucune DS n’a été établie, ce que la
+CFCMNE tente de justifier par le dépôt d’une plainte pour vol de chèque ; qu’une DS aurait dû être réalisée
+par la CFCMNE avant la date de la réception de la réquisition judiciaire relative à ces faits, le 9 octobre
+2014 ;
+51. Considérant ainsi que le grief 9 est intégralement établi ;
+B. Sur les déclarations de soupçon tardives
+52. Considérant que selon l’article L. 561-16 du CMF, les organismes financiers sont tenus, lorsqu’une
+opération devant faire l’objet de la déclaration prévue à l’article L. 561-15 a déjà été réalisée, soit parce qu’il
+a été impossible de surseoir à son exécution, soit que son report aurait pu faire obstacle à des investigations
+portant sur une opération suspectée de blanchiment des capitaux ou de financement du terrorisme, soit qu’il
+est apparu postérieurement à sa réalisation qu’elle était soumise à cette déclaration, d’en informer sans délai
+Tracfin ;
+53. Considérant que selon le grief 10, fondé sur ces dispositions, les délais de transmission des DS par la
+CFCMNE sont excessifs, ce qui est dû principalement aux délais des traitements des PDS ; que parmi les 36
+DS adressées à Tracfin pour le pôle bancassurance France en juin 2015, 19 ont été envoyées dans un délai
+non justifié au regard des diligences menées ;
+54. Considérant que le reproche porte sur le délai constaté entre l’envoi d’une PDS au « service LAB » et
+l’envoi d’une DS à Tracfin ; que dans les 19 dossiers mentionnés par la poursuite, la CFCMNE n’apporte
+aucun élément relatif à l’analyse approfondie effectuée à leur sujet qui permettrait d’expliquer par les
+diligences faites le délai moyen de 191 jours ; que l’obligation d’envoyer les DS sans délai s’imposant dans
+chaque dossier, l’abaissement invoqué des délais moyens au terme d’actions correctrices, de 77 jours en
+2015 à 58 jours au 30 juin 2016, qui constitue une évolution favorable, ne suffit pas à répondre au grief;
+55. Considérant ainsi que le grief 10 est entièrement établi ;
+Autorité de contrôle prudentiel et de résolution 11
+
+===== Page 12 =====
+Décision de la Commission des sanctions – procédure no 2017-05
+*
+* *
+56. Considérant qu’il résulte de ce qui précède que le dispositif automatisé de suivi de la relation
+d’affaires de la CFCMNE était imparfaitement paramétré et ne prenait pas en compte les revenus et le
+patrimoine du client pour détecter les opérations inhabituelles ou atypiques (grief 1), tandis qu’une part trop
+faible des alertes générées était, à cette même date, analysée afin de déterminer les opérations devant
+finalement donner lieu à un examen renforcé ou à l’envoi d’une PDS (grief 2), en contradiction avec les
+procédures internes de l’établissement (grief 3) ; que son dispositif de contrôle de second niveau présentait
+des carences (grief 4) ; que l’anomalie que représente le défaut de réponse, par les caisses locales, aux
+demandes des déclarants et correspondants Tracfin était alors aggravée par l’absence de procédure
+d’escalade (grief 5) ; que l’insuffisance des moyens humains dont disposait le « service LAB » compétent
+pour traiter les PDS a eu pour conséquence une forte augmentation des délais de traitement de celles-ci et ne
+lui a pas permis d’effectuer toutes les tâches de contrôle dont il est chargé (grief 6) ; que plusieurs
+manquements aux obligations de connaissance de la clientèle (grief 7), d’examen renforcé (grief 8) et de
+déclaration à Tracfin ont en outre été constatés, qu’il s’agisse sur ce dernier point de défauts de DS (grief 9)
+ou de retards dans l’envoi de celles-ci (grief 10) ;
+57. Considérant, cependant, que la poursuite s’est appuyée, dans cette procédure, sur un nombre limité de
+dossiers au regard de la taille de cet établissement, certains d’entre eux ayant en outre été utilisés pour
+illustrer ou fonder plusieurs griefs ; que les délais d’envoi de DS à Tracfin, excessifs dans les dossiers
+mentionnés à ce titre, sont en moyenne moins élevés que ceux constatés par la Commission dans certaines
+autres affaires dont elle a eu à connaître ; qu’entre la fin de la mission de contrôle, en août 2015, et
+l’ouverture de la présente procédure disciplinaire, en mai 2017, la CFCMNE a mis en place un certain
+nombre d’actions correctrices qui se sont poursuivies par la suite ; que, si leur effectivité devra, le cas
+échéant, être contrôlée, elles peuvent déjà, malgré le caractère tardif de certaines, être prises en compte ;
+58. Considérant que si la CFCMNE estime que les faits constatés par la mission de contrôle devraient
+conduire à une mise hors de cause ou, à défaut, au prononcé d’un simple avertissement, les manquements
+retenus par la Commission justifient, compte tenu de leur nature, de leur nombre et de leur gravité, et au vu
+des éléments mentionnés ci-dessus, le prononcé d’un blâme ; que, pour les mêmes raisons et dans le respect
+du principe de proportionnalité au regard de l’assise financière de la CFCMNE, une sanction pécuniaire de
+1,5 million d’euros sera également prononcée ;
+59. Considérant que la CFCMNE ne produit aucun élément permettant d’estimer que la publication
+nominative de la présente décision lui causerait un préjudice disproportionné ; que cette publication n’est pas
+non plus de nature à perturber gravement les marchés financiers ; que la présente décision sera donc publiée
+sous cette forme ;
+Autorité de contrôle prudentiel et de résolution 12
+
+===== Page 13 =====
+Décision de la Commission des sanctions – procédure no 2017-05
+PAR CES MOTIFS
+DÉCIDE :
+ARTICLE 1ER – Il est prononcé à l’encontre de la Caisse Fédérale du Crédit Mutuel Nord Europe un
+blâme et une sanction pécuniaire de 1,5 million d’euros.
+ARTICLE 2 – La présente décision sera publiée au registre de l’ACPR et pourra être consultée au
+secrétariat de la Commission.
+Le Président de la Commission
+des sanctions
+[Rémi BOUCHEZ]
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification et
+dans les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 13

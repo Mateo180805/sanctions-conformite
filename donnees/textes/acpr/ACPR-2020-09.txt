@@ -1,0 +1,473 @@
+===== Page 1 =====
+Décision de la Commission des sanctions – procédure no 2020-09
+MMA IARD SA
+Procédure no 2020-09
+–––––
+Blâme et sanction pécuniaire
+de 4 millions d’euros
+–––––
+Audience du 16 novembre 2021
+Décision rendue le 30 novembre
+2021
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 14 décembre 2020 par laquelle le Président de l’Autorité de contrôle prudentiel et de
+résolution (ACPR) informe la Commission des sanctions (ci-après la « Commission ») de ce que le
+Collège de supervision de l’ACPR (ci-après le « Collège »), statuant en sous-collège « assurance », a
+décidé d’ouvrir une procédure disciplinaire à l’encontre de la société anonyme MMA IARD, dont le
+siège social est 14 boulevard Marie et Alexandre Oyon 72100 Le Mans ;
+Vu la notification des griefs du 14 décembre 2020 et ses annexes ;
+Vu les mémoires en défense des 16 mars, 28 juin et 23 août 2021, par lesquels MMA IARD (i)
+conteste, partiellement ou totalement, certains reproches qui lui sont adressés tandis que d’autres lui
+paraissent devoir être relativisés (griefs 1, 3, 4 et 5), (ii) présente les actions correctives qu’elle a mises
+en œuvre et soutient que, certaines de ces actions ayant été mises en œuvre avant le début du contrôle
+sur place, les manquements ainsi corrigés ne peuvent plus être sanctionnés et (iii) rappelle que la
+Commission doit, dans le respect du principe de proportionnalité, tenir compte de ce que plusieurs griefs
+résultent d’un même fait générateur ;
+Vu les mémoires en réplique des 17 mai et 23 juillet 2021, par lesquels le représentant du Collège (i)
+maintient la totalité des griefs, (ii) rappelle qu’aucune disposition ni aucun principe ne fait obstacle à ce
+que, dans une procédure disciplinaire, les mêmes faits soient à l’origine de plusieurs griefs ;
+Vu le rapport du 13 octobre 2021 de Mme Élisabeth Pauly, rapporteur, qui, après avoir estimé que les
+conséquences d’un même fait répréhensible peuvent donner lieu à sanction au titre de plusieurs griefs et
+que des manquements peuvent être sanctionnés même lorsque leur correction est intervenue avant la fin
+de la mission de contrôle, conclut que tous les griefs sont fondés ;
+Vu les courriers du 13 octobre 2021 convoquant à l’audience les parties ainsi que la direction générale
+du Trésor (DGT) et les informant de la composition de la Commission ;
+Vu le mémoire du 28 octobre 2021 par lequel MMA IARD, en réponse au rapport du rapporteur, (i)
+précise ses observations sur les griefs, (ii) souligne à nouveau que la Commission devra prendre en
+compte le fait que plusieurs griefs résultent d’un même fait générateur et (iii) soutient que les poursuites
+disciplinaires ne sauraient échapper à toute règle de prescription - en particulier, en l’espèce, pour les
+première, troisième et quatrième branches du premier grief - et, subsidiairement, que la remédiation aux
+manquements reprochés, notamment lorsqu’elle est intervenue, pour tout ou partie, avant le début de la
+mission de contrôle, doit conduire la Commission à relativiser les manquements ;
+Autorité de contrôle prudentiel et de résolution 1
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2020-09
+Vu les autres pièces du dossier, notamment le rapport de contrôle signé le 27 avril 2020 par le
+responsable de la mission de contrôle ;
+Vu la convention européenne de sauvegarde des droits de l’homme et des libertés fondamentales
+(CEDH), notamment son article 6 ;
+Vu le code des assurances, notamment son article A. 310-8, dans sa rédaction applicable aux faits
+contrôlés ;
+Vu le code monétaire et financier, notamment ses articles L. 562-1, L. 562-4, L. 562-5, R. 562-1 et
+R. 562-3 ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACPR, composée de M. Alain Ménéménis, Président, Mmes Gaëlle
+Dumortier, Édith Sudre, Claudie Boiteau et M. Philippe Laigre ;
+Après avoir entendu, lors de sa séance non publique du 16 novembre 2021 :
+- Mme Élisabeth Pauly, rapporteur, assistée de Mme Laëtitia Havas, son adjointe ;
+- Le représentant du directeur général du Trésor, dûment convoqué, ne s’étant pas présenté ;
+- M. Briet, représentant du Collège, assisté de l’adjointe au directeur des affaires juridiques, de
+l’adjoint au chef du service des affaires institutionnelles et du droit public, de trois cadres au sein
+de la direction des affaires juridiques ; M. Briet a proposé à la Commission de prononcer un
+blâme et une sanction pécuniaire de 4 millions d’euros par une décision publiée sous une forme
+nominative pendant cinq ans ;
+- La société MMA IARD, représentée par son directeur général, assisté de la directrice de la
+conformité, d’un cadre au sein de cette direction, et du responsable de la lutte contre le
+blanchiment des capitaux et le financement du terrorisme (LBC-FT) du groupe Covéa, dont les
+avocats sont Mes Emmanuel Piwnica et Laure de Cenival (cabinet Piwnica & Molinié) ;
+Après avoir délibéré en la seule présence de M. Ménéménis, Président, Mmes Dumortier, Sudre,
+Boiteau, et M. Laigre ainsi que de M. Jean-Manuel Clemmer, chef du service de la Commission des
+sanctions faisant fonction de secrétaire de séance ;
+1. La société MMA IARD appartient au groupe Covéa. Agréée pour les branches 1 à 18, à l’exception
+de la branche 14 (crédit), elle exerce son activité sur les marchés de l’assurance incendie accidents
+risques divers (IARD) par l’intermédiaire d’un réseau comportant un millier d’agents généraux, qui lui
+apportent les trois quarts de son chiffre d’affaires et environ 2 000 sociétés de courtage, qui lui en
+apportent un peu moins du quart.
+En 2020, MMA IARD a réalisé un chiffre d’affaires de 4,8 milliards d’euros. Fin 2020, elle comptait
+2,96 millions de clients, dont 80 % de particuliers et 18 % de clients professionnels - entreprises. Elle
+emploie plus de 5 000 salariés.
+2. MMA IARD a fait l’objet, du 19 mars au 27 juin 2019, d’un contrôle sur place, qui a donné lieu à
+la signature, le 27 avril 2020, d’un rapport de contrôle. Au vu de ce rapport, le Collège de l’ACPR,
+statuant en sous-collège « assurance », a décidé, lors de sa séance du 23 novembre 2020, d’ouvrir la
+présente procédure disciplinaire, dont la Commission a été saisie le 14 décembre 2020.
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2020-09
+I. Sur les défaillances du dispositif de détection des opérations
+au bénéfice des personnes ou entités désignées
+3. En vertu du IV de l’article A. 310-8 du code des assurances, les entreprises assujetties « établissent
+des procédures d'échanges d'informations relatives à l'existence et au contenu des déclarations prévues
+à l'article L. 561-15 du code monétaire et financier dans les conditions prévues aux articles L. 561-20
+et L. 561-21 du même code ». En vertu du VI du même article, elles « se dotent de dispositifs de suivi et
+d'analyse de leur relation d'affaires fondés sur la connaissance de la clientèle ou, si besoin est, sur le
+profil de la relation d'affaires permettant de détecter des anomalies. Ces dispositifs sont adaptés aux
+risques identifiés par la classification, ils doivent permettre de définir des critères et des seuils
+significatifs et spécifiques en matière de blanchiment de capitaux et de financement du terrorisme. /
+Elles se dotent également de dispositifs permettant de détecter toute opération au bénéfice d'une
+personne ou d'une entité faisant l'objet d'une mesure restrictive spécifique ou de gel des fonds
+instruments financiers et ressources économiques ».
+4. Selon le grief 1, fondé sur ces dispositions, le dispositif de détection des personnes ou entités
+faisant l'objet d'une mesure restrictive spécifique ou de gel de MMA IARD présentait plusieurs carences.
+En premier lieu, le filtrage des bases clients et des versements de fonds, qui ne tenait pas compte des
+variations orthographiques, ne permettait pas de détecter toutes les opérations effectuées au bénéfice de
+ces personnes et entités. En effet, ce dispositif ne détectait pas toutes les opérations au bénéfice de
+personnes ou entités désignées (clients ou bénéficiaires des fonds) lorsque les éléments d’identité
+n’avaient pas été renseignés de manière exacte dans les bases de données ou lorsqu’ils étaient
+orthographiés différemment de ceux de la personne ou entité désignée mais phonétiquement identiques.
+Ce n’est qu’en février 2019 que l’exigence d’une correspondance orthographique complète a été
+abandonnée, cette amélioration ne concernant cependant, à la fin de la mission de contrôle sur place en
+juin 2019, que le filtrage des clients issus du réseau d’agents généraux, mais ni les clients issus du réseau
+des courtiers ni les bénéficiaires d’indemnisations. À titre d’illustration, quatre clients dont les éléments
+d’identité étaient phonétiquement identiques à ceux d’une personne faisant l’objet de mesures
+restrictives n’ont pas été détectés (dossiers 1.1 ; 1.2 ; 1.3 ; 1.4) et deux l’ont été en février 2019 seulement
+(dossiers 1.5 et 1.6), soit plusieurs années après l’entrée en vigueur de la mesure de gel les visant.
+En deuxième lieu, MMA IARD n’a pas été en mesure de détecter le contrat souscrit, depuis le
+23 février 2018, par l’association [Z], alors que celle-ci faisait l’objet d’une mesure de gel et
+d’interdiction de mise à disposition de fonds et ressources économiques par un arrêté conjoint du
+ministre chargé de l'économie et du ministre de l'intérieur du 14 janvier 2019, publié au Journal Officiel
+le 15 janvier 2019.
+En troisième lieu, dans des dossiers de clients personnes physiques, des cas d’homonymie n’ont été
+ni détectés ni analysés (dossiers 1.7 ; 1.8 ; 1.9 ; 1.10 ; 1.11 ; 1.12) ou l’ont été plusieurs années après
+l’entrée en vigueur de la mesure de gel (dossiers 1.13 ; 1.14 et 1.15).
+En quatrième lieu, jusqu’en 2018, les listes utilisées pour le filtrage n’étaient mises à jour que selon
+une périodicité hebdomadaire et non à chaque nouvelle mesure de gel.
+En cinquième lieu, les bases clients de MMA IARD ne contenaient pas toutes les informations
+nécessaires à la détection des opérations au bénéfice des personnes désignées : ainsi, dans 43 558
+dossiers de clients issus du réseau des courtiers, soit 42,71 % du total, la date de naissance, ou à tout le
+moins l’année de naissance, dont la connaissance est nécessaire à la mise en œuvre de deux scénarios
+du dispositif de détection, n’était pas renseignée. En outre, MMA IARD ne recherchait pas l’identité des
+clients personnes physiques qui contrôlaient ses clients personnes morales.
+5. Si la notification des griefs indique à tort que les faits reprochés au titre de ce premier grief sont
+susceptibles de contrevenir aux dispositions du IV de l’article A 310-8 alors en vigueur du code des
+assurances et non à celles du VI du même article, une telle erreur de plume n’est pas de nature à induire
+la société en erreur ni à faire obstacle à ce qu’elle présente utilement sa défense. Dès lors, contrairement
+à ce que soutient la société, le présent grief ne saurait être écarté au motif qu’il serait privé de base
+légale.
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2020-09
+6. Par ailleurs, MMA IARD soutient que l’absence de règle de prescription applicable aux poursuites
+disciplinaires dont elle a été l’objet est « très contestable » au regard des stipulations de l’article 6 de la
+CEDH et, par suite, que, lorsqu’ils ont été corrigés avant le début du contrôle, des manquements ne
+sauraient, en tout état de cause, être sanctionnés.
+Toutefois, ainsi que l’a jugé le Conseil d’État (CE 7 juin 2017 Société Vaillance Courtage,
+n° 393509), il appartient seulement à l’autorité disciplinaire, sous le contrôle du juge, de veiller, au cas
+par cas, à ce que l’ancienneté des faits pris en compte ne conduise pas à entraver l’exercice effectif des
+droits garantis à l’organisme poursuivi, afin que soient respectés les droits de la défense et le principe
+de sécurité juridique, conformément aux exigences des stipulations de l’article 6 de la CEDH.
+Il incombe par ailleurs à l’autorité disciplinaire de prendre en compte le temps écoulé entre la faute
+et la condamnation dans la détermination de la sanction afin que soit respecté le principe de
+proportionnalité des peines.
+7. Sur la première branche du grief, la Commission a indiqué dès 2012 que le recours à la fonction
+« exact match » ne permettait pas aux organismes assujettis de respecter leurs obligations de détection
+des personnes faisant l’objet de mesures restrictives (décision Établissement de crédit A du 24 octobre
+2012, procédure n° 2011-02, p. 32).
+La nécessité d’exclure un tel paramétrage des dispositifs de surveillance a ensuite été rappelée par
+les lignes directrices conjointes de la DGT et de l’ACPR publiées en juin 2016 (§ 83) et mises à jour en
+juin 2019 (§ 72).
+Si des actions pour passer à une recherche dite floue ont été mises en œuvre de façon opérationnelle
+à compter de février 2019, dans le cadre d’un projet dénommé « Cocliris 2 », pour les clients issus du
+réseau des agents généraux, le manquement reproché était caractérisé, pour ces clients, jusqu’en janvier
+2019, soit juste avant le début de la mission de contrôle.
+Par ailleurs, ces actions n’ont été étendues qu’en septembre 2019 aux clients issus du réseau des
+courtiers et en juin 2021 aux tiers bénéficiaires de prestations (victimes en cas de sinistre). De telles
+actions de remédiation sont sans incidence sur le bien-fondé du grief.
+La première branche du grief est donc fondée. Les cas que mentionne la poursuite à titre d’illustration
+ne sont au demeurant pas contestés.
+8. Sur la deuxième branche du grief, MMA IARD ne conteste pas le défaut de détection qui lui est
+reproché. Si elle soutient qu’il s’agit d’un cas isolé qui ne suffit pas à caractériser une carence
+structurelle, le grief notifié sur ce point à la société est, en tout état de cause, fondé. Au demeurant,
+comme le relève la société elle-même, c’est une carence structurelle tenant à une mauvaise prise en
+compte de la dénomination des associations, qui a conduit à ce défaut de détection : en corrigeant cette
+carence, MMA IARD a d’ailleurs détecté 156 autres cas.
+9. Sur la troisième branche du grief, le fait que la poursuite ait indiqué que l’absence de détection des
+homonymies avait été observée dans sept dossiers de clients personnes physiques avant de n’en
+énumérer que six est resté sans incidence sur la possibilité, pour MMA IARD, de présenter ses
+observations en défense sur ces six dossiers, ce qu’elle a d’ailleurs fait. Le périmètre du reproche formulé
+sur ce point doit seulement être réduit à six dossiers.
+MMA IARD conteste avoir manqué à son obligation de détection des homonymies dans le dossier
+1.8. Toutefois, elle se borne à soutenir que son client, qui avait souscrit une assurance multirisques
+habitation, était de nationalité afghane alors que la personne visée par une mesure restrictive était née
+en Iran ; un tel constat résulte d’analyses postérieures à la date de la mesure restrictive, effectuées à
+partir d’informations mentionnées sur un titre de séjour de l’intéressé daté du 13 septembre 2018, alors
+qu’il a été inscrit sur la liste unique de gel par le règlement (UE) 267/2012 du 23 mars 2012 concernant
+l’Iran. La société ne pouvait, sur la base des informations dont elle disposait à la date de cette inscription,
+se dispenser de détecter et d’analyser immédiatement l’homonymie en cause.
+MMA IARD soutient par ailleurs que, dans les dossiers 1.13, 1.14 et 1.15, aucun retard de détection
+ne peut lui être reproché dès lors que les dispositions de l’article A. 310-8 du code des assurances, issues
+de l’arrêté du 29 décembre 2009, sont entrées en vigueur le 1er décembre 2010 et que les intéressés
+figuraient sur les listes des personnes soumises à des mesures restrictives depuis 2003. Cependant, il
+incombait à MMA IARD, à compter de l’entrée en vigueur de ces dispositions, de détecter
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2020-09
+immédiatement ces clients et d’informer le Trésor. Or, des alertes n’ont été déclenchées qu’en 2013 et
+n’ont été analysées qu’en 2015 ou 2016. Ainsi, il résulte des affirmations de la société elle-même que,
+entre 2010 et 2015 ou 2016, elle a manqué à son obligation.
+La troisième branche du grief est donc fondée, sans qu’ait d’incidence le plan d’évolution de son
+algorithme de filtrage mis en œuvre par MMA IARD en avril 2020.
+10. Sur la quatrième branche du grief, MMA IARD soutient que la mise à jour des listes européennes
+et françaises utilisées pour le filtrage est quotidienne depuis le 20 avril 2015, date de la version 1.10 de
+la note relative à la mise en production du projet dénommé « Blanchiment & Terrorisme ».
+On ne peut cependant déduire de cette seule note, qui ne mentionne qu’une « mise en production »
+et qui ne concerne d’ailleurs que la mise à jour du fichier « Terroristes.csv » à partir des « données de
+l’UE », qu’une actualisation quotidienne des listes des personnes visées par une mesure de gel ait
+été effective dès le 20 avril 2015.
+Au contraire, plusieurs pièces du dossier conduisent à considérer que l’actualisation des listes -
+européennes et françaises - n’était pas quotidienne à cette date.
+Pour les listes nationales, un courriel du chef de projet compétent au sein de la Direction générale
+Technologie et Systèmes d’information de Covéa indique, à propos du nouvel outil « Gestion des
+Arrêtés de gel Français » (GAF), que « le nouveau traitement (a) été mis en ligne » le 9 février 2016 et
+qu’à compter du lendemain, le fichier « Terroristes.csv » contiendra « en plus de la liste de l'Union
+Européenne la liste des personnes en gel des avoirs ordonné par la France ». Il n’apporte en outre
+aucune précision sur la périodicité de l’actualisation des listes nationales de gel ainsi intégrées par MMA
+IARD à son dispositif à compter du 10 février 2016.
+Par ailleurs, les spécifications détaillées du projet Cocliris 1 (pour « COnnaissance des CLients à
+RISque »), datées du 29 septembre 2016, mentionnent encore qu’il s’agit « de constituer une base de
+repérage parmi les clients MMA et d’effectuer ensuite un rapprochement avec le listing des personnes
+à risque fourni hebdomadairement ». MMA IARD attribue, il est vrai, la mention, dans ces
+spécifications, d’une périodicité hebdomadaire à une erreur matérielle. Cependant, selon le rapport remis
+le 6 juillet 2018 par la mission d’audit interne au sujet de la pertinence et de l’efficacité du dispositif de
+gel des avoirs au sein du groupe Covéa, établi en relation avec le cabinet [Y], alors que, pour les sociétés
+[X], [W] et [V], qui appartiennent au groupe Covéa, « les tables utilisées pour effectuer les détections
+de clients visées par une mesure restrictive étaient mises à jour quotidiennement, tel n’était pas le cas
+au sein de MMA IARD où les tables utilisées pour réaliser les détections sur les clients sont mises à jour
+hebdomadairement, ce qui induit que le filtrage des bases clients est hebdomadaire, même si un
+traitement quotidien a été mis en place ». Le même rapport précise que « la Direction de la Conformité
+est informée de cette situation et a engagé une action, en lien avec la Direction des Systèmes
+d’Information, pour mettre en place une mise à jour quotidienne des tables » (idem).
+L’analyse complémentaire du dispositif de gel des avoirs de MMA IARD, effectuée en juin 2021 par
+[Y], qui indique que « Covéa (avait) modifié en 2017 la fréquence à laquelle sa base de clients
+(souscripteurs, payeurs de primes et autres personnes connues aux contrats) est comparée aux listes
+des personnes faisant l’objet de mesures de gel des avoirs pour passer à une fréquence quotidienne »,
+ne contredit pas les constats du rapport d’audit interne selon lesquels, à la date du 6 juillet 2018, la mise
+à jour des listes de personnes soumises à des mesures de gel n’était pas encore quotidienne, puisqu’elle
+mentionne une « comparaison quotidienne » entre la base clients et les listes des personnes soumises à
+des mesures de gel, mais ne précise pas que ces dernières sont mises à jour quotidiennement.
+Il résulte de l’ensemble de ces éléments que la quatrième branche du grief est fondée.
+11. Sur la cinquième branche du grief, MMA IARD ne conteste pas le caractère incomplet des
+informations qui figuraient dans sa base clients au moment du contrôle. Cette branche du grief est
+fondée, sans qu’ait d’incidence la circonstance, relevée par la société, que le « Registre public des
+bénéficiaires effectifs des sociétés », créé par la loi n°2016-1691 du 9 décembre 2016 relative à la
+transparence, à la lutte contre la corruption et à la modernisation de la vie économique (dite loi « Sapin
+2 ») était encore en cours d’élaboration au moment du contrôle, dès lors que l’obligation de connaissance
+des bénéficiaires effectifs des clients personnes morales est antérieure à la création de cette base de
+données, qui a seulement pour objet de faciliter sa mise en œuvre.
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2020-09
+Par ailleurs, MMA IARD ne conteste pas davantage l’absence, au moment du contrôle, de recherche
+de l’identité des clients personnes physiques qui contrôlaient ses clients personnes morales.
+Les actions de remédiation, mises en œuvre depuis juin 2020 et dont certaines n’ont pas encore été
+déployées, ne sauraient par ailleurs conduire à remettre en cause cette branche du grief.
+12. Le grief 1 est donc entièrement fondé.
+II. Sur le non-respect des obligations d’information de la
+direction générale du Trésor
+13. En vertu du I de l’article L. 562-4 du CMF, « toute personne mentionnée à l'article L. 561-2, qui
+détient ou reçoit des fonds ou des ressources économiques pour le compte d'un client, est tenue
+d'appliquer sans délai les mesures de gel et les interdictions de mise à disposition ou d'utilisation
+prévues au présent chapitre et d'en informer immédiatement le ministre chargé de l'économie ».
+L’article R. 562-3 du même code précise que : « I. - L’information du ministre chargé de l'économie
+prévue au I de l'article L. 562-4 porte sur : / 1° Les fonds et ressources économiques ayant fait l'objet
+d'une mesure de gel (…) ».
+14. Selon le grief 2, fondé sur ces dispositions, MMA IARD n’a pas informé la DGT, dès l’entrée en
+vigueur de l’arrêté du 14 janvier 2019 imposant le gel des fonds et des ressources économiques de
+l’association [Z], de l’existence du contrat d’assurance souscrit depuis le 23 février 2018 par cette
+association, lequel constituait, en vertu du 3° de l’article L 562-1 du CMF, une « ressource économique »
+pour elle.
+15. MMA IARD ne conteste pas ce grief, qui est fondé.
+III. Sur la violation de la mesure de gel et d’interdiction de mise
+à disposition dont faisait l’objet l’association [Z]
+16. En vertu du I de l’article L. 562-4 du CMF, « toute personne mentionnée à l'article L. 561-2, qui
+détient ou reçoit des fonds ou des ressources économiques pour le compte d'un client, est tenue
+d'appliquer sans délai les mesures de gel et les interdictions de mise à disposition ou d'utilisation
+prévues au présent chapitre et d'en informer immédiatement le ministre chargé de l'économie ».
+L’article L. 562-5 du même code dispose qu’« il est interdit aux personnes mentionnées à l'article L.
+562-4 de mettre à disposition directement ou indirectement, ou d'utiliser des fonds ou ressources
+économiques au profit des personnes dont les fonds et ressources économiques font l'objet d'une mesure
+de gel en vertu des articles L. 562-2 ou L. 562-3 ».
+17. Selon le grief 3, fondé sur ces dispositions, le contrat conclu le 23 février 2018 par l’association
+[Z], qui comportait des garanties pour lesquelles la souscription d’assurances n’est pas imposée par la
+loi, a été renouvelé par tacite reconduction à l’échéance du 1er février 2019 sans autorisation de la DGT.
+18. MMA IARD ne conteste pas le renouvellement qui lui est reproché. Un tel renouvellement
+s’analyse comme une mise à disposition de ressources économiques. Or l’association [Z] faisait l’objet,
+à la date du renouvellement en cause, d’une mesure de gel, ce qui impliquait, en principe, que le contrat
+ne pouvait pas être renouvelé.
+Toutefois, les lignes directrices conjointes de la DGT et de l’ACPR déjà mentionnées, dont se prévaut
+la société tout en soutenant qu’elle n’était pas tenue de les respecter « à la lettre », prévoient que la DGT
+autorise de manière générale et automatique la conclusion d’un contrat d’assurance non-vie avec une
+personne ou une entité désignée s’il s’agit d’une assurance légalement obligatoire après avoir été
+informée de cette conclusion par l’assureur et que, dans les autres cas, elle peut délivrer une autorisation
+spécifique après que l’assureur lui en a fait la demande.
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2020-09
+Le contrat avec l’association [Z] comportant à la fois des garanties légalement obligatoires et des
+garanties facultatives, un professionnel avisé et de bonne foi devait nécessairement en déduire que les
+lignes directrices prévoyaient en tout état de cause qu’il ne pouvait être le cas échéant reconduit sans
+autorisation préalable de la DGT. Le grief est donc fondé, sans qu’ait d’incidence la circonstance, relevée
+par MMA IARD, que l’association [Z] n’ait bénéficié d’aucune remise de fonds entre le 15 janvier 2019,
+date de publication de l’arrêté la soumettant à des mesures restrictives, et le 11 mars suivant, date à
+laquelle la DGT a autorisé le maintien de la relation d’affaires avec elle.
+IV. Sur les insuffisances dans les procédures relatives à la mise
+en œuvre des mesures de gel et d’interdiction
+19. En vertu du premier alinéa de l’article R. 562-1 du CMF, « les personnes mentionnées au I de
+l'article L. 562-4 mettent en place une organisation et des procédures internes pour la mise en œuvre
+des mesures de gel des avoirs et d'interdiction de mise à disposition ou d'utilisation des fonds ou
+ressources économiques prévues aux articles L. 562-2, L. 562-3, L. 562-5 et L. 714-1 ».
+20. Selon le grief 4, fondé sur ces dispositions, les procédures de MMA IARD ne précisaient ni les
+modalités d’entrée en relation d’affaires avec les personnes ou entités désignées, ni la déclinaison
+opérationnelle des règles relatives à l’organisation du dispositif de gel des avoirs.
+La procédure du groupe Covéa dite « Ligne directrice n° 2019-01 » ne traitait pas des contrats
+d’assurance mentionnés au 3° de l’article L. 562-1 du CMF, dont la souscription n’est pas obligatoire et
+requiert l’autorisation préalable et spécifique du ministre chargé de l’économie.
+La procédure dénommée « Procédure de détection des clients en portefeuille faisant I objet d'une
+mesure de gel des avoirs » ne traitait pas des situations dans lesquelles une autorisation de la DGT est
+nécessaire pour entrer en relation d’affaires avec un client et n’indiquait pas les démarches à effectuer
+dans ce cas auprès de cette direction générale.
+Il est résulté de ces insuffisances procédurales une incapacité de MMA IARD à mettre en œuvre ses
+obligations pour les contrats dont la souscription ou le renouvellement n’est pas légalement obligatoire.
+Le dossier association [Z] illustre cette carence.
+21. Si MMA IARD soutient que l’insuffisance des procédures visées par le présent grief n’a donné
+lieu à aucune observation dans le rapport de contrôle, une telle circonstance n’est pas de nature à
+interdire au Collège de formuler un grief, dès lors qu’il se fonde sur des éléments qui, étant mentionnés
+dans ce rapport, ont pu être contradictoirement débattus. En effet, ainsi que la Commission l’a déjà
+souligné, il n’appartient qu’au Collège de choisir les faits qu’il entend reprocher à un organisme mis en
+cause et de les qualifier juridiquement (voir notamment sur ce point la décision n° 2019-04 Only
+Payment Services du 4 février 2020, considérant 14).
+22. Contrairement à ce que soutient MMA IARD, la procédure dénommée « ligne directrice n° 2019-
+01 », datée du 6 février 2019 ne précisait pas les diligences à effectuer pour l’application des mesures
+restrictives aux contrats dont la souscription n’est pas obligatoire. Par ailleurs, la « procédure de
+détection des clients en portefeuille faisant l’objet d’une mesure de gel des avoirs », datée de mars 2018,
+mentionnait l’obligation de signalement à la DGT de la personne ou entité désignée détectée, mais sans
+apporter de précision sur la nécessité d’obtenir son autorisation préalable pour certains contrats ni les
+modalités d’obtention de cette autorisation.
+Or, si les lignes directrices conjointes de la DGT et de l’ACPR sur la mise en œuvre des mesures de
+gel des avoirs, déjà mentionnées, n’ont, en tout état de cause, comme le relève la société, qu’une portée
+explicative, les procédures de tout organisme assujetti doivent être complètes et opérationnelles afin de
+permettre le strict respect des obligations en matière de gel des avoirs. Tel n’était pas le cas, sur les sujets
+mentionnés par la poursuite, des procédures de MMA IARD au moment du contrôle. Le grief 4 est donc
+fondé, sans qu’aient d’incidence ni l’affirmation de la société selon laquelle, en pratique, elle déclarait
+tous ses clients faisant l’objet d’une mesure restrictive, qu’ils aient ou non souscrit des contrats
+comportant uniquement des garanties facultatives, ni les actions correctives mises en œuvre, qui ont
+consisté en une modification, par le groupe Covéa, en mars 2021, des deux procédures mentionnées par
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2020-09
+la poursuite.
+V. Sur l’accès aux informations nécessaires à l’analyse des
+alertes déclenchées par le dispositif de filtrage
+23. En vertu de l’alinéa 3 de l’article R. 562-1 du CMF, les organismes assujettis « veillent à ce que
+les personnels qui participent à la mise en œuvre des mesures mentionnées au premier alinéa (…) aient
+accès aux informations nécessaires à l'exercice de leurs fonctions ou activités ».
+24. Selon le grief 5, fondé sur ces dispositions, MMA IARD ne disposait pas systématiquement des
+données d’identification des clients issus de son réseau de courtiers, notamment des date et lieu de
+naissance, pourtant nécessaires à l’analyse des alertes déclenchées par le dispositif de détection et à la
+mise en œuvre des mesures de gel et d’interdiction.
+Ainsi, bien que, dans les procédures de l’établissement, la date de naissance du client soit mentionnée
+comme nécessaire à l’analyse d’une alerte, celle-ci manquait dans 43 558 dossiers de clients issus de ce
+réseau, soit 42,71 % du total et MMA IARD ne disposait d’aucune information sur leur lieu de naissance.
+De plus, alors même que les procédures prévoyaient que des informations complémentaires
+pouvaient être demandées au réseau des courtiers par le personnel en charge de l’analyse des alertes, ces
+données sont demeurées inaccessibles dans quatre dossiers en dépit des demandes de la mission de
+contrôle (dossiers 5.1 ; 5.2 ; 5.3 ; 5.4).
+25. Il appartient aux organismes assujettis de se doter, en matière de gel des avoirs notamment, d’une
+organisation efficace, la connaissance de la date de naissance du client étant, à cet égard, une condition
+de l’efficacité de leurs dispositifs de détection.
+Or MMA IARD ne conteste pas le reproche formulé sur ce point. Elle ne saurait en outre s’exonérer
+de sa propre responsabilité en relevant la « responsabilité première » du courtier dans la collecte des
+données nécessaires à l’analyse des alertes et dans la réponse aux demandes d’informations
+complémentaires des agents chargés de cette analyse.
+Enfin, dans les quatre dossiers mentionnés par la poursuite, la circonstance, relevée par MMA IARD,
+qu’une nouvelle analyse a montré que les personnes concernées ne pouvaient être celles qui étaient
+visées par une mesure de gel est sans incidence sur le reproche. Il en va de même du fait, allégué par la
+société, qu’elle ne versait pas les fonds tant que les renseignements et pièces complémentaires ne lui
+avaient pas été communiqués.
+26. Même s’il concerne seulement les 43 558 clients mentionnés par la notification des griefs, le grief
+5 est donc fondé, sans que les actions correctives évoquées, qui ont notamment consisté en un rappel
+des consignes de saisie des informations aux réseaux (agents et courtiers) et en la mise en place d’un
+contrôle de qualité de la saisie des données, permettent de le remettre en cause.
+*
+* *
+27. Il résulte de ce qui précède que le dispositif de MMA IARD en matière de gel des avoirs était
+structurellement défaillant du fait de l’utilisation de critères de recherche trop stricts pour le filtrage des
+bases clients, de l’insuffisance des informations figurant dans les bases des clients issus du réseau des
+courtiers, de l’insuffisante fréquence de la mise à jour des listes utilisées pour le filtrage (grief 1 ), des
+lacunes de ses procédures (grief 4) et des difficultés d’accès aux données d’identification de ses clients
+issus de son réseau de courtiers (grief 5).
+Par ailleurs, MMA IARD n’a pas détecté l’existence du contrat conclu avec une association visée
+par une mesure de gel des avoirs et n’en a pas informé la DGT (griefs 1 et 2) et elle a renouvelé
+tacitement, sans autorisation préalable de la DGT, ce contrat (grief 3).
+28. De tels manquements sont d’une particulière gravité, « eu égard à l’intérêt général impérieux de
+protection de l’ordre public et de la sécurité publique auquel répond la législation relative au gel des
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2020-09
+avoirs dans le cadre de la lutte contre le blanchiment des capitaux et le financement du terrorisme »
+(Conseil d’État 15 novembre 2019 Société La Banque Postale n° 428292, point 15).
+En matière de gel des avoirs, les organismes assujettis sont soumis à une obligation de résultat : leur
+dispositif doit leur permettre de détecter immédiatement et de façon exhaustive les clients ou
+bénéficiaires d’opérations soumis à une mesure restrictive, d’informer sans délai la DGT et de bloquer,
+sans délai, les opérations pour les personnes et organismes désignés.
+MMA IARD, qui est un établissement d’assurance de premier plan, pouvait d’autant moins ignorer
+ses obligations dans ce domaine qu’elles avaient été définies par la loi depuis plusieurs années et que
+les conditions de leur mise en œuvre avaient été très vite éclairées, sur des points essentiels, par des
+lignes directrices de l’ACPR et de la DGT et par des décisions de la Commission.
+Or, le dispositif de MMA IARD était, à tous égards, gravement défaillant, qu’il s’agisse de sa capacité
+à identifier les personnes soumises à mesures restrictives, de sa capacité à informer la DGT, ou de sa
+capacité à bloquer les opérations.
+Ces carences structurelles ont, en outre, perduré, alors même que le contexte d’aggravation du risque
+terroriste justifiait qu’une attention croissante soit portée à « l’intérêt général impérieux » mentionné ci-
+dessus. La société ne saurait sur ce point soutenir que les manquements reprochés étaient anciens et
+qu’ils ont été pour l’essentiel corrigés avant la mission de contrôle. Il convient au contraire de relever
+que, sur des points essentiels, l’établissement a tardé à mettre en œuvre des mesures de remédiation et
+que des carences ont subsisté pendant et après le contrôle de l’ACPR. En particulier, comme il a déjà
+été dit, la fonction « exact match » n’a été complètement abandonnée qu’en juin 2021, l’amélioration
+des informations figurant dans les bases clients n’a été engagée qu’en 2020 et les procédures n’ont été
+mieux définies qu’en 2021.
+Au demeurant, la société a produit, par un mémoire du 15 novembre 2021, une « attestation [de son
+commissaire aux comptes] relative à l’évaluation [de ses] investissements dans le cadre de l’évolution
+de son dispositif de gel des avoirs ». Or, s’il ressort de ce document que d’importants investissements
+ont été engagés ou programmés depuis 2015, la plus grande part l’a été pour les années 2021 et 2022.
+29. Dans le respect du principe de proportionnalité, il sera tenu compte, d’une part, conformément à
+ce qui a été dit au point 6 ci-dessus, du fait que les manquements qui ont donné lieu à la troisième
+branche du grief 1 ont cessé en 2015 ou 2016, d’autre part, du fait que la deuxième branche du grief 1
+et les griefs 2 et 3 trouvent leur origine dans un même fait générateur.
+30. Il convient enfin de relever qu’après un exercice 2020 au cours duquel MMA IARD a, dans un
+contexte dégradé en raison de la crise sanitaire, enregistré une perte nette de plus de 230 millions d’euros,
+l’exercice en cours devrait être marqué, selon les précisions fournies par l’entreprise à l’audience, par
+un retour vers une situation normale, avec un résultat positif de plusieurs dizaines de millions d’euros
+(il était compris entre environ 87 et environ 200 millions d’euros entre 2017 et 2019). MMA IARD a
+par ailleurs indiqué disposer de plus de deux milliards de fonds propres comptables nets.
+31. Compte tenu de l’ensemble des éléments mentionnés aux points 28 à 30, les manquements retenus
+par la Commission justifient le prononcé d’un blâme et il y a lieu, eu égard à la situation financière de
+MMA IARD, de prononcer en outre à son encontre une sanction pécuniaire de quatre millions d’euros.
+MMA IARD soutient qu’une publication nominative lui causerait un préjudice disproportionné, en
+raison de son impact sur ses relations avec ses clients, prospects et partenaires. Cependant, elle n’apporte
+aucun élément de nature à justifier une telle disproportion, les risques, d’ailleurs évoqués à l’audience
+en termes très vagues, que pourrait présenter une publication nominative pour le projet d’acquisition,
+par le groupe Covéa, d’une entreprise de réassurance ne pouvant à cet égard être regardés comme
+sérieux.
+Ainsi, dès lors qu’une telle publication n’est pas de nature à méconnaître l’équilibre entre l’exigence
+d’intérêt général à laquelle elle répond et les intérêts de l’organisme mis en cause, il y a lieu de publier
+la présente décision au registre de l’ACPR sous forme nominative, pendant une durée de cinq ans. Elle
+y sera ensuite maintenue sous une forme non nominative.
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2020-09
+*
+* *
+PAR CES MOTIFS
+DÉCIDE :
+ARTICLE 1ER – Il est prononcé à l’encontre de MMA IARD un blâme et une sanction pécuniaire
+de quatre millions d’euros.
+ARTICLE 2 – La présente décision sera publiée au registre de l’ACPR pendant cinq ans sous une
+forme nominative, puis sous une forme ne permettant pas d’identifier MMA IARD, et pourra être
+consultée au secrétariat de la Commission.
+Le Président de la Commission
+des sanctions
+[Alain Ménéménis]
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification
+et dans les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 10

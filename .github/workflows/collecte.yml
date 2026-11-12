@@ -1,0 +1,58 @@
+# Mise à jour automatique de la base.
+#
+# Ce fichier dit à GitHub : « chaque lundi matin, prête-moi un ordinateur,
+# installe Python, lance le programme de collecte, puis enregistre dans le dépôt
+# ce qui a changé ». C'est gratuit pour un dépôt public.
+
+name: Collecte hebdomadaire
+
+on:
+  schedule:
+    # Chaque lundi à 06 h 17 UTC (7 h 17 ou 8 h 17 à Paris selon la saison).
+    # Minute « 17 » volontaire : à l'heure pile, GitHub est très chargé.
+    - cron: "17 6 * * 1"
+  workflow_dispatch:   # ajoute le bouton « Run workflow » pour lancer à la main
+
+# Le programme a le droit d'écrire dans le dépôt (pour enregistrer les données).
+permissions:
+  contents: write
+
+# Jamais deux collectes en même temps.
+concurrency:
+  group: collecte
+  cancel-in-progress: false
+
+jobs:
+  collecte:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v5
+
+      - name: Installer Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Installer les bibliothèques
+        run: pip install -r requirements.txt
+
+      - name: Lancer la collecte
+        run: python collecte/lancer.py
+
+      # Cette étape tourne même si la collecte a signalé un problème : ce qui a
+      # été récupéré correctement est enregistré, et l'exécution reste en rouge.
+      - name: Enregistrer les changements dans le dépôt
+        if: always()
+        run: |
+          git config user.name "collecte-automatique"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add donnees
+          if git diff --cached --quiet; then
+            echo "Rien de nouveau à enregistrer."
+          else
+            git commit -m "Collecte du $(date -u +%Y-%m-%d)"
+            git push
+          fi

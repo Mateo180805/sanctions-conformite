@@ -1,0 +1,611 @@
+===== Page 1 =====
+UBS (France) SA
+Procédure n° 2012-03
+_____
+Blâme et sanction pécuniaire
+de 10 000 000 d’euros
+_____
+Audience du 13 juin 2013
+Décision rendue le 25 juin 2013
+AUTORITÉ DE CONTRÔLE PRUDENTIEL
+COMMISSION DES SANCTIONS
+_______________
+Vu la lettre du 24 mai 2012 par laquelle le Président de l’Autorité de contrôle prudentiel (ACP) informe
+la commission de ce que le Collège de l’ACP, statuant en sous-collège sectoriel de la banque, a décidé
+d’ouvrir une procédure disciplinaire à l’encontre d’UBS (France) SA (ci-après UBSF) ;
+Vu la notification de griefs du 24 mai 2012 ;
+Vu les mémoires en défense des 28 septembre 2012, 25 février 2013 et 2 avril 2013 et les pièces qui les
+accompagnent, par lesquels UBSF (i) rappelle le contexte dans lequel cette procédure a été ouverte, marqué,
+d’une part, par un environnement économique très difficile et, d’autre part, par l’alerte éthique
+(« whistleblowing ») par laquelle, fin 2008, l’ancien responsable de son audit interne a accusé UBSF d’avoir
+mis en place un système d’aide à l’évasion fiscale retracé par une comptabilité parallèle dite des carnets du
+lait et UBS AG d’avoir mené une activité de démarchage illicite sur le sol français, (ii) soutient que le
+principe de loyauté dans l’administration de la preuve n’a pas été respecté, faute de communication de toutes
+les pièces dont l’inspection a eu connaissance, et que l’ancienneté de certains faits reprochés soulève la
+question de leur prescription, (iii) demande que l’audience ne soit pas publique et que la décision à intervenir
+soit anonymisée, (iv) conteste tous les griefs en toutes leurs parties et souligne les actions mises en œuvre
+depuis mars 2012 par le nouveau président du directoire d’UBSF pour accélérer les améliorations initiées par
+son prédécesseur ;
+Vu les mémoires en réplique des 7 janvier 2013 et 18 mars 2013 et les pièces qui les accompagnent, par
+lesquels M. Christian POIRIER, représentant le Collège de l’ACP observe (i) que les pièces dont la
+production est demandée par UBSF sont sans intérêt dans le cadre de la présente procédure mais qu’elles
+seront produites si le rapporteur le demande, (ii) que dans sa décision n° 2011-199 QPC du 25 décembre
+2011, le Conseil constitutionnel a jugé que les poursuites disciplinaires n’étaient pas nécessairement
+soumises à une règle de prescription, (iii) que l’audience peut se dérouler à huis clos, mais que la décision
+devra être intégralement publiée, et (iv) que, sauf exception, les griefs notifiés doivent être maintenus en
+toutes leurs parties, et qu’ils constituent ensemble de sérieux manquements ;
+Vu le procès-verbal de l’audition de M. Jean-Frédéric de LEUSSE, président du directoire d’UBSF,
+entendu à sa demande par le rapporteur le 28 janvier 2013 ;
+Vu la lettre du 8 février 2013 par laquelle le rapporteur demandait au représentant du collège de lui
+communiquer le courrier anonyme adressé à la mission d’inspection et la réponse de celui-ci le 12 février
+2013 ;
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2012-03
+Vu le rapport du 26 avril 2013, dans lequel le rapporteur, M. André ICARD, après avoir numéroté les
+griefs de 1 à 37, estime que les exceptions de procédure soulevées par UBSF doivent être écartées après qu’à
+sa demande a été versée au dossier la lettre anonyme d’après laquelle, selon l’auteur, elle aurait organisé
+l’évasion fiscale de ses clients et facilité un démarchage illicite d’UBS AG ; le rapporteur propose en outre
+que, bien que le droit positif ne l’y oblige pas, la commission s’interdise de sanctionner les faits remontant à
+plus de cinq ans, par référence au délai mentionné à l’article L. 561-12 du Code monétaire et financier ; sur
+le fond, il estime que tous les griefs sont établis à trois exceptions près (griefs 31, 34 et 36), même si certains
+doivent être relativisés (griefs 9, 11, 12, 15) ou voir leur périmètre réduit (griefs 1, 2, 19, 29, 33, 35 et 37) ;
+qu’il y souligne par ailleurs la gravité des griefs 1 à 7 consacrés au fonctionnement du dispositif de
+conformité pour les activités transfrontalières, à la différence des 30 suivants, souvent mineurs et de portée
+limitée ;
+Vu les courriers du 26 avril 2013 convoquant les parties et les informant de la composition de la
+Commission des sanctions ;
+Vu le mémoire récapitulatif du 14 mai 2013 par lequel UBSF répond notamment au rapport du
+rapporteur ;
+Vu les autres pièces du dossier et notamment le rapport d’inspection en date du 21 décembre 2011 de
+Mme Florence MERCIER BAUDRIER, inspecteur de la Banque de France ;
+Vu la Convention européenne de sauvegarde des droits de 1’homme et des libertés fondamentales et le
+Pacte international relatif aux droits civils et politiques ;
+Vu le Code monétaire et financier (ci-après le COMOFI), dans ses versions applicables aux différents
+faits reprochés ;
+Vu l’ordonnance n° 2009-104 du 30 janvier 2009 relative à la prévention de l’utilisation du système
+financier aux fins de blanchiment de capitaux et de financement du terrorisme ;
+Vu le règlement n° 97-02 du 21 février 1997 modifié du Comité de la réglementation bancaire et
+financière (CRBF) relatif au contrôle interne des établissements de crédit et des entreprises
+d’investissement ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACP, composée de M. Bruno MARTIN LAPRADE, Président, de
+Mme ALDIGÉ, de MM. BOUCHEZ, CRÉDOT et FLORIN ;
+Après avoir décidé de faire droit à la demande d’UBSF que l’audience ne soit pas publique et entendu,
+lors de sa séance du 13 juin 2013 :
+− M. André ICARD, rapporteur, assisté de MM. Jean-Manuel CLEMMER et Raphaël THÉBAULT,
+adjoints au rapporteur ;
+− M. Emmanuel SUSSET, représentant du directeur général du Trésor, qui a indiqué ne pas avoir
+d’observations à formuler ;
+− M. POIRIER, représentant le Collège de l’ACP, assisté de Mmes Florence MERCIER-BAUDRIER et
+Cécile PETERKA, inspecteurs de la Banque de France, de M. de GANAY, directeur des affaires
+juridiques de l’ACP, ainsi que de M. Fabrice JEANNE et de Mlle Cécilia COTTRAY, juristes au sein de
+cette direction ; M. POIRIER a proposé le prononcé d’un blâme assorti d’une sanction pécuniaire de dix
+millions d’euros, dans une décision publiée sous une forme nominative ;
+Autorité de contrôle prudentiel – Commission des sanctions 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2012-03
+− M. Jean-Frédéric de LEUSSE, président du directoire d’UBSF, M. Hervé MERCIER-YTHIER, membre
+du directoire, Mme Françoise BONFANTE, responsable de la filière Risques du groupe UBS en France,
+assistés de Mes Martine SAMUELIAN et Guillaume BERRUYER, avocats à la Cour, cabinet JEANTET
+et associés ;
+Les représentants d’UBSF ayant eu la parole en dernier ;
+Après en avoir délibéré en la seule présence de M. MARTIN LAPRADE, Président, de Mme ALDIGÉ, de
+MM. BOUCHEZ, CRÉDOT et FLORIN ;
+Sur les questions de procédure
+1. Sur l’atteinte alléguée au principe de loyauté
+dans l’administration de la preuve
+Considérant qu’UBSF, constatant qu’elle n’avait pas eu connaissance de documents adressés de manière
+anonyme à la mission d’inspection, a demandé au rapporteur d’en ordonner la production au dossier ; que la
+communication de ces documents, dont l’objet était d’étayer les soupçons dénoncés par le
+« whistleblowing » (voir ci-dessous) sur des faits antérieurs à 2009, a permis à UBSF de présenter devant la
+commission les observations qu’elle estimait utiles à son sujet ; qu’en admettant même, comme elle le
+soutient, qu’ils aient pu éclairer le grief relatif au défaut de contrôle des opérations transfrontalières, leur
+non-communication pendant le contrôle sur place est sans conséquence sur la régularité de la présente
+procédure, dès lors qu’UBSF ne démontre ni même n’allègue qu’elle aurait compromis irrémédiablement les
+droits de la défense dans la présente instance disciplinaire ;
+2. Sur l’absence de règle de prescription applicable
+Considérant qu’UBSF critique l’absence de prescription applicable aux présentes poursuites
+disciplinaires, alors qu’une prescription de trois ans, semblable à celle prévue en matière délictuelle par
+l’article 8 du Code de procédure pénale, s’applique devant la commission des sanctions de l’AMF ; que
+cependant, comme l’a jugé le Conseil constitutionnel dans sa décision n° 2011-199 QPC du 25 novembre
+2011, aucune règle ou principe constitutionnel n’impose que les poursuites disciplinaires soient
+nécessairement soumises à une règle de prescription ; que cette décision a seulement invité l’autorité
+disciplinaire à veiller au respect du principe de proportionnalité des peines, qui implique que le temps écoulé
+entre la faute et la condamnation puisse être retenu pour atténuer la sanction ; qu’au surplus, UBSF ne
+soutient pas avoir rencontré de difficultés matérielles pour rassembler des éléments de défense pertinents sur
+des faits trop anciens, du fait notamment que l’article L. 561-12 du Comofi ne l’oblige à conserver que
+pendant cinq ans les documents consignant les caractéristiques des opérations de ses clients ; qu’ainsi et en
+tout état de cause, son moyen doit être écarté ;
+Au fond
+Considérant qu’à fin 2010, UBSF avait environ 13 000 clients, principalement des personnes physiques
+de nationalité française, dont les avoirs déposés dans ses livres s’élevaient à 9,4 milliards d’euros, soit moins
+de 1 % des fonds gérés par l’ensemble du groupe ; qu’elle employait alors 263 salariés ; qu’en 2011, elle a
+réalisé un bénéfice net consolidé de 1,6 million d’euros après trois années de pertes, et un profit de
+8,1 millions d’euros en 2007 ; qu’en moyenne, sur la période 2007-2011, son produit net bancaire a été de
+65 millions d’euros par an ;
+Considérant qu’UBSF a été créée en 1999 afin d’exercer en France l’activité de gestion de fortune sous
+l’autorité fonctionnelle du département correspondant (Wealth Management & Swiss Bank, WM&SB) de la
+maison mère implantée à Zurich (UBS AG) ; qu’en effet celle-ci, qui se présente comme l’un des leaders
+Autorité de contrôle prudentiel – Commission des sanctions 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2012-03
+mondiaux dans ce domaine et estimait que les perspectives de croissance de la collecte de capitaux sur le
+marché suisse étaient limitées, entendait se développer sur de nouveaux marchés, dans le cadre d’une
+stratégie européenne regroupant en particulier la France, l’Angleterre, l’Allemagne et l’Italie (au sein d’un
+programme intitulé « European Wealth Management Initiative, WMI ») ; que pour organiser les orientations
+de prospects (referrals) entre toutes les entités du groupe, UBS a mis en place en 2003 entre la Suisse (UBS
+AG, avec la structure WMI) et Londres, le Canada et New York un « Referral Program », qui s’est traduit
+notamment par la signature en janvier 2006 d’accords précisant les conditions dans lesquelles des clients ou
+prospects (referrals) d’une entité apporteuse (referring party) pourraient être proposés aux autres entités
+signataires et comment, en cas d’ouverture d’un compte par un referral chez l’une de ces autres entités,
+celle-ci deviendrait entité receveuse (recipient party), s’obligeant alors à verser à la referring party, pendant
+quatre ans, 33 % des revenus générés chez elle par la gestion de ce compte (voir l’accord entre UBSF et les
+entités américaines, annexe 80 au mémoire en défense susvisé du 28 septembre 2012) ; que pour gérer
+pratiquement ces accords, UBS AG a mis en place en 2007 une application informatique dénommée ReNew,
+destinée à recevoir, au moins pour les prospects, les référencements proposés par les referrings et les suites
+données chez les recipients ; qu’en outre, pour renforcer l’incitation faite à chaque agent commercial (client
+advisor ou CA) de détecter de nouveaux prospects ou de convaincre les clients existants de confier de
+nouveaux fonds à gérer (Net New Money, ci-après NNM), le groupe a mis en place, au moins depuis 2003,
+un dispositif d’enregistrement des « reconnaissances d’affaires », dénommé ATA (Asset Transfer
+Adjustment), permettant de mesurer les contributions personnelles de chacun au développement du NNM,
+indépendamment de l’entité recueillant effectivement ce NNM, et donc d’augmenter les droits à
+rémunération variable du CA « demandeur », en diminuant symétriquement ceux du CA « receveur » ; que,
+par son aspect transfrontalier et eu égard au puissant attrait pour la protection assurée par le secret bancaire
+suisse, alors intact, l’ensemble de ce dispositif présentait par lui-même un risque de non-conformité résultant
+de l’implication éventuelle de l’établissement dans des opérations de transfert de capitaux qui auraient eu
+pour objet d’échapper au fisc du pays de résidence du client et, le cas échéant, en cas d’intervention en
+France de préposés d’une entité étrangère du groupe, dans une complicité de démarchage illicite ; que la
+présente procédure implique d’examiner si et dans quelle mesure UBSF a participé à ce dispositif
+d’ensemble et a pris des mesures pour en limiter le risque de non-conformité ;
+Considérant que, selon le rapport d’inspection, M. A, responsable de l’audit interne (LIA), a exposé
+oralement à l’été 2007 à M. Pierre POYET, président du directoire d’UBSF (jusqu’à sa démission en
+novembre 2007) et à M. B, responsable de la conformité, qu’à l’occasion de plusieurs audits menés entre
+2004 et 2006 sur l’agence de Bordeaux et son département commercial « Sport et Entertainment », puis en
+juin 2007 sur le département Contrôle de gestion, il se demandait si le réseau commercial de la banque, alors
+placé sous la responsabilité de M. Patrick de FAYET, membre du directoire, ne serait pas en fait mobilisé
+pour inciter des clients ou prospects à confier leurs fonds à des entités étrangères du groupe UBS dans des
+conditions qui relèveraient de l’évasion fiscale, le cas échéant avec le concours d’agents d’UBS AG venus
+opérer illégalement sur le territoire français ; que ses doutes étaient en particulier étayés par son incapacité à
+expliquer l’ampleur de l’écart (environ 100 millions d’euros) entre les fonds effectivement collectés par
+UBSF (Net New Money) au cours du mois d’avril 2007, tels qu’ils ressortaient des données produites par le
+contrôle de gestion, et ceux sur la collecte desquels les CA de cet établissement prétendaient faire rémunérer
+leurs interventions, relatées dans une « comptabilité parallèle » manuscrite dénommée « les carnets du lait » ;
+que dans la version définitive de son rapport d’audit écrit (LIA FRA 07-005 d’août 2007, approuvé par
+Pierre POYET le 20 septembre 2007), dans lequel il reconnaissait la qualité des travaux du département
+contrôlé, M. A recommandait que, avant le 31 décembre 2007, soit adopté un dispositif propre à « justifier
+l’ensemble des mouvements comptables relatifs au Net New Money » ; qu’à l’automne 2007, plusieurs
+salariés, dont les responsables des agences de Strasbourg et Cannes, ont tenu à la direction des propos qui
+pouvaient renforcer un tel soupçon et qui ont entraîné leur départ de la société ; qu’après ces incidents,
+désignés par M. B dans un courriel largement diffusé le 13 novembre 2007 au sein d’UBSF sous l’expression
+« interrogations récentes sur les ATA internationaux », la direction de la banque était nécessairement
+informée d’un grave risque de non-conformité, impliquant une réaction de sa part alors même que, comme
+elle le soutient, les doutes, allégations ou accusations alimentant ce risque seraient dépourvus de tout
+fondement ;
+Autorité de contrôle prudentiel – Commission des sanctions 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2012-03
+Considérant que la mission de contrôle sur place d’UBSF diligentée par l’ACP s’est déroulée du
+2 décembre 2010 au 22 avril 2011 et, après contradictoire oral et écrit sur un projet de rapport établi en juillet
+2011, a donné lieu à la signature d’un rapport final le 21 décembre 2011 (le « rapport d’inspection ») ; que
+dans sa séance du 11 avril 2012, le Collège de l’ACP (sous-collège sectoriel banque) a décidé d’ouvrir à
+l’encontre d’UBS France la présente procédure, dont la Commission des sanctions a été saisie le 24 mai
+2012 ; qu’à la différence de l’information judiciaire ouverte en avril 2012 (après l’enquête préliminaire
+décidée en mars 2011), qui recherche, notamment à partir de documents transmis par l’ACP et avec les
+moyens d’investigation adaptés, si des faits de complicité de blanchiment de fraude fiscale ou de démarchage
+illicite ont effectivement été commis, la présente procédure disciplinaire poursuit seulement d’éventuels
+manquements d’UBSF à la réglementation bancaire relative au contrôle interne, tout particulièrement sur la
+maîtrise des risques de non-conformité présentés par son activité transfrontalière ; que l’appréciation de tels
+manquements reste distincte de celle de la constitution des délits susmentionnés, dévolue à l’autorité
+judiciaire ;
+Considérant qu’il est en substance reproché à UBSF, d’une part, de n’avoir pas mis le responsable de la
+conformité en situation d’assumer sa tâche (1), d’autre part et surtout, d’avoir tardé à définir les procédures
+propres à suivre et évaluer la mise en œuvre effective des actions visant à remédier au risque de non-
+conformité susmentionné (2) ;
+1. Sur la place et les moyens des responsables du contrôle de conformité
+dans l’organisation d’UBSF
+Considérant que l’article 11 du règlement 97-02 fait obligation aux banques de désigner « un responsable
+chargé de veiller à la cohérence et à l’efficacité du contrôle du risque de non-conformité », lequel est défini
+au premier paragraphe de l’article 4 comme « le risque de sanction judiciaire, administrative ou
+disciplinaire, de perte financière significative ou d’atteinte à la réputation, qui naît du non-respect de
+dispositions propres aux activités bancaires et financières, qu’elles soient de nature législative ou
+réglementaire, ou qu’il s’agisse de normes professionnelles ou déontologiques, ou d’instructions de l’organe
+exécutif prises notamment en application des orientations de l’organe délibérant » ; que cette disposition
+implique non seulement qu’un tel responsable soit désigné, mais que l’organisation mise en place à cette
+occasion permette l’exercice effectif de cette responsabilité ;
+Considérant que, sur le fondement de cette disposition, il est reproché à UBSF de n’avoir pas
+correctement défini les compétences dévolues au responsable de la conformité pour veiller à la cohérence et
+l’efficacité du contrôle dans ce domaine et de ne pas lui avoir donné de moyens suffisants, notamment en
+effectifs ou en droit d’accès à certains comités tels que le « cross-border committee », pour exercer
+effectivement cette responsabilité ; qu’en outre ce responsable n’aurait pas été mis à même de contrôler les
+conditions dans lesquelles des agents d’UBSF auraient pu utiliser l’application informatique ReNew, destinée
+à centraliser au niveau du groupe l’enregistrement des références de prospects auxquels offrir les services de
+gestion de fortune, alors que cette application pouvait faciliter des contacts d’agents d’UBS AG avec des
+clients ou prospects d’UBSF et l’organisation d’opérations transfrontalières ;
+Considérant que, jusqu’à son départ en janvier 2010 (dans le cadre d’un plan social) M. B rassemblait
+sous son autorité les fonctions juridiques, conformité et contrôle des risques, ces deux dernières étant d’abord
+regroupées dans un département unique « Risk & Compliance », puis après juin 2009, réparties en deux
+équipes distinctes, placées respectivement sous l’autorité de M. C et de Mme D ; qu’il participait au
+directoire, au conseil de surveillance, ainsi qu’au comité de direction (business committee) ; qu’après le
+départ de M. B, M. E (ex-directeur juridique) a été chargé de « coordonner » l’ensemble des fonctions de
+conformité, alors même qu’il n’était le supérieur hiérarchique ni de Mme D, ni de M.C, qui relevaient l’un et
+l’autre directement du directeur général (CEO), tout en étant fonctionnellement rattachés d’une part au
+responsable de la division « Legal & Compliance » du groupe UBS AG et, d’autre part, à Mme F, responsable
+chez UBS Holding de la filière risques pour l’ensemble des filiales françaises ; qu’il résulte du dossier que,
+après le départ de M. B, M.E participait à toutes les réunions du conseil de surveillance, du directoire et du
+Autorité de contrôle prudentiel – Commission des sanctions 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2012-03
+comité de direction (business committee), Mme D siégeant au comité de direction, et participant
+occasionnellement au conseil de surveillance ;
+Considérant que, dans son principe, cette dernière organisation ne contrevenait pas aux dispositions
+réglementaires précitées, qui imposent seulement une surveillance de la cohérence du contrôle du risque de
+non-conformité, ce qui n’implique pas nécessairement que le responsable de cette coordination ait une
+autorité hiérarchique sur tous ceux qui interviennent dans le contrôle de la conformité ; que par ailleurs une
+relation fonctionnelle avec les responsables des fonctions conformité dans les structures supérieures d’un
+groupe peut conforter l’indépendance de ceux qui ont cette responsabilité dans une filiale, en organisant les
+comptes rendus et consultations propres à créer les contrepoids indispensables à ces fonctions ; qu’en outre,
+l’essentiel tient, bien davantage qu’à la continuité du trait plein d’un « râteau » d’organigramme, à la qualité
+de la confiance réciproque instaurée entre les responsables desdites fonctions, confiance dont témoignent en
+l’espèce l’abondance et la simplicité des courriels (présents au dossier) échangés entre eux ;
+Considérant en revanche que la poursuite relève à juste titre la pauvreté des effectifs dont disposait Mme D
+lors du contrôle (deux collaborateurs seulement), alors qu’un nouvel agent, recruté au deuxième trimestre
+2010, a quitté UBSF pendant sa période d’essai, ce qui avait notamment conduit à un grand retard des
+opérations de revue des dossiers de clients classés sensibles, ainsi qu’à un suivi insuffisant du délai des
+déclarations de soupçon effectuées auprès du service Tracfin ; que la poursuite a également raison de
+reprocher à UBSF le fait de n’avoir pas prévu qu’un représentant de la conformité soit membre de droit du
+« cross border committee », qui depuis septembre 2009 réunit bimensuellement deux membres du directoire,
+non pas seulement, comme le soutient UBSF, pour traiter des questions liées à la recherche de nouveaux
+clients résidant hors de France, mais bien pour traiter l’ensemble des questions liées aux activités
+transfrontalières (cf. annexe 31 au mémoire en défense du 28 septembre 2012 : « Objectifs et rôle du comité :
+/ Garantir la mise en œuvre des règles et procédures applicables aux affaires transfrontalières / Développer
+et implémenter un cadre local adapté et mettre en place les outils nécessaires pour l’exécution des contrôles
+Cross-border / Développer et implémenter un cadre de formation aux politiques transfrontalières et
+s’assurer de la certification des CAs (…) / Implémenter et adapter le cas échéant les outils Cross-Border
+Groupe et définir le process local ») ; que les seules circonstances que le responsable de la conformité aurait
+reçu copie des supports de présentation destinés à ce comité, ce qui l’aurait autorisé, d’après la banque, à s’y
+rendre, ou que, à partir de mars 2011, quand ce comité s’est vu confier la charge d’autoriser chacun des ATA
+internationaux, il aurait alors été invité à participer à ce comité pour ce point particulier, ne sauraient
+compenser le manquement résultant du défaut de son association systématique à l’ensemble de la supervision
+de ces activités, dont le caractère particulièrement sensible a déjà été souligné ;
+Considérant enfin qu’UBSF reconnaît d’une part qu’une quarantaine de ses agents avaient été habilités à
+saisir ou consulter des données dans l’application ReNew sus-décrite, et d’autre part qu’elle s’est totalement
+abstenue d’encadrer et contrôler les conditions dans lesquelles ses agents pouvaient utiliser cette
+habilitation ; que, pour sa défense, elle avance en substance qu’elle n’aurait jamais entendu participer à
+aucun programme par lequel ses préposés recommanderaient des clients ou prospects résidents français qui
+pourraient souhaiter ouvrir un compte auprès d’autres entités du groupe alors qu’elle s’est pour cette raison
+abstenue de désigner à cet effet un « local referral desk » (LRD) pour la France, mais que son intervention
+dans ce programme était limitée à l’acceptation éventuelle de clients ou prospects recommandés par d’autres
+entités du groupe ; que si certains de ses préposés ont été habilités à accéder à l’application informatique
+mise en place par UBS AG pour enregistrer au niveau du groupe ce type de recommandations ou
+acceptations, et gérer les rétrocessions de commissions liées à leur mise en œuvre, une mission d’audit
+confiée à KPMG aurait démontré qu’aucun d’eux n’avait en fait usé de cette habilitation ; que si cette
+application a échappé au processus annuel de certification régulièrement appliqué en son sein, c’est
+seulement parce qu’elle n’avait pas été qualifiée de « critique » par les équipes d’UBS AG ;
+Considérant toutefois que les accords signés le 20 janvier 2006 par UBSF avec deux filiales du groupe
+aux États-Unis, qu’elle produit elle-même « whereas [les cosignataires] desire to introduce, from time to
+time, clients prospects and existing clients to UBSF and UBSF desires to introduce, from time to time, clients
+prospects and existing clients to [les cosignataires] » définissent les conditions dans lesquelles tous les
+signataires proposeront ou accepteront les prospects ou clients, et recevront ou paieront les rétrocessions de
+Autorité de contrôle prudentiel – Commission des sanctions 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2012-03
+commissions impliquées par ces propositions et acceptations, 33 %, pendant quatre ans, des revenus générés
+chez la « recipient party » par le client ayant ouvert un compte en conséquence de la préconisation faite par
+la « referring party » ; que la seule mention, dans l’accord cadre produit en annexe 80 au mémoire en
+défense du 28 septembre 2012, que la France est un « Domestic Booking Center » pour des clients ou
+prospects résidents français ne suffit pas à établir que, comme elle l’allègue, UBSF n’aurait entendu
+intervenir dans ce programme que comme « récipient party » (acceptant des clients ou prospects proposés
+par d’autres entités du groupe) mais pas comme « referring party » (proposant ses propres prospects ou
+clients à l’acceptation d’autres entités du groupe), alors que d’abord la symétrie de ces deux types
+d’interventions résulte expressément de l’ensemble des stipulations des accords qu’elle a signés, qu’ensuite
+la mise en place en 2007 par UBS AG de l’application ReNew avait pour objet la gestion pratique de ces
+accords, au moins en ce qui concerne les prospects, qu’en outre un document remis par UBSF à l’inspection
+annexe V-2 du rapport d’inspection) , mentionne expressément la France parmi les participants au
+programme général d’orientation de prospects (cross-border prospects referrals) sans nullement préciser que
+la France n’y participerait que pour des échanges bilatéraux avec les seuls États-Unis et qu’enfin
+l’intervention du LRD n’était prévue que pour recevoir des prospects adressés par d’autres entités, en sorte
+que l’absence invoquée (en juillet 2010 ) de titulaire désigné à ce poste pour la France n’est pas pertinente
+pour nier la participation d’UBSF à l’orientation de prospects résidents français vers d’autres entités du
+groupe ; qu’au demeurant KPMG, dans son rapport susmentionné, précise qu’il a identifié « two LRD that
+are likely related to France, "LRD France" and "LRD Switzerland/France" », et que, si aucun d’eux n’était
+employé d’UBSF, ils ont été associés à 24 « transactions » impliquant la France et dont il est simplement
+indiqué qu’elles n’ont pas entraîné réception d’un prospect par un agent d’UBSF ;
+Considérant qu’il appartient à chaque établissement agréé de contrôler lui-même la sensibilité de toute
+application informatique permettant à ses préposés d’intervenir dans la gestion des données relatives à ses
+clients ou prospects, de manière à mesurer le risque de non-conformité qu’elle recèle et de mettre en place le
+cas échéant les procédures permettant de le maîtriser ; qu’ainsi la seule circonstance que ReNew n’a pas été
+classé comme une application « critique » par les services d’UBS AG ne pouvait dispenser UBSF de
+procéder à sa propre évaluation du risque de non-conformité, lequel était en l’espèce élevé puisque l’usage
+de cette application, qui permettait à tout agent habilité de proposer à d’autres entités du groupe un prospect
+ou client qui souhaiterait ou pourrait souhaiter ouvrir un compte à l’étranger, devait être entouré de
+précautions assurant le respect des dispositions législatives et réglementaires relatives notamment à l’évasion
+fiscale ou à l’interdiction de pratiquer sans autorisation des opérations de démarchage bancaire* sur le
+territoire français ; que par suite le fait qu’une application aussi sensible ait pu être rendue accessible à des
+agents d’UBSF à l’insu total des fonctions conformité et contrôle interne de la banque constitue un
+manquement qui exposait UBSF à un risque de conformité d’une particulière gravité ; que par ailleurs la
+circonstance, à la supposer établie, qu’il aurait été constaté a posteriori que tous les agents d’UBSF habilités
+pour cette application se seraient en fait abstenus d’en faire usage, doit rester sans conséquence sur le bien-
+fondé du grief, qui repose sur l’absence de tout contrôle sur les risques présentés par cette application et ces
+habilitations, au point que l’existence même de cette application et de ces habilitations était ignorée des
+instances de contrôle d’UBSF ; qu’ainsi le grief est en tout état de cause établi, même si UBSF allègue être
+restée entièrement extérieure au programme d’échanges de prospects ainsi organisé ; qu’au demeurant il faut
+relever, comme le fait l’inspection, d’une part que la vérification effectuée par KPMG de l’exhaustivité et de
+l’intégrité des données enregistrées dans ReNew (desquelles ce cabinet a cru pouvoir déduire qu’aucun des
+préposés d’UBSF n’avait usé de son habilitation à y saisir des données) n’a été systématique que sur la
+période d’octobre 2009 à février 2011, postérieure au « whistleblowing », mais n’a été effectuée, pour la
+période antérieure, pourtant beaucoup plus significative, qu’à partir d’une collection incomplète de rapports
+mensuels communiqués à KPMG, et d’autre part que ces rapports n’étaient pas eux-mêmes exhaustifs
+puisqu’ils ne sont que des « photos » en fin de mois du statut des enregistrements (excluant donc les
+enregistrements entièrement traités durant le mois) ;
+Considérant qu’il résulte de ce qui précède que, dans le périmètre réduit par l’abandon de la partie
+concernant la position du responsable de la conformité dans l’organigramme, le grief est établi ;
+* Voir les articles L. 341-1, L. 341-8 et L. 353-1 du Comofi.
+Autorité de contrôle prudentiel – Commission des sanctions 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2012-03
+2. Sur le retard à définir les procédures propres à remédier
+aux dysfonctionnements relatifs à la conformité
+des activités transfrontalières
+Considérant que, selon l’article 11-3 du même règlement 97-02, les banques doivent « mettre en place des
+procédures permettant de suivre et d’évaluer la mise en œuvre effective des actions visant à remédier à tout
+dysfonctionnement dans la mise en œuvre des obligations de conformité » ; qu’eu égard à la gravité des
+soupçons exprimés par le responsable de l’audit interne sur les conditions dans lesquelles le réseau
+commercial pourrait avoir participé à des opérations d’évasion fiscale et avoir facilité le démarchage illicite
+de clients ou prospects par des préposés de la société mère, de surcroît étayés par les déclarations des
+responsables de deux des huit succursales de province existant alors (quatre ont été fermées depuis), ces
+éléments déjà évoqués constituaient un « dysfonctionnement » au sens de ces dispositions, alors même que,
+comme le soutient UBSF, ils auraient été en fait infondés ;
+Considérant qu’eu égard à la gravité de ce dysfonctionnement, dont la direction a été informée au plus
+tard à l’automne 2007, l’article 11-3 précité imposait à UBSF non seulement de définir sans délai les
+procédures propres à remédier à ce risque de non-conformité, notamment par l’encadrement de tous les
+processus au travers desquels, par l’intermédiation directe ou indirecte de ses agents, ses prospects ou clients
+pouvaient être amenés à confier leurs fonds à des entités étrangères du groupe, mais encore de veiller à ce
+que ces procédures soient ponctuellement respectées ; que sur ce fondement il est d’abord reproché à UBSF
+d’avoir attendu plus de 18 mois pour définir les procédures d’encadrement et de contrôle des ATA, après les
+recommandations du rapport du 20 septembre 2007 de M. A, pour que soit justifié l’ensemble des
+mouvements comptables relatifs au « Net new money » ; qu’il est ensuite reproché que, même après la
+définition tardive de ces procédures (validation en mai 2009 de la procédure 07FR03 relative aux ATA ;
+création à partir du 2e trimestre 2009 d’un contrôle 1402 dans l’outil du contrôle permanent KPL), ce
+dispositif serait resté insuffisant, soit parce qu’une nouvelle procédure édictée en mars 2011 l’a allégé en
+dispensant de constituer un dossier dédié contenant les justificatifs de chaque ATA international, soit parce
+qu’aucun dispositif n’empêche que ces ATA soient directement saisis par un chargé d’affaires (CA) malgré
+l’interdiction qui lui est faite, soit parce que les contrôles de premier et de second niveau réellement effectués
+sur le dispositif étaient insuffisants ou avaient confirmé qu’il n’était pas effectivement respecté ; qu’il est
+enfin reproché à UBSF d’avoir insuffisamment contrôlé les conditions dans lesquelles elle prêtait son
+concours à l’organisation de contacts entre des collaborateurs d’UBS AG et certains de ses clients ou
+prospects ;
+Considérant que le fait qu’un grief soit décliné en plusieurs parties ne nuit par lui-même ni à sa clarté ni à
+sa précision ; que les renvois faits par la notification de griefs, dans des notes de bas de page, à des passages
+du rapport ou de ses annexes pour étayer le grief formulé concourent à en accroître la précision et
+l’intelligibilité ; que les constats sur lesquels reposent les griefs notifiés et la qualification des manquements
+reprochés n’ont en l’espèce nullement égaré UBSF pour l’élaboration de sa défense ; que la critique formulée
+par UBSF ne peut donc être retenue ;
+Considérant en premier lieu que, pour expliquer avoir attendu le 20 mai 2009 avant de valider son
+instruction 07FR03 encadrant pour la première fois la procédure relative aux ATA internationaux, après que
+le groupe a adopté le 9 décembre 2008, à effet de février 2009, une instruction générale sur ses activités
+transfrontalières, UBSF se borne à invoquer, outre les préoccupations liées à la chute de Lehman Brothers
+(septembre 2008) et au plan social mis en place en 2009, la réaction rapide de M. B après le
+« dysfonctionnement » susmentionné : que celui-ci a en effet diffusé dès le 13 novembre 2007 un important
+courriel rappelant solennellement à l’ensemble du réseau commercial, à la suite « des interrogations récentes
+sur les ATA internationaux… (qu’) en aucun cas UBSF ne favorise ni ne participe à des opérations de nature
+à être considérées comme de la fraude fiscale ou douanière… (qu’) il est interdit (sous peine de sanctions
+pouvant aller jusqu’au licenciement) à tout salarié… de prêter son concours à de telles opérations… (ou) à
+une activité de démarchage illicite sur le territoire national… (alors que) notre devoir de conseil nous
+impose (i) d’informer tout client, résident en France et qui souhaite ouvrir un compte à l’étranger, qu’il a
+l’obligation de déclarer ce(s) compte(s) à l’administration fiscale française… (iii) de rappeler à tout client
+Autorité de contrôle prudentiel – Commission des sanctions 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2012-03
+qui deviendrait non-résident en France qu’il doit accomplir des formalités fiscales avant son départ… les
+ATA internationaux concernent des opérations officielles (délocalisations, ouvertures de comptes…), les
+seules auxquelles UBSF est en droit de participer… tant dans le cas d’un clearing trimestriel que dans le cas
+de la prise en compte au cas par cas, tout ATA (international) doit être justifié et comporter le nom du client
+concerné, une description de l’opération et le montant en cause ; il appartient à chaque CA de veiller à ce
+que tout ATA soit documenté et corresponde au critère ci-dessus ; de ce fait, les éléments probants
+nécessaires doivent être réunis avant toute demande d’ATA ; il est de la responsabilité de chaque Desk Head
+(responsable d’équipe) de vérifier la complétude des éléments fournis à l’occasion d’une demande d’ATA et
+de veiller à ce que ces éléments soient dûment conservés pendant 5 ans » ;
+Considérant que ce courriel, s’il montrait que ce responsable avait pris conscience de la gravité de l’enjeu,
+ne constituait pas en lui-même une « procédure » ; qu’un mémorandum de l’audit interne, daté du 26 mai
+2008, avait encore insisté sur les limites des contrôles permis par le système informatique des ATA, qui
+n’enregistrait pas les noms des clients, et n’enregistrait que des opérations globales compensées, et sur les
+risques de sanctions disciplinaires ou pénales et de réputation inhérents à ces opérations, si elles venaient à
+couvrir des évasions fiscales ; que les ATA ne sauraient être ramenés à un outil banal venant seulement
+éclairer une décision discrétionnaire d’attribution d’un bonus dans le cadre de la gestion des ressources
+humaines ; qu’au contraire, les commentaires internes à UBSF apportés en septembre 2009 sur l’instruction
+07FR03 sus-visée, après avoir défini l’ATA comme une « reconnaissance d’affaires entre deux
+commerciaux, permettant de réaliser une correction comptable d’affectation de NNM », insistent sur
+l’objectif de cette procédure qui est d’instaurer « une documentation et une traçabilité de l’ensemble des flux
+financiers entre UBSF et une autre unité commerciale », et de « centraliser la gestion des ATA
+internationaux, de manière à gérer le risque réglementaire et réputationnel lié à ce type d’opération » ; que
+le même document mentionne que le CA doit constituer un dossier d’ATA, comportant tout élément
+permettant d’identifier clairement le client/prospect (profil complet et à jour, notamment au niveau de l’état
+civil et de la situation professionnelle, copie de la CNI ; pour les personnes morales, les profils des
+dirigeants doivent être à jour, et un extrait Kbis de moins de 3 mois doit être joint) ; que ce dossier doit
+comporter une copie de la consultation Cosima (outil de détection des personnes politiquement exposées),
+tout élément permettant d’identifier le rôle du CA dans le dossier ainsi que l’opération économique sous-
+jacente, une copie du courrier rappelant au client ses obligations déclaratives en cas de délocalisation ; que
+ces dispositions retenues dans l’instruction 07FR03 faisaient suite à des observations exprimées par M. B
+dans un courriel du 6 septembre 2008 selon lesquelles « la traçabilité est un point clé et doit être vue sous
+l’angle contrôle interne et externe, d’où le fait que les opérations doivent être particulièrement documentées,
+ce qui signifie… qu’aucun ATA ne pourra être effectivement mis en place… si le dossier n’est pas
+correctement documenté : check-list très complète, comportant notamment une mise à jour du profil du
+client, le nombre et le montant global des mouvements entrants et sortants sur les 12 derniers mois… » ;
+Considérant que l’importance et l’urgence de la définition de cette nouvelle procédure ressortaient encore
+des événements survenus après la fin 2007 ; qu’en effet, c’est parce qu’ils lui paraissaient se heurter à
+« l’inertie… du management France » que, en dépit du courriel précité de novembre 2007, M. A a décidé,
+dans le cadre de la procédure interne « whistleblowing protection for employees », de consigner le
+19 décembre 2008 dans un rapport de huit pages (ci-après « le whistleblowing ») les doutes qu’il dit avoir
+exprimés dès l’été 2007 sur la participation de nombreux CA d’UBSF à des opérations d’évasion fiscale, et
+sur une activité déployée en France par des agents d’UBS AG auprès de clients ou prospects d’UBSF, dans
+des conditions pouvant relever d’un démarchage commercial illégal ; que, pour justifier ses doutes, il faisait
+état d’écarts inexpliqués entre les chiffres de NNM fournis par le contrôle de gestion et ceux enregistrés par
+le département commercial, qui résulteraient d’ATA « intégrant le carnet du lait » (documents enregistrant
+l’intervention personnelle de chaque CA sur les flux de NNM) ; que le département « Risk & Compliance »
+du groupe UBS AG, chargé en février 2009 de vérifier les allégations de M. A, a conclu en juin 2009
+(rapport « Whistleblowing Case cross-border Activities ») qu’il n’avait pas été en mesure de valider l’écart
+de chiffrage de NNM susmentionné, dès lors que les « carnets du lait » ayant servi aux calculs du rapport
+LIA avaient disparu en sorte que plus aucun document ou chiffre n’était plus disponible (« the carnet du lait
+does no longer exist and documentation/numbers are not available anymore »), mais a pris acte des mesures
+prises par UBSF courant 2009 pour encadrer ses activités transfrontalières et a préconisé le déploiement de
+contrôles additionnels (Global Key Control) dans ce domaine ; qu’ainsi il apparaît que c’est en réaction au
+Autorité de contrôle prudentiel – Commission des sanctions 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2012-03
+« whistleblowing » que deux plans d’action ont été élaborés, l’un (n° 3) pour que soit rédigée avant le
+31 janvier 2009 une procédure décrivant « le cadre réglementaire dans lequel la réalisation d’un ATA
+international est envisageable, le process de réalisation-validation d’un ATA, les éléments permettant de
+justifier l’identification du client concerné, le rôle des différentes parties, l’objet de l’opération,
+l’engagement entre les différentes parties, les contrôles applicables et leur formalisation », l’autre (n° 4) pour
+que soit mis en place avant la même date un contrôle trimestriel de 1er niveau, visant à s’assurer que les ATA
+internationaux ont été transmis au responsable du Business Management avant leur validation dans les
+systèmes ;
+Considérant qu’il résulte de ce qui précède que, jusqu’à la parution en mai 2009 de l’instruction 07FR03,
+et malgré l’importance du risque de non-conformité, sur lequel son attention avait été attirée au moins depuis
+la fin 2007 et qui eut exigé une réaction immédiate, attaché aux conditions dans lesquelles ses CA pouvaient
+prêter leur concours à des opérations conduisant des prospects ou clients à confier leurs fonds à des entités
+étrangères du groupe, UBSF n’a mis en place aucune procédure décrivant le processus détaillé propre à les
+encadrer, en organisant leur traçabilité ;
+Considérant en second lieu que plusieurs pièces du dossier établissent que cette instruction n’a pas été
+correctement appliquée, soit que les CA s’abstiennent d’établir un ATA par client, ou de constituer pour
+chaque ATA le « dossier dédié » exigé (comprenant tous les éléments mentionnés ci-dessus), soit que les
+ATA soient enregistrés directement par les CA, sans validation par le « Head of Front », puis par le « Branch
+Manager » ; qu’en outre, une nouvelle édition de l’instruction 07FR03, datée du 21 mars 2011 a remplacé
+l’obligation de constituer le dossier dédié susmentionné pour les flux sortants (dont le contenu avait été
+détaillé et sur l’importance duquel le responsable de la conformité avait fortement insisté comme il a été déjà
+dit) par celle de « constituer un dossier complémentaire au formulaire de demande d’ATA », sans plus
+énoncer aucune description du contenu de ce dossier, et sans pour autant introduire dans le dispositif
+informatique l’impossibilité pour un CA de saisir directement un ATA ; que c’est seulement une troisième
+édition de l’instruction, datée du 25 juin 2012, soit après le contrôle de l’ACP, qui a rétabli l’obligation de
+constituer un dossier pour chaque ATA, au contenu précisément détaillé ;
+Considérant en troisième lieu que si de premiers comptes rendus trimestriels de contrôle sur les ATA
+internationaux ont été établis (rapport diffusé le 19 décembre 2008 sur les ATA validés au 2e trimestre 2008),
+c’est seulement au 2e trimestre 2009 que l’outil permettant de formaliser systématiquement les contrôles
+permanents (Control Plan Tool KPL) a été complété par un contrôle (référencé n° 1402) dédié aux ATA
+internationaux ; que ces contrôles permanents font l’objet d’une revue trimestrielle de deuxième niveau par
+le département « Risk Control », mais que celle-ci se borne à faire la synthèse des contrôles de premier
+niveau à l’intention du directoire, sans procéder à aucune investigation complémentaire pour s’inquiéter de
+l’origine des lacunes décelées par les premiers et définir les moyens de les combler ;
+Considérant qu’il est constant que M. G, responsable mondial de la ligne métier « wealth management »
+et M. H responsable auprès de M. G du segment UHNW (ultra high net worth) Europe ont rencontré cinq
+clients ou prospects d’UBSF dans le cadre de visites préparées par la ligne métier de la banque et dans les
+locaux de celle-ci, le 12 juillet 2010 pour le premier, et les 21 et 22 octobre 2010 pour le second ; que la
+banque soutient qu’eu égard au niveau hiérarchique très élevé de MM. G et H, qui les distinguait de simples
+« conseillers commerciaux », ces réunions ne pouvaient correspondre à des actes de démarchage effectués
+par UBS AG, non agréée en France à cet effet, et ne relevaient donc que de la simple visite « informelle » ou
+de « courtoisie » ; que cependant la compétence clairement circonscrite au « wealth management » de ces
+dirigeants et la qualité des clients rencontrés ne permettaient pas d’exclure par principe que leur venue à
+Paris pour rencontrer ces derniers ait eu une finalité commerciale qui ne serait pas bornée à appuyer un
+démarchage licitement effectué par UBSF pour proposer ses propres prestations, mais aurait pu s’étendre à
+proposer directement des prestations d’autres entités du groupe ; qu’ainsi, en dépit du formalisme apparent
+qu’elles impliquaient, en n’appliquant pas ses procédures internes qui veillaient à proscrire ou encadrer
+d’éventuelles activités commerciales en France d’entités étrangères du groupe UBS et imposaient à cet effet
+de faire autoriser par le département juridique tout accès d’un non-salarié d’UBSF dans les locaux de cette
+banque pour y rencontrer l’un de ses clients ou prospects (cf. notamment l’instruction n° 09TR01 « sécurité
+et accès aux locaux », définie en mars 2009 dans le cadre de l’ensemble des mesures prises au 1er semestre
+Autorité de contrôle prudentiel – Commission des sanctions 10
+
+===== Page 11 =====
+Décision de la Commission des sanctions – procédure no 2012-03
+2009 pour encadrer les activités transfrontalières, la banque a encore témoigné d’une regrettable légèreté
+dans l’application des procédures destinées à remédier au dysfonctionnement constaté dans la maîtrise de son
+risque de non-conformité ;
+Conclusion
+Considérant qu’il résulte de ce qui précède que la direction d’UBSF a été informée au plus tard à
+l’automne 2007 d’un grave risque de non-conformité susceptible de provoquer des poursuites judiciaires ou
+disciplinaires et de compromettre la réputation de l’établissement ; que le laxisme de ses procédures d’alors,
+consistant notamment à n’établir, à seule fin de déterminer les rémunérations variables dues à ses agents
+commerciaux à raison de leur contribution à des collectes de capitaux dont la gestion pouvait être délocalisée
+hors de France, que des tableaux (ATA) dans lesquels le nom des clients concernés n’apparaissait pas, dont
+les montants bruts étaient globalisés et compensés, et qui n’étaient accompagnés d’aucune documentation
+propre à permettre un contrôle de conformité, faisant ainsi obstacle à toute traçabilité des opérations, ne
+s’expliquait par aucune impossibilité technique ou juridique, alors surtout que les agents commerciaux
+établissaient d’autres documents « préparatoires aux ATA » individualisés par clients, nominatifs et non
+compensés (les « carnets du lait », centralisés trimestriellement dans un fichier Excel dénommé « Vache »),
+dont la banque a interdit la tenue à partir de la fin 2007 et dont la disparition a coïncidé avec le départ de
+M. Patrick de FAYET ; qu’UBSF n’a exercé aucun contrôle sur l’octroi et l’usage possible des droits
+conférés à ses agents pour accéder à une application informatique d’UBS AG (ReNew) conçue notamment
+pour orienter des prospects vers des entités étrangères du groupe ; que la commission, qui n’a pas eu à
+rechercher si ces pratiques visaient ou non à dissimuler des délits, ne peut manquer de relever qu’elles
+n’étaient pas de nature à les prévenir ; que dans ces conditions, le fait d’avoir attendu plus de 18 mois pour
+entreprendre la mise en place des procédures de prévention et de contrôle propres à traiter ce grave risque,
+qui exigeait une réaction immédiate, constitue un manquement particulièrement condamnable ; que doivent
+être également sanctionnés les faits que, encore en 2010, les contrôles exercés dénotaient une application
+imparfaite des procédures mises en place en 2009 et étaient insuffisants, tant au premier qu’au second
+niveau ;
+Considérant que l’autorité de poursuite ne soutient pas que le retard à mettre en place les procédures et
+contrôles propres à écarter les risques de non-conformité sus-évoqués aurait eu pour objet et pour effet de
+dissimuler la poursuite d’activités délictuelles, en sorte que, malgré la présence au dossier d’allégations à ce
+sujet, en particulier dans les documents joints au dossier à la demande d’UBSF, la commission excéderait les
+limites que lui impose le respect du débat contradictoire si elle faisait entrer dans l’appréciation qu’elle doit
+porter sur l’ampleur de la sanction méritée par ces manquements, le préjudice qu’UBSF aurait le cas échéant
+causé à la collectivité en participant à une évasion fiscale massive ou les bénéfices dont UBSF se serait
+volontairement privée au profit d’autres sociétés de son groupe en prêtant son concours à un démarchage
+illicite de celles-ci ; que pour ces raisons, ne saurait être envisagée une mesure d’interdiction ou de limitation
+des activités d’UBSF, alors notamment que, progressivement à partir du premier semestre 2009 et en tout cas
+lors de la saisine de la commission en mai 2012, UBSF avait pris des mesures en vue de renforcer sa maîtrise
+du risque de non-conformité lié à ses activités transfrontalières ; qu’ainsi, ces manquements justifient le
+prononcé d’un blâme et d’une sanction pécuniaire de dix millions d’euros ;
+Considérant qu’en sus de ceux qui viennent d’être analysés, le collège a notifié à UBSF 30 autres griefs
+(numérotés de 8 à 37 par le rapporteur), tenant également à la méconnaissance des obligations de contrôle
+interne et de vigilance, mais ne concernant pas les activités transfrontalières ; qu’après les avoir examinés, la
+commission a estimé que la gravité de ceux d’entre eux qui sont établis est très inférieure à celle des
+premiers, ainsi qu’il ressort de la liste suivante :
+8. Classification des risques de blanchiment insuffisamment affinée pour être totalement conforme au 3 de
+l’article 11-7 du règlement 97-02 : établi, bien que relativisé ;
+9. Absence de définition, pour mettre en œuvre les nouvelles obligations de vigilance imposées par
+l’ordonnance 2009-104 sus-visée, de l’ordre d’examen prioritaire des dossiers clients en fonction du risque
+de blanchiment qu’ils pouvaient présenter : établi ;
+Autorité de contrôle prudentiel – Commission des sanctions 11
+
+===== Page 12 =====
+Décision de la Commission des sanctions – procédure no 2012-03
+10. Inachèvement, lors du contrôle, de la revue de 206 dossiers clients (« KYC ») dont la dernière
+actualisation remontait à décembre 2009 : établi ;
+11 à 18. Dossiers de 8 clients comportant des insuffisances, approximations, défauts d’actualisation ou
+imperfections et ne respectant donc pas toutes les exigences formelles de documentation : écarté pour
+le 16* ; établis pour les autres (même si formels ou relativisés pour les 11, 12 et 15) ;
+19 à 21. Imperfections dans les modalités de paramétrage ou de mise à jour de certains outils d’alerte
+relatifs aux mouvements financiers importants, aux personnes visées par le gel des avoirs et aux personnes
+politiquement exposées : établis ;
+22 à 26. Mise sous surveillance (inscription sur une « watchlist ») de certains clients n’impliquant pas
+toujours de conséquence opérationnelle pour les chargés d’affaires, répondant à des critères insuffisamment
+formalisés, n’impliquant parfois qu’une documentation imparfaite des alertes et ne faisant pas l’objet de
+mises à jour régulières pour retirer de la liste ceux dont la surveillance n’était plus justifiée : établis, avec
+toutefois un champ réduit pour le 25 ;
+27 à 33. Imperfection de la vigilance exercée sur les opérations de 7 clients : non établi pour les 29, 30, 31,
+établi pour les autres ;
+34. Absence de déclaration au service Tracfin : abandonné par la poursuite ;
+35 à 37. Absence de procédure intragroupe imposant l’échange d’informations sur les déclarations de
+soupçons (établi) ; absence de procédure définissant le contrôle des chèques (non établi) ; non mise à jour
+ou non-conformité de 6 autres procédures internes (non établi pour 2, formel pour 2, établi pour les deux
+dernières) ;
+Considérant que, dans ces conditions, la commission a estimé ne pas devoir énoncer le détail de son
+examen dans la présente décision, de crainte d’en obscurcir la lisibilité en mettant au même niveau apparent
+les manquements particulièrement graves déjà examinés et les autres, qui en l’espèce ne sont pas de nature à
+justifier une aggravation du niveau de la sanction infligée pour les premiers ;
+Considérant que le préjudice résultant d’une publication de la présente décision sous une forme faisant
+apparaître le nom de l’UBSF ne paraît pas disproportionné ; qu’une telle publication n’est pas susceptible de
+perturber les marchés financiers ; qu’il y a donc lieu de publier la présente décision sous forme nominative ;
+PAR CES MOTIFS
+DÉCIDE :
+Article 1er : Il est prononcé un blâme à l’encontre d’UBSF, ainsi qu’une sanction pécuniaire d’un montant
+de dix millions d’euros.
+Article 2 : La présente décision sera publiée au registre de l’Autorité de contrôle prudentiel et pourra être
+consultée au secrétariat de la commission.
+Le Président de la Commission des sanctions
+[Bruno MARTIN LAPRADE]
+Conseiller d’État honoraire
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification et
+dans les conditions prévues à l’article L. 612-16, IV, du Code monétaire et financier.
+* Absence de détection en février 2009 de la qualité de PPE, avant l’entrée en vigueur de cette notion.
+Autorité de contrôle prudentiel – Commission des sanctions 12

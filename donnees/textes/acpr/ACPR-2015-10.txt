@@ -1,0 +1,846 @@
+===== Page 1 =====
+SKANDIA LIFE S.A.
+Procédure no 2015-10
+–––––
+Blâme et sanction pécuniaire
+de 1,2 million d’euros
+–––––
+Audience du 11 juillet 2016
+Décision rendue le 29 juillet 2016
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 15 décembre 2015 par laquelle le Vice-président de l’Autorité de contrôle prudentiel et de
+résolution (ci-après l’ACPR) informe la Commission de ce que le Collège de supervision de l’ACPR (ci-
+après le Collège), statuant en sous-collège sectoriel de l’assurance, a décidé d’ouvrir une procédure
+disciplinaire à l’encontre de la succursale française de la société luxembourgeoise Skandia Life S.A. (ci-
+après Skandia Life) – 100-101, terrasse Boieldieu, tour Franklin, Paris-La Défense –, enregistrée sous le
+numéro 2015-10 ;
+Vu la notification de griefs du 15 décembre 2015 et les pièces qui y sont annexées ;
+Vu les mémoires en défense des 22 février, 19 mai et 7 juillet 2016, ainsi que les pièces qui les
+accompagnent, par lesquels Skandia Life soutient (i) que la mission de contrôle est intervenue dans des
+conditions contraires aux prescriptions impératives de l’article R. 622-2 du code monétaire et financier (ci-
+après le CMF) et que les agents de cette mission ont manqué à leurs devoirs de loyauté et d’impartialité, si
+bien que la nullité de la procédure s’impose, (ii) à titre subsidiaire, que les griefs notifiés sont mal fondés en
+fait comme en droit et que la Commission doit tenir compte des engagements qu’elle a pris lors du contrôle
+sur place et mis en œuvre depuis, et demande (iii) que la publication de la décision à intervenir ne soit pas
+nominative et (iv) que la séance de la Commission se tienne à huis clos ;
+Vu les mémoires des 29 avril et 27 mai 2016, par lesquels M. Christian Babusiaux, représentant le
+Collège, estime que l’exception de procédure soulevée doit être écartée et maintient l’ensemble des griefs
+notifiés ;
+Vu le rapport du 10 juin 2016 de M. Denis Prieur, rapporteur, dans lequel celui-ci conclut qu’aucun des
+reproches formulés par Skandia Life concernant le déroulement du contrôle sur place n’est de nature, dans
+les conditions concrètes de ce contrôle, à constituer une atteinte irrémédiable aux droits de la défense
+affectant la procédure devant la Commission des sanctions et que les 8 griefs notifiés sont établis ;
+Vu les courriers du 10 juin 2016 convoquant les parties à l’audience, les informant de la composition de la
+Commission et de ce qu’il sera fait droit à la demande présentée par Skandia Life tendant à ce que cette
+audience ne soit pas publique ;
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2015-10
+Vu les observations présentées le 24 juin 2016 par Skandia Life sur le rapport du rapporteur ;
+Vu les autres pièces du dossier, notamment le rapport de contrôle du 17 avril 2015 et la décision par
+laquelle le Collège a décidé d’ouvrir cette procédure ainsi que le procès-verbal de la séance du Collège à
+l’issue de laquelle cette décision a été prise ;
+Vu l’article 6 de la convention européenne de sauvegarde des droits de l’homme et des libertés
+fondamentales ;
+Vu le code monétaire et financier (CMF), notamment ses articles L. 612-23 et R. 612-22, L. 612-39 et
+R. 612-35 à R. 612-51 et L. 561-10-2, L. 561-15, R. 561-20 et R. 561-38, dans leur rédaction en vigueur au
+moment des faits ;
+Vu le code des assurances, notamment son article A. 310-8 ;
+Vu l’ordonnance no 2009-104 du 30 janvier 2009 relative à la prévention de l’utilisation du système
+financier aux fins de blanchiment de capitaux et de financement du terrorisme (ci-après l’ordonnance
+no 2009-104), notamment son article 19 ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACPR, composée de M. Rémi Bouchez, Président, MM. Yves Breillat,
+Francis Crédot et Christian Lajoie et Mme Christine Meyer-Meuret ;
+Après avoir entendu, lors de sa séance non publique du 11 juillet 2016 :
+− M. Prieur, rapporteur, assisté de M. Raphaël Thébault, son adjoint ;
+− M. Hubert Gasztowtt, représentant de la directrice générale du Trésor, qui a indiqué ne pas avoir
+d’observations à formuler ;
+− M. Babusiaux, représentant le Collège de l’ACPR, assisté de la cheffe du service du droit de la lutte anti-
+blanchiment et du contrôle interne, du chef du service des affaires institutionnelles et du droit public et
+d’une collaboratrice juriste au sein de ce service ; M. Babusiaux a proposé le prononcé d’un blâme assorti
+d’une sanction pécuniaire de 1,5 million d’euros, dans une décision publiée sous une forme nominative ;
+− Skandia Life, représentée par son mandataire général, assisté du secrétaire général du groupe APICIL, du
+responsable de la conformité et du directeur des risques de la société Skandia Life, ainsi que de
+Mes Isabelle Monin Lafin et Pamela Gouraud (cabinet Astrée Avocats) et Me Delphine Dendievel (cabinet
+Allen&Overy), avocats à la Cour ;
+Les représentants de Skandia Life ayant eu la parole en dernier ;
+Après avoir délibéré en la seule présence de M. Bouchez, Président, de MM. Breillat, Crédot et Lajoie et
+de Mme Meyer-Meuret, ainsi que de M. Jean-Manuel Clemmer, chef du service de la Commission des
+sanctions faisant fonction de secrétaire de séance ;
+1. Considérant que l’organisme d’assurance Skandia Life S.A., établi depuis le 28 avril 2011 au Grand-
+Duché de Luxembourg était, jusqu’en 2015, la filiale à 100 % du groupe britannique Old Mutual ; qu’il
+propose des produits d’assurance sur la vie multi-supports, commercialisés par l’intermédiaire de conseillers
+en gestion de patrimoine indépendants (CGPI) ; que fin 2015, il disposait de 51 millions d’euros de fonds
+propres ; qu’en mai 2016, la succursale française comptait 80 salariés ; que les actifs sous gestion de Skandia
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2015-10
+Life s’élevaient à 2,6 milliards d’euros en 2015 contre 2,3 milliards en 2014 ; qu’en 2015, la collecte brute
+globale s’est établie à 325 millions d’euros contre 305 millions en 2014 ; qu’au terme d’une restructuration,
+Skandia Life a réduit sa perte entre 2012 et 2014 de 11 millions d’euros à 125 000 euros ; que la cession de
+son capital au groupe APICIL, cinquième groupe français de protection sociale, spécialisé dans la santé, la
+prévoyance, l’épargne et la retraite, a été conclue le 2 février 2015 ;
+2. Considérant que la succursale française de Skandia Life a fait l’objet d’un contrôle sur place du
+17 juillet au 21 novembre 2014, qui a donné lieu à la signature d’un rapport définitif le 17 avril 2015 (ci-
+après le rapport de contrôle) ; qu’au vu de ce rapport, le Collège a décidé, lors de sa séance du 17 novembre
+2015, d’ouvrir la présente procédure disciplinaire ;
+I. Sur la régularité de la procédure de contrôle sur place et le respect
+des droits de la défense avant l’ouverture d’une procédure disciplinaire
+3. Considérant que l’article L. 612-23 du CMF dispose que « Le secrétaire général de l’Autorité de
+contrôle prudentiel et de résolution organise les contrôles sur pièces et sur place. (…) » ; que, selon l’article
+R. 612-22 de ce code, « Les contrôleurs appelés à exercer une mission de contrôle permanent sont
+accrédités auprès des personnes soumises à leur contrôle. Ils peuvent à toute époque de l’année vérifier sur
+pièces et sur place toutes les opérations de ces personnes. / Le secrétaire général peut en outre diligenter des
+missions de contrôle sur place par lettre de mission précisant l’objet de la mission de contrôle et désignant
+le ou les contrôleurs qui en sont chargés. Cette lettre est présentée à la personne contrôlée en réponse à
+toute demande. » ;
+4. Considérant que Skandia Life soutient à titre principal que la procédure disciplinaire est nulle en raison
+des illégalités et des méconnaissances des garanties procédurales qui entachent le contrôle ; que l’ordre de
+mission par lequel le secrétaire général a désigné Mme A comme cheffe de mission ne prévoyait pas la
+possibilité pour celle-ci de s’adjoindre d’autres personnes ; que la charte de conduite d’une mission de
+contrôle, qui prévoit une telle possibilité dans le cadre d’une mission de contrôle, n’a qu’une valeur
+informative et ne peut donc fonder une dérogation aux dispositions impératives du CMF ; que le juge
+administratif considère que les atteintes aux droits survenues au cours de l’enquête administrative ne sont pas
+toujours susceptibles d’être corrigées lors de la procédure disciplinaire (CE, 15 mai 2013, Alternative
+Leaders France, no 356054) ; que la participation au contrôle sur place de personnes non désignées dans
+l’ordre de mission du secrétaire général, qui s’est manifestée par leur présence aux réunions de démarrage ou
+de restitution et l’envoi en copie des courriels importants, constitue une atteinte irrémédiable aux garanties
+procédurales dont doit bénéficier toute personne contrôlée puis mise en cause devant la Commission ; que,
+de jurisprudence constante, le Conseil d’État censure les décisions prises à l’issue d’une procédure illégale
+lorsque l’irrégularité constatée a privé les administrés de garanties substantielles (CE, Ass., 23 décembre
+2011, Danthony, no 335033 ; CE, 5 octobre 2015, no 372468) ; que, de plus, un avis personnel a été émis sur
+l’issue de ce contrôle, à l’occasion de la réunion de restitution, par le chef de service du contrôleur désigné
+pour procéder au contrôle sur place, qui a indiqué que, selon lui, la suite de ce contrôle « ne serait pas
+classique » ; que, selon la société, ces circonstances caractérisent, d’une part, une violation de l’article
+R. 612-22 du CMF et, d’autre part, un manquement, par les contrôleurs, à leur devoir de loyauté et
+d’impartialité, en méconnaissance de la charte du contrôle sur place ; que ces faits traduisent aussi une
+méconnaissance de la décision du Collège 2010-C-72 du 29 septembre 2010 relative aux règles de
+déontologie applicables au personnel des services de l’ACPR ; qu’en outre, la présence, lors de la séance du
+Collège au cours de laquelle a été décidée l’ouverture de la présente procédure disciplinaire, de plusieurs
+agents ayant participé au contrôle sur place de Skandia Life, donne une apparence de partialité à cette
+décision ;
+5. Considérant cependant, d’une part, que Skandia Life est un organisme assujetti à la supervision de
+l’ACPR, soumis par suite à un contrôle permanent et périodique des services de cette autorité ; que la cheffe
+de la mission de contrôle a été régulièrement désignée par le secrétaire général de l’ACPR en qualité de
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2015-10
+responsable de mission pour procéder à la vérification sur place de la succursale française de Skandia Life en
+application des articles L. 612-23 et R. 612-22 du CMF et était ainsi identifiée comme l’interlocuteur
+principal de Skandia Life pour le déroulement de cette mission, dont elle a assumé la responsabilité et à
+l’issue de laquelle elle a signé le rapport de contrôle ; que la société avait été avisée à l’avance par la cheffe
+de mission de la présence à ses côtés d’autres agents de l’ACPR lors des réunions de lancement et de
+restitution ; que ces personnes appartenaient, au sein du secrétariat général de l’ACPR, au service chargé de
+la vérification du respect, par les organismes du secteur de l’assurance, de leurs obligations en matière de
+lutte contre le blanchiment des capitaux et le financement du terrorisme (ci-après LCB-FT), et avaient qualité
+pour procéder à des contrôles sur pièces et sur place ; que Skandia Life ne précise pas, au-delà d’affirmations
+générales, en quoi la participation au contrôle sur place de Skandia Life de ces agents, par leur présence lors
+de la réunion de lancement du contrôle et lors de la réunion de restitution ou par la réception des échanges de
+courriels importants, l’aurait, en elle-même, privée de garanties substantielles ; qu’ainsi, sans qu’il soit
+besoin de se prononcer sur la portée exacte des articles L. 612-23 et R. 612-22 du CMF, les circonstances
+invoquées par Skandia Life ne sont pas de nature à affecter la régularité de la présente procédure ; qu’il n’en
+résulte pas d’atteinte irrémédiable aux droits de la défense au sens de la jurisprudence du Conseil d’État (CE,
+20 janvier 2016, Caisse d’épargne et de prévoyance du Languedoc-Roussillon, no 374950, considérants nos 2
+et 6) ;
+6. Considérant que, d’autre part, les agents du secrétariat général de l’ACPR ne peuvent décider qu’un
+contrôle sur place donnera lieu à ouverture d’une procédure disciplinaire, l’article L. 612-38 du CMF
+conférant cette compétence au seul Collège ; qu’en conséquence, le chef du service du contrôle des
+dispositifs anti-blanchiment n’a pu émettre sur ce point, afin d’éclairer l’organisme contrôlé sur les suites
+possibles du contrôle sur place, qu’un avis personnel, d’où il n’est résulté aucune atteinte aux droits de la
+défense ; qu’il n’appartient pas à la Commission d’apprécier si les faits décrits ci-dessus constituent une
+méconnaissance des règles de déontologie applicables au personnel des services de l’ACPR ; qu’il ne lui
+appartient pas non plus de se prononcer sur les circonstances dans lesquelles le Collège a décidé d’ouvrir une
+procédure disciplinaire ; qu’il lui revient seulement d’apprécier la réalité et la gravité des manquements dont
+elle est saisie ; qu’en tout état de cause, la présence de contrôleurs lors de la séance du Collège au cours de
+laquelle a été examinée la situation de Skandia Life, qui a permis aux membres du Collège de disposer, le cas
+échéant, de toutes les informations complémentaires dont ils pouvaient avoir besoin pour décider des suites
+de ce contrôle, ne saurait, en elle-même, rendre suspecte de partialité la décision d’ouvrir la présente
+procédure ; qu’ainsi, les exceptions soulevées doivent être rejetées ;
+II. Au fond
+7. Considérant que si Skandia Life soutient que la poursuite et le rapporteur ont procédé à une
+dénaturation ou à une mutation des griefs en cours de procédure, la Commission ne statue que sur les faits
+dont elle est saisie et sur la qualification retenue par la poursuite dans la notification de griefs ; qu’au
+demeurant, soutenir, en réponse à l’argumentation présentée en défense par Skandia Life, que, dans certains
+dossiers individuels de clients choisis par la poursuite pour caractériser les défaillances de son dispositif de
+LCB-FT, elle ne disposait pas de documents probants ne constitue pas une dénaturation du grief selon lequel,
+dans ces dossiers, Skandia Life ne disposait pas de justificatifs permettant d’établir qu’elle avait bien satisfait
+à ses obligations de vigilance ou déclaratives ; que les dossiers des clients concernés peuvent contenir un
+certain nombre de pièces, jusqu’à 12 ou 13, selon l’organisme, relatives à l’identité du client, à son
+patrimoine ou à ses revenus sans que, pour autant, y figurent celles qui auraient permis de justifier les
+opérations en cause (cf. infra, l’examen des griefs 3 à 7) ; que, si Skandia Life soutient avoir en conséquence
+été conduite à s’auto-incriminer, le Conseil d’État a jugé que le principe selon lequel nul n’est tenu de
+s’incriminer lui-même, résultant de l’article 6 § 1 de la CESDH et de l’article 14 du Pacte international de
+New York relatif aux droits civils et politiques, ne pouvait être utilement invoqué relativement à un contrôle
+effectué par la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance
+(CCAMIP), autorité alors chargée « d’une mission de surveillance du secteur de l’assurance, ayant un
+caractère préventif et pouvant éventuellement impliquer le prononcé de sanctions » (30 mars 2007, Sté
+Prédica, n° 277991) ; que cette jurisprudence s’applique nécessairement à l’ACPR à laquelle a été confiée
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2015-10
+cette même mission de surveillance, comme il ressort d’ailleurs de la décision du 20 janvier 2016, Caisse
+d’épargne et de prévoyance du Languedoc-Roussillon citée plus haut ;
+A. L’organisation du dispositif de lutte contre
+le blanchiment des capitaux et le financement du terrorisme
+1. La définition et la mise en œuvre des procédures
+de lutte contre le blanchiment des capitaux et le financement du terrorisme
+8. Considérant que le 4o du I de l’article R. 561-38 du CMF prévoit que les entreprises d’assurance
+« définissent les procédures à appliquer pour le contrôle des risques, la mise en œuvre des mesures de
+vigilance relatives à la clientèle, la conservation des pièces, la détection des transactions inhabituelles ou
+suspectes et le respect de l’obligation de déclaration au service Tracfin » ; que, selon le II de l’article
+A. 310-8 du code des assurances, elles définissent également « des procédures écrites de maîtrise du risque
+de blanchiment des capitaux et de financement du terrorisme, selon des modalités adaptées à leur
+organisation. Ces procédures portent sur : / les modalités d’acceptation des nouveaux client ; / les diligences
+à accomplir en matière d’identification du client, et le cas échéant du bénéficiaire effectif (…) ; / les mesures
+de vigilance à mettre en œuvre pour les relations d’affaires mentionnées aux articles L. 561-10 et
+L. 561-10-2 ainsi que les modalités de suivi et d’actualisation dans les conditions prévues à l’article
+R. 561-11 et au 2o de l’article R. 561-12 du code monétaire et financier ; / les mesures de vigilance, et
+notamment les éléments nécessaires à une connaissance adéquate de la relation d’affaire à mettre en œuvre
+au regard des autres risques identifiés par la classification ; / la fréquence de la mise à jour des éléments
+pour conserver une connaissance adéquate du client et le cas échéant du bénéficiaire effectif » ;
+9. Considérant que, selon le grief 1, Skandia Life n’a pas précisé dans sa procédure interne, « que ce soit
+celle mise à jour le 4 juillet 2014 ou celle en place jusqu’à cette date », les mesures de vigilance
+complémentaire à mettre en œuvre à l’égard des personnes politiquement exposées (ci-après les PPE) comme
+à l’égard des clients non-résidents enregistrés, domiciliés ou établis dans un État ou territoire non coopératif
+en matière de LCB-FT figurant à ce titre sur les listes du Gafi (1), non plus que, pour les mesures de
+vigilance renforcée, les « documents additionnels » ou les « contrôles approfondis » que les gestionnaires
+doivent respectivement recueillir et réaliser avant de transmettre le dossier à la Conformité (2) ; que le grief
+reproche enfin, pour les situations de risque élevé, le manque de caractère opérationnel du dispositif, que ne
+saurait pallier la transmission du dossier à la Conformité ;
+10. Considérant que, dans ses observations en défense, Skandia Life n’apporte aucun élément de nature à
+montrer que ses procédures traitaient des aspects de ses obligations de vigilance dont l’omission lui est
+reprochée ; qu’en particulier, si Skandia Life indique que, pour certaines catégories de clients dont les PPE,
+une « alerte Vigil » devait être mise en place et que le dossier devait être transmis à la Conformité, la nature
+des diligences complémentaires à effectuer à leur sujet n’était aucunement précisée ; que les explications
+fournies sur les formations organisées pour ses salariés ne sont pas de nature à répondre au grief, qui porte
+sur l’insuffisance des procédures ; que la procédure qu’elle a produite en réponse au projet de rapport est
+postérieure au contrôle sur place et ne peut être regardée que comme une mesure correctrice ; que les
+dossiers individuels mentionnés par la poursuite illustrent les carences des procédures de Skandia Life dans
+ce domaine ; qu’ainsi, le grief est établi ;
+2. La mise en place du dispositif de suivi et d’analyse de la relation d’affaires
+11. Considérant que, selon le VI de l’article A. 310-8 du code des assurances, les entreprises se dotent de
+dispositifs de suivi et d’analyse de leur relation d’affaires fondés sur la connaissance de la clientèle ou, si
+besoin est, sur le profil de la relation d’affaires permettant de détecter des anomalies ; que ces dispositifs sont
+adaptés aux risques identifiés par la classification, et doivent permettre de définir des critères et des seuils
+significatifs et spécifiques en matière de blanchiment de capitaux et de financement du terrorisme ; que ces
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2015-10
+dispositions impliquent, même en l’absence de toute précision législative ou réglementaire, un traitement
+exhaustif des différentes catégories d’opérations ;
+12. Considérant que, selon le grief 2, le dispositif de suivi et d’analyse de la relation d’affaires de Skandia
+Life repose tout d’abord sur des fiches de liaison remplies manuellement par type d’opérations par les
+équipes de back-office, qui permettent de définir, selon une grille préétablie, le niveau de risque et le niveau
+de vigilance à appliquer ainsi que, le cas échéant, la transmission des informations à la Conformité ; qu’il
+repose ensuite sur la mise en place dans l’outil de gestion d’une alerte dite « Vigil » dans les cas de figure
+définis par la procédure de LCB-FT ou à la demande du responsable de la conformité ; qu’à la date du
+contrôle, toutes les fiches de liaison ne prenaient pas en compte l’ensemble des critères de risque élevé
+définis par l’organisme dans sa matrice des risques ; qu’en outre, certaines comportaient des erreurs
+matérielles ne permettant pas la mise en œuvre de mesures de vigilance appropriées (dossiers B1, B2, B3,
+B4, B5, B6, B7, B8 entre autres) ; que de plus, dans plusieurs dossiers, des alertes Vigil qui auraient dû être
+mises en place ne l’ont pas été (dossiers des clients non-résidents B9, B8 et B7, dossiers des « PPE
+françaises », B10 et B11) ; qu’enfin, les alertes n’étaient pas toujours suivies d’effet, ce qu’illustre le dossier
+B12 ; qu’ainsi le dispositif de vigilance de Skandia Life était inadapté aux situations de risque élevé ;
+13. Considérant que l’existence de fiches de liaison ne peut suffire à répondre au grief ; que Skandia Life
+ne conteste pas utilement les lacunes de ses fiches de liaison identifiées par le rapport de contrôle,
+notamment en ce qu’elles ne prennent pas en compte tous les critères de risque élevé définis dans la
+« matrice des risques », en particulier ceux résultant, ainsi que le reproche la poursuite, de « rachats
+précoces (moins de 2 ans après la souscription), non justifiés ou incohérents (i.e., entraînant des pénalités
+démesurées/pertes importantes) », « de la multitude de rachats sur des périodes rapprochées non
+déterminées à l’avance », « de la détention par le souscripteur de plus de 3 contrats », « d’une clause
+bénéficiaire en faveur d’une personne morale ou sans lien de parenté apparent », ou encore du changement
+de bénéficiaire dans les cas listés ; qu’il en est de même de la liste non exhaustive d’opérations atypiques
+définie par l’organisme dans sa procédure de LCB-FT ; qu’un rapport de contrôle interne daté de juillet 2013
+montre qu’elle était informée de cette situation ; qu’enfin, s’agissant de la différence du nombre de pages
+invoquée par Skandia Life entre les fiches de liaison communiquées par la société et celles annexées à la
+notification de griefs, elle résulte de l’impression papier « au format paysage » de ces fiches qui n’existaient
+que sous Excel ; qu’ainsi, les fiches communiquées par la société et celles annexées à l’énoncé des griefs
+sont identiques et contiennent les mêmes informations (« versement initial », « versement complémentaire »,
+« rachat partiel », « rachat total », « demande d’avance » et « décès ») ; que, par ailleurs, il n’existe aucune
+incertitude quant au périmètre temporel du grief 2, qui renvoie expressément aux dossiers individuels
+analysés par la mission de contrôle au regard de la législation alors applicable ; qu’ainsi, le grief est établi ;
+B. Le respect des obligations de vigilance en matière de lutte
+contre le blanchiment des capitaux et le financement du terrorisme
+1. L’obligation de vigilance complémentaire concernant les personnes politiquement exposées
+14. Considérant que le II de l’article R. 561-20 du CMF prévoit que, lorsque le client est une personne
+mentionnée au 2o de l’article L. 561-10 de ce code ou le devient au cours de la relation d’affaires, les
+organismes assujettis appliquent l’ensemble des mesures de vigilance complémentaire suivantes : « 1o Elles
+définissent et mettent en œuvre des procédures, adaptées au risque de blanchiment des capitaux et de
+financement du terrorisme, permettant de déterminer si leur client est une personne mentionnée à l’article
+R. 561-18 du CMF ; 2o La décision de nouer une relation d’affaires avec cette personne ne peut être prise
+que par un membre de l’organe exécutif ou toute personne habilitée à cet effet par l’organe exécutif ;
+3o Elles recherchent, pour l’appréciation des risques de blanchiment de capitaux et de financement du
+terrorisme, l’origine du patrimoine et des fonds impliqués dans la relation d’affaires ou la transaction » ;
+15. Considérant que, selon le grief 3, Skandia Life n’a pas respecté ses obligations de vigilance
+complémentaire concernant M. B2, cardiologue, président d’une assemblée parlementaire nationale d’un État
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2015-10
+étranger jusqu’en février 2013 et membre du groupe politique Union C ; qu’au moment de la souscription
+d’un contrat d’assurance sur la vie pour 30 000 euros en octobre 2004, les revenus déclarés par ce client
+s’élevaient à 70 000 euros et son patrimoine à 1 million d’euros ; qu’en prenant ses fonctions de président
+d’une assemblée parlementaire nationale d’un État étranger en janvier 2010, ce client est devenu une PPE ;
+qu’il a réalisé en 2012 et 2013 des opérations d’arbitrage ; que sa qualité de PPE n’a été détectée qu’en
+janvier 2014, lors d’une opération de versement complémentaire de 70 000 euros ; qu’aucun document
+figurant au dossier ne vient corroborer les déclarations du client sur l’origine des fonds, qui proviendraient de
+son épargne, ni sur son patrimoine ; que le dossier ne comprend pas non plus l’accord d’un membre de
+l’organe exécutif ou d’une personne habilitée autorisant le maintien de la relation d’affaires ;
+16. Considérant qu’aucun des documents figurant au dossier de ce client et relatifs aux arbitrages ou aux
+versements complémentaires qu’il a effectués en 2012 et 2013 ne mentionne sa qualité de PPE ; qu’il est sans
+incidence que ce défaut de détection de cette qualité résulte de ce que les procédures de Skandia Life ne
+prévoyaient pas de contrôle sur ce point lors d’opérations d’arbitrage ; que la détection de la qualité de PPE
+de ce client le 3 janvier 2014 est tardive puisqu’il l’a acquise en janvier 2010 ; que Skandia Life n’a donc pas
+pu lui appliquer l’ensemble des mesures de vigilance complémentaire applicables à cette catégorie de
+clients ; que, d’ailleurs, si Skandia Life a indiqué ne pas avoir collecté de justificatif sous forme papier de
+l’origine des fonds investis, elle ne produit pas de justificatif sous une autre forme qu’elle aurait détenu à la
+date du contrôle ; qu’en outre, le fait que cette somme provienne d’un chèque tiré sur un compte du client
+dans une autre banque française ne dispensait pas Skandia Life d’effectuer ses propres contrôles ; que le
+défaut d’autorisation du maintien de la relation d’affaires avec ce client n’est pas contesté ; que le grief 3 est
+établi ;
+2. L’obligation de vigilance renforcée en cas de risque élevé
+17. Considérant que le I de l’article L. 561-10-2 du CMF prévoit que lorsque le risque de blanchiment de
+capitaux et de financement du terrorisme présenté par un client, un produit ou une transaction leur paraît
+élevé, les organismes financiers renforcent l’intensité des mesures prévues aux articles L. 561-5 et L. 561-6
+du même code ;
+18. Considérant que, selon le grief 4, Skandia Life n’a pas correctement mis en œuvre les prescriptions du
+I de l’article L. 561-10-2 du CMF concernant les opérations effectuées par 8 de ses clients, au regard de leur
+classement dans sa « matrice des risques », s’agissant d’opérations effectuées par des non-résidents ou de
+rachats précoces ;
+19. Considérant que, selon le sous-grief 4-1, Mme B8, chercheuse, résidant en Angleterre et classée de ce
+fait en risque élevé, a déclaré des revenus annuels compris entre 100 000 et 150 000 euros et un patrimoine
+compris entre 150 000 et 750 000 euros ; qu’entre juillet 2010 et août 2014, elle a effectué 7 versements sur
+un contrat d’assurance sur la vie pour un montant cumulé de 125 200 euros et un rachat partiel précoce,
+intervenant moins de 6 mois après la souscription, pour un montant de 45 000 euros ; que ne figure au
+dossier aucun élément de nature à justifier l’origine des fonds versés ; qu’alors que les procédures internes de
+Skandia Life prévoyaient pour les clients non-résidents l’accord de la Conformité et la justification des
+opérations dès le premier euro, aucun accord de la Conformité ne figure au dossier ;
+20. Considérant que Skandia Life n’a appliqué aucune mesure de vigilance renforcée à cette relation
+d’affaires ; que si l’opération de souscription est intervenue le 16 juillet 2010 et si le premier versement
+complémentaire a été effectué le 26 juillet suivant, soit avant le 4 septembre 2010, date d’application à la
+clientèle existante des dispositions du I de l’article L. 561-10-2 du CMF, les 6 autres versements
+complémentaires effectués après cette date pour un total de 81 010 euros ne sont pas documentés ; que,
+devant la Commission, l’organisme n’a produit aucun justificatif nouveau, alors que les pièces figurant au
+dossier ne permettent pas d’établir l’origine des fonds ; qu’en particulier, en raison du décalage entre le
+salaire annuel de cette cliente et les fonds sur lesquels ont porté les opérations, une attestation de salaire ne
+peut suffire à les justifier ; que, dans ce périmètre, le sous-grief est établi ;
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2015-10
+21. Considérant que, selon le sous-grief 4-2, M. B9, cadre commercial employé par la filiale du groupe D
+à Dubaï et résidant au Pakistan, a déclaré des revenus annuels du foyer entre 100 000 et 150 000 euros et un
+patrimoine compris entre 150 000 et 750 000 euros ; qu’il a souscrit en septembre 2011 un contrat
+d’assurance sur la vie pour 80 000 euros qui proviennent de son compte à la banque E de Dubaï ; que, bien
+qu’il soit non-résident, installé dans un pays listé en 2011 par le Gafi comme non coopératif en matière de
+LCB-FT et que les fonds aient transité par un compte à Dubaï, aucun justificatif de leur origine ne figure au
+dossier ; que ces éléments qui caractérisent un risque élevé justifiaient la mise en œuvre des mesures de
+vigilance renforcée ;
+22. Considérant que Skandia Life disposait, à la suite des diligences faites, d’éléments permettant
+d’établir que ce client était salarié d’un grand groupe français de distribution et que les fonds utilisés lors de
+la souscription initiale examinée par la mission de contrôle pouvaient, pour une large part, provenir d’une
+prime versée par son employeur ; que le solde de la souscription n’est pas incompatible avec le niveau de
+revenu et de patrimoine déclarés de l’intéressé ; que dès lors, les pièces produites permettent, eu égard aux
+caractéristiques propres aux opérations de ce client et aux éléments de connaissance dont Skandia Life
+disposait, de justifier de l’origine des fonds ; qu’il n’est ainsi pas avéré que Skandia Life ait manqué à ses
+obligations dans ce dossier ;
+23. Considérant que, selon le sous-grief 4-3, M. B7, ingénieur et résidant en République du Congo, a
+déclaré des revenus annuels entre 100 000 et 150 000 euros ainsi qu’un patrimoine compris entre 150 000 et
+750 000 euros ; qu’il a souscrit en décembre 2012 un contrat d’assurance sur la vie pour 125 000 euros ; qu’à
+la demande de Skandia Life, il a fourni un relevé de situation d’un contrat d’assurance sur la vie d’avril 2012
+détenu auprès d’un autre organisme d’assurance indiquant une valeur acquise de 131 647 euros à cette date,
+ainsi que la copie d’un bulletin de salaire d’octobre 2012 de 12 000 euros ; que, cependant, aucun élément
+indiquant qu’un rachat a été effectué sur le contrat d’assurance vie ci-dessus mentionné n’est présent au
+dossier ; qu’en août 2013 puis en juin 2014, il a effectué 2 versements complémentaires de 100 000 et 40 000
+euros, respectivement ;
+24. Considérant que, devant la Commission, Skandia Life ne produit pas de justificatif nouveau
+permettant d’établir de manière précise l’origine des fonds déposés, soit au total 265 000 euros ; qu’enfin, la
+circonstance que le versement initial de 125 000 euros ait été effectué par un chèque d’un établissement
+assujetti à des obligations en matière de LCB-FT ne dispensait pas Skandia Life de ses propres obligations
+relativement aux opérations effectuées par un client non-résident ; que le sous-grief est établi ;
+25. Considérant que, selon le sous-grief 4-4, M. B13, jockey, a déclaré des revenus compris entre 50 000
+et 100 000 euros et un patrimoine compris entre 150 000 et 500 000 euros ; qu’il a souscrit en décembre
+2010 un contrat d’assurance sur la vie pour 130 000 euros ; que figurent au dossier les copies : (i) d’un
+virement de la banque F pour 123 000 euros en date du 26 novembre 2010, les fonds provenant du rachat
+moins de 4 ans après sa souscription d’un contrat d’assurance sur la vie de la compagnie G ; (ii) d’un
+virement de la banque H en date du 26 novembre 2010 d’un montant de 7 000 euros ; que 7 mois après la
+souscription, un rachat partiel précoce de 110 000 euros est intervenu sur ce contrat ; qu’aucun justificatif
+concernant le motif de ce rachat n’est consigné au dossier ; qu’en novembre 2011, un versement
+complémentaire de 27 000 euros a été effectué sur ce contrat ainsi que la mise en place de versements
+programmés de 300 euros par mois ; que ne figure au dossier aucun élément relatif à l’origine des fonds ainsi
+versés ; qu’en février et avril 2012, 2 opérations de rachats partiels précoces ont été réalisées pour des
+montants respectifs de 15 000 et 8 000 euros, sans que leur objet ne soit consigné au dossier ; que le client a
+racheté totalement son contrat en juillet 2012, moins d’un an et demi après la souscription ;
+26. Considérant que Skandia Life n’apporte aucun élément nouveau sur l’origine des fonds ni sur les
+recherches qu’elle aurait entreprises à ce sujet par rapport aux documents et aux explications qu’elle a
+fournis à la mission de contrôle ; que les diligences faites par l’organisme ne permettent pas de comprendre
+le motif des opérations effectuées par ce client qui se sont achevées par un rachat total ; que la circonstance
+que les fonds ayant servi à la souscription initiale de 130 000 euros provenaient de comptes ouverts dans des
+établissements assujettis à des obligations en matière de LCB-FT ne dispensait pas Skandia Life de ses
+propres obligations dans ce domaine ; que le sous-grief est établi ;
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2015-10
+27. Considérant que, selon le sous-grief 4-5, les époux B14, anciens restaurateurs, ont déclaré des
+revenus annuels inférieurs à 50 000 euros et un patrimoine compris entre 750 000 et 1,5 million d’euros ;
+qu’ils ont souscrit 2 contrats d’assurance sur la vie en juin et novembre 2012 pour un total de 120 000 euros ;
+que figure au dossier un acte notarié de cession de l’activité de restaurateur du 12 avril 2012 pour 250 000
+euros et une attestation notariée sans montant de cession des murs à la même date ; qu’un versement
+complémentaire de 152 145 euros est intervenu le 26 septembre 2012 sur le premier contrat ; que le 5 février
+2013, un autre versement de 80 000 euros a été effectué sur le premier contrat ; que le 5 mars 2013, ils ont
+demandé une avance de 100 000 euros ; qu’afin de rembourser une partie de cette avance, ils ont effectué le
+7 août 2013 un versement complémentaire de 82 000 euros ; qu’aucun justificatif de l’origine des fonds ainsi
+versés n’est présent au dossier ; qu’entre le 7 août 2013 et le 5 septembre 2014, le premier contrat a fait
+l’objet de 4 rachats partiels précoces pour un montant total de 73 583,89 euros (motif du rachat d’août 2013 :
+« remboursement d’avance » ; motif du rachat de janvier 2014 : « achat voiture » pour 10 000 euros ; les
+autres rachats de 40 000 et 4 000 euros intervenus en janvier ne sont pas motivés) ; qu’entre le 7 mai et le 29
+novembre 2013, le second contrat a fait l’objet de 6 rachats partiels précoces pour un montant total de 53 000
+euros ; qu’au total, sur les 10 rachats précoces pour un total de 126 583 euros, seuls 2 rachats d’août 2013 et
+janvier 2014, pour un total d’environ 30 000 euros, sont justifiés ; qu’en 2 ans, les époux B14 ont versé
+456 145 euros dont 142 000 euros (soit 31 %) ne sont pas justifiés ; que, malgré l’alerte de la Conformité sur
+le fonctionnement atypique de ces contrats lors du second rachat précoce, aucun examen approfondi de ces
+opérations n’a été effectué ;
+28. Considérant que Skandia Life reconnaît « que les opérations multiples de rachat ont justifié un
+transfert du dossier à la conformité et au déclarant Tracfin, mais qu’il n’apparaît pas que le dossier trace
+des mesures de vigilance renforcée destinées à justifier les opérations pratiquées sur ces contrats » ; que les
+documents produits par Skandia Life, dont la mission de contrôle avait déjà eu connaissance, ne permettent
+pas d’établir que l’organisme a renforcé l’intensité des mesures prises afin de connaître les motifs de la
+quinzaine d’opérations atypiques effectuées, caractérisées par une succession de souscriptions et de rachats
+partiels en 2 ans, au sujet desquelles les informations recueillies étaient lacunaires ou absentes ; que le sous-
+grief est établi ;
+29. Considérant que, selon le sous-grief 4-6, le 14 mai 2014, Mlle B15, étudiante, a déclaré des revenus
+annuels inférieurs à 50 000 euros et un patrimoine compris entre 150 000 et 500 000 euros ; qu’elle a souscrit
+un contrat d’assurance sur la vie pour un montant de 310 000 euros ; qu’à la demande de l’organisme, elle a
+fourni des pièces permettant de justifier une partie des sommes versées, soit 232 484 euros ; que le 16 juillet
+2014, elle a procédé à un rachat partiel de 30 000 euros dont l’objet n’est pas mentionné au dossier ;
+30. Considérant que, si l’établissement a fourni des explications sur les fonds utilisés pour effectuer la
+souscription initiale de cette cliente, il n’a produit aucun élément permettant de justifier le rachat partiel
+précoce effectué et de nature à montrer qu’à la suite de ces opérations, il avait renforcé les mesures
+d’identification et de connaissance de cette relation d’affaires ; que le sous-grief est établi ;
+31. Considérant que, selon le sous-grief 4-7, M. B16, professeur d’université, a déclaré des revenus
+annuels inférieurs à 50 000 euros et un patrimoine compris entre 0,75 et 1,5 million d’euros ; qu’il a souscrit
+en juillet 2014 un contrat d’assurance sur la vie pour 264 000 euros ; qu’il a fourni la copie d’une déclaration
+de succession datée de septembre 2013 pour un montant de 197 000 euros ; que le document présent au
+dossier ne justifie que partiellement l’origine des fonds versés ; que moins de 3 mois après la souscription, il
+a effectué un rachat partiel, précoce, de 100 000 euros ; que bien que cette opération présente, selon
+l’organisme, un critère de risque élevé, aucun motif ni justificatif de l’objet de cette opération de rachat ne
+figure au dossier ;
+32. Considérant que les pièces produites par Skandia Life devant la Commission, soit la lettre de la
+banque I datée du 26 juin 2014 et le relevé de compte CCP ouvert au nom de ce client, établissent de manière
+suffisante l’origine des fonds qui ont permis cette souscription ; que, toutefois, Skandia Life ne fournit
+aucune explication et ne produit pas de justificatif sur le rachat partiel précoce effectué le 9 octobre 2014,
+soit moins de 3 mois après la souscription, pour un montant de 100 000 euros, alors que cette opération aurait
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2015-10
+justifié des mesures de vigilance renforcée ; qu’ainsi, dans un périmètre réduit à ce seul rachat partiel, le
+sous-grief est établi ;
+33. Considérant que, selon le sous-grief 4-8, M. B4, gérant de société en dans un pays d’Afrique du Nord,
+résidant en France, déclare des revenus annuels supérieurs à 150 000 euros et un patrimoine supérieur à
+1,5 million d’euros ; qu’il a souscrit en mars 2010 un contrat d’assurance vie pour 115 000 euros alors
+qu’aucun document justifiant l’origine des fonds n’est présent au dossier ; que moins de 2 ans après la
+souscription, il a effectué 3 rachats partiels précoces pour un montant global de 53 000 euros en septembre,
+novembre 2011 et février 2012 ; qu’aucun motif ni objet de ces rachats précoces n’est présent au dossier ;
+34. Considérant que les rachats précoces visés par ce grief sont tous postérieurs à l’entrée en vigueur de
+l’ordonnance no 2009-104 dont sont issues les dispositions de l’article L. 561-10-2 du CMF ; que ces
+opérations, réalisées moins de 2 ans après la souscription du contrat en mars 2010, justifiaient la mise en
+œuvre de mesures de vigilance renforcée ; que devant la Commission, Skandia Life ne produit aucun
+justificatif s’y rapportant ; que, concernant l’opération de souscription initiale effectuée le 4 mars 2010, le
+délai d’entrée en vigueur des nouvelles obligations de vigilance instaurées par l’ordonnance no 2009-104
+invoqué par Skandia Life dans sa défense ne pouvait l’être s’agissant d’un nouveau client ; que le sous-grief
+est établi ;
+35. Considérant que, sous réserve de ce qui a été indiqué au sujet du sous-grief 4.2, qui n’est pas retenu, et
+du périmètre des sous-griefs 4-1 et 4-7, ce grief est établi ;
+3. L’obligation d’examen renforcé
+36. Considérant que, selon le II de l’article L. 561-10-2 du CMF, les organismes assujettis « effectuent un
+examen renforcé de toute opération particulièrement complexe ou d’un montant inhabituellement élevé ou ne
+paraissant pas avoir de justification économique ou d’objet licite. Dans ce cas, ces personnes se renseignent
+auprès du client sur l’origine des fonds et la destination de ces sommes ainsi que sur l’objet de l’opération et
+l’identité de la personne qui en bénéficie ».
+37. Considérant que, selon le sous-grief 5-1, Mme B6, âgée de 89 ans, a déclaré à Skandia Life des
+revenus annuels inférieurs à 50 000 euros et un patrimoine compris entre 150 000 et 750 000 euros ; qu’elle a
+souscrit en février 2011 un contrat d’assurance sur la vie pour 300 000 euros ; que l’origine des fonds
+déclarée par la cliente est « rachat partiel d’un contrat d’assurance vie » ; que, cependant, aucun justificatif
+d’origine des fonds n’est présent au dossier ;
+38. Considérant que le fait que les fonds utilisés pour cette souscription aient été versés par chèque tiré
+sur un établissement de crédit français ne peut conduire à exonérer Skandia Life de son obligation de
+vigilance ; que les éléments d’identification et de connaissance du client figurant au dossier ne pouvaient, en
+particulier, la dispenser d’effectuer un examen approfondi de cette opération, d’un montant élevé au regard
+des revenus et du capital déclarés par cette cliente ; que les documents produits ne comportent pas un tel
+justificatif ; qu’en raison du montant de cette souscription et de l’absence d’éléments probants sur l’origine
+des fonds utilisés à cette fin, Skandia Life aurait dû demander à cette cliente des justificatifs du rachat partiel
+évoqué ; que le sous-grief est établi ;
+39. Considérant que, selon le sous-grief 5-2, M. B17, son épouse et leur fils Pierre, alors âgé de 15 ans,
+ont respectivement souscrit, entre septembre 2011 et juin 2012, 3 contrats d’assurance sur la vie ; que
+M. B17, enseignant, a déclaré des revenus annuels du foyer inférieurs à 50 000 euros et un patrimoine
+compris entre 0,75 et 1,5 million d’euros ; qu’il ressort du dossier que les époux sont mariés sous le régime
+de la séparation de biens ; que ne figure au dossier aucun justificatif de la composition du patrimoine
+déclaré ; que sur 14 mois, entre le 2 septembre 2011 et le 8 novembre 2012, la famille B17 a effectué 5
+versements sur ces 3 contrats pour un montant total de 340 000 euros, dont 320 000 euros à partir du compte
+personnel de M. B17 ; que sur ce total, 110 000 euros ont été placés sur le contrat souscrit par le fils ; que
+Autorité de contrôle prudentiel et de résolution 10
+
+===== Page 11 =====
+Décision de la Commission des sanctions – procédure no 2015-10
+l’origine déclarée des fonds est « épargne et réemploi » ; que seul l’acte de la donation de 110 000 euros,
+effectuée par les époux au profit de leur fils, figure au dossier ;
+40. Considérant que l’absence d’examen approfondi de ces opérations ne peut être justifiée par des
+souscriptions inférieures à un seuil retenu par la procédure interne à l’établissement, en vigueur du
+17 octobre 2011 au 22 avril 2013 (VI_171011), alors que les dispositions applicables, issues de l’ordonnance
+no 2009-104, ne prévoyaient plus aucun seuil ; que les copies des chèques utilisés pour ces versements, qui
+figure aux dossiers, ne peut tenir lieu d’examen approfondi ; que le reproche ne porte pas sur l’absence de
+recueil de tout document mais sur l’absence d’examen approfondi des opérations de ces clients, examen qui
+se serait notamment traduit par la collecte de pièces justificatives des opérations effectuées ; que les éléments
+produits par Skandia Life ne permettent pas de constater qu’un tel examen, visant dans ce dossier à préciser
+l’origine des fonds versés, aurait été effectué ; que le sous-grief est établi ;
+41. Considérant que, selon le sous-grief 5-3, Mme B18, chef d’entreprise dans le secteur immobilier, a
+déclaré des revenus annuels compris entre 50 000 et 100 000 euros et un patrimoine supérieur à 1,5 million
+d’euros ; qu’elle a souscrit en décembre 2011 un contrat d’assurance sur la vie pour un montant de 1 million
+d’euros ; que les fonds versés proviennent notamment d’un rachat partiel précoce réalisé sur un contrat
+d’assurance sur la vie pour un montant de 1 040 934,85 euros et, d’autre part, d’un contrat pour un montant
+de 2 032 702,33 euros, dont les copies sont versées au dossier ; que cependant, alors même que les fonds
+provenaient pour partie d’un rachat précoce d’un contrat d’assurance sur la vie, la cliente a renoncé à son
+contrat dans le mois suivant la souscription, soit le 23 janvier 2012, les fonds lui ayant alors été remboursés
+par chèque ; que, bien qu’une telle renonciation, portant sur un montant important et sans justification
+économique, soit classée par Skandia Life comme présentant un risque élevé, aucun élément sur l’objet de
+cette opération ne figure au dossier ;
+42. Considérant que si Skandia Life soutient qu’elle disposait d’une documentation très précise, suffisante
+et probante sur les motifs ayant conduit la cliente à renoncer à cette souscription, aucune explication s’y
+rapportant ne figure au dossier ; qu’ainsi, la lettre par laquelle la cliente a indiqué qu’elle renonçait à son
+contrat ne comporte aucune explication à ce sujet ; que si la procédure V1_171011 alors en vigueur ne
+prévoyait pas de documenter les opérations de renonciation, une telle opération, qui présentait un caractère
+atypique, aurait dû conduire Skandia Life à s’interroger sur sa justification économique, alors que les
+montants en cause étaient élevés au regard des revenus annuels de la cliente ; que le sous-grief est établi ;
+43. Considérant qu’ainsi, le grief 5 est établi dans toutes ses parties ;
+C. Le respect des obligations déclaratives ou d’effectuer un examen approfondi
+44. Considérant que le I de l’article L. 561-15 du CMF qui prévoit que : « (…) I. les personnes
+mentionnées à l’article L. 561-2 sont tenues (…) de déclarer (…) les sommes inscrites dans leurs livres ou
+les opérations portant sur des sommes dont elles savent, soupçonnent ou ont de bonnes raisons de
+soupçonner qu’elles proviennent d’une infraction passible d’une peine privative de liberté supérieure à un
+an ou participent au financement du terrorisme. II. Par dérogation au I, les personnes mentionnées à
+l’article L. 561-2 déclarent au service mentionné à l’article L. 561-23 les sommes ou opérations dont ils
+savent, soupçonnent ou ont de bonnes raisons de soupçonner qu’elles proviennent d’une fraude fiscale
+lorsqu’il y a présence d’au moins un critère défini par décret. III. À l’issue de l’examen renforcé prescrit
+au II de l’article L. 561-10-2, les personnes mentionnées à l’article L. 561-2 effectuent, le cas échéant, la
+déclaration prévue au I du présent article. » ; que l’article D. 561-32-1 de ce code énumère les critères qui,
+en cas de soupçon de blanchiment de fraude fiscale, doivent conduire à effectuer une déclaration de soupçon
+(ci-après une DS) ; que le critère no 11 est relatif au « refus du client de produire des pièces justificatives
+quant à la provenance des fonds reçus ou quant aux motifs avancés des paiements, ou l’impossibilité de
+produire ces pièces » ; que, selon le V de l’article L. 561-15 du CMF : « toute information de nature à
+infirmer, conforter ou modifier les éléments contenus dans la déclaration est portée, sans délai, à la
+connaissance du service mentionné à l’article L. 561-23 » ;
+Autorité de contrôle prudentiel et de résolution 11
+
+===== Page 12 =====
+Décision de la Commission des sanctions – procédure no 2015-10
+1. En ce qui concerne les DS initiales
+45. Considérant que, selon le sous-grief 6-1, Mme B19, née en 1942, a souscrit 2 contrats de capitalisation
+pour 311 000 euros, l’un le 8 et l’autre le 14 janvier 2013, pour 270 000 euros et 41 000 euros,
+respectivement ; qu’en septembre 2014, 2 versements complémentaires d’un montant global de 460 000
+euros ont été effectués par chèque tiré sur le compte de la cliente ouvert dans les livres de la banque J; que ce
+compte a été alimenté le 23 juillet 2014 par virement en provenance de la banque K ; que cette cliente a
+indiqué être entrée dans un processus de régularisation, auprès de la direction générale des finances
+publiques (DGFiP), des avoirs détenus sur 2 comptes ouverts dans les livres de cet établissement ; qu’elle
+était titulaire du premier (no 1), clôturé en avril 2013, et bénéficiaire économique du second (no 2) dont le
+titulaire était une fondation dénommée « L » ; que le rapatriement, en février 2014, des avoirs issus de la
+dissolution de cette fondation a toutefois été opéré à partir d’un autre compte (no 3) détenu auprès du même
+établissement ; que le CGPI de Mme B19 a indiqué que l’existence de ce dernier compte n’avait pas été portée
+à la connaissance de la DGFiP, car il s’agissait d’un compte de passage ayant servi lors de la clôture du
+premier, alors que les actifs étaient toujours, à la date de l’information à la DGFiP, déposés sur l’autre
+compte no 2 ; qu’au terme d’un examen renforcé qui n’a pas permis de s’assurer de la régularisation fiscale
+des comptes « 3 et/ou 4 », les doutes sur les opérations réalisées n’ayant pas été levés, Skandia Life aurait dû
+adresser une DS à Tracfin, conformément au III de l’article L. 561-15 du CMF ou au II de l’article L. 561-15
+et à l’article D. 561-32-1 du même code, notamment sur le fondement du critère no 11 ;
+46. Considérant que Skandia Life fait valoir qu’elle a établi au sujet de cette cliente un dossier très
+documenté, que le fisc en est informé, et qu’a été demandée et obtenue une attestation d’un CGPI de cette
+cliente ; qu’à la demande de Skandia Life, Mme B19 a fourni, outre une lettre de la DGFiP sur la
+régularisation des comptes nos 1 et 2, un avis d’opération de la banque J confirmant la réception, le
+23 juillet 2014, de 478 052,17 euros, en provenance d’un compte n° 4, ouvert dans les livres de la banque J ;
+que cependant, l’attestation, établie par un tiers, ne suffisait pas à s’assurer de la régularisation fiscale des
+comptes no 3 ou 4 ci-dessus mentionnés ; qu’aucun autre document probant ne se rapporte à ces comptes ;
+que dès lors, faute d’avoir obtenu des explications et des pièces suffisantes sur l’origine des fonds utilisés par
+cette cliente, Skandia Life aurait dû, au terme de l’examen approfondi qu’elle a effectué, adresser une DS à
+Tracfin en application du III de l’article L. 561-15 du CMF ; que le sous-grief est établi ;
+47. Considérant que, selon le sous-grief 6-2, la société civile M, au capital de 3 millions d’euros, créée le
+13 mars 2013, dont l’objet est l’administration du patrimoine privé des époux B20, a souscrit le 21 février
+2014 un contrat de capitalisation de 550 000 euros et effectué le 13 mars 2014 un versement complémentaire
+de 1,5 million d’euros ; que les fonds ainsi versés provenaient du compte que la société civile M détient à la
+banque privée N ; que le client a fourni des copies de relevés de comptes de la société civile M auprès de cet
+établissement en date des 19 et 21 février 2014 présentant un solde créditeur de plus de 3,3 millions d’euros ;
+qu’aucun numéro de compte n’y est mentionné, mais seulement un numéro client de la société civile M ;
+qu’au vu de ces copies de relevés de compte, l’organisme a demandé des informations complémentaires, à la
+fois sur l’origine des fonds ayant servi à alimenter le compte de la société civile M chez la banque privée N
+au moment de la constitution de cette société et sur la régularisation fiscale des fonds ainsi rapatriés de
+l’étranger ; que le CGPI du client a indiqué que les fonds provenaient de la succession de la mère de M. B20,
+récemment décédée ; qu’aucun justificatif de demande de régularisation fiscale des fonds ainsi rapatriés de
+Suisse n’est présent au dossier ; que l’examen renforcé n’ayant pas permis de lever le doute sur l’origine des
+fonds, l’organisme aurait dû procéder à une DS en application du III de l’article L. 561-15 du CMF, ou du II
+de l’article L. 561-15, et de l’article D. 561-32-1 du même code sur la base du critère no 11 ;
+48. Considérant que l’erreur de plume au sujet du versement complémentaire effectué le 13 mars 2014,
+d’un montant de 1 150 000 euros, et non 1,5 million d’euros, comme indiqué à tort dans la notification de
+griefs, est sans conséquence sur le reproche ; que, si les montants sont cohérents avec le patrimoine
+mentionné sur la déclaration d’ISF des époux B20 de 2013, soit 19,4 millions d’euros et le relevé de compte
+de la succession au 28 décembre 2012 provenant d’un office notarial concernant la succession de la mère de
+M. B20 qui faisait apparaître un solde de 2 560 000 euros, les informations et pièces dont disposait Skandia
+Life ne permettaient pas d’écarter le soupçon que les sommes en cause provenaient d’une infraction passible
+Autorité de contrôle prudentiel et de résolution 12
+
+===== Page 13 =====
+Décision de la Commission des sanctions – procédure no 2015-10
+d’une peine privative de liberté supérieure à un an ; qu’ainsi que le mentionne la poursuite, la déclaration
+d’ISF ci-dessus mentionnée fait état de 2 comptes-titres banque E sans préciser s’ils sont domiciliés à
+l’étranger et s’ils sont au nom personnel de l’un des époux B20, des deux ou de la société civile M ; que les
+références de ces comptes (nos 5 et 6) ne correspondent pas au compte, détenu chez la banque privée N par la
+société civile M (no 7), qui a servi à alimenter le contrat de capitalisation auprès de Skandia Life ; qu’ainsi,
+Skandia Life aurait dû, en application du II ou du III de l’article L. 561-15 du CMF, adresser une DS à
+Tracfin ; que le sous-grief est établi ;
+49. Considérant que, selon le sous-grief 6-3, Mme B21, directrice de société dans le secteur des transports,
+a déclaré à Skandia Life des revenus annuels compris entre 50 000 et 100 000 euros et un patrimoine entre
+0,75 et 1,5 million d’euros ; qu’en juillet 2012, elle a souscrit 2 contrats d’assurance sur la vie pour un
+montant de 260 000 euros ; que, si elle a indiqué que cette somme provenait de la vente des parts d’une
+société, aucun justificatif de cette cession ne figurait au dossier ; que, de plus, les fonds versés proviennent
+du compte de la banque O de l’époux de la cliente ; que le 16 décembre 2013, elle a effectué un versement
+complémentaire de 425 000 euros depuis son compte personnel dans les livres de la banque H ; qu’elle a
+déclaré que les fonds provenaient de la succession de son père décédé en janvier 2013 ; que, par ailleurs, elle
+a déclaré qu’un chèque de 116 975,84 euros provenait d’un notaire, en règlement de la succession de son
+père ; que le total est donc de 497 846,33 euros ; qu’alors qu’elle a indiqué avoir reçu des bons de
+capitalisation anonymes par héritage pour un montant de 143 000 euros, l’acte notarié de succession n’en fait
+pas mention ; que le 23 décembre 2013, Mme B21 a effectué un versement complémentaire de 125 000 euros
+au sujet duquel aucun justificatif ne figure au dossier ; qu’entre le 27 mars et le 22 avril 2014, elle a effectué
+3 rachats partiels pour un montant global de 810 000 euros ; qu’elle a déclaré effectuer ces rachats pour
+rembourser des crédits ; que Skandia Life a exécuté les virements vers le compte de la banque H de la cliente
+ainsi que vers un compte de la banque O du couple ; qu’au vu de ces éléments, l’organisme aurait dû
+procéder à une DS en application du I de l’article L. 561-15 du CMF ;
+50. Considérant que, si Skandia Life soutient que la souscription initiale de 260 000 euros est justifiée par
+la cession de droits sociaux et, devant la Commission, produit l’acte de cession, cela ne permet pas
+d’expliquer pourquoi cette souscription a été réglée par le débit d’un compte dont le titulaire est l’époux de la
+cliente, alors qu’ils sont mariés sous le régime de la séparation de biens ; que le courriel d’un CGPI relatif au
+versement complémentaire du 16 décembre 2013 ne peut suffire à en établir l’origine ; que, concernant le
+versement complémentaire de 125 000 euros, la circonstance que cette somme provienne d’un chèque
+d’apport tiré sur un compte ouvert dans un établissement également assujetti à des obligations en matière de
+LCB-FT ne dispensait pas Skandia Life d’effectuer ses propres contrôles et ne suffit pas à déterminer
+l’origine de cette somme ; que la validation d’une demande de rachat, d’un montant de 507 028,17 euros, par
+le responsable de la LCB-FT de Skandia Life, ne permet pas, à elle seule, d’établir que son motif a
+effectivement été contrôlé tandis que ce montant ne représente qu’une partie des rachats précoces effectués ;
+que le sous-grief est établi ;
+51. Considérant que, selon le sous-grief 6-4, M. B22, pilote, résidant en Angola, a déclaré un patrimoine
+de 483 000 euros ; qu’aucun élément sur ses revenus ne figure à son dossier ; qu’en 2007, il a souscrit un
+contrat d’assurance sur la vie pour 5 000 euros et, de janvier à avril 2007, effectué 4 versements
+complémentaires pour un total de 75 000 euros par chèques tirés sur 2 comptes respectivement ouverts dans
+la banque P et à la banque Q ; qu’aucun justificatif de l’origine des fonds ne figure au dossier ; qu’en août
+2008, il a effectué un rachat partiel de 40 000 euros réglé sur un compte ouvert chez la banque R ; qu’en août
+2010 et en octobre 2011, il a effectué 2 rachats partiels de 40 000 et 4 000 euros, respectivement, les fonds
+étant versés sur un compte ouvert dans les livres d’un établissement de la banque H à l’étranger ; que le
+dossier de ce client ne comporte aucun élément sur le motif de ces rachats ; que Skandia Life aurait dû
+procéder à une DS en application du I de l’article L. 561-15 du CMF ;
+52. Considérant que Skandia Life soutient à juste titre que les versements effectués par ce client, de même
+que son premier rachat partiel, ont été effectués avant l’entrée en vigueur de l’article L. 561-15 du CMF ;
+que, toutefois, ces dispositions étaient applicables lors des rachats partiels effectués en 2010 et 2011 ; que le
+« dossier documenté » que Skandia Life détient comporte des pièces (passeport, carte d’identité, attestation
+de résidence, dossier patrimonial et fiche de liaison) qui ne permettent pas de justifier suffisamment les
+Autorité de contrôle prudentiel et de résolution 13
+
+===== Page 14 =====
+Décision de la Commission des sanctions – procédure no 2015-10
+opérations de ce client ; qu’en particulier, le dossier patrimonial, réalisé le 29 décembre 2006 sur une base
+déclarative et non actualisé, ne mentionne ni l’employeur du client ni ses revenus ; que si, pour l’opération
+de rachat de 4 000 euros intervenue en octobre 2011, Skandia Life déclare s’être entièrement conformée à sa
+procédure interne V1_171011, il lui appartenait, en l’état de son dossier, de respecter ses obligations
+déclaratives, entrées en vigueur dès la publication de l’ordonnance no 2009-104 ; que, dans le périmètre
+précisé par la poursuite dans ses observations en réplique, le sous-grief est établi ;
+53. Considérant que, selon le sous-grief 6-5, M. B5résidant en République du Congo et directeur au sein
+de la société S, a déclaré à Skandia Life des revenus annuels du foyer supérieurs à 150 000 euros et un
+patrimoine supérieur à 1,5 million d’euros ; qu’il a souscrit en septembre 2008 un contrat d’assurance sur la
+vie et versé alors 50 000 euros, par chèque de la banque T ; que figure au dossier de souscription une
+attestation sur l’honneur de résidence en République du Congo ; qu’en septembre 2011, il a effectué un
+versement complémentaire de 300 000 euros par virement de la banque U ; que ne figure au dossier qu’une
+copie de relevé Internet de situation de compte auprès de cet établissement, faisant apparaître un solde
+créditeur, au 30 août 2011, de 903 000 euros ; qu’aucun autre élément ni document permettant de justifier
+l’origine des fonds, ni d’expliquer la provenance des fonds depuis un compte bancaire à l’étranger, n’est
+présent au dossier ; que Skandia Life aurait dû effectuer une DS ou, à tout le moins, procéder à un examen
+renforcé de cette opération ;
+54. Considérant que, contrairement à ce que soutient Skandia Life, le reproche porte uniquement sur le
+versement complémentaire ci-dessus mentionné, effectué à une date postérieure à l’entrée en vigueur des
+articles L. 561-10-2 et L. 561-15 du CMF, à partir d’un compte ouvert dans un établissement implanté à
+l’étranger, sans que les informations dont disposait Skandia Life au sujet du domicile du client permettent de
+justifier cette opération ; que les éléments que l’organisme a déclaré détenir, notamment sur l’origine des
+fonds (« épargne y compris remploi de prestations d’un précédent contrat »), étaient trop vagues pour lui
+permettre d’en connaître précisément l’origine ; qu’au vu de ces seuls éléments, la société ne pouvait écarter
+le soupçon que les sommes utilisées provenaient d’une infraction passible d’une peine privative de liberté
+supérieure à un an ; qu’elle aurait dû effectuer une DS ; que le sous-grief est établi ;
+55. Considérant que, selon le sous-grief 6-6, M. B12 a souscrit un contrat d’assurance sur la vie en juillet
+2010 pour 310 000 euros ; qu’à l’occasion d’une nouvelle demande d’avance sur le contrat en juin 2012, le
+responsable conformité a demandé que cette relation d’affaires soit placée en vigilance renforcée car
+« l’origine des fonds à la souscription est un peu légère » ; que figure, en effet, au dossier une copie d’un
+extrait de compte de dépôt à terme de 18 mois pour 300 000 euros ; que postérieurement à la mise en place
+d’une alerte Vigil en juin 2012, il a effectué plusieurs opérations ; que cependant, ne figure au dossier aucun
+motif des 2 avances faites en 2013 pour 50 000 euros en tout ; que, de même, le dossier ne comporte aucun
+justificatif de l’origine des fonds versés le 4 juillet 2013 lors du remboursement de l’avance simultanément à
+un versement complémentaire pour un montant total de 190 000 euros au motif déclaré de la « vente licence
+taxi » ; que l’organisme aurait dû effectuer une DS en application du I de l’article L. 561-15 du CMF, ou à
+tout le moins procéder à un examen renforcé des opérations de versement d’un montant inhabituellement
+élevé, au regard de la profession du client et de ses revenus annuels déclarés ;
+56. Considérant qu’en défense, Skandia Life relève à juste titre que le grief est entaché d’une erreur
+matérielle puisque les avances effectuées en avril et novembre 2013 ont porté en réalité sur un total de
+12 600 euros et non 50 000 euros ; que cependant, si l’organisme estime que « Le grief n’est que très
+partiellement constitué », cette erreur ne peut conduire à remettre en cause le grief, ces rachats n’étant pas
+justifiés ; que l’origine des fonds utilisés lors des souscriptions initiale et complémentaire ne l’est pas
+davantage ; qu’il est sans conséquence sur la constitution du reproche que la procédure interne en vigueur à
+l’époque ait limité les diligences à effectuer aux opérations supérieures à 150 000 euros ; que le versement
+complémentaire de 190 000 euros n’a pas davantage été justifié ; que l’écart entre les revenus déclarés,
+inférieurs à 50 000 euros, et le patrimoine déclaré par ce client (entre 0,75 et 1,5 million d’euros) aurait dû
+être pris en considération lors de l’analyse de ses opérations ; qu'au vu de ces éléments, la société ne pouvait
+écarter le soupçon que les sommes concernées provenaient d' une infraction passible d'une peine privative de
+liberté supérieure à un an ; que le défaut de DS est établi ;
+Autorité de contrôle prudentiel et de résolution 14
+
+===== Page 15 =====
+Décision de la Commission des sanctions – procédure no 2015-10
+57. Considérant que, selon le sous-grief 6-7, M. B23, ingénieur à la retraite, résidant en France, dont la
+tranche de revenus déclarée est supérieure à 150 000 euros et la tranche de patrimoine déclarée supérieure à
+2,5 millions d’euros, a souscrit en juillet 2013 un contrat d’assurance sur la vie d’un montant de 5 000 euros ;
+que 22 jours plus tard, il a effectué un versement complémentaire de 1,5 million d’euros et fourni les copies
+de rachats partiels effectués sur 5 contrats d’assurance sur la vie souscrits auprès de l’entreprise d’assurance
+V (5 rachats partiels de 308 860,10 euros net) ; qu’aucun autre élément de nature à justifier l’origine des
+fonds n’est présent au dossier ; qu’en septembre 2014, le client a racheté totalement son contrat et demandé
+le virement des fonds sur un compte qu’il détient à l’étranger ; qu’interrogé par Skandia Life, il a indiqué que
+ce rachat était motivé par la volonté de placement sur un autre contrat à l’étranger ; que ne figure au dossier
+aucun autre élément justificatif ; qu’au vu de ces éléments, l’organisme aurait dû effectuer une DS en
+application du I de l’article L. 561-15 du CMF ou, à tout le moins, procéder à un examen renforcé de cette
+opération ;
+58. Considérant que les pièces recueillies par Skandia Life ne permettaient pas, au moment de la
+souscription, de connaître l’origine des fonds utilisés par ce client ; que si les éléments de connaissance de ce
+client, notamment sur sa profession, ses revenus et son patrimoine, pouvaient, au final, être analysés comme
+cohérents avec les opérations effectuées, cela aurait dû au minimum être confirmé par un examen renforcé,
+qui n’a pas été effectué ; que le manquement aux dispositions du II de l’article L. 561-10-2 du CMF est donc
+établi ;
+2. En ce qui concerne les DS complémentaires
+59. Considérant que le V de l’article L. 561-15 du CMF dispose que « toute information de nature à
+infirmer, conforter ou modifier les éléments contenus dans la déclaration est portée, sans délai, à la
+connaissance du service mentionné à l’article L. 561-23 » ;
+60. Considérant que, selon le grief 7, dans 3 dossiers individuels, ceux de M. B24, de M. B25 et de
+Mme B26, Skandia Life a informé Tracfin de son refus d’effectuer une opération mais n’a pas adressé de DS
+complémentaire à ce service pour l’informer de ce que cette opération avait finalement été exécutée ;
+61. Considérant que l’exécution de l’opération au sujet de laquelle Skandia avait indiqué à Tracfin qu’elle
+avait été refusée après que la saisie d’un compte ayant fait l’objet d’un avis à tiers détenteur de
+l’administration fiscale eut été levée, était de nature à modifier les éléments contenus dans la DS initiale s’y
+rapportant ; que si Skandia Life soutient qu’« En vertu des PAS [principes d’application sectoriels]
+assurances version 2010, p. 41, "Tracfin pouvait donc déduire de l’absence de mise en jeu de son droit
+d’opposition que l’opération était réalisée. Seules des informations de nature à infirmer le soupçon ou celles
+qui ont trait aux caractéristiques des opérations déclarées ou bien encore celles qui portent sur la
+connaissance de la relation d’affaires doivent être portées à la connaissance de Tracfin" », cette précision
+ne figure pas dans ces PAS ; qu’au demeurant, les lignes directrices conjointes de l’ACP et de Tracfin du 21
+juin 2010 précisaient que « Les informations de nature à infirmer le soupçon ou celles qui ont trait aux
+caractéristiques des opérations déclarées ou bien encore celles qui portent sur la connaissance de la
+relation d’affaires doivent être portées sans délai, quel que soit le montant des opérations concernées, à la
+connaissance de Tracfin. » (p. 12), sans pour autant réduire l’obligation de DS complémentaire à ces seules
+informations ; que Tracfin aurait donc dû être informé de l’exécution des opérations dans les 3 cas
+mentionnés par la poursuite, y compris en l’absence de réaction de ce service à la DS initiale et quoi que la
+procédure interne alors en vigueur au sein de Skandia Life ait pu mentionner ; que le grief est établi ;
+D. Le dispositif de gel des avoirs
+62. Considérant que, selon l’alinéa 2 du VI de l’article A. 310-8 du code des assurances, les entreprises
+d’assurance se dotent de dispositifs permettant de détecter toute opération au bénéfice d’une personne ou
+d’une entité faisant l’objet d’une mesure restrictive spécifique ou de gel des avoirs ; que l’article R. 562-2 du
+CMF impose que les organismes assujettis « qui détiennent ou reçoivent des fonds, des instruments
+Autorité de contrôle prudentiel et de résolution 15
+
+===== Page 16 =====
+Décision de la Commission des sanctions – procédure no 2015-10
+financiers ou des ressources économiques pour le compte d’un client faisant l’objet d’une mesure de gel
+mettent immédiatement en œuvre cette mesure et en informent sans délai le ministre chargé de
+l’économie. » ;
+63. Considérant que, selon le grief 8, le dispositif de détection des opérations au profit d’une personne
+soumise à une mesure restrictive ou de gel de Skandia Life repose sur un outil de consultation des bases
+clients au regard des listes européenne et nationale de gel des avoirs ; que cependant, l’organisme n’a pas
+défini de procédure relative au traitement des homonymies détectées par l’outil de consultation ; qu’à cet
+égard, les alertes d’homonymies figurant dans le stock de clients entre février 2012 et juillet 2014, date à
+laquelle l’organisme a changé d’outil, n’ont pas été traitées, soit plus de 1 000 alertes ; que l’outil de filtrage
+produisait des alertes trop nombreuses, incohérentes et inexploitables, si bien que l’organisme a changé
+d’outil en juillet 2014 ; que le nouvel outil mis en place générait toujours un nombre important d’alertes
+(600 alertes au moment du contrôle depuis juillet 2014) ; que l’ensemble des alertes produites par le
+précédent outil et par le nouvel outil (soit, un total de 1 600 alertes) n’avaient pas encore été analysées par
+l’organisme début novembre 2014, à la fin de la mission de contrôle sur place ; que celui-ci a indiqué dans
+un courriel du 5 novembre 2014 qu’il « attend les résultats du dernier paramétrage afin de commencer
+l’analyse des alertes au cas par cas » ; que, faute de traiter les homonymies relevées par l’outil de
+consultation de son stock de clients, Skandia Life n’était pas en mesure de détecter si une opération est
+réalisée au profit d’une personne soumise à une mesure restrictive ou de gel des avoirs et de mettre en œuvre
+immédiatement les mesures de gel ainsi que d’en informer sans délai la direction générale du Trésor, selon
+les prescriptions des règlements européens portant mesures restrictives et les dispositions de l’article
+R. 562-2 du CMF ;
+64. Considérant que Skandia Life n’a pas contesté les lacunes de son dispositif de gel des avoirs au stade
+du contrôle sur place ; qu’elle avait alors notamment reconnu qu’elle avait « rencontré des difficultés à
+analyser dans les temps les bases Y et maintenant Z en regard des problématiques d’homonymies concernant
+le gel des avoirs » ; que devant la Commission, sans contredire le reproche d’une absence de procédure de
+traitement des homonymies, elle indique que ses opérations de traitement étaient rendues impossibles par le
+caractère inexploitable de bon nombre de remontées d’alertes et que si ce traitement a malgré tout été
+effectué, c’est sans qu’elle puisse en garantir la pertinence ; que si après son raccordement au système du
+groupe APICIL, aucun client faisant l’objet d’une mesure restrictive ou du gel de ses avoirs n’a été détecté,
+ce raccordement est une mesure correctrice qui est sans influence sur la réalité du grief ; qu’il en est de
+même du résultat du filtrage au 31 décembre 2015 ; que le grief est établi ;
+*
+* *
+65. Considérant qu’il résulte de ce qui précède que l’organisation du dispositif de LCB-FT de Skandia
+Life à la date du contrôle sur place était défaillante au regard de la réglementation que l’ACPR a pour
+mission de faire respecter ; qu’est sans incidence à cet égard le fait que le superviseur luxembourgeois n’ait
+pas ouvert de procédure disciplinaire à l’encontre de Skandia Life SA au terme du contrôle qu’il a mené au
+siège de cette société ; que les carences relevées portent tant sur les procédures internes (grief 1) que sur le
+suivi de la relation d’affaires (grief 2) ; qu’il en est résulté des manquements aux obligations de vigilance et
+déclaratives de cet organisme ; qu’ainsi, l’obligation de vigilance complémentaire concernant les PPE n’a
+pas été totalement respectée (grief 3), tandis que plusieurs dossiers individuels présentant, selon
+l’établissement lui-même, un risque élevé, n’ont pas été traités de manière appropriée (grief 4) ; que, de
+même, les opérations de plusieurs clients n’ont pas donné lieu à l’examen renforcé qui pourtant aurait dû être
+effectué (grief 5, sous-grief 6-7) ; que le maintien, jusqu’en 2013, d’une procédure interne qui prévoyait la
+justification de la destination et de l’origine des fonds à partir d’un seuil de 150 000 euros, alors que
+l’ordonnance no 2009-104 a introduit une approche par les risques excluant la référence à des seuils fixes, ne
+constitue pas une excuse aux carences constatées dans plusieurs dossiers individuels mais dénote un retard
+fautif dans l’application des dispositions issues de la transposition de la directive 2005/60/CE du 26 octobre
+2005, dite « troisième directive anti-blanchiment » ; qu’en outre, plusieurs défauts de DS, initiale ou
+complémentaire, sont établis (sous-griefs 6-1 à 6-6, grief 7) ; que les carences relevées en matière de gel des
+avoirs revêtent une particulière gravité (grief 8) ; que le contexte d’une restructuration mise en place entre
+Autorité de contrôle prudentiel et de résolution 16
+
+===== Page 17 =====
+Décision de la Commission des sanctions – procédure no 2015-10
+2012 et 2014, qui s’est notamment traduite par une réduction des effectifs, ne peut contribuer à justifier les
+carences constatées en LCB-FT ;
+66. Considérant qu’il convient, dans la détermination de la sanction, de tenir compte des précisions
+apportées quant au périmètre de plusieurs griefs et de ce que l’un d’eux a été écarté (sous-griefs 4-1, 4-2, 4-7
+et 6-4) ; que, de plus, les carences observées en matière de traitement des PPE, si elles sont établies, ne
+reposent que sur un seul dossier individuel et sur des opérations ne portant pas sur des montants élevés (grief
+3) ; que Skandia Life a recentré ses relations sur les CGPI les plus structurés ; qu’il convient également, dans
+une certaine mesure, de tenir compte des actions correctrices engagées depuis la fin du contrôle sur place,
+conformément aux engagements pris par Skandia Life, actions qui ont principalement porté sur la formation,
+le renforcement des moyens en France et au Luxembourg, l’amélioration de la connaissance des clients et du
+contrôle de leurs opérations, la diffusion d’une nouvelle procédure de LCB-FT, dans le contexte du
+raccordement du dispositif de Skandia Life à celui de son nouvel actionnaire, le groupe APICIL, qui a
+notamment conduit à utiliser un nouveau progiciel de conformité LCB-FT, ce qui démontre la volonté d’une
+mise à niveau de son dispositif dans ce domaine ;
+67. Considérant qu’en raison de l’ampleur des carences constatées qui se sont notamment traduites par un
+nombre significatif de défauts de DS et, en matière de gel des avoirs, par des retards dans le traitement d’un
+nombre important d’alertes, il y a lieu de prononcer un blâme à l’encontre de cet établissement ; qu’eu égard
+à l’ensemble des éléments ci-dessus mentionnés et à l’assise financière de Skandia Life, une sanction
+pécuniaire de 1,2 million d’euros sera également prononcée ;
+68. Considérant qu’au regard de la nature des manquements retenus par la Commission, la publication de
+la présente décision sous une forme nominative n’est pas de nature à causer à Skandia Life un préjudice
+disproportionné ;
+PAR CES MOTIFS
+DÉCIDE :
+ARTICLE 1ER – Il est prononcé à l’encontre de Skandia Life un blâme ainsi qu’une sanction pécuniaire
+de 1,2 million d’euros.
+ARTICLE 2 – La présente décision sera publiée au registre de l’ACPR et pourra être consultée au
+secrétariat de la Commission.
+Le Président de la Commission
+des sanctions
+[Rémi BOUCHEZ]
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification et dans
+les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 17

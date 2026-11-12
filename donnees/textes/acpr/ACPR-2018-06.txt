@@ -1,0 +1,635 @@
+===== Page 1 =====
+ÉTABLISSEMENT A
+Procédure no 2018-06
+–––––
+Blâme et sanction pécuniaire
+de 200 000 euros
+–––––
+Audience du 26 juin 2019
+Décision rendue le 11 juillet 2019
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 25 septembre 2018 par laquelle le Président de l’Autorité de contrôle prudentiel et de
+résolution (ci-après l’« ACPR ») informe la Commission de ce que le Collège de supervision de l’ACPR (ci-
+après le « Collège »), statuant en sous-collège sectoriel de la banque, a décidé d’ouvrir une procédure
+disciplinaire à l’encontre d’un établissement de crédit (ci-après la « l’établissement A) , enregistré sous le
+no 2018-06 ;
+Vu la notification des griefs du 25 septembre 2018 ;
+Vu les mémoires en défense des 29 novembre 2018, 7 mars et 11 avril 2019 par lesquels l’établissement
+A conteste la régularité de la procédure et l’ensemble des griefs ;
+Vu les mémoires en réplique des 31 janvier et 27 mars 2019, par lesquels M. Emmanuel Constans,
+représentant du Collège, maintient l’ensemble des griefs notifiés ;
+Vu le rapport du 24 mai 2019 de M. Christian Lajoie, rapporteur, dans lequel celui-ci conclut que les 11
+griefs notifiés sont établis, mais qu’au moins 3 d’entre eux peuvent être relativisés (griefs 4, 7 et 9) ;
+Vu les courriers du 24 mai 2019 convoquant les parties à l’audience et les informant de la composition de
+la Commission ;
+Vu les observations présentées le 7 juin 2019 par l’établissement A sur le rapport du rapporteur, par
+lesquelles il persiste dans sa contestation du bien-fondé de la poursuite, apporte des éléments
+complémentaires en défense sur chacun des griefs notifiés et demande, si une sanction devait être prononcée,
+qu’elle soit publiée sous une forme anonyme en raison du risque de réputation élevé d’une telle publication
+auprès de sa clientèle sous gestion privée ;
+Vu le courrier du 29 octobre 2018, remis à l’audience par l’établissement A, par lequel celui-ci informe la
+Banque de France de sa décision, qui fait notamment suite à une demande de retrait d’espèces non justifiée,
+de résilier la convention de compte qui le lie à la [banque B1 du pays A] ;
+Vu les autres pièces du dossier, notamment le rapport de contrôle du 9 avril 2018 ;
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2018-06
+Vu le code monétaire et financier (ci-après le « CMF »), notamment ses articles L. 561-4-1, L. 561-5,
+L.561-5-1, L. 561-6, L. 561-10-2, L. 561-15, L. 561-32, L. 612-39, R. 561-1, R. 561-3, R. 561-7, R. 561-12,
+R.561-38 et R. 612-35 à R. 612-52, dans leur rédaction en vigueur au moment du contrôle sur place ;
+Vu l’arrêté du 2 septembre 2009 pris en application de l'article R. 561-12 du code monétaire et financier
+et définissant des éléments d'information liés à la connaissance du client et de la relation d'affaires aux fins
+d'évaluation des risques de blanchiment de capitaux et de financement du terrorisme (ci-après « l’arrêté du 2
+septembre 2009 ») ;
+Vu l’arrêté du 3 novembre 2014 relatif au contrôle interne des entreprises du secteur de la banque, des
+services de paiement et des services d’investissement soumises au contrôle de l’Autorité de contrôle
+prudentiel et de résolution (ci-après « l’arrêté du 3 novembre 2014 »), notamment ses articles 11, 25, 47, 57 à
+60, 71 et 239 ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACPR, composée de M. Rémi Bouchez, Président, Mme Claudie
+Aldigé, Mme Christine Meyer-Meuret, Mme Elisabeth Pauly et M. Denis Prieur ;
+Après avoir entendu, lors de sa séance non publique du 26 juin 2019 :
+– M. Lajoie, rapporteur, assisté de Mme Marie Mallard Saïh, son adjointe ;
+– Mme Pauline Ennouchy, représentant la directrice générale du Trésor ;
+– M. Constans, représentant du Collège, assisté du directeur des affaires juridiques, de trois juristes au
+sein de cette direction, ainsi que du responsable du pôle permanent LCB-FT ; M. Constans a proposé à la
+Commission de prononcer un blâme et une sanction pécuniaire de 400 000 euros dans une décision
+publiée sous une forme nominative ;
+– l’établissement A, représenté par son président-directeur général, son superviseur de la conformité et
+du contrôle interne et son chargé de la conformité ainsi que par Me Marie-Cécile Sarrazin, avocate à la
+Cour ;
+Les représentants de l’établissement A ayant eu la parole en dernier ;
+Après avoir délibéré en la seule présence de M. Bouchez, Président, Mme Aldigé, Mme Meyer-Meuret, Mme
+Pauly et M. Prieur ainsi que de M. Jean-Manuel Clemmer, chef du service de la Commission des sanctions
+faisant fonction de secrétaire de séance ;
+1. Considérant que l’établissement A est un établissement de crédit opérant commercialement sous le nom
+de (…) ; que, fin 2018, cet établissement employait une soixantaine de personnes et comptait (…)
+clients, hors clientèle du transfert d ’argent ; que la banque privée représente (…) % de son produit net
+bancaire, qui s’est élevé à environ (…) euros en 2018 ; que le reste de son activité est constitu é
+essentiellement de transferts d’argent par des personnes originaires de pays émergents [( …) % de son
+produit net bancaire] en relation avec des banques étrangères, principalement africaines (…) ainsi que
+d’un site de courtage en ligne (…) ; [qu’en] 2015, l’établissement A a ouvert des comptes à des
+sociétés qui exportent vers le pays A afin de faciliter l’encaissement de leurs créan ces ; que cette
+activité a été interrompue en novembre 2018 ; que le résultat net de l’établissement A s’est élevé à environ
+(…) euros en 2018 contre (…) euros en 2017 ; qu’à la fin de ce dernier exercice, il disposait de (…) euros
+de fonds propres ;
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2018-06
+2. Considérant que l’établissement A avait fait l’objet d’un contrôle sur place au second semestre 2011 ;
+que le rapport de contrôle alors établi avait donné lieu à une lettre de suite du secrétariat général de l’ACPR
+le 19 avril 2012 ; que l’établissement A a été à nouveau contrôlé du 4 mai au 7 septembre 2017 ; qu’au terme
+de ce contrôle, un rapport définitif a été signé le 9 avril 2018 (ci-après le « rapport de contrôle ») ; qu’au vu
+de ce rapport, le Collège a décidé, lors de sa séance du 10 septembre 2018, d’ouvrir la présente procédure
+disciplinaire ;
+I. - Sur la contestation, par [l’établissement A], de la régularité de la
+procédure
+3. Considérant que l’établissement A estime que les pièces et arguments qu’il a apportés n’ont pas été pris
+en compte par la poursuite et par le rapport du rapporteur ; qu’il conteste la régularité de la procédure en ce
+que le Collège se serait écarté, dans la présentation de plusieurs reproches, des constats du rapport de
+contrôle (grief 1 : absence de prise en compte dans la classification des risques de l’activité de
+correspondance bancaire - grief 4 : contrôle permanent des flux concernant les relations avec le pays A, et
+grief 5: défaut de couverture de l’activité traditionnelle de l’établissement A par son contrôle périodique,
+alors que ce point ne figure pas parmi les observations du rapport de contrôle) ; que, de plus, la notification
+des griefs se réfère à l’absence de mise en œuvre des recommandations formulées par le secrétariat général
+de l’ACPR à la suite du précédent contrôle (griefs 1, 2, 5 et 6), alors même que cette mission de contrôle ne
+portait pas sur le suivi de ces recommandations ; qu’en outre, le représentant du Collège se fonde, au soutien
+du grief 4, sur une liste d’opérations d’exportation vers le pays A figurant sur une pièce dont ni l’auteur ni les
+conditions d’élaboration ne sont connus et qui n’avait pas été annexée au rapport de contrôle, ce qui
+constitue selon l’établissement A une atteinte irrémédiable aux droits de la défense ; que le caractère
+équitable de la procédure et le principe de nécessité des peines seraient méconnus si ces pièces étaient vues
+comme des preuves irréfragables des manquements reprochés ;
+4. Considérant, cependant, que rien n’empêche la poursuite ou l’établissement poursuivi de verser au
+dossier d’une procédure disciplinaire des pièces supplémentaires qui ne sont pas extraites du rapport de
+contrôle sur lequel se fonde principalement cette procédure et de les soumettre ainsi au débat contradictoire
+puis à l’examen par la Commission ; que, de même, aucune disposition légale non plus qu’aucun principe
+n’interdit à la poursuite de faire état des suites données à des rapports de contrôle plus anciens concernant
+l’établissement poursuivi ; qu’en outre, ainsi que la Commission l’a rappelé à plusieurs reprises, les éléments
+qui figurent dans un rapport de contrôle ne lient pas le Collège, seul compétent pour énumérer et qualifier les
+faits reprochés à un établissement qu’il poursuit devant la Commission (cf. notamment la décision n° 2017-
+04, 3 juillet 2018, considérant 22) ; que, dans le cadre de la présente procédure, l’établissement A a pu
+présenter toutes les observations qu’il souhaitait sur les manquements qui lui sont reprochés et les pièces les
+appuyant et a produit lui-même des pièces en défense, y compris lors de l’audience ; que la Commission se
+prononce, lors de l’examen de chaque grief, sur le bien-fondé des arguments échangés et sur la valeur
+probante des éléments fournis de part et d’autre pendant l’instruction et lors de l’audience ; qu’ainsi, les
+critiques de l’établissement A tirées de prétendues atteintes à l’équité du procès ou aux droits de la défense
+ne peuvent qu’être écartées ;
+II. - Sur l’organisation du dispositif de LCB-FT
+A - En ce qui concerne la classification des risques
+5. Considérant que le 2ème alinéa de l’article L. 561-4-1 du CMF impose aux organismes assujettis
+d’élaborer et de mettre à jour « une classification des risques en question en fonction de la nature des
+produits ou services offerts, des conditions de transaction proposées, des canaux de distribution utilisés, des
+caractéristiques des clients, ainsi que du pays ou du territoire d'origine ou de destination des fonds » ; que
+ces dispositions sont précisées par les articles 57 et 58 de l’arrêté du 3 novembre 2014 qui mentionnent que
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2018-06
+cette classification doit couvrir toutes les activités susceptibles d’entraîner une exposition à un risque de
+blanchiment des capitaux et le financement du terrorisme (ci-après « BC-FT ») ;
+6. Considérant que selon le grief 1, fondé sur ces dispositions, la classification des risques de BC-FT
+figurant dans le document intitulé « Dispositif LCB-FT de […] », daté de mars 2017, était incomplète et
+insuffisamment adaptée aux risques présentés par les activités de l’établissement A; qu’ainsi, elle ne prenait
+pas suffisamment en compte les risques présentés par les pays de destination des transferts de fonds,
+mentionnant que « les pays avec lesquels la Banque travaille ne sont en pratique pas des pays utilisés
+comme destination de fonds à blanchir surtout lorsque la monnaie locale est utilisée » alors que deux de ces
+pays, les pays B et C, font l’objet d’une surveillance rapprochée du Groupe Intergouvernemental d'Action
+contre le Blanchiment d'Argent en Afrique de l'Ouest (GIABA), tandis que le dispositif de LCB-FT d’un
+troisième pays, le pays D, a été évalué « non conforme » pour 24 des 49 recommandations du GAFI ; que ces
+3 pays présentent, selon le GAFI et le GIABA, des risques élevés de financement du terrorisme ; que les
+risques liés à la correspondance bancaire, exercée à la fois avec des banques du pays A dans le cadre de
+l’activité de l’établissement A avec des exportateurs français, et à l’égard des banques hors Espace
+Économique Européen avec lesquelles il réalise du transfert de fonds, n’étaient pas non plus pris en compte ;
+qu’enfin, les risques liés aux personnes politiquement exposées (ci-après « PPE ») n’étaient pas non plus
+intégrés à cette classification, bien que l’établissement A ait identifié 7 PPE parmi ses clients ;
+7. Considérant, tout d’abord, que l’établissement A soutient que le rapport de contrôle a été remis à une
+date, le 9 avril 2018, à laquelle tous les décrets d’application prévus par l’ordonnance n° 2016-1635 du 1er
+décembre 2016 n’avaient pas encore été publiés ; que s’appliquaient encore les dispositions issues de
+l’ordonnance n° 2009-104 du 30 janvier 2009 et ses textes d’application sur la classification des risques, dont
+l’arrêté du 3 novembre 2014 ; que les carences reprochées à sa classification des risques doivent donc, selon
+les cas, être qualifiées au visa soit du nouvel l’article L. 561-4-1 du CMF, soit de l’ancien article R. 561-38,
+moins prescriptif, notamment en ce qu’il n’exige pas de prise en compte des pays ou territoires de destination
+des fonds ;
+8. Considérant, cependant, que les dispositions ci-dessus rappelées du nouvel article L. 561-4-1 du CMF
+prescrivent en termes clairs les obligations en matière de classification des risques ; qu’elles s’imposaient
+donc dès le lendemain de leur publication, soit le 3 décembre 2016, indépendamment de toute précision par
+décret ; que le 2° de l’ancien article R. 561-38 imposait aux organismes assujettis d’élaborer « une
+classification des risques de blanchiment des capitaux et de financement du terrorisme présentés par leurs
+activités, selon le degré d'exposition à ces risques apprécié en fonction notamment de la nature des produits
+ou des services offerts, des conditions des transactions proposées, des canaux de distribution utilisés ainsi
+que des caractéristiques des clients », formulation dont il résultait nécessairement que le pays de destination
+ou d’origine des fonds faisant l’objet d’opérations, qui se rattache à la fois aux conditions de transaction, aux
+canaux de distribution et aux caractéristiques des clients, devait être pris en compte par l’établissement A;
+qu’au demeurant, l’arrêté du 3 novembre 2014 mentionne la nécessité de couvrir toutes les activités
+susceptibles d’exposer l’entreprise à un risque de BC-FT, notamment lorsqu’elles sont exercées « avec des
+personnes établies dans des États ou territoires mentionnés par le Groupe d'action financière parmi ceux
+dont la législation ou les pratiques font obstacle à la lutte contre le blanchiment de capitaux et le
+financement du terrorisme » (article 57) ; qu’il impose qu’il soit notamment tenu compte des informations
+diffusées par le GAFI (article 58) et que la classification des risques « évalue le niveau de risque des
+différents produits ou services offerts, des modalités ou des conditions particulières des opérations
+effectuées, des canaux de distribution utilisés ainsi que des caractéristiques de la clientèle ciblée » (article
+59) ;
+9. Considérant, ensuite, que l’établissement A fait valoir (i) qu’aucune disposition légale n’impose que la
+classification des risques soit décrite dans un document unique ; que sa classification des risques, qui est
+comprise dans 3 documents, tout d’abord son « Dispositif LCB-FT de […] », de mars 2017, mais aussi, sa
+procédure « Application de la réglementation relative à la lutte contre le blanchiment des capitaux et le
+financement des terrorisme aux opérations de transfert vers les Philippines, l’Afrique et l’ensemble des pays
+concernés par l’activité « Transfert d’argent » de novembre 2016 et son « Instruction aux services, LCB-FT
+», prend en compte la totalité des risques auxquels il est exposé ; (ii) que le risque pays est pris en compte
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2018-06
+lors de sa sélection des pays et partenaires commerciaux ainsi que par sa procédure sur les transferts
+d’argent, qui traite des risques associés à cette activité et que ses agents de paiement doivent respecter ; qu’il
+n’avait pas à hiérarchiser les risques géographiques car son activité est tout entière orientée vers des
+communautés originaires de pays émergents ; que, de plus, il applique aux opérations avec tous les pays
+destinataires de transferts de fonds une vigilance renforcée, de sorte qu’une classification différenciée
+entraînerait mécaniquement, sur ces opérations, une baisse dans certains cas de son niveau de vigilance ; (iii)
+que la poursuite a déformé les constats sur son activité en relation avec les banques du pays A contenus dans
+le rapport de contrôle qui, après examen d’un échantillon, mentionnait seulement des anomalies concernant
+la justification des opérations dans 10 % des cas et rappelait que le recueil des documents d’identité des
+dirigeants et des statuts fait partie des diligences normales pour les personnes morales, y compris de droit
+étranger ; que, dans le cadre de ses conventions avec des banques du pays A, il n’exerçait pas une activité de
+correspondance bancaire, le paiement de factures de grands exportateurs français impliquant uniquement
+l’utilisation de comptes techniques ; (iv) que, la mission de contrôle n’ayant pas eu pour objet la vérification
+de la mise en œuvre des demandes formulées dans la lettre de suite du 19 avril 2012, il ne saurait lui être
+utilement reproché dans le cadre de la présente procédure de ne pas avoir remédié aux insuffisances ayant
+trait au traitement des PPE dans sa classification des risques qui étaient mentionnées dans cette lettre ; qu’en
+outre les risques liés aux PPE, mentionnés dans ses procédures internes, étaient bien pris en compte ;
+10. Considérant, cependant, (i) que si la réglementation n’impose pas que la classification des risques soit
+comprise dans un document unique, ce qui toutefois est préférable pour assurer sa cohérence et son
+exhaustivité, l’ensemble des documents à prendre en compte doit finalement répondre aux exigences ci-
+dessus rappelées ; qu’ainsi, dans tous les cas, le ou les documents élaborés à ce titre doivent clairement faire
+ressortir une évaluation des risques, en les détaillant et en les hiérarchisant, ce qui n’était pas le cas au
+moment du contrôle sur place des différentes pièces mentionnées en défense ; que la sélection des clients
+avant l’entrée en relation ne peut tenir lieu de classification des risques ; que la mention que souligne la
+poursuite, dans la procédure interne de novembre 2016, d’un faible risque d’utilisation à des fins de BC-FT
+des transactions effectuées en monnaies locales, sans aucune distinction selon le pays concerné, témoigne
+d’une analyse insuffisante des risques de BC-FT ; que la même procédure souligne, également à tort, que
+« la modicité des sommes généralement envoyées atténue considérablement le risque de blanchiment », alors
+que des sommes provenant d’infractions peuvent donner lieu à des transferts de fonds sous forme de
+multiples opérations fractionnées ; (ii) que les procédures de l’établissement A à la date du contrôle ne
+comportaient pas une évaluation du risque représenté par les transferts de fonds vers chacun des pays
+concernés, un seuil de surveillance unique étant appliqué à tous ; que les risques résultant de l’exécution
+d’opérations vers des pays émergents doivent être distingués selon les pays ; que la mise en œuvre
+systématique, selon l’établissement A, d’une vigilance renforcée, n’est pas de nature à répondre au grief qui
+porte sur l’obligation de distinguer les risques afférents aux échanges selon les pays avec lesquels existe un
+courant d’affaires ; que, par ailleurs, les deux dernières procédures mentionnées en défense, qui s’analysent
+comme des modes opératoires, n’apportent aucune précision sur ce point ; (iii) que les passages du rapport de
+contrôle auxquels renvoie l’établissement A ne permettent pas de répondre au reproche selon lequel le risque
+résultant de ses activités en relation avec des banques du pays A n’était pas pris en compte par sa
+classification des risques ; que, quelle que soit la qualification exacte des activités de l’établissement A avec
+des banques du pays A, le risque de BC-FT en résultant aurait dû être évalué dans sa classification des
+risques ; que les contrôles qu’il indique avoir effectués à leur sujet ne peuvent répondre au présent reproche ;
+(iv) que la simple répétition par les procédures internes de l’établissement A de son obligation légale de
+détection des PPE ne pouvait suffire au respect de l’obligation de traiter le risque résultant de la présence
+éventuelle de PPE parmi ses clients ; que le grief 1 est donc établi dans son ensemble ;
+B – En ce qui concerne la détection des PPE
+11. Considérant que, selon l’article L. 561-32 du CMF, les organismes assujettis mettent en place un
+dispositif de gestion des risques permettant de détecter notamment les PPE ; que ces dispositions sont
+précisées par celles du 1° du II de l’article R. 561- 20 de ce code qui prévoient que, lorsque leur client est
+une PPE ou le devient au cours de la relation d'affaires, ces organismes définissent et mettent en œuvre des
+procédures, adaptées au risque de BC-FT, permettant de déterminer s’il appartient à cette catégorie ;
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2018-06
+12. Considérant que selon le grief 2, fondé sur ces dispositions, le dispositif de détection des clients PPE
+était insuffisant et incomplet, alors que cette carence avait déjà fait l’objet d’une demande dans la lettre du 19
+avril 2012 qui faisait suite au précédent contrôle sur place ; qu’ainsi, l’établissement A avait défini 3
+procédures internes en matière de LCB-FT, dont aucune ne prévoyait de détecter, pour l’activité de transferts
+de fonds, les clients PPE qui sont en relation d’affaires avec l’établissement et, pour les autres activités de
+l’établissement, les clients qui deviennent PPE en cours de relation d’affaires ; qu’à titre d’exemple, son
+dispositif n’a pas permis de détecter 7 clients réalisant des transferts de fonds, dont les nom, prénoms, date
+de naissance et nationalité correspondaient à celles de PPE (dossiers 2.1 à 2.7) ;
+13. Considérant, tout d’abord, que, si l’établissement A appliquait, à la date du contrôle, 5 procédures
+internes en LCB-FT et non pas 3, dont 2 mentionnaient les obligations de détection des PPE, soit la
+procédure « faîtière » dénommée « Instruction aux services LCB-FT » et la procédure « Ouverture de compte
+et suivi de la relation », son dispositif de détection de cette catégorie de clients n’était cependant ni complet
+ni opérationnel ; que la « procédure faîtière » évoquait seulement l’obligation de détecter l’éventuel statut de
+PPE, « qui implique une vigilance renforcée, laquelle a été étendue aux personnes françaises » ; que si la
+procédure « Ouverture de compte et suivi de la relation » de mars 2017 prévoyait une obligation, pour
+chaque conseiller privé, de « Vérifier que le client n’est pas devenu, durant la relation d’affaires, une
+(PPE) », son entrée en vigueur avait été repoussée à la date de la mise à jour du formulaire client, laquelle
+n’était pas intervenue au moment du contrôle ; que, s’agissant de l’activité de transfert de fonds, la procédure
+générale citée prévoit une vigilance renforcée sans faire de référence à la détection préalable des PPE ; que
+pour certaines transactions, la référence au dispositif d’un établissement tiers est sans conséquence sur le
+présent grief, l’établissement A conservant sa responsabilité propre dans la détection des PPE ;
+14. Considérant, ensuite, que le faible nombre d’opérations effectuées par des clients en relation d’affaires
+dont les éléments d’identité correspondent à ceux de PPE, ou leur faible montant, sont sans conséquence sur
+l’obligation pour l’établissement A de les détecter ; que si l’établissement A indique avoir souscrit en janvier
+2017 un abonnement à la base de données spécialisée W, le défaut de détection de possibles PPE montre les
+carences de son dispositif à la date du contrôle ; que le grief 2 est établi ; qu’il doit toutefois être relativisé en
+tenant compte du faible nombre de dossiers de possibles PPE détectés par la poursuite (7 dossiers), rapporté
+au nombre de clients avec lesquels l’établissement A est en relation d’affaires ;
+III. - Sur le contrôle interne du dispositif de LCB-FT
+A – En ce qui concerne les activités externalisées
+15. Considérant que, selon l’article 239 de l’arrêté du 3 novembre 2014, « Les entreprises assujetties
+s'assurent, dans leurs relations avec leurs prestataires externes, que ces derniers : (…) b) Assurent la
+protection des informations confidentielles ayant trait à l'entreprise assujettie et à ses clients » ;
+16. Considérant que selon le grief 3, fondé sur ces dispositions, l’établissement A confiait certaines
+tâches du contrôle interne permanent et périodique à un tiers dont la prestation était prévue par un contrat
+d’externalisation daté du 19 décembre 2016 ; que ce contrat ne comportait pas de prescriptions visant à
+assurer la protection des informations confidentielles ayant trait à l’établissement et à ses clients, auxquelles
+le prestataire a nécessairement accès pour l’exercice des tâches qui lui sont confiées ; qu’à titre d’illustration,
+dans le cadre d’une mission de contrôle périodique menée fin 2016, ce prestataire avait eu accès à des
+informations relatives aux opérations avec le pays A, en particulier aux dossiers des clients concernés, aux
+répertoires du back-office ainsi qu’à l’outil de gestion de la relation client ;
+17. Considérant que l’établissement A n’apporte aucun élément venant contredire l’absence de stipulation
+relative à la protection des informations confidentielles ayant trait à ses clients dans le contrat
+d’externalisation visé par la notification des griefs ; qu’il n’indique pas non plus selon quelle autre mesure il
+se serait assuré que cette protection était mise en œuvre par son prestataire ; que le grief 3 est donc établi ;
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2018-06
+B – En ce qui concerne le contrôle permanent
+18. Considérant que, selon le a) de l’article 11 de l’arrêté du 3 novembre 2014, « le système de contrôle
+des opérations et des procédures internes a notamment pour objet, dans des conditions optimales de
+sécurité, de fiabilité et d'exhaustivité, de : / a) Vérifier que les opérations réalisées par l'entreprise, ainsi que
+l'organisation et les procédures internes, sont conformes aux dispositions propres aux activités bancaires et
+financières, qu'elles soient de nature législative ou réglementaire, nationales ou européennes directement
+applicables, ou qu'il s'agisse de normes professionnelles et déontologiques, ou d'instructions des dirigeants
+effectifs prises notamment en application des stratégies et politiques régissant la prise, la gestion, le suivi et
+la réduction des risques ainsi que des orientations et de la politique de surveillance de l'organe de
+surveillance ; » ; que l’article 71 du même arrêté précise que le contrôle permanent du dispositif de LCB-FT
+fait partie du dispositif de conformité ;
+19. Considérant que selon le grief 4, fondé sur ces dispositions, le contrôle permanent de l’établissement
+A était insuffisant à l’égard, tout d’abord, de son activité comportant des relations avec des banques du pays
+A ; qu’ainsi, aucune des 83 opérations réalisées au bénéfice d’exportateurs français au mois d’avril 2017,
+pour un montant de 28,8 millions d’euros, n’avait été contrôlée, en dépit des risques élevés de BC-FT liés à
+cette activité et des mesures de vigilance complémentaires ou renforcées exigées par la réglementation et
+prévues par les procédures internes de l’établissement A ; que sur la base d’un audit interne mené fin 2016,
+la mission de contrôle a relevé des écarts non justifiés entre le montant des virements reçus par les clients de
+l’établissement A et les factures figurant dans les dossiers, en particulier dans 7 cas entre décembre 2015 et
+mars 2017 ; qu’ensuite, les procédures internes relatives aux transferts de fonds n’étaient pas suffisamment
+respectées en ce qui concerne les seuils au-delà desquels les opérations doivent être justifiées, notamment de
+celui de 1 500 euros sur trente jours glissants pour les opérations réalisées à partir d’espèces ou de chèques ;
+que le « manuel des procédures » précise qu’en cas de franchissement de ce seuil, le personnel doit
+« interroger le client sur l’origine des fonds, la justification économique de son opération », « noter la
+réponse » et conserver « les justificatifs éventuels » ; que, pourtant, le franchissement du seuil précité n’avait
+pas conduit l’établissement à se renseigner sur l’origine des fonds et la justification économique des
+opérations effectuées par 6 clients en 2016 et 2017 vers les pays B, D et E (dossiers 4.1 à 4.6) ;
+20. Considérant, en premier lieu, que l’établissement A a communiqué des documents qui, même s’ils
+n’en détaillent pas toujours la teneur, montrent l’existence d’un contrôle de premier niveau des transactions
+réalisées en avril 2017 avec des banques du pays A, au nombre, selon lui, de 67 et non de 83 ; qu’il a de plus
+produit une attestation signée de l’un de ses anciens directeurs, en charge de la surveillance des opérations et
+des risques au titre de la LCB-FT, sur la mise en œuvre effective de contrôles de second niveau à leur égard,
+au moins deux fois par semaine ; que les informations fournies au sujet du « comité pays A » de
+l’établissement A, bien que communiquées tardivement par celui-ci et étayées par une note datée seulement
+du 29 mai 2019, corroborent l’existence d’un dispositif de contrôle de second niveau en place au sein de
+l’établissement A au moment du contrôle sur place ; que, de plus, l’établissement A a fourni des explications
+plausibles sur les écarts entre les montants facturés et les virements, tirées principalement de défauts de
+règlement de la totalité de la commande, et a souligné que, en aucun cas, le montant réglé n’a été supérieur
+au montant facturé ; qu’il n’est en outre pas démontré, au terme de l’instruction, que ces opérations auraient
+présenté un risque très élevé de BC-FT en raison du pays destinataire des exportations en cause, alors
+qu’elles étaient effectuées à l’initiative et sous la surveillance des pouvoirs publics et que, selon les
+informations qui figurent au dossier, la quasi-totalité des flux transitant par l’établissement A correspondait
+au paiement de factures émises par des groupes français ; que le dossier de procédure ne fait état d’aucune
+opération qui aurait été effectuée pour le compte des banques du pays A avec lesquelles l’établissement A
+était alors en relation d’affaires ou pour le compte de clients de ces banques ; qu’ainsi, il n’est pas établi, en
+l’état du dossier soumis à la Commission, que ces opérations en relation avec des banques du pays A
+n’auraient fait l’objet d’aucun contrôle de premier ou de second niveau ou n’auraient fait l’objet que de
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2018-06
+contrôles insuffisants ou inadaptés au regard du risque de BC-FT qu’elles comportaient ; que cette partie du
+grief sera donc écartée ;
+21. Considérant, en second lieu, s’agissant de l’activité de transfert de fonds, que le recueil de certains
+éléments d’information concernant la provenance des fonds, leur destination et l’objet de l’opération, sur une
+base purement déclarative, effectué dans certains des cas mentionnés par la poursuite (dossiers n° 4.1, 4.2 et
+4.3) est conforme à la procédure de l’établissement A, de sorte que cette partie du reproche doit être écartée ;
+qu’en revanche, l’établissement A ne disposait d’aucune information au sujet des opérations de 3 autres
+clients ; qu’il doit cependant être tenu compte de ce que ces dossiers représentent une très faible part de
+l’activité de transfert de fonds de l’établissement A sur cette période ;
+22. Considérant ainsi que le grief 4 n’est établi que dans un périmètre très fortement réduit ainsi qu’il a
+été dit (cf. supra, considérant 20 et 21) ;
+C – En ce qui concerne le périmètre du contrôle périodique
+23. Considérant que, selon l’article R. 561-38 du CMF, les organismes assujettis doivent mettre en œuvre
+des procédures de contrôle permanent et périodique des risques de BC-FT ; que l’article 25 de l’arrêté du
+3 novembre 2014 impose aux établissements assujettis de disposer de moyens affectés au contrôle périodique
+permettant un cycle complet d'investigations de l'ensemble des activités sur un nombre d'exercices aussi
+limité que possible, ainsi que l’établissement d’un programme des missions au moins une fois par an ;
+24. Considérant que selon le grief 5, fondé sur ces dispositions, le contrôle périodique n’avait pas, au
+cours des 5 dernières années, couvert le dispositif LCB-FT des activités de banque traditionnelle et de
+courtage en ligne, alors même que la classification des risques identifiait un risque de fraude fiscale pour les
+premières et, pour les secondes, un risque d’utilisation afin « d’opacifier des circuits de blanchiment et à
+faire apparaître comme des gains de marchés des sommes qui n’auraient en fait que transité sur le compte »
+; que les insuffisances du périmètre du contrôle périodique avaient déjà été relevées dans la lettre de suite du
+19 avril 2012 ;
+25. Considérant que l’établissement A ne conteste pas l’absence de contrôle périodique de son activité de
+courtage en ligne ; que l’existence d’un faible risque de BC-FT, qu’il allègue, ne peut être déduit, de manière
+générale, de ce que la clientèle concernée intervient sur des marchés organisés ; que, s’agissant de la clientèle
+traditionnelle de l’établissement A, le « tableau de suivi d’enquête » établi pour vérifier les mesures prises
+après le précédent contrôle, actualisé en mai 2016, ne peut s’analyser comme une mission de contrôle
+périodique respectant les exigences de l’article 17 de l’arrêté du 3 novembre 2014, qui définit la fonction et
+impose une enquête par des agents au niveau central exerçant leur mission de manière indépendante ; que le
+grief 5 est donc établi ;
+IV – Sur la mise en œuvre des obligations de vigilance et de
+déclaration de soupçon
+A – En ce qui concerne l’identification des bénéficiaires effectifs
+26. Considérant que, selon l’article L. 561-5 du CMF, les organismes assujettis doivent identifier, le cas
+échéant, le bénéficiaire effectif en fonction des définitions données par les articles R. 561-1, R. 561-3 et
+R. 561-7 du CMF ; que ces articles disposent notamment que le bénéficiaire effectif de la relation d’affaires
+doit être identifié par des moyens adaptés au risque de LCB-FT et les éléments d’identification vérifiés sur
+présentation de tout document écrit probant ; que les organismes assujettis doivent pouvoir en justifier auprès
+de l’ACPR ;
+27. Considérant que selon le grief 6, fondé sur ces dispositions, l’établissement A n’a pas identifié le ou
+les bénéficiaires effectifs des banques B2 et B3 du pays A ainsi que ceux de la fiducie F, ni vérifié leur
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2018-06
+identité ; que des insuffisances dans l’identification des bénéficiaires effectifs avaient déjà été constatées
+dans la lettre de suite du 19 avril 2012 ;
+28. Considérant, d’abord, que le caractère particulier de l’entrée en relation avec ces deux banques du
+pays A, sur lequel il est insisté en défense, ne dispensait pas l’établissement A de son obligation d’identifier
+leurs bénéficiaires effectifs et de vérifier leur identité dans les conditions définies par les dispositions légales
+alors applicables ; que si les pièces produites par l’établissement A montrent que des échanges préalables
+avaient eu lieu et lui permettaient de disposer de certaines informations sur les dirigeants de ces
+établissements, il n’en ressort pas qu’au moment du contrôle, les éléments permettant d’identifier les
+bénéficiaires effectifs des banques B2 et B3 avaient été obtenus ; que, faute d’avoir recueilli des informations
+documentées sur la répartition du capital de ces deux banques, il ne pouvait être assuré que ces dirigeants en
+étaient les bénéficiaires effectifs ;
+29. Considérant, ensuite, s’agissant de la fiducie F, que si des éléments la concernant sont produits par
+l’établissement A, celui-ci ne disposait pas, au moment du contrôle sur place, du contrat de fiducie, élément
+déterminant pour en connaître le bénéficiaire effectif ;
+30. Considérant, dès lors, que le grief 6 est établi ; que toutefois, compte tenu des circonstances
+particulières dans lesquelles ces entrées en relation d’affaires ont été effectuées, en lien avec les autorités
+publiques, ce grief doit être relativisé ;
+B – En ce qui concerne la connaissance des clients en relation d’affaires
+31. Considérant que l’article L. 561-6 du CMF dispose que « Pendant toute la durée de la relation
+d'affaires et dans les conditions fixées par décret en Conseil d'État, [les organismes assujettis] exercent,
+dans la limite de leurs droits et obligations, une vigilance constante et pratiquent un examen attentif des
+opérations effectuées en veillant à ce qu'elles soient cohérentes avec la connaissance actualisée qu'elles ont
+de leur relation d'affaires. » ; que ces dispositions sont complétées par l’article R. 561-12 de ce code qui
+prévoit notamment que les organismes assujettis, avant d'entrer en relation d'affaires, recueillent et analysent
+les éléments d'information nécessaires à la connaissance de l'objet et de la nature de la relation d'affaires,
+pour évaluer le risque de BC-FT ;
+32. Considérant que selon le grief 7, fondé sur ces dispositions, les informations relatives à la
+connaissance de la clientèle en relation d’affaires recueillies par l’établissement A sont insuffisantes ; que
+tout d’abord, s’agissant de la clientèle traditionnelle, l’activité de banque privée à vocation patrimoniale
+proposée nécessite une connaissance de la clientèle particulièrement approfondie, notamment sur les revenus
+et patrimoine, en raison de risques BC-FT plus élevés qui résultent de cette activité, identifiés par
+l’établissement A lui-même, et du fonctionnement des comptes « qui enregistrent rarement des mouvements
+réguliers (de type salaire en entrée) et dont les mouvements sont souvent hétérogènes et spécifiques » ; que
+34 dossiers de personnes physiques (dossiers 7.1 à 7.34), sur les 55 revus par la mission, et 9 dossiers de
+personnes morales (dossiers 7.35 à 7.43), sur les 19 revus, ne comprenaient pas suffisamment d’informations
+[relatives aux] revenus ou au patrimoine ; que l’établissement A ne disposait pas d’informations sur les
+revenus de 9 clients effectuant des transferts de fonds (dossiers 7.44 à 7.52) pour lesquels il avait réalisé au
+moins 10 opérations de transfert de fonds, et alors, de surcroit, qu’il considère l’ensemble de cette clientèle
+comme en relation d’affaires ;
+33. Considérant que les caractéristiques de la clientèle traditionnelle de l’établissement A ne peuvent
+justifier l’absence de recueil d’éléments concernant son patrimoine et ses revenus et de pièces s’y rapportant
+(dossiers 7.1 à 7.19) ; que si l’arrêté du 2 septembre 2009 mentionne bien que les éléments d’information
+qu’il énumère sont « susceptibles d’être recueillis », les organismes assujettis doivent, en toute hypothèse,
+disposer d’une connaissance suffisante de leurs clients ; que les fiches clients et notes communiquées en
+défense n’attestent pas, s’agissant de la clientèle de personnes physiques comme de celle de personnes
+morales, du respect de cette obligation dès lors qu’elles ne comportent généralement pas d’éléments précis et
+justifiés concernant le patrimoine ou les revenus du client et que, en outre, elles sont généralement anciennes
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2018-06
+et n’ont pas été actualisées ; qu’il appartient aux organismes assujettis, s’agissant de comptes peu actifs ou
+inactifs, soit de mettre à jour les informations qu’ils détiennent, soit de mettre fin à la relation d’affaires ; que
+l’échantillon examiné par la mission de contrôle représente une part significative de la clientèle de
+l’établissement A dont la base comptable comportait, en mai 2017, (…) comptes de personnes physiques et
+(…) comptes de personnes morales ; que, toutefois, dans deux cas (dossiers 7.17 et 7.42), la poursuite
+abandonne le reproche, ce dont il convient de lui donner acte ; que l’établissement A ne détenait aucune
+information sur les revenus et le patrimoine des 6 clients de courtage en ligne mentionnés par la poursuite
+(dossiers 7.1 à 7.6) ; que, s’agissant de la clientèle de transfert de fonds, ces éléments faisaient également
+défaut (dossiers 7.45 à 7.51) ;
+34. Considérant ainsi que le grief 7 est établi dans un périmètre légèrement réduit à 50 dossiers sur les 52
+reprochés ; que ce taux de non-conformité paraît très élevé au regard de l’échantillon de 74 dossiers examiné
+par la mission de contrôle et, ainsi que cela a été dit, du nombre de clients de l’établissement A ;
+C – En ce qui concerne l’obligation d’examen renforcé
+35. Considérant que, selon le II de l’article L. 561-10-2 du CMF, les organismes assujettis « effectuent un
+examen renforcé de toute opération particulièrement complexe ou d'un montant inhabituellement élevé ou ne
+paraissant pas avoir de justification économique ou d'objet licite. Dans ce cas, ces personnes se renseignent
+auprès du client sur l'origine des fonds et la destination de ces sommes ainsi que sur l'objet de l'opération et
+l'identité de la personne qui en bénéficie. » ;
+36. Considérant que selon le grief 8, fondé sur ces dispositions, 3 dossiers présentaient un défaut
+d’examen renforcé (dossiers 8.1 à 8.3) ;
+37. Considérant que dans le dossier 8.1, en l’absence d’éléments documentés relatifs aux revenus et au
+patrimoine des clients, les 4 virements effectués entre mars 2015 et août 2016, pour un total de plus de
+148 000 euros, auraient dû donner lieu à un examen renforcé ; que le fait que ces opérations aient été
+ordonnées par la mère de la cliente, elle-même cliente de l’établissement A, actionnaire majoritaire d’une
+société [dans le pays G], ne suffit pas à les justifier ; qu’il en va ainsi alors même que ces opérations ont été
+effectuées entre des comptes ouverts à l’établissement A ; qu’au demeurant, l’examen renforcé aurait dû
+porter sur l’origine des fonds ; que, de même, le dépôt de 12 500 euros en espèces, qui proviendrait d’un
+retrait sur un compte que les clients détiennent auprès d’un établissement de crédit du pays G, n’est justifié
+par aucun document ;
+38. Considérant que dans le dossier 8.2, le retrait de 50 000 euros en espèces le 10 mai 2017 sur le compte
+personnel de la cliente, qui a donné lieu à une déclaration aux douanes à son entrée [dans le pays H] depuis
+la France, méritait un examen renforcé afin d’en déterminer la cohérence avec son activité de gérante d’une
+entreprise de tourisme domiciliée dans le pays A ;
+39. Considérant que dans le dossier 8.3, les 8 transferts de fonds à partir d’espèces d’un montant unitaire
+supérieur au seuil de 1 500 euros, pour un total de 37 900 euros, à destination des pays E et I, entre janvier
+2016 et février 2017, auraient dû donner lieu à un examen renforcé, alors que l’établissement A ne
+connaissait ni la profession, ni le patrimoine, ni les revenus du client ; que le motif « aide familiale » déclaré
+ne paraît pas à cet égard suffisamment précis, alors que ces opérations étaient d’un montant inhabituellement
+élevé au regard du montant moyen des opérations de transferts en espèces réalisées par l’établissement A,
+soit 820 euros ;
+40. Considérant donc que le grief 8 est établi en totalité ;
+D – En ce qui concerne l’obligation de déclarer certaines opérations à Tracfin
+1) Quant aux défauts de déclaration de soupçon initiales
+Autorité de contrôle prudentiel et de résolution 10
+
+===== Page 11 =====
+Décision de la Commission des sanctions – procédure no 2018-06
+41. Considérant que, selon le I de l’article L. 561-15 du CMF, les organismes assujettis doivent déclarer à
+Tracfin « les sommes inscrites dans leurs livres ou les opérations portant sur des sommes dont elles savent,
+soupçonnent ou ont de bonnes raisons de soupçonner qu’elles proviennent d’une infraction passible d’une
+peine privative de liberté supérieure à un an ou sont liées au financement du terrorisme » ; que le III du
+même article dispose que ces organismes sont tenus, le cas échéant, d’adresser une déclaration de soupçon
+(ci-après « DS ») à l’issue d’un examen renforcé ;
+42. Considérant que selon le grief 9, fondé sur ces dispositions, 6 dossiers présentaient un défaut de DS ;
+que 2 dossiers (dossiers 9.1 et 9.2) portaient sur des opérations sur le compte des clients pour lesquels la
+justification et l’origine des fonds faisaient naître un doute sérieux et que 4 dossiers portaient sur des
+opérations de transfert de fonds (dossiers 9.3 à 9.6) ;
+43. Considérant que dans le dossier 9.1, les explications recueillies sur l’origine des fonds reçus au crédit
+du compte, soit deux virements de 40 000 euros chacun, les 14 et 22 décembre 2016 et un virement de
+30 000 euros, le 23 décembre 2016, qui proviendraient de la vente d’un bien immobilier dans le pays A pour
+laquelle l’établissement A possède une traduction de l’acte, ne sont étayées par aucune pièce permettant
+d’établir un lien entre cette vente et les fonds reçus ; que ces virements seraient opérés par une société de
+change d’un pays J, dont les donneurs d’ordre ne peuvent être identifiés en raison d’un schéma de paiement
+indirect ; qu’en raison de ce circuit de paiement indirect utilisé et de l’incertitude quant à l’origine des fonds,
+l’établissement A aurait dû, à l’issue de l’examen renforcé qu’il a effectué, procéder à une DS ;
+44. Considérant que dans le dossier 9.2, les informations figurant au dossier ne permettaient pas
+d’expliquer les raisons pour lesquelles le compte personnel du client, de nationalité du pays K, propriétaire
+ou gérant de diverses sociétés [à l’étranger], avait été crédité entre décembre 2015 et avril 2016 à plusieurs
+reprises à la suite d’un dépôts d’espèces ou de virements, dont 2 millions d’euros en provenance d’un
+[établissement financier] ; que, de même, le mouvement créditeur d’environ 300 000 dollars des États-Unis
+(ci-après USD) en provenance de la banque B4 à Genève n’était pas justifié ; que le fait que des fonds
+proviennent d’une banque dont le siège est aux États-Unis ne dispensait pas l’établissement A de ses
+obligations déclaratives ; que l’origine des ressources du client n’était pas connue de l’établissement A; que
+la licéité des opérations justifiant le virement, le 18 avril 2016, de 390 700 USD à une société située aux Iles
+Vierges britanniques, n’était pas suffisamment démontrée par la seule production de deux factures d’un
+joailler du pays K ; que l’établissement A a été particulièrement négligent en ne recueillant pas des
+informations actualisées sur ce client, dont le dossier mentionnait sans autre précision qu’il exerçait la
+profession de « gérant », alors que les opérations effectuées étaient d’un montant très élevé ;
+45. Considérant que dans les dossiers 9.3 à 9.6, les circonstances propres à chacun de ces dossiers, en
+particulier le fait que le client ait reçu des fonds provenant d’une autre banque, ne suffisent pas à écarter le
+reproche ; que ces clients ont réalisé des opérations de transferts de fonds vers l’Afrique pour des montants
+cumulés compris entre près de 20 000 et plus de 120 000 euros, sans que l’origine des fonds ait été justifiée ;
+que les éléments imprécis dont l’établissement A disposait sur la profession qui serait exercée par ses clients
+ne peuvent, en l’absence de toute pièce justificative s’y rapportant et justifiant leurs revenus, expliquer des
+opérations d’un montant relativement élevé (dossiers 9.3 à 9.6) ; qu’en outre, le blocage des opérations d’un
+client dans la base de données ne peut se substituer au respect, par l’établissement A, de ses obligations
+déclaratives (dossier 9.3 et 9.5) ; que les justificatifs présentés doivent, pour répondre au grief, se rapporter
+aux opérations reprochées (dossier 9.5) et permettre, en cas de débit sur des comptes bancaires, de
+déterminer que c’est bien le client qui est titulaire de ces comptes (dossier 9.6) ;
+46. Considérant ainsi que le grief 9 est entièrement établi ;
+2) Quant aux défauts de DS complémentaires
+47. Considérant que, selon le V de l’article L. 561-15 du CMF, les organismes assujettis doivent aviser
+sans délai Tracfin de toute information de nature à infirmer, conforter ou modifier les éléments contenus
+dans une DS ;
+Autorité de contrôle prudentiel et de résolution 11
+
+===== Page 12 =====
+Décision de la Commission des sanctions – procédure no 2018-06
+48. Considérant que selon le grief 10, fondé sur ces dispositions, 5 dossiers présentaient un défaut de DS
+complémentaire, dont 2 portaient sur des opérations de compte courant (dossiers 10.1 et 10.2) et 3 sur des
+transferts de fonds (dossiers 10.3 à 10.5) ;
+49. Considérant que dans le dossier 10.1, le client avait fait l’objet de DS successives en 2008 et 2012,
+concernant des dépôts d’espèces qu’il indiquait être liés à l’encaissement de loyers d’un [logement] dans le
+pays L dont sa mère serait propriétaire ; que le fait que Tracfin n’ait pas exercé de droit de communication à
+l’issue d’une nouvelle déclaration effectuée en 2012 est sans incidence sur l’obligation qu’avait
+l’établissement A de l’informer de ce que ces opérations se sont poursuivies par la suite ;
+50. Considérant que dans le dossier 10.2, l’établissement A avait, fin 2016, déclaré des remises de
+chèques effectuées pendant l’année en cours dont la plupart étaient tirés sur son compte personnel dans une
+autre banque ou sur une société de textile dont il serait à la fois gérant et principal actionnaire ; que les
+éléments apportés par l’établissement A ne permettent pas de justifier les opérations ultérieures et similaires
+du client ;
+51. Considérant que dans les dossiers 10.3 à 10.5, des clients, qui avaient été déclarés à Tracfin pour des
+opérations de transfert de fonds dont les montants n’étaient pas justifiés, ont pu réaliser de nouveaux
+transferts, toujours incohérents avec leur profession connue et sans élément nouveau sur l’origine des fonds
+et l’objet de ces opérations :
+52. Considérant ainsi que le grief 10 est entièrement établi ;
+V – Sur le dispositif de gel des avoirs
+53. Considérant que l’article 47 de l’arrêté du 3 novembre 2014 prévoit que « Les entreprises assujetties
+se dotent également de dispositifs adaptés à leurs activités permettant de détecter toute opération au
+bénéfice d’une personne ou d’une entité faisant l’objet d’une mesure de gel des fonds, instruments financiers
+et ressources économiques » ;
+54. Considérant que selon le grief 11, fondé sur ces dispositions, jusqu’à la fin de la mission de contrôle
+sur place, le paramétrage de l’outil de filtrage des transferts de fonds de l’établissement A reposait sur des
+critères orthographiques trop restrictifs ; qu’en effet, il retenait un taux de concordance entre le prénom et le
+nom de 100 %, dit « exact match », ce qui, en cas d’inversion des nom et prénom, ne permettait pas de
+détecter les opérations au bénéfice de personnes ou entités soumises à mesures de gel des avoirs (ci-après «
+personnes listées ») ; que l’établissement A a exécuté 68 transferts de fonds pour le compte de 10 clients,
+sans détecter auparavant que les prénoms et noms des donneurs d’ordre correspondaient à ceux de personnes
+listées ; qu’il en est ainsi des donneurs d’ordre dénommés L.C, nom et prénom correspondant à 8 clients
+différents, dont le patronyme est celui d’une personne listée depuis 2012 ; que, de même, les donneurs
+d’ordre dénommés A.D étaient les homonymes d’une personne listée jusqu’à la fin de la mission de
+contrôle ; qu’ainsi, l’établissement A ne respectait pas ses obligations à ce titre ;
+55. Considérant que l’établissement A conteste que son outil informatique ait été paramétré pour ne
+détecter que les cas d’ « exact match » et indique en outre qu’en 2016, un taux de concordance à 90 % a été
+appliqué afin de mieux détecter les cas approchants ; que la poursuite ne produit pas de pièce venant
+contredire l’établissement A sur ce point ; qu’en l’état des informations dont dispose la Commission, cet
+aspect du grief devra donc être écarté ; que toutefois, l’absence d’alertes sur 10 clients homonymes de
+personnes listées, qui n’est pas contestée, démontre assez, quel que soit le pourcentage de concordance alors
+retenu, l’application de critères orthographiques trop restrictifs ; que l’Inspection avait mis en lumière des
+défaillances dans la logique de filtrage, comme la disparition d’alertes au simple ajout d’un espace dans le
+nom, qui peuvent expliquer certaines défaillances ; que l’analyse des cas a posteriori, ou encore l’absence de
+réaction de Tracfin, sont sans objet au regard du grief 11, qui est établi, sous réserve de ce qui a été indiqué
+sur le taux de concordance paramétré ;
+Autorité de contrôle prudentiel et de résolution 12
+
+===== Page 13 =====
+Décision de la Commission des sanctions – procédure no 2018-06
+*
+* *
+56. Considérant qu’il résulte de ce qui précède qu’au moment du contrôle, l’établissement A ne se
+conformait pas de manière satisfaisante à son obligation de connaissance de sa clientèle en relation
+d’affaires, faute de réunir sur celle-ci des informations précises, notamment sur les revenus et le patrimoine,
+étayées par des pièces (grief 7) ; que, s’agissant de son activité de banque privée, les relations de proximité
+nouées, parfois de longue date, avec des clients ou leur famille ne peuvent suffire à assurer le respect de ses
+obligations dans ce domaine ; que cette carence a eu pour conséquence, dans plusieurs dossiers individuels,
+un non-respect des obligations d’examen renforcé (grief 8) et de DS, initiales (grief 9) comme
+complémentaires (grief 10) ; que son dispositif de gel des avoirs comportait des lacunes (grief 11) ; qu’en
+outre, au moment du contrôle sur place, la classification des risques de l’établissement A présentait des
+carences (grief 1) ; que son contrôle interne ne garantissait pas suffisamment la protection de certaines
+informations confidentielles (grief 3) ; que son contrôle périodique ne couvrait pas de manière satisfaisante
+ses différentes activités (grief 5) ;
+57. Considérant, cependant, que le grief portant sur l’organisation du dispositif de détection des PPE a été
+relativisé (grief 2) et que les reproches portant sur le contrôle des opérations en relation avec des banques du
+pays A ou l’identification et la vérification des bénéficiaires effectifs de celles-ci, auxquels l’établissement A
+répond partiellement, doivent être appréciés au regard de la nature des opérations effectuées et du contexte
+dans lequel l’établissement A a été amené à y prendre part ; que le nombre de dossiers retenus au soutien du
+reproche d’un contrôle insuffisant sur l’activité de transfert de fonds est faible (griefs 4 et 6) ; qu’il convient
+en outre de tenir compte, dans une certaine mesure, des actions correctrices entreprises par l’établissement A
+qui, selon les informations communiquées par celui-ci et sous réserve, le cas échéant, de vérification, ont
+notamment porté sur une actualisation de sa classification des risques, l’inclusion de l’activité de courtage en
+ligne dans le plan d’audit et une amélioration de sa base clients pour mieux y inclure les éléments
+patrimoniaux ;
+58. Considérant que les manquements retenus par la Commission justifient, compte tenu de leur nature et
+de leur durée, le prononcé d’un blâme ; que, pour les mêmes raisons et en tenant compte des éléments
+d’atténuation mentionnés ci-dessus, il y a lieu de prononcer à l’encontre de l’établissement A une sanction
+pécuniaire de 200 000 euros ;
+59. Considérant que l’établissement A ne produit aucun élément permettant d’estimer que la publication
+nominative de la présente décision lui causerait un préjudice disproportionné ; que cette publication n’est pas
+non plus de nature à perturber gravement les marchés financiers ; que la présente décision sera donc publiée
+sous cette forme pendant 5 ans ; qu’elle y sera ensuite maintenue sous une forme ne mentionnant plus le nom
+de l’établissement sanctionné ;
+PAR CES MOTIFS
+DÉCIDE :
+ARTICLE 1ER – Il est prononcé à l’encontre de l’établissement A un blâme et une sanction pécuniaire de
+200 000 euros (deux cent mille euros).
+ARTICLE 2 – La présente décision sera publiée au registre de l’ACPR pendant 5 ans sous une forme
+nominative, puis sous une forme anonyme, et pourra être consultée au secrétariat de la Commission.
+Autorité de contrôle prudentiel et de résolution 13
+
+===== Page 14 =====
+Décision de la Commission des sanctions – procédure no 2018-06
+Le Président de la Commission
+des sanctions
+[Rémi BOUCHEZ]
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification et
+dans les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 14

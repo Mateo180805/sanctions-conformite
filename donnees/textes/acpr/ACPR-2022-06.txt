@@ -1,0 +1,296 @@
+===== Page 1 =====
+Décision de la Commission des sanctions – procédure no 2022-06
+MUTUELLE DE POITIERS
+ASSURANCES
+Procédure no 2022-06
+–––––
+Blâme et sanction financière de
+600 000 euros
+Audience du 26 octobre 2023
+Décision rendue le 13 novembre
+2023
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 19 octobre 2022 par laquelle le Président de l’Autorité de contrôle prudentiel et de
+résolution (ACPR) informe la Commission des sanctions (ci-après la « Commission ») de ce que le
+Collège de supervision de l’ACPR (ci-après le « Collège »), statuant en sa formation sectorielle de
+l’assurance, a décidé d’ouvrir une procédure disciplinaire à l’encontre de la société Mutuelle de Poitiers
+Assurances (MDPA), dont le siège social est lieu-dit Bois du Fief Clairet 86240 Ligugé ;
+Vu la notification des griefs du 19 octobre 2022 ;
+Vu les mémoires en défense des 13 janvier, 20 mars et 10 mai 2023, par lesquels la MDPA, sans
+contester les griefs, sollicite la clémence de la Commission en raison d’éléments de contexte qui l’ont
+notamment conduite à choisir un outil interne de filtrage qui a été à l’origine des défaillances constatées
+au moment du contrôle sur place, des actions correctives qu’elle a mises en œuvre et de l’attitude
+coopérative et proactive qu’elle a immédiatement adoptée pour mettre à niveau son dispositif ;
+Vu les mémoires en réplique des 22 février et 11 avril 2023, par lesquels le Collège, représenté par
+M. Raoul Briet, estime que les carences constatées par la mission de contrôle sont d’une particulière
+gravité puisqu’elles sont relatives aux obligations en matière de gel des avoirs ;
+Vu le rapport du 11 septembre 2023 de Mme Édith Sudre, rapporteure, qui conclut que tous les griefs
+sont fondés ;
+Vu les courriers du 11 septembre 2023 convoquant à l’audience les parties ainsi que la direction
+générale du Trésor (DGT) et les informant de la composition de la Commission ;
+Vu les observations formulées par la MDPA le 26 septembre 2023 en réponse au rapport de la
+rapporteure, par lesquelles elle confirme qu’elle ne conteste pas les griefs qui lui ont été notifiés, mais
+rappelle qu’ils doivent être tempérés par plusieurs éléments de contexte ;
+Vu les autres pièces du dossier, notamment le rapport de contrôle signé le 21 juin 2022 ;
+Autorité de contrôle prudentiel et de résolution 1
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2022-06
+Vu le code monétaire et financier (ci-après le « CMF »), notamment ses articles L. 562-4, L. 562-4-
+1, R. 562-1, R. 562-3, dans leur rédaction en vigueur au moment des faits ;
+Vu le code des assurances, notamment son article A. 310-8, dans sa rédaction en vigueur au moment
+des faits ;
+Vu l’arrêté du 6 janvier 2021 relatif au dispositif et au contrôle interne en matière de lutte contre le
+blanchiment de capitaux et le financement du terrorisme et de gel des avoirs et d’interdiction de mise à
+disposition ou d’utilisation des fonds ou ressources économiques (ci-après « l’arrêté du 6 janvier
+2021 »), notamment ses articles 11 et 13 ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACPR, composée de M. Alain Ménéménis, Président, Mmes Gaëlle
+Dumortier, Claudie Boiteau, et Élisabeth Pauly ainsi que M. Thierry Philipponnat, membres de la
+Commission ;
+Après avoir entendu, lors de sa séance publique du 26 octobre 2023 :
+ Mme Sudre, rapporteure, assistée de M. Fabien Patris, son adjoint ;
+ M. Briet, représentant du Collège, assisté de la directrice des affaires juridiques, de l’adjoint au
+chef du service des affaires institutionnelles et du droit public, de deux juristes au sein de ce
+service; M. Briet a proposé à la Commission de prononcer un blâme et une sanction pécuniaire
+d’un million d’euros par une décision publiée sous une forme nominative pendant 5 ans ;
+ la MDPA, représentée par son directeur général, assisté de ses deux directeurs généraux-adjoints
+et de la directrice juridique et conformité ainsi que de la responsable de la cellule LCB-FT, dont
+les avocates sont Mes Isabelle Monin Lafin et Marie Callac (SELARL Astrée Avocats) ;
+En l’absence de la direction générale du Trésor (DGT), dûment convoquée ;
+Après avoir délibéré en la seule présence de M. Ménéménis, Président, Mmes Dumortier, Boiteau, et
+Pauly et M. Thierry Philipponnat, membres de la Commission, ainsi que de M. Jean-Manuel Clemmer,
+chef du service de la Commission des sanctions faisant fonction de secrétaire de séance ;
+1. Fondée en 1838, la MDPA est une société d’assurance mutuelle à cotisations variables. Exerçant
+son activité en France uniquement en assurance de dommages - IARD (Incendie Accidents Risques
+Divers) et en assurance de personnes (contrats santé individuels et collectifs, assurance accidents), elle
+comptait, fin 2022, près de 500 000 sociétaires, dans leur grande majorité des personnes physiques, et
+gérait environ 1,4 million de contrats (pour l’essentiel d’assurance automobile et de dommages aux
+biens). Elle a créé il y a deux ans une filiale qui commercialise des contrats de prévoyance, Pronoé
+Prévoyance SA, qu’elle contrôle intégralement.
+La MDPA distribue la quasi-totalité de ses contrats directement par son réseau d’agents généraux.
+Quelques contrats sont en outre distribués par la société de courtage en assurance Barruel et Giraud dont
+elle détient la quasi-totalité du capital.
+En 2021, elle a réalisé un résultat global de 14,6 millions d’euros pour un chiffre d’affaires de
+438 millions d’euros.
+En 2022, elle a réalisé un résultat global de 1,9 million d’euros pour un chiffre d’affaires de
+458 millions d’euros. À la fin de ce même exercice, ses fonds propres comptables s’élevaient à 258
+millions d’euros.
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2022-06
+2. La MDPA a fait l’objet, du 6 septembre 2021 au 24 janvier 2022, d’un contrôle, qui a donné lieu
+à la signature, le 21 juin 2022, d’un rapport (ci-après le « rapport de contrôle »). Au vu de ce rapport, le
+Collège de l’ACPR, statuant en sa formation sectorielle de l’assurance, a décidé, lors de sa séance du 10
+octobre 2022, d’ouvrir la présente procédure disciplinaire, dont la Commission a été saisie par une lettre
+du 19 octobre 2022.
+I- Les défaillances du dispositif de détection des personnes
+visées par une mesure de gel et des opérations au bénéfice des
+personnes ou entités désignées
+3. En vertu du I de l’article L. 562-4-1 du CMF, « les personnes mentionnées à l'article L. 561-2
+mettent en place une organisation et des procédures internes pour la mise en œuvre des mesures de gel
+des avoirs et d'interdiction de mise à disposition ou d'utilisation des fonds ou ressources économiques
+prévues au présent chapitre, aux articles L. 712-4 et L. 712-10 et par les règlements européens portant
+mesures restrictives pris en application des articles 75 ou 215 du traité sur le fonctionnement de l'Union
+européenne, ainsi que l'interdiction de contournement de ces mesures. Elles veillent à l'application de
+ces dispositions dans leurs succursales établies en dehors du territoire national (…) ».
+L’article R. 562-1 du même code prévoit que « l'organisation et les procédures internes prévues par
+l'article L. 562-4-1 doivent permettre l'application sans délai des mesures de gel et d'interdiction de
+mise à disposition conformément à l'article L. 562-4. Cette organisation et ces procédures sont adaptées
+à la taille ainsi qu'à la nature de l'activité des personnes soumises à ces dispositions et prévoient des
+moyens matériels et humains suffisants. / Les personnes mentionnées à l'article L. 561-2 veillent à ce
+que les personnels qui participent à la mise en œuvre des mesures mentionnées au premier alinéa
+bénéficient de formations appropriées et aient accès aux informations nécessaires à l'exercice de leurs
+fonctions ou activités. Les agents mentionnés à l'article L. 523-1 et les personnes auxquelles les
+établissements de monnaie électronique ont recours en vue de distribuer de la monnaie électronique au
+sens de l'article L. 525-8 sont assimilés aux personnels des personnes mentionnées à l'article L. 521-1
+pour l'application de ces dispositions. / Les personnes mentionnées à l'article L. 562-4-1 mettent en
+place un dispositif de contrôle interne de la mise en œuvre des obligations mentionnées à cet article
+dans les conditions et selon les modalités prévues aux articles R. 561-38-2 à R. 561-38-9 ».
+En vertu de l’article A. 310-8 du code des assurances, les entreprises d’assurance devaient se doter
+« (…) de dispositifs permettant de détecter toute opération au bénéfice d'une personne ou d'une entité
+faisant l'objet d'une mesure restrictive spécifique ou de gel des fonds instruments financiers et ressources
+économiques. ». Depuis le 1er mars 2021, ces dispositions ont été abrogées et reprises en substance par
+l’article 11 de l’arrêté du 6 janvier 2021.
+4. Selon le grief 1, fondé sur ces dispositions, le dispositif qui avait été mis en place au moment du
+contrôle au sein de la MDPA ne permettait de détecter ni les personnes visées par une mesure de gel des
+avoirs ni les opérations au bénéfice d’une de ces personnes.
+Ce dispositif était mal paramétré. En effet, il utilisait, jusqu’en décembre 2020, une correspondance
+orthographique exacte (« exact match ») entre les données d’identification détenues par l’organisme et
+celles des listes officielles. À titre d’exemple, deux clients dont les éléments d’identification étaient
+orthographiés différemment de ceux de la personne désignée mais étaient phonétiquement identiques
+n’ont pas été détectés ou l’ont été tardivement (dossiers A1 et A2). En outre, la MDPA n’était pas
+toujours en mesure de détecter immédiatement et sans délai les personnes susceptibles de faire l’objet
+d’une mesure de gel même en cas d’« exact match » (dossiers A3, A4 et A5). Après l’abandon de
+l’exigence d’une correspondance orthographique parfaite, le dispositif est resté défaillant puisqu’aucune
+alerte n’était déclenchée lorsque le sexe de l’individu visé par une mesure restrictive n’était pas
+mentionné sur les listes officielles, ce qui était le cas pour près de 50 % des personnes listées, y compris
+lorsque les autres données d’identification (nom, prénom et date de naissance) correspondaient à celles
+que détenait la MDPA (première branche du grief).
+Par ailleurs, la MDPA n’effectuait pas systématiquement un filtrage de ses sociétaires, que ce soit
+lors de l’entrée en relation d’affaires ou avant l’exécution d’une opération, ce qui ne lui permettait pas
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2022-06
+de respecter dans tous les cas son obligation de détecter toutes les personnes visées par les mesures de
+gel et de s’abstenir de conclure un contrat avec une personne ou entité visée par une telle mesure (cf. ci-
+dessous le grief 2). À titre d’illustration, la MDPA a conclu, entre le 15 et le 24 septembre 2021, quatre
+contrats avec une société dirigée par une personne visée par une mesure de gel (dossier A5) (deuxième
+branche du grief).
+Enfin, la fréquence de filtrage des bases clients était insuffisante : annuelle entre mars 2017 et
+décembre 2020, elle est devenue mensuelle à partir de juin 2021, ce qui, dans les deux cas, ne permettait
+pas à la MDPA de respecter son obligation de détection immédiate des personnes visées par une mesure
+restrictive et d’empêcher sans délai l’exécution de toute opération à leur bénéfice (troisième branche du
+grief).
+5. Après avoir indiqué qu’elle ne contestait pas les griefs, la MDPA soutient que les informations
+publiées par l’ACPR en matière de gel des avoirs, qu’il s’agisse de textes de droit souple (lignes
+directrices) ou des décisions de la Commission, ne définissaient pas de manière suffisamment précise
+ses obligations en matière de détection des personnes soumises à une mesure restrictive, dès lors,
+notamment, qu’il n’existe pas de « cahier des charges réglementaire en vue de la détermination des
+règles de rapprochement, de la fréquence de filtrage et du taux de concordance à retenir pour l’émission
+d’une alerte ».
+Son argumentation ne peut être suivie.
+L’impossibilité de respecter les exigences en matière de gel des avoirs en retenant un dispositif fondé
+sur une correspondance orthographique parfaite entre les éléments d’identité du client et ceux de la
+personne soumise à une mesure restrictive a été soulignée dès 2012 par la Commission (décision
+Établissement de crédit A, 24 octobre 2012, procédure n° 2011-02, p.33), qui a également estimé
+inappropriés, même lorsqu’un taux de concordance inférieur à 100 % est utilisé, des critères
+orthographiques trop stricts (décision Banque d’Escompte du 11 juillet 2019, procédure n° 2018-06,
+considérant 54). Cette position a été rappelée dans les lignes directrices conjointes de la DGT et de
+l’ACPR sur la mise en œuvre des mesures de gel des avoirs publiées en juin 2016 (§83) et mises à jour
+en 2019 (§72).
+Par ailleurs, il incombait à la MDPA, qui est soumise en matière de gel des avoirs à une obligation
+de résultat, de procéder à un filtrage systématique de sa base clients lors de l’entrée en relation d’affaires
+et au moment d’exécuter une opération pour le compte d’un de ses sociétaires et de filtrer les opérations
+effectuées, comme les lignes directrices ci-dessus mentionnées le rappelaient, dans leur version publiée
+en 2016, en des termes dénués de toute ambiguïté : « Il est attendu des organismes financiers qu’ils
+effectuent un filtrage avant toute entrée en relation d’affaires ou d’exécuter une opération occasionnelle.
+» (§ 110).
+Enfin, la MDPA ne peut davantage soutenir qu’il existait au moment du contrôle un doute sur la
+possibilité de filtrer ses bases clients selon une périodicité seulement annuelle, dès lors que la
+Commission a statué depuis de nombreuses années, à plusieurs reprises, sur ce sujet. Elle a par exemple
+considéré que « la périodicité hebdomadaire du filtrage à la date du contrôle sur place ne permettait
+effectivement pas à AFV de détecter, avant l’entrée en relation d’affaires, qu’un nouveau client était une
+personne visée par des mesures restrictives » (décision Axa France Vie du 8 décembre 2016, procédure
+n° 2015-08, considérant 44).
+6. Le grief 1 est donc fondé.
+II. Le non-respect de l’obligation de mise en œuvre sans délai des
+mesures de gel des avoirs et de déclaration à la direction générale
+du Trésor
+7. En vertu de l’article L. 562-4 du CMF, les personnes assujetties au contrôle de l’ACPR sont tenues
+d’appliquer sans délai les mesures de gel des avoirs et les interdictions de mise à disposition et d’en
+informer immédiatement le ministre chargé de l’économie.
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2022-06
+Le 1° du I de l’article R. 562-3 du CMF précise que cette information porte sur « les fonds et
+ressources économiques ayant fait l’objet d’une mesure de gel ».
+8. Selon le grief 2, fondé sur ces dispositions, la MDPA n’était pas en mesure, faute de pouvoir
+détecter toutes les personnes faisant l’objet d’une mesure de gel des avoirs, d’informer immédiatement
+le ministre chargé de l’économie des contrats conclus au bénéfice de ces personnes. Ainsi, elle n’a pas
+immédiatement déclaré à la DGT les contrats conclus au bénéfice de trois clients faisant l’objet d’une
+telle mesure (dossiers A1, A6 et A7).
+9. La MDPA, qui ne conteste pas le grief, explique son incapacité à détecter si certains de ses
+sociétaires étaient soumis à une mesure de gel des avoirs, même après qu’elle eut abandonné la fonction
+« exact match » en décembre 2020, par l’absence d’indication sur le sexe des personnes dans les listes
+des personnes soumises à des mesures restrictives. Elle souligne le faible nombre de clients qui n’ont
+pas été détectés au regard du nombre total de ses sociétaires et fait également valoir qu’aucune
+indemnisation n’a été directement versée aux intéressés. Elle précise enfin que, dans sa version du
+25 octobre 2022, sa « procédure interne relative au traitement des alertes relatives au gel des avoirs »
+impose la communication sans délai à la DGT de tout dossier pour lequel un doute lié à une homonymie
+avec une personne visée par une sanction financière ne peut pas être levé.
+10. Le grief 2 est fondé. Il apparaît comme la conséquence directe des carences reprochées au titre
+du grief 1.
+III. Sur les lacunes du dispositif de contrôle interne relatif à
+l’application des mesures de gel et d’interdiction de mise à
+disposition de fonds et de ressources économiques
+11. En vertu du III de l’article R. 562-1 du CMF, les organismes assujettis doivent se doter d’un
+dispositif de contrôle interne permettant notamment de s’assurer de l’efficacité de la mise en œuvre des
+mesures de gel des avoirs.
+L’article 13 de l’arrêté du 6 janvier 2021 prévoit que ce dispositif a notamment pour objet de vérifier
+« 1°que les opérations exécutées par les organismes assujettis, ainsi que leur organisation et leurs
+dispositifs de lutte contre le blanchiment de capitaux et le financement du terrorisme et de gel des avoirs
+et d'interdiction de mise à disposition ou d'utilisation des fonds ou ressources économiques sont
+conformes aux procédures internes qu'ils ont définies ».
+12. Selon le grief 3, fondé sur ces dispositions, la MDPA n’a défini qu’en septembre 2021, à la suite
+d’un audit effectué en juin 2020, des mesures de contrôle de second niveau lui permettant de s’assurer
+de l’efficacité de son dispositif de gel des avoirs. Ce dispositif reste lacunaire, dès lors qu’il se limite à
+la vérification de la bonne exécution des contrôles de premier niveau.
+La MDPA n’a dès lors pas été en mesure de détecter les carences de son dispositif de filtrage ni les
+lacunes des bases de données sur lesquelles il reposait.
+13. Sans contester le manquement, la MDPA souligne qu’elle estimait avoir mis en place un dispositif
+de contrôle interne adapté à la nature de son activité (assurance non-vie) et à la relation de proximité
+qu’elle entretient avec ses sociétaires. Elle indique avoir planifié dès février 2021 un contrôle permanent
+de second niveau et, en conséquence, effectué en 2022 « des contrôles permanents de niveau 2 (…) sur
+le nouveau dispositif de gel des avoirs ».
+14. Le grief 3 est fondé.
+*
+* *
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2022-06
+15. Il résulte de ce qui précède que le dispositif de la MDPA en matière de gel des avoirs était
+structurellement défaillant au moment du contrôle (grief 1).
+En conséquence, les mesures de gel des avoirs ne pouvaient être mises en œuvre sans délai pour
+toutes les personnes visées par des mesures restrictives et la DGT ne pouvait être immédiatement
+informée (grief 2).
+L’organisation du contrôle interne dans ce domaine était également défaillante (grief 3).
+La Commission a donc retenu les trois griefs notifiés à la MDPA. Elle tient seulement compte du fait
+que les deux premiers griefs trouvent leur origine dans les mêmes faits.
+16. De tels manquements sont d’une particulière gravité, « eu égard à l’intérêt général impérieux de
+protection de l’ordre public et de la sécurité publique auquel répond la législation relative au gel des
+avoirs dans le cadre de la lutte contre le blanchiment des capitaux et le financement du terrorisme »
+(Conseil d’État 15 novembre 2019 Société La Banque Postale n° 428292, point 15), dont la Commission
+a en outre souligné à plusieurs reprises qu’elle impose à tous les organismes assujettis une obligation de
+résultat : sans qu’ils puissent utilement regretter, comme le fait la MDPA, « l’absence de mise à
+disposition d’un outil mutualisé pour les filtrages des gels des avoirs au bénéfice des organismes
+assujettis », leur dispositif doit leur permettre de détecter immédiatement et de façon exhaustive les
+clients ou bénéficiaires d’opérations soumis à une mesure restrictive, d’informer sans délai la DGT et
+de bloquer, sans délai, les opérations pour les personnes et organismes désignés.
+17. Si la MDPA soutient que le secteur de l’assurance non-vie est moins exposé au risque de
+financement du terrorisme ou d’autres activités criminelles que ceux de la banque et de l’assurance-vie,
+une telle circonstance est, en tout état de cause, sans incidence, par elle-même, sur la réalité des
+manquements.
+18. Toutefois, il convient de souligner que la MDPA a, dès le début du contrôle sur place, marqué sa
+volonté de coopérer avec l’ACPR. Elle a engagé, sur une très courte période, des actions correctives,
+qui ont exigé des dépenses d’environ […] d’euros et dont l’effectivité a, pour l’essentiel, été confirmée
+par un cabinet d’audit.
+Il y a par ailleurs lieu de tenir compte, pour déterminer la sanction dans le respect du principe de
+proportionnalité, du fait que la MDPA est une société de taille moyenne et que, dans un contexte marqué
+notamment par une hausse sensible des coûts d’indemnisation, sa capacité à dégager un résultat positif
+en 2023 paraît plus incertaine.
+19. Compte tenu de l’ensemble des éléments mentionnés aux points 15 à 18, les manquements retenus
+par la Commission justifient le prononcé d’un blâme et il y a lieu, eu égard à la situation financière de
+la MDPA, de prononcer en outre à son encontre une sanction pécuniaire de 600 000 euros.
+Si la MDPA soutient qu’une publication nominative lui causerait un préjudice disproportionné et
+qu’elle serait à la fois de nature à fragiliser son activité, à nuire à son image et à mettre en péril ses
+partenariats et ses recrutements, elle n’apporte aucun élément précis de nature à établir qu’une telle
+publication serait susceptible de méconnaître l’équilibre entre l’exigence d’intérêt général à laquelle elle
+répond et ses intérêts ; il y a donc lieu de publier la présente décision au registre de l’ACPR sous forme
+nominative, pendant une durée de cinq ans. Elle y sera ensuite maintenue sous une forme non
+nominative.
+*
+* *
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2022-06
+PAR CES MOTIFS
+DÉCIDE :
+ARTICLE 1ER – Il est prononcé à l’encontre de la Mutuelle de Poitiers Assurances un blâme et une
+sanction pécuniaire de 600 000 euros.
+ARTICLE 2 – La présente décision sera publiée au registre de l’ACPR pendant cinq ans sous une
+forme nominative, puis sous une forme ne permettant pas d’identifier la Mutuelle de Poitiers Assurances,
+et pourra être consultée au secrétariat de la Commission.
+Le Président de la Commission
+des sanctions
+[Alain Ménéménis]
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification
+et dans les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 7

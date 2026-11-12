@@ -1,0 +1,859 @@
+===== Page 1 =====
+Décision de la Commission des sanctions – procédure no 2022-02
+FINANCIÈRE DES PAIEMENTS
+ÉLECTRONIQUES
+Procédure no 2022-02
+–––––
+Blâme et sanction pécuniaire
+d’un million d’euros
+–––––
+Audience du 28 mars 2023
+Décision rendue le 19 avril 2023
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 21 février 2022 par laquelle le Président de l’Autorité de contrôle prudentiel et de
+résolution (ACPR) informe la Commission des sanctions (ci-après la « Commission ») de ce que le
+Collège de supervision de l’ACPR (ci-après le « Collège »), statuant en sa formation restreinte, a décidé
+d’ouvrir une procédure disciplinaire à l’encontre de la société Financière des paiements électroniques
+(ci-après « FPE »), dont le siège social est 1 place des Marseillais, 94220 Charenton Le Pont ;
+Vu la notification des griefs du 21 février 2022 ;
+Vu les mémoires en défense des 31 mai, 22 septembre et 16 novembre 2022, par lesquels FPE (i)
+conteste une partie des griefs notifiés et (ii) souligne les actions de remédiation entreprises ;
+Vu les mémoires en réplique des 2 août et 27 octobre 2022, par lesquels le Collège, représenté par
+Mme Isabelle Lefebvre, estime (i) que les griefs sont fondés, sans (ii) que les actions correctives
+entreprises depuis le contrôle sur place puissent les remettre en cause ;
+Vu le rapport du 24 février 2023 de Mme Gaëlle Dumortier, rapporteure, qui conclut que tous les
+griefs sont fondés, certains dans un périmètre réduit ;
+Vu les courriers du 24 février 2023 convoquant à l’audience les parties ainsi que la direction générale
+du Trésor (DGT) et les informant de la composition de la Commission ;
+Vu les observations formulées le 13 mars 2023 en réponse au rapport de la rapporteure, par lesquelles
+FPE (i) prend acte de la position du rapporteur qui préconise de réduire le périmètre de certains
+reproches, (ii) présente des explications complémentaires dont elle estime qu’elles doivent conduire la
+Commission à en écarter d’autres ou, à tout le moins, à en réduire le périmètre, et (iii) communique
+certaines informations, notamment ses états financiers au titre de l’exercice clos le 31 décembre 2021 ;
+Vu les observations formulées le 13 mars 2023 en réponse au rapport de la rapporteure par la
+représentante du Collège, qui précise les motifs pour lesquels les reproches concernant (i) l’absence, au
+moment du contrôle sur place, d’un scénario permettant de détecter les virements au bénéfice de
+Autorité de contrôle prudentiel et de résolution 1
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2022-02
+personnes détenues en raison d’activités terroristes et (ii) la mise en place tardive d’un scénario
+permettant de détecter les achats dans les armureries lui paraissent fondés ;
+Vu les autres pièces du dossier, notamment le rapport de contrôle signé le 5 octobre 2021, la réponse
+de FPE du 30 janvier 2023 à la demande d’informations complémentaires de la rapporteure du 18 janvier
+2023, la réponse de la représentante du Collège du 30 janvier 2023 à la demande d’informations
+complémentaires de la rapporteure du 18 janvier 2023 et la réponse de FPE aux éléments produits par
+la représentante du Collège le 30 janvier 2023 ;
+Vu le code monétaire et financier (ci-après le « CMF »), notamment ses articles L. 561-4-1, L. 561-
+6, L. 561-10-2, L. 561-15, L. 561-16, L. 561-32, L. 562-7, et R. 561-12-1, R. 561-31, R. 561-38,
+R. 561-38-4, R. 562-1 dans leur rédaction en vigueur au moment des faits ;
+Vu l’arrêté du 3 novembre 2014 relatif au contrôle interne des entreprises du secteur de la banque,
+des services de paiement et des services d'investissement soumises au contrôle de l'Autorité de contrôle
+prudentiel et de résolution (ci-après « l’arrêté du 3 novembre 2014 »), notamment ses articles 46, 47,
+49, 50 et 58 ;
+Vu l’arrêté du 6 janvier 2021 relatif au dispositif et au contrôle interne en matière de lutte contre le
+blanchiment de capitaux et le financement du terrorisme et de gel des avoirs et d’interdiction de mise à
+disposition ou d’utilisation des fonds ou ressources économiques (ci-après « l’arrêté du 6 janvier
+2021 »), notamment ses articles 2, 4 et 11 ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACPR, composée de M. Alain Ménéménis, Président,
+Mme Claudie Boiteau, MM. Philippe Braghini et Philippe Laigre, membres de la Commission ;
+Après avoir entendu, lors de sa séance non publique du 28 mars 2023 :
+• Mme Dumortier, rapporteure, assistée de Mme Lysiane Dauphin, son adjointe ;
+• Mme Lefebvre, représentante du Collège, assistée de la directrice des affaires juridiques, du chef
+du service des affaires institutionnelles et du droit public, de deux juristes au sein de ce service ;
+Mme Lefebvre a proposé à la Commission de prononcer un blâme et une sanction pécuniaire de
+2 millions d’euros par une décision publiée sous une forme nominative pendant 5 ans ;
+• FPE, représentée par son président, assisté de la responsable de la conformité, dont les avocats
+sont Mes Nicolas Spitz, Sandra Kahn et Shana Sitbon (cabinet Spitz Poulle Kannan A.A.R.P.I.), en
+présence de la responsable juridique de la sécurité financière du groupe BNPP ;
+En l’absence de la direction générale du Trésor, dûment convoquée ;
+Après avoir délibéré en la seule présence de M. Ménéménis, Président, Mme Boiteau, MM. Braghini
+et Laigre, membres de la Commission, ainsi que de M. Jean-Manuel Clemmer, chef du service de la
+Commission des sanctions, faisant fonction de secrétaire de séance ;
+1. Agréée en juin 2013 en qualité d’établissement de paiement, la société par actions simplifiée FPE
+est, depuis juillet 2017, une filiale de BNP Paribas, qui détient 95 % de son capital, les 5 % restants étant
+détenus par la confédération des buralistes. Elle propose notamment à des particuliers, sur internet, une
+offre bancaire de base composée d’un compte Nickel sans découvert et d’une carte bancaire limitant les
+virements à la zone SEPA et réservée à une clientèle de particuliers majeurs capables ou jeunes de plus
+de 12 ans ainsi que, depuis octobre 2020, un service de transfert de fonds (…). L’entrée en relation avec
+un client doit être validée par l’un de ses agents (5 680 au moment du contrôle), qui sont tous des
+buralistes en métropole, tandis qu’outre-mer certains agents exercent d’autres activités.
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2022-02
+Fin 2021, elle comptait près d’un million de clients à jour de leur « cotisation annuelle » et, début
+2023, environ trois millions.
+En 2021, elle a réalisé un produit net bancaire (PNB) de 88,2 millions d’euros et un résultat net de
+2,7 millions d’euros. À la fin de cet exercice, ses fonds propres s’élevaient à 26,8 millions d’euros. Elle
+a indiqué qu’elle prévoyait, pour 2022, un PNB de (…) et un résultat de (…) pour ses activités en France
+mais, compte tenu d’investissements importants à l’étranger, un résultat net (…).
+2. FPE a fait l’objet, du 2 juillet 2020 au 1er janvier 2021, d’une mission de contrôle, qui a donné lieu
+à la signature, le 5 octobre 2021, d’un rapport (ci-après le « rapport de contrôle »). Au vu de ce rapport,
+le Collège de l’ACPR, statuant en sa formation restreinte, a décidé, lors de sa séance du 11 février 2022,
+d’ouvrir la présente procédure disciplinaire, dont la Commission a été saisie par une lettre du 21 février
+2022.
+I. Sur la classification des risques de blanchiment des
+capitaux et de financement du terrorisme
+3. En vertu de l’article L. 561-4-1 du CMF, les entreprises assujetties doivent définir et mettre en
+place « des dispositifs d'identification et d'évaluation des risques de blanchiment des capitaux et de
+financement du terrorisme auxquels elles sont exposées ainsi qu'une politique adaptée à ces risques.
+Elles élaborent en particulier une classification des risques en question en fonction de la nature des
+produits ou services offerts, des conditions de transaction proposées, des canaux de distribution utilisés,
+des caractéristiques des clients, ainsi que du pays ou du territoire d'origine ou de destination des
+fonds ».
+L’article 58 de l’arrêté du 3 novembre 2014 prévoyait en outre que : « La classification des risques
+de blanchiment de capitaux et de financement du terrorisme prend également en compte : / - les
+informations et les déclarations diffusées par le Groupe d'action financière et par le ministre chargé de
+l'économie ; / - les informations reçues du service à compétence nationale TRACFIN ». Depuis le 1er
+mars 2021, ces dispositions ont été abrogées et reprises en substance par l’article 2 de l’arrêté du 6
+janvier 2021.
+4. Selon le grief 1, fondé sur ces dispositions, la classification des risques de FPE était lacunaire au
+moment du contrôle. En effet, elle prenait insuffisamment en compte :
+- les risques de financement du terrorisme (FT) auxquels ses activités sont exposées. En effet, les
+risques associés à tous les virements domestiques sont analysés comme faibles, alors même que ceux de
+ces virements qui sont exécutés au bénéfice de personnes détenues (ci-après les « virements écrous »)
+en raison d’activités terroristes présentent un risque de FT élevé, souligné par Tracfin dès 2017. Aucune
+surveillance des « virements écrous » n’ayant été mise en place avant juillet 2020, certains ont été
+exécutés sans avoir été détectés ni analysés. Tel a par exemple été le cas dans les dossiers [A, B, C et D]
+(1ère branche du grief).
+- les risques de blanchiment des capitaux associés au secteur des jeux de hasard ou des paris,
+soulignés par Tracfin dès 2013, auxquels FPE est pourtant particulièrement exposée en raison de son
+activité et de sa clientèle. En effet, ses produits sont distribués par des agents qui sont presque tous des
+buralistes et les dépôts d’espèces représentent une part significative des opérations de ses clients. En
+outre, les risques associés aux clients présentant le profil de joueurs réguliers ou faisant des gains
+significatifs aux jeux ou paris ne sont pas analysés dans la classification, ce qui entraîne une surveillance
+insuffisante de ces risques. Plusieurs cas de défauts de déclaration de soupçon (DS) ou de DS tardives
+illustrent cette carence (dossiers 6.5, 6.6, 6.8, 8.3, 8.4, 8.5, 8.6, 8.9 et 8.10) (2nde branche du grief).
+5. En ce qui concerne la première branche du grief, la poursuite reproche à la classification des
+risques de FPE de prendre « insuffisamment en compte les risques de financement du terrorisme
+auxquels ses activités sont exposées », en particulier de retenir un risque faible pour tous les virements
+domestiques, sans tenir compte « des risques de financement du terrorisme associés aux virements de
+fonds au profit de bénéficiaires incarcérés en raison d’activités terroristes ».
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2022-02
+S’il est vrai que, même si leurs bénéficiaires ne sont pas des clients de l’établissement, de tels
+virements doivent faire l’objet d’une surveillance particulière (voir, ci-dessous, point 11), la poursuite
+n’a pas établi en quoi, alors que les dispositions de la seconde phrase de l’article L. 561-4-1 du CMF
+citées ci-dessus précisent qu’une classification des risques doit être élaborée « en fonction de la nature
+des produits ou services offerts, des conditions de transaction proposées, des canaux de distribution
+utilisés, des caractéristiques des clients, ainsi que du pays ou du territoire d'origine ou de destination
+des fonds », FPE avait l’obligation, en application de ces dispositions, de prendre en compte
+spécifiquement ces virements dès sa classification des risques en raison des caractéristiques de leurs
+bénéficiaires.
+Par ailleurs, si la prise en compte de tels virements dans la classification des risques peut être de
+nature à inciter l’établissement à mettre en place une surveillance appropriée, la poursuite n’a pas
+expliqué pourquoi, comme elle l’a soutenu à l’audience, leur prise en compte dans la classification des
+risques serait un « préalable » à leur surveillance.
+Enfin, si, comme le relève la poursuite, Tracfin a fait état des risques qui s’attachent à des virements
+vers des comptes dont les titulaires sont détenus pour des faits de terrorisme, ni le passage du rapport
+sur les « tendances et analyse des risques de BC-FT en 2016 », auquel la notification des griefs renvoie,
+ni les lignes directrices conjointes de l’ACPR et de Tracfin sur les obligations de déclaration et
+d’information à Tracfin, qui se bornent à indiquer que « compte tenu du développement du prosélytisme
+en faveur du terrorisme en prison, les organismes sont invités à examiner de près les relations d’affaires
+avec les personnes incarcérées » (§ 100) et qui insistent seulement sur la nécessité de détecter les
+« virements écrous », ne peuvent être regardés, à eux seuls, comme impliquant, en application de l’arrêté
+du 6 janvier 2021, une obligation de traitement spécifique dès la classification des risques. Il en va de
+même pour l’analyse sectorielle des risques de blanchiment des capitaux et de financement du terrorisme
+en France, publiée en décembre 2019, qui, après avoir relevé l’existence d’un risque de financement du
+terrorisme lié à l’utilisation de fonds au bénéfice de personnes incarcérées en raison d’activités
+terroristes (p. 12), mentionne seulement, au titre des bonnes pratiques pour réduire ce risque, la nécessité
+d’une « surveillance des virements vers les populations carcérales » (p. 14).
+Telle qu’elle est formulée et motivée, la première branche du grief ne peut donc qu’être écartée.
+6. En ce qui concerne la seconde branche du grief, la poursuite rappelle à juste titre que le secteur
+des jeux est perméable au risque de BC-FT (voir notamment le rapport de Tracfin « Tendances et analyse
+des risques de blanchiment des capitaux et de financement du terrorisme en 2015 », p. 35).
+Toutefois, pour justifier le reproche adressé à la classification des risques de FPE de ne pas
+« suffisamment » prendre en compte les risques de blanchiment associés au secteur des jeux de hasard
+ou des paris, la poursuite s’est bornée à renvoyer, par une note en bas de page de la notification des
+griefs, à un passage du rapport de contrôle qui concerne le dispositif de surveillance des opérations et à
+une de ses annexes qui ne reproduit que quelques extraits de la classification des risques.
+Si la notification des griefs affirme en particulier que la classification des risques de FPE ne prend
+pas en compte les « risques accrus » liés au recours à des agents commercialisant par ailleurs des
+services de jeux de hasard ou de paris, elle se borne sur ce point à renvoyer, par note en bas de page, à
+un dossier mentionné dans l’annexe 22 du rapport de contrôle, qui dresse une liste de « fiches de dossiers
+dont l’analyse est insuffisante ». En relevant notamment que « les buralistes concernés sont à la croisée
+des flux financiers générés » par la vente des produits de FPE et celle des jeux et paris, la poursuite
+n’explique de façon claire ni ce que sont les « risques accrus » qu’elle mentionne, ni pourquoi, en
+application des dispositions citées au point 3 ci-dessus, FPE avait l’obligation de leur réserver un
+traitement particulier dans la classification des risques. Et si elle ajoute encore que les risques associés
+aux clients présentant le profil de joueurs réguliers ou faisant des gains significatifs aux jeux ou paris ne
+sont pas analysés dans la classification des risques, elle se borne sur ce point à renvoyer, par note en bas
+de page de la notification des griefs, à un passage du rapport de contrôle qui concerne le dispositif de
+surveillance des opérations, sans expliquer en quoi un traitement spécifique dans la classification des
+risques était légalement obligatoire du fait d’une exposition particulière de l’établissement aux risques
+en cause.
+Telle qu’elle est formulée et motivée, la seconde branche du grief ne peut donc qu’être écartée.
+7. Il résulte de ce qui précède que, tel qu’il est formulé, le grief 1 ne peut qu’être écarté.
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2022-02
+II. Le dispositif de suivi et d’analyse des opérations
+8. En vertu de l’article L. 561-6 du CMF, « pendant toute la durée de la relation d'affaires et dans
+les conditions fixées par décret en Conseil d’État, ces personnes [assujetties] exercent, dans la limite de
+leurs droits et obligations, une vigilance constante et pratiquent un examen attentif des opérations
+effectuées en veillant à ce qu'elles soient cohérentes avec la connaissance actualisée qu'elles ont de leur
+relation d'affaires ».
+Selon l’article R. 561-12-1 du même code, « pour l'application de l'article L. 561-6, les personnes
+mentionnées à l'article L. 561-2 mettent en œuvre des mesures permettant de s'assurer de la cohérence
+des opérations effectuées au titre d'une relation d'affaires avec la connaissance de cette relation
+d'affaires, actualisée conformément aux prévisions de l'article R. 561-12. Ces mesures doivent
+notamment permettre de s'assurer que les opérations effectuées sont cohérentes avec les activités
+professionnelles du client, avec le profil de risque de la relation d'affaires et, si nécessaire, selon
+l'appréciation du risque, avec l'origine et la destination des fonds concernés par les opérations. / Les
+personnes mentionnées à l'article L. 561-2 doivent être en mesure de justifier auprès des autorités de
+contrôle mentionnées à l'article L. 561-36 de la mise en œuvre de ces mesures et de leur adéquation au
+risque de blanchiment de capitaux et de financement du terrorisme présenté par la relation d'affaires ».
+L’article L. 561-32 du CMF impose aux personnes assujetties de mettre en place « une organisation
+et des procédures internes pour lutter contre le blanchiment des capitaux et le financement du
+terrorisme, tenant compte de l'évaluation des risques prévue à l'article L. 561-4-1. En tenant compte du
+volume et de la nature de leur activité ainsi que des risques présentés par les relations d'affaires qu'elles
+établissent, elles déterminent un profil de la relation d'affaires permettant d'exercer la vigilance
+constante prévue à l'article L. 561-6 ». (…) / « Les personnes mentionnées ci-dessus mettent en place
+un dispositif de gestion des risques permettant de détecter les personnes mentionnées au 1° et les
+opérations mentionnées au 3° de l'article L. 561-10 ainsi que celles mentionnée aux articles L. 561-10-
+2 et L. 561-15 ».
+L’article R. 561-38 du même code prévoit que « les personnes mentionnées à l'article L. 561-2
+s'assurent que l'organisation du dispositif de lutte contre le blanchiment de capitaux et le financement
+du terrorisme mentionné au I de l'article L. 561-32 est adaptée à leur taille, à la nature de leurs activités
+ainsi qu'aux risques identifiés par la classification des risques mentionnée à l'article L. 561-4-1. Cette
+organisation doit être dotée d'outils, de moyens matériels et humains permettant la mise en œuvre
+effective de l'ensemble des obligations de vigilance prévues au présent chapitre et en particulier la
+détection, le suivi et l'analyse des personnes et opérations mentionnées au troisième alinéa de l'article
+L. 561-32 ».
+Enfin, l’article 46 de l’arrêté du 3 novembre 2014 disposait : « Les entreprises assujetties se dotent
+de dispositifs de suivi et d'analyse de leurs relations d'affaires, fondés sur la connaissance de leur
+clientèle, permettant notamment de détecter les opérations qui constituent des anomalies au regard du
+profil des relations d'affaires et qui pourraient faire l'objet d'un examen renforcé mentionné au II de
+l'article L. 561-10-2 du code monétaire et financier ou d'une déclaration prévue à l'article L. 561-15 du
+même code ». Ces dispositions étaient complétées par celles de l’article 49 de ce même arrêté, qui
+prévoyaient que « les dispositifs mentionnés aux articles 46 et 47 sont adaptés aux activités, aux
+clientèles, aux implantations de l'entreprise assujettie et aux risques identifiés par la classification ».
+Enfin, l’article 50 de ce même arrêté précisait que « les dispositifs de suivi et d'analyse des opérations
+permettent de définir des critères et seuils de significativité spécifiques aux anomalies en matière de
+blanchiment des capitaux et de financement du terrorisme ». Depuis le 1er mars 2021, ces dispositions
+ont été abrogées et reprises en substance par l’article 4 de l’arrêté du 6 janvier 2021.
+9. Selon le grief 2, fondé sur ces dispositions, le dispositif de suivi et d’analyse de FPE était
+incomplet au moment du contrôle.
+En premier lieu, il ne tenait pas suffisamment compte des risques de FT présentés par les activités de
+l’établissement et le profil de sa clientèle :
+- jusqu’en juillet 2020, aucun scénario n’avait été prévu pour détecter, avant leur exécution, les
+virements au bénéfice de personnes incarcérées en raison d’activités terroristes. À titre
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2022-02
+d’illustration, plusieurs de ces virements – dont certains au profit de [E, coauteur d’un attentat]
+- n’ont pas été détectés ou l’ont été tardivement ;
+- si les bases clients de FPE étaient filtrées en utilisant la base de données [Z] et la base de données
+[Y], les scénarios en usage au moment du contrôle ne prévoyaient aucun déclenchement d’alerte
+en cas d’inversion du nom et du prénom du client, lors de l’enregistrement dans les bases clients
+ou dans les bases [Z] et [Y]. À titre d’exemple, FPE a ouvert un compte à [F] sans l’avoir détecté
+en raison d’une inversion erronée de ses nom et prénom dans la base [Z]. Un risque faible de
+BC-FT a de plus été attribué au client jusqu’au 19 juin 2019 (cf. infra dossier 6.4) ;
+- jusqu’en janvier 2020, FPE n’avait mis en place aucune mesure lui permettant de détecter les
+clients qui étaient domiciliés à la même adresse qu’un client figurant dans [Z] ou dans [Y] en
+raison d’activités terroristes et qui étaient susceptibles d'avoir des liens personnels ou familiaux
+avec lui. Ainsi le dossier [G] - cliente domiciliée à la même adresse que [H], également client de
+FPE, inscrit sur la liste [Y] - illustre cette carence : le compte de [G] n’a été ni détecté ni analysé
+alors même que plusieurs virements ont été exécutés entre les deux comptes ;
+- aucun scénario ne permettait de détecter les achats d’un client dans une armurerie. Le dossier [I]
+illustre cette carence ;
+- aucun scénario n’avait été mis en place pour détecter les opérations par carte bancaire effectuées
+dans les pays à risque de FT et le scenario dédié à la détection de retraits d’espèces dans ces pays
+[« Alerte AML 22 » (…)] n’inclut certaines zones géographiques à risques, notamment plusieurs
+villes de Turquie, que depuis décembre 2020. Le dossier [J] (cf. infra dossier 6.10) illustre cette
+carence (1ère branche du grief).
+En deuxième lieu, alors qu’environ 40 % de sa clientèle est composée de personnes physiques ne
+déclarant aucun revenu hormis des aides sociales, la surveillance des risques de blanchiment de fraude
+sociale était insuffisante. Ainsi, les demandes d’information reçues d’organismes tels que les Caisses
+d’allocations familiales ou les Caisses primaires d’assurance maladie n’étaient pas intégrées comme des
+critères d’alerte justifiant une analyse dans le dispositif de surveillance des relations d’affaires de FPE.
+Les dossiers [K à Q] illustrent cette carence (2ème branche du grief).
+Enfin, FPE n’a mis en place un scénario permettant de surveiller les dépôts d’espèces qu’en décembre
+2020, bien que ceux-ci représentent la deuxième catégorie d’opérations exécutées pour le compte de ses
+clients, tant en nombre qu’en montant total et en dépit des risques de BC-FT associés (3ème branche du
+grief).
+10. En ce qui concerne la première branche du grief, si FPE soutient que ses procédures prévoyaient
+déjà, au moment du contrôle sur place, d’étudier « l’ensemble du fonctionnement d’un compte » et de
+prendre en compte toutes les personnes liées au client et si elle souligne qu’un outil [X1] avait été mis
+en place en janvier 2020, qui permettait de détecter des situations impliquant plusieurs personnes, elle
+n’apporte pas d’éléments permettant de répondre précisément au reproche de l’absence de détection,
+parmi ses clients, de ceux qui avaient des liens personnels ou familiaux avec des personnes, également
+clientes de FPE, référencées dans les bases [Y] et [Z]. Quant à l’outil mis en place en janvier 2022, dont
+FPE indique qu’il améliore les capacités de détection sur ce point et dont la mise en place, en tout état
+de cause, ne peut être regardée que comme une mesure de remédiation, les informations communiquées
+à son sujet sont trop parcellaires pour permettre à la Commission d’en apprécier l’efficacité.
+Par ailleurs, FPE ne conteste pas le reproche, qui est fondé, de l’absence de scenario permettant la
+détection des opérations par carte bancaire effectuées dans les pays à risque de FT. Elle se borne à décrire
+les mesures prises en avril 2021, soit après la fin de la présence sur place de la mission de contrôle, pour
+remédier à la surveillance insuffisante de ces opérations. Ainsi, le renforcement des scénarios SE01 (…)
+et AML13 (…), qui date d’avril 2021, s’analyse comme une mesure de remédiation.
+En outre, FPE ne justifie pas l’exclusion de certaines zones géographiques à risques, notamment de
+certaines villes turques, parfois proches de la frontière syrienne, de son dispositif de surveillance des
+retraits d’espèces dans les pays à risques, alors même que l’usage des espèces expose à un risque élevé
+de BC-FT. La Commission relève seulement que le cas mentionné par la poursuite (dossier [J]) illustre
+une défaillance en matière de lutte contre le blanchiment et non, comme l’indique la notification des
+griefs, en matière de lutte contre le financement du terrorisme.
+Enfin, le reproche selon lequel les scenarios basés sur le filtrage de la base clients de FPE au regard
+des bases de données [Z] et [Y], qui ne concernaient pas que les personnes soumises à une mesure de
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2022-02
+gel des avoirs, ne déclenchaient pas d’alerte en cas d’inversion des nom et prénom ne peut être regardé
+comme remis en cause par l’affirmation de l’établissement selon laquelle son outil de criblage prenait
+en compte des différences allant jusqu’à trois caractères pour le nom et trois pour le prénom. Cependant,
+ce reproche n’est illustré que par un cas [dossier [F]] et sa portée, en tout état de cause limitée, ne peut
+être appréciée avec précision.
+11. Par ailleurs, la poursuite reproche à FPE d’avoir attendu juillet 2020 pour mettre en place un
+scénario lui permettant de détecter, avant leur exécution, les virements au bénéfice de personnes
+incarcérées en raison d’activités terroristes.
+La défense relève à juste titre que les « virements écrous », y compris à destination de personnes
+incarcérées en raison d’activités terroristes, sont légaux. Ils font l’objet d’une règlementation stricte, par
+des dispositions qui, depuis 2022, sont notamment codifiées à l’article R. 332-3 du code pénitentiaire.
+La Commission estime cependant qu’il est nécessaire que, compte tenu des risques auxquels il est
+exposé, un établissement comme FPE soit en mesure de détecter et d’analyser les virements au bénéfice
+de personnes détenues pour des faits de terrorisme. Il lui incombe de mettre en place un dispositif qui
+lui permette notamment de repérer des clients et des opérations suspects au regard du risque de
+financement du terrorisme, en prenant en compte, dans une combinaison de signaux faibles, de tels
+virements. Il doit en outre être en mesure, le cas échéant, de déclarer à Tracfin ces virements eux-mêmes
+(pour un exemple, voir ci-dessous point 40).
+La Commission constate cependant qu’il est difficile, au vu des termes de la notification des griefs
+et de l’argumentation développée par la poursuite au cours de l’instruction contradictoire, de mesurer la
+portée exacte du reproche adressé à FPE.
+L’établissement a expliqué que son dispositif combinait un criblage de la base clients au regard des
+listes de sanctions fournies par [Z], du référentiel [Y] et de listes d’informations négatives, un certain
+nombre de scenarios, notamment sur les retraits d’espèces, un outil d’analyse ex post des opérations
+[W1], basé sur 20 signaux faibles en matière de financement du terrorisme, et, enfin, la prise en compte
+des « appels à vigilance » de Tracfin. Il a précisé qu’en avril 2019, il avait intégré à l’outil [W1] une
+« Whitelist », avec des mots-clés renvoyant spécifiquement au financement du terrorisme (…). Le
+rapport de contrôle avait, de son côté, constaté l’inclusion, à compter de juillet 2020, des listes [Y] et
+Whitelist dans la liste des scenarios de FPE, tout en relevant que la périodicité du filtrage de la base
+clients n’était pas documentée.
+Comme l’a souligné à plusieurs reprises la poursuite, le reproche ne porte que sur le retard avec
+lequel FPE aurait mis en place un dispositif de détection, avant leur exécution, des virements au bénéfice
+de personnes incarcérées en raison d’activités terroristes.
+Or, trois points sont difficiles à apprécier.
+En premier lieu, si la poursuite insiste sur la nécessité d’une détection avant exécution, la notification
+des griefs renvoie, par des notes en bas de page, à un passage du rapport de contrôle et à son annexe 17,
+qui mentionnent une absence pure et simple de détection. Au surplus, au cours de la procédure
+contradictoire, la poursuite a soutenu qu’une détection préalable était nécessaire pour permettre à
+l’établissement de suspendre certains virements et de les déclarer à Tracfin, sans répondre précisément
+à l’argumentation selon laquelle trouverait à s’appliquer la dérogation prévue par le 2ème paragraphe de
+l’article L. 561-16 du CMF, qui permet de déclarer des opérations suspectes à Tracfin après exécution
+(sur la distinction entre ces deux hypothèses et la nécessité d’interpréter strictement la dérogation
+mentionnée ci-dessus, on se reportera aux lignes directrices conjointes de l’ACPR et de Tracfin sur les
+obligations de déclaration et d’information à Tracfin du 1er octobre 2018, publiées le 5 novembre 2018,
+notamment à leurs paragraphes 126 et suivants).
+En deuxième lieu, la poursuite n’a pas précisé si le manquement reproché à FPE pour la période
+antérieure à juillet 2020 tenait à l’absence d’un scenario dédié aux virements en cause ou à l’absence de
+leur prise en compte, comme facteurs d’alerte, dans les scenarios existants.
+En troisième lieu, il apparaît, ainsi qu’il a été dit, qu’à compter de juillet 2020, FPE a seulement
+renforcé son instrument d’analyse ex post des opérations et complété, de façon limitée, ses scenarios
+d’alerte. Le reproche ne portant que sur le retard mis par FPE à respecter pleinement ses obligations, il
+s’en déduit que la poursuite a regardé comme suffisant le dispositif de détection et d’analyse tel qu’il
+était à compter de juillet 2020, alors même qu’il ne paraît pas constituer davantage que sous sa forme
+antérieure un dispositif de détection préalable des virements ici en cause. Il en résulte une difficulté
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2022-02
+supplémentaire pour apprécier en quoi consistait exactement l’insuffisance du dispositif de FPE avant
+juillet 2020.
+Compte tenu de ces incertitudes, le reproche, tel qu’il est présenté par la poursuite, ne peut qu’être
+écarté.
+12. Enfin, la Commission considère que la poursuite ne justifie pas l’obligation, à laquelle elle
+reproche à FPE d’avoir manqué, de mettre en place « un scénario lui permettant de détecter les achats
+dans une armurerie », c’est-à-dire, conformément à ce qu’elle a elle-même précisé dans ses premières
+observations en réplique, un scenario dédié à ce type d’achat, eu égard au grand nombre des personnes
+susceptibles de procéder à de tels achats en bénéficiant régulièrement d’autorisations à cette fin. Il peut
+seulement être reproché à l’établissement de n’avoir pas pris en compte dans ses scenarios, comme
+signaux d’alerte, les achats dans les armureries. Tel qu’il est formulé dans la notification des griefs, le
+reproche ne peut qu’être écarté.
+13. En ce qui concerne la deuxième branche du grief, FPE soutient que la plupart des courriers qu’elle
+reçoit des Caisses d’allocations familiales ou des Caisses primaires d’assurance maladie au sujet de
+certains de ses clients ne mentionnent pas le motif des demandes. Toutefois, eu égard au fait que les
+courriers en cause comportent le plus souvent une demande de communication de relevé de compte,
+qu’ils émanent fréquemment d’unités de contrôle des droits et qu’ils mentionnent parfois des
+investigations portant sur de possibles fraudes, FPE aurait dû les intégrer à son dispositif comme des
+critères d’alerte.
+14. En ce qui concerne la troisième branche du grief, FPE rappelle son choix, dans le cadre d’une
+approche par les risques, de plafonner les dépôts d’espèces de ses clients et de faire d’abord porter son
+effort de surveillance sur les virements entrants.
+Toutefois, la mise en place d’un plafonnement pour les dépôts d’espèces ne pouvait lui permettre de
+respecter l’obligation, à laquelle elle est soumise, de surveiller les opérations en espèces de ses clients,
+lesquelles constituent une part significative de leur activité et présentent un risque élevé de BC-FT,
+comme la Commission l’a déjà rappelé (voir la décision Office des postes et télécommunications de
+Nouvelle Calédonie, procédure n° 2020-11, point 18). La mise en place, à compter de septembre 2021,
+d’un scénario dénommé AML 02 (…), destiné à la surveillance des dépôts d’espèces, s’analyse comme
+une mesure de remédiation, sans incidence sur le bien-fondé du reproche.
+15. Le grief 2 est donc fondé, dans un périmètre réduit ainsi qu’il a été dit ci-dessus.
+III. Sur le dispositif de gel des avoirs et le contrôle interne
+A. Les insuffisances du dispositif de gel des avoirs
+16. L’article L. 562-7 du CMF dispose que les personnes supervisées « qui créditent un compte dont
+les fonds sont gelés en informent sans délai le ministre chargé de l'économie ».
+En outre, en vertu de l’article 47 de l’arrêté du 3 novembre 2014, les établissements supervisés
+devaient se doter « de dispositifs adaptés à leurs activités permettant de détecter toute opération au
+bénéfice d'une personne ou d'une entité faisant l'objet d'une mesure de gel des fonds, instruments
+financiers et ressources économiques ». Depuis le 1er mars 2021, ces dispositions ont été abrogées et
+reprises en substance par l’article 11 de l’arrêté du 6 janvier 2021.
+17. Selon le grief 3, fondé sur ces dispositions, le dispositif de mise en œuvre des mesures de gel des
+avoirs et d’interdiction de mise à disposition de FPE était défaillant au moment du contrôle sur place.
+Plusieurs anomalies ont été détectées sur l’échantillon analysé de 20 dossiers de clients ayant fait l’objet
+d’une mesure de gel, en particulier :
+- dans 3 cas (dossiers 3.1, 3.2 et 3.3), FPE a débloqué le compte sur des périodes allant de 9 jours à
+plusieurs mois ;
+- dans 3 cas (dossiers 3.2, 3.4 et 3.5), la mesure de gel a été mise en œuvre tardivement ;
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2022-02
+- dans un cas (dossier 3.6), FPE n’a pas informé la DGT de l’inscription de fonds au crédit d’un
+compte gelé.
+18. Si FPE soutient, à titre liminaire, que les reproches formulés au titre des griefs 3 et 4 portent
+respectivement sur le gel des avoirs et sur le dispositif de contrôle interne des mesures qui s’y rapportent
+et si elle en déduit que ces deux griefs sont redondants et que le premier devrait donc être écarté, la
+Commission relève que les deux reproches ne se confondent pas.
+19. En ce qui concerne les 7 défaillances reprochées dans 20 dossiers individuels, FPE ne conteste
+pas les déblocages critiqués (dossiers 3.1, 3.2 et 3.3) et ne peut les justifier en soutenant qu’ils résultent
+du démarrage automatique du processus de clôture du compte lorsque la provision qui y est inscrite ne
+permet pas le paiement de la « cotisation annuelle ». La Commission relève cependant que FPE indique,
+sans être contredite par la poursuite, que les clients, qui n’ont jamais été informés de ce déblocage, n’ont
+en outre jamais effectué d’opération sur leur compte à la suite de celui-ci et que cette anomalie, détectée
+autour du 10 novembre 2020, a été corrigée le 30 novembre 2020.
+Par ailleurs, il y a lieu de prendre acte de ce que la poursuite a abandonné le reproche de mise en
+œuvre tardive des mesures restrictives dans le dossier 3.4.
+Pour le même reproche de mise en œuvre tardive des mesures restrictives, FPE souligne, dans les
+deux autres cas (3.2 et 3.5), que les délais reprochés pour mettre en œuvre les mesures de gel sont
+surévalués par la poursuite, qui retient comme point de départ la date de l’arrêté portant mesure
+restrictive et non celle de sa publication au Journal officiel. Les délais à compter de la publication de
+l’arrêté ont été respectivement de 2 (dossier 3.2) et 6 jours (dossier 3.5). Dans le premier de ces deux
+dossiers, la défense soutient, sans être contredite par la poursuite, que le délai de 2 jours était
+techniquement incompressible. Dans le second, l’établissement n’a pas respecté son obligation de mise
+en œuvre sans délai, l’erreur technique de [Z] qu’il invoque n’étant pas de nature à justifier le retard.
+En revanche, dans le dossier 3.6, le virement entrant ayant été rejeté par FPE, l’obligation
+d’information prévue par les dispositions citées ci-dessus de l’article L. 562-7 du CMF ne trouvait pas
+à s’appliquer et le reproche doit être écarté.
+20. En tout état de cause, au-delà de ces défaillances ponctuelles, la poursuite reproche à FPE une
+carence du dispositif en matière de gel des avoirs lui-même.
+La Commission a déjà souligné à plusieurs reprises que la mise en place d’un dispositif adapté de
+détection des opérations réalisées au profit de personnes ou entités faisant l’objet d’une mesure de gel
+des avoirs doit permettre dans tous les cas l’application sans délai des mesures de gel et d’interdiction
+de toute opération entrant dans le champ de ces mesures. Il s’agit en effet d’une obligation de résultat et
+d’une exigence essentielle pour les établissements assujettis (CS n° 2019-04, Only Payment Services du
+4 février 2019, considérant 41).
+Or le rapport de contrôle a relevé plusieurs carences dans l’organisation du dispositif de gel des avoirs
+de FPE : défaut d’expérience des analystes en charge du traitement des alertes, inexactitude du tableau
+de bord recensant les mesures de gel en vigueur, imprécision des informations saisies dans l’outil [V1],
+paramétrage incomplet des catégories de ressources ou de dépenses de base autorisées sur le compte
+d’une personne faisant l’objet d’une mesure restrictive et information partielle de la DGT et de Tracfin.
+Contrairement à ce que soutient la poursuite, aucune disposition n’impose à un organisme supervisé
+de paramétrer un déblocage automatique des dépenses de base. Par ailleurs, le reproche d’une
+information partielle de Tracfin ne repose que sur un cas (dossier 3.6), au demeurant non pertinent (cf.
+supra point 19).
+En revanche, le tableau de bord, « fichier consolidé recensant l’ensemble des mesures de gel des
+avoirs appliquées par FPE », qui, contrairement à ce que soutient FPE, doit être regardé comme un
+élément du dispositif de gel des avoirs, comportait des erreurs. Par ailleurs les imprécisions de l’outil de
+suivi [V1] étaient également de nature à affecter l’efficacité de l’ensemble du dispositif. Au surplus,
+devant la Commission, FPE n’a fourni aucune précision permettant de contester le constat selon lequel
+les équipes chargées du traitement des alertes n’étaient pas assez expérimentées et ne bénéficiaient pas
+d’une documentation suffisante.
+Il résulte de ce qui précède que le dispositif de FPE en matière de gel des avoirs ne mettait pas
+l’établissement en mesure de respecter pleinement l’obligation de résultat qui s’imposait à lui.
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2022-02
+21. Il résulte de tout ce qui précède que le grief 3, qui reproche au dispositif de FPE en matière de
+gel des avoirs de ne pas le mettre en mesure de respecter pleinement son obligation en ce domaine, est
+fondé. Il est illustré par 4 dossiers individuels.
+La Commission relève cependant que la mission de contrôle n’a détecté aucune mise à disposition
+de fonds au bénéfice d’une personne visée par une mesure restrictive (voir sur ce point la décision société
+B venant aux droits de la société A du 26 juillet 2018, procédure n° 2017-02, considérant 45).
+B. Les lacunes du dispositif de contrôle interne de la mise en œuvre du gel des avoirs
+22. Selon l’article R. 562-1 du CMF, « les personnes mentionnées à l'article L. 562-4-1 mettent en
+place un dispositif de contrôle interne de la mise en œuvre des obligations mentionnées à cet article
+dans les conditions et selon les modalités prévues aux articles R. 561-38-2 à R. 561-38-9 ». L’article
+R. 561-38-4 du même code impose notamment aux assujettis de mettre en place un contrôle interne
+permanent, couvrant l’intégralité des activités, réalisé, d’une part, par des personnes exerçant des
+activités opérationnelles et, d’autre part, par des personnes dédiées à la seule fonction de contrôle des
+opérations.
+23. Selon le grief 4, fondé sur ces dispositions, FPE n’avait, avant novembre 2020, défini aucune
+mesure de contrôle de second niveau sur l’analyse des alertes déclenchées par le filtrage de ses bases
+clients grâce aux bases de [Z]. À titre d’illustration, sur l’échantillon de 20 dossiers de clients faisant
+l’objet d’une mesure de gel examiné par la mission de contrôle, plusieurs anomalies ont été relevées :
+- dans 3 cas (dossiers 3.2, 3.4 et 3.5), la mesure de gel a été mise en œuvre plusieurs jours après sa
+publication au JORF ;
+- dans 2 cas, l’application de la mesure de gel, pourtant toujours en vigueur, a été suspendue pendant
+plusieurs jours (dossiers 3.1 et 3.2) ;
+- dans 2 cas, des erreurs dans le tableau de suivi de la mise en œuvre de ces mesures ont été commises
+(dossiers 3.4 et 3.5) ;
+- dans un cas, l’établissement a décidé, sans recueillir l’autorisation préalable de la DGT, de clore le
+compte du client alors que la mesure de gel était encore en vigueur (dossier 4.1).
+24. La mission de contrôle a constaté l’absence de mise en place d’un contrôle de second niveau des
+alertes [Z] au sein de FPE conforme à l’obligation définie par les dispositions mentionnées au point 22
+ci-dessus. FPE a expressément admis ce constat dans sa réponse au rapport, en indiquant qu’un tel
+contrôle avait été mis en place en novembre 2020. Si l’établissement soutient désormais, devant la
+Commission, qu’avant novembre 2020, le traitement des alertes n’échappait pas à tout contrôle, en
+expliquant que la Conformité effectuait à la fois le traitement des alertes et un contrôle de ce traitement,
+il n’apporte pas de précision suffisante - ni sur l’organisation, ni sur la portée de ce contrôle - qui
+permette de contredire son affirmation initiale selon laquelle ce n’est qu’en novembre 2020 qu’un
+véritable contrôle de second niveau a été mis en place. L’alignement sur les méthodes du groupe BNPP,
+postérieur à la mission de contrôle, est sans incidence sur le grief.
+25. Le grief 4 est donc fondé.
+Quant aux dossiers qui sont cités par la poursuite à titre d’illustration, certains ont déjà été examinés
+au titre du grief 3, où ils trouvaient d’ailleurs logiquement leur place ; par ailleurs, FPE ne conteste pas
+la clôture du compte [dossier 4.1] sans autorisation de la DGT alors que la mesure de gel était toujours
+en vigueur, mais indique cependant qu’au moment de la clôture du compte, son solde était nul et qu’il
+n’avait jamais été utilisé par le client.
+IV. Sur le respect des obligations d’examen renforcé
+26. En vertu de l’article L. 561-10-2 du CMF, les organismes assujettis doivent effectuer « un examen
+renforcé de toute opération particulièrement complexe ou d'un montant inhabituellement élevé ou ne
+Autorité de contrôle prudentiel et de résolution 10
+
+===== Page 11 =====
+Décision de la Commission des sanctions – procédure no 2022-02
+paraissant pas avoir de justification économique ou d'objet licite. Dans ce cas, ces personnes se
+renseignent auprès du client sur l'origine des fonds et la destination de ces sommes ainsi que sur l'objet
+de l'opération et l'identité de la personne qui en bénéficie ».
+27. Selon le grief 5, fondé sur ces dispositions, un défaut d’examen renforcé est reproché à FPE dans
+4 cas (dossiers 5.1 à 5.4).
+28. Dans le premier dossier (5.1), après que le compte du client eut enregistré, courant 2020, plusieurs
+paiements d’une société commerciale, suivis de virements au bénéfice de personnes physiques, FPE
+s’était renseigné, dans le cadre d’une « diligence renforcée sur investigations », auprès du client, en
+novembre 2020, non seulement sur l’origine des fonds portés au crédit du compte du client mais aussi
+sur les liens de celui-ci avec les tiers bénéficiaires de ses virements et avait demandé des justificatifs.
+Le reproche de défaut d’examen renforcé n’est donc pas fondé. Si les justificatifs demandés n’étaient
+pas fournis, il appartenait à l’établissement de procéder à une DS en application du III de l’article L. 561-
+15 du CMF (cf. infra, dossiers connexes 6.1 et 6.2).
+29. Dans le dossier 5.2, l’enregistrement, au crédit du compte, d’opérations ne paraissant pas avoir
+de justification économique ou d’objet licite - telles que des mouvements pouvant correspondre à une
+utilisation, à des fins professionnelles, d’un compte Nickel - et, en outre, la réception d’une demande
+d’information d’un organisme de sécurité sociale exigeaient un examen renforcé.
+Il en va de même dans le dossier 5.3, du fait de l’exécution de virements créditeurs multiples dont
+l’objet était inconnu et de virements débiteurs vers le compte d’un client inscrit sur la liste [Y], et dans
+le dossier 5.4, du fait de l’exécution de virements créditeurs multiples dont l’objet était inconnu et de
+virements débiteurs incohérents avec les éléments de connaissance de la cliente.
+30. Les actions correctives mentionnées en matière de formation, entreprises pour améliorer le
+respect par FPE de ses obligations en matière d’examen renforcé, sont sans incidence sur le grief, qui
+est fondé dans 3 des 4 cas mentionnés par la notification des griefs.
+V. Sur le respect des obligations de déclaration à Tracfin
+A. Les défauts de déclaration de soupçon
+31. En vertu du I de l’article L. 561-15 du CMF, les entreprises assujetties « sont tenues, dans les
+conditions fixées par le présent chapitre, de déclarer au service mentionné à l'article L. 561-23 les
+sommes inscrites dans leurs livres ou les opérations portant sur des sommes dont elles savent,
+soupçonnent ou ont de bonnes raisons de soupçonner qu'elles proviennent d'une infraction passible
+d'une peine privative de liberté supérieure à un an ou sont liées au financement du terrorisme ».
+Selon le III du même article, « à l'issue de l'examen renforcé prescrit à l'article L. 561-10-2, les
+[entreprises supervisées] effectuent, le cas échéant, la déclaration prévue au I du présent article ».
+Le IV du même article prévoit que : « Toute information de nature à infirmer, conforter ou modifier
+les éléments contenus dans la déclaration est portée, sans délai, à la connaissance du service mentionné
+à l'article L. 561-23 ».
+32. Selon le grief 6, fondé sur ces dispositions, FPE n’a pas respecté son obligation de déclarer à
+Tracfin certaines sommes ou opérations dans 14 cas (dossiers 6.1 à 6.14).
+33. FPE soutient qu’il ne lui appartient pas de démontrer que les opérations de ses clients étaient
+licites, la preuve de tout manquement incombant à la poursuite.
+Comme l’a rappelé la Commission, « en dehors de l’hypothèse où il est tenu de déclarer à Tracfin
+une opération à l’issue d’un examen renforcé infructueux, un organisme assujetti est tenu, en vertu du I
+de l’article L. 561-15 du CMF, de déclarer toute somme ou toute opération dès lors que, compte tenu de
+ses caractéristiques, il sait ou soupçonne que la somme en cause provient d’une des infractions
+mentionnées par ces dispositions – dont il ne lui appartient pas de préciser la nature exacte - ou que
+Autorité de contrôle prudentiel et de résolution 11
+
+===== Page 12 =====
+Décision de la Commission des sanctions – procédure no 2022-02
+l’opération en cause porte sur une telle somme. » (décision Axa Banque du 15 février 2023, procédure
+n° 2022-01, point 33).
+Il incombe également à un organisme assujetti de déclarer toute somme ou toute opération portant
+sur une somme dont il sait, soupçonne ou a de bonnes raisons de soupçonner qu’elle est liée au
+financement du terrorisme.
+Lorsqu’elle entend reprocher un défaut de DS, il incombe à la poursuite de démontrer, de façon
+suffisamment précise et circonstanciée, qu’une opération présente des caractéristiques telles qu’elles
+sont de nature à justifier un soupçon d’infraction (décision du 12 juillet 2021 n° 2020-06 American
+Express Carte France, point 62) ou de lien avec le financement du terrorisme.
+C’est en application de ces principes que le présent grief sera examiné.
+34. Dans le dossier 6.1, les virements enregistrés au crédit du compte de la cliente entre juillet et
+novembre 2020, pour un montant d’environ 12 000 euros, étaient incohérents avec les éléments de
+connaissance de la cliente, tandis que les liens avec le donneur d’ordre [R] étaient inconnus de FPE. Par
+ailleurs, de nombreux virements débiteurs ont été effectués au bénéfice de [S] (dossier 6.2), pour un
+montant à peu près équivalent à ceux des virements provenant de [R], sur la même période. L’intéressée
+avait en outre reçu plusieurs virements de la Caisse d’allocations familiales alors que leur destinataire
+portait le nom (…). FPE, qui a interrogé la cliente sur ses liens avec [R] et [S] et sur les motifs des
+opérations enregistrées, aurait dû, au terme de cet examen renforcé resté en partie infructueux faute de
+justificatifs des opérations, en informer Tracfin.
+Les transactions avec la cliente précédente, de même que la réception de virements émis par la CAF
+au bénéfice d’un tiers, auraient dû donner lieu à l’envoi d’une DS dans le dossier connexe 6.2.
+35. FPE ayant soupçonné une fraude aux allocations sociales de la part de clients ne résidant pas en
+France dans les dossiers 6.3 et 6.10, une DS était nécessaire et la seule fermeture de leur compte était
+insuffisante. Le fait que le compte des clients ait été clôturé avant le début de la mission de contrôle est
+donc sans incidence sur le reproche. Quant à la mise en place, en mars 2021, d’un nouveau scénario
+[U1] visant à détecter ce type de situation, elle s’analyse, en tout état de cause, comme une mesure de
+remédiation.
+36. Dans le dossier 6.4, après la diffusion d’informations publiques sur l’intéressé (…), FPE, qui ne
+peut se prévaloir utilement de la défaillance de son prestataire [Z], aurait dû déclarer à Tracfin des
+opérations enregistrées au débit (retraits d’espèces) comme au crédit (deux « virements de Dakar »),
+dont le motif était, lors de leur exécution, inconnu de l’établissement, sans qu’il fût nécessaire de
+procéder d’abord à un examen renforcé, ce que l’établissement n’a d’ailleurs pas fait.
+37. Dans son analyse des risques de BC-FT associés au secteur des jeux de hasard et des paris sportifs,
+Tracfin a notamment indiqué traiter des cas de rachat de tickets gagnants ou de paris sportifs répétés sur
+des compétitions à faible cote. Le fait que le client soit également buraliste apparaît comme un facteur
+de risque supplémentaire. Dès lors, les opérations enregistrées (gains nombreux et pour des montants
+élevés au regard des revenus du client, opérations au débit incohérentes avec le profil du client) auraient
+dû donner lieu à une déclaration à Tracfin, sans qu’il fût nécessaire de procéder d’abord à un examen
+renforcé, ce que l’établissement n’a d’ailleurs pas fait (dossiers 6.5, 6.6 et 6.8).
+38. Le compte Nickel d’une cliente, salariée d’un buraliste agent de FPE, enregistrait de très
+nombreuses opérations, au débit comme au crédit, dont la contrepartie était le compte Nickel de son
+employeur. En outre, ce même compte personnel était également alimenté par un compte détenu par la
+cliente dans les livres de [établissement T1] et débité de virements vers son compte dans un troisième
+établissement [établissement S1]. Malgré quatre analyses par l’établissement, tous les doutes sur ces
+nombreux virements entre plusieurs comptes ne pouvaient être regardés comme levés. Une DS était
+donc nécessaire (dossier 6.7).
+39. Dans deux cas, les demandes de renseignements reçues par FPE auraient dû conduire
+l’établissement à informer Tracfin des opérations des clients :
+Autorité de contrôle prudentiel et de résolution 12
+
+===== Page 13 =====
+Décision de la Commission des sanctions – procédure no 2022-02
+Dans le dossier 6.9, plusieurs demandes de renseignements ont été adressées à FPE par le Fonds de
+garantie des victimes d’actes de terrorisme et d’autres infractions, en septembre 2017, mars 2018 et juin
+2019. Si l’établissement soutient en défense qu’avant 2019, les opérations effectuées sur ce compte
+n’étaient pas atypiques, les montants créditeurs enregistrés étaient très supérieurs aux revenus connus
+de l’intéressé. En tout état de cause, les explications du client selon lesquelles les virements Paypal d’un
+montant cumulé de 7 900 euros, enregistrés sur son compte le 7 mars 2019, provenaient d’une « vente
+de crypto-monnaies », opération suivie le même jour d’un virement de 7 600 euros vers une plateforme
+de crypto-monnaies, n’étaient pas de nature à écarter le soupçon que les fonds pouvaient provenir d’une
+infraction.
+Dans le dossier 6.12, le client, agent de FPE jusqu’à la liquidation de son bureau de tabac en juillet
+2020, qui disposait d’un compte personnel et d’un compte professionnel ouverts dans les livres de FPE,
+a effectué de décembre 2018 à mai 2019 sur son compte personnel 14 dépôts d’espèces pour un montant
+d’environ 2 000 euros, généralement suivis « d’achats PDV Nickel », la défense n’indiquant pas de
+manière certaine à quoi correspond cet intitulé. Au plus tard lors de la réception d’une demande de
+renseignements de la direction générale des finances publiques (DGFiP) à la fois sur son compte
+professionnel et sur son compte personnel, les transactions de ce client auraient dû être portées à la
+connaissance de Tracfin, sans qu’il fût nécessaire de procéder d’abord à un examen renforcé, ce que
+l’établissement n’a d’ailleurs pas fait.
+40. Dans le dossier 6.11, FPE n’a pas détecté le caractère suspect des opérations par lesquelles, entre
+mars et juillet 2019, 3 virements provenant du compte de la cliente chez [établissement O1] ont permis,
+par quatre « virements écrous », de financer le compte de son fils [E]. Alors que Tracfin avait exercé son
+droit de communication le 17 mai 2019 sur les deux premiers « virements écrous », une DS aurait dû
+être envoyée au sujet des deux « virements écrous » qui ont suivi.
+41. Dans le dossier 6.13, le client, qui avait déclaré être sans revenus réguliers, a reçu des virements
+pour plus de 37 000 euros d’octobre 2015 à avril 2017, dont environ 27 000 euros correspondant au
+versement d’un salaire et environ 10 000 euros provenant d’un tiers, sans que ce montant soit justifié
+par des documents probants. Il a également effectué, au profit de plusieurs tiers, de mars 2016 à juillet
+2019, des virements dont la licéité n’était pas évidente, d’autant que FPE avait été successivement
+destinataire d’une réquisition judiciaire adressée dans une affaire d’escroquerie en bande organisée
+(septembre 2018), d’une demande d’information de l’Autorité des Marchés Financiers (AMF) en février
+2019 et d’une demande de communication de Tracfin en mai 2019. Une déclaration de soupçon aurait
+donc dû être adressée à Tracfin.
+42. Dans le dossier 6.14, les opérations du client, condamné (…) pour association de malfaiteurs en
+relation avec une entreprise terroriste, avaient donné lieu à une déclaration, adressée à Tracfin le 15 juin
+2020. Dès lors que des opérations similaires, même peu nombreuses et de faible montant, se
+poursuivaient et étaient de nature à conforter les éléments signalés dans la première déclaration, FPE
+aurait dû en aviser Tracfin.
+43. Le grief 6, par lequel sont reprochés des manquements aux dispositions du I, du III ou du IV de
+l’article L. 561-15 du CMF, est donc fondé dans les 14 dossiers retenus par la poursuite.
+B. La qualité des déclarations de soupçon
+44. En vertu du III de l’article R. 561-31 du CMF, la déclaration de soupçon « comporte les
+renseignements et éléments d'information suivants : (…) / 4° Les éléments d'identification du client et,
+le cas échéant, du bénéficiaire effectif de l'opération qui fait l'objet de la déclaration ainsi que, dans le
+cas où une relation d'affaires a été nouée avec le client, l'objet et la nature de cette relation ; / 5° Un
+descriptif de l'opération et les éléments d'analyse qui ont conduit à effectuer la déclaration ;(…) ».
+45. Selon le grief 7, fondé sur ces dispositions, sur les 18 dossiers examinés par la mission de
+contrôle, 12 DS adressées à Tracfin entre août 2018 et juillet 2020 comportaient 15 éléments d’analyse
+Autorité de contrôle prudentiel et de résolution 13
+
+===== Page 14 =====
+Décision de la Commission des sanctions – procédure no 2022-02
+insuffisants et des informations relatives à la connaissance des clients lacunaires (certains dossiers étant
+mentionnés à deux titres) :
+- 7 DS ne mentionnaient pas des opérations ou des contreparties ayant contribué à caractériser le
+soupçon [dossiers 7.1, 7.2, 7.3 (1°), 7.4, 7.5, 7.6 (1°) et 7.7 (1°)] (première branche du grief) ;
+- 4 DS indiquaient à tort que le client était une personne politiquement exposée (PPE) [7.8, 7.9, 7.6
+(2°) et 7.7 (2°)] (deuxième branche du grief) ;
+- 4 DS indiquaient à tort que le client était occasionnel [7.10, 7.11, 7.3 (2°) et 7.12].
+46. En ce qui concerne la première branche du grief, si FPE soutient à titre liminaire, au sujet des
+dossiers 7.1, 7.2, 7.3 (1°), 7.4, 7.5, 7.6 (1°) et 7.7 (1°), que le reproche est rédigé en des termes trop
+imprécis pour lui permettre de présenter ses observations en défense, la notification des griefs comporte
+un renvoi permettant de se reporter aux fiches individuelles établies par la mission de contrôle et de
+comprendre, pour chaque dossier, la nature de l’insuffisance reprochée.
+47. Dans le dossier 7.2, la DS adressée le 22 octobre 2020 mentionnait les liens entre le client et deux
+autres personnes – [B] et [T] [cf. dossier 7.3 (1°)] - ainsi que la DS adressée le 15 juin 2020 à leur sujet.
+Si elle fait référence en des termes généraux à un décaissement de fonds par virements, elle n’indique
+pas, contrairement à ce que reproche la poursuite, qu’un virement de 25 800 euros a été crédité sur le
+compte du client à [établissement T1] alors qu’il l’aurait été sur le compte du client dans les livres de
+[établissement R1]. Les lacunes reprochées ne sont donc pas établies et, par ailleurs, l’absence de DS
+conjointe pour les trois personnes en cause ne peut être reprochée à FPE.
+De même, dans le dossier 7.7 (1°) les éléments transmis étaient suffisants, sans qu’il ait été
+indispensable, pour permettre à Tracfin d’exploiter la DS, de mentionner, dans l’analyse des faits,
+l’identité du particulier qui a effectué plusieurs virements au bénéfice du client pour rémunérer son
+travail, qui figurait sur le relevé de comptes annexé.
+Ces deux dossiers doivent donc être écartés.
+48. À l’inverse, dans les 5 autres dossiers, FPE n’a pas respecté les obligations résultant des
+dispositions ci-dessus rappelées du III de l’article R. 561-31 du CMF.
+Dans le dossier 7.1, le client, qui était référencé par [Z] depuis le 5 mai 2020 dans la catégorie « non
+conviction terror » et qui a été visé par une mesure de gel des avoirs (cf. supra grief 3), a fait l’objet de
+deux DS, la première le 26 mai 2020 et la seconde le 6 novembre 2020. Or cette dernière ne faisait pas
+état de deux opérations qui, bien que non exécutées, auraient dû être mentionnées car elles auraient
+permis à Tracfin de compléter son analyse de l’ensemble des opérations de l’intéressé. La Commission
+relève toutefois que les éléments utiles à Tracfin étaient, pour le reste, mentionnés dans ces deux DS.
+Dans le dossier 7.3 (1°), plusieurs informations manquaient dans la DS du 15 juin 2020, qui ne
+mentionnait pas les nombreux virements provenant du compte de [U] (cf. dossier 7.2) ni les « virements
+écrous » effectués par la cliente pendant environ 2 ans au profit de son frère, [T], alors incarcéré pour
+des faits de terrorisme.
+Dans le dossier 7.4, les liens du client, inscrit dans la catégorie « terrorisme » par [Z] après avoir été
+condamné, avec son frère [V] et avec [F], tous deux anciens clients de FPE et tous deux mentionnés
+dans [Z] (le second avec une erreur sur ses éléments d’identité, cf. supra point 10), auraient dû figurer
+dans la DS adressée à Tracfin le 12 octobre 2018 ;
+Dans le dossier 7.5, certaines opérations du client ne sont pas mentionnées dans la DS du 27 août
+2018. FPE ne le conteste pas et se borne à attribuer cette lacune aux circonstances dans lesquelles la DS
+a été préparée ;
+Dans le dossier 7.6 (1°), la DS du 2 janvier 2020 fait état de virements pouvant correspondre au
+versement d’un salaire, alors que l’intéressé percevait par ailleurs des allocations chômage, mais omet
+de mentionner un flux distinct, provenant d’un autre employeur possible du client, ce que FPE ne
+conteste pas. La Commission tient néanmoins compte de ce que ces virements, non mentionnés dans le
+corps de la déclaration, figuraient sur le relevé d’opérations joint à la DS.
+49. En ce qui concerne la deuxième branche du grief, la poursuite a renoncé au reproche qu’elle avait
+formulé dans les 4 dossiers (dossiers 7.6 (2°) à 7.9) pour lesquels figurait la mention, erronée, de la
+qualité de PPE du client. Il y a lieu d’en prendre acte.
+Autorité de contrôle prudentiel et de résolution 14
+
+===== Page 15 =====
+Décision de la Commission des sanctions – procédure no 2022-02
+50. En ce qui concerne la troisième branche du grief, la Commission relève que FPE a adressé des
+DS mentionnant à tort que les clients étaient « occasionnels » (DS du 29 novembre 2019 et du 15 juillet
+2020 pour les clients [W] et [X], et DS du 15 juin 2020 concernant [B] et [T]). FPE indique qu’en raison
+de son modèle d’affaires, elle n’a pas de clients occasionnels et que les DS transmises permettaient à
+Tracfin de prendre connaissance des faits ayant motivé le soupçon. Dès lors, si l’erreur matérielle
+commise par FPE est établie, sa portée est très limitée, d’autant qu’elle n’affecte qu’un très faible
+nombre de dossiers.
+51. Le grief est donc fondé dans un périmètre réduit ainsi qu’il a été dit ci-dessus.
+C. Les déclarations de soupçon tardives
+52. En vertu de l’article L. 561-16 du CMF, « lorsqu'une opération devant faire l'objet de la
+déclaration prévue à l'article L. 561-15 a déjà été réalisée, soit parce qu'il a été impossible de surseoir
+à son exécution, soit que son report aurait pu faire obstacle à des investigations portant sur une
+opération suspectée de blanchiment des capitaux ou de financement du terrorisme, soit qu'il est apparu
+postérieurement à sa réalisation qu'elle était soumise à cette déclaration, la personne mentionnée à
+l'article L. 561-2 en informe sans délai le service prévu à l'article L. 561-23 ».
+53. Selon le grief 8, fondé sur ces dispositions, sur l’échantillon de DS analysées par la mission de
+contrôle, 11 étaient tardives (8.1 à 8.11).
+54. Dans le dossier 8.11, les opérations enregistrées sur le compte du client entre janvier et juillet
+2019 - perception de prestations sociales suivie de retraits d’espèces – ne justifiaient pas de DS en
+application de l’article L. 561-15 du CMF, faute pour la poursuite de démontrer que l’intéressé n’aurait
+pas dû, en raison de son statut de salarié, percevoir ces prestations. La poursuite n’établit donc pas que
+la DS du 26 mai 2020 était tardive.
+55. Dans les 10 autres dossiers, le retard dans l’envoi d’une déclaration à Tracfin est établi :
+- dans le dossier 8.1., l’incohérence des opérations, enregistrées début 2019 au débit et au crédit du
+compte du client, par ailleurs titulaire de deux comptes ouverts auprès de prestataires de services de
+paiement [Allemagne, établissement S1 et Royaume-Uni, établissement Q1], par virement et
+mouvements d’espèces (près de 20 000 euros en deux mois), aurait dû conduire FPE, eu égard à la
+profession déclarée de l’intéressé (« chauffeur ») et à ses revenus déclarés (compris entre 500 et 1 000
+euros par mois), à adresser sa DS à Tracfin sans attendre le 29 novembre 2019. Cette nécessité était
+renforcée par l’existence de flux entre le compte personnel du client et celui de son entreprise, au sujet
+desquels aucun justificatif n’a été recueilli.
+- dans le dossier 8.2, c’est à tort que FPE soutient qu’avant l’exercice par Tracfin de son droit de
+communication le 25 avril 2019, il n’y avait aucune raison d’effectuer une DS au motif que le compte
+du client ne présentait aucune opération suspecte. En effet, ce client, sans profession (« allocataire ») et
+recevant des prestations de Pôle Emploi, avait procédé à deux dépôts d’espèces, à deux mois d’intervalle,
+de 850 et 500 euros, respectivement les 28 février et 24 avril 2019. Surtout, le client avait reçu le 17 mai
+2019 un virement de 17 700 euros provenant de [P1], dont le motif n’avait pas été justifié, ainsi que 4
+virements d’un montant cumulé de 1 200 euros provenant du compte qu’il détenait dans les livres de
+[établissement S1], entre le 23 avril et le 3 juin 2019. En conséquence, la DS envoyée seulement le 29
+novembre 2019, peu après que le client eut fait l’objet d’une mesure de gel des avoirs, était tardive.
+- dans les dossiers 8.3, 8.4, 8.5 et 8.6, les mouvements, à compter d’octobre 2016, entre les comptes
+détenus par des clients appartenant à la même famille n’étaient pas justifiés économiquement au regard
+de leur situation « d’allocataire » (dossier 8.3), d’étudiante (dossier 8.5) ou de fonctionnaires (dossiers
+8.4 et 8.6). Ces opérations portaient en outre sur des montants très élevés (par exemple dans le dossier
+8.4 : 16 000 euros reçus de [A1] d’octobre 2017 à mars 2020 et 11 400 euros versés aux membres de sa
+famille entre août 2018 et mai 2020). [A1 – dossier 8.3] a effectué 303 paris qui lui ont permis, sur la
+période d’octobre 2016 à mars 2019, de percevoir 187 000 euros de gains versés par le PMU. Si FPE
+Autorité de contrôle prudentiel et de résolution 15
+
+===== Page 16 =====
+Décision de la Commission des sanctions – procédure no 2022-02
+soutient que le statut d’allocataire de ce client n’était pas incompatible avec le dépôt d’espèces sur son
+compte, ses versements - plus de 12 000 euros sur la même période - auraient dû être justifiés. Ce même
+client avait par ailleurs perçu 30 500 euros provenant de son association de football, dans un cadre non
+précisé. La DS adressée à Tracfin le 13 mai 2020 seulement, après que ce service eut exercé son droit
+de communication en février 2020, était donc tardive, sans que ce retard soit justifié par FPE. Il en est
+de même dans les trois autres dossiers.
+- dans le dossier 8.7, entre février 2016 et décembre 2018, plusieurs virements avaient été effectués
+par la cliente au bénéfice de son frère, [T], écroué après avoir été condamné pour association de
+malfaiteurs en relation avec une entreprise terroriste. Ces virements étaient en partie financés par les
+virements créditeurs d’une personne dénommée [U] de novembre 2017 à décembre 2018. Dès lors,
+l’envoi à Tracfin d’une DS le 15 juin 2020 seulement était tardif (cf. infra dossier 8.8).
+- dans le dossier 8.8, par les virements ci-dessus mentionnés, l’intéressé, qui n’appartient pas au
+cercle familial du bénéficiaire [T], avait permis à une personne détenue pour des faits de terrorisme de
+« cantiner ». En outre, ce client avait bénéficié de nombreux virements susceptibles de correspondre à
+une utilisation professionnelle d’un compte personnel. Si FPE soutient qu’il ne pouvait, avant le
+signalement reçu d’un établissement tiers, soupçonner l’existence d’un lien entre [T] et [U], les
+virements de ce dernier au bénéfice du premier étaient identifiables à partir du compte de [B]. Tracfin
+aurait donc dû être informé de ces opérations sans délai, avant le 3 novembre 2020.
+- dans les dossiers des époux [B1] (8.9) et [C1] (8.10), le compte de la première, dont la profession
+était inconnue et les revenus déclarés inférieurs à 500 euros par mois, avait enregistré au crédit, de mars
+à novembre 2019, 23 700 euros provenant de deux comptes dont son époux était titulaire et un montant
+à peu près équivalent avait été dépensé en tickets de la FDJ. Même si l’analyse de FPE l’a conduite à
+exclure la possibilité d’une fraude par rachat de billets gagnants, les tickets de la FDJ ayant été réglés
+par carte, les montants achetés (de l’ordre de 160 000 euros selon la poursuite) de même que les gains
+(notamment 71 000 euros en 86 virements de la FDJ entre septembre 2017 et septembre 2018), alors
+que le client avait, comme son épouse, déclaré des revenus mensuels inférieurs à 500 euros, auraient dû
+entrainer l’envoi immédiat d’une déclaration de soupçon. L’envoi d’une DS à Tracfin le 20 novembre
+2019 seulement était donc tardif.
+56. Le grief 8 est donc fondé, dans un périmètre réduit à 10 dossiers. Dans aucun de ces dossiers, le
+délai entre l’exécution des opérations et l’envoi d’une DS à Tracfin ne peut être justifié par les diligences
+faites par l’établissement.
+*
+57. Il résulte de tout ce qui précède que le dispositif de suivi et d’analyse des opérations de FPE était
+défaillant sur plusieurs points notables, ce qui affectait sa capacité à prévenir efficacement les risques
+de blanchiment des capitaux et de financement du terrorisme. La méconnaissance, dans plusieurs
+dossiers, des obligations de déclaration à Tracfin illustrent cette insuffisance.
+Par ailleurs, FPE n’était pas en mesure de respecter pleinement l’obligation de résultat à laquelle elle
+était tenue en matière de gel des avoirs, notamment du fait des carences de son dispositif de contrôle
+permanent.
+58. Il apparaît ainsi que FPE, qui a pourtant déclaré à l’audience être consciente du fait que son mode
+de fonctionnement très souple et son produit Nickel ne sauraient, au motif qu’ils contribuent à l’inclusion
+bancaire, la dispenser de prendre pleinement en compte les risques auxquels elle est exposée, mais
+justifient au contraire une vigilance particulière, a tardé à mettre en œuvre les mesures nécessaires pour
+se conformer à toutes ses obligations en matière de LCB-FT, alors même que, depuis 2017, elle est
+membre d’un groupe très important et qu’elle dispose de tous les moyens humains, techniques et
+financiers nécessaires.
+59. La Commission tient cependant compte du fait que plusieurs reproches ont été écartés.
+Par ailleurs, il convient de prendre également en compte le fait que FPE a engagé un certain nombre
+d’actions de remédiation et renforcé sa fonction « conformité », sans toutefois que l’efficacité de ces
+mesures, au demeurant trop tardives, puisse être appréciée avec précision.
+Autorité de contrôle prudentiel et de résolution 16
+
+===== Page 17 =====
+Décision de la Commission des sanctions – procédure no 2022-02
+Enfin, il y a lieu, pour fixer une sanction financière proportionnée, de tenir compte de la taille et de
+la situation financière de l’établissement.
+60. Compte tenu des éléments mentionnés aux points 57 à 59, les manquements retenus par la
+Commission justifient le prononcé d’un blâme et il y a lieu de prononcer en outre à l’encontre de FPE
+une sanction pécuniaire d’un million d’euros. En l’absence d’éléments de nature à établir qu’une
+publication sous forme nominative causerait à FPE un préjudice disproportionné et qu’elle
+méconnaîtrait, en l’espèce, l’équilibre entre l’exigence d’intérêt général à laquelle elle répond et les
+intérêts de la société, il y a en outre lieu de publier la présente décision au registre de l’ACPR sous forme
+nominative, pendant une durée de cinq ans. Elle y sera ensuite maintenue sous une forme non
+nominative.
+*
+* *
+PAR CES MOTIFS
+DÉCIDE :
+ARTICLE 1ER – Il est prononcé à l’encontre de la Financière des paiements électroniques un blâme
+et une sanction pécuniaire d’un million d’euros.
+ARTICLE 2 – La présente décision sera publiée au registre de l’ACPR pendant cinq ans sous une
+forme nominative, puis sous une forme ne permettant pas d’identifier la Financière des paiements
+électroniques, et pourra être consultée au secrétariat de la Commission.
+Le Président de la Commission
+des sanctions
+[Alain Ménéménis]
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification
+et dans les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 17

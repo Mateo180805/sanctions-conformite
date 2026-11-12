@@ -1,0 +1,466 @@
+===== Page 1 =====
+SOCIÉTÉ X
+Procédure no 2019-03
+–––––
+Blâme et sanction pécuniaire de
+10 millions d’euros
+–––––
+Audience du 26 février 2020
+Décision rendue le 11 mars 2020
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 4 mars 2019 par laquelle le Vice-président de l’Autorité de contrôle prudentiel et de
+résolution (ci-après l’« ACPR ») informe la Commission de ce que le Collège de supervision de l’ACPR (ci-
+après le « Collège »), statuant en sa formation sectorielle de l’assurance, a décidé d’ouvrir une procédure
+disciplinaire à l’encontre de la société X, enregistrée en qualité de compagnie d’assurance, sous le n° 2019-
+03 ;
+Vu la notification des griefs du 4 mars 2019 ;
+Vu les mémoires en défense des 5 juin, 23 septembre, 13 novembre et 18 décembre 2019, ainsi que les
+documents complémentaires versés par la société X, par lesquels cette dernière i) estime que certains griefs ou
+certaines parties de griefs ne sont pas fondés en fait ou en droit (griefs 1, 3-2 et 5) tandis que la portée d’un
+autre (grief 4) doit être fortement atténuée du fait de l’absence de préjudice subi par les assurés, ii) admet à
+l’inverse que d’autres griefs sont avérés (grief 2 et 3-3) mais indique qu’elle a d’ores et déjà rétabli les assurés
+dans leurs droits, iii) fait valoir que les griefs portent sur une minorité de contrats, non représentatifs de
+l’ensemble de son activité dans le domaine de la retraite supplémentaire et, de surcroît, issus de rachats
+successifs de portefeuilles d’autres entreprises d’assurance iv) souligne que des actions correctrices ont été
+engagées dès la fin 2017, soit avant la fin du contrôle sur place et v) demande que la décision à venir soit
+publiée sous une forme non nominative ;
+Vu les mémoires en réplique des 31 juillet, 16 octobre et 5 décembre 2019 par lesquels M. Jean-Luc
+Guillotin, représentant du Collège, estime i) que tous les griefs sont établis, ii) que les mesures correctrices
+engagées visent seulement à permettre à la société X de respecter ses engagements contractuels et iii) que la
+société ne démontre pas que la publication de la décision sous une forme nominative serait disproportionnée
+ou de nature à perturber gravement les marchés financiers ;
+Vu le rapport du 24 janvier 2020 de Mme Christine Meyer-Meuret, rapporteure, dans lequel celle-ci conclut
+que les 5 griefs sont établis, certains toutefois dans un périmètre réduit (griefs 1, 3 et 5) ;
+Vu les observations présentées le 7 février 2020 par M. Guillotin, représentant du Collège, sur le rapport
+de la rapporteure ;
+Vu les courriers du 24 janvier 2020 convoquant les parties à l’audience, ainsi que la direction générale du
+Trésor, et les informant de la composition de la Commission ;
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2019-03
+Vu les autres pièces du dossier, notamment le rapport de contrôle du 17 octobre 2018 ;
+Vu le code monétaire et financier (ci-après le « CMF »), notamment ses articles L. 612-1, L. 612-38, L. 612-
+39 et R. 612-35 à R. 612-51, dans leur rédaction applicable au moment du contrôle ;
+Vu le code des assurances, notamment ses articles L. 112-3, cinquième alinéa, L. 113-5, L. 132-27-1
+(ancien), R. 124-25, A. 132-11 et A. 343-1, dans leur rédaction applicable au moment du contrôle ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACPR, composée de M. Rémi Bouchez, Président, Mme Claudie Aldigé,
+M. Francis Crédot, M. Christian Lajoie et M. Denis Prieur ;
+Après avoir entendu, lors de sa séance non publique du 26 février 2020 :
+- Mme Meyer-Meuret, rapporteure, assistée de M. Fabien Patris ;
+- le représentant de la directrice générale du Trésor, qui a indiqué n’avoir pas d’observations à formuler ;
+- M..Guillotin, représentant du Collège, assisté de l’adjointe au directeur des affaires juridiques, du chef
+du service des affaires institutionnelles et du droit public, ainsi que d’une juriste au sein de ce service
+et de l’adjoint au chef du service de veille sur les contrats et les risques de la direction du contrôle des
+pratiques commerciales ; M. Guillotin a proposé à la Commission de prononcer un blâme et une
+sanction pécuniaire d’au moins 20 millions d’euros dans une décision publiée sous une forme
+nominative pendant 5 ans ;
+- la société X, représentée par son président-directeur général, assisté de la directrice en charge de
+l’activité retraite, de son secrétaire général […], ainsi que par Mes Antoine Juaristi, Martin Le Touzé et
+César Michel, avocats à la Cour (cabinet Herbert Smith Freehills) ;
+Après avoir délibéré en la seule présence de M. Bouchez, Président, Mme Aldigé, M. Crédot, M. Lajoie et
+M. Prieur, ainsi que de M. Jean-Manuel Clemmer, chef du service de la Commission des sanctions faisant
+fonction de secrétaire de séance ;
+1. Considérant que la société X est une compagnie d’assurance constituée sous la forme d’une société
+anonyme de droit français dont l’actionnaire majoritaire est la société E, filiale à 99,9 % […] de la société F
+dont les titres sont cotés à la Bourse de […] ; qu’elle est agréée pour contracter sous forme d’assurance directe
+ou de réassurance des engagements dont l’exécution dépend de la vie humaine et pour pratiquer des opérations
+de capitalisation ; qu’elle s’est notamment développée par le recours à des opérations de croissance externe,
+en particulier par l’acquisition en 2003 de la société A et la reprise de l’activité en France de la compagnie B
+qui avait elle-même acquis en 1996 le portefeuille de la société C ; qu’elle s’est spécialisée dans la conception
+et la distribution de solutions d’assurance vie épargne et retraite et exerce ses activités essentiellement en
+France ; qu’au 31 décembre 2018, elle disposait de 3,7 milliards d’euros de fonds propres ; qu’elle a encaissé,
+au cours de l’année 2018, 9,3 milliards d’euros de cotisations et a réalisé un résultat net de 270 millions
+d’euros ;
+2. Considérant que fin 2018, son activité retraite représentait un peu moins de 19 milliards d’euros
+d’encours, soit environ 20 % de l’encours total dont elle a la gestion (93 milliards d’euros) ; que plus de
+800 000 assurés avaient alors souscrit différents types des produits retraite qu’elle propose (Perp, contrats
+Madelin, articles 39, 82 ou 83 du code général des impôts) ; que les deux tiers de ces contrats étaient en phase
+de constitution des droits et un tiers en phase de restitution ;
+3. Considérant que la société X a fait l’objet, du 9 septembre 2016 au 10 avril 2018, d’un contrôle sur place,
+qui a donné lieu à la signature d’un rapport définitif le 17 octobre 2018 (ci-après le « rapport de contrôle ») ;
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2019-03
+qu’au vu de ce rapport, le Collège de l’ACPR, statuant en sous-collège sectoriel de l’assurance, a décidé, lors
+de sa séance du 14 février 2019, d’ouvrir la présente procédure disciplinaire ;
+I. Sur le non-respect de la piste d’audit
+4. Considérant que, selon l’article A. 343-1 du code des assurances, les organismes d’assurance sont
+assujettis à l’obligation suivante : « En ce qui concerne l'information comprise dans les comptes annuels
+soumis ou à soumettre à l’assemblée générale, d’un ensemble de procédures internes, appelé piste d'audit,
+doit permettre : / a) De reconstituer dans un ordre chronologique les opérations ; / b) De justifier toute
+information par une pièce d'origine à partir de laquelle il doit être possible de remonter par un cheminement
+ininterrompu au document de synthèse et réciproquement ; / c) D'expliquer l'évolution des soldes d'un arrêté
+à l'autre par la conservation des mouvements ayant affecté les postes comptables » ;
+5. Considérant que selon le grief 1, fondé sur ces dispositions, la société X n’a pas, à la suite d’opérations
+d’absorption et de transfert de portefeuilles ayant entraîné des migrations informatiques, conservé l’ensemble
+des données lui permettant d’assurer la piste d’audit et donc le suivi des contrats qu’elle a repris dans le cadre
+principalement de l’acquisition de la société B en 2003 ; que manquent ainsi pour ces contrats les données lui
+permettant de reconstituer, pour environ 18 900 assurés représentant un encours de 782 millions d’euros en
+tout, soit environ 4,5 % du portefeuille total de contrats de retraite supplémentaire, les cotisations versées, les
+frais prélevés et la participation aux bénéfices (ci-après « PB ») attribuée ; que notamment, (i) elle n’a
+conservé, pour les contrats collectifs issus de la compagnie B (17 000 assurés et 692 millions d’euros
+d’encours), que le montant de la provision mathématique au 31 décembre 2008 ; (ii) elle a regroupé
+informatiquement sous la même dénomination [C1], deux générations des conditions générales de ce contrat
+ainsi qu’une génération de celles du contrat (ci-après [C2]), ce qui lui interdit de savoir quelle génération de
+conditions générales est applicable aux assurés ayant souscrit un contrat sous la première appellation ; qu’à
+défaut, elle a systématiquement retenu les clauses de revalorisation appliquées en phase de constitution les
+moins favorables à l’assuré ; (iii) que s’agissant du contrat [C3], elle ne dispose plus des comptes de résultats
+antérieurs à 2007, ce qui ne lui permet pas de s'assurer que la comptabilité était réalisée conformément aux
+conditions générales et ce, alors qu’elle a reconnu avoir commis des erreurs dans l'élaboration des comptes de
+PB ; (iv) qu’enfin, elle ne dispose pas des conditions générales des contrats [C4] (encours d’environ 6 800
+euros), [C5] (encours de 1,4 million d’euros), [C6] (encours de 0,9 million d’euros) et [C7] (encours de 5
+millions d’euros), ce qui lui interdit de reconstituer les modalités de calcul et de revalorisation des prestations
+versées aux assurés conformément aux engagements pris ;
+6. Considérant, en premier lieu, que l’article A. 343-1 du code des assurances définit la piste d’audit en se
+référant aux informations comprises dans les comptes annuels soumis ou à soumettre aux assemblées générales
+des entreprises d’assurance ; que les opérations sur des contrats individuels, telles que les versements de
+cotisations, les prélèvements de frais et la PB, qui affectent les comptes annuels d’une entreprise d’assurance,
+font partie de celles qui sont soumises à la piste d’audit en application de cet article ; que, comme l’admet la
+société X, elles doivent donc, à des fins comptables, être justifiées par une pièce d’origine pendant le délai de
+10 ans prévu par l’article L. 123-22 du code de commerce, auquel renvoie l’article L. 341-2 du code des
+assurances ; qu’en revanche, contrairement à ce que soutient la société X, les dispositions de l’article A. 343-
+1 ne limitent pas l’exigence d’une piste d’audit à la partie des informations ayant une incidence directe sur les
+comptes consolidés ;
+7. Considérant, en deuxième lieu, qu’en 2017 la société X n’a pas été en mesure de fournir à la mission de
+contrôle les pièces d’origine justifiant, pour tous les contrats sur lesquels elle était interrogée, les opérations
+individuelles des assurés jusqu’à l’exercice comptable de 2007 ; qu’ainsi que le relève la poursuite, elle n’a pu
+communiquer, dans le périmètre des contrats repris de la compagnie B, que les provisions mathématiques
+établies au 31 décembre 2008 ; que le reproche est donc établi pour les années 2007 et 2008, années qui, à la
+différence des années antérieures, sont comprises dans le délai de 10 ans ci-dessus rappelé ; qu’ensuite,
+l’application de la clause de PB à 90 % pour les assurés des contrats VE et VESA a en revanche été réalisée
+par la société X sur la base des seules conditions générales qui lui avaient été communiquées par l’entreprise
+dont elle avait repris le portefeuille de contrats ; que les mouvements comptables qui en ont résulté étaient
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2019-03
+ainsi étayés par une pièce d’origine, de sorte qu’il n’y a pas eu, à proprement parler, de rupture de la piste
+d’audit, la méconnaissance de l’existence de contrats prévoyant une clause de PB plus favorable, et donc la
+mauvaise exécution des engagements contractuels, reconnue par la société X, témoignant plutôt d’une
+défaillance du contrôle interne, qui n’est pas dans le champ du présent grief ; qu’enfin, la société X a admis
+qu’elle ne disposait pas, au moment du contrôle sur place, des conditions générales des contrats [C4], [C5],
+[C6]et [C7]; que leur production pendant l’instruction de la présente procédure est sans conséquence sur le
+reproche ; qu’en revanche, la société X a pu reconstituer les comptes de résultat du contrat « RCR » à partir de
+2004, soit au-delà du délai de 10 ans fixé par l’article L. 123-22 du code de commerce ;
+8. Considérant, au final, que si les éléments produits par la société X conduisent à en réduire le périmètre,
+le grief 1, tiré de la constatation de ruptures de la piste d’audit concernant, au moment du contrôle sur place,
+plusieurs des portefeuilles de contrats transférés à la suite d’opérations de croissance externe, est néanmoins
+établi ;
+II. Sur les modifications contractuelles réalisées sans respecter le
+cinquième alinéa de l’article L. 112-3 du code des assurances
+9. Considérant que selon le cinquième alinéa de l’article L. 112-3 du code des assurances, « Toute addition
+ou modification au contrat d'assurance primitif doit être constatée par un avenant signé des parties » ;
+10. Considérant que selon le grief 2, fondé sur ces dispositions, dans le cadre d’une campagne d’avenants
+visant à diminuer les garanties tarifaires pour les assurés de 9 générations de conditions générales du contrat
+RCR, la société X a modifié, à compter du 1er janvier 2016, les conditions tarifaires de ce contrat (baisse du
+taux technique de 2,5 % à 0 % et passage d’une table de mortalité TPG 93 à une table de mortalité unisexe et
+composite basée sur les données pondérées des tables réglementaires en vigueur actuellement, soit une table
+TGF 05 pondérée à 70 % et une table TGH pondérée à 30 %) ; que toutefois, ces modifications ont été
+appliquées dès le 1er janvier 2015, alors que seules 3 des 12 conventions de ce contrat avaient à cette date fait
+l’objet d’un avenant signé par l’association souscriptrice concernée […]; que cette modification unilatérale a
+entraîné pour les assurés un préjudice financier de 0,8 million d’euros ;
+11. Considérant que la société X, qui ne conteste pas la matérialité du grief, précise qu’il ne résulte pas
+d’une volonté de modification unilatérale du contrat mais d’une erreur identifiée par elle avant la mission de
+contrôle et qu’elle a déjà rétabli les assurés concernés, soit près de 2 000 personnes, dans leurs droits, soit en
+majorant les points des contrats encore en cours de constitution, soit en allouant des compléments de rente
+pour les contrats en phase de restitution, pour un coût total de 1,1 million d’euros ; que ces mesures correctrices,
+mises en œuvre après le contrôle sur place, sont toutefois sans incidence sur le grief, qui est établi ;
+III. Sur le non-respect de certaines dispositions contractuelles
+12. Considérant que, selon l’article L. 113-5 du code des assurances, « lors de la réalisation du risque ou
+à l’échéance du contrat, l’assureur doit exécuter dans le délai convenu la prestation déterminée par le contrat
+et ne peut être tenu au-delà. » ;
+13. Considérant que selon le grief 3, fondé sur ces dispositions, la société X n’a pas exécuté correctement
+les engagements contractuels de certains de ses contrats retraite, soit en n’appliquant pas les bons paramètres
+techniques, soit en prélevant des frais non prévus, soit enfin en ne respectant pas les clauses de revalorisation
+financière ;
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2019-03
+A. En ce qui concerne le non-respect des paramètres techniques contractuels dans le calcul
+des rentes du contrat [C2]
+14. Considérant que selon le sous-grief 3-1, la société X n’a pas systématiquement appliqué les paramètres
+techniques contractuels qui déterminent le montant des prestations (taux technique et table de mortalité) du
+contrat [C2] (ex société C) ; qu’ainsi, alors que ce contrat prévoit, par renvoi à un barème annexé aux
+conditions générales, le calcul d’une rente viagère qui correspond approximativement à l’application d’une
+table de mortalité PF 60-64 avec un taux technique net de frais de 4,5 %, la société X a utilisé pour le calcul
+de la rente, dans certains dossiers, des paramètres moins favorables aux assurés ; que le préjudice subi par ces
+derniers a pu s’élever à plusieurs dizaines de milliers d’euros, ce qui a été constaté dans deux dossiers ;
+qu’ainsi, dans le cas de l'adhésion 3.1, le taux technique appliqué a été de 0,5 % et la table de mortalité retenue
+la TGF05, au lieu du taux de 4,5 % et de la table PF 60-64 correspondant au barème annexé au contrat, de
+sorte que le montant de la rente de base a été minoré de plus de 50 % ; que, de même, pour l'adhésion 3.2, la
+table utilisée a été la TPRV93 et non pas la PF60-64, ce qui a entrainé une diminution de la rente de base
+d'environ 14 % ; que, la société X n’ayant pas été en mesure de communiquer le nombre de contrats concernés
+par ces manquements, la mission de contrôle a réalisé une estimation aux termes de laquelle entre 600 et 750
+contrats seraient concernés, soit environ 30 % des adhésions liquidées de ce contrat, pour un encours de 35
+millions d’euros ; que l’impact financier subi par les assurés s’élèverait ainsi à plusieurs millions d’euros ;
+15. Considérant que la société X soutient, sans être démentie par la poursuite, que, dans 18 des 22 dossiers
+examinés par la mission de contrôle, la rente servie résulte exactement - et non approximativement - du barème
+correspondant à l’application de la table de mortalité PF 60-64 et d’un taux technique net de 4,5 % ; que dans
+deux autres cas (nos3.2 et 3.3), elle a fait primer les conditions particulières sur les conditions générales,
+conformément aux dispositions du troisième alinéa de l’article 1119 du code civil et à la jurisprudence de la
+Cour de cassation ; qu’ainsi, le taux applicable à 65 ans au capital constitutif était de 7,11 % dans le premier
+de ces dossiers et de 6,49 % à 60 ans dans le second, ce qui correspondait dans les deux cas à l’application
+d’une table TPRV93 et d’un taux de 4,5 % ; qu’elle admet enfin une erreur humaine dans les deux derniers
+dossiers (nos 3.1 et 3.4), mais souligne que les assurés ont été rétablis dans leurs droits, un arrérage unique,
+d’environ 670 euros dans le premier et de près de 20 000 euros dans le second, leur ayant été versé ;
+16. Considérant que la notification des griefs mentionne deux dossiers individuels sur les 22 examinés par
+la mission de contrôle pour illustrer le grief ; qu’au sujet du premier (n°3.1), la société X admet une application
+de conditions erronées qu’elle attribue à une erreur matérielle ; que dans le second (n°3.2), l’intéressé n’avait
+pas signé les conditions particulières et la seule communication d’une simulation de rente ne suffisait pas à
+écarter l’application des conditions générales plus favorables ;
+17. Considérant ainsi que ce reproche est illustré par les deux dossiers mentionnés issus de l’échantillon de
+22 dossiers examiné lors du contrôle ; que la circonstance que les autres dossiers de cet échantillon, à
+l’exception du dossier 3.4, ne fassent pas apparaître de mauvaise application des contrats en ce qui concerne
+les paramètres techniques n’est pas de nature à répondre au grief, qui fait reproche à la société X de n’avoir
+pas systématiquement appliqué ces paramètres ; que ce grief est en conséquence établi ; que l’application de
+conditions non conformes aux stipulations du contrat est susceptible de générer des préjudices importants pour
+certains assurés ; que, toutefois, les estimations de la poursuite sur le nombre total de dossiers concernés par
+le manquement, qui résultent d’extrapolations, ne sont pas suffisamment étayées pour pouvoir être prises en
+compte ;
+B. En ce qui concerne le prélèvement de frais indus sur le contrat [C2]
+18. Considérant que selon le sous-grief 3-2, la société X a prélevé des frais indus sur le contrat [C2] ; qu’en
+effet, pour les assurés ayant liquidé leur plan d’épargne avant la fin théorique de celui-ci, les frais d’acquisition
+futurs qui auraient dû être payés par l’assuré s’il avait cotisé jusqu’au bout ont été retranchés du montant du
+capital constitutif de la rente ; que dans les 12 dossiers liquidés avant la fin du terme initialement prévu par le
+plan de retraite examinés par la mission de contrôle, le capital constitutif a ainsi été minoré en moyenne de 2,6
+%, pour un préjudice total de 31 000 euros ; qu’à titre d’exemple, l’écart entre le capital constitutif utilisé pour
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2019-03
+le calcul de la rente et le compte retraite revalorisé dont dispose réellement l’assuré a pu avoisiner 9 % pour
+un assuré ayant liquidé son contrat un peu moins de 5 ans avant le terme ; que selon la mission de contrôle, ce
+manquement pourrait concerner environ 1 500 contrats pour un encours de 87 millions d’euros, avec un
+préjudice total de 2 millions d’euros ;
+19. Considérant que, selon les explications de la société X non démenties par la poursuite, les écarts
+constatés par la mission de contrôle résultent uniquement de l’application aux frais d’acquisition prévus par le
+contrat du procédé dit de « zillmérisation », qui consiste à soustraire du montant de la provision mathématique
+la valeur actuelle des chargements futurs résultant d’un engagement de paiement de primes pris par l’assuré à
+la souscription ; que la société X soutient qu’elle n’a fait qu’appliquer les stipulations relatives aux frais
+d’acquisition de ce contrat et les dispositions de l’ancien article L. 331-1 du code des assurances, aux termes
+desquelles « Les provisions mathématiques constituées par les entreprises d'assurance-vie et de capitalisation
+sont calculées en tenant compte, dans la détermination de l'engagement de l'assuré ou du souscripteur, de la
+partie des primes devant être versée par l'intéressé et représentative des frais d'acquisition du contrat, lorsque
+ces frais ont été portés en charge déductible par l'entreprise avant la fin de l'exercice à la clôture duquel la
+provision est constituée. » ;
+20. Considérant, cependant, que les conditions générales du contrat [C2] faisaient seulement état de frais
+d’acquisition de 3,5 % sur les trois premières cotisations annuelles, sans que leurs modalités de calcul, et
+notamment leur précompte, ne soient précisées ; qu’en cas d’incertitude sur ce point, qui aurait pu notamment
+résulter de la différence de rédaction entre les conditions générales du contrat [C2] et celles du contrat [C1]
+qui, elles, prévoyaient bien, en cas de sortie anticipée du contrat, une déduction « de la valeur actuelle viagère
+des chargements d'acquisition », la société X aurait dû interpréter les stipulations du contrat [C2] dans un sens
+favorable au souscripteur ; que les dispositions invoquées de l’ancien article L. 331-1 du code des assurances
+n’impliquaient pas que l’assureur puisse, indépendamment des termes des conditions générales, précompter la
+totalité des frais qui auraient dû être payés jusqu’au terme initialement prévu du contrat ; qu’ainsi le reproche
+est établi ; que toutefois, la poursuite n’explicite pas les hypothèses permettant, dans le cas d’une personne
+prenant sa retraite après une année de cotisation et non 10 ans plus tard comme cela avait été initialement
+prévu, d’aboutir à des frais d’acquisition indus approchant 30 % des versements de l’intéressé, pourcentage
+que la société X conteste et qui diffère fortement de celui mentionné dans la notification des griefs, de l’ordre
+de 2 % en moyenne ; qu’en outre, il peut être tenu compte, d’une part, de ce que les contrats [C2] que la société
+X a eu à mettre en œuvre étaient anciens, rédigés en des termes imprécis sur ce point et provenaient d’un autre
+assureur, et, d’autre part, de ce que, par ailleurs, le précompte des frais d’acquisition actualisés a pour objet de
+compenser financièrement une charge immédiatement subie par l’assureur au bénéfice de l’apporteur
+d’affaires ;
+C. En ce qui concerne l’application de clauses de revalorisation financière erronées pour
+certains contrats
+21. Considérant que selon le sous-grief 3-3, la société X n’a pas respecté les clauses de revalorisation
+financière prévues dans certains de ses contrats ; qu’ainsi, depuis 2009, elle n’a pas appliqué la formule prévue
+par les conditions générales des contrats [C8], [C9]et [C1] ; qu’il en est résulté, pour les assurés, un préjudice
+compris entre 3,1 et 3,6 millions d’euros ;
+22. Considérant que la société X, qui ne conteste pas cette partie du grief, soutient qu’il s’agit d’une erreur et
+souligne la faible part que représentent ces 3 contrats dans l’encours global de son activité retraite ; qu’elle
+indique avoir rétabli les assurés dans leurs droits en engageant un vaste plan d’actions correctrices qui l’ont
+conduite à leur reverser près de 4 millions d’euros, montant qui, selon les estimations de l’entreprise,
+correspond au préjudice subi par ceux-ci ; que, toutefois, ces actions correctrices, postérieures au contrôle sur
+place de l’ACPR, sont sans incidence sur la caractérisation du manquement, qui est établi ;
+23. Considérant que le grief 3 est établi dans toutes ses parties dans les conditions précisées ci-dessus ;
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2019-03
+IV. Sur le non-respect de certaines règles comptables propres aux
+PERP
+24. Considérant que l’article R. 144-25 du code des assurances précise l’assiette des frais qui peuvent être
+prélevés « 1° Sur les cotisations versées ou les montants transférés vers le ou hors du plan par les adhérents ;
+/ 2° Sur les montants résultant de conversions entre les droits exprimés en euros et ceux exprimés en unités de
+compte ; / 3° Sur le montant des droits individuels des adhérents ; / 4° Sur la performance de la gestion
+financière du plan ; / 5° Sur les prestations versées au titre du plan ; / 6° Sur une combinaison de ces
+éléments. » ; qu’il dispose en outre que « Le plan prévoit les modalités de détermination et de versement de
+ces prélèvements. / La part des prélèvements annuels sur les actifs du plan, y compris ceux effectués pour le
+comité de surveillance ou, le cas échéant, pour l'association souscriptrice du plan en qualité de groupement,
+est individualisée et indiquée aux adhérents au moins annuellement, en distinguant les prélèvements effectués
+au titre des engagements en unités de compte de ceux perçus au titre des autres engagements. / Si la ou les
+premières cotisations ou les montants transférés font l'objet d'une affectation ou de prélèvements particuliers
+supérieurs à ceux des années suivantes, cette affectation ou ces prélèvements font l'objet d'une information
+spécifique. » ; que l’article A. 132-11 du même code précise les modalités de calcul, à partir d’un compte de
+participation aux résultats, du montant de la PB attribuée dans le cadre de ce type de contrat ;
+25. Considérant que selon le grief 4, fondé sur ces dispositions, la société X élabore chaque année un
+compte de résultat utilisé pour déterminer le montant de la PB à verser à la fin de l’exercice pour chacun des
+PERP qu’elle commercialise ([P1], [P2], [P3] et [P4]) ; qu’à la fin de chaque exercice comptable, la société X
+enregistre une écriture de régularisation, via le poste « autres charges non techniques », permettant d'annuler
+le résultat technique sur chaque plan ; que cette pratique, qui revient à faire abstraction du résultat de mortalité
+généré et donc de l'aléa inhérent aux contrats de retraite supplémentaire, est susceptible de léser les assurés en
+cas de boni constatés sur la mortalité ; qu’elle concerne environ 57 600 adhésions pour un encours de 479
+millions d’euros ;
+26. Considérant que la société X ne conteste pas avoir procédé aux écritures de régularisation reprochées,
+qu’elle justifie par l’existence d’écarts comptables non expliqués, qui pouvaient soit relever d’opérations
+propres à ces plans, soit résulter de simples erreurs humaines, et dont le maintien aurait pu contrevenir aux
+règles de cantonnement des PERP ; que toutefois, en passant ces écritures, la société X a, en cas d’écart positif,
+affecté ces sommes à ses comptes de fonds propres et ainsi prélevé des charges non prévues par la
+réglementation ; que si, selon ses déclarations, non contredites par la poursuite, le solde de ces opérations a été
+globalement positif pour les assurés de tous ces PERP, sur la période de 2011 à 2018, certains assurés ont pu
+subir les conséquences d’une neutralisation défavorable une année mais ne plus être présents pour bénéficier,
+ultérieurement, d’une neutralisation favorable ; que la société X a en outre indiqué que, désormais, en cas
+d’écart positif, les montants sont conservés dans la comptabilité du PERP, tandis que les résultats techniques
+négatifs non expliqués lui sont désormais transférés ; que, toutefois, cette action correctrice, postérieure au
+contrôle, est sans conséquence sur le grief, qui est établi ;
+V. Sur le devoir de conseil dans le cadre d’opérations de transferts
+internes de contrat d’assurance retraite
+27. Considérant que, selon les dispositions de l’article L. 132-27-1 du code des assurances, en vigueur au
+moment du contrôle sur place, les entreprises d’assurance doivent, avant la conclusion d’un contrat d’assurance
+individuel comportant des valeurs de rachat, d’un contrat de capitalisation, ou avant l'adhésion à un contrat
+mentionné à l'article L. 132-5-3 ou à l'article L. 441-1 de ce code, préciser les exigences et besoins exprimés
+par le souscripteur ou l'adhérent ainsi que les raisons qui motivent le conseil fourni quant à un contrat
+déterminé ; que ces précisions, qui reposent en particulier sur les éléments d'information communiqués par le
+souscripteur ou l'adhérent sur sa situation financière et ses objectifs de souscription, sont adaptées à la
+complexité du contrat d'assurance ou de capitalisation proposé ; que, pour l'application de ces dispositions,
+l'entreprise d'assurance s'enquiert auprès du souscripteur ou de l'adhérent de ses connaissances et de son
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2019-03
+expérience en matière financière ; que les dispositions de cet article ont été reprises et complétées dans le
+nouvel article L. 522-5 du code des assurances ;
+28. Considérant que selon le grief 5, fondé sur ces dispositions, la société X a proposé à ses clients
+détenteurs de contrats de retraite supplémentaire le transfert interne, sans incidence fiscale, de leurs droits en
+cours de constitution vers un autre contrat de retraite, en ne précisant suffisamment ni les exigences et besoins
+exprimés par le souscripteur ou l'adhérent ni les raisons qui motivent le conseil fourni quant au contrat qu’elle
+proposait ; que la mission de contrôle a examiné 20 dossiers de transferts internes dont 10 pour lesquels
+l’adhésion au contrat d’accueil est directement liée au transfert (dossiers 5.1 ; 5.2 ; 5.3 ; 5.4 ; 5.5 ; 5.6; 5.7 ;
+5.8 ; 5.9 et 5.10) ; que la « fiche conseil » est absente dans 4 de ces 20 dossiers (5.3 , 5.9, 5.11 et 5.12) ; que
+ces fiches, lorsqu’elles existent, sont de plus lacunaires, tout d’abord dans la formalisation du recueil des
+exigences et besoins du client, puisqu’elles ne mentionnent que des objectifs prédéfinis et génériques qui ne
+sont pas de nature à aider celui-ci à déterminer et hiérarchiser ses propres objectifs ; qu’elles ne mentionnent
+pas la détention d'un contrat de retraite supplémentaire de même finalité déjà souscrit ; qu’elles sont lacunaires
+également en ce qui concerne la motivation du conseil donné et ne comprennent aucun emplacement
+permettant de comprendre pour quelles raisons un nouveau contrat a été proposé en remplacement du contrat
+initial ; que, de plus, l’adhérent n’a pas reçu une information suffisante sur les conséquences de ce transfert ;
+qu’à ce titre, sur les dix demandes de transfert interne, sept ont été réalisées en utilisant un formulaire ne
+comportant aucun avertissement sur les conséquences financières qu’il impliquait (dossiers 5.1, 5.3, 5.4, 5.5,
+5.7, 5.8 et 5.9), une sans formulaire (dossier 5.10) et les deux dernières (dossiers 5.2 et 5.6) en utilisant des
+formulaires comportant un avertissement insuffisamment explicite sur les éléments de tarification du contrat
+d’accueil ; que, dans ces dix dossiers, les transferts internes ont été effectués dans des conditions défavorables
+aux intérêts de l’adhérent, le taux technique du contrat d’accueil étant inférieur à celui du contrat d’origine
+tandis que, dans sept cas (dossiers 5.3, 5.4, 5.5, 5.6, 5.7, 5.8 et 5.9), des frais ont été appliqués aux versements
+effectués, à hauteur de 4,95 % pour trois d’entre eux ;
+29. Considérant, en premier lieu, que les fiches conseil que la société X utilisait au moment du contrôle,
+qui comportaient un tableau à double entrée avec des cases à cocher, dans lequel les contrats proposés étaient
+présentés en colonnes, face à la description, en une quinzaine de lignes, des besoins et exigences du client,
+notamment en ce qui concerne ses préférences en matière de risque, performances et pilotage des supports et
+de disponibilité de l’épargne, ne répondaient qu’imparfaitement aux exigences réglementaires dans ce
+domaine ; que si la société X souligne que l’article L. 132-27-1 n’est prescriptif et précis ni sur la formalisation
+du recueil des exigences et besoins du client ni sur l’expression de la motivation du conseil fourni, les
+obligations mises en place par cet article sont claires ; que la Commission a déjà indiqué que l’utilisation
+d’objectifs génériques prédéfinis et non hiérarchisés ne peut permettre d’en respecter les dispositions (décision
+du 18 mai 2017, procédure n° 2016-04) ; que cette analyse s’applique aux contrats d’assurance retraite, même
+si les objectifs poursuivis par le client peuvent être moins nombreux ou plus simples que pour d’autres
+catégories de contrats ; qu’elle permet notamment de traiter les éventuelles contradictions entre les différents
+objectifs qu’un client indique poursuivre ; que l’information d’une détention, par le client, d’un autre contrat
+de retraite, doit également être recueillie à ce même titre ; que, de même, s’agissant de la motivation du conseil
+fourni, des formulations stéréotypées mettant en évidence certaines caractéristiques du produit ne permettent
+pas d’apprécier l’adéquation entre les besoins du souscripteur et celui-ci (décision du 20 juillet 2015, procédure
+n° 2014-01) ; que ces carences sont accentuées lorsque les fiches habituellement utilisées dans le cadre du
+processus d’adhésion à un premier contrat le sont dans le cadre d’un transfert interne et qu’elles ne prévoient
+donc pas de rubrique portant sur les conséquences financières d’un tel transfert ;
+30. Considérant, en second lieu, que la société X admet que dans 2 des 4 dossiers mentionnés (5.3 et 5.11),
+la fiche conseil fait défaut ; qu’elle produit cette fiche dans un troisième (dossier 5.9) tandis que la date de
+souscription du contrat, dans le dernier dossier pour lequel un défaut de fiche conseil est reproché (dossier
+5.12), est antérieure à l’entrée en vigueur de l’article L. 132-27-1 du code des assurances ; qu’ensuite, parmi
+les 10 dossiers pour lesquels l’adhésion au contrat d’accueil est directement liée au transfert, 3 doivent être
+écartés, soit parce qu’il ressort de la lecture de la fiche conseil que le transfert effectué est conforme au seul
+objectif indiqué par le client (dossier 5.4), soit parce que les clients n’ont pas rempli le tableau récapitulant
+leurs objectifs et besoins mais ont coché la case de la fiche conseil dans laquelle ils reconnaissent « pleinement
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2019-03
+assumer les choix relatifs à [leurs] besoins et exigences et en assumer les conséquences » (dossiers 5.3 et
+5.12) ; qu’ainsi, le grief n’est illustré que par une partie des dossiers mentionnés ;
+31. Considérant que, dans les conditions précisées ci-dessus, le grief est établi ; que si la société X souligne
+qu’elle a déjà fait évoluer ses procédures et pratiques, ces mesures constituent des actions correctrices,
+postérieures au contrôle et donc sans incidence sur le grief ;
+*
+* *
+32. Considérant qu’il résulte tout d’abord de ce qui précède que la société X n’a pas respecté les clauses de
+revalorisation de certains de ses contrats dont les adhérents ont, en conséquence, subi un préjudice (sous-grief
+3.3) ; qu’en outre, elle n’a pas, au moment du contrôle, été en mesure de fournir les pièces d’origine justifiant
+les opérations se rapportant à quelques contrats d’assurance retraite (grief 1) ; que des modifications ont été
+appliquées à un contrat sans avoir été précédemment validées par l’association souscriptrice concernée (grief
+2) ; que les paramètres techniques (table de mortalité utilisée et taux technique appliqué) du contrat [C2] n’ont
+pas été correctement appliqués dans tous les cas (sous-grief 3.1) ; que des frais d’acquisition ont été
+précomptés, bien que leur mode de calcul n’ait pas été précisé dans ce contrat (sous-grief 3.2) ; que, pour les
+PERP que commercialise la société X, des écritures comptables de régularisation ont été passées qui ont, dans
+certains cas, conduit à affecter les écarts positifs à ses fonds propres (grief 4) ; que, lors d’opérations de
+transfert interne de contrats, le recueil des exigences et besoins des clients et l’expression de la motivation du
+conseil fourni ont été effectués sans que soient totalement respectées les obligations applicables dans ce
+domaine (grief 5) ;
+33. Considérant, toutefois, que le périmètre d’un grief a été réduit (grief 1), tandis que des griefs ou parties
+de griefs peuvent être relativisés (sous-griefs 3.1, 3.2 et grief 5) ; que, de plus, s’il appartenait à la société X
+de respecter dans tous les cas ses obligations légales en matière de piste d’audit et les stipulations de tous ses
+contrats, quelles que soient leur ancienneté et leur origine, les insuffisances relevées ont principalement trait à
+un petit nombre de contrats très anciens, qu’elle n’a pas elle-même commercialisés et qui lui ont été transférés
+après avoir fait l’objet, pour certains d’entre eux, d’un précédent transfert (contrats de la société C) ; que ces
+contrats représentent globalement un très faible pourcentage à la fois de ses assurés et des provisions
+mathématiques de son activité retraite ; que, de plus, la société X a mis en œuvre un « plan d’actions renforcé »
+dans le domaine de la retraite pour un coût de 24 millions d’euros, dont elle indique qu’il traduit son ambition
+de placer son activité retraite au meilleur niveau de conformité, et qui va au-delà du champ couvert par la
+présente procédure disciplinaire ; qu’elle a ainsi confié toutes les compétences sur cette activité à un
+département dédié ; que ce plan comporte notamment des reversements aux assurés permettant de couvrir le
+préjudice qu’ils ont subi du fait des manquements qu’elle reconnait, le maintien, depuis 2018, des écarts
+positifs constatés dans la comptabilité des PERP ainsi qu’une modification de la fiche conseil et la rédaction
+puis la diffusion interne d’une procédure sur les transferts de contrats et la mise à jour du formulaire
+correspondant; que, si elle devra, le cas échéant, être contrôlée, la réalité des telles actions a déjà été vérifiée
+par le cabinet [d’audit et de conseil] D, dont le rapport du 12 décembre 2019 a été versé au dossier ; que, fin
+2019, un peu plus de 5 millions d’euros avaient été reversés par la société X aux assurés ou bénéficiaires
+concernés, au titre de son évaluation du préjudice résultant pour eux des insuffisances comprises dans le
+périmètre des griefs ;
+34. Considérant que les manquements retenus par la Commission justifient, compte tenu de leur nature et
+de leur durée, le prononcé d’un blâme ; qu’en tenant compte des éléments d’atténuation mentionnés ci-dessus
+il y a lieu, dans le respect du principe de proportionnalité au regard de l’assise financière de la société X, de
+prononcer en outre à son encontre une sanction pécuniaire de 10 millions d’euros ;
+35. Considérant que la société X soutient que, dans le nouvel environnement concurrentiel créé par les
+dispositions de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises
+(dite loi PACTE) sur la portabilité des produits d’épargne retraite, la publication de la présente décision sous
+forme nominative lui causerait un préjudice disproportionné ; qu’en conséquence elle demande que celle-ci
+soit publiée sous une forme anonyme ; qu’elle demande également que le nom des contrats mentionnés dans
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2019-03
+la notification des griefs ne soit pas publié ; que toutefois, au regard de la nature des griefs retenus par la
+Commission, d’où il est résulté, avant indemnisation, un préjudice pour certains clients, la publication de la
+présente décision sous forme nominative n’est pas de nature à lui causer un préjudice disproportionné ; que la
+Commission estime en outre que la mention, dans la version publiée de la décision, du nom des contrats
+concernés par la présente procédure fait partie des éléments d’information qui doivent être portés à la
+connaissance du public ; qu’il y a donc lieu de publier la présente décision au registre de l’ACPR sous forme
+nominative mentionnant, outre celui de l’entreprise, le nom des contrats concernés par les griefs, pendant une
+durée de 5 ans ; qu’elle y sera ensuite maintenue sous une forme non nominative ;
+*
+* *
+PAR CES MOTIFS
+DÉCIDE :
+ARTICLE 1ER – Il est prononcé à l’encontre de la société la société X un blâme et une sanction pécuniaire
+de 10 millions d’euros (dix millions d’euros).
+ARTICLE 2 – La présente décision sera publiée au registre de l’ACPR pendant cinq ans sous une forme
+nominative, puis sous une forme anonyme, et pourra être consultée au secrétariat de la Commission.
+Le Président de la Commission
+des sanctions
+[Rémi Bouchez]
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification et
+dans les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 10

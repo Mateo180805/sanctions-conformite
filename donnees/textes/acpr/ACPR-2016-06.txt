@@ -1,0 +1,527 @@
+===== Page 1 =====
+BNP PARIBAS
+Procédure no 2016-06
+–––––
+Blâme et sanction pécuniaire de
+10 millions d’euros
+–––––
+Audience du 12 mai 2017
+Décision rendue le 30 mai 2017
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 25 juillet 2016 par laquelle le Président de l’Autorité de contrôle prudentiel et de résolution
+(ci-après l’ACPR) informe la Commission de ce que le Collège de supervision de l’ACPR (ci-après le
+Collège), statuant en sa formation de Collège restreint, a décidé d’ouvrir une procédure disciplinaire à
+l’encontre de BNP Paribas (ci-après BNPP) – 16, boulevard des Italiens, 75009 Paris –, enregistrée sous le
+numéro 2016-06 ;
+Vu la notification des griefs du 25 juillet 2016 ;
+Vu les mémoires en défense des 21 octobre 2016 et 20 janvier 2017, et la réponse aux demandes du
+rapporteur, ainsi que les pièces qui les accompagnent, par lesquels BNPP (i) reconnaît que l’organisation de
+son dispositif de déclaration de soupçon (DS) en France connaissait encore des imperfections à la date de la
+mission de contrôle qui a débuté en juin 2015, (ii) souligne que ces dernières avaient déjà, en grande partie,
+été identifiées avant le début de cette mission et que la plupart étaient corrigées au 31 décembre
+2016, demande, au regard des actions correctrices entreprises, (iii) que les griefs soient à tout le moins
+significativement relativisés, lorsqu’ils ne peuvent être écartés et (iv) que la décision à intervenir ne soit pas
+publiée ou, à tout le moins, que sa publication soit effectuée sous une forme non nominative et (v) sollicite
+enfin que la séance de la Commission se tienne à huis clos ;
+Vu le mémoire du 13 décembre 2016, par lequel M.. Christian Poirier, représentant du Collège, maintient
+l’ensemble des griefs notifiés ;
+Vu le rapport du 31 mars 2017 de Mme Elisabeth Pauly, rapporteur, dans lequel celle-ci conclut que cinq
+des sept griefs notifiés sont entièrement établis, qu’un grief doit être retenu dans un périmètre réduit et qu’un
+autre doit être écarté ;
+Vu les courriers du 10 avril 2017 convoquant les parties à l’audience, les informant de la composition de
+la Commission et de ce qu’il sera fait droit à la demande présentée par BNPP tendant à ce que cette audience
+ne soit pas publique ;
+Vu les observations présentées le 25 avril 2017 par BNPP sur le rapport du rapporteur ;
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2016-06
+Vu les autres pièces du dossier, notamment le rapport de contrôle du 26 janvier 2016 et les documents
+versés par le représentant du Collège en réponse aux demandes du rapporteur ;
+Vu le code monétaire et financier (CMF), notamment ses articles L. 561-15, L. 561-16, L. 612-39, R. 561-
+38 et R. 612-35 à R. 612-51, dans leur rédaction en vigueur au moment des faits ;
+Vu le règlement no 97-02 relatif au contrôle interne des établissements de crédit et des entreprises
+d’investissement (ci-après le règlement no 97-02), notamment son article 11-7 ;
+Vu l’arrêté du 3 novembre 2014 relatif au contrôle interne des entreprises du secteur de la banque, des
+services de paiement et des services d’investissement soumises au contrôle de l’Autorité de contrôle
+prudentiel et de résolution (ci-après l’arrêté du 3 novembre 2014), notamment ses articles 46, 50, 51, 52, 55,
+254 et 255 ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACPR, composée de M. Rémi Bouchez, Président, de Mme Claudie
+Aldigé, de M. Jean-Pierre Jouguelet et de M. Thierry Philipponnat ;
+Après avoir entendu, lors de sa séance non publique du 12 mai 2017 :
+− Mme Pauly, rapporteur, assistée de M. Fabien Patris, son adjoint ;
+− M. Rodolphe Lelté, représentant de la directrice générale du Trésor, qui a indiqué ne pas avoir
+d’observations à formuler ;
+− M. Poirier, représentant du Collège de l’ACPR, assisté de l’adjointe au directeur des affaires juridiques de
+l’ACPR, de l’adjointe au chef du service des affaires institutionnelles et du droit public, d’une juriste au
+sein de ce service et de la directrice de la 1ère direction du contrôle des banques ; M. Poirier a proposé le
+prononcé d’un avertissement assorti d’une sanction pécuniaire d’au moins 10 millions d’euros, dans une
+décision publiée sous une forme nominative ;
+− BNPP, représentée par le responsable de la fonction Conformité pour le groupe et membre du comité
+exécutif, assisté de l’adjointe au responsable conformité sécurité financière Groupe (Paris), de la
+responsable sécurité financière de la banque de détail de France (BDDF), de la responsable juridique de la
+sécurité financière (Paris), ainsi que par Mes Jean-Guillaume de Tocqueville, Benjamin Delaunay et
+Valentin Olivet (cabinet Gide Loyrette Nouel AARPI), avocats à la Cour ;
+Les représentants de BNPP ayant eu la parole en dernier ;
+Après avoir délibéré en la seule présence de M. Bouchez, Président, de Mme Aldigé, de M. Jouguelet et de
+M. Philipponnat ainsi que de M. Jean-Manuel Clemmer, chef du service de la Commission des sanctions
+faisant fonction de secrétaire de séance ;
+1. Considérant que BNPP est une société anonyme agréée en qualité d’établissement de crédit, issue de la
+fusion, en 1966, de la Banque nationale pour le commerce et l’industrie (BNCI) et du Comptoir national
+d’escompte de Paris (CNEP), et de celle, en 2000, de cet ensemble avec la Banque de Paris et des Pays-Bas
+(Paribas) ; qu’en 2016, le groupe BNPP, dont elle est la maison mère, était présent dans 74 pays, comptait
+plus de 192 000 collaborateurs et disposait de 100 milliards d’euros de capitaux propres ; que, la même
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2016-06
+année, BNPP a réalisé un produit net bancaire de 43 milliards d’euros, pour un résultat net de 7,7 milliards
+d’euros ; que le groupe BNPP est organisé en 3 pôles ; Retail Banking, Corporate and Investment Banking et
+Investment solutions ; qu’au sein du premier pôle, l’activité de banque de détail en France regroupe les
+métiers BDDF Retail, BDDF Enterprise, les opérations après-vente et la banque privée en France ainsi que
+les services financiers spécialisés ; que, organisée en 8 directions de réseau regroupant 84 groupes d’agences,
+28 centres d’affaires et des centres de banque privée, elle comprend également les filiales outre-mer et la
+banque en ligne ; qu’à la date du contrôle, elle employait plus de 30 000 collaborateurs ;
+2. Considérant que BNPP a fait l’objet d’un contrôle sur place du 25 juin au 2 octobre 2015, dont
+l’objectif était d’analyser ses pratiques en matière de déclaration de soupçon (DS) en France ; que ce contrôle
+a donné lieu à la signature d’un rapport définitif le 26 janvier 2016 (ci-après le rapport de contrôle) ; qu’au
+vu de ce rapport, le Collège a décidé, lors de sa séance du 5 juillet 2016, d’ouvrir la présente procédure
+disciplinaire ;
+I. Sur l’organisation et les moyens alloués
+au dispositif de déclaration de soupçon
+A. Sur l’adaptation et la mise à jour des procédures
+relatives à l’élaboration des déclarations de soupçon
+3. Considérant que le 4o du I de l’article R. 561-38 du CMF prévoit que les organismes assujettis
+« définissent les procédures à appliquer pour le contrôle des risques, la mise en œuvre des mesures de
+vigilance relatives à la clientèle, la conservation des pièces, la détection des transactions inhabituelles ou
+suspectes et le respect de l’obligation de déclaration au service Tracfin » ; que, selon les articles 254 et 255
+de l’arrêté du 3 novembre 2014, « Les entreprises assujetties élaborent et tiennent à jour des manuels de
+procédures adaptés relatifs à leurs différentes activités » et « établissent, dans les mêmes conditions, une
+documentation qui précise les moyens destinés à assurer le bon fonctionnement du contrôle interne » ;
+4. Considérant que selon le grief 1, fondé sur ces dispositions, les procédures de l’établissement relatives
+aux DS et à leur traitement opérationnel n’avaient pas, à la date du contrôle de juin 2015, été actualisées ou
+créées pour tenir compte du transfert de compétences intervenu de février 2013 au 31 mars 2015 entre la
+cellule anti-blanchiment (CAB), rattachée à la Conformité Groupe, et le pôle d’investigation et de détection
+des opérations suspectes (PIDOS), relevant du service dédié à la Conformité de BDDF ;
+5. Considérant que la fonction Conformité de BNPP faisait l’objet, à la date du contrôle sur place, d’une
+réorganisation de grande ampleur faisant suite à la sanction prononcée à son encontre par les autorités
+américaines ; que, pour autant, BNPP n’était pas dispensée de son obligation de disposer de procédures
+décrivant de manière exacte l’organisation de sa fonction déclarative et intégrant donc le transfert de
+compétences opéré entre la CAB et le PIDOS dans le cadre du projet « Cerise », lui-même engagé à la suite
+de la mission de contrôle diligentée en 2012 ; qu’alors que ce transfert a été décidé en février 2013 puis mis
+en œuvre entre juin 2013 et mars 2015, le guide opératoire de traitement des DS par le PIDOS n’a été établi
+qu’en novembre 2015 ; que la procédure « anti-blanchiment – fonction déclarative de soupçons –
+organisation et procédure » prenant en compte ces changements n’a été diffusée que le 20 septembre 2016,
+après avoir été validée le 31 mars 2016, tandis que les procédures actualisées sur les DS Groupe et France
+datent d’octobre 2016 ; que la précédente mission de contrôle, diligentée en 2012, qui portait sur la lutte
+contre le blanchiment et le financement du terrorisme (LCB-FT) de BDDF (hors banque privée de BNPP),
+avait déjà souligné, parmi les « points critiques » qui « ne paraissent pas avoir encore fait l’objet d’une
+réflexion de fond : l’insuffisance du pilotage de la mise à jour des procédures » ; que la lettre de suite
+adressée le 21 septembre 2012 mentionnait qu’« Il n’existe pas à ce jour de programmation annuelle des
+procédures LCB-FT à actualiser ou à élaborer. L’absence de démarche prospective et de pilotage de la
+gestion des procédures ne permet pas d’assurer un suivi totalement rigoureux et rapproché de
+l’actualisation du corpus procédural. Or, malgré une évolution favorable constatée au cours de la mission,
+les délais de mise à jour des procédures sont d’une manière générale encore excessifs » ; que, bien que la
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2016-06
+mission de contrôle de 2015 n’ait pas eu pour objet de vérifier l’application des actions mises en œuvre après
+la mission de 2012, ces observations permettent d’établir la persistance, depuis le précédent contrôle, d’une
+carence concernant le dispositif de mise à jour par BNPP de ses procédures de LCB-FT ; que les
+présentations effectuées de la nouvelle organisation devant les unités concernées de BNPP, en raison de leur
+caractère ponctuel, ne peuvent, pour utiles qu’elles aient été, pallier l’absence de mise à jour des procédures ;
+que le grief est donc établi ;
+B. Sur l’allocation de moyens humains
+suffisants au dispositif de déclaration de soupçon
+6. Considérant que l’article 51 de l’arrêté du 3 novembre 2014 dispose que « les entreprises assujetties se
+dotent, selon des modalités adaptées à leur taille, à la nature de leurs activités et aux risques identifiés par
+la classification des risques de blanchiment de capitaux et de financement du terrorisme, de moyens humains
+suffisants pour analyser les anomalies détectées par les dispositifs susmentionnés. » ;
+7. Considérant que selon le grief 2, fondé sur ces dispositions, au moment de la mission, les effectifs de
+BNP Paribas dédiés au traitement des propositions de DS n’étaient pas suffisants pour respecter les
+obligations déclaratives du groupe à Tracfin ; qu’en effet, il ressort du rapport de contrôle qu’entre janvier
+2013 et septembre 2015, l’établissement n’a pas été en mesure de traiter le flux important de propositions de
+DS dans des délais raisonnables, ni d’en apurer le stock ; qu’avec un effectif composé de 16 agents
+permanents et de 7 consultants externes en 2013, puis de 14 agents permanents et de 9 consultants externes
+en 2014, la CAB comptait 206 dossiers de propositions de DS dont le traitement était en suspens en janvier
+2013 et 2 079 dossiers en janvier 2014 ; que selon le rapport de contrôle, le délai moyen de traitement d’un
+dossier entre la réception d’une propositions de DS à la CAB et la transmission d’une DS à Tracfin était de
+231 jours en 2014 ; qu’à la suite du transfert progressif du traitement des propositions de DS émanant de
+BDDF vers le PIDOS, le stock à traiter au niveau de la CAB est descendu à 494 dossiers en janvier 2015
+puis à 28 dossiers en juillet 2015 ; que toutefois, le rapport de contrôle relève que le stock de propositions de
+DS dont le traitement était en suspens a été reporté au niveau du PIDOS ; que le nombre de propositions de
+DS en suspens au PIDOS est ainsi passé de 98 en janvier 2014 à 527 en mai 2015 puis à 1 278 en septembre
+2015, auxquels s’ajoutaient 522 dossiers en cours d’attribution, soit 1 800 dossiers ; que, de plus, le délai
+moyen de traitement d’une proposition de DS par le PIDOS a également augmenté ; qu’il est ainsi passé de
+55 jours en moyenne sur l’année 2014 à 68 jours en moyenne sur les 8 premiers mois de l’année 2015 ;
+8. Considérant que ces constatations ne sont pas contestées par BNPP, qui indique que cette insuffisance
+avait été identifiée en avril 2015, soit avant la mission de contrôle, et demande à la Commission de
+relativiser le grief compte tenu des actions correctrices entreprises dans le cadre de la nouvelle organisation,
+selon laquelle le PIDOS traite la majorité des propositions de DS mais doit, lorsque certains critères sont
+satisfaits (opérations d’un client de la banque privée France, personnes politiquement exposées, opérations
+de plus de 500 000 euros, notamment), saisir la CAB ; que, toutefois, la poursuite de la tendance à la hausse,
+après la mission de contrôle, du stock des propositions de DS transmises au niveau central par les groupes
+d’agences de BDDF, les filiales outre-mer et la banque en ligne et restant en attente de traitement, qui a
+atteint 3 039 propositions de DS en février 2016, et le maintien à un niveau élevé pendant cette même année
+de délais moyens de déclaration (cf. infra, considérant 22) attestent d’un retard important dans la mise en
+place, par BNPP, de moyens humains adaptés à ses besoins ; que, dans le nouveau dispositif, le renforcement
+des effectifs totaux de la CAB et du PIDOS, passés de 7 personnes en 2012 à 105 personnes en 2016, ce qui
+a permis une réduction du stock de propositions de DS, ramené à la fin de cette année à environ 425 dossiers,
+s’analyse comme une action correctrice ; qu’en effet, en valeur absolue, l’essentiel des recrutements s’est
+produit après le contrôle sur place, les effectifs agrégés de ces deux unités n’étant que de 35 personnes fin
+2015 ; que ces actions sont sans conséquence sur le grief, qui est établi et apparaît d’autant plus grave que le
+manquement avait déjà été signalé lors de la mission de contrôle de juin 2012 et que les effectifs nécessaires
+pour respecter de telles obligations sont relativement faibles au regard de la taille du groupe BNPP et en
+particulier de BDDF ;
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2016-06
+C. Sur l’exigence d’un positionnement adéquat des déclarants Tracfin
+9. Considérant que l’article 52 de l’arrêté du 3 novembre 2014 prévoit que les entreprises assujetties
+s’assurent que les agents concernés disposent d’une expérience, d’une qualification, d’une formation et d’un
+positionnement adéquats pour exercer leurs missions » et « veillent à ce qu’ils aient accès aux informations
+internes nécessaires à l’exercice de leurs fonctions. » ;
+10. Considérant que selon le grief 3, fondé sur ces dispositions, les déclarants Tracfin du PIDOS ne
+bénéficiaient pas d’un positionnement leur permettant d’exercer leurs fonctions avec l’indépendance
+nécessaire, puisqu’ils étaient tenus, avant d’adresser une DS à Tracfin, de recueillir l’accord préalable formel
+des directeurs de groupe d’agences ou des centres d’affaires à l’origine ou concernés par le projet de DS,
+sans qu’il existât une procédure d’escalade permettant de surmonter l’absence d’un tel accord ;
+11. Considérant que l’article 51 de l’arrêté du 3 novembre 2014 dispose que « Les entreprises assujetties
+se dotent, selon des modalités adaptées à leur taille, à la nature de leurs activités et aux risques identifiés
+par la classification des risques de blanchiment de capitaux et de financement du terrorisme, de moyens
+humains suffisants pour analyser les anomalies détectées par les dispositifs susmentionnés », lesquels sont
+les dispositifs de suivi et d’analyse des opérations mentionnés aux articles 46 à 50 ; qu’en précisant, juste
+après, dans les termes ci-dessus rappelés (cf. supra, considérant 9), les exigences réglementaires relatives à la
+qualification, la formation et le positionnement adéquats des « agents concernés », l’article 52 de cet arrêté
+cité ci-dessus vise nécessairement ceux qui sont affectés à ces tâches d’analyse des anomalies détectées ; que
+les obligations relatives aux déclarants et correspondants Tracfin sont précisées non à l’article 52 mais aux
+articles 54 à 56 de ce texte, en particulier à l’article 55, qui prévoit qu’ils ont accès à toutes les informations
+nécessaires à l’exercice de leurs fonctions mais n’exige pas pour eux un « positionnement adéquat » ; que si
+les lignes directrices conjointes de l’ACPR et de Tracfin sur les obligations de déclaration et d’information à
+Tracfin indiquent, au visa des articles 54, 55 et 56 de l’arrêté du 3 novembre 2014 mais non de son article 52,
+que les établissements de crédit « prévoient que les correspondants et déclarant(s) Tracfin disposent, selon
+leurs compétences respectives, des moyens de leurs fonctions leur conférant ainsi un positionnement
+spécifique au sein de l’organisme financier concerné » (p. 19), elles ne sauraient en tout état de cause fonder
+par elles-mêmes une sanction ; qu’ainsi, les faits invoqués dans le présent grief ne peuvent être regardés
+comme un manquement aux dispositions invoquées par la poursuite ; que les dispositions qualifiant les faits
+reprochés dans le cadre d’une procédure répressive doivent être interprétées strictement ; que le grief ne peut
+en conséquence qu’être écarté ;
+D. Sur l’accès suffisant à l’information des déclarants Tracfin
+12. Considérant que l’article 55 de l’arrêté du 3 novembre 2014 dispose que les entreprises assujetties
+« veillent à ce que le déclarant et le correspondant susmentionnés aient accès à toutes les informations
+nécessaires à l’exercice de leurs fonctions » et « mettent à leur disposition des outils et des moyens pour
+qu’ils procèdent, selon leur compétence respective : / - aux déclarations prévues à l’article L. 561-15 du
+code monétaire et financier ; / - au traitement des demandes d’information du service à compétence
+nationale Tracfin. » ;
+13. Considérant que selon le grief 4, fondé sur ces dispositions, BNPP n’a pas permis à ses déclarants et
+correspondants Tracfin d’avoir accès à toutes les informations nécessaires à leurs fonctions, ni mis à leur
+disposition les outils et moyens nécessaires pour qu’ils puissent procéder aux DS ; qu’en effet, ne disposant
+pas d’un accès direct aux éléments d’identification et de connaissance de tous les clients (filiales outre-mer,
+Wealth Management), ni à tous les dispositifs d’alerte automatisés (alertes générées par l’outil V ou W),
+ceux-ci étaient obligés, dans ces hypothèses, de solliciter les entités gestionnaires concernées pour pouvoir
+traiter les propositions de DS, sans qu’il existât une procédure d’escalade permettant de prévenir les
+éventuels refus ou retards de ces entités locales dans la transmission de l’information pertinente ; qu’il a été
+démontré dans 5 dossiers (A1 ; A2 ; A3 ; A4 et A5), sur les 57 examinés par la mission de contrôle, qu’il
+n’avait pas été répondu ou qu’il avait été répondu très tardivement aux demandes des déclarants ou
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2016-06
+correspondants Tracfin, rendant l’exercice de leur mission plus difficile et contribuant ainsi à allonger les
+délais des DS ;
+14. Considérant que BNPP ne conteste pas que la remontée d’informations à la CAB et au PIDOS
+pouvait, au moment du contrôle, être améliorée mais estime que ce grief doit être relativisé compte tenu des
+mesures concrètes qui ont été prises pour y remédier ; que toutefois, si, comme BNPP le souligne à juste
+titre, l’article 55 de l’arrêté du 3 novembre 2014 n’impose pas que les déclarants et correspondants Tracfin
+aient un accès direct à l’information, il s’interprète nécessairement comme impliquant que ces personnes
+puissent disposer d’outils et de moyens suffisants pour obtenir facilement et promptement l’information
+nécessaire à l’analyse des projets de DS et procéder le cas échéant à celles-ci dans des délais raisonnables ;
+que le manquement reproché ne porte pas exclusivement sur l’absence d’accès direct à l’information de ses
+déclarants et correspondants dans certaines hypothèses, mais aussi sur le fait que l’organisation alors en
+place ne permettait pas de s’assurer que l’information en provenance des entités locales leur était
+effectivement fournie dans des délais compatibles avec l’exercice de leur mission ; que si ce grief, qui porte
+sur l’organisation du dispositif de BNPP et non sur des manquements individuels, n’est appuyé que par
+quelques cas précis, ceux-ci l’illustrent et en confirment le bien-fondé ; qu’ainsi, dans le dossier A1, la
+demande d’information de la CAB à une filiale de BNPP au sujet d’un de ses clients est restée sans réponse ;
+que, de même, dans le dossier A2, il n’a pas été répondu à l’interrogation d’un groupe d’agences par GFS au
+sujet d’opérations atypiques d’un client ; que dans le dossier A3, la Conformité locale, après avoir rédigé une
+proposition de DS, n’a pas répondu aux questions de la CAB malgré deux relances ; que, dans le dossier A4,
+une alerte a été clôturée sans suite par le PIDOS, faute de réponse par l’un des pôles risques régionaux (P2R)
+mis en place dans chaque direction régionale à partir de 2013 ; que dans le dossier A5, le groupe d’agences
+n’a pas répondu à la CAB malgré plusieurs relances ; que, par ailleurs, l’identification de ces insuffisances
+par la cellule On Site Controls en juin 2015 n’est pas de nature à répondre au grief tenant à l’insuffisance du
+dispositif de BNPP à la date du contrôle, même si elle a certainement contribué à ce qu’il y soit remédié ;
+que le rapport de contrôle de 2012 et la lettre de suite mentionnaient, respectivement, que la sécurité
+financière de BDDF, au sein de laquelle était logée la CAB, ne disposait pas des informations utiles sur les
+cas de blanchiment détectés et qu’il était nécessaire de renforcer, dans le cadre de la réorganisation en cours,
+« l’exploitation de l’information sur les propositions de déclaration de soupçons et les déclarations de
+soupçons à des fins de pilotage » ; que les actions correctrices présentées, qui ont notamment permis que
+« les équipes de la CAB et du PIDOS bénéficient désormais d’un accès direct à tous les outils et
+informations nécessaires à l’exercice de leur mission, et notamment à toutes celles des filières d’outre-mer
+(DOM-POM) qui étaient plus directement concernées par le présent grief » et ont également porté sur la
+mise en place, dans les procédures Groupe et France, de modes opératoires BDDF qui « encadrent les délais
+d’échange d’informations entre les gestionnaires de la relation d’affaires et le PIDOS et la CAB, ainsi que
+la procédure d’escalade […] », sont postérieures au contrôle et sans conséquence sur le grief, qui est établi ;
+II. Sur le respect des obligations
+relatives à la détection des opérations atypiques
+15. Considérant que l’arrêté du 3 novembre 2014 prévoit à son article 46 que « Les entreprises assujetties
+se dotent de dispositifs de suivi et d’analyse de leurs relations d’affaires, fondés sur la connaissance de leur
+clientèle, permettant notamment de détecter les opérations qui constituent des anomalies au regard du profil
+des relations d’affaires et qui pourraient faire l’objet d’un examen renforcé mentionné au II de l’article
+L. 561-10-2 du code monétaire et financier ou d’une déclaration prévue à l’article L. 561-15 du même
+code » ;
+16. Considérant que selon le grief 5, fondé sur ces dispositions, le dispositif de détection des opérations
+atypiques ou suspectes de BNPP était inefficace, puisque dans 18 des 57 dossiers examinés par la mission de
+contrôle (A6; A7; A8 ; A9; A3 ; A10 ; A11 ; A12 ; A2 ; A13 ; A14 ; A15; A16 ; A17 ; A18 ; A19 ; A20 et
+A21), c’est un événement extérieur, réquisition judiciaire, exercice par Tracfin de son droit de
+communication ou, dans un cas, découverte fortuite, qui a déclenché l’analyse de l’établissement ;
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2016-06
+17. Considérant, tout d’abord, que BNPP soutient que les opérations mentionnées par la notification des
+griefs étant antérieures à la publication de l’arrêté du 3 novembre 2014, elle ne peut être sanctionnée sur le
+fondement de cet arrêté ; que, toutefois, les dispositions ci-dessus rappelées de l’arrêté du 3 novembre 2014
+reprennent mot pour mot celles du point 2.2 de l’article 11-7 du règlement no 97-02, auxquelles elles se
+substituent ; qu’en conséquence, la mention, dans la notification des griefs, des seules dispositions de cet
+arrêté, ne peut s’analyser comme une application rétroactive de dispositions répressives ; qu’elle n’a pas eu
+pour conséquence d’empêcher BNPP de comprendre la nature du reproche qui lui est adressé ni de faire
+valoir ses observations en défense ; que cette erreur de référence ne saurait donc conduire à écarter ce grief ;
+18. Considérant, ensuite, que BNPP, qui ne conteste pas la matérialité des faits, mentionne toutes les
+actions correctrices mises en œuvre depuis la mission de contrôle et insiste sur leur pertinence et leur
+efficacité ; que, toutefois, les opérations effectuées par les clients mentionnées dans la notification des griefs
+auraient dû, indépendamment de toute cause externe, déclencher une alerte en raison de leurs caractéristiques
+propres ; qu’en 2014, sur 4 174 DS envoyées à Tracfin, 688 seulement, soit 16 %, provenaient des deux
+principaux outils de détection X (gestion des consignations) et Y (surveillance a posteriori des comptes et
+détection des opérations atypiques) ; que le déploiement de l’outil X dans l’ensemble des entités concernées
+n’a été achevé que début 2017 ; que si BNPP soutient que le paramétrage de l’outil Y avait, conformément
+aux termes de la lettre de suite du 21 septembre 2012 qui en soulignait l’insuffisante efficacité, été modifié,
+cette modification n’a pas eu de conséquence immédiate sur la qualité de son dispositif de détection ; que,
+parmi les actions correctrices également mentionnées, le « chantier outils » mis en œuvre dans le cadre de la
+mission OPTIM et qui devait optimiser les outils de surveillance X et Y et prévoyait le déploiement d’un
+nouvel outil (Z) visant à automatiser l’ensemble des interrogations réalisées sur les bases clients, n’était pas
+encore achevé début 2017 ; que l’amélioration du dispositif de BNPP, au terme de laquelle, en 2016, le
+nombre de DS établies a été porté à 6 332 dont 81 % issues de ses deux principaux outils de détection, est
+postérieure à la mission de contrôle ; que le grief 5 est donc établi ;
+III. Sur le respect des obligations de déclaration de soupçon
+A. Sur les délais des déclarations de soupçon
+19. Considérant que selon l’article L. 561-16 du CMF « […] Lorsqu’une opération devant faire l’objet de
+la déclaration prévue à l’article L. 561-15 a déjà été réalisée, soit parce qu’il a été impossible de surseoir à
+son exécution, soit que son report aurait pu faire obstacle à des investigations portant sur une opération
+suspectée de blanchiment des capitaux ou de financement du terrorisme, soit qu’il est apparu
+postérieurement à sa réalisation qu’elle était soumise à cette déclaration, la personne mentionnée à l’article
+L. 561-2 en informe sans délai le service prévu à l’article L. 561-23. » ;
+20. Considérant que selon le grief 6, fondé sur ces dispositions, le délai moyen séparant l’exécution par
+BNP Paribas d’une opération suspecte et la DS à Tracfin est excessif ; qu’en effet, le délai déclaré dans l’état
+« BLANCHIMT » était de 285 jours pour l’exercice 2013 et de 413 jours pour l’exercice 2014 ; que le délai
+déclaré pour l’exercice 2015 est de 285 jours, ce dernier chiffre intégrant toutefois une modification de la
+méthode de calcul ; que, le rapport de contrôle relève que les DS ont été effectuées de manière tardive dans
+34 dossiers (A22 ; A23 ; A24 ; A25 ; A26 ; A27 ; A28 ; A29 ; A1 ; A8 ; A30 ; A31 ;A32 ; A10 ; A12 ; A13 ;
+A14 ; A15 ; A16 ; A33 ; A34 ; A35 ; A36; A37 ; A38 ; A39 ; A40 ; A41 ; A42 ; A4 ; A43 ; A44 ; A5 et
+A45) ;
+21. Considérant que les délais moyens de DS mentionnés par la notification des griefs, qui ne sont pas
+contestés, et qui ont atteint 285 jours en 2013 et en 2015 et 413 jours en 2014, ne permettent pas à BNPP de
+respecter l’obligation imposée par l’article L. 561-16 du CMF d’informer « sans délai » Tracfin des
+opérations suspectes qui ont déjà été exécutées, quel que soit le sens que l’on donne à ces termes ; que le
+délai de déclaration est supérieur à un an dans les 34 dossiers qui illustrent le grief ; qu’à titre d’exemples,
+parmi les dossiers examinés par la mission de contrôle, dans le dossier A22, société de création récente
+exerçant son activité dans le secteur du bâtiment et qui n’a procédé à aucun règlement au bénéfice du Trésor
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2016-06
+public ou d’organismes sociaux, la première opération atypique, exécutée en janvier 2012, a été suivie de
+plusieurs autres ; qu’après détection, le 9 octobre 2012, du caractère suspect de ces opérations, il a fallu
+presque un an pour qu’une proposition de DS soit adressée par le PIDOS à la CAB, puis plus d’un an pour
+que la DS soit envoyée à Tracfin ; que, de même, dans le dossier A38, après qu’une alerte eut été produite le
+25 février 2013 à la suite notamment de retraits d’espèces fréquents et importants effectués à compter de
+janvier 2010, une DS n’a finalement été adressée à Tracfin que le 19 avril 2014 ; que de manière générale
+BNPP, qui ne conteste pas le caractère tardif des déclarations réalisées dans les 34 dossiers cités par la
+poursuite, demande à la Commission de relativiser ce grief, en faisant valoir que ce retard était dû au fait que
+le caractère suspect des opérations en cause avait été détecté soit au plus tard lors du 1er semestre 2013
+(24 dossiers), soit ultérieurement, mais à une date où le projet « Cerise » était dans une phase de déploiement
+dans laquelle ses effets bénéfiques ne se faisaient pas encore sentir (10 dossiers) ; que, toutefois, ces
+explications ne sont pas de nature à remettre en cause le grief, qui est établi ;
+22. Considérant que de tels délais doivent être mis en relation avec l’insuffisance des moyens mis en
+œuvre par BNPP pour le traitement des propositions de DS, qui lui est par ailleurs reprochée (cf. supra,
+considérants 7 et 8) ; qu’au-delà des dossiers individuels qui illustrent le reproche, le délai moyen de DS, qui,
+de manière plus précise qu’un simple échantillon, permet d’apprécier, sur ce sujet, l’efficacité de l’ensemble
+du dispositif, est demeuré élevé pendant toute l’année 2016 (271 jours en moyenne), atteignant même un pic
+de 325 jours en septembre de cette année ; qu’une réduction sensible de ces retards n’a été enregistrée qu’au
+début de l’année 2017, cet indicateur étant passé de 268 à 166 jours entre janvier et mars 2017 ; que, selon
+les informations communiquées par le représentant du Collège lors de l’audience, il se compare encore très
+défavorablement avec le délai moyen d’envoi de DS à Tracfin des 7 plus grands établissements du secteur
+bancaire, qui serait de 84 jours ; que l’objectif de BNPP d’une réduction de son délai de DS à 60 jours, à
+compter de la détection de l’opération atypique, ne devrait être atteint que courant 2018 ; que les différentes
+actions de détection et de correction de cette carence sont tardives, dès lors que le rapport de contrôle de
+2012 soulignait que « En dépit de l’amélioration de la productivité, une très forte augmentation des délais de
+traitement au niveau de la CAB a été enregistrée en 2010, avec des stocks qui ont pu représenter à fin
+janvier 2011 quatre mois de traitement contre un mois (objectif de la CAB) fin 2009. » et que « Du fait des
+échanges accrus entre PIDOS et les groupes que cette réforme [par laquelle le rôle d’analyse approfondie
+des propositions de DS était transféré de la CAB au PIDOS] ne manquera pas d’induire, il conviendra de
+veiller à ce qu’elle ne rallonge pas les délais déjà bien supérieurs à la norme de dix jours prévue par les
+procédures internes (61 jours en moyenne au 1er trimestre 2011) » ; que, même si ce sujet n’avait pas été
+repris dans la lettre de suite ou dans la mise en demeure adressées à la suite du précédent contrôle, le rapport
+de contrôle de 2012 n’en permettait pas moins à BNPP d’identifier une insuffisance et de mettre en place,
+dès cette période, les moyens permettant d’y remédier, ce qui n’a pas été fait ;
+B. Sur les défauts de déclarations de soupçon initiales et complémentaires
+23. Considérant que selon les I, III et V de l’article L. 561-15 du CMF : « I. - Les personnes mentionnées
+à l’article L. 561-2 sont tenues, dans les conditions fixées par le présent chapitre, de déclarer au service
+mentionné à l’article L. 561-23 les sommes inscrites dans leurs livres ou les opérations portant sur des
+sommes dont elles savent, soupçonnent ou ont de bonnes raisons de soupçonner qu’elles proviennent d’une
+infraction passible d’une peine privative de liberté supérieure à un an ou participent au financement du
+terrorisme. / […] III. À l’issue de l’examen renforcé prescrit à l’article L. 561-10-2, les personnes
+mentionnées à l’article L. 561-2 effectuent, le cas échéant, la déclaration prévue au I du présent article / […]
+V. - Toute information de nature à infirmer, conforter ou modifier les éléments contenus dans la déclaration
+est portée, sans délai, à la connaissance du service mentionné à l’article L. 561-23. » ;
+1o) Sur les défauts de déclaration de soupçon initiale
+24. Considérant que selon le grief 7, fondé sur ces dispositions, 7 dossiers sur les 57 examinés par la
+mission de contrôle présentent un défaut de DS initiale (dossiers A46 ; A47 ; A48 ; A49 ; A50; A51 et A52) ;
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2016-06
+25. Considérant que BNPP rappelle que, dans plusieurs de ces dossiers, un défaut de DS lui est reproché
+alors que les opérations en cause ont donné lieu soit à réquisition judiciaire soit à l’exercice par Tracfin de
+son droit de communication, procédures qui couvraient les faits matérialisant le soupçon ; qu’elle fait valoir à
+cet égard que, dans leur version de 2010, les lignes directrices conjointes de l’ACPR et de Tracfin
+indiquaient que les organismes financiers ne devaient pas adresser de DS reposant « sur le seul fait que
+l’établissement a reçu au sujet de telles opérations […] une réquisition judiciaire » ; qu’ainsi, « un
+établissement de crédit, à la suite d’une réquisition judiciaire (ou d’un droit de communication Tracfin), n’a
+pas à réaliser de déclaration de soupçon lorsque sa réponse englobe l’ensemble des opérations suspectes
+dont elle a connaissance » ; que, toutefois, aucun texte ne prévoit de dispense de DS dans le cas où un
+établissement a été destinataire d’une réquisition judiciaire ou d’un droit de communication de Tracfin ;
+qu’en tout état de cause, un manquement aux obligations déclaratives est établi lorsque, à la date à laquelle
+une réquisition judiciaire ou un droit de communication est reçu, l’organisme aurait déjà dû adresser une DS
+à Tracfin ou que sa réponse n’englobe pas toutes les opérations suspectes dont il a connaissance ;
+26. Considérant ainsi, tout d’abord, que dans le dossier A46, le compte de l’entreprise a enregistré de
+nombreux mouvements créditeurs et débiteurs entre avril et octobre 2012 dont, au débit, l’émission de
+chèques au bénéfice de particuliers et non justifiés au regard de son activité ; qu’en particulier, 351 864 euros
+ont été débités et 274 818 euros crédités en juillet 2012, chiffres non cohérents avec le chiffre d’affaires
+prévisionnel déclaré, soit environ 30 000 euros ; que le compte rendu d’un entretien avec le gérant le 26
+juillet 2012 mentionnait des explications peu intelligibles sur ces opérations, qui auraient donc dû faire
+l’objet d’une DS avant que Tracfin ne fasse usage de son droit de communication le 26 mars 2013 ; qu’une
+DS a finalement été adressée à Tracfin le 13 janvier 2016 ;
+27. Considérant que dans le dossier A47, les flux enregistrés sur le compte personnel du client, directeur
+d’une maison de retraite selon les informations à la disposition de l’établissement, étaient depuis début 2012
+très supérieurs au salaire de ce client et résultaient de l’encaissement de chèques émis par son employeur et
+signés par lui ; qu’à la date à laquelle Tracfin a fait usage de son droit de communication, soit le 20
+novembre 2014, les opérations effectuées par ce client auraient dû faire l’objet d’une DS ; qu’une DS a
+finalement été adressée à Tracfin le 7 janvier 2016 ;
+28. Considérant que dans le dossier A48, [concernant un] citoyen [d’un pays de l’Union Européenne
+(UE)] résidant [dans un pays hors UE] et ancien responsable de haut niveau [d’une Banque centrale],
+l’examen renforcé de BNPP sur cette personne qu’elle avait classée comme politiquement exposée, qui avait
+reçu [plusieurs centaines de milliers d’euros] en plusieurs virements provenant d’une société
+luxembourgeoise au sujet de laquelle il a refusé d’apporter des justificatifs permettant d’établir qu’il en était
+le bénéficiaire effectif, par l’intermédiaire d’un compte [situé dans le pays de l’UE dont il est le
+ressortissant], ne permettait pas de lever tout doute quant à l’origine des fonds ; qu’en effet, le client était
+resté évasif dans ses réponses, en particulier sur le mode de rémunération éventuelle de sa fonction [au sein]
+d’une société présentée comme un trust de gestion patrimoniale ; qu’il avait en outre refusé d’apporter les
+justificatifs permettant d’établir s’il était le bénéficiaire de la société patrimoniale luxembourgeoise, donneur
+d’ordre des virements reçus, tandis que la périodicité erratique des versements ne correspondait pas de prime
+abord à la rémunération régulière d’un travail ; qu’une DS a finalement été adressée à Tracfin le 11 octobre
+2016 ;
+29. Considérant que dans le dossier A49, la forte progression, à partir d’octobre 2013, des mouvements
+sur le compte de la société, nouvellement créée, non justifiée par les informations dont disposait
+l’établissement, qui ignorait la nature des produits sur lesquels celle-ci intervenait, selon ses déclarations, en
+qualité d’intermédiaire, aurait dû donner lieu à l’envoi d’une DS à Tracfin avant la réception de 4
+réquisitions judiciaires à compter du 3 avril 2014 ; qu’une DS a finalement été envoyée le 13 janvier 2016 ;
+30. Considérant que dans le dossier A50, la forte augmentation des flux créditeurs enregistrés sur le
+compte du client en 2013 et 2014, très supérieurs à ses revenus déclarés, le versement de sommes au crédit
+par la section locale d’un parti politique et les flux, débiteurs comme créditeurs, avec deux associations dont
+le client était le mandataire, auraient dû entraîner l’envoi d’une DS à Tracfin avant l’exercice par ce service
+d’un droit de communication le 18 février 2015 ; qu’une DS a finalement été adressée le 19 janvier 2016 ;
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2016-06
+31. Considérant que dans le dossier A51, les virements intervenus sur les comptes des clients, provenant
+d’un pays classé comme très sensible par BNPP et faisant intervenir un compte bancaire domicilié dans ce
+pays intervenant comme un compte de passage, auraient dû, de même que la double nationalité de la cliente,
+non relevée par BNPP, entraîner un renforcement de la vigilance selon les procédures internes de BNPP et,
+compte tenu des nombreuses alertes produites relativement à ce compte entre le 31 juillet 2014 et le 10
+février 2015, donner lieu à l’envoi d’une DS avant la réception du premier « droit de communication » de
+Tracfin le 20 avril 2015 ; qu’une DS a finalement été adressée à Tracfin le 30 décembre 2015 ;
+32. Considérant, en revanche, que dans le dossier A52, établissement de paiement [scandinave]
+intervenant en France en libre prestation de services, il ne résulte pas du rapport de contrôle que BNPP aurait
+dû procéder à un examen renforcé et, le cas échéant, à une DS avant la réception des premières réquisitions
+judiciaires, qui datent de décembre 2012 ; que la poursuite n’établit pas que des opérations non couvertes par
+les réquisitions judiciaires ont été effectuées ; que des demandes de Tracfin au titre du droit de
+communication sont parvenues en août et septembre 2014, soit environ un an après la clôture du compte ;
+que le reproche sera en conséquence écarté ;
+33. Considérant ainsi que le grief 7, dont BNPP demande qu’il soit relativisé, est établi dans un périmètre
+réduit à 6 dossiers ;
+2°) Sur un défaut de déclaration de soupçon complémentaire
+34. Considérant que selon le grief 8 (dossier A9), à la suite de la diffusion dans la presse de l’information
+selon laquelle B, dirigeant de la société C, avait été mis en examen, BNPP n’a pas adressé à Tracfin de DS
+complémentaire relativement à deux virements de [X] euros, respectivement, réalisés en mars 2015 au
+bénéfice de D et d’une société patrimoniale lui appartenant, la société E ;
+35. Considérant que le 7 mars 2013, BNPP avait adressé à Tracfin une DS relative à un chèque de [X]
+euros et un virement de [X] euros, respectivement émis [en] décembre 2010 et [en] avril 2011 au bénéfice de
+la société C dont B est le bénéficiaire effectif ; que l’information relative aux très importants virements de
+sens inverse mentionnés ci-dessus était de nature à « infirmer, conforter ou modifier les éléments contenus
+dans la déclaration » initiale ; qu’elle n’a donné lieu à l’envoi d’une DS complémentaire à Tracfin que le 23
+septembre 2015 ; que le grief est donc établi ;
+*
+* *
+36. Considérant qu’il résulte de ce qui précède qu’au moment de la mission de contrôle, les procédures
+LCB-FT de BNPP n’avaient pas été mises à jour pour tenir compte de l’importante réorganisation interne
+décidée par l’établissement au stade de l’analyse de propositions de DS et de l’envoi des DS (grief 1) ; que
+l’allocation des moyens humains nécessaires à l’exercice par BNPP, dans des conditions conformes aux
+exigences légales, de ses obligations déclaratives, est restée pendant longtemps insuffisante ; qu’en
+conséquence, le nombre de propositions de DS en souffrance a très fortement progressé (grief 2), tandis que
+les délais d’envoi des DS s’allongeaient dans des proportions considérables (grief 6) ; que l’insuffisance de
+l’accès des correspondants et déclarants Tracfin à toutes les informations nécessaires à l’exercice de leurs
+fonctions a été notamment caractérisée par un défaut de réponse de certaines unités aux demandes
+d’information qui leur étaient adressées (grief 4) ; qu’à ce moment, l’efficacité des outils informatiques de
+détection des opérations atypiques qui, au sein d’un établissement de cette taille, conditionne le respect de
+ses obligations de déclaration, était faible (grief 5) ; que, de manière accessoire aux manquements ci-dessus
+décrits, quelques défauts de DS initiale ou complémentaire ont, en outre, été constatés (griefs 7 et 8) ; que, si
+un grief a été écarté (grief 3), ceux qui ont été retenus sont relatifs à des carences majeures qui affectent des
+aspects essentiels du processus de déclaration, de la détection des opérations suspectes à l’envoi de DS à
+Tracfin ; qu’en raison du poids relatif de l’activité déclarative de BNPP dont le rapport de contrôle du 8 juin
+Autorité de contrôle prudentiel et de résolution 10
+
+===== Page 11 =====
+Décision de la Commission des sanctions – procédure no 2016-06
+2012 soulignait qu’elle était le premier déclarant national et qui a, en 2015, adressé 3 163 des 43 231 DS
+reçues par Tracfin, de telles insuffisances affectent nécessairement l’ensemble du dispositif français de
+prévention du blanchiment des capitaux et de financement du terrorisme ; que de plus, certaines d’entre elles,
+constatées lors de la mission de contrôle de 2015, l’avaient déjà été lors de la précédente, diligentée 3 ans
+plus tôt ;
+37. Considérant que BNPP fait valoir que le contrôle réalisé en 2015 est intervenu dans un contexte
+délicat pour elle, dans lequel des efforts importants étaient en cours et les équipes fortement mobilisées en
+vue de traiter les suites à donner à la très lourde sanction prononcée peu avant par les autorités américaines ;
+que toutefois, malgré ces circonstances, en effet particulières, il appartenait à BNPP d’être en mesure de
+mettre en œuvre efficacement ses obligations déclaratives en matière de LCB-FT ; que, en revanche, il peut
+être relevé, ainsi que le fait le rapport de contrôle et comme il a été dit lors de l’audience, que certains
+dossiers regardés comme sensibles, notamment relatifs aux personnes politiquement exposées, au terrorisme
+et à la banque privée, ont fait l’objet d’un traitement notablement plus rapide que la moyenne par la CAB,
+respectivement de 44, 65 et 47 jours en moyenne durant la période sous revue ; que, surtout, les mesures
+correctrices mises en place par BNPP apparaissent comme substantielles de l’avis du représentant du Collège
+et, selon les informations communiquées par l’établissement, sont pour certaines d’entre elles effectives à la
+date de la présente décision, même si leur efficacité, notamment en ce qui concerne la réduction notable et
+pérenne des délais moyens de déclaration à Tracfin, doit encore être démontrée ;
+38. Considérant que les manquements retenus par la Commission justifient, compte tenu de leur nature et
+de leur gravité, le prononcé d’un blâme ; que pour les mêmes raisons et au vu des éléments d’atténuation
+mentionnés ci-dessus, dans le respect du principe de proportionnalité au regard de l’assise financière de
+BNPP, la sanction pécuniaire prononcée sera limitée à 10 millions d’euros ;
+39. Considérant que le préjudice résultant d’une publication de la présente décision sous forme
+nominative ne paraît pas disproportionné ; que cette publication n’est pas non plus de nature à perturber
+gravement les marchés financiers ; que la présente décision sera donc publiée sous cette forme ;
+PAR CES MOTIFS
+DÉCIDE :
+ARTICLE 1ER – Il est prononcé à l’encontre de BNPP un blâme et une sanction pécuniaire de 10
+millions d’euros (dix millions d’euros).
+ARTICLE 2 – La présente décision sera publiée au registre de l’ACPR et pourra être consultée au
+secrétariat de la Commission.
+Le Président de la Commission
+des sanctions
+[Rémi BOUCHEZ]
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification et
+dans les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 11

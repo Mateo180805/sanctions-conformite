@@ -1,0 +1,528 @@
+===== Page 1 =====
+Décision de la Commission des sanctions – procédure no 2020-02
+LA SOCIETE [A]
+Procédure no 2020-02
+–––––
+Blâme et sanction pécuniaire de
+3 millions d’euros
+–––––
+Audience du 11 février 2021
+Décision rendue le 24 février 2021
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 10 mars 2020 par laquelle le Président de l’Autorité de contrôle prudentiel et de
+résolution (ci-après l’« ACPR ») informe la Commission de ce que le Collège de supervision de l’ACPR
+(ci-après le « Collège »), statuant en sa formation sectorielle « banque », a décidé d’ouvrir une procédure
+disciplinaire à l’encontre de la société [A], succursale française du groupe européen [E] […];
+Vu la notification des griefs du 10 mars 2020 et ses annexes ;
+Vu les mémoires en défense des 1er juillet, 16 octobre et 3 décembre 2020, ainsi que les documents
+complémentaires produits le 17 décembre 2020, par lesquels la société [A] (i) conteste certains griefs et
+demande que d’autres soient relativisés, (ii) présente les actions de remédiation qu’elle a entreprises et
+(iii) demande que l’audience ne soit pas publique et que la décision de la Commission soit publiée sous
+une forme anonyme ;
+Vu les mémoires en réplique des 9 septembre et 17 novembre 2020, par lesquels le Collège,
+représenté par M. Pascal Durand, maintient les griefs notifiés ;
+Vu le rapport du 8 janvier 2021 de Mme Claudie Boiteau, rapporteur, qui conclut que tous les griefs
+sont fondés, dont un dans un périmètre très légèrement réduit ;
+Vu les courriers du 8 janvier 2021 convoquant à l’audience les parties ainsi que la direction générale
+du Trésor et les informant de la composition de la Commission ;
+Vu le mémoire du 20 janvier 2021 par lequel la société [A], en réponse au rapport du rapporteur, (i)
+soutient à nouveau qu’aux termes de la notification des griefs, certains faits lui sont reprochés sous
+plusieurs qualifications et (ii) précise les raisons pour lesquelles elle conteste le grief 3 et demande que
+le périmètre du grief 5 soit réduit ;
+Vu les autres pièces du dossier, notamment le rapport de contrôle du 19 juillet 2019 de Mme Anne
+Juniel, Inspecteur général de la Banque de France ;
+Vu le code monétaire et financier (ci-après le « CMF »), notamment ses articles L.561-8, L. 561-4-
+1, L. 561-5-1, L. 561-10, L. 561-10-2, L. 561-15, L. 561-32, et R. 561-12, R. 561-20, R. 561-20-2 dans
+leur rédaction applicable au contrôle ;
+Autorité de contrôle prudentiel et de résolution 1
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2020-02
+Vu l’arrêté du 3 novembre 2014 relatif au contrôle interne des entreprises du secteur de la banque,
+des services de paiement et des services d’investissement (ci-après l’« arrêté du 3 novembre 2014 »),
+notamment ses articles 46, 47, 49 et 58 ;
+Vu le règlement (UE) 2015/847 du Parlement européen et du Conseil du 20 mai 2015, notamment
+ses articles 7 et 8 ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACPR, composée de M. Alain Ménéménis, Président, M. Laurent
+Jacques, Mme Élisabeth Pauly et M. Matias de Sainte Lorette ;
+Après avoir entendu, lors de sa séance non publique du 11 février 2021 :
+- Mme Boiteau, rapporteur, assistée de Mme Laëtitia Havas, son adjointe ;
+- Le représentant de la directrice générale du Trésor ;
+- M. Durand, représentant du Collège, assisté du directeur des affaires juridiques de l’ACPR ainsi
+que de deux juristes de cette direction ; M. Durand a proposé à la Commission de prononcer un
+blâme et une sanction qui ne saurait être inférieure à 3 millions d’euros par une décision publiée
+sous une forme nominative pendant 5 ans ;
+- La société [A], représentée par sa directrice de la banque de financement et d’investissement
+(« BFI » ou « wholesale banking ») et son directeur de la transformation, dont les avocats sont
+Mes Arthur Dethomas et Marine de Montecler (cabinet Hogan Lovells Paris LLP) ;
+Après avoir délibéré en la seule présence de M. Ménéménis, Président, M. Jacques, Mme Pauly et
+M. de Sainte Lorette ainsi que de M. Jean-Manuel Clemmer, chef du service de la Commission des
+sanctions faisant fonction de secrétaire de séance ;
+1. La société [A], succursale française du groupe européen [E], est issue du regroupement, en 2013,
+des activités de banque de détail (« retail banking ») et des activités de BFI du groupe [E] en France.
+Elle propose, d’une part, des services de banque en ligne à une clientèle de particuliers résidents fiscaux
+en France et, d’autre part, des prestations diversifiées à une clientèle principalement composée de
+grandes entreprises.
+En 2019, la société [A] a réalisé un produit net bancaire d’environ 290 millions d’euros et un résultat
+net de 37 millions d’euros. Elle disposait, à la fin de cet exercice, d’environ 940 millions d’euros de
+fonds propres. […]
+2. La société [A] a fait l’objet, du 5 septembre 2018 au 8 février 2019, d’un contrôle sur place, qui a
+donné lieu à la signature, le 19 juillet 2019, d’un rapport de contrôle. Au vu de ce rapport, le Collège de
+l’ACPR, statuant en sous-collège sectoriel « banque », a décidé, lors de sa séance du 13 février 2020,
+d’ouvrir la présente procédure disciplinaire, dont la Commission a été saisie le 10 mars 2020.
+I- Sur l’organisation du dispositif de LCB-FT
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2020-02
+A. En ce qui concerne la classification des risques
+3. En vertu de l’article L. 561-4-1 du CMF, les établissements assujettis sont notamment tenus
+d’élaborer et de mettre à jour « une classification des risques (…) en fonction de la nature des produits
+ou services offerts, des conditions de transaction proposées, des canaux de distribution utilisés, des
+caractéristiques des clients, ainsi que du pays ou du territoire d’origine ou de destination des fonds ».
+L’article 58 de l’arrêté du 3 novembre 2014 précise que « La classification des risques de blanchiment
+de capitaux et de financement du terrorisme prend également en compte : / - les informations et les
+déclarations diffusées par le Groupe d'action financière et par le ministre chargé de l'économie ; / - les
+informations reçues du service à compétence nationale Tracfin ».
+4. Selon le grief 1, fondé sur ces dispositions, la classification des risques de la société [A] était, au
+moment du contrôle sur place, incomplète et « inopérante » :
+- l’évaluation des risques de blanchiment des capitaux et de financement du terrorisme (ci-après
+« BC-FT ») pour son activité de banque de détail, réalisée dans le cadre d’exercices d'évaluation des
+risques produits (RCSA - « Risk Control Self-Assessments »), ne lui permettait pas d’appréhender de
+façon adaptée les risques de BC-FT liés à ses produits, notamment aux prêts à la consommation, en
+raison de l’absence de critères relatifs au montant des prêts accordés ou aux retraits en espèces associés,
+alors même que, dès 2015, dans son rapport d'activité « Tendances et analyse », Tracfin rappelait les
+risques de BC-FT associés à de telles opérations ;
+- la classification des risques ne prenait pas suffisamment en compte les risques liés aux
+caractéristiques de la clientèle pour les activités de banque de détail et de BFI, notamment les risques
+liés à l’origine du patrimoine ou aux secteurs d’activité de ses clients. À titre d’exemple, l’établissement
+estimait que la détention d’un patrimoine issu de la vente d’un bien immobilier présentait un risque nul
+de BC-FT. De même, le secteur automobile n’était pas analysé comme présentant un risque particulier
+alors que, selon Tracfin, le commerce de véhicules est exposé à des risques particulièrement élevés de
+BC-FT. Dans l’activité de BFI, contrairement aux analyses alors publiées par Tracfin (cf. le
+rapport « Tendances et Analyse des risques » de 2015, page 11), les risques de BC-FT liés au secteur
+d’activité du client n’étaient pas suffisamment pris en compte, notamment dans les secteurs
+pharmaceutiques, de la vente de véhicules, du transport et de la logistique (fret) et des services aux
+collectivités ou entreprises.
+5. En premier lieu, les informations communiquées par la société [A], qui reconnaît que son dispositif
+d’évaluation des risques était perfectible, sur les analyses effectuées dans le cadre des RCSA/PARP
+(processus d’approbation des nouveaux produits) ou en application d’autres procédures internes - « Risk
+Appetite Statement » ou « Systemic Integrity Risk Assessment » - ne répondent pas au reproche d’une
+absence de prise en compte des risques de BC-FT liés à son activité d’octroi de prêts à la consommation,
+le cas échéant suivis de retraits d’espèces, dans sa classification des risques.
+En particulier, la mention, dans le RCSA/PARP, de ce que le « risque de perte financière et de
+réputation [...] en cas de tentative de contournement de la réglementation par des demandes successives
+de prêts à la consommation d’un montant compris entre 2 000 € et 2 999 € » était élevé ou d’un risque
+général d’octroi de tels prêts à des organisations terroristes, bien que montrant un début de prise en
+considération des risques liés à ce type de produits, ne peut suffire, en raison de son caractère général, à
+répondre au reproche.
+Or, la Commission a déjà souligné que « (…) tout établissement soumis aux règles de LCB-FT (doit)
+mettre en place une classification des risques couvrant les activités qu’il exerce et les catégories de
+clientèle auxquelles il s’adresse et comportant des règles pertinentes en ce qui concerne les services,
+opérations ou personnes porteurs de risques particuliers » (décision n° 2016-10 du 8 novembre 2017,
+considérant 6). De plus, l’existence d’informations ou de recommandations publiques sur la nécessité
+de prendre en compte le risque d’utilisation d’un crédit à la consommation à des fins de financement du
+terrorisme a déjà été rappelée par la Commission (décision du 22 mars 2018 Établissement de crédit B,
+procédure n° 2017-08, considérant 8). Le caractère récent et limité de la distribution de ce type de prêts
+par la société [A] [un peu plus de (…) prêts consentis fin 2018 pour un encours de (…) millions d’euros],
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2020-02
+à une clientèle présélectionnée par un algorithme de calcul du risque, est sans incidence sur le
+manquement.
+6. En second lieu, la poursuite ne reproche pas à la société [A], qui reconnaît à ce sujet des erreurs
+d’appréciation, l’absence de mention de certaines caractéristiques de sa clientèle de banque de détail
+comme de BFI (origine du patrimoine, secteur d’activité), mais l’absence de pondération appropriée du
+risque de BC-FT. Ainsi que la Commission l’a rappelé, une classification des risques doit comporter non
+seulement un recensement mais aussi une évaluation des risques, notamment selon les caractéristiques
+des clients (décision n° 2015-08, du 8 décembre 2016, considérant 13).
+7. Les actions correctives mises en œuvre depuis le contrôle sur place ne sont pas de nature à remettre
+en cause les constats de la mission de contrôle à ce sujet. Le grief 1 est donc fondé.
+B. En ce qui concerne l’établissement d’un profil de risque des relations
+d’affaires
+8. En vertu du I de l’article L. 561-32 du CMF, les organismes assujettis déterminent, en tenant
+compte du volume et de la nature de leur activité ainsi que des risques présentés par leurs relations
+d'affaires, un profil de la relation d'affaires permettant d'exercer la vigilance constante prévue à l'article
+L. 561-6 du même code.
+9. Selon le grief 2, fondé sur ces dispositions, au moment du contrôle sur place, le profil de risque
+des relations d’affaires n’était pas établi par la société [A] de façon cohérente et pertinente. Ainsi, pour
+l’activité de banque de détail, le profil de la relation d’affaires était déterminé au moyen de deux
+applications informatiques sans lien entre elles : [X] qui attribuait, lors de l’entrée en relation, un profil
+de risque et [Y], utilisé pour la surveillance des opérations et qui déclenche des alertes. Or l’utilisation
+de ces deux outils pouvait conduire à l’attribution à un même client de profils de risque différents et
+incohérents, en raison notamment de pondérations différentes de facteurs tels que la qualité de personne
+politiquement exposée (ci-après « PPE ») ou la catégorie socio-professionnelle.
+Par ailleurs, les profils de risque des clients, peu discriminants, ne permettaient notamment pas
+d’identifier les relations d'affaires présentant des risques plus élevés et nécessitant une vigilance accrue.
+Ainsi, l’essentiel des relations d'affaires présentait-il un profil de risque faible.
+Enfin, le profil de risque établi n’avait qu’une influence limitée sur l’intensité des mesures de
+vigilance mises en œuvre tant en ce qui concerne les justificatifs exigés par l’établissement, lorsque le
+client présente un profil de risque élevé, qu’en ce qui concerne la surveillance des opérations,
+conduisant, le cas échéant, au déclenchement d’alertes.
+10. La société [A] ne conteste pas les constats du rapport de contrôle sur les résultats contradictoires
+obtenus par l’utilisation des outils [X] et [Y].
+De plus, contrairement à ce que soutient la société [A], le fait qu’elle était, en tant que banque en
+ligne, tenue, en application de l’article L. 561-10 du CMF dans sa rédaction alors applicable, de mettre
+en œuvre des mesures de vigilance complémentaire pour tous les clients de son activité de banque de
+détail, ne répond pas au reproche du caractère insuffisamment discriminant de son dispositif.
+Enfin, la société [A] n’apporte aucun élément de nature à contredire le reproche tiré de ce que les
+incohérences ci-dessus mentionnées ne permettaient pas des diligences suffisamment adaptées au profil
+de risque du client.
+11. Les actions correctives présentées, qui ont notamment consisté en la désactivation, en octobre
+2019, du calcul de score client de [Y], remplacé par celui de [X], sont sans incidence sur le grief 2, qui
+est fondé.
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2020-02
+C. En ce qui concerne l’organisation et les procédures en matière de
+transferts de fonds
+12. En vertu du I de l’article L. 561-32 du CMF et des articles 7 et 8 du règlement (UE) 2015/847 du
+Parlement européen et du Conseil du 20 mai 2015 (ci-après le « règlement (UE) 2015/847 »), les
+prestataires de services de paiement (ci-après « PSP ») du bénéficiaire d'un transfert de fonds mettent
+en place une organisation et des procédures internes afin de lutter contre le BC-FT y compris pour (i)
+détecter l'absence éventuelle des informations requises sur le donneur d'ordre et le bénéficiaire et (ii)
+identifier un PSP qui omet de manière répétée de fournir les informations requises sur le donneur d'ordre
+ou le bénéficiaire, de prendre des dispositions à son égard et d’en informer l’autorité compétente chargée
+de surveiller le respect des dispositions en matière de LCB-FT.
+13. Selon le grief 3, fondé sur ces dispositions, au moment du contrôle sur place, l’organisation et
+les procédures de la société [A] au titre de son activité de banque de détail ne lui permettaient pas de
+détecter efficacement les informations manquantes, notamment les informations dépourvues de sens ou
+incomplètes sur le donneur d’ordre ou le bénéficiaire, en cas de transferts de fonds SEPA au bénéfice de
+ses clients. En outre, pour les transferts de fonds SEPA réalisés dans le cadre de cette même activité, elle
+ne disposait pas de procédures relatives à la détection des PSP du donneur d’ordre ou de leurs
+intermédiaires qui omettent de manière répétée de fournir les informations requises sur le donneur
+d'ordre ou le bénéficiaire afin de prendre des mesures adaptées à leur encontre et d’en informer l’ACPR.
+14. En premier lieu, des informations dépourvues de sens ne peuvent qu’être assimilées à des
+informations manquantes ou incomplètes au sens et pour l’application du règlement (UE) 2015/847. Au
+demeurant, les Autorités européennes de surveillance ont, par leurs orientations communes, prises le 16
+janvier 2018 en application de l’article 25 du règlement (UE) 2015/847, « relatives aux mesures que les
+prestataires de services de paiement doivent prendre pour détecter des informations manquantes ou
+incomplètes sur le donneur d'ordre ou le bénéficiaire, ainsi que les procédures devant être mises en
+place pour gérer un transfert de fonds qui n'est pas accompagné des informations requises », précisé
+que les informations dépourvues de sens devaient être traitées comme des informations manquantes.
+C’est donc au regard des dispositions du règlement (UE) 2015/847, telles que précisées par ces
+orientations et non au regard de ces dernières seules que, contrairement à ce que soutient la société [A],
+les faits reprochés au titre du présent grief sont qualifiés. Il y a lieu de relever par ailleurs, ainsi que le
+rappelle à juste titre la poursuite, que les principes d’application sectoriels de l’ACPR relatifs aux
+virements de fonds, publiés en octobre 2010 mentionnaient déjà que « les PSP sont incités à mettre en
+œuvre des mesures de contrôle (« filtres ») […] des champs relatifs aux informations concernant le
+donneur d’ordre […] permettant de détecter les informations manquantes, incomplètes ou clairement
+non pertinentes ».
+15. En deuxième lieu, comme le souligne le rapport de contrôle, la mise en œuvre du règlement (UE)
+2015/487 « relève principalement du groupe » par lequel transitent notamment les virements SEPA pour
+la BFI, de sorte que la succursale, qui ne traitait que la partie banque de détail, en ignorait les modalités,
+en méconnaissance de ses obligations.
+En outre, il était seulement vérifié que les champs à remplir n’étaient pas vides, aucun contrôle
+n’étant effectué sur la qualité de leur contenu.
+Par ailleurs, l’existence d’un contrôle, par [l’établissement de crédit B], de tous les « virements SEPA
+entrants » de la clientèle banque de détail de la société [A] ne pouvait en tout état de cause dispenser
+celle-ci de ses obligations.
+Enfin, la société [A] ne conteste pas l’absence, à la date du contrôle sur place, de procédure portant
+sur le traitement des PSP défaillants permettant, le cas échéant, de les déclarer à l’ACPR.
+16. Les actions correctives annoncées, qui ont notamment pour but qu’une liste de tous les virements
+rejetés pour cause d’informations manquantes soit établie tous les mois puis analysée en vue d’une
+éventuelle communication à l’ACPR, sont sans incidence sur le grief 3, qui est entièrement fondé.
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2020-02
+D. En ce qui concerne le dispositif de suivi et d’analyse des opérations
+et relations d’affaires
+17. En vertu de l'article L. 561-32 du CMF, précisé par les dispositions des articles 46 et 49 de l’arrêté
+du 3 novembre 2014, les organismes assujettis se dotent de dispositifs de suivi et d'analyse des
+opérations et de leurs relations d'affaires fondés sur la connaissance de leur clientèle et adaptés aux
+activités et risques identifiés par la classification, permettant notamment de détecter les opérations qui
+constituent des anomalies au regard du profil des relations d’affaires et qui pourraient faire objet d’un
+examen renforcé ou d'une déclaration de soupçon (ci-après « DS »).
+18. Selon le grief 4, fondé sur ces dispositions, au moment du contrôle sur place, la société [A] ne
+disposait pas, pour son activité de banque de détail, d’un dispositif de suivi et d’analyse des opérations
+et relations d’affaires tenant compte des éléments de connaissance des clients, de leurs activités et des
+risques identifiés par la classification des risques, lui permettant notamment de détecter des opérations
+qui constituent des anomalies au regard du profil des relations d’affaires. Ce dispositif présentait
+d’importantes lacunes dont :
+- l’absence, au sein de l’outil [Y], de scénario couvrant les crédits à la consommation, notamment les
+risques liés aux remboursements anticipés, et de scénario permettant de détecter les clients utilisant leurs
+comptes de dépôt à des fins professionnelles ;
+- la mauvaise prise en compte du profil de risque des clients, qui ne permettait pas d’adapter le degré
+de surveillance des opérations réalisées, en raison d’un mauvais paramétrage du seuil de déclenchement
+des alertes ;
+- un système défaillant pour la surveillance des opérations atypiques, qui déclenchait des alertes
+uniquement en cas de répétition de telles opérations ;
+- le manque de fiabilité de l’outil de surveillance, qui a conduit à ce qu’à la suite d’une erreur
+informatique, les opérations réalisées les 3 et 4 août 2017 n’ont pas déclenché d’alertes.
+19. La société [A] admet que son dispositif présentait des lacunes à la date du contrôle sur place.
+Ainsi, son outil [Y] n’intégrait aucun des scénarios dont l’absence lui est reprochée par la poursuite.
+De plus, les incohérences entre les scores de risque calculés par [Y] et par [X] rendaient inefficace
+le dispositif de surveillance de l’établissement, même si des alertes étaient déclenchées quand le score
+[Y] du client dépassait un certain seuil.
+Par ailleurs, s’agissant de la détection d’opérations atypiques uniques, l’existence de trois scénarios
+relatifs aux comptes dormants, dont la société [A] souligne qu’ils peuvent déclencher des alertes dès la
+première opération, n’est pas de nature à répondre au grief qui s’analyse nécessairement comme portant
+sur les carences affectant le suivi des comptes actifs.
+Enfin, les explications données par la société [A] sur les motifs de la défaillance technique reprochée,
+en raison de laquelle 600 000 opérations n’ont finalement pas pu être analysées, faute d’avoir été
+chargées dans [Y], peuvent permettre de comprendre les circonstances dans lesquelles cette défaillance
+s’est produite, sans pour autant la justifier.
+20. Les actions correctives mentionnées par la société [A], qui ont notamment consisté en un
+enrichissement des scénarios dans [Y], sont, en raison de la date à laquelle elles ont été mises en œuvre,
+sans incidence sur le grief 4, qui est entièrement fondé.
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2020-02
+II- Sur la mise en œuvre des obligations de vigilance
+A. En ce qui concerne l’obligation de connaissance actualisée de la
+clientèle
+21. En vertu du I de l’article L. 561-5-1 et de l’article R. 561-12 du CMF, les organismes assujettis
+doivent, avant d'entrer en relation d'affaires, recueillir et analyser les informations relatives à l'objet et à
+la nature de cette relation et tout autre élément d'information pertinent. Ces éléments d’information
+doivent être actualisés pendant toute la durée de la relation d'affaires.
+22. Selon le grief 5, fondé sur ces dispositions, au moment du contrôle sur place, en premier lieu, le
+recueil par la société [A] des éléments de connaissance de ses clients en relation d’affaires était lacunaire.
+Ainsi, sur un échantillon de 66 dossiers examinés par la mission de contrôle, 16 dossiers (dossiers 5.1,
+5.2, 5.3, 5.4, 5.5, 5.6, 5.7, 5.8, 5.9, 5.10, 5.11, 5.12, 5.13, 5.14, 5.15, 5.16) ne comportaient aucune
+information relative au fonctionnement envisagé des comptes de dépôts. En outre, pour les clients
+présentant un profil de risque élevé, l’établissement n’exigeait aucun document justificatif, notamment
+sur l’origine et la répartition du patrimoine, à l’appui de la fiche de renseignements complémentaires
+(« fiche DRC »).
+En second lieu, la société [A] n’avait pas mis en place de mesures efficaces permettant l’actualisation
+des dossiers clients, à l’occasion notamment d’événements significatifs.
+23. En premier lieu, s’agissant des éléments de connaissance de la relation d'affaires, pour 7 des 16
+dossiers mentionnés par la poursuite, la société [A] indique, sans être contredite, qu’elle avait, au
+moment de l’ouverture du compte courant, postérieure à celle d’un « Livret d’épargne [Z] » à l’occasion
+de laquelle ces éléments n’avaient pas été recueillis, demandé des informations sur le fonctionnement
+envisagé du compte et elle produit les pièces correspondantes (dossiers 5.2, 5.4, 5.6, 5.7, 5.8, 5.14 et
+5.15). Pour ces dossiers, aucun manquement ne peut donc être retenu.
+Cependant, il appartient aux organismes assujettis, en application des dispositions de l’article R. 561-
+12 du CMF, précisées par les lignes directrices de l’ACPR de 2012 sur la relation d’affaires et le client
+occasionnel (§18), puis par les lignes directrices relatives à l’identification, la vérification de l’identité
+et la connaissance de la clientèle, publiées par l’ACPR en décembre 2018, de recueillir des informations
+adaptées au niveau de risque de leurs relations d’affaires. Cette obligation implique notamment, ainsi
+que l’a rappelé la Commission (décision du 8 novembre 2017 procédure n° 2016-10, considérant 27),
+lorsque le risque est élevé, que ces informations, qui portent notamment sur l’origine et la destination
+du patrimoine, soient fiables et donc justifiées par des éléments suffisants. Or, il est constant que les
+justificatifs permettant notamment d’attester l’origine et la répartition du patrimoine n’étaient pas, selon
+le courrier-type d’envoi de la fiche de demande de renseignements complémentaires (« fiche DRC »),
+présentés comme obligatoires. Dans ces conditions, le reproche d’une connaissance lacunaire des clients
+en relation d’affaires est fondé.
+24. En second lieu, le défaut d’actualisation des dossiers clients, qui n’est pas contesté, constitue un
+manquement grave aux obligations en matière de connaissance du client, détecté par l’audit interne de
+l’établissement, qui avait dès 2017 formulé à ce sujet une recommandation de niveau de risque élevé.
+25. Les actions correctives mises en place, qui ont notamment consisté en la définition de « Nouvelles
+diligences KYC », en application desquelles les éléments de connaissance du client en relation d’affaires
+sont actualisés selon une périodicité variant selon son profil de risque ou lors d’évènements
+déclencheurs, postérieures à la mission de contrôle, sont sans incidence sur le grief 5, qui est donc fondé
+dans un périmètre légèrement réduit ainsi qu’il a été dit (cf. supra point 23).
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2020-02
+B. En ce qui concerne la détection des personnes politiquement
+exposées et la mise en œuvre des mesures de vigilance
+complémentaires requises
+26. En vertu de l’article R. 561-20-2 du CMF, « Les personnes mentionnées à l'article L. 561-2
+définissent et mettent en œuvre des procédures, adaptées aux risques de blanchiment de capitaux et de
+financement du terrorisme auxquelles elles sont exposées, permettant de déterminer si leur client, ou
+son bénéficiaire effectif, est une personne mentionnée au 2° de l'article L. 561-10 [i.e. une personne
+politiquement exposée] ou le devient au cours de la relation d'affaires. / Lorsque le client, ou son
+bénéficiaire effectif, est une personne mentionnée au 2° de l'article L. 561-10 ou le devient au cours de
+la relation d'affaires, les personnes mentionnées à l'article L. 561-2, en sus des mesures prévues aux
+articles L. 561-5 à L. 561-6, appliquent les mesures de vigilance complémentaires (…) ».
+27. Selon le grief 6, fondé sur ces dispositions, au moment du contrôle sur place, dans 19 cas, la
+qualité de personne politiquement exposée (ci-après « PPE ») du client n’avait pas été détectée par la
+société [A] : dossiers 6.1, 6.2, 6.3, 6.4, 6.5, 6.6, 6.7, 6.8, 6.9, 6.10, 6.11, 6.12, 6.13, 6.14, 6.15, 6.16,
+6.17, 6.18 et 6.19.
+Par ailleurs, la société [A] ne disposait pas de la « fiche DRC », sur laquelle devaient être mentionnés
+des éléments relatifs à l’origine et à la composition du patrimoine, pour 19 des 20 dossiers de clients
+qualifiés de PPE en 2018 examinés par la mission.
+Enfin, le risque lié à la qualité de PPE était insuffisamment pris en compte dans l’outil de surveillance
+[Y], ce qui ne permettait pas de renforcer les mesures de vigilance constante sur les opérations des clients
+relevant de cette catégorie.
+28. En premier lieu, les difficultés techniques qui ont, selon la société [A], affecté l’outil [W] et
+empêché la détection de 11 des PPE mentionnées par la notification des griefs (dossiers 6.1 à 6.11) et
+les retards dans la mise à jour des listes de PPE établies par [l’outil Z], qui ont empêché la détection de
+la qualité de PPE de 8 autres clients (dossiers 6.12 à 6.19), sont sans incidence sur la caractérisation du
+manquement. En effet, ainsi que la Commission l’a rappelé, « la réglementation est, dans ce domaine,
+prescriptive, en ce qu’elle impose la détection de toutes les PPE en relation d’affaires » (décision du 10
+janvier 2019, procédure n° 2017-10, considérant 21 ; voir également les décisions du 24 juillet 2015,
+procédure n°2014-07 considérant 46 et du 8 décembre 2016, procédure n° 2015-08, considérants 61 et
+62). De plus, ainsi que le rappelle la poursuite, les lignes directrices relatives aux PPE publiées par
+l’ACPR en avril 2018 précisaient que « lorsque l’organisme a recours à des bases de données externes,
+il s’assure de la pertinence et de la fiabilité des données ainsi utilisées au regard de la réglementation »
+(§20).
+En outre, en raison de l’entrée en vigueur, le 1er octobre 2018, du décret n °2018-284 du 18 avril
+2018 en vertu duquel les membres de l’organe dirigeant d’un parti ou groupement politique relèvent de
+la catégorie des PPE, le reproche d’un défaut de détection de cette qualité dans le dossier 6.15, constaté
+après le 1er octobre 2018 au sujet d’un membre du bureau national d’un parti politique (dossier 6.15),
+peut être utilement fait par la poursuite.
+29. En deuxième lieu, l’absence de « fiche DRC », non contestée par la société [A], ne peut être
+compensée par la demande, adressée à tous les clients de la banque de détail, d’informations sur leur
+patrimoine quand celui-ci dépasse 500 000 euros, la qualité de PPE étant sans lien avec la détention d’un
+patrimoine supérieur à ce seuil.
+30. En troisième lieu, la société [A] ne conteste pas l’insuffisante prise en compte par son outil
+informatique de la qualité de PPE.
+31. Le grief 6 est donc entièrement fondé.
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2020-02
+C. En ce qui concerne les défauts d’examen renforcé
+32. En vertu de l’article L. 561-10-2 du CMF, les entreprises assujetties « effectuent un examen
+renforcé de toute opération particulièrement complexe ou d’un montant inhabituellement élevé ou ne
+paraissant pas avoir de justification économique ou d’objet licite. Dans ce cas, ces personnes se
+renseignent auprès du client sur l’origine des fonds et la destination de ces sommes ainsi que sur l’objet
+de l’opération et l’identité de la personne qui en bénéficie ».
+33. Selon le grief 7, fondé sur ces dispositions, la société [A] n’a pas effectué d’examen renforcé
+dans 6 dossiers où elle aurait dû procéder à un tel examen (dossiers 7.1, 7.2, 7.3, 7.4, 7.5 et 7.6).
+34. La société [A] admet que, dans tous ces dossiers, à l’exception de celui qui concerne les
+opérations du dossier 7.4, elle aurait dû procéder à un examen renforcé. Dans ce dernier dossier, les
+opérations enregistrées, qui comportaient des virements provenant de l’employeur de l’intéressé, la
+[société B], un virement de plus de 50 000 euros provenant de sa mère et des virements de l’intéressé
+vers sa compagne ou vers un compte qu’il avait ouvert dans les livres d’un courtier en ligne ne
+paraissaient pas atypiques au regard des informations détenues par la société [A] sur son client,
+notamment de son niveau de revenu. Cette partie du grief sera donc écartée.
+35. Les actions correctives annoncées par la société [A], notamment la refonte de sa procédure de
+traitement des alertes, la mise en place d’une nouvelle version de [Y] et la refonte de la procédure relative
+au suivi des alertes, aux examens renforcés et aux DS sont sans incidence sur le grief 7 qui est fondé,
+dans un périmètre réduit ainsi qu’il a été dit.
+D. En ce qui concerne l'obligation de déclaration de soupçon à TRACFIN
+1) Les défauts de déclaration de soupçon initiale
+36. En vertu du I de l’article L. 561-15 du CMF, « Les personnes mentionnées à l’article L. 561-2
+sont tenues, dans les conditions fixées par le présent chapitre, de déclarer au service mentionné à
+l’article L. 561-23 les sommes inscrites dans leurs livres ou les opérations portant sur des sommes dont
+elles savent, soupçonnent ou ont de bonnes raisons de soupçonner qu’elles proviennent d’une infraction
+passible d’une peine privative de liberté supérieure à un an ou sont liées au financement du terrorisme ».
+37. Selon le grief 8, fondé sur ces dispositions, la société [A] n’a pas respecté ses obligations de
+déclaration à Tracfin dans 13 dossiers (dossiers 8.1, 8.2, 8.3, 8.4, 8.5, 8.6, 8.7, 8.8, 8.9, 8.10, 8.11, 8.12
+et 8.13).
+38. Dans ces 13 dossiers, comme l’admet d’ailleurs la société [A], le décalage entre les informations
+connues de la société [A] sur la profession, les revenus et le patrimoine du client et la teneur des
+opérations enregistrées sur le compte de celui-ci aurait dû conduire à l’envoi d’une DS à Tracfin.
+Dans la majorité des cas, les défauts de DS reprochés portent sur des comptes qui, bien qu’ouverts
+par des particuliers, enregistraient de nombreuses opérations avec des sociétés (dossiers 8.1 à 8.6, 8.8,
+8.9, 8.10 à 8.13), notamment dans le secteur du bâtiment (dossiers 8.1 à 8.4, 8.6, 8.10 à 8.13). Dans
+d’autres dossiers, le client a effectué de très nombreuses transactions sur des véhicules automobiles
+d’occasion (dossier 8.5) ou des opérations, dont la justification économique était inconnue de la société
+[A], avec un autre client dont les opérations avaient été déclarées à Tracfin (dossier 8.7).
+D’autres éléments auraient dû conduire à aviser Tracfin des opérations de ces clients, notamment la
+récurrence et les montants totaux des retraits d’espèces enregistrés sur les comptes (dossiers 8.3, 8.12 et
+8.13) ou encore l’émission ou la réception fréquente de chèques ou de virements de montants ronds
+(dossiers 8.7, 8.8 et 8.12).
+Dans certains des dossiers, il n’a pas été tenu compte des alertes déclenchées par le logiciel [Y], qui
+ont été classées sans suite (dossiers 8.6, 8.8 et 8.10). Dans un cas, 25 alertes ont été classées sans suite
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2020-02
+alors que le comité de la société [A] en charge de la conformité avait conclu à un usage professionnel
+du compte et qu’un courrier avait été adressé à l’intéressé lui demandant de cesser l’utilisation
+professionnelle de son compte et précisant qu’à défaut « « la société [A] serait dans l'obligation de
+mettre un terme à la relation d’affaires dans un délai de deux mois ». Aucune DS n’a ensuite été
+effectuée alors même que ce courrier n’a été suivi d’aucune modification dans le fonctionnement du
+compte (dossier 8.6).
+Enfin, ni l’exercice par Tracfin de son droit de communication ni la réception de réquisitions
+judiciaires n’ont entraîné d’analyse du fonctionnement des comptes concernés ni de DS sur les
+opérations des clients détenteurs de ces comptes, afin de compléter l’information de Tracfin ou de
+l’autorité judiciaire (dossiers 8.6, 8.9 et 8.10).
+39. La société [A] fait état des améliorations apportées à sa procédure relative au traitement des
+alertes, aux examens renforcés et aux DS. Celles-ci étant intervenues après la fin du contrôle sur place
+sont sans incidence sur le grief 8, qui est entièrement fondé.
+2) Les défauts de déclaration de soupçon complémentaire
+40. En vertu du IV de l’article L. 561-15 du CMF, « Toute information de nature à infirmer, conforter
+ou modifier les éléments contenus dans la déclaration est portée, sans délai, à la connaissance du
+service mentionné à l'article L. 561-23. »
+41. Selon le grief 9 fondé sur ces dispositions, la société [A] n’a pas respecté ses obligations de
+déclaration complémentaire à Tracfin dans 7 dossiers (dossiers 9.1, 9.2, 9.3, 9.4, 9.5, 9.6, et 9.7).
+42. Dans ces 7 cas, des opérations analogues à celles qui avaient motivé un envoi à Tracfin, portant
+sur des montants significatifs, ont été à nouveau enregistrées sur les comptes du client. Pourtant, aucune
+DS complémentaire n’a été adressée à Tracfin, alors même que, dans certains dossiers, des alertes [Y]
+avaient été déclenchées (dossiers 9.1 et 9.6).
+43. Sans contester le grief, la société [A] fait état des améliorations qui ont été mises en place et qui
+ont, ainsi que cela a été indiqué, porté à la fois sur son outil [Y] et sur ses procédures. Ces améliorations,
+postérieures au contrôle sur place, sont sans incidence sur le grief 9, qui est fondé.
+III- Sur le dispositif de gel des avoirs
+44. En vertu de l’article 47 de l’arrêté du 3 novembre 2014, « Les entreprises assujetties se dotent
+également de dispositifs adaptés à leurs activités permettant de détecter toute opération au bénéfice
+d'une personne ou d'une entité faisant l'objet d'une mesure de gel des fonds, instruments financiers et
+ressources économiques. »
+45. Selon le grief 10, fondé sur ces dispositions, au moment du contrôle sur place, le dispositif de
+détection des personnes soumises à une mesure de gel des avoirs mis en place par la société [A] ne
+prenait pas en compte le nom des tuteurs ou des curateurs des majeurs protégés et ne portait pas sur le
+nom de naissance des clients, mais uniquement sur leur nom d'usage.
+46. La société [A], sans contester le grief, dont elle souligne la portée limitée, estime qu’elle
+disposait, au moment du contrôle sur place, d’un dispositif de gel des avoirs efficace.
+Autorité de contrôle prudentiel et de résolution 10
+
+===== Page 11 =====
+Décision de la Commission des sanctions – procédure no 2020-02
+47. Les actions correctives présentées, qui ont consisté en une intégration dans le dispositif de filtrage
+de la société [A] des éléments manquants, effectuées après la mission de contrôle, sont sans incidence
+sur le grief 10, qui est fondé.
+*
+* *
+48. Il résulte de ce qui précède qu’au moment du contrôle sur place, la classification des risques de
+la société [A] était incomplète et inefficace (grief 1) et son dispositif de suivi de ses relations d’affaires
+(grief 2) et de leurs opérations (grief 4) présentait de graves carences, de même que son organisation et
+ses procédures en matière de transferts de fonds (grief 3). L’actualisation de la connaissance des clients
+était insuffisante (grief 5), de même que la détection des PPE et la mise en place de mesures de vigilance
+appropriées pour cette catégorie de clientèle (grief 6). Pour la mise en œuvre de ses obligations de
+vigilance, de nombreuses insuffisances ont été relevées, qu’il s’agisse de manquements à l’obligation
+d’effectuer un examen renforcé (grief 7) ou de manquements à l’obligation d’adresser à Tracfin une DS,
+initiale (grief 8) ou complémentaire (grief 9). Enfin, la détection des personnes faisant l’objet d’une
+mesure de gel des avoirs n’était pas pleinement efficace (grief 10).
+49. Ces manquements constituent des carences importantes et révèlent que le dispositif LCB-FT de
+la société [A] était globalement défaillant. Or, la société [A] est un grand établissement de crédit, qui ne
+pouvait ignorer ni les risques que présentaient en ce domaine ses activités ni les obligations auxquelles
+il a manqué.
+50. La société [A] souligne qu’à plusieurs reprises, les mêmes faits lui sont reprochés sous plusieurs
+qualifications. À cet égard, il convient de rappeler que le principe non bis in idem ne fait pas obstacle à
+ce que, dans le cadre d'une même poursuite conduisant à une même décision de sanction, plusieurs
+manquements distincts puissent résulter de mêmes faits. En outre, certains faits, dont la société [A]
+soutient qu’ils lui sont reprochés à plusieurs reprises, s’analysent en réalité comme la conséquence
+d’autres carences précédemment reprochées par la notification des griefs : il en est ainsi de certaines
+défaillances de son système de surveillance des opérations (deuxième branche du grief 4) qui
+apparaissent comme le résultat des carences affectant le dispositif de détermination du profil de risque
+des clients (première et troisième branches du grief 2), avec lesquelles elles ne se confondent cependant
+pas. Il sera toutefois tenu compte de ce que, que, dans certains cas, plusieurs manquements résultent des
+mêmes faits (voir sur ce point : Conseil d’État, 6 novembre 2019, n° 418463, point 18).
+51. Par ailleurs, il sera également tenu compte, pour fixer la sanction dans le respect du principe de
+proportionnalité, des actions correctives mises en œuvre par la société [A], notamment dans le cadre
+d’un vaste plan de remédiation, dénommé « Plan de renforcement LCB-FT », au titre duquel 26 millions
+d’euros ont été dépensés en 2019 et 2020, dont plus de 12 millions d’euros en investissements
+structurels. Il convient cependant de relever que si ces actions – dont l’ampleur exacte et l’efficacité
+devront être vérifiées - sont importantes, elles apparaissent tardives, au regard de l’ancienneté de
+l’implantation en France de cette succursale et de ce que certaines carences de son dispositif avaient été
+détectées antérieurement à la mission de contrôle.
+52. Les manquements retenus par la Commission justifient, compte tenu de leur gravité ainsi que des
+éléments d’aggravation et d’atténuation ci-dessus mentionnés, le prononcé d’un blâme et il y a lieu, eu
+égard à la situation financière de la société [A], de prononcer en outre à son encontre une sanction
+pécuniaire de 3 millions d’euros.
+Autorité de contrôle prudentiel et de résolution 11
+
+===== Page 12 =====
+Décision de la Commission des sanctions – procédure no 2020-02
+En l’absence d’éléments de nature à établir qu’une publication sous forme nominative lui causerait
+un préjudice disproportionné et qu’elle méconnaîtrait, en l’espèce, l’équilibre entre l’exigence d’intérêt
+général à laquelle elle répond et les intérêts de l’organisme mis en cause, il y a lieu de publier la présente
+décision au registre de l’ACPR sous forme nominative, pendant une durée de cinq ans. Elle y sera ensuite
+maintenue sous une forme non nominative.
+*
+* *
+PAR CES MOTIFS
+DÉCIDE :
+ARTICLE 1ER – Il est prononcé à l’encontre de la société [A] un blâme et une sanction pécuniaire
+de 3 millions d’euros (trois millions d’euros).
+ARTICLE 2 – La présente décision sera publiée au registre de l’ACPR pendant 5 ans sous une
+forme nominative, puis sous une forme ne permettant pas de l’identifier, et pourra être consultée au
+secrétariat de la Commission.
+Le Président de la Commission
+des sanctions
+[Alain Ménéménis]
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification
+et dans les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 12

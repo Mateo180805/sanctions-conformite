@@ -1,0 +1,643 @@
+===== Page 1 =====
+ETABLISSEMENT A
+Procédure no 2019-06
+–––––
+Blâme et sanction pécuniaire
+de 150 000 euros
+–––––
+Audience du 3 décembre 2020
+Décision rendue le 22 décembre 2020
+AUTORITÉ DE CONTRÔLE PRUDENTIEL ET DE RÉSOLUTION
+COMMISSION DES SANCTIONS
+–––––––––––––––
+Vu la lettre du 28 mai 2019 par laquelle le Président de l’Autorité de contrôle prudentiel et de résolution
+(ci-après l’« ACPR ») informe la Commission de ce que le Collège de supervision de l’ACPR (ci-après le
+« Collège »), statuant dans sa formation sectorielle « banque », a décidé d’ouvrir une procédure disciplinaire
+à l’encontre de l’établissement de monnaie électronique (ci-après « EME ») [A] (ci-après « Établissement A »)
+enregistrée sous le no 2019-06 ;
+Vu la notification des griefs du 28 mai 2019 et ses annexes ;
+Vu les mémoires en défense des 21 août 2019, 22 novembre 2019, 4 mars 2020, 20 mai et 3 juillet 2020,
+ainsi que les documents complémentaires versés par l’établissement A, par lesquels ce dernier i) soutient que
+la Commission des sanctions n’est pas compétente pour se prononcer sur la partie de son activité réalisée en
+libre prestation de services (ci-après « LPS »), ii) soutient qu’en application du principe de légalité des délits
+et des peines, plusieurs griefs doivent être écartés, iii) estime que les défauts d’examen renforcé ou de
+déclaration de soupçon (ci-après « DS ») qui lui sont reprochés ne sont pas fondés et ne sont en tout état de
+cause pas représentatifs de la qualité de son dispositif de lutte contre le blanchiment et le financement du
+terrorisme (ci-après « LCB-FT »), iv) soutient que la Commission doit prendre en considération les mesures
+de remédiation qu’elle a engagées et v) demande que l’audience ne soit pas publique, que la décision à
+intervenir ne soit pas publiée ou, à défaut, le soit sous une forme anonyme ;
+Vu les mémoires en réplique des 17 octobre 2019, 19 décembre 2019, 13 février 2020, 4 mai 2020 et 9
+juillet 2020, par lesquels le Collège, représenté par Mme Isabelle Lefebvre, estime i) que la notification des
+griefs vise les activités exercées par l’établissement A en libre établissement ii) que tous les griefs sont fondés
+et font ressortir de graves carences, iii) que les mesures de remédiation annoncées n’ont pas été mises en œuvre
+dans leur totalité et iv) que l’établissement A ne démontre pas que la publication de la décision sous une forme
+nominative serait disproportionnée ou de nature à perturber gravement les marchés financiers ;
+Vu le procès-verbal de l’audition réalisée à la demande de l’établissement A le 27 mai 2020 ;
+Vu le rapport du 9 septembre 2020 de M. Laurent Jacques, rapporteur, dans lequel celui-ci conclut que les
+questions générales soulevées par l’établissement A doivent être écartées et que les six griefs sont, pour
+l’essentiel, établis ;
+
+===== Page 2 =====
+Décision de la Commission des sanctions – procédure no 2019-06
+Vu les courriers du 9 septembre 2020 convoquant les parties ainsi que la direction générale du Trésor à
+l’audience et les informant de la composition de la Commission ;
+Vu le mémoire du 25 septembre 2020 par lequel l’établissement A présente ses observations en réponse au
+rapport du rapporteur ;
+Vu les autres pièces du dossier, notamment le rapport de contrôle du 19 décembre 2018 (ci-après le
+« premier rapport de contrôle ») et les extraits du rapport de contrôle du 14 avril 2020 (ci-après le « deuxième
+rapport de contrôle ») communiqués par le Secrétariat général de l’ACPR le 16 juin 2020 ;
+Vu la convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales,
+notamment son article 6 ;
+Vu le code monétaire et financier (ci-après le « CMF »), notamment ses articles L. 525-8, L. 561-2, L. 561-
+3, L. 561-4-1, L. 561-5, L. 561-10-2, L. 561-15, L. 561-32, L. 561-36-1, L. 562-4, L. 612-1, L. 612-38, L. 612-
+39 et R. 561-5, R. 561-16, R. 612-35 à R. 612-51, dans leur rédaction applicable au moment du premier
+contrôle sur place ;
+Vu le règlement intérieur de la Commission des sanctions ;
+La Commission des sanctions de l’ACPR, composée de M. Alain Ménéménis, Président, M. Philippe
+Braghini, Mme Gaëlle Dumortier, Mme Dorothée de Kermadec-Courson et M. Philippe Laigre ;
+Après avoir entendu, lors de sa séance non publique du 3 décembre 2020 :
+- M. Jacques, assisté de M. Fabien Patris, son adjoint ;
+- Mme Alice Navarro, représentante de la directrice générale du Trésor, qui a indiqué n’avoir pas
+d’observations à formuler ;
+- Mme Lefebvre, représentante du Collège, assistée de l’adjointe au directeur des affaires juridiques, du
+chef du service des affaires institutionnelles et du droit public ainsi que d’une juriste de ce service et
+du responsable du pôle de contrôle permanent LCB-FT à la première direction du contrôle des banques ;
+Mme Lefebvre a proposé à la Commission de prononcer un blâme et une sanction pécuniaire qui ne soit
+pas inférieure à 500 000 euros dans une décision publiée sous une forme nominative pendant 5 ans ;
+- L’établissement A, représenté par son président-directeur général et par son directeur délégué, dont les
+avocats sont Mes Martine Samuelian et Olivier Lyon-Lynch, avocats à la Cour (cabinet Jeantet) ;
+Après avoir délibéré en la seule présence de M. Ménéménis, Président, M. Braghini Mme Dumortier,
+Mme de Kermadec-Courson et M. Laigre ainsi que de M. Jean-Manuel Clemmer, chef du service de la
+Commission des sanctions faisant fonction de secrétaire de séance ;
+1. L’établissement A, anciennement société V, est un établissement de droit luxembourgeois agréé en 2013
+par la Commission de surveillance du secteur financier (ci-après la « CSSF ») du Luxembourg en tant
+qu’établissement de monnaie électronique (EME) et habilité à fournir des services de paiement. Il est une
+filiale de la société V, elle-même majoritairement détenue depuis septembre 2015 par l’établissement de crédit
+B (ci-après « établissement B »). Au moment du premier contrôle sur place, l’établissement A intervenait dans
+la totalité des pays de l’Union européenne, notamment en France.
+Son activité d’émission de monnaie électronique (ci-après « ME ») est effectuée en libre établissement via
+un réseau de partenaires agissant en tant que distributeurs, avec lesquels l’établissement A conclut un contrat
+pour la ME qu’il émet et gère sous forme de portefeuilles ou wallets. Ses principaux partenaires distributeurs
+de ME sont soit des « places de marché » […], qui mettent en relation des acheteurs et des vendeurs sur un site
+Autorité de contrôle prudentiel et de résolution 2
+
+===== Page 3 =====
+Décision de la Commission des sanctions – procédure no 2019-06
+marchand, soit des plateformes de financement participatif et des sites de cagnottes en ligne, au nombre
+desquels la société V […].
+Son activité de prestataire de services de paiement (ci-après « PSP ») est exercée, en France, en libre
+établissement avec des partenaires qui, au moment du premier contrôle sur place, étaient déclarés en qualité
+d’agent de prestataire de service de paiement (ci-après « APSP »), qu’il s’agisse de plateformes ou de
+conseillers en investissement participatif et d’intermédiaires en financement participatif.
+Avec certains partenaires commerciaux, des contrats spécifiques dits de « facilitateurs » ont été signés, qui
+étendent le mandat d’agent et le rôle de distributeur de ME à la collecte, pour le compte des commerçants, des
+fonds qui sont ensuite transférés à l’établissement A.
+La société exerce par ailleurs en France certaines activités de prestataire de services de paiement en libre
+prestation de service (LPS).
+Les partenaires commerciaux de l’établissement A peuvent utiliser son interface de programmation
+applicative ou application programming interface (ci-après « API ») initialement développée pour la société
+V.
+Si, dans ses premières années d’existence, l’établissement A, en tant qu’EME, n’est intervenu sur le
+territoire français qu’au travers de plateformes agissant en tant que distributeurs, il a proposé à partir de 2015
+à certaines d’entre elles d’opter pour le statut d’APSP. […]
+2. Le volume des transactions traitées par l’établissement A, multiplié par 25 de 2013 à 2018, s’est élevé,
+cette dernière année, à 2,2 milliards d’euros. Quarante millions de paiements ont, en 2018 également, été reçus
+ou envoyés dans 160 pays différents, en relation avec l’activité de 2 500 plateformes. En 2020, les opérations
+traitées par l’établissement A […] atteindront un montant d’environ 5 milliards d’euros. Son chiffre d’affaires
+a connu une très forte croissance au cours de ces dernières années, passant de 15 millions d’euros en 2017 à
+24 millions d’euros en 2018 et à 38 millions d’euros en 2019, son résultat net s’élevant ces mêmes années à –
+0,8, +0,9 et –3,2 millions d’euros. Au terme de ce dernier exercice, ses capitaux propres étaient légèrement
+inférieurs à 2 millions d’euros. […] Ses effectifs sont passés de 26 à 165 équivalents temps plein entre 2015 et
+2020.
+3. L’établissement A a fait l’objet d’un premier contrôle sur place du 12 février au 8 juin 2018. Ce contrôle
+a donné lieu à la signature, le 19 décembre 2018, du premier rapport de contrôle. Au vu de ce rapport, le
+Collège de l’ACPR, statuant en sous-collège sectoriel « banque », a décidé, lors de sa séance du 23 avril 2019,
+d’ouvrir la présente procédure disciplinaire, dont la Commission a été saisie le 29 mai 2019. Une lettre de suite
+a par ailleurs été adressée à l’établissement le 12 juin 2019, dans laquelle il lui était demandé de confirmer que
+les mesures correctrices annoncées en réponse au projet de rapport (identification et vérification de l’identité
+de la clientèle au premier euro pour les détenteurs d’un compte de paiement et dès que le seuil de stockage et
+de paiement dépasse les 250 euros pour les détenteurs d’un portefeuille de ME, appliqué à 90 % du stock de
+clients existants, application sans délai des mesures nationales de gel des avoirs dès le premier euro, adoption
+d’une nouvelle classification des risques reprenant tous les critères définis par la réglementation en vigueur,
+validation des procédures LCB-FT par l’établissement de crédit B) ont été décidées et appliquées. Leur mise
+en œuvre a été vérifiée lors d’une nouvelle mission de contrôle, diligentée du 13 septembre au 20 décembre
+2019, qui a abouti à la signature du deuxième rapport de contrôle le 14 avril 2020.
+I. Sur les questions générales soulevées par l’établissement A
+A- En ce qui concerne la compétence de l’Autorité de contrôle prudentiel et de résolution
+(ACPR)
+4. En vertu du 1° quater de l’article L. 561-2 du code monétaire et financier (CMF), dans sa rédaction issue
+de l’ordonnance n° 2016-1635 du 1er décembre 2016 renforçant le dispositif français de lutte contre le
+blanchiment et le financement du terrorisme (ci-après l’ « ordonnance n° 2016-1635 »), par laquelle a été
+transposée la directive (UE) 2015/849 du Parlement européen et du Conseil du 20 mai 2015 relative à la
+prévention de l'utilisation du système financier aux fins du blanchiment de capitaux ou du financement du
+Autorité de contrôle prudentiel et de résolution 3
+
+===== Page 4 =====
+Décision de la Commission des sanctions – procédure no 2019-06
+terrorisme (ci-après la « quatrième directive anti-blanchiment »), « les établissements de crédit, les
+établissements de paiement et les établissements de monnaie électronique ayant leur siège social dans un autre
+État membre de l'Union européenne ou partie à l'Espace économique européen en tant qu'ils exercent leur
+activité sur le territoire national en ayant recours aux services d'un ou plusieurs agents pour la fourniture de
+services de paiement en France ou d'une ou plusieurs personnes en vue de distribuer en France de la monnaie
+électronique au sens de l'article L. 525-8 » sont au nombre des personnes assujetties aux obligations en matière
+de lutte contre le blanchiment des capitaux et le financement du terrorisme (LCB-FT) définies par le code. En
+vertu des articles L 561-36 et L 561-36-1 de ce code, il appartient à l’ACPR de veiller au respect de ces
+obligations.
+Ainsi que le rappelle l’établissement A, les dispositions précitées ne sont applicables qu’aux activités
+qu’elle exerce en France en libre établissement. Le contrôle du respect de ses obligations en matière de LCB-
+FT relève, pour ses activités exercées en France en LPS, de la CSSF.
+5. L’établissement A soutient, en s’appuyant sur la consultation juridique du Professeur X, que les places
+de marché, qui étaient, au moment du premier contrôle sur place, ses partenaires pour la prestation de services
+de paiement et qui avaient été déclarées, ainsi qu’il a été dit au point 1, en qualité d’APSP, intervenaient en
+réalité en qualité d’agents commerciaux et qu’elles ont en conséquence été « dénotifiées » auprès de la CSSF.
+Elle fait d’ailleurs valoir que, le 11 février 2019, elle a reçu une lettre de la CSSF exigeant que, pour ses
+activités de services de paiement, elle ne retienne comme APSP que ceux qui « (1) agissent pour le compte de
+l’établissement A. conformément au contrat établi et signé entre l’agent / le partenaire commercial et
+l’établissement A. et (2) fournissent un ou plusieurs services de paiement correspondant à une ou plusieurs
+des activités visées à l’annexe de la Loi [du 10 novembre 2009 relative aux services de paiement] et / ou (3)
+entrent ou peuvent entrer, à un moment, en possession des fonds des clients ou disposer d’un contrôle sur les
+fonds des clients pour les transférer ou les redistribuer. ». L’établissement A estime que la Commission doit,
+sauf à faire prévaloir une approche purement formaliste, fonder son analyse non sur la catégorie dans laquelle
+ses partenaires ont été notifiés, mais sur la réalité de leurs prestations, dont il indique qu’elles ne comportaient
+la fourniture d’aucun service de paiement. Il en résulterait, selon l’établissement, que la notification des griefs
+contiendrait des reproches, au titre des griefs 1 (procédures internes), 2 (classification des risques) et 5 (défauts
+de DS dans 4 dossiers, relatifs à l’activité de la société A), qui viseraient des activités exercées en France en
+LPS, qui relèvent à ce titre de la CSSF et pour lesquelles l’ACPR serait donc incompétente.
+6. Toutefois, à supposer même que l’établissement A aurait, pour se conformer aux exigences de l’article
+28 de la directive 2015/2366 du Parlement européen et du Conseil du 27 novembre 2015 concernant les
+services de paiement dans le marché intérieur et aux dispositions de l’article L 522-13 du CMF qui en assurent
+la transposition, déclaré à tort à la CSSF, pour certaines de ses activités de prestation de services de paiement
+en France, qu’elles seraient exercées en libre établissement avec des partenaires ayant le statut d’APSP, il
+résultait de cette seule déclaration - qui, au demeurant, n’a fait l’objet d’aucune objection de la part des autorités
+de régulation concernées - que l’ACPR était compétente pour contrôler le respect par l’établissement A, pour
+ces activités, de ses obligations en matière de LCB-FT, telles que définies par le CMF. La « dénotification »
+mentionnée au point précédent n’étant intervenue que postérieurement au contrôle sur place dont
+l’établissement A a fait l’objet, l’ACPR était compétente pour diligenter ce contrôle et procéder, comme elle
+l’a fait en l’espèce, à la notification de griefs qui visent les seules activités qui, conformément aux notifications
+alors effectuées auprès de la CSSF, étaient exercées en libre établissement. Il en va notamment ainsi pour les
+activités de prestation de services de paiement exercées via la société [X], dont le statut a été déterminé sur la
+base des informations communiquées par l’établissement A à la CSSF et sous le contrôle de celle-ci.
+B. En ce qui concerne la clarté et la prévisibilité des règles relatives aux obligations de
+vigilance à l’égard de la clientèle et au gel des avoirs
+7. En premier lieu, l’établissement A estime qu’en raison du délai qui s’est écoulé entre la publication de
+l’ordonnance n°2016-1635 du 1er décembre 2016 transposant la 4ème directive anti-blanchiment et celle de son
+décret d’application n° 2018-284 du 18 avril 2018, il était difficile d’identifier la norme applicable. S’agissant
+des émetteurs de ME, il soutient ainsi que l’article R. 561-16 du CMF, dans sa version applicable aux faits
+Autorité de contrôle prudentiel et de résolution 4
+
+===== Page 5 =====
+Décision de la Commission des sanctions – procédure no 2019-06
+relevés lors du premier contrôle sur place, issue du décret n° 2017-1313 du 31 août 2017, qui fixait les
+conditions dans lesquelles un organisme assujetti aux obligations en matière de LCB -FT pouvait, pour autant
+qu’il n’existe pas de soupçon de blanchiment des capitaux ou de financement du terrorisme, ne pas être soumis
+aux obligations de vigilance prévues aux articles L. 561-5 et L. 561-6 du code au titre d’opérations portant sur
+la ME, continuait de prévoir qu’il était pris « en application du II de l’article L. 561-9 », pourtant abrogé par
+l’ordonnance n° 2016-1635. Elle relève que, tout en abrogeant le II de l’article L 561-9 du CMF qui énumérait
+jusque-là les cas dans lesquels une dispense des obligations de vigilance était possible, l’ordonnance n° 2016-
+1635 a créé un article L 561-9-1 qui, pour les seuls émetteurs de monnaie électronique, prévoit la possibilité
+d’une telle dispense en renvoyant à un décret en Conseil d’État la définition des conditions à respecter. Ce
+décret d’application n° 2018-284 du 18 avril 2018, qui modifie l’article R 561-16-1 du code, n’est entré en
+vigueur que le 1er octobre 2018. L’établissement A soutient que, dans ces conditions, il n’était pas possible de
+connaître, de façon claire et prévisible, les obligations de vigilance qui s’imposaient à lui entre le 1er décembre
+2016, date de l’entrée en vigueur de l’ordonnance n ° 2016-1635, et le 1er octobre 2018.
+8. Toutefois, en matière de ME, conformément à l’article 12 de la quatrième directive anti-blanchiment,
+qui a durci les conditions pour que des émetteurs de ME bénéficient d’une exonération des obligations de
+vigilance, notamment en la limitant à la ME stockée inférieure à 250 euros par mois et aux remboursements
+en espèces inférieurs à 100 euros, l’article R. 561-16 du CMF a été modifié, avec effet au 1er janvier 2017, par
+l’article 2 du décret n° 2016-1523 du 10 novembre 2016 relatif à la lutte contre le financement du terrorisme,
+qui a, dans le but de limiter les conditions d’émission de la monnaie électronique anonyme, abaissé les seuils
+d’exonération propres à la ME et retenu, notamment, lorsque le support de ME peut être rechargé, la limite
+maximale de stockage et de paiement de 250 euros par période de trente jours. Cette disposition a ensuite été
+maintenue par le décret n° 2017-1313 du 31 août 2017, en vigueur pendant la période en cause. Les conditions
+définies par ces dispositions seront d’ailleurs reprises ensuite par le décret mentionné ci-dessus du 18 avril
+2018. Dès lors, un professionnel averti et de bonne foi, qui exerçait en outre ses activités dans tous les pays
+de l’Union européenne, était nécessairement conscient de ce que, entre le 1er décembre 2016 et le 1er octobre
+2018, la faculté d’être exonéré des obligations de vigilance à l’égard de la clientèle, ouverte par l’article L 561-
+9-1 du CMF, ne pouvait être exercée que dans des conditions conformes aux exigences de la quatrième
+directive anti-blanchiment, lesquelles étaient définies, depuis le 10 novembre 2016, par l’article R 561-16 du
+code. L’établissement A ne saurait donc soutenir que, pendant la période en cause, les obligations de vigilance
+qu’il devait respecter n’étaient pas définies de façon suffisamment claire et prévisible.
+9. En deuxième lieu, l’établissement A soutient qu’en raison du délai entre, d’une part, l’entrée en vigueur
+de l’ordonnance n° 2016-1575 du 24 novembre 2016 portant réforme du dispositif de gel des avoirs et, d’autre
+part, celle de son décret d’application n°2018-264 du 9 avril 2018, son obligation sur ce point n’était pas définie
+de façon claire et prévisible.
+10. Toutefois, la circonstance qu’une loi ou un règlement renvoie à des mesures d’application qui n’ont pas
+encore été prises ne fait pas obstacle à l’entrée en vigueur des dispositions de cette loi ou de ce règlement si
+elles sont suffisamment précises pour être immédiatement applicables. Or, le manquement reproché à
+l’établissement A en matière de gel des avoirs est fondé sur les dispositions du I de l’article L. 562-4 du CMF,
+issu de l’ordonnance n ° 2016-1575. Ainsi que la Commission l’a récemment rappelé (décision n°2018-05, 8
+avril 2019), cet article a repris les termes de l’ancien article L. 562-3 du CMF. Les obligations en matière de
+gel des avoirs qu’impose aux personnes mentionnées l’article L 562-4 en exigeant la mise en œuvre immédiate
+des mesures de gel des avoirs et d’interdiction de mise à disposition des fonds et ressources économiques à
+l’encontre des personnes soumises à une mesure de gel en application des articles L. 562-2 et L. 562-3 étaient
+suffisamment claires et précises pour s’appliquer indépendamment de toute disposition d’application.
+Autorité de contrôle prudentiel et de résolution 5
+
+===== Page 6 =====
+Décision de la Commission des sanctions – procédure no 2019-06
+C- En ce qui concerne la précision des griefs
+11. L’établissement A estime que la notification des griefs est imprécise et qu’il en résulte une atteinte aux
+exigences d’un procès équitable prévues par l’article 6 de la convention européenne de sauvegarde des droits
+de l’homme et des libertés fondamentales en ce qu’elle n’a pu faire valoir sa défense. Elle soutient notamment
+que le Collège « a décidé d’ouvrir une procédure disciplinaire à l’encontre de l’établissement A pour son
+activité en France » sans que les activités qui y sont exercées en LPS soient distinguées de celles qui sont
+exercées en libre établissement et sans qu’il soit toujours indiqué, pour son activité de prestataire de services
+de paiement, si ses agents sont des APSP ou des agents commerciaux.
+12. Toutefois, si l’ACPR ne peut sanctionner que des personnes et activités assujetties à son contrôle et si,
+ainsi qu’il a été dit, elle n’est en l’espèce compétente que pour les activités exercées par l’établissement A en
+libre établissement, il n’en résulte pas que la notification des griefs devait le rappeler. Au demeurant, comme
+il a également été dit, l’énoncé détaillé des griefs ne mentionne que « ses activités (exercées) via un réseau
+d’agents de service de paiement et de distributeurs de monnaie électronique situé sur le territoire national
+depuis 2013 » et exclut donc clairement les activités exercées en LPS.
+D. En ce qui concerne la production d’extraits d’un rapport de contrôle établi après la
+notification des griefs
+13. Aucun principe ni aucune disposition du CMF n’interdisent au représentant du Collège de produire,
+dans le cours d’une procédure disciplinaire, sans ajouter de nouveaux griefs, des pièces complétant les constats
+d’un rapport de contrôle au vu duquel a été établie la notification des griefs. En l’espèce, ces pièces, qui ont
+été portées à la connaissance de l’établissement A et sur lesquelles la société a pu présenter toutes observations
+qu’elle estimait utiles à sa défense, sont de nature à permettre à la Commission d’apprécier l’effectivité des
+mesures correctives mises en œuvre et leur production n’entache la procédure d’aucune irrégularité.
+II. Sur les différents griefs
+A. En ce qui concerne le dispositif de LCB-FT
+1°) Les procédures internes
+14. En vertu du I de l’article L. 561-32 du CMF, les organismes assujettis sont tenus de se doter de
+procédures internes leur permettant de se conformer à leurs obligations de vigilance à l’égard de la clientèle.
+15. Selon le grief 1, fondé sur ces dispositions, les procédures de l’établissement A intitulées « Procédure
+Lutte contre le blanchiment et contre le financement du terrorisme » et « Entrée en relation clients et vigilance
+constante et renforcée », applicables aux activités exercées en France qui ont fait l’objet du contrôle sur place,
+n’étaient pas conformes aux exigences légales en ce qu’elles i) ne prévoyaient la vérification de l’identité des
+clients détenteurs d’un portefeuille de ME rechargeable que lorsque le montant du chargement dépassait 2 500
+euros par année civile, alors que le 5°) de l’article R. 561-16 du CMF, dans sa rédaction applicable à compter
+du 1er janvier 2017, imposait une telle obligation dès que le seuil de 250 euros sur 30 jours était dépassé, ce
+qui a eu pour conséquence une absence d’identification de la majorité des détenteurs de portefeuille de ME de
+la plateforme de la société V limitaient la vérification de l’identité des détenteurs d’un compte de paiement
+aux seuls clients dépassant le seuil de 2 500 euros sur une période de 12 mois glissants ou le seuil de 250 euros
+par paiement, alors que la réglementation impose une telle vérification dès le premier euro (article L. 561-5 du
+CMF).
+Autorité de contrôle prudentiel et de résolution 6
+
+===== Page 7 =====
+Décision de la Commission des sanctions – procédure no 2019-06
+16. L’établissement A ne conteste pas la matérialité des faits et se borne à soutenir que ses obligations
+applicables sur ce point à ses activités exercées en France en libre établissement n’étaient pas définies de façon
+claire et prévisible. Il résulte dès lors de ce qui a été dit au point 8 et, en ce qui concerne les services de
+paiement, au point 6 ci-dessus, que le grief 1 doit être regardé comme établi.
+2°) La classification des risques
+17. En vertu du deuxième alinéa de l’article L. 561-4-1 du CMF, les établissements assujettis se dotent
+d’une classification des risques de BC-FT présentés par leurs activités, « en fonction de la nature des produits
+ou services offerts, des conditions de transaction proposées, des canaux de distribution utilisés, des
+caractéristiques des clients, ainsi que du pays ou du territoire d'origine ou de destination des fonds ».
+18. Selon le grief 2, fondé sur ces dispositions, la classification des risques liés à ses partenaires
+commerciaux et à ses clients finaux, utilisée par l’établissement A pour les activités qui ont fait l’objet du
+contrôle sur place, était insuffisamment adaptée à son activité.
+Ainsi, la version de décembre 2017 de la « Procédure de connaissance des Partners de l’établissement A
+» se fondait sur l’attribution d’un niveau de risque en fonction de la seule catégorie à laquelle les partenaires
+commerciaux étaient rattachés (plateforme de financement participatif, cagnotte ou place de marché). En outre,
+le niveau de risque faible choisi pour l’activité de « financement participatif dons contre dons » était inadapté,
+cette activité ayant été identifiée par le GAFI (2013) et par Tracfin (2015) comme exposée à un risque élevé
+de BC-FT. Seules étaient classées en risque potentiel le plus élevé les plateformes offrant des services de
+paiement en ligne ne disposant pas d’agrément de PSP ou d’émetteur de ME, ainsi que les plateformes de
+financement participatif et les places de marché « offrant des biens et des services à risque » ou « s’adressant
+à une clientèle à risque (exemple : territorialité ou catégorie socio professionnelle ou communautaire) », sans
+que ces deux notions aient été définies, ce qui ne permettait pas à l’établissement A de déterminer les
+partenaires à risques potentiels de BC-FT.
+Par ailleurs, la classification des risques relative aux clients finaux de l’établissement A, qui figurait dans
+la procédure intitulée « Entrée en relation clients et vigilance constante et renforcée », tenait insuffisamment
+compte de leurs caractéristiques. Elle n’intégrait ni la nature ni l’activité des personnes morales. Ainsi, les
+associations y étaient classées comme présentant un risque faible ou normal de BC-FT alors que Tracfin a
+alerté dès 2016 sur les risques que de telles structures peuvent présenter en matière de financement du
+terrorisme et que de telles associations figurent parmi les clients de l’établissement A (dossiers association
+5.19, 5.31, 5.24, 5.26, 5.4 et 5.28). De plus, l’établissement A utilisait des seuils trop élevés pour classer le
+risque associé aux opérations de ses clients, tous ceux a) dont le portefeuille de ME ne dépassait pas un montant
+de chargement 2 500 euros ou des remboursements de moins de 1 000 euros par année civile ou par wallet ou
+b) dont les comptes de paiement n’excédaient pas les montants de 250 euros par opération ou 2 500 euros sur
+12 mois glissants, étant classés en risque faible. En conséquence, la majorité de la clientèle de l’établissement
+A était classée dans cette catégorie, alors que la réglementation ne prévoyait d’exonération des mesures de
+vigilance que pour un montant de stockage et de paiement inférieur à 250 euros, sur une période de trente
+jours, par portefeuille de ME rechargeable et que le montant moyen final des cagnottes de la société V est de
+450 euros.
+19. En premier lieu, l’établissement A n’apporte aucun élément venant contredire l’affirmation de la
+poursuite selon laquelle il classait ses partenaires selon la seule nature de leur activité, mais souligne seulement
+la pertinence de ce critère. Or, l’attribution, de manière indifférenciée, d’un risque faible à toutes les
+plateformes de financement participatif « dons contre dons » est manifestement inadaptée, dès lors qu’elle ne
+prend pas en considération les risques spécifiques présentés par chaque plateforme du fait de la typologie de
+sa clientèle ou des produits ou services offerts. Ni le fait qu’elles permettent le financement de projets, ni leur
+assujettissement au contrôle de l’ACPR ne peuvent suffire à estimer que toutes ces plateformes présenteraient
+un risque faible. Par ailleurs, l’établissement A prétend avoir tenu compte, pour classer ses partenaires
+commerciaux, d’autres éléments, non explicités dans sa procédure, sans toutefois fournir d’exemple du passage
+d’une catégorie de risque à une autre en considération de ces éléments. Or il lui appartenait, en application de
+l’article L. 561-4-1 du CMF, de déterminer le niveau de risque associé à chacun de ses canaux de distribution,
+Autorité de contrôle prudentiel et de résolution 7
+
+===== Page 8 =====
+Décision de la Commission des sanctions – procédure no 2019-06
+notamment des plates-formes qui sont ses partenaires. Enfin, les critères de la clientèle à risque se rapportant
+à la « territorialité ou catégorie socioprofessionnelle ou communautaire » n’étaient pas définis.
+En revanche, contrairement à ce que soutient la poursuite, les « Autres produits et services à risques »
+mentionnés par la classification des risques de l’établissement A au moment du contrôle, dont les « Plateformes
+de paris, e-casinos, loteries et jeux de carte », correspondaient, pour partie au moins, à la définition des
+« plateformes de financement Participatif et Marketplaces s’adressant à une clientèle à risque », avec laquelle
+l’établissement A refusait d’entrer en relation.
+20. En second lieu, en ce qui concerne la classification des risques liés à ses clients finaux, le risque
+spécifique présenté par les associations n’était pas pris en considération par l’établissement A au moment du
+contrôle, alors même que, dans son rapport « Tendances et analyse des risques de blanchiment des capitaux et
+de financement du terrorisme » de 2016, Tracfin avait mentionné que les associations, à vocation humanitaire,
+culturelle ou cultuelle pouvaient être des « points de convergence de flux financiers destinés à financer des
+réseaux djihadistes » (p. 35). L’illustration de cette carence par deux dossiers seulement, les 4 autres
+mentionnés se rapportant à des personnes physiques, est sans incidence sur la caractérisation du manquement.
+Le recueil, dans certains cas, des statuts d’associations clientes ne pouvait pallier la carence de la classification
+des risques sur ce point. Il incombait à l’établissement A de déterminer, parmi les associations qui étaient ses
+clients finaux, celles qui étaient susceptibles de présenter un risque élevé de BC-FT. De plus, dès lors que le
+risque lié à une catégorie de clients existe, la faible part que celle-ci représente - en l’espèce 0,78 % de clients
+personnes morales dont 0,07% sont des associations - est sans incidence sur la caractérisation du manquement.
+En revanche, l’inadaptation des seuils d’opération utilisés par l’établissement A pour passer un client d’un
+risque faible à un risque normal ne peut être critiquée en rapprochant ces seuils du montant moyen final des
+cagnottes de la société V, dès lors qu’est ici en cause l’activité d’émission de ME. En outre, une cagnotte étant
+une addition de sommes inscrites sur des wallets, l’écart entre le montant moyen final des cagnottes de la
+société V et le seuil d’exonération des obligations de vigilance ne peut en tout état de cause caractériser une
+insuffisance sur ce point. Cette branche du grief est donc écartée.
+21. Le grief 2 est ainsi établi dans un périmètre réduit ainsi qu’il a été dit (cf. supra points 19 et 20).
+3°) L’exercice de la vigilance
+22. En vertu de l’article L. 561-5 du CMF, les EME doivent, avant d’entrer en relation d’affaires, identifier
+et vérifier l’identité de leur client ainsi que, le cas échéant, de la personne agissant pour son compte. L’article
+R. 561-5 du même code, dans sa rédaction applicable, imposait la vérification de « l'identité du client et, le cas
+échéant, [de] l'identité et [des] pouvoirs des personnes agissant pour le compte de celui-ci ».
+23. Selon le grief 3, fondé sur ces dispositions, l’établissement A, en sa qualité d’EME, ne vérifiait pas
+l’identité des créateurs de cagnottes de la société V qui n’en étaient pas également bénéficiaires, ce qui
+représentait 17,7 % des cagnottes, car il estimait qu’il n’était pas en relation d’affaires avec eux. Pourtant,
+ayant indiqué dans sa réponse au rapport de contrôle que le créateur d’une cagnotte agissait en vertu d’un
+mandat donné par les participants à celle-ci, elle aurait dû vérifier son identité lorsque les conditions
+d’exonération de l’article R. 561-16 du CMF n’étaient pas remplies. De plus, l’établissement A ne vérifiait pas
+systématiquement l’identité des contributeurs à une cagnotte de la société V, alors qu’il ne pouvait pas
+bénéficier de l’exonération prévue par le 5°) de l’article R. 561-16 du CMF lorsque les opérations dépassaient
+les 250 euros par contributeur et par cagnotte sur une période de 30 jours. De janvier 2017 à février 2018,
+l’établissement A n’a identifié que 1 898 des 27 957 contributeurs répondant à ces critères. Il en va ainsi dans
+8 dossiers cités en exemple, dont les clients n’ont pas été identifiés, leur portefeuille de ME étant supérieur à
+250 euros mais inférieur au seuil de 2 500 euros fixé par l’établissement A (dossiers 3.1, 3.2, 3.3, 3.4, 3.5, 3.6,
+3.7 et 3.8 ).
+24. Les dispositions mentionnées au point 22 ci-dessus ne limitent pas l’obligation de vérification de
+l’identité des personnes agissant au nom du client aux seuls mandataires légaux de ce dernier. Les rapports
+entre l’organisateur d’une cagnotte et ses participants ne sont pas, comme le soutient l’établissement A,
+Autorité de contrôle prudentiel et de résolution 8
+
+===== Page 9 =====
+Décision de la Commission des sanctions – procédure no 2019-06
+purement techniques. L’organisateur de la cagnotte, qui signe le contrat d’utilisation du service de la société
+V, conclu entre l’utilisateur du service, d’une part, la société V et l’établissement A, d’autre part, doit être
+regardé comme agissant pour le compte des contributeurs et comme nouant une relation d’affaires avec
+l’établissement A : en effet, dans les conditions générales d’utilisation en vigueur au moment du contrôle, la
+cagnotte était assimilée à un compte de ME composé de sous-comptes ouverts au nom de chaque participant
+dans les livres de l’établissement A, que l’organisateur pouvait administrer et dont il pouvait disposer suivant
+les conditions convenues avec les contributeurs.
+Par ailleurs, ainsi qu’il a été indiqué au point 8 ci-dessus, en application des dispositions de l’article R. 561-
+16 du CMF, l’établissement A aurait dû recueillir l’identité des contributeurs de cagnotte dès lors que les
+conditions de dérogation aux obligations de vigilance n’étaient pas remplies. Or, il n’est pas contesté que, dans
+les 8 dossiers mentionnés par la poursuite à titre d’illustration, les contributions étaient supérieures à 250 euros
+par contributeur et par cagnotte.
+25. Le grief 3 est donc établi.
+4°) Les défauts d’examen renforcé
+26. En vertu de l’article L. 561-10-2 du CMF, les organismes assujettis, notamment les EME, effectuent un
+examen renforcé de toute opération particulièrement complexe ou d'un montant inhabituellement élevé ou ne
+paraissant pas avoir de justification économique ou d'objet licite.
+27. Selon le grief 4, fondé sur ces dispositions, l’établissement A n’a pas réalisé d’examen renforcé dans 4
+dossiers (dossiers 4.1 ; 4.2 ; 4.3 et 4.4).
+28. Dans ces 4 dossiers, les informations permettant de connaître le client n’avaient pas été recueillies
+(dossiers 4.1 à 4.3) ou bien les renseignements mentionnés sur la situation professionnelle du client étaient
+erronés. L’identification et la vérification de l’identité du client ne pouvaient au demeurant suffire pour le
+respect des obligations dans ce domaine. La réception de contributions à une cagnotte provenant d’une
+personne dont les éléments d'identité correspondent à ceux d’un individu faisant l’objet d’une mesure de gel
+(dossier 4.1) aurait dû conduire la société à s’interroger sur la licéité des opérations effectuées, l’objet de cette
+cagnotte étant de plus formulé en des termes imprécis. Dans le dossier 4.2, l’organisation d’une cagnotte
+intitulée « sœur dans le besoin », dont la finalité était également définie en termes imprécis (« organisé pour
+M. ») et qui se caractérisait notamment par l’utilisation d’une même adresse email par l’organisateur et la
+bénéficiaire ainsi que par le pourcentage important d’opérations inabouties, aurait dû donner lieu à un examen
+renforcé. De même, le décalage entre le niveau de revenu du client ou sa situation professionnelle, telle qu’elle
+figurait à son dossier, et le montant des opérations effectuées par lui aurait dû conduire à analyser ces
+opérations (dossiers 4.3 et 4.4). Enfin, en ce qui concerne le dossier 4.4, si, comme le soutient l’établissement
+A, les sociétés assujetties ne sont pas tenues de déclarer systématiquement à Tracfin les opérations donnant
+lieu à l’exercice par ce service de son droit de communication, le reproche qui est fait porte sur l’absence
+d’examen renforcé – lequel, au vu de la teneur des opérations effectuées (43 opérations sur une plateforme de
+vente de vêtements d’occasion pour un montant total supérieur à 43 000 euros, dont deux opérations d’un
+montant élevé) et de l’absence d’éléments de connaissance du client, aurait dû en tout état de cause être
+effectué.
+29. Le grief 4 est donc établi.
+5°) Les défauts de déclaration de soupçon
+30. En vertu du I de l’article L. 561-15 du CMF, les organismes assujettis doivent déclarer à Tracfin les
+sommes inscrites dans leurs livres ou les opérations portant sur des sommes dont ils savent, soupçonnent ou
+ont de bonnes raisons de soupçonner qu'elles proviennent d'une infraction passible d'une peine privative de
+Autorité de contrôle prudentiel et de résolution 9
+
+===== Page 10 =====
+Décision de la Commission des sanctions – procédure no 2019-06
+liberté supérieure à un an ou sont liées au financement du terrorisme ; le III de ce même article impose une
+telle déclaration lorsque l’examen renforcé n’a pas permis d’écarter tout soupçon de BC-FT.
+31. Selon le grief 5, fondé sur ces dispositions, l’établissement A n’a pas réalisé de DS dans 35 dossiers ou
+séries de dossiers (5.1 ; 5.2 ; 5.3 ; 5.4 ; 5.5 ; 5.6 ; 5.7 ; 5.8 ; 5.9. ; 5.10 ; 5.11 ; 5.12 ; 5.13 ; 5.14 ; 5.15 ; 5.16 ;
+5.17.; 5.18 ; 5.19 ; 5.20 ; 5.21 ; 5.22 ; 5.23 ; 5.24 ; 5.25 ; 5.26 ; 5.27 ; 5.28 ; 5.29 ; 5.30 ; 5.31 ; 5.32 Entreprises
+liées à la société A - 6 dossiers, SARL B, SAS C, SAS D, SAS E , SARLU F, SAS G, ; 5.33 ; 5.34; 5.35).
+a) Sur l’obligation à laquelle était soumis l’établissement A de déclarer ses soupçons à Tracfin
+32. L’établissement A soutient que, de septembre 2016 à décembre 2017, les cellules de renseignement
+financier (ci-après « CRF ») luxembourgeoise et française avaient des analyses différentes des obligations
+auxquelles un organisme comme elle était soumis au titre de ses activités exercées, en France, en libre
+établissement : la première estimait, selon l’établissement A, qu’un tel organisme ne devait adresser de DS
+qu’à elle, tandis que la seconde exigeait de recevoir également les déclarations qui portaient sur des opérations
+effectuées en France. Selon l’établissement A, ce n’est qu’en janvier 2018 qu’un dispositif de double
+déclaration, unique en Europe, a été mis en place, auquel il s’est immédiatement conformé. Par ailleurs, la
+CRF luxembourgeoise aurait donné pour instruction aux organismes assujettis à son contrôle de ne pas
+procéder à des DS relatives à des fraudes aux moyens de paiement de faible importance. Enfin, quatre des
+défauts de DS relevés par la poursuite concerneraient la fourniture de services de paiement par la société [X],
+dont le statut d’APSP, alors déclaré, ne correspondrait pas à la réalité de son activité (cf. supra point 5), ce qui
+la placerait hors du champ de compétence de l’ACPR.
+33. Toutefois, les obligations de déclaration de soupçon qui s’imposent à un organisme comme
+l’établissement A pour ses activités exercées en France en libre établissement, qui sont seules en cause, sont
+fixées par les seules dispositions de l’article L 561-15 du CMF. Au demeurant, les organismes assujettis qui
+interviennent dans ce cadre sur le territoire national doivent désigner à cet effet un représentant permanent ;
+l’établissement A s’est conformé à cette obligation, qui lui a été rappelée par un courrier du Secrétariat général
+de l’ACPR en date du 6 décembre 2016 faisant suite à la notification de la société [X] en qualité d’APSP.
+L’établissement a transmis 14 DS à Tracfin entre 2015 et début 2018, ce qui confirme qu’elle avait
+connaissance de ses obligations déclaratives. Enfin, contrairement à ce que soutient l’établissement A et pour
+les motifs indiqués ci-dessus (cf. supra point 6), les opérations de la société A entraient dans le champ de celles
+qui devaient, le cas échéant, être déclarées à Tracfin.
+b) Sur les 35 défauts de DS reprochés
+• Sur 18 dossiers de suspicion de fraudes aux moyens de paiement
+34. Dans 18 des 35 cas de défauts de DS visés par le grief (dossiers 5.5, 5.6, 5.7, 5.8, 5.9., 5.10., 5.11., 5.12,
+5.13, 5.14, 5.16, 5.17, 5.18, 5.20, 5.21, 5.22, 5.23, 5.35), les clients ont réalisé en France de nombreuses
+opérations sur des cagnottes en ligne ou sur des portefeuilles de ME, à partir de cartes de crédit ou de virements
+bancaires. La plupart de ces opérations, d’un montant compris entre quelques milliers d’euros et 127 000 euros,
+ont été rejetées ou n’ont pas abouti, soit en raison de refus de la banque créditrice de procéder aux virements,
+soit du fait de l’échec de la procédure d’authentification 3D secure ou d’opposition sur les cartes bancaires,
+pour vol ou perte. L’établissement A ou ses partenaires ont identifié le caractère atypique de ces opérations,
+susceptibles de participer à des schémas de fraude aux moyens de paiement, et ont bloqué pour ce motif les
+comptes et les cagnottes concernés, sans pour autant en informer Tracfin. Or, en raison des motifs pour lesquels
+ces opérations n’ont pas abouti, une déclaration de soupçon à Tracfin aurait dû être effectuée.
+• Sur les 13 dossiers de suspicion de financement du terrorisme
+Autorité de contrôle prudentiel et de résolution 10
+
+===== Page 11 =====
+Décision de la Commission des sanctions – procédure no 2019-06
+35. Dans 13 dossiers, il est reproché à l’établissement A de n’avoir pas informé Tracfin d’opérations dont
+elle avait pourtant de bonnes raisons de soupçonner qu’elles étaient liées au financement du
+terrorisme (dossiers 5.1, 5.2, 5.3, 5.4, 5.19; 5.24; 5.25 ; 5.26 ; 5.27 ; 5.28 ; 5.29 ; 5.30 et 5.31).
+36. Dans son rapport annuel de 2015, Tracfin indiquait que la ME présentait des « caractéristiques qui
+accroissent [la] vulnérabilité (des EME) en termes de LAB/FT : anonymisation partielle ou totale des supports
+électroniques, brièveté des opérations, accessibilité par des réseaux de distribution de proximité… » ; il était
+en conséquence demandé aux EME de « mettre en œuvre des dispositifs de vigilance de lutte anti-blanchiment
+de capitaux et de financement du terrorisme adaptés. Ils doivent mettre en place des moyens permettant
+d’assurer la traçabilité des opérations, vérifier leur cohérence économique et assurer un suivi de leur réseau
+de distribution. » (p. 20). Dans ce même rapport, Tracfin mentionnait le cas d’utilisation de cagnottes en ligne
+dédiées à un projet particulier comme une modalité de financement du terrorisme (idem, p. 24) et Tracfin a,
+dans son rapport 2016, présenté un exemple de financement du terrorisme par l’utilisation de cagnottes en
+ligne pour l’aide au retour de djihadistes (p.47).
+37. Dans ces dossiers, plusieurs éléments pris, selon les cas, séparément ou de manière combinée, auraient
+dû conduire l’établissement A à informer Tracfin des opérations effectuées : créateur ou contributeurs de la
+cagnotte en ligne difficilement ou non identifiables (dossiers 5.1, 5.2, 5.4, 5.19, 5.26, 5.27, 5.28, 5.29 et 5.31) ;
+objet de la cagnotte défini en termes imprécis (dossiers 5.1, 5.2, 5.25, 5.29), sans que le lien entre le créateur
+de la cagnotte et son bénéficiaire apparaisse clairement ; réception d’une réquisition judiciaire pour
+participation aux activités d’un groupe terroriste ou association de malfaiteurs en vue de préparer des actes de
+terrorisme (dossiers 5.1, 5.2) ; cagnotte en lien possible avec une personne physique prônant une pratique
+religieuse rigoriste (dossiers 5.2, 5.27, 5.29, 5.30, 5.31) ; blocage de la cagnotte par l’établissement A pour
+motif « Anti Money Laundering (AML) » (dossiers 5.3, 5.4, 5.24, 5.25, 5.27, 5.28, 5.31), pouvant intervenir
+après déclenchement d’une alerte par un utilisateur pour « soupçon de financement du terrorisme » (dossier
+5.3, 5.4, 5.27, 5.31) ; discordance entre la finalité déclarée dans le descriptif de la cagnotte et celle qui a été
+déclarée par la suite à l’établissement (5.19) ; virement des fonds vers un pays avec lequel l’établissement A a
+décidé de n’exécuter aucune opération (dossier 5.29) ; défaut de création de la structure censée recevoir les
+fonds (5.24). En outre, dans aucun des dossiers où un examen renforcé a été effectué (5.19, 5.24 à 5.31), les
+informations recueillies n’ont permis d’écarter le soupçon de financement du terrorisme et l’établissement A
+ne connaissait la situation financière d’aucun de ces clients, ce qui ne la mettait pas en situation de respecter
+ses obligations déclaratives.
+• Sur les défauts de DS en matière de services de paiement (4 dossiers)
+38. Des manquements de l’établissement A à ses obligations déclaratives sont également reprochés dans 4
+dossiers ou séries de dossiers qui concernent la fourniture de services de paiement proposés par l’intermédiaire
+de la société [X] (dossiers 5.15, ; 5.32. Entreprises de démarchage téléphonique clientes de la société [X] -
+SARL B, SAS C, SAS D, SAS E, SARLU F, SAS G ; 5.33 ; 5.34.).
+39. Dans ces dossiers, les montants des transactions rejetées ont varié d’un peu plus de 12 000 (dossier
+5.15) à près de 800 000 euros (dossier 5.34) ; les éléments de connaissance du client figurant au dossier étaient
+généralement réduits ; les transactions donnaient lieu à l’exécution de nombreuses opérations, dont une
+proportion significative a été rejetée pour des motifs majoritairement liés à une possible utilisation frauduleuse
+(cartes perdues, cartes volées, fraude, refus de la banque ou échec d’authentification 3D Secure) (dossiers 5.15;
+5.33 et 5.34). Les services de l’établissement A ont fait état auprès de la société [X] d’interrogations sur la
+licéité des opérations (dossiers 5.15, 5.32 et 5.34). Ces opérations ont donné lieu à des alertes sur les réseaux
+sociaux ou à des signalements d’utilisateurs. À titre d’exemple, le compte de paiement ouvert par Mme Y auprès
+de la société [X] (dossier 5.15) a reçu en un peu plus d’un an 312 opérations créditrices pour un montant total
+supérieur à 40 000 euros sans qu’aucune information relative à la profession ni au revenu de la cliente ait été
+recueillie. Le blocage pour fraude précédemment effectué d’un autre compte de cette cliente n’a pas conduit
+l’établissement A à informer Tracfin de ces nouvelles opérations, pas plus que la réalisation d’opérations sur
+crypto monnaies, sur lesquelles l’établissement A s’interdit pourtant d’intervenir. Enfin, lorsqu’un examen
+renforcé a été effectué, il a conduit à l’envoi d’une DS à la seule CRF luxembourgeoise (dossier 5.32) ou n’a
+Autorité de contrôle prudentiel et de résolution 11
+
+===== Page 12 =====
+Décision de la Commission des sanctions – procédure no 2019-06
+donné lieu à aucun envoi de DS (dossiers 5.33, 5.34), bien que les diligences effectuées n’aient pas permis de
+lever le doute sur la licéité des opérations effectuées.
+40. Le faible nombre de dossiers individuels qui ont fait l’objet de reproches au regard de l’activité de
+l’établissement A, notamment du nombre de cagnottes ouvertes chaque jour, est sans incidence sur le grief,
+qui est établi, chaque défaut de DS représentant en lui-même un manquement.
+B. En ce qui concerne le dispositif de gel des avoirs
+41. En vertu des dispositions du I de l’article L. 562-4 du CMF, « Toute personne mentionnée à l'article L.
+561-2, qui détient ou reçoit des fonds ou des ressources économiques pour le compte d'un client, est tenue
+d'appliquer sans délai les mesures de gel et les interdictions de mise à disposition ou d'utilisation prévues au
+présent chapitre et d'en informer immédiatement le ministre chargé de l'économie ».
+42. Selon le grief 6, fondé sur ces dispositions, le dispositif de gel des avoirs de l’établissement A était
+inefficace. En effet, alors que la réglementation interdit de mettre des fonds à disposition des personnes faisant
+l’objet d’une mesure restrictive dès le premier euro, sa procédure « Gel des Avoirs » prévoyait que le filtrage
+des clients au regard des listes de mesures nationales et européennes de gel ne serait effectué qu’en cas de
+dépassement des « seuils d’authentification », soit au-delà de 2 500 euros et, dans le cas particulier des
+bénéficiaires de cagnottes, l’établissement A ne vérifiait leur identité qu’en cas de versement supérieur à 1 000
+euros. Le filtrage, qui n’intervenait pas systématiquement lors de l’entrée en relation d’affaires, était en outre
+opéré au regard des seuls nom et prénoms selon une correspondance orthographique exacte (« exact match »),
+ce qui exposait l’établissement à ne pas détecter certaines personnes. Ainsi, l’établissement A n’a pas été en
+mesure de détecter près de 200 homonymes d’une personne faisant l’objet d’une mesure restrictive. Par
+ailleurs, le filtrage du « stock » de clients de l’établissement A n’intervenait qu’après la transmission des listes
+nationales de gel par l’entreprise mère, ce qui pouvait entraîner des retards. l’établissement A n’a ainsi été
+informé que le 1er août 2017 des arrêtés des 7, 17, 21 et 24 juillet 2017, ce qui a eu pour conséquence de
+retarder le gel des fonds de M.Z, intervenu le 3 août 2017, soit près d’un mois après la publication de la mesure
+nationale de gel le concernant (arrêté du 7 juillet 2017). Enfin, un filtrage des opérations de la plateforme de
+la société V n’est opéré que depuis janvier 2018 et selon une fréquence trimestrielle, ce qui ne permet pas à
+l’établissement A de se conformer à ses obligations dans ce domaine.
+43. L’établissement A ne conteste pas les constats de la première mission de contrôle sur les carences de
+son dispositif de gel des avoirs. La circonstance que la procédure qu’il a mise en place « mentionne un lien
+hypertexte qui permet d’avoir directement accès au site Internet de la DGT » ne permet pas de répondre au
+grief puisque les listes nationales de gel ne sont pas immédiatement incluses dans le dispositif de filtrage de
+l’établissement. L’établissement A n’était donc pas en mesure « d’appliquer sans délai les mesures de gel et
+les interdictions de mise à disposition ou d’utilisation », ce qu’illustre le dossier individuel mentionné par la
+poursuite. Un filtrage hebdomadaire destiné à identifier des carences dans ce domaine est en outre impropre à
+assurer une détection effective des personnes visées par une mesure de gel (cf. décision de la Commission n°
+2015-08, 8 décembre 2016, considérant 44).
+44. Compte-tenu de ce qui a été dit au point 10, le grief 6 est établi.
+*
+* *
+45. Il résulte de tout ce qui précède que, pendant la période couverte par le premier contrôle, le dispositif
+de gel des avoirs de l’établissement A était très lacunaire (grief 6), De plus, des défauts de DS, nombreux au
+regard du nombre d’opérations examinées, ont été retenus, notamment dans des dossiers dans lesquels le
+soupçon porte sur un possible financement du terrorisme (grief 5). Par ailleurs, les procédures internes de
+l’établissement A ne lui permettaient pas de se conformer pleinement à ses obligations en matière de LCB-FT
+Autorité de contrôle prudentiel et de résolution 12
+
+===== Page 13 =====
+Décision de la Commission des sanctions – procédure no 2019-06
+(grief 1). Même si le périmètre de ce grief a été réduit, les deux classifications des risques en vigueur au sein
+de l’entreprise n’étaient pas entièrement conformes aux dispositions alors applicables (grief 2). En outre,
+l’établissement A ne respectait pas pleinement ses obligations de vérification de l’identité des créateurs de
+cagnotte la société V et de leurs contributeurs (grief 3). Des carences ont également été relevées dans le respect
+de ses obligations d’effectuer un examen renforcé de certaines opérations (grief 4).
+46. Il convient toutefois, pour déterminer la sanction applicable dans le respect du principe de
+proportionnalité, de tenir compte de trois séries de considérations. Sans incidence sur la caractérisation des
+manquements, elles peuvent conduire à retenir certaines circonstances atténuantes.
+47. En premier lieu, si les activités de l’établissement A en matière de monnaie électronique et de services
+de paiement présentent des risques importants et exigent de ce fait une attention particulière de l’établissement
+au respect de ses obligations en matière de LCB-FT, il y a lieu de tenir compte, dans une certaine mesure, du
+fait que, pendant les exercices concernés par le premier contrôle, l’établissement A était encore une entreprise
+de création récente, dont la croissance était très rapide et qui, en outre, fait valoir qu’elle avait parfois des
+difficultés à identifier avec certitude ce qu’impliquaient exactement, pour les activités et produits innovants
+qu’elle développait, les obligations en matière de LCB-FT.
+48. En deuxième lieu, l’établissement A a mis en œuvre, depuis la fin du premier contrôle, des mesures de
+remédiation très significatives, qui ont mobilisé des ressources financières et humaines importantes. Le
+deuxième rapport de contrôle, qui relève que « l’établissement A met en œuvre un plan d’amélioration de son
+dispositif LCB-FT, structuré autour des quatre mesures correctrices attendues suite à la précédente mission
+de l’Inspection menée en 2018, auquel contribuent des ressources financières, humaines et techniques
+conséquentes. Les efforts déjà engagés et toujours en cours doivent être notés ainsi que l’implication de la
+Direction générale de l’établissement. », montre que l’entreprise - qui ne pourrait plus, désormais, se prévaloir
+d’une création récente ou des incertitudes liées au caractère innovant de son activité - a pris en compte les
+reproches qui lui ont été faits par la première mission de contrôle.
+Ainsi, une attention plus grande a été portée par l’établissement à ses obligations déclaratives et plus de
+2000 DS ont été envoyées à Tracfin depuis le début de l’année 2020 (grief 5).
+Par ailleurs, l’établissement a développé une interface, qui lui permet de se connecter aux outils de
+l’établissement de crédit B dédiés à l’identification des personnes politiquement exposées et de celles qui sont
+visées par une mesure restrictive. Il souligne la forte amélioration en matière de gel des avoirs qui en résulte,
+toute sa base clients étant désormais filtrée quotidiennement, et précise qu’il a par ailleurs abandonné
+l’exigence d’une correspondance orthographique exacte (grief 6).
+D’une façon générale, l’organisation de l’établissement A, tant en matière de LCB-FT qu’en matière de gel
+des avoirs, s’est sensiblement améliorée depuis la première mission de contrôle du premier semestre 2018.
+49. En troisième lieu, si l’établissement A intervient sur des marchés particulièrement dynamiques, les
+chiffres mentionnés au point 2 montrent que sa situation financière demeure, dans un contexte de très vive
+concurrence, fragile […]. Cette fragilité a été aggravée en 2020 par la crise sanitaire.
+50. Les manquements retenus par la Commission justifient, en raison de leur nature et de leur durée, le
+prononcé, en application de l’article L 612-39 du CMF, d’un blâme. Pour les mêmes raisons et au vu des
+éléments d’atténuation mentionnés ci-dessus (points 47 à 49), il y a lieu de prononcer une sanction pécuniaire
+de 150 000 euros.
+51. L’établissement A demande que la présente décision soit publiée sous une forme anonyme. Cependant,
+il se borne à soutenir de façon très générale qu’une publication sous forme nominative lui causerait un préjudice
+disproportionné en raison de l’avantage que pourront en tirer certains de ses concurrents, sans faire état d’aucun
+élément spécifique de nature à établir qu’une publication nominative méconnaîtrait, en l’espèce, l’équilibre
+entre l’exigence d’intérêt général à laquelle il répond et ses intérêts, il y a donc lieu, en application du dernier
+alinéa de l’article L 612-39 du CMF, de publier la présente décision au registre de l’ACPR sous forme
+nominative pendant une durée de trois ans. Elle y sera ensuite maintenue sous une forme non nominative.
+Autorité de contrôle prudentiel et de résolution 13
+
+===== Page 14 =====
+Décision de la Commission des sanctions – procédure no 2019-06
+*
+* *
+PAR CES MOTIFS
+DÉCIDE :
+ARTICLE 1ER – Il est prononcé à l’encontre de l’établissement A un blâme et une sanction pécuniaire de
+150 000 euros (cent cinquante mille euros).
+ARTICLE 2 – La présente décision sera publiée au registre de l’ACPR pendant 3 ans sous une forme
+nominative, puis sous une forme anonyme et pourra être consultée au secrétariat de la Commission.
+Le Président de la Commission
+des sanctions
+[Alain Ménéménis]
+Cette décision peut faire l’objet d’un recours dans un délai de deux mois à compter de sa notification et
+dans les conditions prévues au III de l’article L. 612-16 du code monétaire et financier.
+Autorité de contrôle prudentiel et de résolution 14
