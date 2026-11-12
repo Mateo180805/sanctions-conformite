@@ -7,16 +7,17 @@ Journal de bord du projet. La session la plus récente est en haut.
 
 ## Session 2 – 12 novembre 2026 (en cours) – Fiches d'analyse ACPR
 
-### État après le lot 3a
+### État après le lot 3b
 
 - [x] Format des fiches choisi et validé par Matéo.
 - [x] Essai de la grille sur 3 décisions (2024-06, 2024-02, 2022-07), validé.
 - [x] Lot 1 : 5 décisions (2024-01, 2023-01, 2022-05, 2022-06, 2022-03). Déposé sur GitHub par Matéo et vérifié (dépôt identique à la copie de travail, collecte du lundi intacte).
 - [x] Lot 2 : 5 décisions (2022-04, 2022-02, 2022-01, 2021-05, 2021-01).
 - [x] Lot 3a : 3 décisions (2020-11, 2020-09, 2020-08), dans une nouvelle conversation.
+- [x] Lot 3b : 3 décisions (2020-06, 2020-05, 2020-03). Lot 3a déposé sur GitHub par Matéo et vérifié avant de commencer (dépôt identique à la copie de travail).
 - [ ] Lots suivants : voir « Prochaine étape ».
 
-**16 fiches faites sur 66 décisions LCB-FT** : toutes les décisions LCB-FT et gel des avoirs rendues entre octobre 2021 et avril 2026. Aucune n'a encore été relue par Matéo (statut « à lire »).
+**19 fiches faites sur 66 décisions LCB-FT** : toutes les décisions LCB-FT et gel des avoirs rendues entre avril 2021 et avril 2026. Aucune n'a encore été relue par Matéo (statut « à lire »).
 
 | Décision | Établissement | Sanction | Griefs (retenus / en partie / écartés) |
 |---|---|---|---|
@@ -36,13 +37,16 @@ Journal de bord du projet. La session la plus récente est en haut.
 | 2020-11 | Office des postes et télécommunications de Nouvelle-Calédonie | blâme, 150 000 € | 7 / 1 / 0 |
 | 2020-09 | MMA IARD (gel des avoirs seulement) | blâme, 4 M€ | 5 / 0 / 0 |
 | 2020-08 | anonymisé (« société A », banque luxembourgeoise, monnaie électronique) | blâme, 120 000 € | 4 / 4 / 1 |
+| 2020-06 | anonymisé (établissement de paiement, cartes de paiement) | blâme, 2 M€ | 6 / 5 / 2 |
+| 2020-05 | anonymisé (banque d'une enseigne de magasins) | blâme, 1,5 M€ | 12 / 0 / 0 |
+| 2020-03 | anonymisé (assureur vie d'un groupe bancaire) | blâme, 2,5 M€ | 2 / 5 / 0 |
 
 ### Le format retenu
 
 - **Une fiche source par décision** : `donnees/fiches/acpr/ACPR-2024-06.json`. Format structuré, pour que le site (session 3) et l'étude comparative (session 4) puissent compter sans ressaisie.
 - **Une version lisible** : `fiches/acpr/ACPR-2024-06.md`, fabriquée automatiquement. C'est elle qu'on lit, à côté du PDF. Il ne faut pas la modifier à la main.
 - **Un programme** : `analyse/fiches.py`. Il n'écrit aucune analyse. Il vérifie chaque fiche (catégories de la grille, pages citées existant dans le PDF, paragraphe « En bref » présent) puis fabrique la version lisible. En cas de problème, il s'arrête en erreur.
-- **Un glossaire commun** : `donnees/glossaire.json` (59 termes depuis le lot 3a). Le programme ajoute en bas de chaque fiche un lexique avec les seuls termes qu'elle emploie.
+- **Un glossaire commun** : `donnees/glossaire.json` (69 termes depuis le lot 3b). Le programme ajoute en bas de chaque fiche un lexique avec les seuls termes qu'elle emploie.
 - Pour marquer une fiche comme lue ou y mettre des notes : modifier les deux lignes `"statut"` et `"mes_notes"` au début du fichier .json, puis relancer le programme.
 
 ### Choix faits
@@ -70,6 +74,17 @@ Journal de bord du projet. La session la plus récente est en haut.
 - Type d'établissement : deux nouveaux libellés (« prestataire de services de paiement (office des postes) », « établissement de crédit »). À harmoniser en session 3 avec la question 4.
 - Issues : « périmètre réduit » = « retenu en partie » (2020-11 grief 1, 2020-08 griefs 3, 5, 8, 9). « Fondé » avec un exemple écarté ou une « portée limitée » = « retenu », avec la précision.
 
+### Lot 3b (2020-06, 2020-05, 2020-03) – ce qu'il faut savoir
+
+- Mêmes contrôles qu'au lot 3a : `analyse/fiches.py` (19 fiches, 0 problème), recherche automatique de chaque nombre dans les pages citées, issues comparées à la phrase de conclusion de chaque grief. Aucun champ de la base à corriger.
+- **Grief abandonné par la poursuite** (2020-06, grief 13) : la grille n'a que trois issues ; il est classé « écarté » avec la précision « abandonné par la poursuite ». Même fiche, grief 6 : écarté pour erreur de base légale, pas sur le fond. Pour l'étude comparative, ne pas lire ces deux « écartés » comme des pratiques validées. Voir la question ouverte 6.
+- **Noms résiduels dans des textes officiels anonymisés** : le PDF de 2020-05 laisse passer un sigle (p. 4) et celui de 2020-03 le nom d'une banque (p. 7). Les fiches ne les reprennent pas. Ces mots sont dans `donnees/textes/` tels que publiés par l'ACPR ; le site ne devra ni les afficher ni les rendre cherchables (à traiter en session 3 avec le point ouvert 2 de la session 1).
+- Chiffres masqués par l'ACPR (nombre de clients, résultats, fonds propres) : laissés masqués, signalés comme tels.
+- Décomptes faits par Claude et signalés dans les fiches : 2020-05 grief 9 (familles de soupçons), 2020-03 griefs 3 et 5, 2020-06 grief 5 (total de comptes).
+- Coquilles probables des textes officiels, notées dans les fiches sans rien corriger : 2020-05 p. 9 (article L. 561-16 et citation qui ne correspondent pas) et p. 10 (« mai 2021 » pour 2019).
+- Glossaire : 10 termes ajoutés (équivalent temps plein, taux de concordance et faux positif, pays tiers à haut risque, extrait Kbis, bon de capitalisation au porteur, non bis in idem, approche par les risques, crypto-actifs, rachat précoce et avance, organe de surveillance). 7 fiches lisibles anciennes refaites pour leur lexique.
+- Thèmes qui reviennent, utiles pour l'étude comparative : stock d'alertes non traitées et délais de déclaration (2020-05, 2020-03) ; outil ou contrôle fourni par le groupe (2020-06, 2020-03) ; « exact match » et fréquence du filtrage gel des avoirs (2020-09, 2020-03) ; plusieurs griefs pour une même cause, admis par la Commission (2020-09, 2020-05, 2020-03).
+
 ### Incident au dépôt du lot 1
 
 Pendant la copie des fichiers, le dossier `workflows` est sorti de `.github` : GitHub Desktop affichait `collecte.yml` comme supprimé, plus une copie à la racine. Corrigé avant validation (clic droit > Discard changes sur les deux lignes). À surveiller à chaque dépôt : aucune ligne rouge, et le bon nombre de fichiers.
@@ -96,6 +111,7 @@ Pour limiter ce risque : des lots plus courts (3 décisions), et une conversatio
 3. Le grief sur les informations qui accompagnent les transferts de fonds (W-HA, règlement UE 2015/847) est classé « autre ».
 4. Type d'établissement : les fiches reprennent le terme de la décision (« banque », « établissement de crédit spécialisé », « établissement de paiement », « établissement de monnaie électronique », « assureur »). À harmoniser pour les filtres du site.
 5. Les champs `statut` et `mes_notes` existent à la fois dans la base et dans la fiche. Proposition : la fiche fait foi ; à trancher en session 3.
+6. Faut-il une quatrième issue « abandonné par la poursuite » ? Un seul cas pour l'instant (2020-06, grief 13), classé « écarté » avec précision. À trancher avant l'étude comparative ; le changement est simple (une ligne dans `analyse/fiches.py`, un champ dans la fiche).
 
 ### Points à vérifier par Matéo dans les fiches
 
@@ -107,13 +123,12 @@ Décision à lire en premier pour la méthode : 2022-01 (Axa Banque), pages 11 e
 
 Suite des fiches LCB-FT, des plus récentes aux plus anciennes, par lots de 3. Toutes les décisions restantes sont anonymisées : ne jamais chercher à retrouver l'établissement.
 
-- Lot 3b : 2020-06, 2020-05, 2020-03 – 43 pages.
 - Lot 4a : 2020-02, 2019-08, 2020-01 – 35 pages.
 - Lot 4b : 2019-07, 2019-06, 2019-04 – 47 pages.
 - Lot 5 : 2018-08, 2018-06, 2018-03 – 34 pages.
 - Lot 6 : 2018-04, 2017-10, 2018-05 – 28 pages. 2018-05 (radiation, 5 pages) est marquée « hors LCB-FT » dans la base : vérifier à la lecture ; fiche courte si c'est confirmé. On atteint alors janvier 2019 et 31 fiches.
 
-Calendrier visé : 30 fiches le 13 novembre au soir, site le 14, étude comparative le 15. Si les crédits manquent : s'arrêter après le lot 4b (25 fiches, tout 2020-2026 couvert) et garder le site, qui compte plus pour un recruteur que cinq fiches de 2018-2019.
+Calendrier visé : 30 fiches le 13 novembre au soir, site le 14, étude comparative le 15. Si les crédits manquent : s'arrêter après le lot 4b (25 fiches, toutes les décisions rendues de 2020 à 2026) et garder le site, qui compte plus pour un recruteur que cinq fiches de 2018-2019.
 
 Une nouvelle conversation tous les deux lots. Message de reprise : « Session 2, suite : lis PROJET.md et JOURNAL.md, récupère le dépôt, prends ACPR-2020-08 comme modèle de fiche anonymisée et traite le lot suivant du journal. »
 

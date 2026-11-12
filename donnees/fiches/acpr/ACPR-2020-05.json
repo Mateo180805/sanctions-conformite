@@ -1,0 +1,248 @@
+{
+  "id": "ACPR-2020-05",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT et gel des avoirs",
+  "resume_court": "La « société A » est la banque d'une enseigne de magasins : elle fait surtout du crédit à la consommation pour soutenir les ventes. En avril 2017, elle lance un compte courant avec carte de paiement, un produit nouveau pour elle, sans avoir prévu ce que cela changerait pour la lutte contre le blanchiment. Le nombre d'alertes est multiplié par quarante : 470 nouvelles alertes par jour, pour une équipe de moins de sept personnes capable d'en traiter 130. Plus de 200 000 alertes s'accumulent. L'outil les présentait par ordre alphabétique des noms de clients, si bien que les clients dont le nom commence par A étaient quatre fois plus contrôlés que ceux en S. Le conseil d'administration n'a été informé du retard qu'une seule fois en 2018, sans chiffre. Conséquences : 56 opérations suspectes jamais déclarées à Tracfin, et des déclarations envoyées en moyenne six mois après les faits. Les douze reproches sont retenus, presque tous sans contestation. Sanction : un blâme et 1,5 million d'euros. Le compte a été supprimé en juillet 2020.",
+  "identite": {
+    "etablissement": "anonymisé (« société A »)",
+    "type_etablissement": "établissement de crédit",
+    "precision_type": "Créée en 1980 par un groupe de distribution, agréée comme banque en 1988. Crédits renouvelables et prêts personnels (environ les trois quarts du produit net bancaire), épargne, assurance, carte de fidélité avec paiement différé. De 2017 à 2020 : un compte courant avec carte de paiement internationale à autorisation systématique, sans découvert ni dépôt d'espèces.",
+    "groupe": "Détenue à 60 % par une enseigne de magasins et à 40 % par une autre société (noms masqués)",
+    "pays": "France ; présente dans plusieurs pays d'Europe, dont la Belgique par une filiale, établissement de monnaie électronique",
+    "activite_et_taille": "Chiffres masqués dans le texte officiel (nombre de clients du compte, effectifs). Les clients du compte courant ne représentaient que 5 % du total des clients. Effectifs divisés par deux depuis 2018.",
+    "pages": [1, 2, 3, 6, 12]
+  },
+  "controle": {
+    "controle_sur_place": "du 17 juin au 4 octobre 2019",
+    "rapport_de_controle": "signé le 31 décembre 2019",
+    "ouverture_de_la_procedure": "décidée le 25 mai 2020, Commission saisie le 17 juin 2020 (la lettre de saisine est datée du 16 juin)",
+    "antecedents": "Pas de contrôle ni de sanction antérieurs mentionnés. La société avait lancé un premier plan de remédiation plus d'un an avant la fin du contrôle, sans résorber le stock d'alertes.",
+    "pages": [1, 3]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 1500000,
+    "publication": "anonymisée aujourd'hui",
+    "duree_publication_nominative": "décidée nominative pendant 5 ans, malgré la demande d'anonymat de la société, puis forme anonymisée",
+    "proposition_du_college": "blâme et sanction pécuniaire « qui ne soit pas inférieure à » 1,5 million d'euros, publication nominative pendant 5 ans",
+    "pages": [1, 2, 13]
+  },
+  "procedure": {
+    "questions_de_procedure": "La société soutenait qu'on ne peut pas être sanctionné plusieurs fois pour des manquements ayant la même origine (principe « non bis in idem »), tous ses problèmes venant du lancement du compte. La Commission répond, en citant le Conseil d'État, que plusieurs manquements distincts peuvent résulter des mêmes faits dans une même décision, pourvu que la sanction reste proportionnée. Ici, d'ailleurs, ce ne sont pas les mêmes faits : un défaut d'anticipation a eu des conséquences successives, sur le traitement des alertes puis sur les déclarations. Autre rappel : le Collège peut retenir plus de dossiers que le rapport de contrôle (11 déclarations tardives contre 6). Audience non publique, à la demande de la société ; le Trésor n'a pas formulé d'observations.",
+    "pages": [1, 2, 9, 10, 11, 12]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Trop peu de monde pour traiter les alertes",
+      "resume": "L'équipe LCB-FT comptait moins de sept postes à temps plein, sur trois niveaux d'analyse, et une seule personne pour les examens renforcés et les déclarations de soupçon. Elle traitait 130 alertes par jour quand 470 nouvelles arrivaient.",
+      "textes": ["arrêté du 3 novembre 2014, art. 51"],
+      "chiffres_cles": ["6,8 équivalents temps plein au pôle LCB-FT", "130 alertes traitées par jour pour 470 déclenchées, en moyenne, de mai 2018 à la fin du contrôle", "au 30 septembre 2019 : 100 000 alertes non traitées et 900 dossiers susceptibles d'une déclaration de soupçon, pour une seule personne", "plus de 100 000 autres alertes d'avant le 1er mai 2018 ; total supérieur à 200 000 (p. 12)"],
+      "issue": "retenu",
+      "precision_issue": "« Entièrement fondé », non contesté.",
+      "categorie": "gouvernance, moyens et formation",
+      "categorie_precision": "moyens humains",
+      "categories_secondaires": ["analyse des alertes et examen renforcé"],
+      "pages": [3, 12]
+    },
+    {
+      "numero": "2",
+      "titre": "Des alertes traitées par ordre alphabétique",
+      "resume": "L'outil affichait les alertes dans l'ordre alphabétique des noms de clients, et l'équipe traitait d'abord celles du jour. Aucun tri selon le risque, le montant ou le type de client. La société disait être libre de choisir son ordre de traitement ; la Commission répond qu'un dispositif n'est conforme que s'il atteint son but.",
+      "textes": ["arrêté du 3 novembre 2014, art. 46 et 49"],
+      "chiffres_cles": ["60 % des alertes traitées pour les noms commençant par A, contre 15 % pour ceux commençant par S", "60 % des alertes traitées chaque jour étaient celles du jour même", "nombre d'alertes multiplié par quarante après le lancement du compte"],
+      "issue": "retenu",
+      "precision_issue": "« Entièrement fondé ».",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "priorisation des alertes",
+      "categories_secondaires": ["dispositif de surveillance des opérations (outils, scénarios, seuils)"],
+      "pages": [3, 4]
+    },
+    {
+      "numero": "3",
+      "titre": "Un conseil d'administration à peine informé",
+      "resume": "En 2018, le conseil d'administration n'a été informé qu'une fois du stock d'alertes en retard, par une phrase sans aucun chiffre. La société répondait qu'aucun texte n'impose de tout écrire au procès-verbal ; elle n'a pas montré que l'information avait été donnée autrement.",
+      "textes": ["CMF R. 561-38-6", "arrêté du 3 novembre 2014, art. 243 et 246"],
+      "chiffres_cles": ["7 réunions du conseil en 2018, une seule mention du retard (procès-verbal du 11 juin 2018)"],
+      "issue": "retenu",
+      "precision_issue": "« Entièrement fondé ».",
+      "categorie": "gouvernance, moyens et formation",
+      "categorie_precision": "information de l'organe de surveillance",
+      "categories_secondaires": [],
+      "pages": [4, 5]
+    },
+    {
+      "numero": "4",
+      "titre": "Un contrôle permanent de second niveau plein de trous",
+      "resume": "Les contrôles de second niveau ne couvraient pas le suivi des personnes politiquement exposées, la détection des comportements atypiques par le réseau, le traitement des alertes, ni le filtrage et le signalement au Trésor en matière de gel des avoirs.",
+      "textes": ["CMF L. 561-32 (II)", "CMF R. 561-38-4", "arrêté du 3 novembre 2014, art. 71 et 72"],
+      "chiffres_cles": ["quatre domaines sans contrôle de second niveau"],
+      "issue": "retenu",
+      "precision_issue": "« Entièrement fondé », non contesté.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "contrôle permanent",
+      "categories_secondaires": [],
+      "pages": [5]
+    },
+    {
+      "numero": "5",
+      "titre": "Aucune procédure d'échange d'informations avec la filiale belge",
+      "resume": "Une maison mère doit organiser par écrit le partage, au sein du groupe, des informations utiles à la vigilance. Rien n'existait avec la filiale belge. Des réunions trimestrielles d'un comité, depuis mars 2019 seulement, ne remplacent pas une procédure.",
+      "textes": ["CMF L. 561-33 (I)", "CMF R. 561-29"],
+      "chiffres_cles": ["comité commun réuni chaque trimestre depuis mars 2019"],
+      "issue": "retenu",
+      "precision_issue": "« Entièrement fondé », non contesté.",
+      "categorie": "dispositif de groupe, filiales et correspondance bancaire",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [5, 6]
+    },
+    {
+      "numero": "6",
+      "titre": "Des déclarations de clients incohérentes et jamais vérifiées",
+      "resume": "À l'ouverture du compte, aucun justificatif de revenus ou de patrimoine n'était demandé, même aux clients jugés à risque élevé (sauf les personnes politiquement exposées). Les réponses étaient parfois absurdes, et personne ne les relevait.",
+      "textes": ["CMF L. 561-5-1", "CMF R. 561-12"],
+      "chiffres_cles": ["696 clients déclarant plus de 10 000 euros de revenu mensuel avec une situation incompatible : 401 employés, 176 demandeurs d'emploi, 87 techniciens, 32 étudiants", "234 clients nés avant 1950 avec une situation professionnelle incohérente avec leur âge"],
+      "issue": "retenu",
+      "precision_issue": "« Entièrement fondé », non contesté. Limité aux clients du compte courant, mais ils sont très nombreux.",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [6, 7]
+    },
+    {
+      "numero": "7",
+      "titre": "Personnes politiquement exposées : un filtrage sans calendrier, des demandes sans suite",
+      "resume": "Aucune fréquence n'était fixée pour filtrer toute la base clients : le dernier passage datait de l'été 2018. La plupart des personnes politiquement exposées (PPE) ont été repérées avec retard, et rien ne permettait de repérer leurs proches. Une fois une PPE trouvée, les informations demandées sur l'origine de son patrimoine ne revenaient pas, et personne ne relançait.",
+      "textes": ["CMF L. 561-10", "CMF R. 561-20-2"],
+      "chiffres_cles": ["69 PPE détectées, dont 41 lors du filtrage de l'été 2018 alors qu'elles l'étaient depuis 2017 au moins", "50 des 69 sans réponse aux informations demandées depuis plus d'un an"],
+      "issue": "retenu",
+      "precision_issue": "« Entièrement fondé », non contesté.",
+      "categorie": "personnes politiquement exposées et vigilance renforcée",
+      "categorie_precision": "détection et vigilance complémentaire",
+      "categories_secondaires": [],
+      "pages": [7, 8]
+    },
+    {
+      "numero": "8",
+      "titre": "Défauts d'examen renforcé",
+      "resume": "Sept dossiers où une opération inhabituelle n'a pas été examinée. Exemple commenté : un client répartit son allocation chômage entre plusieurs comptes ; ce n'est pas suspect en soi, mais le dossier contenait des informations contradictoires sur sa situation, ce qui pouvait cacher des allocations indues.",
+      "textes": ["CMF L. 561-10-2"],
+      "chiffres_cles": ["7 dossiers reprochés, 7 retenus"],
+      "issue": "retenu",
+      "precision_issue": "« Entièrement fondé », non contesté. Le rapporteur proposait un périmètre légèrement réduit.",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [8]
+    },
+    {
+      "numero": "9",
+      "titre": "Défauts de déclaration de soupçon",
+      "resume": "Cinquante-six dossiers, tous sur le compte courant. La Commission les regroupe : un compte personnel servant en réalité à une activité professionnelle peut-être dissimulée (34 dossiers) ; des comptes de passage, où l'argent entre et sort sans raison apparente, parfois avec l'étranger (15) ; des fraudes probables aux prestations sociales (4) ; des achats de crypto-actifs (3) ; une possible fraude fiscale (2) ; une possible escroquerie (1).",
+      "textes": ["CMF L. 561-15"],
+      "chiffres_cles": ["56 dossiers reprochés, 56 retenus", "34 dossiers d'activité professionnelle possiblement dissimulée ; 15 comptes de passage"],
+      "issue": "retenu",
+      "precision_issue": "« Entièrement fondé », non contesté. Le rapporteur proposait un périmètre légèrement réduit.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [8, 9]
+    },
+    {
+      "numero": "10",
+      "titre": "Des déclarations de soupçon trop pauvres",
+      "resume": "La moitié des déclarations examinées par les contrôleurs n'expliquaient pas assez ce qui fondait le soupçon et disaient trop peu de choses sur le client.",
+      "textes": ["CMF R. 561-31 (III)"],
+      "chiffres_cles": ["13 des 26 déclarations examinées"],
+      "issue": "retenu",
+      "precision_issue": "« Entièrement fondé », non contesté.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "qualité des déclarations",
+      "categories_secondaires": [],
+      "pages": [9]
+    },
+    {
+      "numero": "11",
+      "titre": "Des déclarations envoyées des mois après",
+      "resume": "Les déclarations partaient en moyenne plus de trois mois après les faits en 2018, six mois en 2019. Conséquence directe du manque de personnel.",
+      "textes": ["CMF L. 561-16"],
+      "chiffres_cles": ["délai moyen d'envoi : 104 jours en 2018, 180 jours au premier semestre 2019", "12 % des déclarations du premier semestre 2019 envoyées après plus de 360 jours", "11 déclarations tardives retenues (le rapport de contrôle n'en comptait que 6)"],
+      "issue": "retenu",
+      "precision_issue": "« Entièrement fondé », non contesté.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "délais de déclaration",
+      "categories_secondaires": [],
+      "pages": [9, 10]
+    },
+    {
+      "numero": "12",
+      "titre": "Gel des avoirs : un filtrage manuel et limité aux clients",
+      "resume": "Le filtrage reposait sur des manipulations de fichiers à la main, avec des erreurs : un fichier oublié, un autre lu en partie à cause d'un mauvais format. Surtout, seuls les clients étaient filtrés, pas les bénéficiaires de leurs virements : un virement est parti vers une personne portant le nom et le prénom de quelqu'un visé par une mesure de gel pour terrorisme, sans aucune vérification.",
+      "textes": ["CMF L. 562-4 (I)", "arrêté du 3 novembre 2014, art. 47"],
+      "chiffres_cles": ["fichier d'environ 80 000 clients non filtré le 16 mai 2019 (traité le 20 mai)", "fichier des représentants légaux lu partiellement entre le 20 et le 31 mai 2019", "virement de 1 380 euros vers l'Allemagne, le 5 février 2019, à un homonyme d'une personne sous mesure de gel depuis le 2 octobre 2018"],
+      "issue": "retenu",
+      "precision_issue": "Fondé. La société a prouvé qu'un des fichiers cités (celui des mandataires) avait bien été filtré ; cela ne remet pas en cause la fragilité d'ensemble. La Commission note qu'un seul cas de non-détection est relevé.",
+      "categorie": "gel des avoirs et sanctions financières",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [10, 11]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "Défaut d'anticipation : une banque et ses actionnaires ne pouvaient ignorer qu'un compte de paiement est plus risqué que du crédit à la consommation. Le produit était « en lui-même banal ».", "pages": [12]},
+      {"texte": "Plus de 200 000 alertes en attente : le dispositif de détection et d'analyse a été « saturé ».", "pages": [12]},
+      {"texte": "Que le compte n'ait concerné que 5 % des clients et n'ait duré que trois ans n'atténue rien.", "pages": [12]},
+      {"texte": "Plusieurs manquements ne viennent pas du nouveau compte et touchent toute l'activité : information du conseil, contrôle permanent, échanges avec la filiale, PPE, gel des avoirs. Certaines carences révèlent un défaut de conception.", "pages": [12]}
+    ],
+    "elements_attenuants": [
+      {"texte": "Plan de remédiation « volontariste » : décidé en mars 2020, mais précédé de mesures significatives prises avant l'ouverture de la procédure. Plus de 3,4 millions d'euros engagés au 19 mars 2021.", "pages": [12]},
+      {"texte": "Le compte n'est plus commercialisé : la société n'est plus exposée à ces risques.", "pages": [12]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Plan d'actions : fonctions conformité et LCB-FT restructurées et renforcées ; procédures et outils de gestion de compte refondus.", "pages": [7, 12]},
+      {"texte": "Dispositif PPE amélioré, effectif depuis fin 2020.", "pages": [8]},
+      {"texte": "Filtrage gel des avoirs automatisé, achevé en novembre 2020 selon la société.", "pages": [11]},
+      {"texte": "Suppression du compte courant le 15 juillet 2020.", "pages": [2]}
+    ],
+    "situation_financiere": {"texte": "Pertes nettes en 2019 et en 2020 (« plusieurs dizaines » de millions d'euros, chiffre masqué) ; « plusieurs centaines » de millions d'euros de capitaux propres. Le compte courant a été déficitaire jusqu'à sa suppression.", "pages": [2, 3]},
+    "cause_profonde": {"texte": "Le « défaut d'anticipation des risques » liés au lancement du compte courant : faute de les avoir pris en compte en préparant le lancement, la société a subi une hausse des alertes à laquelle elle n'a pas pu faire face, avec des effets en chaîne sur les examens et les déclarations.", "pages": [12]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Avant le lancement d'un produit, a-t-on estimé le nombre d'alertes attendu et les effectifs nécessaires pour les traiter ?",
+      "Le stock d'alertes et son ancienneté sont-ils suivis chaque semaine, avec un seuil qui déclenche un renfort ?",
+      "Les alertes sont-elles triées selon le risque, et non par date ou par ordre alphabétique ?",
+      "Les examens renforcés et les déclarations de soupçon reposent-ils sur plus d'une personne ?",
+      "Le conseil d'administration reçoit-il des chiffres (stock, délais, effectifs), et le procès-verbal en garde-t-il la trace ?",
+      "Le contrôle de second niveau couvre-t-il chaque obligation : PPE, alertes, gel des avoirs, signalement au Trésor ?",
+      "Les réponses du client à l'ouverture sont-elles confrontées entre elles (revenu, métier, âge) ?",
+      "Une demande d'information restée sans réponse est-elle relancée, puis suivie d'une décision ?",
+      "Le filtrage du gel des avoirs est-il automatisé, et couvre-t-il les bénéficiaires des virements ?",
+      "Le délai entre l'opération et la déclaration à Tracfin est-il mesuré ?",
+      "Les échanges d'informations LCB-FT avec les filiales sont-ils fixés dans une procédure écrite ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["nouveau produit", "compte de paiement", "crédit à la consommation", "stock d'alertes", "moyens humains", "ordre alphabétique", "information du conseil d'administration", "filiale belge", "comptes de passage", "délais de déclaration", "non bis in idem", "filtrage des opérations"],
+    "pages_prioritaires": [
+      {"pages": [3, 4], "pourquoi": "les chiffres du débordement et le tri alphabétique"},
+      {"pages": [4, 5], "pourquoi": "ce que le conseil d'administration doit savoir"},
+      {"pages": [8, 9], "pourquoi": "les familles de soupçons sur un compte courant"},
+      {"pages": [11, 12], "pourquoi": "plusieurs manquements pour une même cause, et le devoir d'anticiper"}
+    ],
+    "confiance": "élevée",
+    "a_verifier": [
+      "Décision anonymisée : je n'ai pas cherché à identifier l'établissement. Le texte officiel laisse passer un sigle page 4 ; je ne l'ai pas repris et il ne doit pas l'être sur le site.",
+      "Grief 9 : les nombres par famille (34, 15, 4, 3, 2, 1) sont mes décomptes des listes de dossiers des pages 8 et 9. Trois dossiers figurent dans deux familles (comptes de passage et crypto-actifs).",
+      "Griefs 8 et 9 : le rapporteur proposait de les réduire légèrement ; la Commission les dit « entièrement fondés ». J'ai suivi la Commission.",
+      "Grief 11 : l'article cité (L. 561-16) et la citation qui l'accompagne page 9 ne semblent pas correspondre. Je reprends le numéro donné par la décision.",
+      "Page 10, la décision écrit « entre le 20 et le 31 mai 2021 » : sans doute 2019, comme page 10 plus haut.",
+      "Le total « plus de 200 000 alertes » vient de la page 12 ; la page 3 donne les deux stocks séparément."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Fable 5.2), à partir du texte extrait du PDF officiel", "date": "2026-11-12", "relue_par_mateo": false}
+}
