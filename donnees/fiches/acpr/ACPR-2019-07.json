@@ -1,0 +1,373 @@
+{
+  "id": "ACPR-2019-07",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT et gel des avoirs",
+  "resume_court": "L'« établissement A » est une très petite entreprise du numérique devenue établissement de paiement fin 2015. Son produit d'origine est le micro-paiement : l'internaute appelle un numéro surtaxé ou envoie un SMS, reçoit un code et s'en sert pour payer quelques euros sur un site de jeux, de voyance ou pour adultes ; l'argent arrive sur le compte que le site a ouvert chez l'établissement. En 2017, elle a ajouté un service de paiement par carte classique, sans adapter ses règles. La poursuite avait dressé 21 reproches, dont la moitié hors anti-blanchiment (contrôle interne, comptabilité, protection des fonds des clients). La Commission en écarte quatre et en réduit onze, en partie parce que certaines pratiques figuraient dans le dossier d'agrément sans que l'ACPR ait réagi. Restent des manquements sérieux : des milliers de comptes « de test » ouverts sans vérifier l'identité de personne, aucun filtrage gel des avoirs digne de ce nom, et surtout aucune déclaration à Tracfin depuis l'agrément, alors que l'établissement bloquait lui-même des comptes en invoquant le blanchiment. Sanction : un blâme et 20 000 euros, pour 90 000 demandés.",
+  "identite": {
+    "etablissement": "anonymisé (« établissement de paiement A »)",
+    "type_etablissement": "établissement de paiement",
+    "precision_type": "Société anonyme créée en 1986 (vente de produits, édition de contenus, gestion de sites communautaires), qui fait du micro-paiement depuis 2007. Établissement de paiement « hybride », agréé le 15 juin 2015 sous conditions, définitivement le 16 décembre 2015. Trois produits : le service de micro-paiement par codes (« X »), des comptes de test de ce service (« Y ») et, depuis mai 2017, un service de paiement par carte (« Z »). Les clients sont les sites internet vendeurs, pas les internautes qui paient.",
+    "groupe": "L'établissement est lui-même la société mère de trois filiales, dont une à Hong Kong détenue à 80 %",
+    "pays": "France ; filiale à Hong Kong",
+    "activite_et_taille": "16,6 salariés en équivalent temps plein au moment du contrôle, dont 4,3 pour les services de paiement. Chiffre d'affaires : 3,8 millions d'euros en 2018, 6,6 millions en 2019 ; résultat net 2019 de 378 000 euros ; 2,5 millions d'euros de capitaux propres. Micro-paiement : paiement moyen de 2,36 euros par numéro surtaxé et de 9,7 euros par carte, environ 1,7 million d'euros de chiffre d'affaires en 2018. Service par carte : 7,73 millions d'euros encaissés en 2018, pour l'essentiel par un seul client, et environ 0,5 million d'euros de commissions.",
+    "pages": [3, 6]
+  },
+  "controle": {
+    "controle_sur_place": "du 8 octobre au 21 décembre 2018",
+    "rapport_de_controle": "signé le 12 avril 2019",
+    "ouverture_de_la_procedure": "décidée le 9 septembre 2019, Commission saisie le 24 septembre 2019",
+    "antecedents": "Aucun contrôle antérieur mentionné. L'établissement n'était agréé que depuis trois ans au moment du contrôle.",
+    "pages": [1, 3, 22]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 20000,
+    "publication": "anonymisée aujourd'hui",
+    "duree_publication_nominative": "décidée nominative pendant 3 ans, puis forme non nominative",
+    "proposition_du_college": "blâme et 90 000 euros, publication nominative",
+    "pages": [1, 2, 22]
+  },
+  "procedure": {
+    "questions_de_procedure": "Deux questions générales. 1) Les mêmes faits servent à plusieurs griefs : la Commission répond, comme le Conseil d'État, que le principe non bis in idem ne l'interdit pas dans une même procédure, mais qu'il faut en tenir compte dans le montant. 2) Peut-on sanctionner une pratique que l'ACPR connaissait depuis le dossier d'agrément et n'avait pas critiquée ? Le silence de l'autorité ne suffit pas à protéger l'établissement. La Commission pose cinq questions : le point a-t-il été clairement porté à la connaissance de l'ACPR ? À quelle occasion ? L'ACPR a-t-elle fait des observations ? L'établissement a-t-il vraiment appliqué ce qu'il avait présenté ? Aurait-il dû faire évoluer son dispositif depuis ? Résultat : une branche du grief 7 ne peut pas être sanctionnée, et l'argument compte comme circonstance atténuante. Audience non publique. Le rapporteur proposait d'écarter cinq griefs (2, 7, 18, 19, 20) ; la Commission retient pourtant les griefs 2 et 7.",
+    "pages": [1, 3, 4, 5]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Une procédure d'entrée en relation qui ignore le nouveau service",
+      "resume": "La procédure qui dit comment identifier un nouveau client ne parlait que du micro-paiement. Rien sur le service de paiement par carte, lancé après l'agrément, alors qu'il brasse des montants importants. Un document unique pour tous les produits est possible, à condition qu'il traite chacun d'eux. La seconde partie du reproche tombe : rien ne montre qu'un établissement de paiement doive demander systématiquement les revenus et le patrimoine de tous ses clients.",
+      "textes": ["arrêté du 3 novembre 2014, art. 61, 63 et 64"],
+      "chiffres_cles": ["aucun chiffre dans la décision pour ce grief"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Fondé qu'en sa première branche. »",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "",
+      "categories_secondaires": ["connaissance du client à l'entrée en relation"],
+      "pages": [5, 6]
+    },
+    {
+      "numero": "2",
+      "titre": "Aucune procédure d'examen renforcé pour le micro-paiement",
+      "resume": "Les procédures ne disaient pas quoi faire en cas d'opération inhabituelle. Une consigne demandant de noter les « événements marquants » ne remplace pas la description d'un examen renforcé. Que le dossier d'agrément de 2015 ait été muet sur ce point ne prouve pas que l'ACPR en était informée, encore moins qu'elle l'approuvait.",
+      "textes": ["arrêté du 3 novembre 2014, art. 66", "CMF L. 561-10-2"],
+      "chiffres_cles": ["procédures internes du 13 mars 2018 et du 1er juin 2018"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 2 est donc fondé. » Le rapporteur proposait de l'écarter.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "",
+      "categories_secondaires": ["analyse des alertes et examen renforcé"],
+      "pages": [6]
+    },
+    {
+      "numero": "3",
+      "titre": "Aucun échange d'informations organisé avec la filiale de Hong Kong",
+      "resume": "Une société mère doit organiser l'échange d'informations anti-blanchiment au sein de son groupe. Rien n'était prévu avec la filiale de Hong Kong, qui développait le service de paiement par carte dans des domaines très risqués comme les crypto-actifs. L'établissement l'admet.",
+      "textes": ["CMF L. 561-33", "CMF R. 561-29"],
+      "chiffres_cles": ["filiale détenue à 80 %"],
+      "issue": "retenu",
+      "precision_issue": "Fondé. La Commission ajoute qu'il doit être apprécié au regard de la taille du groupe.",
+      "categorie": "dispositif de groupe, filiales et correspondance bancaire",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [6]
+    },
+    {
+      "numero": "4",
+      "titre": "Des comptes « de test » ouverts sans vérifier l'identité",
+      "resume": "Les comptes de test s'ouvraient sans aucune vérification d'identité ; elle n'avait lieu que si le compte était transformé en compte définitif. L'établissement disait que ce n'étaient pas de vrais comptes de paiement, et que l'ACPR le savait. La Commission répond qu'au vu de leur fonctionnement ce sont des comptes de paiement, et que l'ACPR n'avait pas été clairement informée qu'un produit comparable au produit principal serait développé très activement en dehors des règles. Le « seuil de vigilance » de ces comptes était passé de 120 à 2 500 euros. Elle limite le manquement aux comptes qui ont réellement encaissé de l'argent.",
+      "textes": ["CMF L. 561-5 (I)", "CMF R. 561-5", "CMF R. 561-5-1"],
+      "chiffres_cles": ["38 071 comptes de test ouverts entre le 1er janvier 2016 et décembre 2018, pour 1,261 million d'euros encaissés", "8 634 comptes ayant encaissé : périmètre retenu", "seuil de vigilance de 120 euros, porté à 2 500 euros", "après le contrôle : offre de test limitée à 15 euros"],
+      "issue": "retenu en partie",
+      "precision_issue": "Fondé « dans un périmètre réduit » aux 8 634 comptes.",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "identification et vérification de l'identité",
+      "categories_secondaires": [],
+      "pages": [6, 7]
+    },
+    {
+      "numero": "5",
+      "titre": "Trop peu d'informations sur les clients",
+      "resume": "La poursuite reprochait l'absence d'informations sur la profession, les revenus et le patrimoine des clients. La Commission écarte l'essentiel : pour le micro-paiement et les comptes de test, la nécessité de connaître revenus et patrimoine n'est pas démontrée. Deux points restent. Pour une société cliente, un extrait Kbis ne suffit pas, il fallait aussi les statuts. Et pour le service par carte, vu ses caractéristiques, il fallait connaître la situation financière des clients pour juger si leurs opérations sont justifiées.",
+      "textes": ["CMF L. 561-6", "CMF L. 561-5-1", "CMF R. 561-12", "arrêté du 2 septembre 2009"],
+      "chiffres_cles": ["136 dossiers sans revenus et 142 sans patrimoine (reproche écarté)", "11 dossiers de sociétés sans statuts (retenu)", "7 dossiers du service par carte sans aucune information financière (retenu)"],
+      "issue": "retenu en partie",
+      "precision_issue": "Fondé « dans un périmètre fortement réduit ».",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [7, 8]
+    },
+    {
+      "numero": "6",
+      "titre": "Comptes ouverts à distance sans les deux vérifications supplémentaires",
+      "resume": "Quand un compte s'ouvre sans rencontrer le client, la loi exige au moins deux mesures supplémentaires pour confirmer son identité. Rien n'était fait pour les comptes de test. Pour les comptes définitifs de particuliers, la procédure prévoyait bien deux mesures, mais elles n'avaient pas été appliquées à tous. L'établissement soutenait que la règle était trop floue avant les lignes directrices de décembre 2018 et qu'un justificatif de domicile suffisait. Réponse : la règle était claire, et un justificatif de domicile ne confirme pas une identité.",
+      "textes": ["CMF L. 561-10 (1°)", "CMF R. 561-20"],
+      "chiffres_cles": ["120 comptes définitifs de particuliers ouverts sans les deux mesures", "comptes de test : 8 634 retenus au lieu de 38 071"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Intégralement fondé » pour les comptes définitifs et, « dans un périmètre réduit », pour les comptes de test.",
+      "categorie": "personnes politiquement exposées et vigilance renforcée",
+      "categorie_precision": "vigilance complémentaire : entrée en relation à distance",
+      "categories_secondaires": ["connaissance du client à l'entrée en relation"],
+      "pages": [8, 9]
+    },
+    {
+      "numero": "7",
+      "titre": "Une surveillance pensée contre la fraude, pas contre le blanchiment",
+      "resume": "Pour le micro-paiement, les alertes dataient d'avant l'agrément et visaient la fraude : aucune ne tenait compte du montant encaissé, de l'activité du client ou de son pays. Les retraits vers des comptes PayPal, payants alors que le virement bancaire est gratuit au-delà de 15 euros, n'étaient pas analysés. Quand une alerte sonnait, on bloquait les retraits pour se protéger des impayés, sans examen renforcé. Mais ce dispositif était décrit dans le dossier d'agrément : la Commission juge qu'il ne peut pas être sanctionné. Elle retient en revanche l'absence de toute surveillance organisée pour le service par carte, lancé après l'agrément : la surveillance « manuelle » invoquée n'est pas démontrée.",
+      "textes": ["arrêté du 3 novembre 2014, art. 46 et 49"],
+      "chiffres_cles": ["45 clients utilisaient le service par carte au moment du contrôle", "virement PayPal facturé 4 euros ; virement bancaire gratuit au-delà de 15 euros", "aucune déclaration de soupçon depuis l'agrément"],
+      "issue": "retenu en partie",
+      "precision_issue": "Fondé « dans un périmètre réduit » : la branche sur le micro-paiement est écartée parce que l'ACPR connaissait le dispositif, pas parce qu'il était suffisant. Le rapporteur proposait d'écarter tout le grief.",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [9, 10]
+    },
+    {
+      "numero": "8",
+      "titre": "Gel des avoirs : une consultation à la main, une seule fois",
+      "resume": "L'établissement consultait la liste des personnes visées par un gel sur le site du Trésor à l'ouverture d'un compte définitif, puis plus jamais pendant la relation. Aucune consultation pour les comptes de test ni pour le service par carte. Aucun filtrage automatique. L'établissement reconnaît le grief et fait valoir qu'aucune personne visée n'a été trouvée parmi ses clients.",
+      "textes": ["arrêté du 3 novembre 2014, art. 47"],
+      "chiffres_cles": ["aucun chiffre dans la décision pour ce grief"],
+      "issue": "retenu",
+      "precision_issue": "Fondé. La conclusion parle d'un dispositif « très lacunaire » (p. 21).",
+      "categorie": "gel des avoirs et sanctions financières",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [10, 11, 21]
+    },
+    {
+      "numero": "9",
+      "titre": "Quinze déclarations de soupçon non faites",
+      "resume": "Seize dossiers, quinze retenus. Les activités des clients étaient douteuses : loteries en ligne payées par appels surtaxés, qui semblent interdites ; revente de codes de jeux, de cartes cadeaux ou d'abonnements sans accord des marques ; rediffusion piratée de chaînes payantes ; achat de monnaies virtuelles ; 214 comptes de test au fonctionnement identique. Les fonds repartaient souvent par PayPal vers des inconnus. L'établissement avait lui-même bloqué des retraits, reçu des plaintes pour hameçonnage et des réquisitions de la gendarmerie, et écrit à un client que son refus tenait à des « mesures anti blanchiment ». La Commission rappelle deux choses : un petit montant ne dispense pas de déclarer, et quand une réquisition arrive, la déclaration aurait déjà dû être faite.",
+      "textes": ["CMF L. 561-15 (I)"],
+      "chiffres_cles": ["16 dossiers ou séries de dossiers, 15 retenus (le dossier 9.3 est écarté)", "214 comptes pour moins de 25 000 euros en deux ans et demi (9.1)", "plus de 700 000 euros sur quatre comptes liés (9.7)", "plus de 50 000 euros en 11 mois et plus de 130 000 euros pour deux loteries (9.4 et 9.5)", "près de 70 000 euros en six mois (9.15)"],
+      "issue": "retenu en partie",
+      "precision_issue": "Fondé « dans un périmètre réduit à 15 dossiers ». L'établissement a admis avoir « manqué de discernement ».",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [11, 12, 13, 14]
+    },
+    {
+      "numero": "10",
+      "titre": "Mesure des risques : des outils non mis à jour pour le nouveau service",
+      "resume": "La poursuite disait qu'il n'existait ni mesure des risques ni cartographie à jour. La Commission constate que ces outils existaient et vivaient. Elle retient seulement qu'ils n'avaient pas été adaptés au service de paiement par carte.",
+      "textes": ["arrêté du 3 novembre 2014, art. 3 c), 99 à 103 et 217"],
+      "chiffres_cles": ["aucun chiffre dans la décision pour ce grief"],
+      "issue": "retenu en partie",
+      "precision_issue": "Fondé « que dans un périmètre réduit ».",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "grief hors LCB-FT : mesure et cartographie des risques",
+      "categories_secondaires": [],
+      "pages": [14]
+    },
+    {
+      "numero": "11",
+      "titre": "Surveillance du risque de liquidité",
+      "resume": "Reproche de ne pas suivre le risque de manquer de trésorerie. Les articles invoqués ne s'appliquent pas aux établissements de paiement : la poursuite a retiré ce grief.",
+      "textes": ["arrêté du 3 novembre 2014, art. 148 et 155"],
+      "chiffres_cles": ["aucun chiffre dans la décision pour ce grief"],
+      "issue": "écarté",
+      "precision_issue": "Abandonné par la poursuite ; la Commission en prend acte.",
+      "categorie": "autre (à préciser)",
+      "categorie_precision": "grief hors LCB-FT : risque de liquidité",
+      "categories_secondaires": [],
+      "pages": [14, 15]
+    },
+    {
+      "numero": "12",
+      "titre": "Un incident à 580 000 euros signalé cinq mois plus tard",
+      "resume": "En juin 2018, l'erreur d'un prestataire télécom a fait perdre 580 000 euros de chiffre d'affaires. Le conseil d'administration n'a pas été informé en tant que tel et l'ACPR ne l'a été que le 30 novembre 2018, après un rappel des contrôleurs. La Commission retient ce défaut d'information « sans délai ». Elle écarte le reproche sur le recensement des incidents, que les articles invoqués n'imposent pas.",
+      "textes": ["arrêté du 3 novembre 2014, art. 98, 245 et 249", "CMF L. 521-10"],
+      "chiffres_cles": ["seuil interne d'incident significatif : 2 000 euros", "perte de chiffre d'affaires de 580 000 euros en juin 2018", "ACPR informée le 30 novembre 2018"],
+      "issue": "retenu en partie",
+      "precision_issue": "Fondé « dans un périmètre réduit ».",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "grief hors LCB-FT : incidents opérationnels",
+      "categories_secondaires": [],
+      "pages": [15]
+    },
+    {
+      "numero": "13",
+      "titre": "Des procédures jamais adaptées au service par carte",
+      "resume": "L'ensemble des procédures internes ne couvrait pas le service de paiement par carte. Il aurait fallu les mettre à jour au plus tard au démarrage du service, en mai 2017 : le contrôle interne doit couvrir toute l'activité.",
+      "textes": ["arrêté du 3 novembre 2014, art. 242 et 254"],
+      "chiffres_cles": ["34 procédures et 14 annexes"],
+      "issue": "retenu",
+      "precision_issue": "Fondé.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "grief de contrôle interne général",
+      "categories_secondaires": [],
+      "pages": [15, 16]
+    },
+    {
+      "numero": "14",
+      "titre": "Des contrôles de second niveau presque inexistants",
+      "resume": "Plusieurs procédures, dont celles sur le gel des avoirs et la traçabilité des paiements, ne prévoyaient aucun contrôle de second niveau. Pas de plan de contrôle, pas de trace, et la personne chargée de ces contrôles ne savait pas dire en quoi ils consistaient. La Commission retient la règle suivante : un contrôle ne compte que s'il est écrit de façon à pouvoir être prouvé plus tard.",
+      "textes": ["arrêté du 3 novembre 2014, art. 12 et 13"],
+      "chiffres_cles": ["7 procédures sur 34 sans contrôle de second niveau, dont 2 relatives à la LCB-FT"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 14 est donc fondé. » Le rapporteur proposait un périmètre réduit.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "contrôle permanent de second niveau",
+      "categories_secondaires": [],
+      "pages": [16]
+    },
+    {
+      "numero": "15",
+      "titre": "Nouveaux clients, nouveaux services : pas d'examen de conformité",
+      "resume": "Avant de lancer un produit ou de s'ouvrir à une nouvelle clientèle, le responsable de la conformité doit donner un avis écrit. Rien de tel pour les casinos en ligne, pour le service par carte ni pour le contrôle des opérations. Une réflexion avait eu lieu sur une plateforme d'achat de crypto-actifs, ce qui ne suffit pas.",
+      "textes": ["arrêté du 3 novembre 2014, art. 35"],
+      "chiffres_cles": ["aucun chiffre dans la décision pour ce grief"],
+      "issue": "retenu",
+      "precision_issue": "Fondé.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "conformité des nouveaux produits",
+      "categories_secondaires": [],
+      "pages": [16, 17]
+    },
+    {
+      "numero": "16",
+      "titre": "Aucun contrôle de conformité sur la filiale de Hong Kong",
+      "resume": "Aucun contrôle de conformité, notamment anti-blanchiment, n'était prévu ni fait sur la filiale de Hong Kong. Que celle-ci ait cessé les services de paiement en août 2019 ne change rien. Le reproche sur l'établissement de Polynésie est retiré : il n'a jamais fourni de services de paiement.",
+      "textes": ["arrêté du 3 novembre 2014, art. 41"],
+      "chiffres_cles": ["filiale sortie des services de paiement en août 2019"],
+      "issue": "retenu en partie",
+      "precision_issue": "Fondé « dans un périmètre réduit ».",
+      "categorie": "dispositif de groupe, filiales et correspondance bancaire",
+      "categorie_precision": "contrôle de conformité des filiales à l'étranger",
+      "categories_secondaires": ["procédures et contrôle interne"],
+      "pages": [17]
+    },
+    {
+      "numero": "17",
+      "titre": "Un contrôle périodique d'une journée par an",
+      "resume": "La responsable du contrôle périodique (l'audit interne) n'y avait consacré qu'une journée en 2017, pour relire des procédures. Pas de plan d'audit, pas de rapport ; elle reconnaissait ne pas connaître l'activité de paiement. L'établissement avait admis ses difficultés pendant le contrôle. Le reproche sur l'absence d'audit des filiales est écarté : la poursuite n'a pas visé le bon article.",
+      "textes": ["arrêté du 3 novembre 2014, art. 17"],
+      "chiffres_cles": ["1 journée de contrôle périodique en 2017"],
+      "issue": "retenu en partie",
+      "precision_issue": "Fondé « dans un périmètre réduit ».",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "contrôle périodique",
+      "categories_secondaires": [],
+      "pages": [17, 18]
+    },
+    {
+      "numero": "18",
+      "titre": "Procédures et schémas comptables",
+      "resume": "Reproche de procédures comptables trop sommaires, illustré par une erreur de signe sur une perte de 1,7 million d'euros dans les comptes publiés de 2017. La Commission répond qu'une erreur sur une page, exacte ailleurs, et deux erreurs matérielles ne prouvent pas que l'information comptable était de mauvaise qualité.",
+      "textes": ["arrêté du 3 novembre 2014, art. 11 c)"],
+      "chiffres_cles": ["erreur de signe sur 1,7 million d'euros"],
+      "issue": "écarté",
+      "precision_issue": "« Le grief 18 est donc écarté. »",
+      "categorie": "autre (à préciser)",
+      "categorie_precision": "grief hors LCB-FT : organisation comptable",
+      "categories_secondaires": [],
+      "pages": [18]
+    },
+    {
+      "numero": "19",
+      "titre": "Piste d'audit",
+      "resume": "Les logiciels de gestion des paiements et le logiciel de comptabilité n'enregistraient pas les opérations au même moment, d'où des écarts corrigés chaque mois. Pour la Commission, un décalage ne prouve pas qu'on ne peut pas remonter d'un chiffre à la pièce d'origine.",
+      "textes": ["arrêté du 3 novembre 2014, art. 11 d) et 85"],
+      "chiffres_cles": ["écart de 12 969 euros au 30 juin 2018"],
+      "issue": "écarté",
+      "precision_issue": "« Le grief 19 est donc écarté. »",
+      "categorie": "autre (à préciser)",
+      "categorie_precision": "grief hors LCB-FT : organisation comptable",
+      "categories_secondaires": [],
+      "pages": [18, 19]
+    },
+    {
+      "numero": "20",
+      "titre": "États réglementaires erronés envoyés à l'ACPR",
+      "resume": "Reproche d'avoir transmis à l'ACPR des chiffres faux et en retard. La Commission l'écarte point par point : la saisie manuelle n'est pas un manquement en soi ; les écarts étaient corrigés avant l'envoi ; elle ne peut pas trancher entre les valorisations de l'établissement, validées par ses commissaires aux comptes, et celles des contrôleurs ; et un doute subsiste sur l'envoi de chiffres provisoires, que l'ACPR aurait autorisé.",
+      "textes": ["arrêté du 3 novembre 2014, art. 11 c), 86 et 87"],
+      "chiffres_cles": ["fonds propres au 30 juin 2018 : -113 000 euros selon les contrôleurs, +188 000 euros selon l'établissement"],
+      "issue": "écarté",
+      "precision_issue": "« Le grief 20 est donc écarté. »",
+      "categorie": "autre (à préciser)",
+      "categorie_precision": "grief hors LCB-FT : organisation comptable",
+      "categories_secondaires": [],
+      "pages": [19, 20]
+    },
+    {
+      "numero": "21",
+      "titre": "Protection de l'argent des clients",
+      "resume": "Un établissement de paiement doit protéger l'argent qu'il détient pour ses clients, ici par une caution d'assurance. La poursuite critiquait les clauses du contrat et le calcul des sommes à couvrir. Presque tout est écarté ou retiré. Un seul point reste : des sommes bloquées en 2014 et 2015 après des soupçons de fraude, que l'établissement comptait garder au bout de cinq ans, sont au moins en partie de l'argent de clients ; en les réintégrant, la garantie était dépassée à certaines périodes.",
+      "textes": ["CMF L. 522-17", "arrêté du 29 octobre 2009, art. 33 bis"],
+      "chiffres_cles": ["caution de 1,2 million d'euros", "254 000 euros de fonds bloqués pour la période 2013-2015"],
+      "issue": "retenu en partie",
+      "precision_issue": "Fondé « que dans un périmètre très fortement réduit ».",
+      "categorie": "autre (à préciser)",
+      "categorie_precision": "grief hors LCB-FT : protection des fonds des clients",
+      "categories_secondaires": [],
+      "pages": [20, 21]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "Dispositif de gel des avoirs « très lacunaire » ; contrôle interne « encore embryonnaire » ; plusieurs manquements aux obligations de déclaration.", "pages": [21]},
+      {"texte": "Aucune déclaration de soupçon depuis l'agrément.", "pages": [10, 14]},
+      {"texte": "La sanction est justifiée par la nature et la durée des manquements.", "pages": [22]}
+    ],
+    "elements_attenuants": [
+      {"texte": "Agréé depuis trois ans seulement ; certaines pratiques ne semblaient faire l'objet d'aucune objection de l'ACPR depuis l'agrément.", "pages": [22]},
+      {"texte": "Les mêmes faits fondent plusieurs griefs.", "pages": [4, 22]},
+      {"texte": "Des actions de remédiation « énergiques », coûteuses au regard de ses ressources.", "pages": [22]},
+      {"texte": "Très petite entreprise, situation financière fragile, vive concurrence, y compris d'opérateurs qui, selon elle, ne sont pas agréés et échappent à ces obligations.", "pages": [22]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Conditions générales modifiées : l'offre de test est limitée à 15 euros.", "pages": [7]},
+      {"texte": "Recours à un prestataire externe pour le contrôle périodique.", "pages": [17]},
+      {"texte": "Audit annoncé des procédures anti-blanchiment ; les mesures qui en découleraient n'étaient pas encore en place.", "pages": [10]},
+      {"texte": "La filiale de Hong Kong a cessé les services de paiement en août 2019.", "pages": [17]}
+    ],
+    "situation_financiere": {"texte": "Chiffre d'affaires de 6,6 millions d'euros en 2019, résultat net de 378 000 euros, capitaux propres de 2,5 millions d'euros. La Commission retient une situation « fragile ».", "pages": [3, 22]},
+    "cause_profonde": {"texte": "La décision ne désigne pas de cause unique, mais un même constat revient dans plusieurs griefs (1, 5, 7, 10, 13 et 15) : le service de paiement par carte a été lancé en 2017 sans que les procédures, la surveillance, la cartographie des risques ni la conformité soient adaptées. S'y ajoute un dispositif d'alerte conçu avant l'agrément, pour lutter contre la fraude et les impayés.", "pages": [5, 10, 14, 16, 21]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Avant de lancer un nouveau service : les procédures, la classification des risques, les scénarios d'alerte et le filtrage gel le couvrent-ils ? Existe-t-il un avis écrit de la conformité ?",
+      "Un compte « de test » ou « provisoire » qui encaisse de l'argent est-il traité comme un vrai compte (identité vérifiée, filtrage) ?",
+      "Pour une ouverture à distance : quelles sont les deux mesures supplémentaires, et sont-elles appliquées à tous les dossiers ?",
+      "Pour une société cliente : les statuts sont-ils au dossier, en plus de l'extrait Kbis ?",
+      "Les alertes anti-fraude sont-elles relues sous l'angle du blanchiment ? Un blocage de compte pour fraude déclenche-t-il un examen renforcé et la question d'une déclaration ?",
+      "L'activité déclarée par le client est-elle légale, et a-t-il le droit de vendre ce qu'il vend ?",
+      "Les retraits vers des tiers ou par un moyen plus coûteux que nécessaire sont-ils analysés ?",
+      "Une réquisition judiciaire ou une plainte entraîne-t-elle une revue du compte ?",
+      "La base de clients est-elle filtrée à chaque mise à jour des listes de gel, et pas seulement à l'ouverture ?",
+      "Chaque contrôle de second niveau laisse-t-il une trace écrite ? Existe-t-il un plan de contrôle ?",
+      "L'audit interne a-t-il un plan, du temps et la compétence nécessaire ? Sinon, un prestataire externe est-il mandaté ?",
+      "Les filiales à l'étranger sont-elles dans le périmètre de la conformité et de l'échange d'informations ?",
+      "Quand un dispositif a été présenté à l'autorité lors de l'agrément : a-t-il changé depuis, et l'autorité en a-t-elle été informée par écrit ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["établissement de paiement hybride", "micro-paiement", "numéros surtaxés", "jeux en ligne", "comptes de test", "nouveau produit", "dossier d'agrément", "position antérieure de l'ACPR", "non bis in idem", "fraude et blanchiment", "PayPal", "crypto-actifs", "Hong Kong", "réquisitions judiciaires", "très petite entreprise", "contrôle interne", "protection des fonds", "griefs hors LCB-FT"],
+    "pages_prioritaires": [
+      {"pages": [4, 5], "pourquoi": "peut-on être sanctionné pour une pratique que l'ACPR connaissait ? Les cinq questions de la Commission"},
+      {"pages": [7], "pourquoi": "un compte « de test » est un compte de paiement"},
+      {"pages": [9, 10], "pourquoi": "une surveillance anti-fraude n'est pas une surveillance anti-blanchiment"},
+      {"pages": [11, 12, 13], "pourquoi": "les seize dossiers de soupçon : petits montants, activités douteuses, réquisitions"},
+      {"pages": [21, 22], "pourquoi": "pourquoi 20 000 euros seulement"}
+    ],
+    "confiance": "moyenne à élevée",
+    "a_verifier": [
+      "Décision anonymisée : je n'ai pas cherché à identifier l'établissement. La fiche laisse de côté des détails de la page 3 et de la page 20 qui n'apportent rien à l'analyse, ainsi que les noms de marques cités dans les dossiers du grief 9.",
+      "Décision longue (22 pages, 21 griefs). Les griefs 10 à 21 portent sur le contrôle interne, la comptabilité et la protection des fonds : ils sont résumés plus brièvement et marqués « hors LCB-FT » quand c'est le cas. Les griefs 13 à 17 touchent en partie l'anti-blanchiment ; je les ai laissés dans « procédures et contrôle interne ».",
+      "Décompte : 6 retenus, 11 retenus en partie, 4 écartés. Le rapporteur arrivait à 7, 8 et 5. Les écarts : la Commission retient les griefs 2 et 7 que le rapporteur écartait, et ne réduit pas le grief 14.",
+      "Grief 11 : abandonné par la poursuite, classé « écarté » (question ouverte 6 du journal). Grief 7, première branche : écartée parce que l'ACPR était informée, pas parce que la pratique était bonne. À ne pas lire comme une validation.",
+      "Grief 5 : la décision annonce « 7 dossiers » du service par carte mais n'en énumère que 6 (5.1 à 5.6), p. 8.",
+      "Grief 7 : la décision renvoie au « faisceau d'indices présenté au point 4 » (p. 10) ; ce faisceau figure au point 6 (p. 4 et 5).",
+      "Grief 21 : les retraits bloqués sont chiffrés à 207 000 euros p. 20 et à 215 000 euros p. 21. Je n'ai repris aucun des deux.",
+      "Grief 6 : rangé avec la vigilance complémentaire, selon la convention du journal. Il porte en réalité sur la vérification d'identité à distance.",
+      "Cause profonde : le lien entre ces griefs et le lancement du service par carte est mon rapprochement ; la décision ne le formule pas en une phrase.",
+      "Publication : décidée nominative pour 3 ans (p. 22) ; le texte en ligne est aujourd'hui anonymisé."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Fable 5.2), à partir du texte extrait du PDF officiel", "date": "2026-11-12", "relue_par_mateo": false}
+}

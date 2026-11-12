@@ -1,0 +1,173 @@
+{
+  "id": "ACPR-2019-06",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT et gel des avoirs",
+  "resume_court": "L'« établissement A » est un établissement de monnaie électronique luxembourgeois, contrôlé par une banque. C'est la tuyauterie de paiement de milliers de sites : cagnottes en ligne, financement participatif, places de marché. L'argent versé par un internaute devient de la monnaie électronique dans un porte-monnaie tenu par l'établissement. En France, il travaille par l'intermédiaire de ces sites, qui sont ses distributeurs ou ses agents : c'est ce qui le soumet aux règles françaises et au contrôle de l'ACPR, ce qu'il contestait en partie. Le reproche central tient à un chiffre : il ne vérifiait l'identité d'un client qu'au-delà de 2 500 euros par an, alors que la dispense légale s'arrête à 250 euros par mois. Conséquence : la grande majorité des utilisateurs n'étaient ni identifiés ni comparés aux listes de gel des avoirs. S'y ajoutent 35 dossiers non déclarés à Tracfin, dont 13 cagnottes pour lesquelles il existait des raisons de soupçonner un financement du terrorisme. La Commission tient compte d'une entreprise jeune, en croissance très rapide, qui a beaucoup corrigé depuis. Sanction : un blâme et 150 000 euros, pour au moins 500 000 demandés.",
+  "identite": {
+    "etablissement": "anonymisé (« établissement A »)",
+    "type_etablissement": "établissement de monnaie électronique",
+    "precision_type": "Établissement de droit luxembourgeois, agréé en 2013 par la CSSF (l'autorité du Luxembourg) comme établissement de monnaie électronique, habilité à fournir des services de paiement. En France, il émet de la monnaie électronique par un réseau de distributeurs (places de marché, plateformes de financement participatif, sites de cagnottes) et fournit des services de paiement par des agents ; une autre partie de son activité est exercée en libre prestation de services, hors du champ de la décision.",
+    "groupe": "Filiale d'une société liée à un site de cagnottes en ligne, elle-même détenue en majorité depuis septembre 2015 par un établissement de crédit (non nommés)",
+    "pays": "Luxembourg (siège) ; activité en cause exercée en France",
+    "activite_et_taille": "2,2 milliards d'euros de transactions en 2018, soit 25 fois plus qu'en 2013 ; 40 millions de paiements dans 160 pays, pour 2 500 plateformes. Chiffre d'affaires de 15 millions d'euros en 2017, 24 millions en 2018, 38 millions en 2019 ; résultat net de -0,8, +0,9 et -3,2 millions d'euros ; capitaux propres légèrement inférieurs à 2 millions d'euros fin 2019. Effectifs passés de 26 à 165 équivalents temps plein entre 2015 et 2020.",
+    "pages": [2, 3]
+  },
+  "controle": {
+    "controle_sur_place": "premier contrôle du 12 février au 8 juin 2018 ; second contrôle, de vérification, du 13 septembre au 20 décembre 2019",
+    "rapport_de_controle": "premier rapport signé le 19 décembre 2018 ; second rapport signé le 14 avril 2020",
+    "ouverture_de_la_procedure": "décidée le 23 avril 2019 ; lettre de saisine du 28 mai 2019 (la décision indique plus loin une saisine le 29 mai)",
+    "antecedents": "Aucune sanction antérieure mentionnée. Une lettre de suite du 12 juin 2019 a demandé confirmation de quatre mesures correctrices ; le second contrôle a vérifié leur mise en œuvre.",
+    "pages": [1, 2, 3]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 150000,
+    "publication": "anonymisée aujourd'hui",
+    "duree_publication_nominative": "décidée nominative pendant 3 ans, puis forme non nominative",
+    "proposition_du_college": "blâme et sanction pécuniaire « qui ne soit pas inférieure à 500 000 euros », publication nominative pendant 5 ans",
+    "pages": [1, 2, 13, 14]
+  },
+  "procedure": {
+    "questions_de_procedure": "Quatre questions générales, toutes tranchées contre l'établissement. 1) Compétence : un établissement européen relève des règles françaises anti-blanchiment et de l'ACPR pour ce qu'il fait en France par des agents ou des distributeurs (libre établissement) ; ce qu'il fait en libre prestation de services relève de l'autorité de son pays, ici la CSSF. L'établissement soutenait que ses partenaires, déclarés comme agents, n'étaient en réalité que des apporteurs d'affaires. Réponse : il les avait lui-même déclarés comme agents, sans objection des autorités, et ne les a « dénotifiés » qu'après le contrôle ; l'ACPR était donc compétente. 2) Clarté des règles : entre l'ordonnance de décembre 2016 et ses décrets de 2018, les obligations étaient-elles lisibles ? Oui : le plafond de 250 euros par 30 jours figurait dans le code depuis le 1er janvier 2017, et un professionnel averti, actif dans toute l'Union européenne, ne pouvait l'ignorer. Pour le gel des avoirs, la loi était assez précise pour s'appliquer sans décret. 3) Précision des griefs : suffisante. 4) La poursuite pouvait produire des extraits du second rapport de contrôle, puisqu'ils n'ajoutent aucun grief et que l'établissement a pu y répondre. Audience non publique.",
+    "pages": [1, 3, 4, 5, 6]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Des seuils maison dix fois trop hauts dans les procédures",
+      "resume": "Les procédures internes ne prévoyaient de vérifier l'identité du titulaire d'un porte-monnaie électronique qu'au-delà de 2 500 euros chargés par an, alors que la dispense légale cesse dès 250 euros sur 30 jours. Pour les comptes de paiement, la vérification n'était prévue qu'au-delà de 2 500 euros sur 12 mois ou de 250 euros par paiement, alors que la loi l'impose dès le premier euro. La majorité des utilisateurs du site de cagnottes n'étaient donc pas identifiés.",
+      "textes": ["CMF L. 561-32 (I)", "CMF R. 561-16 (5°)", "CMF L. 561-5"],
+      "chiffres_cles": ["seuil interne : 2 500 euros par année civile ; seuil légal : 250 euros sur 30 jours", "comptes de paiement : 2 500 euros sur 12 mois ou 250 euros par paiement, au lieu du premier euro"],
+      "issue": "retenu",
+      "precision_issue": "« Doit être regardé comme établi. » Les faits n'étaient pas contestés ; seul l'argument sur la clarté des règles était avancé.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "",
+      "categories_secondaires": ["connaissance du client à l'entrée en relation"],
+      "pages": [6, 7]
+    },
+    {
+      "numero": "2",
+      "titre": "Une classification des risques trop grossière",
+      "resume": "Deux classifications sont critiquées. Celle des sites partenaires leur donnait un niveau de risque selon leur seule catégorie (financement participatif, cagnotte, place de marché) : tout le financement participatif par dons était en risque faible, alors que le GAFI et Tracfin le signalaient comme exposé, et la notion de « clientèle à risque » n'était pas définie. Celle des clients finaux ignorait la nature des personnes morales : les associations étaient en risque faible ou normal malgré les alertes de Tracfin sur le financement du terrorisme. Peu importe qu'elles pèsent très peu dans la clientèle. Deux critiques de la poursuite sont écartées : les sites de paris et de jeux étaient bien traités comme clientèle à risque, et comparer les seuils au montant moyen d'une cagnotte n'a pas de sens, une cagnotte étant l'addition de plusieurs porte-monnaie.",
+      "textes": ["CMF L. 561-4-1"],
+      "chiffres_cles": ["0,78 % de clients personnes morales, dont 0,07 % d'associations", "montant moyen final d'une cagnotte : 450 euros (argument écarté)"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Établi dans un périmètre réduit. »",
+      "categorie": "classification des risques",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [7, 8]
+    },
+    {
+      "numero": "3",
+      "titre": "Créateurs de cagnottes et gros contributeurs non identifiés",
+      "resume": "L'établissement ne vérifiait pas l'identité de celui qui crée une cagnotte quand il n'en est pas le bénéficiaire, estimant ne pas être en relation d'affaires avec lui. La Commission juge au contraire que l'organisateur signe le contrat, administre la cagnotte et agit pour le compte des contributeurs : il fallait vérifier son identité. Même défaut pour les contributeurs qui versent plus de 250 euros sur 30 jours dans une cagnotte : presque aucun n'était identifié.",
+      "textes": ["CMF L. 561-5", "CMF R. 561-5", "CMF R. 561-16"],
+      "chiffres_cles": ["17,7 % des cagnottes créées par une personne qui n'en est pas bénéficiaire", "1 898 contributeurs identifiés sur 27 957 au-dessus du plafond, de janvier 2017 à février 2018", "8 dossiers cités en exemple"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 3 est donc établi. »",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "identification et vérification de l'identité",
+      "categories_secondaires": ["relation d'affaires et clients occasionnels"],
+      "pages": [8, 9]
+    },
+    {
+      "numero": "4",
+      "titre": "Quatre examens renforcés non faits",
+      "resume": "Quatre dossiers où l'établissement ne savait presque rien du client. Une cagnotte à l'objet vague qui reçoit de l'argent d'une personne dont l'identité correspond à celle d'un individu visé par un gel des avoirs. Une autre à l'objet tout aussi vague, où l'organisateur et la bénéficiaire ont la même adresse électronique et où beaucoup d'opérations échouent. Deux clients dont les opérations ne collent pas avec leurs revenus, dont l'un a vendu pour plus de 43 000 euros sur un site de vêtements d'occasion.",
+      "textes": ["CMF L. 561-10-2"],
+      "chiffres_cles": ["4 dossiers", "43 opérations pour plus de 43 000 euros sur une plateforme de vêtements d'occasion (dossier 4.4)"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 4 est donc établi. »",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [9]
+    },
+    {
+      "numero": "5",
+      "titre": "Trente-cinq déclarations de soupçon non faites",
+      "resume": "Trois familles. Dix-huit dossiers de fraude probable aux moyens de paiement : des séries de paiements par carte ou virement rejetés (carte volée ou perdue, échec de l'authentification, refus de la banque), des comptes bloqués par l'établissement ou ses partenaires, mais rien pour Tracfin. Treize cagnottes où un financement du terrorisme pouvait être soupçonné : créateur ou contributeurs introuvables, objet vague, réquisition judiciaire visant une entreprise terroriste, blocage de la cagnotte par l'établissement lui-même pour motif anti-blanchiment, signalement d'un utilisateur, fonds partant vers un pays que l'établissement s'interdit. Quatre dossiers de services de paiement : des encaissements massivement rejetés pour fraude. L'établissement expliquait que la cellule de renseignement luxembourgeoise et Tracfin n'avaient pas la même lecture de ses obligations avant janvier 2018. La Commission répond que seule la loi française compte pour l'activité en France, et que l'établissement le savait puisqu'il avait déjà envoyé des déclarations à Tracfin.",
+      "textes": ["CMF L. 561-15 (I et III)"],
+      "chiffres_cles": ["35 dossiers ou séries de dossiers : 18 de fraude aux moyens de paiement, 13 de soupçon de financement du terrorisme, 4 de services de paiement", "opérations de quelques milliers d'euros à 127 000 euros (fraude) ; transactions rejetées de 12 000 à près de 800 000 euros (services de paiement)", "14 déclarations envoyées à Tracfin entre 2015 et début 2018", "exemple : 312 crédits pour plus de 40 000 euros en un peu plus d'un an sur le compte d'une cliente dont un autre compte avait été bloqué pour fraude"],
+      "issue": "retenu",
+      "precision_issue": "Le grief « est établi, chaque défaut de DS représentant en lui-même un manquement ». Le petit nombre de dossiers au regard de l'activité ne change rien.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [9, 10, 11, 12]
+    },
+    {
+      "numero": "6",
+      "titre": "Gel des avoirs : pas de filtrage sous 2 500 euros",
+      "resume": "La loi interdit de mettre le moindre euro à la disposition d'une personne visée par un gel. Or la procédure ne filtrait les clients qu'au-delà de 2 500 euros, et les bénéficiaires de cagnottes qu'au-delà de 1 000 euros versés. Le filtrage ne comparait que le nom et les prénoms, à la lettre près. Les listes nationales arrivaient par la maison mère, avec retard : un gel décidé le 7 juillet 2017 n'a été appliqué que le 3 août. Les opérations du site de cagnottes n'étaient filtrées que depuis janvier 2018, une fois par trimestre.",
+      "textes": ["CMF L. 562-4 (I)"],
+      "chiffres_cles": ["filtrage à partir de 2 500 euros ; 1 000 euros pour les bénéficiaires de cagnottes", "près de 200 homonymes d'une personne visée non détectés", "arrêté du 7 juillet 2017 ; gel effectif le 3 août 2017", "filtrage trimestriel des opérations depuis janvier 2018"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 6 est établi. » Non contesté. La conclusion parle d'un dispositif « très lacunaire » (p. 12).",
+      "categorie": "gel des avoirs et sanctions financières",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [12]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "Dispositif de gel des avoirs « très lacunaire ».", "pages": [12]},
+      {"texte": "Des défauts de déclaration « nombreux au regard du nombre d'opérations examinées », notamment sur un possible financement du terrorisme.", "pages": [12]},
+      {"texte": "Monnaie électronique et services de paiement présentent des risques importants et demandent une attention particulière.", "pages": [13]}
+    ],
+    "elements_attenuants": [
+      {"texte": "Entreprise alors récente, en croissance très rapide, qui pouvait avoir du mal à savoir ce que les règles exigeaient pour des produits innovants. La Commission précise qu'elle ne pourrait plus invoquer cet argument à l'avenir.", "pages": [13]},
+      {"texte": "Des mesures de remédiation « très significatives », constatées par le second contrôle.", "pages": [13]},
+      {"texte": "Situation financière fragile, aggravée en 2020 par la crise sanitaire.", "pages": [13]},
+      {"texte": "Grief 2 réduit.", "pages": [8, 13]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Mesures demandées par la lettre de suite : vérification d'identité au premier euro pour les comptes de paiement et au-delà de 250 euros pour les porte-monnaie, appliquée à 90 % des clients existants ; gel des avoirs dès le premier euro ; nouvelle classification des risques ; procédures validées par la banque actionnaire.", "pages": [3]},
+      {"texte": "Plus de 2 000 déclarations de soupçon envoyées à Tracfin depuis le début de 2020.", "pages": [13]},
+      {"texte": "Connexion aux outils de la banque actionnaire pour repérer les personnes politiquement exposées et les personnes visées par un gel ; toute la base de clients filtrée chaque jour ; abandon de la comparaison à la lettre près.", "pages": [13]}
+    ],
+    "situation_financiere": {"texte": "Chiffre d'affaires de 38 millions d'euros en 2019, perte de 3,2 millions, capitaux propres un peu inférieurs à 2 millions. La Commission retient une situation « fragile » dans un contexte de très vive concurrence.", "pages": [3, 13]},
+    "cause_profonde": {"texte": "La décision ne désigne pas de cause unique. Les griefs 1, 3 et 6 ont la même origine : des seuils internes (2 500 euros) sans rapport avec le plafond légal, appliqués à la vérification d'identité comme au gel des avoirs. La Commission relève aussi la croissance très rapide et la nouveauté de l'activité.", "pages": [6, 12, 13]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Les seuils de vérification d'identité inscrits dans les procédures sont-ils ceux de la loi en vigueur ? Qui les revoit quand la loi change ?",
+      "Une dispense de vigilance vaut-elle aussi dispense de filtrage gel des avoirs ? (Non : le gel s'applique au premier euro.)",
+      "Dans un montage à plusieurs acteurs (plateforme, organisateur, contributeurs, bénéficiaire) : qui est client, et qui agit pour le compte de qui ?",
+      "Le filtrage gel accepte-t-il les variantes d'orthographe ? Les nouvelles listes sont-elles intégrées le jour même, sans dépendre d'un envoi de la maison mère ?",
+      "Chaque partenaire distributeur ou agent a-t-il sa propre note de risque, fondée sur sa clientèle et ses produits, et pas seulement sur sa catégorie ?",
+      "Les associations et autres personnes morales sont-elles évaluées selon leur nature et leur activité ?",
+      "Un compte ou une cagnotte bloqué pour fraude ou pour motif anti-blanchiment donne-t-il lieu à une décision écrite sur la déclaration de soupçon ?",
+      "Une série de paiements rejetés (carte volée, échec d'authentification) est-elle traitée comme un indice de soupçon ?",
+      "Pour une activité exercée dans un autre pays par des agents : à quelle cellule de renseignement financier faut-il déclarer, et un représentant permanent est-il désigné ?",
+      "Le statut déclaré de chaque partenaire (agent, distributeur, simple apporteur d'affaires) correspond-il à ce qu'il fait réellement ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["Luxembourg", "CSSF", "monnaie électronique", "cagnottes en ligne", "financement participatif", "places de marché", "libre établissement", "libre prestation de services", "agents et distributeurs", "seuil de 250 euros", "financement du terrorisme", "fraude aux moyens de paiement", "associations", "exact match", "double déclaration", "croissance rapide", "second contrôle", "lettre de suite"],
+    "pages_prioritaires": [
+      {"pages": [3, 4], "pourquoi": "quand un établissement luxembourgeois relève de l'ACPR : libre établissement ou libre prestation de services"},
+      {"pages": [5], "pourquoi": "une règle peut s'appliquer avant ses décrets ; le plafond de 250 euros"},
+      {"pages": [8, 9], "pourquoi": "qui est client dans une cagnotte"},
+      {"pages": [10, 11], "pourquoi": "les indices de fraude et de financement du terrorisme, et la question de la double déclaration"},
+      {"pages": [12, 13], "pourquoi": "gel des avoirs au premier euro ; ce qui a fait baisser la sanction"}
+    ],
+    "confiance": "moyenne à élevée",
+    "a_verifier": [
+      "Décision anonymisée : je n'ai pas cherché à identifier l'établissement, ni le site de cagnottes et la banque auxquels il est lié.",
+      "L'anonymisation rend la page 2 difficile à suivre : la décision appelle « société V » à la fois l'ancien nom de l'établissement, sa société mère et le site de cagnottes. La fiche dit seulement qu'il est lié à un site de cagnottes ; à relire.",
+      "Même difficulté pages 4 et 10 à 11 : le partenaire des services de paiement est désigné tantôt par « société A », tantôt par « société [X] ».",
+      "Grief 5 : la décision examine les dossiers par familles (18, 13 et 4) et conclut que le grief est établi, sans écarter de dossier. « 35 retenus » est donc ma lecture.",
+      "Grief 5 : parmi les indices cités pour les 13 cagnottes figure le lien possible avec une personne « prônant une pratique religieuse rigoriste » (p. 11). Je ne l'ai pas repris dans le résumé ; à toi de voir s'il faut le mentionner, en citant la décision.",
+      "Grief 6 : le grief parle d'un filtrage trimestriel des opérations ; la réponse de la Commission évoque un filtrage « hebdomadaire » (p. 12). Les deux passages ne visent peut-être pas le même contrôle.",
+      "Saisine : lettre du 28 mai 2019 (p. 1), « saisie le 29 mai 2019 » (p. 3).",
+      "Grief 3 : la catégorie secondaire « relation d'affaires » est mon choix, la Commission tranchant que l'organisateur noue une relation d'affaires.",
+      "Publication : la poursuite demandait 5 ans, la Commission décide 3 ans (p. 13 et 14) ; le texte en ligne est aujourd'hui anonymisé."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Fable 5.2), à partir du texte extrait du PDF officiel", "date": "2026-11-12", "relue_par_mateo": false}
+}

@@ -1,0 +1,223 @@
+{
+  "id": "ACPR-2019-04",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT et gel des avoirs",
+  "resume_court": "La « société A » est un petit établissement de paiement qui s'appuyait sur le réseau de boutiques d'un groupe, outre-mer, pour proposer un compte et des paiements à des personnes à faibles revenus, souvent sans compte en banque. Déficitaire, elle a décidé fin 2018 d'arrêter son activité ; la procédure a quand même été menée à son terme. La Commission retient les dix reproches. Les seuils d'alerte étaient sans rapport avec la réalité : il fallait déposer 1 500 euros en espèces en une fois pour qu'on pose une question, alors que le dépôt moyen était de 170 euros, si bien que presque rien ne remontait. La classification des risques ignorait le pays d'origine ou de résidence des clients, et la société invoquait l'interdiction des discriminations : la Commission répond qu'évaluer un risque n'est pas refuser un service. Les contrôles de second niveau étaient en partie faits par ceux qui dirigeaient les opérations. La liste des personnes visées par un gel des avoirs n'était comparée aux clients qu'une fois par mois. Sept clients auraient dû être signalés à Tracfin. Sanction : un blâme et 70 000 euros, pour 100 000 demandés.",
+  "identite": {
+    "etablissement": "anonymisé (« société A »)",
+    "type_etablissement": "établissement de paiement",
+    "precision_type": "Société par actions simplifiée appartenant à un groupe, agréée comme établissement de paiement le 10 octobre 2012. Elle fournissait des services de paiement dans le réseau de boutiques du groupe, outre-mer, à une clientèle majoritairement non bancarisée et à faibles revenus. Son actionnaire unique a décidé fin 2018 d'arrêter l'activité et de demander le retrait de l'agrément ; les opérations ont cessé entre mars et mai 2019.",
+    "groupe": "Groupe non nommé (« groupe A »), actionnaire unique",
+    "pays": "France (outre-mer)",
+    "activite_et_taille": "Début 2018 : 50 000 opérations par an pour plus de 20 000 clients, dont 36 % de nationalité étrangère. En 2018 : produit net bancaire de 1,4 million d'euros, perte de 3,5 millions d'euros, 2,7 millions d'euros de fonds propres en fin d'année. Capital porté de 6 à 16 millions d'euros entre 2014 et 2018 pour absorber les pertes.",
+    "pages": [2, 3, 8]
+  },
+  "controle": {
+    "controle_sur_place": "du 11 juin au 5 septembre 2018",
+    "rapport_de_controle": "du 19 décembre 2018",
+    "ouverture_de_la_procedure": "décidée le 23 avril 2019, Commission saisie par lettre du 26 avril 2019",
+    "antecedents": "non précisé",
+    "pages": [1, 2]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 70000,
+    "publication": "anonymisée aujourd'hui",
+    "duree_publication_nominative": "décidée nominative pendant 5 ans, puis forme anonyme",
+    "proposition_du_college": "blâme et 100 000 euros, publication nominative",
+    "pages": [1, 2, 10, 11]
+  },
+  "procedure": {
+    "questions_de_procedure": "La société soutenait que les règles n'étaient pas assez claires au moment du contrôle : les décrets d'application de l'ordonnance du 1er décembre 2016 et les lignes directrices de l'ACPR ne sont parus qu'à l'automne 2018, après les faits. La Commission refuse de trancher en bloc : elle vérifie, grief par grief, si le texte invoqué était clair par lui-même. Elle conclut chaque fois que oui. Autre point : le retrait d'agrément demandé par la société a été suspendu par l'ACPR jusqu'à la fin de la procédure, et l'arrêt de l'activité n'empêche pas une sanction pécuniaire. Audience non publique. La rapporteure concluait que les dix griefs étaient établis, le deuxième dans un périmètre très légèrement réduit.",
+    "pages": [1, 2, 3, 10]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Une classification des risques qui ignore le pays des clients",
+      "resume": "La classification ne tenait pas assez compte de la nationalité ou du pays de résidence, alors que plus d'un tiers des clients étaient étrangers et que certains venaient de pays classés à haut risque par le GAFI ou la Commission européenne (Syrie, Yémen, Pakistan, entre autres). La société opposait deux arguments. D'abord, ces clients étaient très peu nombreux : peu importe, répond la Commission. Ensuite, retenir la nationalité serait une discrimination, que le Défenseur des droits et la loi pénale interdisent : la Commission répond que ces décisions portent sur le refus d'ouvrir un compte ou de fournir un service, alors qu'il s'agit ici d'identifier et d'évaluer un risque. Acheter des bases de données de profils à risque ne remplace pas ce travail.",
+      "textes": ["CMF L. 561-4-1", "arrêté du 3 novembre 2014, art. 58"],
+      "chiffres_cles": ["36 % des clients en relation d'affaires de nationalité étrangère", "203 clients nationaux ou résidents de pays à risque élevé : 1 % de la clientèle, 2,8 % de la clientèle étrangère"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 1 est établi. » La Commission le range parmi les manquements sérieux (p. 10).",
+      "categorie": "classification des risques",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [3, 4, 10]
+    },
+    {
+      "numero": "2",
+      "titre": "Profession inexacte, revenus et patrimoine inconnus",
+      "resume": "Dans les dossiers examinés, la situation professionnelle notée était souvent fausse, et les revenus ou le patrimoine manquaient. La Commission rappelle que ces informations sont exigées depuis un arrêté de 2009. Elle retire deux dossiers : quand le client, interrogé, n'a pas répondu, on ne peut pas reprocher à la société de ne pas connaître sa profession. Elle nuance aussi la portée du constat : l'échantillon avait été tiré des fichiers d'alertes et de gros déposants d'espèces, il ne représente pas toute la clientèle.",
+      "textes": ["CMF L. 561-6", "CMF L. 561-5-1", "CMF R. 561-12", "arrêté du 2 septembre 2009"],
+      "chiffres_cles": ["108 dossiers examinés", "41 dossiers reprochés (24 pour la profession, 24 pour les revenus ou le patrimoine, dont 7 en commun)", "39 dossiers retenus, 2 écartés"],
+      "issue": "retenu en partie",
+      "precision_issue": "La décision dit que « tous les griefs sont établis », mais ne retient ici que 39 dossiers sur 41 et parle ensuite d'un périmètre « réduit » (p. 10).",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "",
+      "categories_secondaires": ["vigilance constante et mise à jour des dossiers"],
+      "pages": [4, 5, 10]
+    },
+    {
+      "numero": "3",
+      "titre": "Des seuils d'alerte hors de portée",
+      "resume": "La surveillance reposait sur des seuils par opération en boutique et sur une requête mensuelle. Pour les espèces : une question sur l'origine des fonds à partir de 1 500 euros, un justificatif à partir de 3 000 euros, interdiction au-delà de 5 000 euros, et une analyse si le total du mois dépasse 2 500 euros. Avec un dépôt moyen de 170 euros, ces seuils ne se déclenchaient presque jamais. La Commission rappelle qu'un seuil se fixe par rapport au montant moyen des opérations et aux écarts à ce montant. Les habitudes locales d'usage des espèces ne justifient rien.",
+      "textes": ["CMF L. 561-32", "arrêté du 3 novembre 2014, art. 46 et 49"],
+      "chiffres_cles": ["dépôt moyen d'espèces : environ 170 euros en 2017", "32 016 dépôts en 2017, dont 95 d'au moins 1 500 euros et 4 de plus de 3 000 euros", "39 clients au-dessus de 2 500 euros par mois en 2017 et 2018", "7 clients ayant déposé plus de 1 500 euros sur un mois, à 9 reprises, sans franchir aucun seuil"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 3 est établi » : des seuils « manifestement inadaptés ». La société demandait qu'il soit écarté.",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [5, 6]
+    },
+    {
+      "numero": "4",
+      "titre": "Dix examens renforcés non faits",
+      "resume": "Dix clients dont les opérations ne s'expliquaient pas : la société ne connaissait ni leurs revenus ni leur patrimoine, et huit étaient sans emploi. Dans un dossier, elle avait seulement envoyé un courriel puis une relance à un client resté muet : ce n'est pas un examen renforcé.",
+      "textes": ["CMF L. 561-10-2 (II)"],
+      "chiffres_cles": ["10 dossiers", "exemple : 8 dépôts d'espèces pour 7 700 euros et 37 débits en un peu moins d'un mois"],
+      "issue": "retenu",
+      "precision_issue": "« Intégralement établi », non contesté.",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [6, 7]
+    },
+    {
+      "numero": "5",
+      "titre": "Des contrôles de second niveau faits par les opérationnels",
+      "resume": "Sur les contrôles que la société classait elle-même en « second niveau », moins d'un tiers étaient faits par son contrôleur interne. Les autres revenaient à une consultante externe placée sous l'autorité de la directrice de production, à cette directrice et au directeur adjoint des opérations. Ceux qui contrôlent ne peuvent pas être ceux qui dirigent ce qu'ils contrôlent. La difficulté à recruter explique, sans excuser.",
+      "textes": ["arrêté du 3 novembre 2014, art. 13 et 14"],
+      "chiffres_cles": ["25 contrôles sur 77 assurés par le contrôleur interne", "21 par une consultante externe, 9 par la directrice de production, 9 par le directeur adjoint des opérations"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 5 est donc établi. » Constats non contestés.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "contrôle permanent de second niveau",
+      "categories_secondaires": ["gouvernance, moyens et formation"],
+      "pages": [7, 10]
+    },
+    {
+      "numero": "6",
+      "titre": "Des opérations acceptées malgré les règles internes",
+      "resume": "Cinq opérations qui dépassaient les plafonds fixés par la société ont été acceptées, et deux gros dépôts d'espèces n'ont donné lieu à aucun justificatif. Demander des explications après coup ne répare rien. La Commission retient le grief tout en notant que les cas sont rares et les dépassements parfois minimes.",
+      "textes": ["arrêté du 3 novembre 2014, art. 11 et 71"],
+      "chiffres_cles": ["1 dépôt d'espèces par un tiers de 1 050 euros, pour un plafond de 1 000 euros", "4 remises de chèques au-dessus du plafond de 12 000 euros", "2 dépôts d'espèces de 3 500 et 5 000 euros sans justificatif"],
+      "issue": "retenu",
+      "precision_issue": "« Néanmoins, le grief est établi. » Relativisé au moment de fixer la sanction (p. 10).",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "respect des procédures internes",
+      "categories_secondaires": [],
+      "pages": [7, 8, 10]
+    },
+    {
+      "numero": "7",
+      "titre": "Des prestataires essentiels sans contrat signé",
+      "resume": "Au début du contrôle, aucun contrat écrit n'était signé avec deux prestataires clés : celui qui gère les flux de cartes, et une société du même groupe chargée de l'informatique, de l'administratif et du contrôle des boutiques. La société invoquait le droit civil, selon lequel un contrat peut exister sans écrit. La réglementation bancaire exige un écrit, et l'appartenance au même groupe n'y change rien.",
+      "textes": ["arrêté du 3 novembre 2014, art. 21, 238 et 239"],
+      "chiffres_cles": ["2 prestataires cités"],
+      "issue": "retenu",
+      "precision_issue": "Le grief « est établi ». Relativisé : les prestations suivaient les projets de contrat, et la société avait relancé un prestataire (p. 10).",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "externalisation",
+      "categories_secondaires": [],
+      "pages": [8, 10]
+    },
+    {
+      "numero": "8",
+      "titre": "Aucune communication systématique à Tracfin",
+      "resume": "En plus des déclarations de soupçon, un établissement doit signaler automatiquement à Tracfin les versements et retraits d'espèces de plus de 10 000 euros sur un mois. La société n'en avait jamais envoyé depuis le début de son activité, alors que des clients avaient dépassé ce seuil.",
+      "textes": ["CMF L. 561-15-1", "CMF R. 561-31-2"],
+      "chiffres_cles": ["4 séries de retraits par 3 clients entre avril 2016 et octobre 2017", "dans un cas, dépassement de 40 euros seulement"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 8 est établi », faits non contestés. Relativisé : peu d'opérations concernées.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "communication systématique d'informations (COSI), distincte de la déclaration de soupçon",
+      "categories_secondaires": [],
+      "pages": [8, 9, 10]
+    },
+    {
+      "numero": "9",
+      "titre": "Sept déclarations de soupçon non faites",
+      "resume": "Sept clients dont les opérations ne correspondaient pas à leur situation connue (sans emploi, retraité, fonctionnaire, comptable) et dont la société ignorait les revenus : des virements élevés venant de plusieurs personnes, ou des dépôts d'espèces. La société a déclaré les sept dossiers à Tracfin, mais après le début du contrôle.",
+      "textes": ["CMF L. 561-15 (I, II et III)", "CMF D. 561-32-1"],
+      "chiffres_cles": ["7 dossiers, soit 6,5 % des 108 dossiers examinés", "7 déclarations envoyées après le début du contrôle"],
+      "issue": "retenu",
+      "precision_issue": "« Établi dans sa totalité », non contesté.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [9]
+    },
+    {
+      "numero": "10",
+      "titre": "Gel des avoirs : un filtrage une fois par mois",
+      "resume": "Après l'ouverture du compte, la base de clients n'était comparée aux listes de gel qu'une fois par mois. Or les mesures de gel s'appliquent « sans délai ». La société disait que ses clients, modestes, ne ressemblent pas aux personnes visées par ces mesures. La Commission répond que le gel des avoirs s'applique à tous les clients, quels que soient leurs revenus, et que c'est une obligation de résultat.",
+      "textes": ["CMF L. 562-4", "arrêté du 3 novembre 2014, art. 47"],
+      "chiffres_cles": ["filtrage mensuel de la base de clients"],
+      "issue": "retenu",
+      "precision_issue": "La section ne se termine pas par une formule ; la conclusion dit que « tous les griefs sont établis » (p. 10).",
+      "categorie": "gel des avoirs et sanctions financières",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [9, 10]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "Des « manquements sérieux » : classification des risques, connaissance du client, seuils de surveillance, organisation et mise en œuvre du contrôle interne.", "pages": [10]},
+      {"texte": "Ces carences ont eu des conséquences concrètes : examens renforcés et déclarations de soupçon non faits.", "pages": [10]},
+      {"texte": "L'arrêt de l'activité et la demande de retrait d'agrément n'empêchent pas une sanction pécuniaire.", "pages": [10]}
+    ],
+    "elements_attenuants": [
+      {"texte": "Grief 2 : périmètre réduit, et échantillon qui ne représente pas toute la clientèle.", "pages": [5, 10]},
+      {"texte": "Grief 6 : peu de cas au regard de l'activité, dépassements parfois faibles.", "pages": [8, 10]},
+      {"texte": "Grief 7 : relances faites auprès d'un prestataire ; relations conformes aux projets de contrat.", "pages": [10]},
+      {"texte": "Grief 8 : peu de communications manquantes.", "pages": [9, 10]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Les sept dossiers du grief 9 ont été déclarés à Tracfin après le début du contrôle.", "pages": [9]},
+      {"texte": "La décision ne cite pas d'autre mesure : la société a arrêté son activité entre mars et mai 2019.", "pages": [2]}
+    ],
+    "situation_financiere": {"texte": "Perte de 3,5 millions d'euros en 2018 pour un produit net bancaire de 1,4 million ; 2,7 millions d'euros de fonds propres fin 2018. La Commission fixe l'amende « au regard de l'assise financière » de la société.", "pages": [2, 10]},
+    "cause_profonde": {"texte": "non précisé. La décision relie seulement les défauts d'examen renforcé et de déclaration aux carences d'organisation qui précèdent, et note des difficultés à recruter du personnel compétent pendant la croissance de l'activité.", "pages": [7, 10]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Les seuils d'alerte sont-ils fixés à partir du montant moyen des opérations de la clientèle ? Combien d'alertes produisent-ils par an ?",
+      "Existe-t-il un seuil cumulé (sur un mois) cohérent avec le seuil par opération ?",
+      "La classification des risques tient-elle compte du pays de nationalité ou de résidence, sans que cela serve à refuser un client ?",
+      "Les listes du GAFI et de la Commission européenne sont-elles suivies et reportées dans la classification ?",
+      "La profession, les revenus et le patrimoine du client sont-ils demandés à l'entrée en relation et tenus à jour ? Que fait-on quand le client ne répond pas ?",
+      "Les contrôles de second niveau sont-ils faits par des personnes qui ne dirigent pas les opérations contrôlées ?",
+      "Une opération au-dessus d'un plafond interne est-elle bloquée avant exécution ?",
+      "Chaque prestation externalisée importante a-t-elle un contrat écrit et signé, y compris au sein du groupe ?",
+      "Les versements et retraits d'espèces de plus de 10 000 euros par mois sont-ils transmis automatiquement à Tracfin ?",
+      "La base de clients est-elle filtrée dès qu'une liste de gel change, et les opérations avant leur exécution ?",
+      "Un établissement qui arrête son activité continue-t-il d'appliquer ses obligations jusqu'au retrait de l'agrément ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["établissement de paiement", "outre-mer", "clientèle non bancarisée", "espèces", "seuils inadaptés", "montant moyen des opérations", "nationalité et discrimination", "pays à haut risque", "contrôle de second niveau", "indépendance du contrôle", "externalisation", "contrat écrit", "COSI", "filtrage mensuel", "obligation de résultat", "cessation d'activité", "clarté des textes"],
+    "pages_prioritaires": [
+      {"pages": [3, 4], "pourquoi": "nationalité, classification des risques et discrimination"},
+      {"pages": [6], "pourquoi": "comment juger si un seuil d'alerte est adapté : les chiffres"},
+      {"pages": [7], "pourquoi": "ce que veut dire « contrôle de second niveau indépendant »"},
+      {"pages": [10], "pourquoi": "gel des avoirs : obligation de résultat ; la sanction malgré l'arrêt de l'activité"}
+    ],
+    "confiance": "élevée",
+    "a_verifier": [
+      "Décision anonymisée : je n'ai pas cherché à identifier l'établissement ni son groupe.",
+      "Grief 2 : classé « retenu en partie » (39 dossiers sur 41), alors que la décision écrit que « tous les griefs sont établis ». C'est la même convention que pour les autres fiches (périmètre réduit = retenu en partie).",
+      "Grief 2 : la décision parle de « 48 dossiers dont 7 cités cumulativement », soit 41 clients. Je reprends 41.",
+      "Grief 9 : page 9, la décision écrit « du II (9.4 et) » ; il manque sans doute le dossier 9.5. Rien n'est corrigé.",
+      "Grief 8 : rangé avec les déclarations de soupçon faute de catégorie propre ; la communication systématique est une obligation distincte. À garder en tête pour l'étude comparative.",
+      "Page 7, la décision cite deux fois le même texte pour les articles 13 et 14 de l'arrêté : probable erreur de copie dans le texte officiel.",
+      "Cette décision est rédigée en « Considérant que », sous un autre président que les décisions suivantes : le style change, pas la méthode.",
+      "Publication : décidée nominative pour 5 ans (p. 10 et 11) ; le texte en ligne est aujourd'hui anonymisé."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Fable 5.2), à partir du texte extrait du PDF officiel", "date": "2026-11-12", "relue_par_mateo": false}
+}
