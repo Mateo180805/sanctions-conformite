@@ -19,12 +19,13 @@ import sys
 from datetime import date
 
 import acpr
+import amf
 from commun import (
     ErreurCollecte, date_iso, enregistrer_base, enregistrer_suivi, enregistrer_texte, lire_base,
 )
 
 # Pour ajouter un régulateur : écrire son module (amf.py...) et l'inscrire ici.
-REGULATEURS = {"acpr": acpr}
+REGULATEURS = {"acpr": acpr, "amf": amf}
 
 # Champs que je remplis moi-même : la collecte ne doit jamais les écraser.
 CHAMPS_PERSONNELS = ("statut", "mes_notes")
@@ -64,6 +65,9 @@ def collecter_regulateur(module, maximum=None):
     aujourd_hui = date.today().isoformat()
     base = lire_base()
     connues = {url: d for d in base if d["regulateur"] == module.NOM for url in d.get("urls_page", [])}
+    # L'AMF donne un numéro stable à chaque décision (« SAN-2026-07 ») : on s'en sert
+    # aussi, car l'adresse de la page peut changer quand la décision est anonymisée.
+    par_numero = {d["numero_procedure"]: d for d in base if d["regulateur"] == module.NOM}
 
     entrees = module.lister()
     print(f"{module.NOM} : {len(entrees)} lignes de décision dans la liste officielle, "
@@ -80,8 +84,16 @@ def collecter_regulateur(module, maximum=None):
     a_traiter = []
     for entree in entrees:
         deja = next((connues[u] for u in entree["urls_page"] if u in connues), None)
+        if deja is None and entree.get("numero"):
+            deja = par_numero.get(entree["numero"])
         if deja is None:
             a_traiter.append(entree)
+        elif "empreinte_ligne" in entree:
+            # AMF : la ligne de la liste a-t-elle changé (personnes, sanction, PDF) ?
+            if deja.get("empreinte_ligne") != entree["empreinte_ligne"]:
+                a_traiter.append(entree)
+            elif deja.get("suites") != entree["suites"]:
+                deja["suites"] = entree["suites"]
         elif entree["titre_liste"] in deja.get("lignes_recueil_incoherentes", []):
             pass  # anomalie du site déjà notée : inutile de retélécharger chaque semaine
         elif deja["titre_liste"] != entree["titre_liste"]:
@@ -93,7 +105,11 @@ def collecter_regulateur(module, maximum=None):
         a_traiter = a_traiter[:maximum]
 
     nouvelles, modifiees, anomalies, erreurs = [], [], [], []
-    for entree in a_traiter:
+    for rang, entree in enumerate(a_traiter, 1):
+        # Enregistrement intermédiaire toutes les 20 décisions : si l'exécution est
+        # coupée (temps maximum de GitHub dépassé, panne), le travail déjà fait est gardé.
+        if rang % 20 == 0:
+            enregistrer_base(base)
         try:
             fiche, texte = module.collecter(entree)
         except ErreurCollecte as erreur:
@@ -120,7 +136,8 @@ def collecter_regulateur(module, maximum=None):
             print(f"  ANOMALIE  ligne du recueil mal reliée : {fiche['titre_liste'][:80]}")
             continue
 
-        fiche["fichier_texte"] = enregistrer_texte(module.NOM, fiche["id"], texte)
+        # Le texte n'est enregistré que si le module en fournit un (pas pour l'AMF).
+        fiche["fichier_texte"] = enregistrer_texte(module.NOM, fiche["id"], texte) if texte else None
         if not coherent:
             fiche["lignes_recueil_incoherentes"].append(fiche["titre_liste"])
             fiche["alertes"].append("La date du titre de la liste ne correspond pas à celle du PDF : à vérifier.")
@@ -137,6 +154,8 @@ def collecter_regulateur(module, maximum=None):
                 fiche["alertes"].append(
                     f"PDF remplacé par le régulateur (détecté le {aujourd_hui}) : fiche à revérifier."
                 )
+            if ancienne.get("publication") == "nominative" and fiche["publication"] == "anonymisée":
+                fiche["alertes"].append(f"Décision anonymisée par le régulateur (détecté le {aujourd_hui}).")
             base[base.index(ancienne)] = fiche
             modifiees.append(fiche["id"])
             print(f"  MODIFIÉE  {fiche['id']}")

@@ -16,7 +16,8 @@ Il ne lit JAMAIS donnees/textes/ (le texte intégral des décisions) : certains 
 anonymisés laissent passer des noms. Le site s'appuie uniquement sur les fiches.
 
 Garde-fous :
-  - aucun nom de personne physique n'est affiché (voir nom_affiche) ;
+  - aucun nom de personne physique n'est affiché (voir nom_affiche ; pour l'AMF, la
+    collecte ne les enregistre même pas) ;
   - si l'ACPR a anonymisé une décision mais que la fiche contient encore un nom,
     la fiche n'est PAS publiée, et le programme écrit une alerte dans _alertes.txt.
     La tâche GitHub publie quand même le site (sans la fiche) puis se met en rouge
@@ -55,6 +56,20 @@ MOIS_COURTS = ["janv.", "févr.", "mars", "avr.", "mai", "juin", "juil.", "août
 # Regroupement des types d'établissement : défini une seule fois, dans analyse/etude.py.
 TYPES = etude.TYPES
 NON_RENSEIGNE = "Non renseigné (fiche à venir)"
+
+# Thèmes de la liste officielle de l'AMF, écrits en clair (affichage et phrase de l'accueil).
+THEMES_AMF = {
+    "Obligations professionnelles": "obligations professionnelles",
+    "Obligation d'information": "obligation d'information",
+    "Manquement d'initié": "manquement d'initié",
+    "Manipulation de marché": "manipulation de marché",
+    "PSI": "prestataires de services d'investissement",
+    "CIF, CIP ou autres prestataires": "conseillers et autres prestataires",
+    "Produit d'épargne collective": "produits d'épargne collective",
+    "Procédure": "procédure",
+    "Instrument financier": "instruments financiers",
+    "Infrastructure de marché": "infrastructures de marché",
+}
 
 # Tranches de montant pour le filtre de la base.
 TRANCHES = [
@@ -127,6 +142,10 @@ def nom_affiche(d):
     On retire les noms de personnes physiques (« et de M. X, son gérant »),
     le mot « société » en tête et les mentions « procédure n° ... ».
     """
+    if d.get("regulateur") == "AMF":
+        # La collecte AMF a déjà retiré les noms de personnes physiques (« Société X et
+        # 2 personnes physiques ») : voir collecte/amf.py.
+        return majuscule(adoucir_capitales(d.get("nom_site") or "Non précisé"))
     nom = (d.get("etablissement") or "").strip()
     if not nom or nom.startswith("anonymisé") or d.get("publication") == "anonymisée":
         return "Établissement anonymisé"
@@ -281,6 +300,8 @@ def preparer(decisions, fiches):
 
         if f:
             etat = "fiche"
+        elif d["regulateur"] != "ACPR":
+            etat = "Pas encore de fiche"
         elif retenue:
             etat = "Fiche en cours de mise à jour"
         elif lcbft:
@@ -288,7 +309,8 @@ def preparer(decisions, fiches):
         else:
             etat = "Fiche courte à venir (hors LCB-FT)"
 
-        recherche = [d["numero_procedure"], etab, type_exact, " ".join(natures)]
+        theme = THEMES_AMF.get(d.get("theme_court"), d.get("theme_court") or "") if d["regulateur"] == "AMF" else ""
+        recherche = [d["regulateur"], d["numero_procedure"], etab, type_exact, theme, " ".join(natures)]
         if f:
             recherche += [f["resume_court"], " ".join(f["pour_moi"].get("mots_cles", [])),
                           " ".join(g["titre"] for g in f.get("griefs", [])), " ".join(cats),
@@ -296,7 +318,7 @@ def preparer(decisions, fiches):
         lignes.append({
             "id": d["id"], "slug": d["id"].lower(), "regulateur": d["regulateur"],
             "procedure": d["numero_procedure"], "date": d.get("date_decision") or "",
-            "annee": (d.get("date_decision") or "")[:4], "etab": etab, "type": type_exact,
+            "annee": (d.get("date_decision") or "")[:4], "etab": etab, "type": type_exact, "theme": theme,
             "groupe": groupe, "natures": natures, "montant": montant, "lcbft": lcbft,
             "issues": issues, "categories": cats, "fiche": f, "etat": etat,
             "url_pdf": d.get("url_pdf") or "", "url_page": d.get("url_page") or "",
@@ -338,7 +360,7 @@ def page(chemin, titre, contenu, description, collecte, actif=None, scripts="", 
     menu = "".join(
         f'<li><a href="{r}{lien}"{" aria-current=\"page\"" if lien == actif else ""}>{nom}</a></li>'
         for lien, nom in MENU)
-    date_maj = date_en_clair(collecte["ACPR"]["date"])
+    date_maj = date_en_clair(max(c["date"] for c in collecte.values()))
     titre_complet = NOM_SITE if chemin == "index.html" else f"{titre} – {NOM_SITE}"
     texte = f"""<!doctype html>
 <html lang="fr">
@@ -374,8 +396,8 @@ def page(chemin, titre, contenu, description, collecte, actif=None, scripts="", 
 </main>
 <footer class="pied">
   <div class="cadre">
-    <p>Site personnel de Matéo Bonnesoeur, sans lien avec l'ACPR. Les décisions sont publiées par la
-    Commission des sanctions de l'ACPR : seul leur texte officiel fait foi.</p>
+    <p>Site personnel de Matéo Bonnesoeur, sans lien avec l'ACPR ni l'AMF. Les décisions sont publiées par
+    les commissions des sanctions de ces deux autorités : seul leur texte officiel fait foi.</p>
     <p>Base mise à jour le {date_maj}. Code et données ouverts sur <a href="{LIEN_DEPOT}">GitHub</a>.</p>
   </div>
 </footer>
@@ -415,6 +437,7 @@ def liste_recente(lignes, r=""):
         sanction = nature_courte(l["natures"], l["montant"])
         if l["montant"]:
             sanction += f", {euros(l['montant'])}"
+        sanction = f"{l['regulateur']} · {sanction}"
         suite = decompte(l["issues"]) if l["fiche"] else f'<span class="attente">{e(l["etat"])}</span>'
         items.append(f"""<li>
   <time datetime="{l['date']}">{date_courte(l['date'])}</time>
@@ -425,24 +448,39 @@ def liste_recente(lignes, r=""):
 
 
 def accueil(lignes, collecte):
+    acpr = [l for l in lignes if l["regulateur"] == "ACPR"]
+    amf = [l for l in lignes if l["regulateur"] == "AMF"]
     avec_fiche = [l for l in lignes if l["fiche"]]
-    lcbft = [l for l in lignes if l["lcbft"]]
-    annees = sorted(l["annee"] for l in lignes if l["annee"])
+    lcbft = [l for l in acpr if l["lcbft"]]
+    annees = sorted(l["annee"] for l in acpr if l["annee"])
     griefs = [i for l in avec_fiche for i in l["issues"]]
     dates_fiches = sorted(l["date"] for l in avec_fiche)
     debut, fin = dates_fiches[0], dates_fiches[-1]
     mois = lambda iso: date_en_clair(iso).split(" ", 1)[1]  # « 10 janvier 2019 » -> « janvier 2019 »
     retenus = sum(1 for i in griefs if i != "écarté")
+    phrase_amf = ""
+    if amf:
+        # Les trois thèmes les plus fréquents de la liste officielle de l'AMF.
+        compte = {}
+        for l in amf:
+            if l["theme"]:
+                compte[l["theme"]] = compte.get(l["theme"], 0) + 1
+        themes = [t for t, _ in sorted(compte.items(), key=lambda kv: -kv[1])[:3]]
+        annees_amf = sorted(l["annee"] for l in amf if l["annee"])
+        phrase_amf = f"""
+  <p class="chiffres">Elle compte aussi <strong>{len(amf)} décisions</strong> de la Commission des sanctions de
+  l'Autorité des marchés financiers (AMF), rendues de {annees_amf[0]} à {annees_amf[-1]}, classées par l'AMF
+  surtout en {", ".join(themes[:-1])} et {themes[-1]}. Elles n'ont pas encore de fiche d'analyse.</p>"""
     contenu = f"""
 <section class="ouverture">
-  <h1>Ce que l'ACPR reproche aux établissements qu'elle sanctionne</h1>
+  <h1>Ce que l'ACPR et l'AMF reprochent à ceux qu'elles sanctionnent</h1>
   <div class="intro">{texte_de_mateo("introduction", "Deux ou trois phrases de Matéo : ce qu'est ce site et pourquoi il l'a construit.")}</div>
-  <p class="chiffres">La base réunit <strong>{len(lignes)} décisions</strong> de la Commission des sanctions
-  de l'Autorité de contrôle prudentiel et de résolution, rendues de {annees[0]} à {annees[-1]}.
+  <p class="chiffres">La base réunit <strong>{len(acpr)} décisions</strong> de la Commission des sanctions
+  de l'Autorité de contrôle prudentiel et de résolution (ACPR), rendues de {annees[0]} à {annees[-1]}.
   <strong>{len(lcbft)}</strong> portent sur la lutte contre le blanchiment et le financement du terrorisme
   ou sur le gel des avoirs. <strong>{len(avec_fiche)}</strong> d'entre elles, rendues entre {mois(debut)}
   et {mois(fin)}, ont une fiche d'analyse : {len(griefs)} griefs examinés, dont {retenus} retenus
-  en tout ou en partie.</p>
+  en tout ou en partie.</p>{phrase_amf}
   <p class="actions"><a class="bouton" href="base.html">Parcourir la base</a>
   <a href="methode.html">Comment les fiches sont faites</a></p>
 </section>
@@ -460,8 +498,8 @@ def accueil(lignes, collecte):
 </div>
 """
     page("index.html", NOM_SITE, contenu,
-         "Base des décisions de sanction de l'ACPR en matière de lutte contre le blanchiment, "
-         "avec une fiche d'analyse par décision.", collecte, actif="index.html")
+         "Base des décisions de sanction de l'ACPR et de l'AMF, avec une fiche d'analyse "
+         "pour les décisions de l'ACPR sur la lutte contre le blanchiment.", collecte, actif="index.html")
 
 
 def legende():
@@ -484,7 +522,8 @@ def base(lignes, collecte):
         nom = e(l["etab"])
         if l["fiche"]:
             nom = f'<a href="decisions/{l["slug"]}.html">{nom}</a>'
-        type_txt = f'<span class="type">{e(majuscule(l["type"]))}</span>' if l["type"] else ""
+        precision = l["type"] or l["theme"]
+        type_txt = f'<span class="type">{e(majuscule(precision))}</span>' if precision else ""
         source = f'<a class="source" href="{e(l["url_pdf"] or l["url_page"])}">Source officielle</a>'
         rangs.append(f"""<tr data-annee="{l['annee']}" data-groupe="{e(l['groupe'])}" data-regulateur="{e(l['regulateur'])}"
  data-tranche="{tranche}" data-montant="{l['montant'] or 0}" data-date="{l['date']}" data-lcbft="{'1' if l['lcbft'] else '0'}"
@@ -500,9 +539,9 @@ def base(lignes, collecte):
     contenu = f"""
 <div class="titre-page">
   <h1>La base des décisions</h1>
-  <p class="chapo">Toutes les décisions de la Commission des sanctions de l'ACPR publiées dans son recueil
-  officiel. Les fiches d'analyse couvrent pour l'instant les décisions sur la lutte contre le blanchiment
-  rendues depuis 2019.</p>
+  <p class="chapo">Toutes les décisions des commissions des sanctions de l'ACPR et de l'AMF publiées sur
+  leurs sites officiels. Les fiches d'analyse couvrent pour l'instant les décisions de l'ACPR sur la lutte
+  contre le blanchiment rendues depuis 2019.</p>
 </div>
 <form class="filtres" id="filtres" role="search" hidden>
   <div class="champ champ-large">
@@ -551,7 +590,7 @@ def base(lignes, collecte):
 <p id="aucun" class="aucun" hidden>Aucune décision ne correspond à ces filtres. <button type="button" class="lien-bouton" data-effacer>Effacer les filtres</button></p>
 """
     page("base.html", "La base des décisions", contenu,
-         "Toutes les décisions de sanction de l'ACPR, avec recherche et filtres.", collecte,
+         "Toutes les décisions de sanction de l'ACPR et de l'AMF, avec recherche et filtres.", collecte,
          actif="base.html", scripts='<script src="statique/base.js" defer></script>')
 
 
@@ -936,9 +975,13 @@ def pages_fixes(lignes, collecte):
         "nb_decisions": len(lignes), "nb_fiches": len(avec_fiche), "nb_relues": relues,
         "nb_lcbft": sum(1 for l in lignes if l["lcbft"]),
         "categories": "".join(f"<li>{e(majuscule(c))}</li>" for c in CATEGORIES),
-        "date_collecte": date_en_clair(collecte["ACPR"]["date"]),
+        "date_collecte": date_en_clair(max(c["date"] for c in collecte.values())),
+        "nb_acpr": sum(1 for l in lignes if l["regulateur"] == "ACPR"),
+        "nb_amf": sum(1 for l in lignes if l["regulateur"] == "AMF"),
+        "nb_lcbft_acpr": sum(1 for l in lignes if l["regulateur"] == "ACPR" and l["lcbft"]),
+        "nb_lcbft_amf": sum(1 for l in lignes if l["regulateur"] == "AMF" and l["lcbft"]),
     }
-    page("methode.html", "Méthode", gabarit("methode.html", valeurs),
+    page("methode.html", "Méthode", re.sub(r"\A<!--.*?-->\s*", "", gabarit("methode.html", valeurs), flags=re.S),
          "Sources, grille d'analyse, mise à jour et limites du projet.", collecte, actif="methode.html")
     etude_pages(lignes, valeurs, collecte)
     contenu = f"""<div class="titre-page"><h1>À propos</h1></div>

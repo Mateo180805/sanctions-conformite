@@ -224,6 +224,7 @@ table.base { width: 100%; border-collapse: collapse; font-size: 0.97rem; }
   .base thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
   .base, .base tbody, .base tr, .base td { display: block; }
   .base tr { padding: 0.9rem 0; border-bottom: 1px solid var(--filet); display: grid; grid-template-columns: 1fr auto; gap: 0.2rem 1rem; }
+  .base tr[hidden] { display: none; }  /* sinon « display: grid » ci-dessus réaffiche les lignes filtrées */
   .base td { border: 0; padding: 0; }
   .base .c-nom { grid-column: 1 / -1; order: -1; min-width: 0; font-size: 1.05rem; }
   .base .c-date { grid-column: 1; }

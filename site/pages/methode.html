@@ -11,9 +11,15 @@
 publié par l'Autorité de contrôle prudentiel et de résolution (ACPR). Ce sont les décisions de sa Commission
 des sanctions, publiées sous forme nominative ou anonymisée. Chaque fiche renvoie au PDF officiel, et chaque
 information renvoie à la page de la décision d'où elle vient.</p>
-<p>La base compte {{nb_decisions}} décisions, dont {{nb_lcbft}} sur la lutte contre le blanchiment des capitaux
-et le financement du terrorisme (LCB-FT) ou sur le gel des avoirs. Les autres régulateurs (AMF, CSSF au
-Luxembourg, FINMA en Suisse) seront ajoutés ensuite.</p>
+<p>La base compte {{nb_acpr}} décisions de l'ACPR, dont {{nb_lcbft_acpr}} sur la lutte contre le blanchiment des
+capitaux et le financement du terrorisme (LCB-FT) ou sur le gel des avoirs.</p>
+<p>Elle compte aussi {{nb_amf}} décisions de la Commission des sanctions de l'Autorité des marchés financiers
+(AMF), reprises de la <a href="https://www.amf-france.org/fr/sanction-transaction/Decisions-de-la-commission-des-sanctions">liste
+officielle de ses décisions</a>. Le nom de la décision (par exemple SAN-2026-07), le thème et le montant
+total avant recours sont ceux qu'indique l'AMF. Le montant additionne les sanctions de toutes les personnes
+visées par la décision. Ces décisions n'ont pas encore de fiche. Un indice signale celles dont le texte parle
+plusieurs fois de blanchiment ({{nb_lcbft_amf}} décisions) : c'est un tri automatique, pas une analyse.</p>
+<p>La CSSF au Luxembourg et la FINMA en Suisse seront ajoutées ensuite.</p>
 
 <h2>L'étude et les points de contrôle</h2>
 <p>La page <a href="analyse.html">Analyse</a> compare les {{nb_fiches}} décisions qui ont une fiche. Ses
@@ -25,7 +31,7 @@ viennent pas de l'ACPR. Un programme vérifie que chaque point cite des griefs q
 Commission a bien retenus, en entier ou en partie.</p>
 
 <h2>La mise à jour</h2>
-<p>Chaque lundi, un programme vérifie le recueil de l'ACPR et ajoute les nouvelles décisions à la base. Il
+<p>Chaque lundi, un programme vérifie le recueil de l'ACPR et la liste de l'AMF, et ajoute les nouvelles décisions à la base. Il
 tourne seul sur les serveurs de GitHub et ne télécharge que ce qui est nouveau. Une nouvelle décision apparaît
 dans la base avec la mention « fiche à venir » ; sa fiche est rédigée et relue ensuite. Dernière vérification :
 {{date_collecte}}.</p>
@@ -64,6 +70,10 @@ les manquements retenus en points de contrôle, et il est présenté comme tel.<
 pour retrouver l'établissement. Quand l'ACPR retire le nom d'une décision publiée d'abord sous forme
 nominative, la fiche est retirée du site jusqu'à ce qu'elle soit anonymisée à son tour. Aucun nom de personne
 physique n'est mis en avant.</p>
+<p>L'AMF sanctionne souvent des personnes physiques (dirigeants, investisseurs) et publie leur nom pendant une
+durée limitée, en général cinq ans. Pour ces décisions, la base n'enregistre jamais ces noms : elle garde le nom
+des sociétés et le nombre de personnes physiques visées (« Société X et 2 personnes physiques »). Le texte
+intégral des décisions de l'AMF n'est pas non plus recopié dans les données du projet.</p>
 
 <h2>Limites</h2>
 <ul>
@@ -72,7 +82,9 @@ physique n'est mis en avant.</p>
   <li>Le texte des décisions est extrait automatiquement des PDF ; une coquille ou un montant mal lu reste
   possible. Les doutes repérés sont signalés pendant la relecture.</li>
   <li>Une décision anonymisée publie parfois des montants ou des chiffres masqués : ils restent masqués ici.</li>
-  <li>Ce site n'est pas un conseil juridique et n'a aucun lien avec l'ACPR.</li>
+  <li>Pour l'AMF, la séparation entre sociétés et personnes physiques est faite automatiquement à partir de la
+  liste officielle. Les cas douteux sont signalés pour vérification.</li>
+  <li>Ce site n'est pas un conseil juridique et n'a aucun lien avec l'ACPR ni avec l'AMF.</li>
 </ul>
 
 <h2>Données ouvertes</h2>

@@ -1,6 +1,6 @@
 # JOURNAL – Sanctions Conformité
 
-Journal de bord du projet, version courte (allégée le 13 novembre 2026 pour économiser le quota ; mise à jour en fin de session 4).
+Journal de bord du projet, version courte (allégée le 13 novembre 2026 pour économiser le quota ; mise à jour en fin de session 5).
 À redonner à Claude au début de chaque session, avec PROJET.md.
 Le détail lot par lot est dans `JOURNAL-ARCHIVE.md` : ne pas le relire au début d'une session, seulement au besoin.
 
@@ -8,13 +8,14 @@ Dépôt : https://github.com/Mateo180805/sanctions-conformite (public)
 
 ---
 
-## Où on en est (13 novembre 2026, session 4)
+## Où on en est (13 novembre 2026, session 5)
 
 - [x] Session 1 : collecte ACPR. Base de 111 décisions (2011 à 2026), mise à jour chaque lundi par GitHub Actions.
 - [x] Session 2 : fiches d'analyse, lots 1 à 6. **31 fiches sur 67 décisions LCB-FT** : toutes les décisions LCB-FT et gel des avoirs rendues entre janvier 2019 et avril 2026. Aucune n'a encore été relue par Matéo (statut « à lire »).
 - [x] Session 3 : le site (GitHub Pages), construit avec Opus 5.5 et **en ligne depuis le 13 novembre** (31 fiches vérifiées sur le site publié). Textes de l'accueil et de la page À propos rédigés par Claude et validés par Matéo.
 - [x] Session 4 : étude comparative (page Analyse) et liste de 69 points de contrôle (nouvelle page), sur les 31 fiches. Rédigées avec Fable 5.2, **pas encore relues par Matéo**.
-- [ ] Plus tard : les 36 décisions LCB-FT antérieures à 2019, les 44 fiches courtes « hors LCB-FT », puis AMF, CSSF, FINMA.
+- [x] Session 5 : collecte AMF (avec Opus 5.5). **454 décisions de la Commission des sanctions de l'AMF** (2004 à juillet 2026) ajoutées à la base et au site, mise à jour chaque lundi avec l'ACPR. Pas de fiches AMF.
+- [ ] Plus tard : les 36 décisions LCB-FT de l'ACPR antérieures à 2019, les 44 fiches courtes « hors LCB-FT », des fiches AMF (en commençant par les 28 signalées blanchiment), puis CSSF et FINMA.
 
 Les 31 fiches : 2024-06, 2024-02, 2024-01, 2023-01, 2022-07, 2022-06, 2022-05, 2022-04, 2022-03, 2022-02, 2022-01, 2021-05, 2021-01, 2020-11, 2020-09 (nominatives) ; 2020-08, 2020-06, 2020-05, 2020-03, 2020-02, 2020-01, 2019-08, 2019-07, 2019-06, 2019-04, 2018-08, 2018-06, 2018-05, 2018-04, 2018-03, 2017-10 (anonymisées).
 
@@ -85,6 +86,19 @@ Adresse prévue : https://mateo180805.github.io/sanctions-conformite/
 - **Choix faits par Claude** (Matéo a laissé trancher) : page « Points de contrôle » à part, dans le menu ; étude publiée avec la mention « fiches pas encore relues » ; graphiques faits de tableaux HTML avec barres (lisibles sans JavaScript et sur téléphone), dans le style de la frise des griefs ; la sanction de 2015 de la fiche 2018-03 n'est pas citée dans l'étude (décision 10).
 - **Points à vérifier par Matéo** : la leçon 8 de l'étude (« douze décisions au moins » où le défaut était déjà signalé) est un décompte fait par Claude à partir du champ « antécédents » des fiches ; le montant demandé par le Collège est lu automatiquement dans une phrase de la fiche (vérifié à l'œil sur les 31) ; 2020-11 grief 5 (signalements classés sans analyse) est rangé en « vigilance constante », ce qui se discute.
 
+## La collecte AMF (session 5)
+
+- **Source** : la page « Décisions de la Commission des sanctions » de l'AMF remplit son tableau à partir d'une liste JSON (`/fr/rest/listing_sanction/<thèmes>/all/all`). Une seule requête donne toute la liste (454 lignes le 13 novembre). Programme : `collecte/amf.py`, branché dans `collecte/lancer.py` (`python collecte/lancer.py amf`, ou sans rien pour les deux régulateurs). Le site de l'AMF accepte l'identifiant du projet ; robots.txt ne l'interdit pas.
+- **Identifiant** : `AMF-` + numéro officiel, par exemple `AMF-SAN-2026-07`. Le champ `numero_procedure` contient « SAN-2026-07 » ; le numéro de procédure interne lu dans le PDF récent (« 25-05 ») est dans `procedure_interne`.
+- **Ce qui vient de la liste** : thème choisi par l'AMF (`theme_court`), personnes visées, montant total avant recours (toutes personnes confondues), recours (oui/non, dans `suites`), lien du PDF. **Ce qui vient du PDF** : date de la décision (« Décision n° 6 du … » ou « A Paris, le … »), date de la séance, nombre de pages, nombre de mentions du blanchiment (`lcbft_mentions` ; `lcbft_indice` vrai à partir de 3 : **28 décisions**, presque toutes en « obligations professionnelles » ou « conseillers et autres prestataires »).
+- **Personnes physiques (choix de Claude, à valider)** : la base n'enregistre jamais leur nom. `etablissement` ne garde que les sociétés ; `nom_site` affiche « Société X et 2 personnes physiques ». `publication` = « nominative » si un vrai nom (société ou personne) figure dans la liste. Le texte intégral des décisions AMF n'est **pas** copié dans `donnees/textes/` (`GARDER_TEXTE = False`) : l'AMF publie les noms des particuliers pour une durée limitée et l'historique d'un dépôt public est permanent. Pour une fiche AMF, Claude relit le PDF officiel (`amf.texte_d_une_decision`). Limites : des noms de société contiennent un nom de famille (« Salzillo Finance », « Nicolas Miguet et Associés ») ; l'adresse officielle de quelques PDF anciens contient un nom (2009-31, 2009-33), comme pour l'ACPR (décision 13).
+- **Mise à jour** : une décision est retéléchargée si sa ligne change (empreinte `empreinte_ligne` : personnes, sanction, PDF), par exemple après une anonymisation. Quand rien n'a changé : 2 requêtes par semaine. `lancer.py` enregistre maintenant la base toutes les 20 décisions (rien n'est perdu si GitHub coupe une exécution).
+- **Contrôles faits** : 419 dates lues dans le PDF ; chaque fois que le titre officiel donne aussi une date, les deux concordent. 35 dates viennent seulement du titre officiel (alerte « Date prise dans l'adresse », dont les 3 décisions sans PDF). Toutes les décisions ont une date. Aucun nom de personne physique de la liste ne se retrouve dans la base (vérifié automatiquement sur 93 noms). Une nouvelle collecte juste après ne trouve rien à refaire.
+- **À vérifier par Matéo (non bloquant)** : 39 décisions ont une alerte (`alertes` dans `decisions.json`) : 35 dates prises dans le titre, 7 désignations à vérifier (sociétés sans le mot « société », ex. « BNP PARIBAS SA »), 3 sans PDF (SAN-2014-18, SAN-2013-02, SAN-2010-05, dont une sanction annulée par le Conseil d'État). 57 décisions sans montant : ce sont des avertissements, blâmes, interdictions ou mises hors de cause.
+- **Site** : les décisions AMF apparaissent dans la Base (filtre « Régulateur »), avec le thème de l'AMF sous le nom et la mention « Pas encore de fiche ». Accueil (titre « Ce que l'ACPR et l'AMF reprochent à ceux qu'elles sanctionnent », un paragraphe de chiffres AMF), Méthode (sources, règle sur les personnes physiques, limites) et pied de page mis à jour. Les pages Analyse et Points de contrôle restent sur les 31 fiches ACPR. Corrigé au passage : sur téléphone, les filtres de la Base mettaient le compteur à jour sans masquer les lignes (défaut de la session 3, une ligne dans `style.css`).
+- Le texte d'introduction de Matéo (`site/textes/introduction.txt`) parle encore seulement de l'ACPR : à adapter par lui s'il le souhaite.
+- **Risque** : on ne sait pas encore si le site de l'AMF accepte les serveurs de GitHub. À vérifier lundi 16 novembre (onglet Actions). Si l'AMF refuse : plan B du README (`python collecte/lancer.py amf` depuis l'ordinateur).
+
 ## Thèmes repérés pendant la session 2
 
 - Décisions à part : 2019-08 (avertissement, sans amende, financement participatif) ; 2018-03 (blâme sans amende à cause de la situation financière) ; 2018-05 (radiation) ; 2020-09 (gel des avoirs seulement) ; 2019-07 (21 griefs dont beaucoup hors LCB-FT).
@@ -113,14 +127,19 @@ Adresse prévue : https://mateo180805.github.io/sanctions-conformite/
 - À la fin de chaque demande, Claude indique le modèle et le niveau d'effort conseillés pour la suivante (demande de Matéo, 13 novembre).
 - Pour économiser : une conversation neuve par session ; ne lire que ce journal et PROJET.md ; ne lire une fiche ou l'archive que si la tâche le demande.
 
-## Prochaine étape
+## Prochaine étape (après la session 5)
 
-**Relecture par Matéo**, sans Claude : l'étude (page Analyse), la liste des points de contrôle, puis les fiches, en commençant par les plus citées dans l'étude (2020-05, 2020-03, 2019-06, 2024-06, 2022-07).
+**À faire par Matéo, sans Claude** :
+- déposer le .zip de la session 5 (routine ci-dessus), puis vérifier sur le site la Base filtrée sur « AMF » ;
+- lundi 16 novembre : vérifier dans l'onglet Actions que la collecte (ACPR et AMF) est verte ;
+- relire l'étude (page Analyse), la liste des points de contrôle, puis les fiches, en commençant par les plus citées dans l'étude (2020-05, 2020-03, 2019-06, 2024-06, 2022-07) ;
+- éventuellement adapter son texte d'introduction (il ne parle que de l'ACPR) et ajouter le lien LinkedIn à `site/textes/a-propos.txt`.
 
-**Session 5**, dans une nouvelle conversation, au choix :
+**Session 6**, dans une nouvelle conversation, au choix :
 - les 36 décisions LCB-FT de l'ACPR antérieures à 2019 (par lots de 3, avec Fable 5.2), puis mise à jour du texte de l'étude ;
-- ou un nouveau régulateur (AMF, CSSF, FINMA) : collecte d'abord, avec Opus 5.5 ou Sonnet 5.5.
+- ou des fiches AMF, en commençant par les 28 décisions signalées blanchiment (Fable 5.2 ; la grille du point 6 de PROJET.md devra être complétée pour les abus de marché) ;
+- ou la collecte de la CSSF puis de la FINMA (Opus 5.5 ou Sonnet 5.5).
 
-Message de reprise : « Session 5 : lis PROJET.md et JOURNAL.md (pas l'archive), récupère le dépôt, puis propose-moi le plan pour [les décisions d'avant 2019 / la collecte de l'AMF]. »
+Message de reprise : « Session 6 : lis PROJET.md et JOURNAL.md (pas l'archive), récupère le dépôt, puis propose-moi le plan pour [les décisions ACPR d'avant 2019 / les fiches AMF / la collecte de la CSSF]. »
 
 Modèle conseillé : Fable 5.2 pour les fiches et pour reprendre le texte de l'étude ; Opus 5.5 ou Sonnet 5.5 pour la collecte et le site.

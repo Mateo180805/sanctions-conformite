@@ -1,6 +1,6 @@
 # PROJET – Sanctions Conformité
 
-Cahier des charges du projet. Version du 13 novembre 2026 (session 4 : page « Points de contrôle » ajoutée au point 8).
+Cahier des charges du projet. Version du 13 novembre 2026 (session 5 : collecte AMF ajoutée ; règle sur les personnes physiques au point 7).
 Ce fichier est à redonner à Claude au début de chaque session, avec JOURNAL.md.
 
 ## 1. Qui je suis
@@ -48,6 +48,7 @@ e) Un site public, sobre et facile à comprendre, dont je mettrai le lien sur mo
 - Les PDF des décisions ont des adresses de formats très différents : on part des pages de liste, on ne devine pas les adresses.
 - Une même décision peut avoir été publiée d'abord avec le nom de l'établissement, puis anonymisée plus tard (fichiers « ..._anonymisee.pdf »). Le numéro de procédure (par exemple « procédure n° 2022-01 »), précédé du nom du régulateur, sert d'identifiant unique pour éviter les doublons.
 - L'en-tête d'une décision donne souvent la sanction (par exemple « Blâme et sanction pécuniaire d'un million d'euros ») et les dates d'audience et de décision.
+- AMF (ajoutée en session 5) : la Commission des sanctions publie ses décisions sur https://www.amf-france.org/fr/sanction-transaction/Decisions-de-la-commission-des-sanctions (numéro « SAN-AAAA-NN », thème, montant total avant recours). Elle sanctionne souvent des personnes physiques, dont le nom reste publié pendant une durée limitée.
 - Pour plus tard : la CSSF publie en général ses sanctions LBC/FT, sous forme nominative ou anonyme. La FINMA publie des résumés anonymisés de ses procédures dans une base en ligne, et ordonne surtout des mesures plutôt que des amendes.
 
 ## 6. La grille d'analyse (une fiche par décision)
@@ -87,7 +88,7 @@ Les décisions qui ne portent ni sur la LCB-FT ni sur le gel des avoirs (protect
 
 - Ne jamais rien inventer. Chaque information vient du texte de la décision, avec la page. Si elle n'y est pas : « non précisé ».
 - Toujours séparer ce que dit la décision de ce qui en est déduit.
-- Ne jamais chercher à retrouver l'identité d'un établissement ou d'une personne dans une décision anonymisée. Sur le site, ne mettre en avant aucun nom de personne physique.
+- Ne jamais chercher à retrouver l'identité d'un établissement ou d'une personne dans une décision anonymisée. Sur le site, ne mettre en avant aucun nom de personne physique. Pour l'AMF, la base n'enregistre même pas ces noms ni le texte intégral des décisions (voir JOURNAL.md).
 - Avant de traiter un lot, tester la méthode sur quelques décisions et me montrer le résultat.
 - Signaler les doutes au lieu de les cacher.
 - Les fiches doivent pouvoir être lues par quelqu'un qui ne baigne pas dans le sujet : phrases simples, sigles développés, vocabulaire juridique et financier expliqué dans le lexique, sans passer son temps à faire des définitions ni perdre le détail.
@@ -117,6 +118,7 @@ Textes : courts et factuels. Des emplacements clairement marqués sont laissés 
 2. Fiches d'analyse des décisions de l'ACPR (grille du point 6), en commençant par un essai sur quelques décisions.
 3. Le site (GitHub Pages).
 4. Étude comparative et liste des points de contrôle.
-5. Et suivantes : AMF, CSSF, FINMA.
+5. Collecte AMF (faite le 13 novembre 2026, sans fiches).
+6. Et suivantes : décisions ACPR d'avant 2019, fiches AMF, CSSF, FINMA.
 
 L'ordre des sessions 2 à 5 peut changer ; le noter ici si c'est le cas.
