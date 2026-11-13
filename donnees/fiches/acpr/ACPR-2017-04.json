@@ -1,0 +1,188 @@
+{
+  "id": "ACPR-2017-04",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT et gel des avoirs",
+  "resume_court": "La Caisse fédérale de Crédit Mutuel est la tête d'un ensemble de onze fédérations régionales du Crédit Mutuel, qui contrôle aussi le CIC et Cofidis. Le contrôle de l'ACPR portait sur la façon dont les caisses locales de la fédération Méditerranée détectaient et déclaraient les opérations suspectes. Il a trouvé des comptes ouverts sans pièce d'identité. Une procédure maison permettait aussi de remettre une carte bancaire ou un chéquier à un client qui n'avait présenté aucun justificatif. Les alertes étaient classées sans vraie analyse dans quelques caisses, et des demandes de l'audit interne restaient sans suite pendant 6 à 12 mois. Il y avait encore des déclarations de soupçon jamais faites ou faites trop tard : 252 jours après une réquisition judiciaire pour assassinat, ou plusieurs semaines après qu'un proche a signalé un projet de départ combattre en Syrie. La Commission retient sept griefs, dont trois en partie, et en écarte un. Elle juge qu'on ne peut pas tirer de conclusion générale sur tout le dispositif à partir de quelques caisses. Sanction : un blâme et 1 million d'euros, alors que le Collège demandait 3 millions.",
+  "identite": {
+    "etablissement": "Caisse fédérale de Crédit Mutuel (CFCM, dite « CM11 »)",
+    "type_etablissement": "établissement de crédit",
+    "precision_type": "Société coopérative, établissement de crédit affilié à la Confédération nationale du Crédit Mutuel. Elle regroupe 11 des 18 fédérations du groupe, porte l'agrément collectif de 1 369 caisses locales et assure les fonctions centrales de conformité, de risques, d'audit et de LCB-FT. Le contrôle a porté sur la fédération Méditerranée (CMM, 135 caisses locales).",
+    "groupe": "Crédit Mutuel ; la CFCM détient 93 % de la Banque fédérative du Crédit Mutuel et contrôle notamment le CIC et le groupe Cofidis",
+    "pays": "France",
+    "activite_et_taille": "En 2016, l'ensemble avait 40 milliards d'euros de capitaux propres, un produit net bancaire de 13 milliards d'euros et un résultat net consolidé de 2,6 milliards d'euros. La fédération Méditerranée : produit net bancaire de 211 millions d'euros et résultat net de 39 millions d'euros.",
+    "pages": [2]
+  },
+  "controle": {
+    "controle_sur_place": "du 8 février au 19 mai 2016, centré sur les pratiques de déclaration de soupçon des caisses locales de la fédération Méditerranée",
+    "rapport_de_controle": "signé le 25 juillet 2016",
+    "ouverture_de_la_procedure": "décidée par le Collège (formation restreinte) le 20 avril 2017 ; lettre de saisine et notification des griefs du 15 mai 2017",
+    "antecedents": "Aucun contrôle ni sanction antérieurs de l'ACPR mentionnés. Le contrôle périodique interne avait déjà signalé en 2015 des faiblesses dans trois caisses locales (rapports du 28 janvier et du 27 avril 2015).",
+    "pages": [1, 2, 3, 4, 5, 6]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 1000000,
+    "publication": "nominative",
+    "duree_publication_nominative": "non précisée : la décision ordonne une publication nominative au registre de l'ACPR, sans limite de durée",
+    "proposition_du_college": "blâme et 3 millions d'euros, publication nominative",
+    "pages": [1, 2, 11]
+  },
+  "procedure": {
+    "questions_de_procedure": "Règle « non bis in idem » : la banque soutenait que le grief 8 (gel des avoirs) reprenait les mêmes faits que le grief 1 (identité non vérifiée). La Commission répond que, dans une même procédure, les mêmes faits peuvent recevoir plusieurs qualifications. Le gel des avoirs n'était pas dans le champ du contrôle, mais les faits ont été constatés pendant la mission et débattus, donc les droits de la défense sont respectés. Les observations du rapport de contrôle ne lient pas le Collège : la Commission porte sa propre appréciation. Audience non publique. Le rapporteur concluait que 7 griefs sur 8 étaient établis, dont 5 dans un périmètre réduit ou à relativiser, et que le grief 5 devait être écarté.",
+    "pages": [1, 6, 7, 10]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Des comptes ouverts sans pièce d'identité",
+      "resume": "Sur 67 873 ouvertures de compte de 2014-2015, la fédération Méditerranée avait elle-même recensé 131 dossiers sans aucun justificatif d'identité. La Commission en écarte beaucoup : des souscriptions sans lien avec un compte bancaire (forfaits téléphoniques, télésurveillance), des contrats d'assurance hors du champ de la poursuite, des dossiers où la banque affirme sans être contredite avoir eu la pièce, et des comptes techniques. Il reste 32 comptes ouverts sans vérification d'identité.",
+      "textes": ["CMF L. 561-5 (I)", "CMF R. 561-5"],
+      "chiffres_cles": ["67 873 dossiers d'ouverture sur 2014-2015", "131 dossiers sans justificatif (et non 132)", "exclus : 46 forfaits téléphoniques, 15 contrats de surveillance contre le vol, 3 contrats d'assurance, 35 autres dossiers (30 + 5)", "32 dossiers retenus"],
+      "issue": "retenu en partie",
+      "precision_issue": "Périmètre « finalement réduit de 131 à 32 dossiers ».",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "vérification de l'identité",
+      "categories_secondaires": [],
+      "pages": [3]
+    },
+    {
+      "numero": "2",
+      "titre": "Une carte bancaire possible sans aucun justificatif",
+      "resume": "Une procédure diffusée début 2016 permettait à un directeur de caisse ou d'agence de remettre une carte ou un chéquier à un client qui n'avait présenté ni pièce d'identité, ni justificatif de domicile, ni spécimen de signature. La banque expliquait qu'elle ne visait que des proches de clients ou des personnes connues des employés. La Commission répond qu'un lien de famille ou une connaissance personnelle ne garantit pas un risque faible, et que la loi ne permet de différer la vérification que jusqu'à la première opération. Le suivi de ces dérogations était en plus lacunaire.",
+      "textes": ["arrêté du 3 novembre 2014, article 61", "CMF L. 561-8 (I)", "CMF L. 561-5 (IV)"],
+      "chiffres_cles": ["procédure diffusée à partir du début de l'année 2016", "supprimée après le contrôle"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief […] est établi. »",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "procédure dérogatoire de remise de moyens de paiement",
+      "categories_secondaires": ["procédures et contrôle interne"],
+      "pages": [3, 4]
+    },
+    {
+      "numero": "3",
+      "titre": "Des alertes classées sans analyse dans les caisses locales",
+      "resume": "Dans trois caisses locales, les alertes automatiques étaient souvent classées sans justification suffisante. Les opérations suspectes n'étaient repérées qu'après coup par le service régional de LCB-FT, ce qui ne peut pas compenser l'absence de diligences au premier niveau. Le fait que seulement 7 % des déclarations de soupçon de 2014 viennent de ces alertes est un indice, mais ne suffit pas à prouver une carence globale. Pour une société dont le compte avait été ouvert sur demande de la Banque de France (droit au compte), 186 alertes ont été classées sans justification suffisante. Deux des dossiers cités sont écartés.",
+      "textes": ["arrêté du 3 novembre 2014, article 46"],
+      "chiffres_cles": ["7 % des déclarations de soupçon de 2014 issues des alertes automatiques", "5 dossiers sur un échantillon de 19 clients, plus 2 relevés par l'audit interne", "186 alertes pour une même société (SCI A7)", "caisses de Nice-Baie des Anges, Porto-Vecchio et Marseille-Castellane", "dossiers SARL A5 et A6 écartés"],
+      "issue": "retenu",
+      "precision_issue": "« Même si deux des dossiers individuels qui l'illustrent ne sont pas retenus […], le grief est établi. » Le Collège avait lui-même réduit son périmètre.",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "classement des alertes sans justification au premier niveau",
+      "categories_secondaires": ["dispositif de surveillance des opérations (outils, scénarios, seuils)"],
+      "pages": [4, 5]
+    },
+    {
+      "numero": "4",
+      "titre": "Les demandes de l'audit interne restées sans suite pendant 6 à 12 mois",
+      "resume": "L'audit interne avait demandé, en « criticité haute », un examen renforcé ou une déclaration pour 44 clients de deux caisses. Pour 12 d'entre eux, rien n'avait été fait au début du contrôle de l'ACPR. Dans un cas, la relation a continué plus de six mois après la demande d'y mettre fin, alors que les comptes étaient alimentés par des virements d'un pays classé à haut risque par la banque elle-même, sans origine connue. La banque reconnaissait qu'il fallait agir sans attendre le rapport définitif, mais n'a pas justifié ces délais.",
+      "textes": ["arrêté du 3 novembre 2014, article 11 (f)"],
+      "chiffres_cles": ["12 dossiers sur 44 : 4 sur 20 à Porto-Vecchio, 8 sur 24 à Nice-Baie des Anges", "rapport du contrôle périodique du 27 avril 2015", "relation poursuivie plus de 6 mois après la demande d'y mettre fin", "délais de 6 à 12 mois"],
+      "issue": "retenu",
+      "precision_issue": "Pas de phrase de conclusion propre ; la Commission juge les délais injustifiés, et le récapitulatif retient le grief (p. 10-11).",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "suivi des recommandations du contrôle périodique",
+      "categories_secondaires": [],
+      "pages": [5, 6, 10, 11]
+    },
+    {
+      "numero": "5",
+      "titre": "Examen renforcé de deux promoteurs immobiliers : non démontré",
+      "resume": "Après des demandes de renseignements de Tracfin, deux sociétés de promotion immobilière avaient été placées sous surveillance et généraient de nombreuses alertes. La poursuite reprochait l'absence d'examen renforcé. La Commission répond que les alertes ne suffisent pas : la poursuite ne dit pas quelles opérations remplissaient un critère légal d'examen renforcé, et la banque a expliqué pourquoi les comptes lui paraissaient cohérents avec l'activité.",
+      "textes": ["CMF L. 561-10-2 (II)"],
+      "chiffres_cles": ["2 dossiers (SARL A4 et SARL A5)"],
+      "issue": "écarté",
+      "precision_issue": "« Le grief doit en conséquence être écarté » ; le rapporteur proposait aussi de l'écarter.",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [6]
+    },
+    {
+      "numero": "6",
+      "titre": "Des dépôts d'espèces en grosses coupures jamais déclarés",
+      "resume": "Trois dossiers sur cinq sont retenus. Une commerçante dépose 116 000 euros en espèces sur son compte personnel, après un premier dépôt de 100 000 euros un an plus tôt. Un simple avertissement à la cliente ne remplace pas une déclaration. Un client aux revenus modestes dépose 7 520 euros en espèces puis les retire aussitôt : la faiblesse du montant n'est pas un motif, car il n'existe aucun seuil pour déclarer. Un couple retire 30 000 puis 40 000 euros en billets de 500 euros, puis la cliente dépose 79 000 euros en billets de 500 et les retire en petites coupures. Les deux autres dossiers sont écartés : l'origine des fonds y était justifiée.",
+      "textes": ["CMF L. 561-15 (I et III)"],
+      "chiffres_cles": ["5 dossiers visés, 3 retenus (6.1, 6.2 en partie, 6.5)", "6.1 : 116 000 euros d'espèces en avril 2014, après 100 000 euros en juillet 2013 ; déclaration le 18 juillet 2016, après le rapport de contrôle", "6.2 : 7 520 euros déposés puis 7 500 euros retirés, revenus du ménage d'environ 30 000 euros par an", "6.5 : retraits de 30 000 et 40 000 euros, dépôt de 79 000 euros en coupures de 500 euros", "écartés : 6.3 (virement de 1 500 000 euros justifié) et 6.4 (deux chèques de 25 000 euros justifiés)"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Établi dans un périmètre réduit à 3 dossiers. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [6, 7, 8]
+    },
+    {
+      "numero": "7",
+      "titre": "Huit déclarations faites des semaines ou des mois trop tard",
+      "resume": "Huit dossiers, tous retenus. Une entreprise de maçonnerie retire 196 620 euros en espèces et achète des voitures sans rapport avec son activité. Une société reçoit 282 000 euros d'Estonie et des Îles Vierges britanniques, puis 60 000 euros d'une fondation au Liechtenstein. Une société de vente automobile voit passer près de 2 millions d'euros en cinq mois. Un client est visé par une réquisition judiciaire pour assassinat, et la déclaration arrive 252 jours plus tard. Pour un autre client, un proche a signalé son intention d'aller combattre en Syrie : de nombreux retraits d'espèces et un achat dans une armurerie auraient dû alerter immédiatement, et la déclaration n'est arrivée que quelques semaines après. La banque mettait en avant un délai moyen de 60 jours en 2015, meilleur que celui des grandes banques. La Commission répond que le grief porte sur ces huit dossiers précis.",
+      "textes": ["CMF L. 561-16"],
+      "chiffres_cles": ["7.1 : 151 retraits d'espèces pour 196 620 euros, 12 virements internationaux pour 129 000 euros", "7.2 : 10 virements étrangers pour 261 000 euros, déclaration près de 5 mois après la détection", "7.3 : chèque de 800 000 euros", "7.4 : 661 chèques émis pour 994 K€ en deux ans sur un compte d'avocat", "7.5 : 8 virements pour 282 000 euros, 60 000 euros du Liechtenstein, 130 retraits pour 83 000 euros", "7.6 : déclaration 252 jours après une réquisition judiciaire", "7.7 : déclaration le 15 décembre 2015", "7.8 : 1 997 000 euros de crédits en 5 mois, 117 jours entre la détection et la déclaration", "délai moyen de la banque : 60 jours en 2015, contre 84 pour les 7 plus grands établissements"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 7 est entièrement établi. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "délai de déclaration",
+      "categories_secondaires": [],
+      "pages": [8, 9, 10]
+    },
+    {
+      "numero": "8",
+      "titre": "Gel des avoirs : impossible de filtrer des clients non identifiés",
+      "resume": "Sans vérification d'identité, la banque ne pouvait pas savoir si ces nouveaux clients étaient visés par une mesure de gel. Le grief reprend donc la conséquence du grief 1, sur les 32 dossiers retenus. La Commission précise que cela ne permet pas de juger l'ensemble du dispositif de gel, qui n'a pas été contrôlé.",
+      "textes": ["arrêté du 3 novembre 2014, article 47"],
+      "chiffres_cles": ["132 clients visés par la poursuite, 32 retenus"],
+      "issue": "retenu en partie",
+      "precision_issue": "Établi « dans ce périmètre » de 32 clients.",
+      "categorie": "gel des avoirs et sanctions financières",
+      "categorie_precision": "conséquence d'une identité non vérifiée",
+      "categories_secondaires": ["connaissance du client à l'entrée en relation"],
+      "pages": [10]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "La vérification de l'identité conditionne l'efficacité de tout le dispositif de LCB-FT : la carence doit être appréciée en conséquence, même si elle porte sur peu de cas.", "pages": [10]}
+    ],
+    "elements_attenuants": [
+      {"texte": "Mission centrée sur une seule fédération, et insuffisances concentrées dans quelques caisses : on ne peut pas en tirer de conclusion générale sur le dispositif de la CFCM.", "pages": [11]},
+      {"texte": "Peu de dossiers d'identité non vérifiée au regard des comptes ouverts ; grief 5 écarté.", "pages": [11]},
+      {"texte": "Délais moyens de déclaration plus courts que dans d'autres affaires ; gel des avoirs non évalué en tant que tel.", "pages": [11]},
+      {"texte": "Actions correctrices et engagement fort de la direction générale à l'audience, pris en compte « dans une certaine mesure ».", "pages": [11]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Suppression de la procédure permettant de remettre des moyens de paiement sans justificatif.", "pages": [4]}
+    ],
+    "situation_financiere": {"texte": "Ensemble CFCM en 2016 : 40 milliards d'euros de capitaux propres, produit net bancaire de 13 milliards d'euros, résultat net consolidé de 2,6 milliards d'euros. Montant fixé « dans le respect du principe de proportionnalité au regard de l'assise financière ».", "pages": [2, 11]},
+    "cause_profonde": {"texte": "Non précisé de façon générale. La décision décrit des diligences insuffisantes au premier niveau, dans quelques caisses locales, que le service régional de LCB-FT et le contrôle périodique ne rattrapaient qu'après coup. Dans un dossier, la caisse locale n'avait pas de directeur pendant la période.", "pages": [4, 5, 10]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Un compte peut-il être ouvert, ou un moyen de paiement remis, avant que l'identité soit vérifiée ? Si oui, la dérogation est-elle limitée aux cas de risque faible et tracée ?",
+      "Les ouvertures de compte sans justificatif d'identité sont-elles recensées et régularisées rapidement ?",
+      "Chaque alerte classée sans suite l'est-elle avec une justification écrite au premier niveau, sans compter sur le service central pour rattraper ?",
+      "Les dossiers signalés par l'audit interne sont-ils traités sans attendre le rapport définitif, avec un délai suivi ?",
+      "Une réquisition judiciaire ou une demande de Tracfin déclenche-t-elle immédiatement l'ouverture d'un dossier d'analyse ?",
+      "Un signalement extérieur évoquant un risque de terrorisme est-il traité en urgence, avec une déclaration rapide ?",
+      "Les dépôts et retraits d'espèces importants, notamment en grosses coupures, sont-ils déclarés quand leur origine n'est pas établie, sans seuil minimal ?",
+      "Le délai entre la détection d'une opération suspecte et la déclaration est-il mesuré dossier par dossier, et pas seulement en moyenne ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["banque mutualiste", "caisses locales", "vérification d'identité", "procédure dérogatoire", "moyens de paiement", "alertes classées sans suite", "premier niveau", "contrôle périodique", "réquisition judiciaire", "espèces", "billets de 500 euros", "déclarations tardives", "financement du terrorisme", "droit au compte", "non bis in idem"],
+    "pages_prioritaires": [
+      {"pages": [3, 4], "pourquoi": "comment 131 dossiers sans identité deviennent 32, et la procédure dérogatoire"},
+      {"pages": [4, 5], "pourquoi": "pourquoi le service central ne peut pas pallier le premier niveau"},
+      {"pages": [8, 9, 10], "pourquoi": "les huit déclarations tardives, très concrètes"},
+      {"pages": [11], "pourquoi": "pourquoi le montant tombe de 3 à 1 million d'euros"}
+    ],
+    "confiance": "élevée",
+    "a_verifier": [
+      "Grief 4 : pas de phrase « le grief est établi » propre à ce grief ; classé « retenu » d'après le raisonnement p. 5-6 et le récapitulatif p. 10-11.",
+      "Dossier 7.7 : la décision donne des détails religieux sur le client ; je les ai laissés hors de la fiche, comme pour la fiche 2019-06, et je n'ai gardé que l'indice de financement du terrorisme.",
+      "Page 9, la décision écrit « 1 064 00 euros » de crédits pour le dossier 7.6 (chiffre manquant) : non repris.",
+      "Les dossiers 7.2 et 7.3 sont tous deux appelés « SARL A32 », et « A35 » désigne à la fois une SCI et un client : probables coquilles de numérotation. Non corrigé.",
+      "Décision nominative : le nom de l'établissement est celui du texte publié ; aucune personne physique n'est nommée."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Opus 5.5), à partir du texte extrait du PDF officiel", "date": "2026-11-13", "relue_par_mateo": false}
+}

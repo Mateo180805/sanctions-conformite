@@ -1,0 +1,215 @@
+{
+  "id": "ACPR-2017-05",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT",
+  "resume_court": "La Caisse fédérale du Crédit Mutuel Nord Europe est la tête d'un groupe bancaire régional de 153 caisses locales, dans le Nord, en Picardie et en Champagne-Ardenne. Son système d'alerte ne tenait pas compte des revenus ni du patrimoine des clients : il repérait surtout les opérations en espèces. Le service central chargé de déclarer les soupçons à Tracfin ne comptait que cinq personnes. Les dossiers en attente ont grimpé jusqu'à 279, il a fallu en moyenne 191 jours pour envoyer certaines déclarations, et les bases de données de contrôle n'étaient presque plus exploitées. Treize dossiers auraient dû être déclarés, par exemple des clients aux revenus modestes déposant des dizaines de milliers d'euros en espèces. Les caisses locales ne répondaient parfois pas aux questions du service central, sans procédure pour les y obliger. La Commission retient les dix griefs, dont un en partie, y compris deux que le rapporteur proposait d'écarter. Sanction : un blâme et 1,5 million d'euros, moitié moins que les 3 millions demandés au minimum par le Collège.",
+  "identite": {
+    "etablissement": "Caisse fédérale du Crédit Mutuel Nord Europe (CFCMNE)",
+    "type_etablissement": "établissement de crédit",
+    "precision_type": "Société anonyme coopérative de crédit à capital variable, issue du regroupement en 1993 et 1994 des fédérations « Nord », « Artois-Picardie » et « Champagne-Ardenne ». Elle est détenue à 100 % par ses 153 caisses locales, dont elle porte l'agrément collectif, et elle est la holding du groupe Crédit Mutuel Nord Europe (cinq pôles).",
+    "groupe": "Crédit Mutuel Nord Europe (CMNE)",
+    "pays": "France",
+    "activite_et_taille": "En 2016, le groupe CMNE avait 1,28 milliard d'euros de capitaux propres, un produit net bancaire de 1,13 milliard d'euros et un résultat net consolidé de 205 millions d'euros ; la CFCMNE (bancassurance en France) : produit net bancaire de 454 millions d'euros et résultat net de 110 millions d'euros. 4 748 salariés fin 2016, dont un peu moins de 4 000 pour la banque en France.",
+    "pages": [2]
+  },
+  "controle": {
+    "controle_sur_place": "du 23 février au 7 août 2015",
+    "rapport_de_controle": "signé le 19 juillet 2016",
+    "ouverture_de_la_procedure": "décidée par le Collège (formation restreinte) le 20 avril 2017 ; lettre de saisine et notification des griefs du 15 mai 2017",
+    "antecedents": "non précisé",
+    "pages": [1, 2, 3]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 1500000,
+    "publication": "nominative",
+    "duree_publication_nominative": "non précisée : la décision ordonne une publication nominative au registre de l'ACPR, sans limite de durée",
+    "proposition_du_college": "blâme et sanction pécuniaire « qui ne saurait être inférieure à 3 millions d'euros », publication nominative",
+    "pages": [1, 2, 12, 13]
+  },
+  "procedure": {
+    "questions_de_procedure": "La banque soulignait que les contrôleurs, restés plus de cinq mois, avaient examiné environ 500 dossiers et n'en avaient retenu qu'une trentaine, réutilisés pour plusieurs griefs. La Commission répond que c'est permis, mais qu'il faut en tenir compte dans l'appréciation d'ensemble, et qu'un échantillon trop faible ne permet pas de conclure à un manquement général. L'appréciation favorable d'un responsable de Tracfin sur les déclarations de la banque ne change rien : c'est à l'ACPR d'évaluer le dispositif. Audience non publique le 28 mars 2018. Le rapporteur concluait que 8 griefs sur 10 étaient établis, dont 3 dans un périmètre réduit (griefs 1, 5 et 7), et que les griefs 3 et 4 devaient être écartés.",
+    "pages": [1, 2, 3]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Des alertes aveugles aux revenus et au patrimoine des clients",
+      "resume": "Les alertes reposaient sur des seuils par type d'opération (espèces, chèque, virement) et par type de client, sans aucune règle comparant une opération aux revenus ou au patrimoine du client. Les virements n'étaient surveillés que vers ou depuis les pays des listes « rouge » et « orange ». La Commission juge que la situation financière du client est « indispensable » pour détecter une opération atypique. Elle admet deux réserves : les clients déjà déclarés ou politiquement exposés étaient surveillés sur toutes leurs opérations, et l'échantillon des contrôleurs, surtout composé d'opérations en espèces, n'était pas représentatif.",
+      "textes": ["arrêté du 3 novembre 2014, article 50"],
+      "chiffres_cles": ["13 dossiers d'illustration (A1 à A13)", "environ un tiers des 11 160 alertes de 2016 portaient sur des espèces"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Sous ces réserves, qui sont fondées, le grief 1 […] est établi. »",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [3, 4]
+    },
+    {
+      "numero": "2",
+      "titre": "Des alertes analysées sans regarder le reste du compte",
+      "resume": "Dans les caisses locales, l'analyse d'une alerte se limitait à l'opération qui l'avait déclenchée, sans examiner le fonctionnement général du compte pour repérer d'autres opérations atypiques. La banque ne conteste pas et met en avant des corrections engagées avant le contrôle, trop récentes pour effacer le grief.",
+      "textes": ["arrêté du 3 novembre 2014, article 46"],
+      "chiffres_cles": ["5 dossiers (A1, A2, A4, A5, A7)"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 2 […] est établi » ; non contesté.",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [4]
+    },
+    {
+      "numero": "3",
+      "titre": "Des procédures internes non appliquées",
+      "resume": "Les procédures prévoyaient d'ouvrir un dossier d'analyse quand une alerte appelait un examen renforcé, et d'envoyer une proposition de déclaration quand l'origine des fonds restait floue. Dans 10 dossiers, cela n'a pas été fait. Les dossiers des clients à « risque normal », qui devaient être mis à jour tous les trois ans, ne l'étaient pas. Dans un dossier, la caisse a classé une analyse qui faisait apparaître un soupçon de fraude fiscale. Le rapporteur proposait d'écarter le grief ; la Commission le retient.",
+      "textes": ["arrêté du 3 novembre 2014, articles 11 (a) et 71"],
+      "chiffres_cles": ["10 dossiers", "mise à jour prévue tous les 3 ans pour les clients à risque normal (A7, A11, A12)"],
+      "issue": "retenu",
+      "precision_issue": "La Commission constate que les procédures n'ont pas été respectées dans les 10 dossiers, ce qui « atteste » d'une défaillance du contrôle interne ; pas de phrase « le grief est établi », mais le récapitulatif le retient (p. 12).",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "application des procédures internes",
+      "categories_secondaires": ["vigilance constante et mise à jour des dossiers"],
+      "pages": [4, 5, 12]
+    },
+    {
+      "numero": "4",
+      "titre": "Des bases de contrôle presque plus exploitées",
+      "resume": "Le service central de lutte contre le blanchiment devait exploiter deux bases de données qui signalent des mouvements suspects. Or il n'a analysé que 4 mouvements sur 514 signalés en 2013, 107 sur 1 165 en 2014, et aucune des 9 035 opérations détectées par l'autre base au premier semestre 2015. Pourtant, en 2014, l'une de ces bases était à l'origine d'un quart des déclarations à Tracfin. Le rapporteur proposait d'écarter ce grief ; la Commission le retient.",
+      "textes": ["arrêté du 3 novembre 2014, articles 11, 13 et 71"],
+      "chiffres_cles": ["base « X » : 4 mouvements analysés sur 514 en 2013, 107 sur 1 165 en 2014", "base « Y » : aucune des 9 035 opérations de janvier à juin 2015 analysée", "base « X » à l'origine du quart des déclarations de 2014"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief […] est établi. »",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "contrôle permanent de second niveau",
+      "categories_secondaires": ["dispositif de surveillance des opérations (outils, scénarios, seuils)"],
+      "pages": [5, 6]
+    },
+    {
+      "numero": "5",
+      "titre": "Des caisses locales qui ne répondaient pas au service central",
+      "resume": "Les responsables chargés des déclarations à Tracfin n'obtenaient pas toujours les informations des caisses locales : dans 4 dossiers, leurs demandes restaient sans réponse. Il n'existait aucune procédure d'« escalade » pour obliger les caisses à répondre. La banque expliquait qu'il fallait parfois joindre le client ; la Commission répond que le service central devait au moins être informé de l'impossibilité d'obtenir une réponse. Une procédure d'escalade a été mise en place à partir du 26 septembre 2017.",
+      "textes": ["arrêté du 3 novembre 2014, article 55"],
+      "chiffres_cles": ["4 dossiers (A3, A15, A25, A27)", "procédure d'escalade en place à partir du 26 septembre 2017"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi », quoique illustré par un nombre limité de dossiers. Le rapporteur proposait un périmètre réduit.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "accès du déclarant Tracfin aux informations (procédure d'escalade)",
+      "categories_secondaires": ["déclarations de soupçon à Tracfin"],
+      "pages": [6]
+    },
+    {
+      "numero": "6",
+      "titre": "Cinq personnes pour 153 caisses : les dossiers s'accumulent",
+      "resume": "Le service central traitait les propositions de déclaration de 153 caisses, envoyait les déclarations à Tracfin et faisait une partie des contrôles de second niveau, avec 5 personnes. Le stock de propositions en attente est passé d'une vingtaine en mars 2014 à 279 fin 2015, et en restait 259 fin 2016. Les délais de déclaration se sont allongés, et les contrôles de second niveau n'ont pas été faits pendant des mois. La banque avait renforcé l'équipe, qui est passée de 4 personnes fin 2014 à 9 en 2017, mais trop tard.",
+      "textes": ["arrêté du 3 novembre 2014, article 51"],
+      "chiffres_cles": ["service de 5 personnes lors du contrôle (4 jusqu'à fin 2014, 9 en 2017)", "stock de propositions : de 120 à 177 entre fin 2014 et juin 2015", "d'une vingtaine au 31 mars 2014 à 279 au 31 décembre 2015, puis 259 au 31 décembre 2016"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est donc établi. »",
+      "categorie": "gouvernance, moyens et formation",
+      "categorie_precision": "moyens humains du service de lutte contre le blanchiment",
+      "categories_secondaires": [],
+      "pages": [6, 7]
+    },
+    {
+      "numero": "7",
+      "titre": "Des dossiers clients sans revenus ni patrimoine",
+      "resume": "Dans 13 des 36 dossiers examinés, la profession, les revenus ou le patrimoine du client manquaient ou étaient faux. Que la profession soit renseignée dans 97 % des dossiers ne compense pas cette carence : il faut connaître revenus et patrimoine dès l'entrée en relation pour que la surveillance fonctionne.",
+      "textes": ["CMF L. 561-6", "CMF R. 561-12"],
+      "chiffres_cles": ["13 dossiers sur 36", "profession renseignée dans 97 % des dossiers examinés"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief […] est établi. » Le rapporteur proposait un périmètre réduit.",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "",
+      "categories_secondaires": ["vigilance constante et mise à jour des dossiers"],
+      "pages": [7]
+    },
+    {
+      "numero": "8",
+      "titre": "Des mouvements massifs sans examen renforcé",
+      "resume": "Cinq dossiers. Un commerçant dont le dernier chiffre d'affaires connu datait de 2006 (130 000 euros) et le dernier revenu connu de 2010 (158 euros par mois) voit passer plus de 1,6 million d'euros d'espèces et près de 2 millions d'euros de chèques émis. Un couple aux revenus modestes dépose 105 000 euros d'espèces et retire 65 000 puis 35 000 euros. Un retraité de 83 ans reçoit 117 640 dollars d'Uruguay, alerte classée sur une explication jamais justifiée. Le silence d'une cliente ne justifie pas l'inaction de la banque pendant des mois.",
+      "textes": ["CMF L. 561-10-2 (II)"],
+      "chiffres_cles": ["5 dossiers (A2, A12, A16, A25, A32)", "A2 : 71 dépôts d'espèces pour 105 000 euros, 57 chèques pour 71 500 euros, retraits de 65 000 et 35 000 euros", "A12 : plus de 1,6 million d'euros d'espèces, près de 2 millions d'euros de chèques émis, 431 chèques", "A16 : virement de 67 000 euros puis retrait de 66 000 euros en espèces, pour 2 000 euros de revenus mensuels", "A25 : 114 000 euros de chèques et 107 retraits pour près de 179 000 euros", "A32 : 117 640 dollars reçus d'Uruguay"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 8 est établi dans son intégralité. »",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [7, 8]
+    },
+    {
+      "numero": "9",
+      "titre": "Treize dossiers qui auraient dû être déclarés",
+      "resume": "Treize dossiers, tous retenus, où les opérations n'avaient rien à voir avec ce que la banque savait du client. Une étudiante dépose 54 fois des espèces, pour près de 91 000 euros. Un client au chômage reçoit 243 800 euros de virements et 168 000 euros d'une société inconnue. Un client encaisse un chèque dont le nom du bénéficiaire, une société, a été rayé et remplacé par le sien. Une cliente dépose un chèque volé de 7 500 euros et tente aussitôt de retirer des espèces. Une proposition de déclaration classée sans suite, ou une plainte, ne remplace pas la déclaration.",
+      "textes": ["CMF L. 561-15 (I et II)", "CMF D. 561-32-1 (critères 4 et 15)"],
+      "chiffres_cles": ["13 dossiers", "A3 : 7 dépôts d'espèces pour 89 000 euros", "A4 : 120 000 euros de virements reçus, 85 virements émis pour 364 000 euros", "A8 : près de 900 000 euros de crédits pour 47 000 euros de revenus fonciers connus", "A10 : 243 800 euros et 168 000 euros reçus par un allocataire chômage", "A20 : plus de 66 000 euros d'espèces pour 2 052 euros de revenus mensuels", "A23 : 54 dépôts d'espèces pour près de 91 000 euros", "A28 : 15 dépôts d'espèces pour 3 780 euros", "A33 : chèque volé de 7 500 euros"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 9 est intégralement établi. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [9, 10, 11]
+    },
+    {
+      "numero": "10",
+      "titre": "191 jours en moyenne pour certaines déclarations",
+      "resume": "Sur les 36 déclarations envoyées en juin 2015, 19 l'ont été avec un retard que les diligences ne justifiaient pas : en moyenne 191 jours entre la proposition de la caisse et la déclaration. La banque mettait en avant la baisse de son délai moyen, de 77 jours en 2015 à 58 jours mi-2016. La Commission répond que l'obligation de déclarer sans délai s'applique à chaque dossier.",
+      "textes": ["CMF L. 561-16"],
+      "chiffres_cles": ["19 déclarations sur 36 envoyées en juin 2015", "délai moyen de 191 jours dans ces 19 dossiers", "délai moyen général de 77 jours en 2015, 58 jours au 30 juin 2016"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 10 est entièrement établi. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "délai de déclaration",
+      "categories_secondaires": [],
+      "pages": [11]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "Le défaut de réponse des caisses locales au service central était aggravé par l'absence de procédure d'escalade.", "pages": [12]}
+    ],
+    "elements_attenuants": [
+      {"texte": "Nombre limité de dossiers au regard de la taille de l'établissement, certains utilisés pour plusieurs griefs.", "pages": [12]},
+      {"texte": "Délais moyens de déclaration moins élevés que dans d'autres affaires.", "pages": [12]},
+      {"texte": "Actions correctrices engagées entre la fin du contrôle (août 2015) et l'ouverture de la procédure (mai 2017), prises en compte malgré leur caractère parfois tardif.", "pages": [12]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Évolution du système d'information pour y intégrer les revenus et le patrimoine des clients.", "pages": [4]},
+      {"texte": "Procédures améliorées, formations adaptées, contrôles de premier et second niveau renforcés.", "pages": [4]},
+      {"texte": "Procédure d'escalade à partir du 26 septembre 2017.", "pages": [6]},
+      {"texte": "Équipe du service central portée à 9 personnes en 2017.", "pages": [7]}
+    ],
+    "situation_financiere": {"texte": "Produit net bancaire de 454 millions d'euros et résultat net de 110 millions d'euros pour la CFCMNE en 2016. Montant fixé « dans le respect du principe de proportionnalité au regard de l'assise financière ».", "pages": [2, 12]},
+    "cause_profonde": {"texte": "La décision relie directement l'insuffisance des effectifs du service central à l'accumulation des propositions de déclaration, aux retards et à l'abandon des contrôles de second niveau. Elle relève aussi un système d'alerte qui n'utilisait pas la situation financière des clients.", "pages": [4, 6, 7, 12]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Les scénarios d'alerte comparent-ils les opérations aux revenus et au patrimoine déclarés du client ?",
+      "Tous les virements sont-ils surveillés, et pas seulement ceux liés à certains pays ?",
+      "L'analyse d'une alerte couvre-t-elle tout le fonctionnement du compte, pas seulement l'opération signalée ?",
+      "Le stock de propositions de déclaration en attente est-il suivi chaque mois, avec un seuil d'alerte sur l'ancienneté ?",
+      "Les effectifs du service central sont-ils ajustés quand le stock augmente ?",
+      "Les bases de données de détection utilisées au second niveau sont-elles réellement exploitées ? Quelle part des signalements est analysée ?",
+      "Existe-t-il une procédure d'escalade quand une agence ne répond pas au service central ?",
+      "Les dossiers des clients à risque normal sont-ils mis à jour selon la fréquence prévue ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["banque mutualiste", "caisses locales", "signalements ponctuels", "revenus et patrimoine", "second niveau", "stock de déclarations", "délais de déclaration", "escalade", "moyens humains", "espèces", "chèque volé", "échantillon"],
+    "pages_prioritaires": [
+      {"pages": [3, 4], "pourquoi": "échantillon de dossiers, avis de Tracfin, et alertes sans revenus ni patrimoine"},
+      {"pages": [5, 6, 7], "pourquoi": "bases inexploitées, absence d'escalade et accumulation des dossiers"},
+      {"pages": [9, 10, 11], "pourquoi": "les treize dossiers non déclarés"},
+      {"pages": [12], "pourquoi": "pourquoi l'amende est divisée par deux par rapport à la demande"}
+    ],
+    "confiance": "élevée",
+    "a_verifier": [
+      "Grief 1 : la Commission dit le grief établi « sous ces réserves, qui sont fondées ». J'ai classé « retenu en partie » parce que deux éléments de la poursuite sont relativisés ; « retenu » se défendrait aussi.",
+      "Grief 3 : pas de phrase « le grief est établi » ; classé « retenu » d'après le constat p. 5 et le récapitulatif p. 12. Le rapporteur proposait de l'écarter, comme le grief 4.",
+      "Certains dossiers donnent des détails personnels (pays d'origine d'un projet immobilier, procédure de divorce, profession de policier) : je ne les ai pas repris, ils n'ajoutent rien au manquement.",
+      "Décision nominative : le nom de l'établissement est celui du texte publié ; les clients ne sont désignés que par des codes."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Opus 5.5), à partir du texte extrait du PDF officiel", "date": "2026-11-13", "relue_par_mateo": false}
+}

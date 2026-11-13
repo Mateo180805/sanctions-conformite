@@ -1,6 +1,6 @@
 # JOURNAL – Sanctions Conformité
 
-Journal de bord du projet, version courte (allégée le 13 novembre 2026 pour économiser le quota ; mise à jour en fin de session 5).
+Journal de bord du projet, version courte (allégée le 13 novembre 2026 pour économiser le quota ; mise à jour au lot 8).
 À redonner à Claude au début de chaque session, avec PROJET.md.
 Le détail lot par lot est dans `JOURNAL-ARCHIVE.md` : ne pas le relire au début d'une session, seulement au besoin.
 
@@ -15,7 +15,8 @@ Dépôt : https://github.com/Mateo180805/sanctions-conformite (public)
 - [x] Session 3 : le site (GitHub Pages), construit avec Opus 5.5 et **en ligne depuis le 13 novembre** (31 fiches vérifiées sur le site publié). Textes de l'accueil et de la page À propos rédigés par Claude et validés par Matéo.
 - [x] Session 4 : étude comparative (page Analyse) et liste de 69 points de contrôle (nouvelle page), sur les 31 fiches. Rédigées avec Fable 5.2, **pas encore relues par Matéo**.
 - [x] Session 5 : collecte AMF (avec Opus 5.5). **454 décisions de la Commission des sanctions de l'AMF** (2004 à juillet 2026) ajoutées à la base et au site, mise à jour chaque lundi avec l'ACPR. Pas de fiches AMF.
-- [ ] Plus tard : les 36 décisions LCB-FT de l'ACPR antérieures à 2019, les 44 fiches courtes « hors LCB-FT », des fiches AMF (en commençant par les 28 signalées blanchiment), puis CSSF et FINMA.
+- [x] Lots 7a et 8 (13 novembre au soir, Opus 5.5) : 8 fiches de décisions d'avant 2019 (2018-01, 2017-01 à 2017-07). **39 fiches.** L'étude reste sur ses 31 décisions de 2019-2026.
+- [ ] Plus tard : les 28 décisions restantes LCB-FT de l'ACPR antérieures à 2019, les 44 fiches courtes « hors LCB-FT », des fiches AMF (en commençant par les 28 signalées blanchiment), puis CSSF et FINMA.
 
 Les 31 fiches : 2024-06, 2024-02, 2024-01, 2023-01, 2022-07, 2022-06, 2022-05, 2022-04, 2022-03, 2022-02, 2022-01, 2021-05, 2021-01, 2020-11, 2020-09 (nominatives) ; 2020-08, 2020-06, 2020-05, 2020-03, 2020-02, 2020-01, 2019-08, 2019-07, 2019-06, 2019-04, 2018-08, 2018-06, 2018-05, 2018-04, 2018-03, 2017-10 (anonymisées).
 
@@ -124,7 +125,28 @@ Adresse prévue : https://mateo180805.github.io/sanctions-conformite/
 
 - Points à vérifier signalés dans les fiches : 2017-03 grief 6 (pas de phrase de conclusion propre, classé retenu) et deux coquilles probables du texte ; 2017-02 grief 7 abandonné mais cité dans le récapitulatif de la décision.
 - **L'étude reste sur sa période** : `analyse/etude.py` ne compte que les fiches de décisions rendues depuis le 1er janvier 2019 (`DEBUT_ETUDE`). Les chiffres de l'étude n'ont pas bougé (31 décisions) et aucun bandeau « Texte à mettre à jour » n'apparaît. Quand toutes les décisions d'avant 2019 auront leur fiche, il faudra décider d'élargir l'étude (changer la date et reprendre le texte).
-- Il reste **33 décisions LCB-FT de l'ACPR antérieures à 2019** sans fiche, des plus récentes aux plus anciennes : 2017-01 (CNP Assurances, 8 M€), 2017-04, 2017-07, 2017-06, 2017-05…
+- (Mis à jour au lot 8 : voir plus bas.)
+
+## Lot 8 (13 novembre au soir, Opus 5.5, effort max)
+
+Cinq fiches de plus, et corrections du lot 7a. **39 fiches au total.**
+
+| Décision | Établissement | Sanction (demande du Collège) | Griefs retenus / en partie / écartés |
+|---|---|---|---|
+| 2017-01 | CNP Assurances (bancassurance, deux réseaux bancaires distributeurs) | blâme, 8 M€ (10 M€) | 5 / 9 / 0 |
+| 2017-04 | Caisse fédérale de Crédit Mutuel (contrôle centré sur la fédération Méditerranée) | blâme, 1 M€ (3 M€) | 4 / 3 / 1 |
+| 2017-07 | Sigue Global Services SAS (transfert d'argent, corridor Chine) | blâme, 100 000 € (90 000 €) | 14 / 2 / 1 |
+| 2017-06 | Sigue Global Services Ltd (société sœur britannique, réseau d'agents) | blâme, 60 000 € (60 000 €) | 4 / 2 / 0 |
+| 2017-05 | Caisse fédérale du Crédit Mutuel Nord Europe | blâme, 1,5 M€ (3 M€ minimum) | 9 / 1 / 0 |
+
+- **À retenir pour l'étude, le jour où elle sera élargie aux décisions d'avant 2019** : en 2017-07, la Commission prononce **plus** que la demande du Collège (100 000 € contre 90 000 €). La phrase de l'étude « jamais au-dessus de la demande du Collège » ne vaut que pour 2019-2026. En 2017-05, la Commission retient deux griefs que le rapporteur proposait d'écarter.
+- **Corrections du lot 7a** : la fiche 2018-01 contenait une addition faite par Claude (« 5,5 millions d'envois pour 1,3 milliard ») ; remplacée par les chiffres officiels. La fiche 2017-01, faite dans ce lot, avait aussi une addition (« 40 alertes ») et un mauvais décompte (« dont 8 en partie » au lieu de 9) : corrigés avant livraison.
+- **Nouvelles règles de rédaction** (suite à ces erreurs) : jamais d'arrondi (« près de 68 000 ») ni d'addition dans une fiche ; on reprend le chiffre exact du texte. Le décompte des issues dans « En bref » est vérifié par programme. Les détails personnels sans lien avec le manquement (religion, origine, divorce, profession sans rapport) ne sont pas repris, comme pour la fiche 2019-06.
+- **Deux outils ajoutés au dépôt**, à utiliser à chaque lot :
+  - `analyse/lire_decision.py ACPR-xxxx-xx` : lecture compacte (en-têtes et citations de lois retirées, faits jamais coupés), environ 10 % de texte en moins ;
+  - `analyse/verifier_nombres.py ACPR-xxxx-xx` : cherche chaque nombre de la fiche dans les pages citées, en entier. Il a repéré les arrondis et additions ci-dessus. Les faux signalements connus sont décrits en tête du fichier.
+- **Rythme constaté** : 5 fiches par demande avec Opus 5.5 en effort max, plus les vérifications. C'est la longueur de la conversation qui limite, pas l'effort : mieux vaut **une conversation neuve par lot**.
+- **Il reste 28 décisions LCB-FT de l'ACPR d'avant 2019** (407 pages), des plus récentes aux plus anciennes : 2017-08, 2016-08, 2016-10, 2016-07, 2016-09, 2016-06, 2016-05, 2016-01, 2016-03, 2015-08, 2015-10, 2015-07, 2015-06, 2014-10, 2014-07, 2014-08, 2015-01, 2013-06, 2014-06, 2012-08, 2013-01, 2012-05, 2012-04, 2011-03, 2011-02, 2011-01, 2010-05, 2010-01. Soit environ **5 à 6 demandes** de 5 fiches. Attention : pour 2016-08, la base indique une publication « à vérifier » et un nom d'établissement qui contient des noms de personnes physiques (à ne pas reprendre).
 
 ## Thèmes repérés pendant la session 2
 
@@ -167,6 +189,6 @@ Adresse prévue : https://mateo180805.github.io/sanctions-conformite/
 - ou des fiches AMF, en commençant par les 28 décisions signalées blanchiment (Fable 5.2 ; la grille du point 6 de PROJET.md devra être complétée pour les abus de marché) ;
 - ou la collecte de la CSSF puis de la FINMA (Opus 5.5 ou Sonnet 5.5).
 
-Message de reprise : « Lot 8 : lis PROJET.md et JOURNAL.md (pas l'archive), récupère le dépôt, puis fais les 3 fiches ACPR suivantes d'avant 2019 (2017-01, 2017-04, 2017-07), même méthode que le lot 7. »
+Message de reprise : « Lot 9 : lis PROJET.md et JOURNAL.md (pas l'archive), récupère le dépôt, puis fais les 5 fiches ACPR suivantes d'avant 2019 (2017-08, 2016-08, 2016-10, 2016-07, 2016-09), même méthode que le lot 8, avec analyse/lire_decision.py et analyse/verifier_nombres.py. »
 
 Modèle conseillé : Fable 5.2 pour les fiches et pour reprendre le texte de l'étude ; Opus 5.5 ou Sonnet 5.5 pour la collecte et le site.

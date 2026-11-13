@@ -1,0 +1,160 @@
+{
+  "id": "ACPR-2017-06",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT et gel des avoirs",
+  "resume_court": "Sigue Global Services Ltd est la société sœur britannique de Sigue Global Services SAS (décision 2017-07, rendue le même jour). Elle faisait du transfert d'argent en France par un réseau d'environ 150 commerçants agents. Les agents vérifiaient mal l'identité des clients : sur 20 opérations contrôlées, 12 n'étaient pas conformes, et une même référence de pièce d'identité servait parfois pour 17 clients différents. Presque aucune information n'était recueillie sur les clients réguliers. Vingt-neuf séries d'envois inhabituels, vers les Philippines, la Chine, les Comores ou le Sri Lanka, sont passées sans examen. Seize dossiers auraient dû être déclarés à Tracfin, notamment des envois vers la Chine fractionnés juste sous le seuil d'alerte, « parfois à 100 euros près ». La Commission retient les six griefs, dont deux en partie, et rappelle que l'établissement ne peut pas rejeter la faute sur ses agents. Sanction : un blâme et 60 000 euros, le montant demandé, pour une société qui s'apprêtait à quitter l'Europe.",
+  "identite": {
+    "etablissement": "Sigue Global Services Ltd",
+    "type_etablissement": "établissement de paiement",
+    "precision_type": "Établissement de paiement britannique agréé par la Financial Conduct Authority (FCA), exerçant en France en libre établissement une activité de transmission de fonds par un réseau d'environ 150 agents commerçants. Sa société sœur française, Sigue Global Services SAS, est son représentant permanent (décision 2017-07).",
+    "groupe": "groupe américain Sigue (maison mère Sigue Corp, immatriculée dans le Delaware, siège opérationnel en Californie)",
+    "pays": "Royaume-Uni (activité en France)",
+    "activite_et_taille": "Montant moyen d'une opération en 2015 : 494 euros, ou 354 euros hors envois vers la Chine. Résultats masqués dans la décision. Le groupe a décidé de fermer ses activités par agents en Europe : la société a informé la FCA le 18 mars 2018 de son intention de cesser son activité, et son agrément devenait caduc en juillet 2018.",
+    "pages": [2, 3, 4]
+  },
+  "controle": {
+    "controle_sur_place": "du 2 décembre 2015 au 24 février 2016",
+    "rapport_de_controle": "signé le 27 juin 2016",
+    "ouverture_de_la_procedure": "décidée par le Collège (formation restreinte) le 29 mai 2017 ; lettre de saisine et notification des griefs du 27 juin 2017",
+    "antecedents": "non précisé",
+    "pages": [1, 3]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 60000,
+    "publication": "nominative",
+    "duree_publication_nominative": "non précisée : la décision ordonne une publication nominative au registre de l'ACPR, sans limite de durée",
+    "proposition_du_college": "blâme et 60 000 euros, publication nominative",
+    "pages": [1, 2, 9, 10]
+  },
+  "procedure": {
+    "questions_de_procedure": "Pas de question de procédure préalable. La société jugeait « particulièrement déloyal » que l'échantillon contrôlé comprenne 16 dossiers passés par trois agents dont elle allait se séparer. La Commission répond que les obligations s'appliquent en permanence, et qu'elle aurait justement dû être particulièrement attentive aux opérations de ces agents. Le Collège a abandonné le reproche sur la correspondance orthographique exacte du filtrage (grief 6). Audience non publique le 23 mai 2018. Le rapporteur concluait que les 6 griefs étaient établis, dont 2 dans un périmètre réduit (griefs 1 et 6).",
+    "pages": [1, 2, 5, 9]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Des identités mal vérifiées par les agents",
+      "resume": "Pour un transfert d'argent, il faut vérifier l'identité du client dès le premier euro. Sur 20 opérations contrôlées, 12 n'étaient pas conformes : mentions obligatoires non relevées, ou pièce périmée depuis environ trois ans. Dans 383 cas, une même référence de pièce d'identité servait pour au moins deux clients, et jusqu'à 17. La société ne peut pas reporter la faute sur ses agents, ni sur les défauts de son système informatique. Le reproche sur les opérations faites avec une simple carte de fidélité est écarté, faute de preuve suffisante.",
+      "textes": ["CMF L. 561-5", "CMF R. 561-5", "CMF R. 561-10 (II, 3°)"],
+      "chiffres_cles": ["12 opérations non conformes sur un échantillon de 20 (1er avril au 30 octobre 2015)", "11 sans les mentions obligatoires, 1 avec une pièce périmée depuis environ 3 ans", "383 cas où une même référence de pièce servait pour au moins 2 et jusqu'à 17 clients"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Établi dans un périmètre réduit » : la branche sur la carte de fidélité est écartée.",
+      "categorie": "relation d'affaires et clients occasionnels",
+      "categorie_precision": "identification et vérification de l'identité des clients occasionnels",
+      "categories_secondaires": ["connaissance du client à l'entrée en relation"],
+      "pages": [3]
+    },
+    {
+      "numero": "2",
+      "titre": "695 clients réguliers sans information",
+      "resume": "Comme sa société sœur, la société ne recueillait d'informations qu'au franchissement d'un seuil : 7 clients seulement en neuf mois. Or 695 clients avaient fait au moins 10 opérations en 7 mois et auraient dû être traités comme des relations d'affaires. Peu importe que le manuel définisse bien la relation d'affaires : le grief porte sur la pratique, et il appartenait à la société de s'assurer que ses agents respectaient la loi.",
+      "textes": ["CMF L. 561-6", "CMF R. 561-12", "CMF L. 561-2-1"],
+      "chiffres_cles": ["éléments recueillis pour 7 clients sur les 9 premiers mois de 2015", "695 clients avec au moins 10 opérations du 1er avril au 31 octobre 2015"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi. »",
+      "categorie": "relation d'affaires et clients occasionnels",
+      "categorie_precision": "clients réguliers non traités comme des relations d'affaires",
+      "categories_secondaires": ["connaissance du client à l'entrée en relation"],
+      "pages": [3, 4]
+    },
+    {
+      "numero": "3",
+      "titre": "29 séries d'envois inhabituels sans examen",
+      "resume": "Vingt-neuf dossiers d'envois très supérieurs au montant moyen, sans aucune information sur le client, son lien avec le bénéficiaire ou l'origine des fonds. Exemples : 14 envois à 7 sociétés aux Philippines alors que la société n'autorise pas les envois à des entreprises ; des envois vers les Comores, le Brésil, le Vietnam ou le Sri Lanka ; des envois vers la Chine pour un même bénéficiaire, jusqu'à 74 000 euros, fractionnés pour rester sous les seuils. La mention « aide familiale », non étayée, ne suffit pas. Un seul critère légal suffit pour imposer un examen renforcé, et le montant moyen de la société est la bonne référence.",
+      "textes": ["CMF L. 561-10-2 (II)"],
+      "chiffres_cles": ["29 dossiers (A1 à A29)", "montant moyen des opérations en 2015 : 494 euros, 354 euros hors Chine", "A1 : 14 opérations pour près de 18 000 euros vers 7 sociétés aux Philippines", "A2 à A9 : de 4 000 à près de 14 000 euros vers les Philippines", "A10 à A16 : de 9 000 à près de 50 000 euros", "A17 à A29 : vers la Chine, jusqu'à 74 000 euros (A17)", "16 dossiers passés par 3 agents (C1 à C3)"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 3 est établi dans son intégralité. »",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [4, 5, 6]
+    },
+    {
+      "numero": "4",
+      "titre": "Des communications automatiques à Tracfin incomplètes",
+      "resume": "Comme pour sa société sœur, les communications systématiques à Tracfin (« COSI ») ne couvraient pas les fonds reçus par les clients, et le fichier mensuel ne reprenait que les opérations unitaires entre 1 500 et 2 000 euros, sans les cumuls d'un même client au-delà de 2 000 euros dans le mois. L'absence de remarque de Tracfin ne change rien.",
+      "textes": ["CMF L. 561-15-1", "CMF D. 561-31-1"],
+      "chiffres_cles": ["fichier limité aux opérations unitaires de 1 500 à 2 000 euros", "cumuls de 2 000 euros par mois non communiqués"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief […] est établi » ; non contesté.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "communication systématique d'informations (COSI)",
+      "categories_secondaires": [],
+      "pages": [7]
+    },
+    {
+      "numero": "5",
+      "titre": "Seize dossiers non déclarés, dont des envois fractionnés vers la Chine",
+      "resume": "Trois dossiers auraient dû être déclarés après une alerte restée sans réponse du client, avec plusieurs clients envoyant de l'argent à une même personne au Brésil, en Chine ou aux Philippines. Quatre autres concernent des envois répétés vers l'Inde, le Sri Lanka, l'Arménie et les Philippines, jusqu'à 60 062,70 euros. Neuf, enfin, sont passés par un même agent vers la Chine : de nombreux clients envoient à un seul bénéficiaire des sommes fractionnées sous le seuil de surveillance, « parfois à 100 euros près ». Une « déclaration globale » faite après le contrôle ne remplace pas des déclarations faites à temps.",
+      "textes": ["CMF L. 561-15 (I et III)"],
+      "chiffres_cles": ["16 dossiers (B1 à B16)", "B4 à B7 : de 13 440,85 à 60 062,70 euros", "B8 à B16 : envois fractionnés par l'agent C1 vers la Chine", "« déclaration globale » du 30 mars 2016 pour des opérations de décembre 2014 à juin 2015"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 5 est établi dans son intégralité. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [7, 8]
+    },
+    {
+      "numero": "6",
+      "titre": "Gel des avoirs : mises à jour hebdomadaires et noms inexploitables",
+      "resume": "Les listes françaises de gel étaient intégrées à la main, une fois par semaine. Le lieu de naissance des clients n'était souvent pas relevé. Et chez un seul agent, sur 9 431 opérations de 2015, 1 486 avaient un nom de bénéficiaire réduit à une lettre ou à des lettres séparées. Les défaillances de l'état civil de certains pays n'excusent rien. Le Collège a abandonné le reproche sur la correspondance orthographique exacte.",
+      "textes": ["CMF L. 562-3", "CMF R. 562-2", "arrêté du 3 novembre 2014, article 47"],
+      "chiffres_cles": ["intégration manuelle hebdomadaire des listes françaises", "agent C4 : 1 486 opérations sur 9 431 en 2015 avec un nom de bénéficiaire inexploitable", "aucune personne gelée détectée parmi les clients"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Dans un périmètre réduit par l'abandon du deuxième reproche […], le grief est établi », à apprécier en tenant compte de ce qu'aucune personne gelée n'a été détectée.",
+      "categorie": "gel des avoirs et sanctions financières",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [8, 9]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "La société « n'avait pas pris la pleine mesure » de ses obligations issues de la réforme de 2009, alors que son activité est particulièrement exposée au blanchiment ; « défaillances majeures » en matière d'identification et de connaissance des clients.", "pages": [9]},
+      {"texte": "Des défauts de déclaration nombreux, notamment sur des envois vers la Chine que la société elle-même jugeait à risque.", "pages": [9]}
+    ],
+    "elements_attenuants": [
+      {"texte": "Actions correctrices prises en compte « dans une certaine mesure » : abandon des envois vers la Chine et rupture avec certains agents.", "pages": [9]},
+      {"texte": "Périmètre des griefs 1 et 6 « légèrement réduit ».", "pages": [9]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Abandon des transactions vers la Chine et fin des relations avec certains agents.", "pages": [9]},
+      {"texte": "Déclarations envoyées à Tracfin après le contrôle, dont une « déclaration globale » le 30 mars 2016.", "pages": [7, 8]}
+    ],
+    "situation_financiere": {"texte": "Résultats masqués ; calculés selon des « prix de transfert » fixés par le siège ; léger profit fin 2017 grâce à des gains de change exceptionnels. Montant fixé « au regard de l'assise financière ».", "pages": [2, 9]},
+    "cause_profonde": {"texte": "Non précisé de façon explicite. La décision relève une société qui « n'avait pas pris la pleine mesure » de la réforme de 2009, s'en remettait à ses agents, et dont l'outil informatique ne reliait pas les envois de plusieurs clients vers un même bénéficiaire.", "pages": [3, 5, 9]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Les agents relèvent-ils toutes les mentions obligatoires de la pièce d'identité, et une pièce périmée est-elle refusée ?",
+      "Un contrôle repère-t-il une même référence de pièce d'identité utilisée par plusieurs clients ?",
+      "L'établissement contrôle-t-il régulièrement ses agents sur place, sans se contenter de son manuel ?",
+      "Un client régulier est-il reconnu comme relation d'affaires, avec un dossier de connaissance ?",
+      "Les envois de plusieurs clients vers un même bénéficiaire sont-ils regroupés et analysés ?",
+      "Le fractionnement juste sous le seuil d'alerte déclenche-t-il lui-même une alerte ?",
+      "Une alerte restée sans réponse du client donne-t-elle lieu à une déclaration à Tracfin ?",
+      "Le nom du bénéficiaire est-il obligatoire et contrôlé à la saisie, pour que le filtrage du gel des avoirs soit possible ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["transmission de fonds", "établissement de paiement britannique", "libre établissement", "réseau d'agents", "identification", "client occasionnel", "relation d'affaires", "corridor Chine", "Philippines", "fractionnement", "aide familiale", "COSI", "déclaration globale", "décision jumelle 2017-07"],
+    "pages_prioritaires": [
+      {"pages": [3], "pourquoi": "les défauts d'identification et la responsabilité envers les agents"},
+      {"pages": [5, 6], "pourquoi": "l'échantillon « déloyal » et les envois inhabituels, dossier par dossier"},
+      {"pages": [8], "pourquoi": "le fractionnement à 100 euros près et la « déclaration globale »"}
+    ],
+    "confiance": "élevée",
+    "a_verifier": [
+      "Le récapitulatif p. 9 se trompe de numéros : il appelle « grief 4 » les défauts de déclaration (grief 5) et « grief 5 » le gel des avoirs (grief 6). Je suis la numérotation du corps de la décision.",
+      "La décision cite une décision « Merson » du 19 décembre 2016 ; la décision 2017-07 la date du 15 décembre 2016 (la base indique le 15). Coquille probable, non corrigée.",
+      "J'ai laissé de côté la description que fait la décision des quartiers où sont implantés les agents : elle n'apporte rien à la compréhension.",
+      "Décision nominative : le nom de la société est celui du texte publié ; les clients et agents ne sont désignés que par des codes."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Opus 5.5), à partir du texte extrait du PDF officiel", "date": "2026-11-13", "relue_par_mateo": false}
+}

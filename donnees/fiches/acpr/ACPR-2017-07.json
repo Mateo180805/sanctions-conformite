@@ -1,0 +1,310 @@
+{
+  "id": "ACPR-2017-07",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT et gel des avoirs",
+  "resume_court": "Sigue Global Services SAS est la filiale française d'un groupe américain de transfert d'argent : des particuliers envoient de petites sommes à leur famille à l'étranger depuis une vingtaine d'agences. Une grande partie de ces envois partait vers la Chine, un flux que la société elle-même jugeait à très haut risque de blanchiment depuis fin 2014. Elle a pourtant mis un an à baisser le plafond des envois. Le contrôle de l'ACPR trouve un dispositif resté bloqué avant la réforme de 2009 : des procédures citant des textes abrogés, presque aucune information sur les clients réguliers (4 980 clients sans dossier) et un outil d'alerte mal réglé. Deux personnes seulement traitaient les alertes, les déclarations à Tracfin et des centaines de réquisitions judiciaires. Dix-sept dossiers suspects n'ont pas été déclarés, notamment des envois fractionnés vers la Chine par plusieurs expéditeurs pour un même bénéficiaire. La Commission retient 16 griefs sur 17, dont 2 en partie. Sanction : un blâme et 100 000 euros, un peu plus que les 90 000 euros demandés par le Collège.",
+  "identite": {
+    "etablissement": "Sigue Global Services SAS",
+    "type_etablissement": "établissement de paiement",
+    "precision_type": "Établissement de paiement spécialisé dans la transmission de fonds entre particuliers, en agence. Ancienne Coinstar Money Transfer SAS, rachetée en 2011 par le groupe Sigue. Sa société sœur britannique, Sigue Global Services Ltd (décision 2017-06), exerce en France par environ 150 agents ; Sigue SAS est son représentant permanent.",
+    "groupe": "groupe américain Sigue (associé unique : Sigue Global Services Corp, au Kansas, filiale de Sigue Corp, en Californie)",
+    "pays": "France",
+    "activite_et_taille": "20 agences en France, dont 9 à Paris, et environ 70 salariés lors du contrôle. Montant moyen d'une opération : 474 euros. Produit net bancaire et perte nette masqués dans la décision. Le « corridor Chine » représentait la plus grande part des envois jusqu'en 2015.",
+    "pages": [2, 11]
+  },
+  "controle": {
+    "controle_sur_place": "du 29 octobre 2015 au 24 février 2016",
+    "rapport_de_controle": "signé le 27 juin 2016",
+    "ouverture_de_la_procedure": "décidée par le Collège le 29 mai 2017 ; lettre de saisine et notification des griefs du 27 juin 2017",
+    "antecedents": "Aucun contrôle ni sanction antérieurs de l'ACPR mentionnés. Les audits internes de 2014 et 2015 avaient déjà relevé des « manquements graves et récurrents » dans les agences.",
+    "pages": [1, 3, 10]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 100000,
+    "publication": "nominative",
+    "duree_publication_nominative": "non précisée : la décision ordonne une publication nominative au registre de l'ACPR, sans limite de durée",
+    "proposition_du_college": "blâme et 90 000 euros, publication nominative",
+    "pages": [1, 2, 16]
+  },
+  "procedure": {
+    "questions_de_procedure": "Pas de question de procédure préalable. Le Collège a réduit lui-même deux griefs en cours de procédure : il a abandonné le reproche sur les mesures de vigilance complémentaire (grief 1) et celui sur la correspondance orthographique exacte du filtrage (grief 17). Audience non publique le 23 mai 2018. Le rapporteur concluait que 16 griefs sur 17 étaient établis, dont 2 dans un périmètre réduit (griefs 1 et 7), et que le grief 4 devait être écarté.",
+    "pages": [1, 2, 4, 15]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Des procédures qui citent des textes abrogés depuis des années",
+      "resume": "Le manuel de lutte contre le blanchiment, mis à jour fin 2013, citait encore des articles abrogés en 2009. Il se contredisait sur l'identification des clients occasionnels : à la fois dès le premier euro et seulement au-delà d'un seuil. Il ne demandait des informations sur le client qu'au franchissement d'un seuil, et non à l'entrée en relation d'affaires. La société estimait que seules les références étaient périmées. La Commission répond que la réforme de 2009 a sensiblement renforcé les obligations, et qu'une affiche dans les agences ne remplace pas une procédure claire.",
+      "textes": ["CMF R. 561-38 (I, 4°)", "arrêté du 3 novembre 2014, articles 61 et 64"],
+      "chiffres_cles": ["manuel de décembre 2013, manuel des procédures de juin 2015", "article abrogé en septembre 2009, 4 ans avant la dernière mise à jour", "seuil de déclenchement sur 4 mois (montant masqué)", "nouveau manuel diffusé en décembre 2017"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Dans le périmètre réduit […], le grief est établi » : la branche sur les mesures de vigilance complémentaire a été abandonnée par le Collège, et l'absence de fiches clients relève du grief 4.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "procédures non mises à jour",
+      "categories_secondaires": ["relation d'affaires et clients occasionnels"],
+      "pages": [3, 4]
+    },
+    {
+      "numero": "2",
+      "titre": "4 980 clients réguliers sans aucune information",
+      "resume": "La société ne recueillait d'informations sur ses clients que lorsqu'ils franchissaient un seuil, ce qui n'est arrivé que pour 22 clients en neuf mois. Le Collège a compté comme « relations d'affaires » les clients ayant fait au moins 10 opérations en 7 mois, critère que la société ne conteste pas utilement : 4 980 d'entre eux n'avaient aucun dossier de connaissance. Vérifier l'identité au guichet ou demander un justificatif ponctuel ne suffit pas à connaître ses clients.",
+      "textes": ["CMF L. 561-6", "CMF R. 561-12", "CMF L. 561-2-1"],
+      "chiffres_cles": ["éléments recueillis pour 22 clients sur les 9 premiers mois de 2015", "4 980 clients avec au moins 10 opérations du 1er avril au 31 octobre 2015, sans dossier"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief […] est établi. »",
+      "categorie": "relation d'affaires et clients occasionnels",
+      "categorie_precision": "clients réguliers non traités comme des relations d'affaires",
+      "categories_secondaires": ["connaissance du client à l'entrée en relation"],
+      "pages": [4, 5]
+    },
+    {
+      "numero": "3",
+      "titre": "Un outil d'alerte réglé trop haut et incapable de relier les opérations",
+      "resume": "Les seuils d'alerte étaient sans rapport avec le montant moyen des opérations, si bien qu'ils n'étaient presque jamais franchis. Le seuil annuel était inopérant, et le blocage d'un client pouvait être levé simplement en attendant quatre mois ou en annulant l'opération. L'outil ne reliait pas les opérations de plusieurs expéditeurs vers un même bénéficiaire, ni celles de clients partageant un nom, une adresse ou un téléphone, et il ne repérait pas le fractionnement sous les seuils. Enfin, 973 opérations avaient un nom de bénéficiaire absent ou incohérent. La société ne conteste pas.",
+      "textes": ["arrêté du 3 novembre 2014, articles 46, 49 et 50"],
+      "chiffres_cles": ["seuils masqués ; seuil Chine abaissé le 12 février 2014 puis le 4 novembre 2015", "973 opérations avec un nom de bénéficiaire absent ou incohérent", "dossiers A1 à A4, B1 à B5, D1 à D3, D10"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief […] est établi dans tous ses éléments. »",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [5, 6]
+    },
+    {
+      "numero": "4",
+      "titre": "Non-respect des procédures : écarté",
+      "resume": "On reprochait à la société de ne pas appliquer son propre manuel : 22 fiches clients seulement pour 855 alertes, et 32 opérations signalées suspectes sans proposition de déclaration. La poursuite a admis que les 833 cas sans fiche étaient des opérations annulées, que le manuel ne visait pas. Le signal « opération suspecte » de l'outil n'était ni opérationnel ni prévu par la procédure. Le problème vient donc du dispositif, déjà sanctionné par d'autres griefs, et non d'une mauvaise application des procédures.",
+      "textes": ["arrêté du 3 novembre 2014, articles 11 et 71"],
+      "chiffres_cles": ["22 fiches clients pour 855 franchissements de seuils", "833 opérations annulées", "32 opérations signalées suspectes"],
+      "issue": "écarté",
+      "precision_issue": "« Ce grief ne peut en conséquence qu'être écarté. »",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "application des procédures internes",
+      "categories_secondaires": [],
+      "pages": [6]
+    },
+    {
+      "numero": "5",
+      "titre": "Le travail du responsable de la conformité échappait à tout contrôle",
+      "resume": "Les contrôles de second niveau et l'audit interne ne couvraient pas le travail du responsable de la conformité, qui était aussi déclarant à Tracfin : traitement des alertes et décision de débloquer une opération, contenu et délai des déclarations, réponses aux demandes de Tracfin et aux réquisitions judiciaires. La société jugeait ces tâches « relativement simples ». La Commission répond qu'on peut proportionner un contrôle au risque, mais pas exclure une activité du contrôle.",
+      "textes": ["CMF R. 561-38 (I, 5°)"],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi » ; non contesté.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "périmètre du contrôle interne",
+      "categories_secondaires": [],
+      "pages": [6, 7]
+    },
+    {
+      "numero": "6",
+      "titre": "Des tâches confiées au groupe sans contrat ni cadre de contrôle",
+      "resume": "Le réglage des outils de surveillance et de filtrage du gel des avoirs, ainsi que l'analyse approfondie des opérations, étaient confiés à des entités du groupe, dont deux cellules d'analyse en Inde et au Mexique. Aucune convention écrite n'en fixait les modalités et le contrôle. La société n'a même pas pu dire si la liste française de gel était intégrée à son outil de filtrage, ni quel algorithme il utilisait.",
+      "textes": ["arrêté du 3 novembre 2014, article 238"],
+      "chiffres_cles": ["2 cellules d'analyse du groupe, en Inde et au Mexique"],
+      "issue": "retenu",
+      "precision_issue": "« Établi » ; non contesté.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "externalisation non encadrée",
+      "categories_secondaires": ["dispositif de groupe, filiales et correspondance bancaire"],
+      "pages": [7, 8]
+    },
+    {
+      "numero": "7",
+      "titre": "Aucun contrôle des prestataires du groupe",
+      "resume": "Aucun contrôle permanent ni périodique ne portait sur ces activités externalisées, pourtant essentielles pour les examens renforcés, les déclarations à Tracfin et le gel des avoirs. La société ne le conteste pas.",
+      "textes": ["arrêté du 3 novembre 2014, article 234"],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "« Établi » ; non contesté. Le rapporteur proposait un périmètre réduit, que la décision ne reprend pas.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "contrôle des prestataires externes",
+      "categories_secondaires": ["dispositif de groupe, filiales et correspondance bancaire"],
+      "pages": [7, 8]
+    },
+    {
+      "numero": "8",
+      "titre": "Un contrôleur qui contrôlait ses propres agences",
+      "resume": "Depuis 2014, les contrôles de second niveau étaient faits par un « chef de secteur » rattaché au directeur commercial et responsable des agences qu'il contrôlait. Il n'était donc pas indépendant. Ces contrôles sont désormais confiés à un chargé de conformité dédié.",
+      "textes": ["arrêté du 3 novembre 2014, articles 13 et 14"],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "« Le grief […] est établi » ; non contesté.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "indépendance des contrôles de second niveau",
+      "categories_secondaires": ["gouvernance, moyens et formation"],
+      "pages": [8]
+    },
+    {
+      "numero": "9",
+      "titre": "Deux personnes pour les alertes, Tracfin et des centaines de réquisitions",
+      "resume": "Deux personnes seulement traitaient les alertes, les déclarations de soupçon des deux sociétés du groupe, les demandes et communications à Tracfin, 500 réquisitions judiciaires françaises en 2015, et en plus 507 réquisitions belges liées aux agents de la société sœur. Le service de conformité est passé de 4 à 3 personnes en novembre 2015. Le nombre de déclarations a beaucoup augmenté, mais leurs délais et leur contenu restaient mauvais. Pour la Commission, les défauts de déclaration du grief 16 viennent en partie de ce manque de moyens.",
+      "textes": ["arrêté du 3 novembre 2014, articles 13, 51 et 55"],
+      "chiffres_cles": ["2 personnes pour l'analyse des alertes et les relations avec Tracfin", "855 alertes sur les 9 premiers mois de 2015", "500 réquisitions judiciaires françaises et 507 belges en 2015", "59 déclarations de soupçon en 2015 contre 5 en 2012", "service passé de 4 à 3 personnes en novembre 2015"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est donc établi » : effectif « manifestement insuffisant ».",
+      "categorie": "gouvernance, moyens et formation",
+      "categorie_precision": "moyens humains de la conformité",
+      "categories_secondaires": [],
+      "pages": [8, 9]
+    },
+    {
+      "numero": "10",
+      "titre": "Un seul auditeur pour 20 agences et 150 agents",
+      "resume": "Une seule personne assurait l'audit interne des 20 agences et des 150 agents de la société sœur, ainsi que la formation du personnel. Le plan d'audit prévoyait 3 à 4 visites par an dans les 5 agences les plus mal notées : une seule a été faite par agence. Pour la Commission, cet écart avec le propre plan de la société prouve le manque de moyens.",
+      "textes": ["arrêté du 3 novembre 2014, articles 12 et 25"],
+      "chiffres_cles": ["1 personne pour 20 agences et environ 150 agents", "3 à 4 contrôles prévus dans 5 agences, 1 réalisé par agence sur l'exercice 2014-2015"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief […] est établi. »",
+      "categorie": "gouvernance, moyens et formation",
+      "categorie_precision": "moyens du contrôle périodique",
+      "categories_secondaires": [],
+      "pages": [9]
+    },
+    {
+      "numero": "11",
+      "titre": "Des audits sévères suivis d'aucun plan d'action",
+      "resume": "Les audits internes de 2014 et 2015 relevaient des manquements graves et répétés, souvent dans les mêmes agences, y compris celles qui travaillaient sur la Chine : dossiers clients absents, numéros de pièce d'identité invalides, pas de propositions de déclaration. Pourtant, il n'y avait ni lettre de suite signée du directeur général, ni sanction des défaillances individuelles, ni plan d'action suivi entre deux audits.",
+      "textes": ["arrêté du 3 novembre 2014, article 26"],
+      "chiffres_cles": ["rapports d'audit de 2014 et 2015"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief […] est établi » ; la société admet un défaut de formalisation.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "suivi des recommandations de l'audit interne",
+      "categories_secondaires": [],
+      "pages": [10]
+    },
+    {
+      "numero": "12",
+      "titre": "Un an pour réagir au risque chinois",
+      "resume": "La société avait repéré des flux atypiques vers la Chine dès le 30 octobre 2014. Une étude d'impact recommandait alors d'abaisser le plafond par opération, qui était le plus élevé du marché français. Ce plafond n'a été abaissé que le 4 novembre 2015, et moins que préconisé, laissant passer pendant plus d'un an des flux suspects très importants. Le rachat en 2011 d'un dispositif hérité ne l'excuse pas.",
+      "textes": ["arrêté du 3 novembre 2014, article 38"],
+      "chiffres_cles": ["flux atypiques identifiés le 30 octobre 2014", "plafond abaissé le 4 novembre 2015 (montants masqués)", "rachat de Coinstar en 2011"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi » ; délais de réaction « trop longs ».",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "mesures correctrices tardives sur un flux à risque élevé",
+      "categories_secondaires": ["dispositif de surveillance des opérations (outils, scénarios, seuils)"],
+      "pages": [10, 11]
+    },
+    {
+      "numero": "13",
+      "titre": "Des réceptions fractionnées depuis le Congo et le Gabon jamais examinées",
+      "resume": "Neuf clients ont reçu en France de nombreux petits envois venant du Congo-Brazzaville ou du Gabon. Chaque envoi restait sous 1 524,50 euros, mais le cumul allait de 9 000 à près de 23 000 euros, sans aucune information sur leur profession ou leurs revenus. Les noms et dates de naissance variaient d'un envoi à l'autre. La Commission rappelle qu'un seul critère légal suffit pour imposer un examen renforcé, et que comparer au montant moyen de la société (474 euros) est la bonne référence. Le seuil de déclaration statistique de la zone CEMAC n'a rien à voir avec la LCB-FT.",
+      "textes": ["CMF L. 561-10-2 (II)"],
+      "chiffres_cles": ["9 dossiers (B1 à B9)", "aucune opération unitaire au-dessus de 1 524,50 euros", "cumuls de 9 000 euros (B2) à près de 23 000 euros (B1)", "montant moyen des opérations : 474 euros"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi dans son intégralité. »",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [11, 12]
+    },
+    {
+      "numero": "14",
+      "titre": "Des communications automatiques à Tracfin incomplètes",
+      "resume": "Les transferts de fonds au-delà d'un certain montant doivent être signalés automatiquement à Tracfin (« COSI »). La société n'y incluait pas les fonds reçus par ses clients. Son fichier mensuel ne reprenait que les opérations unitaires entre 1 500 et 2 000 euros, et pas les opérations d'un même client cumulant au moins 2 000 euros dans le mois. Que Tracfin n'ait jamais rien dit ne change rien.",
+      "textes": ["CMF L. 561-15-1", "CMF D. 561-31-1"],
+      "chiffres_cles": ["fichier limité aux opérations unitaires de 1 500 à 2 000 euros", "seuil cumulé de 2 000 euros par mois non appliqué"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief […] est établi » ; non contesté.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "communication systématique d'informations (COSI)",
+      "categories_secondaires": [],
+      "pages": [12]
+    },
+    {
+      "numero": "15",
+      "titre": "Des déclarations qui n'identifiaient pas tous les expéditeurs",
+      "resume": "Quand une déclaration regroupait plusieurs expéditeurs pour un même bénéficiaire, tous n'étaient pas identifiés : 3 déclarations sur 59 en 2015. L'outil de Tracfin limitait la saisie à dix noms, alors qu'un dossier en comptait 21. Il suffisait d'envoyer une déclaration complémentaire ou de joindre les pièces d'identité.",
+      "textes": ["CMF R. 561-31 (III, 4°)"],
+      "chiffres_cles": ["3 déclarations sur 59 en 2015 (C1 à C3)", "outil limité à dix noms, 21 donneurs d'ordre dans le dossier C3"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "qualité des déclarations",
+      "categories_secondaires": [],
+      "pages": [12, 13]
+    },
+    {
+      "numero": "16",
+      "titre": "Dix-sept dossiers suspects non déclarés",
+      "resume": "Six dossiers concernent la Chine : plusieurs expéditeurs envoient de petites sommes au même bénéficiaire, jusqu'à plusieurs dizaines de milliers d'euros en quelques mois. Dans un dossier, un même bénéficiaire avait reçu 136 950 euros de 10 expéditeurs depuis 2012. Ces envois ont surtout eu lieu après que la société elle-même a reconnu ce risque majeur, ce que la Commission qualifie de « dysfonctionnement majeur ». D'autres dossiers : trois clients à la même adresse envoyant ensemble 21 000 euros vers la Géorgie, une cliente envoyant 23 983,20 euros à 17 personnes au Cameroun et au Mali « parce qu'elle les aide », des réceptions fractionnées depuis le Congo. Bloquer un client ou rompre avec un agent ne remplace pas une déclaration.",
+      "textes": ["CMF L. 561-15 (I et III)"],
+      "chiffres_cles": ["17 dossiers : 11 au titre du soupçon (D1 à D11), 6 après examen (D12 à D17)", "D3 : 136 950 euros reçus de 10 expéditeurs depuis 2012", "D7 : 21 000 euros vers la Géorgie", "D8 : 4 virements de 1 552,40 euros et un de 1 750 euros", "D9 : 23 983,20 euros vers 17 bénéficiaires", "D10 : 6 opérations pour 8 258,20 euros", "D11 : 2 800 puis 4 320 euros", "D12 à D17 : envois de 1 524,50 euros au plus depuis le Congo-Brazzaville"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief […] est établi dans son intégralité. » Les déclarations faites après le contrôle, souvent groupées, ne changent rien.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [13, 14]
+    },
+    {
+      "numero": "17",
+      "titre": "Gel des avoirs : listes françaises mises à jour chaque semaine, à la main",
+      "resume": "Les mesures de gel françaises étaient intégrées manuellement, une fois par semaine. Aucun texte ne fixait alors de fréquence, mais une mise à jour hebdomadaire ne permet pas d'empêcher toute opération au profit d'une personne gelée. Et 973 opérations n'avaient pas de nom de bénéficiaire exploitable, ce qui rendait le filtrage impossible. Le Collège a abandonné le reproche sur le rapprochement orthographique exact.",
+      "textes": ["CMF L. 562-3", "CMF R. 562-2", "arrêté du 3 novembre 2014, article 47"],
+      "chiffres_cles": ["intégration manuelle hebdomadaire des listes françaises", "973 opérations du 1er avril au 31 octobre 2015 sans nom de bénéficiaire exploitable", "aucune personne gelée détectée parmi les clients"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Dans un périmètre réduit par l'abandon du deuxième reproche […], le grief est établi », à apprécier en tenant compte de ce qu'aucune personne gelée n'a été détectée.",
+      "categorie": "gel des avoirs et sanctions financières",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [14, 15]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "La société « n'avait pas pris la pleine mesure » de ses obligations issues de la réforme de 2009, alors que son activité est particulièrement exposée au blanchiment.", "pages": [15]},
+      {"texte": "Les défauts d'examen renforcé, de communication et de déclaration viennent pour une large part des carences d'organisation et de procédures.", "pages": [16]}
+    ],
+    "elements_attenuants": [
+      {"texte": "Grief 4 écarté et périmètre de quelques griefs réduit.", "pages": [16]},
+      {"texte": "Actions correctrices (système informatique, organisation du contrôle interne), prises en compte « dans une certaine mesure » même si la plupart sont « trop tardives ».", "pages": [16]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Nouveau dispositif d'alerte bloquant depuis septembre 2016 : un client qui n'a pas fourni les justificatifs demandés ne peut plus faire aucune opération, même après annulation ; logiciel interne de LCB-FT développé depuis 2016.", "pages": [5, 6]},
+      {"texte": "Nouveau manuel de lutte contre le blanchiment diffusé en décembre 2017.", "pages": [4, 5]},
+      {"texte": "Contrôles de second niveau confiés à un chargé de conformité dédié ; audit interne confié à un responsable dédié.", "pages": [8, 9]},
+      {"texte": "Déclarations envoyées à Tracfin pour tous les clients cités, mais après le contrôle.", "pages": [14]}
+    ],
+    "situation_financiere": {"texte": "Produit net bancaire et perte nette masqués ; la société met en avant la baisse des marges et la réduction des envois vers la Chine. Montant fixé « au regard de l'assise financière ».", "pages": [2, 16]},
+    "cause_profonde": {"texte": "La décision l'explique en partie : un dispositif jamais remis à niveau après la réforme de 2009, des moyens humains manifestement insuffisants (à l'origine, notamment, des défauts de déclaration), et une stratégie commerciale tournée vers un flux à haut risque dont la réduction a tardé.", "pages": [9, 11, 15, 16]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Les procédures sont-elles revues après chaque réforme, avec suppression des textes abrogés ?",
+      "Un client qui revient régulièrement est-il reconnu comme une relation d'affaires, avec un dossier de connaissance, sans attendre un seuil ?",
+      "Les scénarios relient-ils les opérations par bénéficiaire, adresse, téléphone ou nom proche, pour repérer les envois multiples et le fractionnement ?",
+      "Les seuils d'alerte sont-ils calés sur le montant moyen des opérations, par corridor ?",
+      "Quand un flux est identifié comme à haut risque, les mesures (plafond, vigilance) sont-elles prises vite, avec une date et un responsable ?",
+      "Le travail du responsable de la conformité et du déclarant Tracfin est-il lui-même contrôlé ?",
+      "Les tâches confiées au groupe (outils, filtrage, analyse) sont-elles encadrées par un contrat écrit et contrôlées ?",
+      "Les effectifs de la conformité sont-ils proportionnés aux alertes, aux réquisitions et aux déclarations à traiter ?",
+      "Les communications systématiques à Tracfin couvrent-elles les fonds reçus et les cumuls mensuels ?",
+      "Les listes de gel sont-elles intégrées automatiquement et sans délai, et chaque bénéficiaire a-t-il un nom exploitable ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["transmission de fonds", "établissement de paiement", "corridor Chine", "Congo", "fractionnement", "client occasionnel", "relation d'affaires", "procédures obsolètes", "externalisation intragroupe", "indépendance du contrôle", "moyens de la conformité", "réquisitions judiciaires", "COSI", "montant moyen", "sanction supérieure à la demande du Collège", "décision jumelle 2017-06"],
+    "pages_prioritaires": [
+      {"pages": [4, 5], "pourquoi": "comment le Collège définit une relation d'affaires (10 opérations en 7 mois)"},
+      {"pages": [8, 9], "pourquoi": "deux personnes pour tout le traitement des alertes et des relations avec Tracfin"},
+      {"pages": [10, 11], "pourquoi": "le corridor Chine et le temps de réaction"},
+      {"pages": [11, 12], "pourquoi": "pourquoi le montant moyen sert de référence pour l'examen renforcé"},
+      {"pages": [13, 14], "pourquoi": "les dossiers non déclarés, très concrets"}
+    ],
+    "confiance": "élevée",
+    "a_verifier": [
+      "La Commission prononce 100 000 euros alors que le Collège en demandait 90 000 (p. 2 et 16) : c'est rare. Pour les décisions de 2019 à 2026 étudiées sur le site, l'amende n'a jamais dépassé la demande du Collège.",
+      "Le rapporteur proposait un périmètre réduit pour le grief 7 ; la Commission le dit simplement « établi ». Classé « retenu ».",
+      "Grief 16 : la répartition « 12 au titre du I, 5 au titre du III » annoncée p. 13 ne correspond pas à celle retenue p. 14 (D1 à D11 au titre du I, D12 à D17 au titre du III). Je reprends celle de la p. 14.",
+      "Le nom d'une commune belge où se trouve un agent de la société sœur figure dans la décision ; je ne l'ai pas repris, il n'apporte rien à la compréhension.",
+      "Décision nominative : le nom de la société est celui du texte publié ; les clients ne sont désignés que par des codes."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Opus 5.5), à partir du texte extrait du PDF officiel", "date": "2026-11-13", "relue_par_mateo": false}
+}

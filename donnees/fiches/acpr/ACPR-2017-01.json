@@ -1,0 +1,270 @@
+{
+  "id": "ACPR-2017-01",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT et gel des avoirs",
+  "resume_court": "CNP Assurances, premier assureur de personnes en France, vend ses contrats d'assurance vie presque uniquement par les agences de deux grands réseaux bancaires partenaires, qui sont aussi ses actionnaires. Elle ne tenait pas elle-même de dossiers clients : les informations sur les revenus, le patrimoine ou la qualité de personne politiquement exposée restaient chez les banques. Pour la Commission, cette organisation créait un « risque majeur et structurel », et ce risque s'est réalisé. Des versements de plusieurs centaines de milliers d'euros n'ont pas été examinés ni déclarés à Tracfin : une étudiante de 18 ans qui place 170 000 puis 480 000 euros, une cliente qui verse 2,5 millions et les retire deux mois plus tard. Les déclarations faites arrivaient en moyenne six mois après l'opération. Le filtrage du gel des avoirs, très strict sur l'orthographe des noms, n'a produit en 2014 que 33 alertes hebdomadaires et 7 annuelles pour 9,4 millions de clients. Les 14 griefs sont retenus, dont 9 en partie. Sanction : un blâme et 8 millions d'euros, moins que les 10 millions demandés, en tenant compte des importantes mesures correctrices engagées.",
+  "identite": {
+    "etablissement": "CNP Assurances",
+    "type_etablissement": "entreprise d'assurance",
+    "precision_type": "Assureur de personnes (assurance vie, épargne, retraite, prévoyance), qui distribue ses contrats presque exclusivement par deux réseaux bancaires partenaires (« Y » et le groupe « Z »), agissant comme mandataires d'assurance. Son réseau salarié, « Amétis », ne pèse qu'une petite part du chiffre d'affaires.",
+    "groupe": "entreprise publique ; principal actionnaire : la Caisse des dépôts et consignations (40,8 % du capital), l'État détenant 1,1 % ; les deux réseaux distributeurs détiennent 36,3 % par la holding Sopassure",
+    "pays": "France",
+    "activite_et_taille": "Premier assureur de personnes en France. En 2017 : chiffre d'affaires de 32 milliards d'euros dans le monde, dont 23 milliards en France, et résultat net de près de 1,3 milliard d'euros. 9,4 millions de clients pris en compte dans le filtrage du gel des avoirs.",
+    "pages": [2, 16]
+  },
+  "controle": {
+    "controle_sur_place": "du 3 décembre 2014 au 1er février 2016",
+    "rapport_de_controle": "signé le 17 mai 2016",
+    "ouverture_de_la_procedure": "décidée par le Collège (sous-collège de l'assurance) le 16 février 2017 ; lettre de saisine et notification des griefs du 13 mars 2017",
+    "antecedents": "non précisé",
+    "pages": [1, 2]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 8000000,
+    "publication": "nominative",
+    "duree_publication_nominative": "non précisée : la décision ordonne une publication nominative au registre de l'ACPR, sans limite de durée",
+    "proposition_du_college": "blâme et 10 millions d'euros, publication nominative",
+    "pages": [1, 2, 18]
+  },
+  "procedure": {
+    "questions_de_procedure": "Le modèle de « bancassurance » ne change rien : les souscripteurs sont les clients de CNP Assurances, qui a ses propres obligations. Les banques n'étaient que des « tiers introducteurs » pour l'identification ; CNP Assurances n'avait pas délégué ses autres obligations de vigilance et de déclaration. Elle ne peut donc pas s'abriter derrière les diligences des banques, mais on ne peut pas non plus lui reprocher de ne pas avoir contrôlé une externalisation qui n'existait pas. Une lettre du Collège dénonçant de « graves insuffisances » et une « lettre de suite » du Secrétariat général ne préjugent pas de la décision. Une annexe chiffrée non débattue pendant le contrôle peut appuyer les griefs. Audience non publique. Le rapporteur concluait que les 14 griefs étaient établis, dont 8 dans un périmètre réduit ou à relativiser.",
+    "pages": [1, 3, 4, 5]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Un seuil de risque trop élevé et des bons anonymes classés tardivement",
+      "resume": "Pour les contrats vendus en agence bancaire, une opération n'était classée à risque élevé qu'au-delà d'un seuil unique (montant masqué), très éloigné du montant moyen des versements et des rachats. Résultat : plus de 95 % des versements libres n'étaient jamais examinés. Par ailleurs, le remboursement anonyme de bons de capitalisation au porteur, versé sur un compte, n'a été classé à risque élevé qu'en juillet 2015, pendant le contrôle. La Commission rappelle qu'un seuil unique et fixe va contre l'approche par les risques, même s'il a été fixé avec les banques partenaires.",
+      "textes": ["CMF R. 561-38 (I, 2°)", "code des assurances A. 310-8 (I)", "CMF L. 561-10 (3°)", "CMF R. 561-19"],
+      "chiffres_cles": ["plus de 95 % des versements libres non examinés", "bons anonymes classés à risque élevé seulement à partir de juillet 2015", "travail de révision des seuils engagé à partir de septembre 2015"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 1 est établi dans son intégralité. »",
+      "categorie": "classification des risques",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [5, 6]
+    },
+    {
+      "numero": "2",
+      "titre": "Des procédures muettes sur le bénéficiaire effectif, les PPE et les pays non coopératifs",
+      "resume": "Les pièces justificatives n'étaient demandées qu'au-delà d'un seuil, soit pour moins de 0,5 % des opérations passées par les banques. Surtout, la procédure de CNP Assurances ne parlait pas de l'identification du bénéficiaire effectif, réservait le suivi des clients devenus personnes politiquement exposées au seul réseau salarié, et ne prévoyait pas les mesures exigées pour les clients établis dans un pays non coopératif. La Commission écarte en revanche deux branches : l'incohérence avec les annexes signées avec les banques, qui décrivent les diligences des banques et non les siennes, et l'absence d'autorisation de la direction pour un client devenu PPE, qui n'était pas encore exigée.",
+      "textes": ["CMF R. 561-38 (I, 4°)", "code des assurances A. 310-8 (II)", "CMF R. 561-20"],
+      "chiffres_cles": ["pièces justificatives recueillies pour moins de 0,5 % des opérations passées par les deux réseaux bancaires"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Établi dans un périmètre réduit » : deux branches écartées.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "",
+      "categories_secondaires": ["personnes politiquement exposées et vigilance renforcée"],
+      "pages": [6, 7]
+    },
+    {
+      "numero": "3",
+      "titre": "Un outil d'alerte aveugle aux revenus et au patrimoine des clients",
+      "resume": "L'outil de surveillance n'était pas alimenté par les informations sur le patrimoine et les revenus des clients, gardées par les banques : la Commission y voit une « carence majeure ». La plupart des 14 scénarios d'alerte exigeaient plusieurs critères à la fois, ce qui réduisait fortement leur efficacité. Et dans deux dossiers, une alerte a été classée sans analyse sérieuse. La Commission relève toutefois que certains scénarios reposaient sur un seul critère.",
+      "textes": ["code des assurances A. 310-8 (VI)"],
+      "chiffres_cles": ["14 scénarios d'alerte, la plupart à critères cumulatifs", "nombre d'alertes 2013 et 2014 masqué dans la décision", "défaut d'analyse des alertes dans 2 des 3 dossiers cités (A16, D5, F7)"],
+      "issue": "retenu en partie",
+      "precision_issue": "Établi « dans un périmètre légèrement réduit ».",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "",
+      "categories_secondaires": ["analyse des alertes et examen renforcé"],
+      "pages": [7]
+    },
+    {
+      "numero": "4",
+      "titre": "Des banques qui transmettent les informations clients en 26 jours au lieu de 15",
+      "resume": "Les banques partenaires, qui recueillaient les documents à l'ouverture du contrat, devaient les transmettre à première demande. En pratique, il fallait en moyenne 26 jours, et une partie n'a jamais pu être obtenue par les contrôleurs. La liste des clients PPE, qui devait remonter pour que CNP Assurances autorise le contrat, n'a pas été transmise dans deux dossiers. Il appartenait à CNP Assurances de s'assurer qu'elle recevait ces informations. La Commission écarte en revanche le reproche de ne pas avoir contrôlé ses « délégataires », puisqu'elle ne leur avait pas délégué ces obligations.",
+      "textes": ["CMF R. 561-38 (I, 5°)", "code des assurances A. 310-9 (II)", "CMF L. 561-7", "CMF R. 561-13 (I)"],
+      "chiffres_cles": ["délai moyen d'obtention des documents : 26 jours, pour un maximum de 15 jours", "dossiers A9 et G12 (PPE non signalées)", "mesures correctrices lancées seulement en 2015"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Dans un périmètre réduit, […] établi » : la branche sur le contrôle des délégataires est écartée.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "transmission des informations par les distributeurs (tierce introduction)",
+      "categories_secondaires": ["connaissance du client à l'entrée en relation"],
+      "pages": [7, 8]
+    },
+    {
+      "numero": "5",
+      "titre": "29 dossiers sans revenus, patrimoine ou profession",
+      "resume": "Dans 29 dossiers, CNP Assurances ne disposait pas des informations sur la situation financière du client (absentes ou pas à jour) ou sur sa profession (absente ou fausse). Pour 22 de ces clients, les banques avaient ces informations, mais cela ne compte pas : l'assureur devait y avoir accès immédiatement.",
+      "textes": ["CMF L. 561-6", "CMF R. 561-12"],
+      "chiffres_cles": ["30 dossiers et non 35 (A1 à A30), puis 29 après exclusion du dossier A22", "informations détenues par les banques pour 22 clients"],
+      "issue": "retenu en partie",
+      "precision_issue": "Établi « dans un périmètre légèrement réduit » à 29 dossiers.",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "",
+      "categories_secondaires": ["vigilance constante et mise à jour des dossiers"],
+      "pages": [8, 9]
+    },
+    {
+      "numero": "6",
+      "titre": "Des personnes politiquement exposées détectées trop tard",
+      "resume": "Le dispositif ne permettait pas de repérer les personnes politiquement exposées (PPE) avant la signature du contrat. Dans le réseau salarié, le bulletin de souscription ne posait pas la question et le filtrage informatique n'avait lieu qu'après coup, chaque semaine ou chaque année. Pour les contrats vendus par les banques, CNP Assurances n'était pas prévenue à temps. Sur les dossiers individuels, la Commission ne retient que ceux ouverts après l'entrée en vigueur de l'obligation en 2009.",
+      "textes": ["CMF L. 561-10 (2°)", "CMF R. 561-20 (II)"],
+      "chiffres_cles": ["12 dossiers de PPE visés par la poursuite, dont 4 dont CNP Assurances connaissait la qualité", "manquement retenu dans 3 dossiers (A9, B2, B3)", "décret du 2 septembre 2009"],
+      "issue": "retenu en partie",
+      "precision_issue": "Branche « détection » établie sans relativisation ; branche « dossiers » réduite à 3 dossiers. Gravité appréciée en tenant compte du faible nombre de clients PPE.",
+      "categorie": "personnes politiquement exposées et vigilance renforcée",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [9, 10]
+    },
+    {
+      "numero": "7",
+      "titre": "Des clients domiciliés dans un pays non coopératif non repérés",
+      "resume": "Le dispositif ne permettait pas d'identifier les opérations d'un client résidant dans un État ou territoire non coopératif mais titulaire d'un compte en France. Deux clients concernés n'ont fait l'objet d'aucune mesure de vigilance complémentaire. CNP Assurances ne conteste pas.",
+      "textes": ["CMF L. 561-10 (4°)"],
+      "chiffres_cles": ["2 dossiers (C1 et C2)"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief […] est établi » ; non contesté.",
+      "categorie": "personnes politiquement exposées et vigilance renforcée",
+      "categorie_precision": "vigilance complémentaire pour les États ou territoires non coopératifs",
+      "categories_secondaires": [],
+      "pages": [10]
+    },
+    {
+      "numero": "8",
+      "titre": "Pas de vigilance renforcée sur des clients à risque élevé",
+      "resume": "Dans six dossiers, le montant des opérations ou ce que l'on savait du client imposait une vigilance renforcée, qui n'a pas été mise en œuvre. Les diligences des banques partenaires ne comptent pas. Dans un septième dossier, un rapport confidentiel de décembre 2012 prouve que la vigilance a bien été appliquée.",
+      "textes": ["CMF L. 561-10-2 (I)"],
+      "chiffres_cles": ["7 dossiers visés (D1 à D7), 6 retenus"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Établi dans un périmètre réduit à 6 dossiers. »",
+      "categorie": "personnes politiquement exposées et vigilance renforcée",
+      "categorie_precision": "vigilance renforcée en cas de risque élevé",
+      "categories_secondaires": [],
+      "pages": [10, 11]
+    },
+    {
+      "numero": "9",
+      "titre": "Des versements de plusieurs centaines de milliers d'euros sans examen renforcé",
+      "resume": "Six dossiers auraient dû faire l'objet d'un examen renforcé. Une cliente au revenu fiscal de 3 628 euros verse 500 000 euros. Une retraitée se fait rembourser anonymement 30 bons pour 163 500 euros. Une étudiante de 18 ans sans revenus connus verse 170 000 euros, renonce au contrat un mois après, en signe un nouveau avec 480 000 euros puis retire 300 000 euros. Pour la Commission, l'absence de « levier réglementaire » pour obliger le client à répondre n'empêche pas de poser les questions et de tirer les conséquences d'un refus.",
+      "textes": ["CMF L. 561-10-2 (II)"],
+      "chiffres_cles": ["7 dossiers visés, 1 abandonné par le Collège (E1), 6 retenus (E2 à E5, A17, A28)", "E2 : 500 000 euros pour un revenu fiscal de référence de 3 628 euros", "E3 : 30 bons pour 163 500 euros, revenus de 32 494 euros", "E4 : versements de 50 000, 100 000 et 400 000 euros, 7 rachats pour plus de 540 000 euros", "E5 : 2,2 millions puis 1 million d'euros", "A17 : 170 000 puis 480 000 euros, rachat de 300 000 euros", "A28 : 300 000 puis 150 000 euros"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Établi dans un périmètre réduit à 6 dossiers » (un dossier abandonné par la poursuite).",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [11, 12]
+    },
+    {
+      "numero": "10",
+      "titre": "Dix dossiers qui auraient dû être déclarés à Tracfin",
+      "resume": "Quatre remboursements anonymes de bons au porteur, dont le souscripteur était inconnu, dont un payé en espèces par un compte de passage. Et six contrats d'assurance vie : 2,5 millions versés puis presque entièrement retirés deux mois après ; un million versé par un client dont on ignorait les revenus ; 243 000 euros versés par un vendeur gagnant 12 503 euros par an, qui renonce au contrat deux jours plus tard ; 173 000 euros au nom d'une mineure ; plus de 400 000 euros d'une cliente aux revenus inférieurs à 20 000 euros, qui parle de gains au jeu sans justificatif. Les déclarations faites par la banque partenaire ne dispensaient pas CNP Assurances de faire les siennes.",
+      "textes": ["CMF L. 561-15 (I, II et III)", "CMF D. 561-32-1 (critère 15)"],
+      "chiffres_cles": ["10 dossiers (F1 à F10)", "bons au porteur remboursés de 2010 à 2014, d'un peu plus de 50 000 à un peu plus de 500 000 euros", "F5 : 2,5 millions d'euros", "F6 : 1 million puis rachats de 420 000 et 400 000 euros", "F7 : 243 000 euros pour 12 503 euros de revenus annuels et 58 000 euros de patrimoine", "F8 : 173 000 euros", "F9 : près de 470 000 euros puis plus de 500 000 euros, revenus de 7 000 euros par mois", "F10 : plus de 400 000 euros, revenu imposable inférieur à 20 000 euros"],
+      "issue": "retenu",
+      "precision_issue": "Le reproche est établi dans chacun des 10 dossiers ; le récapitulatif parle de manquements « constatés » (p. 17).",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [12, 13, 14, 17]
+    },
+    {
+      "numero": "11",
+      "titre": "Des déclarations de soupçon incomplètes",
+      "resume": "Sur 42 déclarations envoyées en 2014 pour l'assurance vie, 12 ne disaient rien de l'objet de la relation et 30 ne reprenaient pas ce que l'assureur savait du client, même quand l'information était au dossier. CNP Assurances renvoyait même Tracfin vers les banques partenaires pour obtenir les compléments. Le fait que Tracfin n'ait jamais refusé ces déclarations ne change rien.",
+      "textes": ["CMF R. 561-31 (III)"],
+      "chiffres_cles": ["42 déclarations en 2014", "12 sans objet ni nature de la relation", "30 sans les éléments de connaissance du client"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief […] est établi » ; non contesté.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "qualité des déclarations",
+      "categories_secondaires": [],
+      "pages": [14, 15]
+    },
+    {
+      "numero": "12",
+      "titre": "Des déclarations faites six mois après l'opération",
+      "resume": "Sur les 42 déclarations de 2014, 22 ont été faites en moyenne six mois après l'opération suspecte, et cinq plus d'un an après. CNP Assurances invoquait la lenteur des informations venues des banques et le temps d'analyse, sans décrire les diligences qui auraient justifié ces délais.",
+      "textes": ["CMF L. 561-16"],
+      "chiffres_cles": ["22 déclarations sur 42 faites en moyenne 6 mois après l'opération", "5 dossiers déclarés plus d'un an après (A7, A10, A11, G13, G22)"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est donc établi » ; non contesté.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "délai de déclaration",
+      "categories_secondaires": [],
+      "pages": [15]
+    },
+    {
+      "numero": "13",
+      "titre": "Gel des avoirs : un filtrage trop strict sur l'orthographe des noms",
+      "resume": "Aucun contrôle n'avait lieu avant le remboursement anonyme de bons payé en espèces par le compte de passage du distributeur. Le filtrage exigeait une correspondance de 100 %, ou de 95 % sur le seul nom et prénom, ce qui ne tolère aucune variante d'écriture. Jusqu'en avril 2015, les listes n'étaient mises à jour qu'une fois par mois et l'ensemble des clients n'était filtré qu'une fois par an. Six clients homonymes de personnes gelées n'ont pas déclenché d'alerte. Un client gelé pour financement du terrorisme en septembre 2012 n'a été repéré qu'un mois plus tard, et ni son contrat ni un rachat de février 2013 n'ont été signalés à la direction générale du Trésor.",
+      "textes": ["CMF L. 562-3", "CMF R. 562-2"],
+      "chiffres_cles": ["seuils de rapprochement de 100 % ou de 95 %", "en 2014 : 33 alertes du scénario hebdomadaire et 7 du scénario annuel, pour 9,4 millions de clients", "6 homonymes sans alerte (H2 à H7), H2 finalement exclu", "client H1 gelé par arrêté du 28 septembre 2012, détecté un mois après ; rachat du 13 février 2013 non déclaré"],
+      "issue": "retenu en partie",
+      "precision_issue": "Établi « dans un périmètre très légèrement réduit » (dossier H2 exclu).",
+      "categorie": "gel des avoirs et sanctions financières",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [15, 16]
+    },
+    {
+      "numero": "14",
+      "titre": "Des réponses inexactes au questionnaire annuel de l'ACPR",
+      "resume": "Dans son questionnaire « BLANCHIMT » pour 2014, CNP Assurances a déclaré à tort que la question des pays non coopératifs était « sans objet », que son dispositif détectait tous les clients gelés, et qu'elle contrôlait ses mandataires. La Commission rappelle que l'instruction de l'ACPR est obligatoire. Elle écarte la branche sur les PPE, car une procédure de vigilance existait bel et bien, même imparfaite.",
+      "textes": ["instruction n° 2012-I-04 du 28 juin 2012 (tableaux « BLANCHIMT »)", "CMF L. 612-24"],
+      "chiffres_cles": ["questionnaire pour l'année 2014"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Sous cette réserve, le grief 14 est établi » : la branche sur les PPE est écartée.",
+      "categorie": "autre (à préciser)",
+      "categorie_precision": "informations inexactes transmises au superviseur (questionnaire annuel LCB-FT)",
+      "categories_secondaires": [],
+      "pages": [16, 17]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "Une répartition des rôles avec les banques distributrices qui faisait courir à CNP Assurances un « risque majeur et structurel » de ne pas respecter ses propres obligations, et ce risque « s'est réalisé à plusieurs titres ». Son histoire et ses liens avec ses partenaires peuvent l'expliquer, mais pas la justifier.", "pages": [17]},
+      {"texte": "Un dispositif « pas à la hauteur de ce qui pouvait être attendu d'un organisme leader sur le marché français de l'assurance de personnes et appartenant au secteur public », ce que l'assureur reconnaît.", "pages": [17]}
+    ],
+    "elements_attenuants": [
+      {"texte": "Le périmètre de plusieurs griefs a été réduit.", "pages": [17]},
+      {"texte": "Importantes mesures correctrices depuis décembre 2014, d'un coût dépassant largement 20 millions d'euros sur 2016-2018, et engagement ferme des dirigeants à l'audience.", "pages": [17, 18]},
+      {"texte": "Clientèle de personnes politiquement exposées faible (grief 6).", "pages": [10]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Renégociation des conventions passées avec les deux réseaux bancaires.", "pages": [17]},
+      {"texte": "Révision de la classification des risques, création d'une base clients, meilleure détection des PPE et des personnes gelées, automatisation du dispositif.", "pages": [17]},
+      {"texte": "Contrôles des seuils et des listes de pays faits en J+1, appelés à devenir des contrôles avant opération.", "pages": [17]},
+      {"texte": "Revue de tous les dossiers de PPE par la conformité.", "pages": [10]}
+    ],
+    "situation_financiere": {"texte": "Chiffre d'affaires de 32 milliards d'euros et résultat net de près de 1,3 milliard d'euros en 2017. L'amende de 8 millions d'euros tient compte de l'assise financière de l'assureur et des mesures correctrices.", "pages": [2, 18]},
+    "cause_profonde": {"texte": "La décision l'explique : CNP Assurances ne détenait pas de dossiers clients et s'en remettait très largement aux dispositifs de ses deux réseaux bancaires distributeurs, qui sont aussi ses actionnaires et qui estimaient avoir le monopole de la relation avec le client. Les informations utiles (revenus, patrimoine, qualité de PPE) lui parvenaient tard ou pas du tout.", "pages": [3, 17]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Quand les clients sont apportés par un distributeur, l'assureur a-t-il un accès immédiat à leurs informations (revenus, patrimoine, profession, qualité de PPE) dans ses propres outils ?",
+      "Le délai de transmission des documents par les distributeurs est-il mesuré et respecte-t-il le maximum prévu ?",
+      "Les seuils de vigilance sont-ils calés sur le montant moyen réel des opérations, et quelle part des versements est réellement examinée ?",
+      "Les scénarios d'alerte utilisent-ils les revenus et le patrimoine du client, et ne reposent-ils pas tous sur des critères cumulés trop restrictifs ?",
+      "Un versement important suivi d'une renonciation ou d'un rachat rapide déclenche-t-il un examen renforcé ?",
+      "Le filtrage du gel des avoirs tolère-t-il les variantes d'orthographe, et l'ensemble des clients est-il refiltré à chaque nouvelle mesure de gel ?",
+      "Quand un client gelé est détecté, la direction générale du Trésor est-elle informée, contrat et opérations compris ?",
+      "Les déclarations de soupçon reprennent-elles toutes les informations connues sur le client, sans renvoyer Tracfin vers un partenaire ?",
+      "Les réponses au questionnaire annuel de l'ACPR sont-elles relues contre les faiblesses connues ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["assurance vie", "bancassurance", "tiers introducteur", "distributeur", "actionnaires", "entreprise publique", "bons de capitalisation au porteur", "seuil unique", "personnes politiquement exposées", "États non coopératifs", "gel des avoirs", "rapprochement orthographique", "déclarations tardives", "qualité des déclarations", "questionnaire annuel", "lettre de suite"],
+    "pages_prioritaires": [
+      {"pages": [3, 4], "pourquoi": "pourquoi le modèle de bancassurance n'excuse rien, et la notion de tiers introducteur"},
+      {"pages": [11, 12], "pourquoi": "les dossiers d'examen renforcé, très concrets (étudiante de 18 ans, retraitée et bons anonymes)"},
+      {"pages": [15, 16], "pourquoi": "le filtrage du gel des avoirs et ses seuils de correspondance"},
+      {"pages": [17, 18], "pourquoi": "la synthèse : « risque majeur et structurel » et le choix du montant"}
+    ],
+    "confiance": "élevée",
+    "a_verifier": [
+      "Grief 6 : 12 dossiers sont visés ; l'assureur en conteste 10 parce qu'ils sont antérieurs à l'obligation ; la Commission en retient 3 (A9, B2, B3) et écarte « les 7 autres ». Le décompte des 2 dossiers restants n'est pas explicite dans la décision.",
+      "Grief 10 : pas de phrase « le grief est établi » propre au grief entier ; chacun des 10 dossiers est jugé établi. Classé « retenu ».",
+      "Page 15, la décision parle du « dossier 3 » pour un retard de déclaration : la lettre du dossier semble manquer. Non corrigé.",
+      "Les deux réseaux bancaires partenaires sont désignés par « Y » et « Z » dans la décision : je ne les ai pas nommés.",
+      "Seule une personne physique apparaît sous un code (« M. H1 ») : aucun nom n'est repris."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Opus 5.5), à partir du texte extrait du PDF officiel", "date": "2026-11-13", "relue_par_mateo": false}
+}
