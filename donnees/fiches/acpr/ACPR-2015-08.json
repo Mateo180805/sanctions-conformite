@@ -1,0 +1,255 @@
+{
+  "id": "ACPR-2015-08",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT et gel des avoirs",
+  "resume_court": "AXA France Vie est l'assureur vie du groupe AXA en France : contrats d'assurance vie et de capitalisation, pour une clientèle répartie entre « grand public », clientèle « aisée » et clientèle « fortunée ». Le contrôle, de septembre 2013 à juillet 2014, a passé en revue tout son dispositif. Sa grille des risques ne regardait de près que les versements de plus de 150 000 euros, alors que le versement moyen était bien plus faible, et ne classait pas tous les bons de capitalisation au porteur en risque élevé, alors que ces titres anonymes circulent de main en main comme des espèces. Des bons ont été remboursés sans aucune question, y compris à un ancien commercial de l'assureur et à un courtier révoqué qui présentait 44 bons souscrits par des clients pour la plupart âgés. Les personnes politiquement exposées n'étaient repérées que si elles se déclaraient. Un client qui justifiait ses fonds par un chèque de la Française des jeux de 113 371 697,90 euros, et qui avait racheté son contrat de 22,5 millions d'euros moins de deux mois après l'avoir souscrit n'a pas fait l'objet d'une déclaration complémentaire. L'assureur avait aussi déclaré à l'ACPR environ 13 000 examens renforcés par an, en comptant à tort de simples alertes. La Commission retient les treize griefs, dont six en partie. Sanction : un blâme et 2,5 millions d'euros (le Collège demandait 8 millions), en tenant compte d'un plan de mise à niveau de 27 millions d'euros.",
+  "identite": {
+    "etablissement": "AXA France Vie",
+    "type_etablissement": "entreprise d'assurance",
+    "precision_type": "Société anonyme d'assurance sur la vie, de capitalisation et de prévoyance, issue de plusieurs fusions (la dernière en 2004). Elle a aussi distribué des contrats et des bons de capitalisation. Clientèle d'épargne individuelle composée à plus de 99 % de personnes physiques, en trois segments : « grand public », « aisée » et « fortunée » (Axa Wealth Management), cette dernière comprenant des non-résidents.",
+    "groupe": "groupe AXA (capital détenu à 98,34 % par Axa France Assurances SAS)",
+    "pays": "France",
+    "activite_et_taille": "Chiffre d'affaires de 16 milliards d'euros et résultat net de 803 millions d'euros en 2015. Nombre de clients et de collaborateurs masqués dans la décision. Le contrôle a examiné 472 contrats et 130 dossiers ; 35 déclarations de soupçon en 2013.",
+    "pages": [3, 18, 20, 21]
+  },
+  "controle": {
+    "controle_sur_place": "du 4 septembre 2013 au 16 juillet 2014",
+    "rapport_de_controle": "signé le 6 mai 2015, après une réunion de restitution le 17 septembre 2014",
+    "ouverture_de_la_procedure": "décidée par le Collège (sous-collège sectoriel de l'assurance) le 17 septembre 2015 ; lettre de saisine et notification des griefs du 13 octobre 2015",
+    "antecedents": "non précisé (une note interne du 5 janvier 2009 proposait déjà des seuils adaptés à la situation des clients)",
+    "pages": [1, 3, 6]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 2500000,
+    "publication": "nominative",
+    "duree_publication_nominative": "non précisée : la décision ordonne une publication au registre de l'ACPR, sans limite de durée ; l'assureur avait d'abord demandé une publication anonyme, puis y a renoncé",
+    "proposition_du_college": "blâme et 8 millions d'euros, publication nominative",
+    "pages": [1, 2, 21, 22]
+  },
+  "procedure": {
+    "questions_de_procedure": "Trois arguments de l'assureur sont rejetés. Griefs imprécis : la Commission vérifie grief par grief et juge le grief 1 assez précis. Absence de prescription (pas de délai au-delà duquel des faits anciens ne peuvent plus être poursuivis) : selon le Conseil constitutionnel, elle n'est pas contraire à la Constitution, le temps écoulé pouvant seulement atténuer la sanction, et un établissement doit de toute façon conserver ses documents cinq ans. « Non bis in idem » (on ne peut pas être sanctionné deux fois pour les mêmes faits) : ce principe ne joue pas dans une procédure unique, et des seuils mal choisis dans la classification puis repris dans l'outil d'alerte sont deux séries de faits. Audience non publique le 18 novembre 2016.",
+    "pages": [3, 4, 5, 8, 9]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Des seuils de 150 000 euros et des bons au porteur sous-estimés",
+      "resume": "La classification des risques reposait sur des seuils fixes de versement (150 000 et 500 000 euros) sans lien avec la situation du client, alors que le versement moyen était bien inférieur à 50 000 euros. Les bons de capitalisation au porteur, titres papier qui se transmettent de main en main sans que l'assureur connaisse les porteurs successifs, n'étaient classés en risque élevé que si le client choisissait l'anonymat fiscal : la Commission juge qu'ils doivent toujours l'être. Le reproche sur les remboursements de bons à des intermédiaires révoqués est écarté, comme celui sur l'objet social des sociétés clientes ; celui sur les associations est retenu.",
+      "textes": ["code des assurances A. 310-8 (I)", "CMF R. 561-38 (I, 2°)"],
+      "chiffres_cles": ["seuils fixes de 150 000 et 500 000 euros (750 000 euros pour la clientèle fortunée)", "versement moyen bien inférieur à 50 000 euros", "note interne du 5 janvier 2009 proposant des seuils adaptés", "classification refondue en 2016"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Dans le périmètre réduit […], le grief est établi » (sous-grief 1-3 écarté, sous-grief 1-4 retenu pour les seules associations).",
+      "categorie": "classification des risques",
+      "categorie_precision": "seuils fixes ; bons de capitalisation au porteur",
+      "categories_secondaires": [],
+      "pages": [5, 6, 7]
+    },
+    {
+      "numero": "2",
+      "titre": "Pas d'échanges d'informations avec la banque du groupe",
+      "resume": "Certains clients de l'assureur étaient aussi clients d'Axa Banque, mais les procédures n'organisaient les échanges d'informations entre les deux qu'une fois une déclaration de soupçon faite, pas pour la vigilance au quotidien.",
+      "textes": ["code des assurances A. 310-8 (V)"],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "Actions correctrices « sans conséquence sur le grief, qui est établi ».",
+      "categorie": "dispositif de groupe, filiales et correspondance bancaire",
+      "categorie_precision": "échanges d'informations au sein du groupe",
+      "categories_secondaires": [],
+      "pages": [8]
+    },
+    {
+      "numero": "3",
+      "titre": "Un outil d'alerte qui ignorait les revenus des clients",
+      "resume": "L'outil de surveillance reprenait les seuils généraux de la classification (8 000 et 150 000 euros). Rien ne permettait de repérer, avant l'opération, un versement anormal au regard des revenus ou du patrimoine déclarés, et les opérations n'étaient pas bloquées quand le dossier était incomplet. Un seul scénario rapprochait les opérations des revenus du client, activé seulement en mai 2014, pendant le contrôle. Deux reproches sont écartés : la poursuite ne prouvait pas que les revenus manquaient vraiment dans les bases, et l'obligation d'établir un « profil » de chaque client n'avait été précisée par l'ACPR qu'en mars 2014.",
+      "textes": ["code des assurances A. 310-8 (VI)"],
+      "chiffres_cles": ["seuils de 8 000 et 150 000 euros repris dans l'outil", "scénario n° 12 (opérations comparées aux revenus) activé en mai 2014"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Dans un périmètre réduit […], le grief est établi » (sous-griefs 3-3 et 3-4 écartés).",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [8, 9, 10]
+    },
+    {
+      "numero": "4",
+      "titre": "Un filtrage du gel seulement hebdomadaire",
+      "resume": "Pour les nouveaux clients « grand public » et « aisés » sans autre contrat chez AXA, les noms n'étaient comparés aux listes de gel qu'une fois par semaine : l'assureur ne pouvait donc pas savoir, avant de signer, si un nouveau client était visé par une mesure de gel. Les autres clients étaient filtrés chaque jour. Le reproche sur le paiement des bénéficiaires après un décès n'est pas retenu, au vu des pièces produites, même si le blocage reste manuel. Filtrage quotidien pour tous depuis.",
+      "textes": ["code des assurances A. 310-8 (VI, al. 2)"],
+      "chiffres_cles": [],
+      "issue": "retenu en partie",
+      "precision_issue": "« Dans un périmètre réduit […], le grief est établi » (sous-grief 4-1 non retenu, sous-grief 4-2 réduit).",
+      "categorie": "gel des avoirs et sanctions financières",
+      "categorie_precision": "fréquence du filtrage à l'entrée en relation",
+      "categories_secondaires": [],
+      "pages": [10, 11]
+    },
+    {
+      "numero": "5",
+      "titre": "Des bénéficiaires effectifs de sociétés non vérifiés",
+      "resume": "Dans plusieurs dossiers de sociétés clientes, lors d'un rachat, d'une avance ou d'un versement, l'assureur n'a pas vérifié qui détenait ou contrôlait vraiment la société : Kbis ou statuts anciens, recherche absente pour une coopérative où personne ne détenait plus de 0,5 % du capital, société dissoute. Trois dossiers sont écartés ou réduits, l'assureur ayant identifié le bénéficiaire effectif ou obtenu l'information ensuite.",
+      "textes": ["CMF R. 561-7", "CMF R. 561-1"],
+      "chiffres_cles": ["8 sociétés visées (A1 à A8), manquement écarté pour A5 et A6, réduit dans le temps pour A4 et A8", "versement complémentaire de 5 millions d'euros le 10 janvier 2014 (A8)"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Dans le périmètre réduit […], le grief 5 est établi. »",
+      "categorie": "vigilance constante et mise à jour des dossiers",
+      "categorie_precision": "identification des bénéficiaires effectifs lors d'une réactivation",
+      "categories_secondaires": ["connaissance du client à l'entrée en relation"],
+      "pages": [11, 12, 13]
+    },
+    {
+      "numero": "6",
+      "titre": "Des personnes politiquement exposées repérées sur déclaration",
+      "resume": "La détection des personnes politiquement exposées (PPE) reposait sur ce que le client déclarait à la souscription ou lors d'un versement, rien lors d'un rachat, sans aucun outil automatique, alors que l'assureur vendait des contrats à des non-résidents. Les lignes directrices de l'ACPR permettaient d'interroger le client, mais sans dispenser des obligations légales. Trois PPE sur les six citées n'avaient pas été repérées. Pour trois autres, la relation n'avait pas été validée par un dirigeant habilité, ou l'origine du patrimoine n'était pas documentée (« épargne sur revenus annuels » alors que les fonds venaient d'un tiers).",
+      "textes": ["CMF R. 561-20 (II)", "CMF R. 561-18"],
+      "chiffres_cles": ["3 PPE non détectées sur 6 dossiers cités", "3 dossiers de PPE sans toutes les mesures complémentaires"],
+      "issue": "retenu en partie",
+      "precision_issue": "Sous-grief 6-1 retenu pour 3 des 6 dossiers ; sous-grief 6-2 établi. Le récapitulatif (p. 21) range le grief 6 parmi ceux dont le périmètre a été réduit.",
+      "categorie": "personnes politiquement exposées et vigilance renforcée",
+      "categorie_precision": "détection des PPE",
+      "categories_secondaires": [],
+      "pages": [13, 14]
+    },
+    {
+      "numero": "7",
+      "titre": "Des opérations exécutées sans connaître la relation",
+      "resume": "Dans 5 dossiers, l'assureur a exécuté des opérations sans avoir pu réunir les informations sur l'objet et la nature de la relation d'affaires. Dans ce cas, la loi impose de ne rien exécuter. L'assureur dit ne pas avoir retrouvé ces informations.",
+      "textes": ["CMF L. 561-8"],
+      "chiffres_cles": ["5 dossiers"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi. »",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "opérations exécutées sans informations sur la relation d'affaires",
+      "categories_secondaires": [],
+      "pages": [14, 15]
+    },
+    {
+      "numero": "8",
+      "titre": "Des bons au porteur remboursés sans question",
+      "resume": "Un jugement selon lequel l'assureur doit rembourser le porteur d'un bon ne le dispense pas de sa vigilance. Il n'y a pas d'obligation d'examen systématique, mais dans 7 dossiers l'assureur ignorait comment le porteur avait obtenu les bons, pour des rachats très supérieurs au rachat moyen (17 000 euros), parfois souscrits en espèces, ou souscrits en 1992 et présentés par une personne née en 1982. Trois dossiers auraient dû être déclarés : un porteur au même nom que le commercial qui avait vendu les bons ; un ancien commercial de l'assureur qui présentait des bons qu'il avait lui-même vendus ; un courtier révoqué après des réclamations, qui présentait 44 bons pour 173 000 euros, souscrits par son intermédiaire auprès de clients pour la plupart âgés, dont 2 réglés sur son compte personnel.",
+      "textes": ["CMF L. 561-10-2 (II)", "CMF L. 561-15 (I et II)"],
+      "chiffres_cles": ["13 dossiers reprochés, 10 retenus", "rachat moyen de bons en 2012 et au premier semestre 2013 : 17 000 euros", "rachats de 55 197, 62 676, 114 455 et 33 121 euros", "bons de 44 751 euros souscrits en 1990 (8-10)", "bons d'environ 27 700 euros présentés par un ancien commercial (8-12)", "44 bons pour 173 000 euros présentés par la société d'un courtier révoqué (8-13), déclarés en janvier 2015"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Dans un périmètre réduit aux griefs 8-2 à 8-8, 8-10, 8-12 et 8-13, le grief est établi » (défaut d'examen renforcé pour 8-2 à 8-8, défaut de déclaration pour les trois autres).",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "remboursement de bons de capitalisation au porteur",
+      "categories_secondaires": ["déclarations de soupçon à Tracfin"],
+      "pages": [15, 16, 17]
+    },
+    {
+      "numero": "9",
+      "titre": "De gros rachats et des montages de groupe non examinés",
+      "resume": "Huit dossiers de contrats d'assurance vie ou de capitalisation : un rachat de 2,5 millions d'euros justifié par une résidence secondaire jamais documentée ; des avances à un dirigeant d'entreprise aux motifs vagues (« ISF et investissement ») ; des rachats sur des contrats souscrits pour 22 000 000 euros sans connaître l'origine des fonds ; un rachat de 202 000 euros à virer en Suisse pour des clients résidant à l'étranger. Trois dossiers auraient dû être déclarés, dont des contrats d'un même groupe familial nantis pour garantir des prêts, avec des attestations d'expert-comptable non étayées ; un responsable interne avait écrit qu'« aucune logique » n'expliquait certaines souscriptions.",
+      "textes": ["CMF L. 561-10-2 (II)", "CMF L. 561-15 (I)"],
+      "chiffres_cles": ["8 dossiers", "rachat de 2,5 millions d'euros (9-1)", "deux contrats de 250 000 euros souscrits le 1er mars 2012 (9-2)", "4 contrats souscrits en 2000 pour 22 000 000 euros (9-4)", "rachat total de 202 000 euros à virer en Suisse (9-5)", "prêt de 5,3 millions d'euros garanti par des contrats (9-6)", "contrat de 10 millions d'euros nanti pour un prêt de 17 millions d'euros, rachat de 10,5 millions d'euros le 4 mars 2011 (9-7)", "6 millions d'euros versés, rachat de 1,8 million d'euros en juillet 2012 (9-8)"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi dans sa totalité. »",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": ["déclarations de soupçon à Tracfin"],
+      "pages": [17, 18, 19]
+    },
+    {
+      "numero": "10",
+      "titre": "Un gain au jeu, un rachat éclair, et pas de déclaration complémentaire",
+      "resume": "En février 2013, un client a placé 22,5 millions d'euros sur un contrat d'assurance vie, en justifiant les fonds par un chèque de la Française des jeux de 113 371 697,90 euros. L'assureur a fait une déclaration de soupçon le 13 février 2013. Moins de deux mois plus tard, le client a tout racheté, sans que Tracfin en soit informé. Cette information « de nature à conforter » la déclaration aurait dû lui être transmise ; l'assureur admet que c'est « peut-être à tort ».",
+      "textes": ["CMF L. 561-15 (V)"],
+      "chiffres_cles": ["contrat de 22,5 millions d'euros souscrit en février 2013", "chèque de 113 371 697,90 euros daté de novembre 2012", "déclaration initiale le 13 février 2013, rachat total en mars 2013"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "déclaration complémentaire",
+      "categories_secondaires": [],
+      "pages": [19]
+    },
+    {
+      "numero": "11",
+      "titre": "Sept déclarations tardives",
+      "resume": "Dans 7 dossiers, les déclarations ont été faites entre 5 mois et plus d'un an après l'opération, sans diligences qui le justifient. Ce n'est pas un très grand nombre, mais rapporté aux 130 dossiers examinés, il traduit une carence d'organisation. Une cellule centrale de LCB-FT a été créée en mars 2015.",
+      "textes": ["CMF L. 561-16"],
+      "chiffres_cles": ["7 déclarations tardives sur 130 dossiers examinés, soit 6 %", "délais de 5 mois à plus d'un an"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "déclarations tardives",
+      "categories_secondaires": [],
+      "pages": [19, 20]
+    },
+    {
+      "numero": "12",
+      "titre": "Des déclarations incomplètes",
+      "resume": "Sur les 35 déclarations de 2013, 5 ne précisaient pas l'objet et la nature de la relation d'affaires, et deux d'entre elles ne donnaient pas non plus les revenus et le patrimoine du client, même quand ces informations figuraient au dossier. La Commission juge le nombre significatif au regard du faible volume annuel de déclarations.",
+      "textes": ["CMF R. 561-31 (I)"],
+      "chiffres_cles": ["5 déclarations insuffisantes sur 35 en 2013"],
+      "issue": "retenu",
+      "precision_issue": "« Pour ces 5 DS […], le grief est établi. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "qualité des déclarations",
+      "categories_secondaires": [],
+      "pages": [20, 21]
+    },
+    {
+      "numero": "13",
+      "titre": "13 000 examens renforcés déclarés à tort",
+      "resume": "Dans le questionnaire annuel de l'ACPR, l'assureur avait déclaré 13 000 examens renforcés pour 2012 et 12 700 pour 2013, en comptant de simples alertes de son outil qui ne donnaient lieu ni à une question au client ni à une trace écrite. Il reconnaît une « erreur factuelle ». La Commission parle d'un nombre « très fortement surévalué ».",
+      "textes": ["instruction n° 2012-I-04"],
+      "chiffres_cles": ["13 000 examens renforcés déclarés pour 2012", "12 700 pour 2013"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi » ; non contesté.",
+      "categorie": "autre (à préciser)",
+      "categorie_precision": "informations inexactes transmises au superviseur (questionnaire annuel LCB-FT)",
+      "categories_secondaires": [],
+      "pages": [20, 21]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "Un dispositif de détection des PPE « encore rudimentaire au regard de la taille de l'entreprise » et un nombre d'examens renforcés déclaré à l'ACPR « très fortement surévalué ».", "pages": [21]}
+    ],
+    "elements_attenuants": [
+      {"texte": "Le périmètre de plusieurs griefs est réduit, et le traitement des alertes n'est pas reproché.", "pages": [21]},
+      {"texte": "Les carences des dossiers individuels concernent un nombre de clients relativement faible au regard des 472 contrats examinés, et les montants sont en général moins élevés que dans d'autres affaires.", "pages": [21]},
+      {"texte": "Un plan d'action de 27 millions d'euros lancé en 2014, dont un audit externe d'avril 2016 confirme la mise en œuvre en 18 mois, pris en compte « au moins partiellement ».", "pages": [21]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Plan d'action de LCB-FT de 27 millions d'euros (procédures, classification des risques, déclarations, gel des avoirs).", "pages": [21]},
+      {"texte": "Classification des risques refondue en 2016 ; filtrage quotidien des clients pour le gel des avoirs et pour les PPE.", "pages": [6, 11, 14]},
+      {"texte": "Cellule centrale de LCB-FT créée en mars 2015 pour les délais et la qualité des déclarations.", "pages": [20]}
+    ],
+    "situation_financiere": {"texte": "Chiffre d'affaires de 16 milliards d'euros et résultat net de 803 millions d'euros en 2015. L'assureur demandait que l'amende ne soit pas fixée en fonction de la taille du groupe ; la Commission fixe 2,5 millions d'euros « quel que soit le périmètre retenu » pour apprécier l'assise financière.", "pages": [1, 3, 21]},
+    "cause_profonde": {"texte": "Non précisé de façon explicite. La décision relève des seuils fixes jamais adaptés malgré une note interne de 2009, et un produit à risque (les bons au porteur) traité comme un produit ordinaire ; pour le courtier révoqué, l'assureur invoque une perte d'informations lors d'un changement d'équipe, que la Commission juge sans effet.", "pages": [6, 7, 17]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Les seuils de vigilance tiennent-ils compte de la situation de chaque client, et pas seulement d'un montant fixe ?",
+      "Tous les bons de capitalisation au porteur sont-ils classés en risque élevé, quel que soit le régime fiscal choisi ?",
+      "Au remboursement d'un bon au porteur, cherche-t-on comment le porteur l'a obtenu, et vérifie-t-on s'il s'agit d'un ancien salarié ou intermédiaire de l'assureur ?",
+      "Les clients communs avec la banque du groupe font-ils l'objet d'échanges d'informations pour la vigilance courante ?",
+      "Le filtrage du gel et la détection des PPE sont-ils faits avant la souscription, pour tous les nouveaux clients ?",
+      "Lors d'un rachat, d'une avance ou d'un versement d'une société, le bénéficiaire effectif est-il vérifié à nouveau ?",
+      "Un rachat total peu après une souscription déjà déclarée donne-t-il lieu à une déclaration complémentaire ?",
+      "Le chiffre déclaré à l'ACPR pour les examens renforcés ne compte-t-il que des examens documentés ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["assurance vie", "capitalisation", "bons de capitalisation au porteur", "anonymat fiscal", "seuils fixes", "Axa Banque", "groupe", "bénéficiaire effectif", "PPE non-résidents", "rachat", "Française des jeux", "prescription", "non bis in idem", "questionnaire annuel"],
+    "pages_prioritaires": [
+      {"pages": [4, 5], "pourquoi": "l'absence de prescription devant la Commission"},
+      {"pages": [6, 7], "pourquoi": "pourquoi les bons au porteur sont toujours à risque élevé"},
+      {"pages": [15, 16, 17], "pourquoi": "les remboursements de bons, dont le courtier révoqué"},
+      {"pages": [19], "pourquoi": "le rachat éclair après un gain au jeu, et la déclaration complémentaire"},
+      {"pages": [21], "pourquoi": "le raisonnement sur la sanction"}
+    ],
+    "confiance": "moyenne",
+    "a_verifier": [
+      "Décision très longue (22 pages, 13 griefs) : vérifier en priorité les issues des griefs 4, 6 et 8. Grief 6 n'a pas de phrase de conclusion globale ; je l'ai classé « retenu en partie » d'après le récapitulatif p. 21.",
+      "Grief 8 : pour les sous-griefs 8-2 à 8-8, la Commission retient le défaut d'examen renforcé et écarte le défaut de déclaration ; classé en catégorie « examen renforcé ».",
+      "Grief 9 : la décision annonce « 3 autres » dossiers de défaut de déclaration mais écrit « sous-griefs 9-6 et 9-8 » (p. 17) ; il s'agit bien de 9-6 à 9-8.",
+      "La décision cite le rapport du rapporteur (14 octobre 2016) sans en donner les conclusions.",
+      "Je n'ai repris ni les liens familiaux, ni le décès d'un conjoint, ni le pays de résidence de certains clients, ni la mention d'un parlementaire administrateur d'une société (reproche écarté)."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Opus 5.5), à partir du texte extrait du PDF officiel", "date": "2026-11-13", "relue_par_mateo": false}
+}

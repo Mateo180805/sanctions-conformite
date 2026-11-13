@@ -1,0 +1,187 @@
+{
+  "id": "ACPR-2016-05",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT et gel des avoirs",
+  "resume_court": "Lemon Way est une jeune société de paiement qui fournit sa plateforme à des sites de financement participatif, de cagnottes en ligne, de vente entre particuliers et, jusqu'en 2015, d'achat et de vente de bitcoins et de cartes prépayées. Elle grandissait très vite : 11 salariés en 2014, 80 au moment de la décision. Au contrôle de 2015, son dispositif n'avait pas suivi. Des clients d'un site de bitcoins n'avaient jamais vu leur identité vérifiée ; les personnes politiquement exposées n'étaient repérées que si elles se déclaraient elles-mêmes ; la vigilance renforcée ne commençait qu'à 100 000 euros par an, alors qu'un prêt en financement participatif était plafonné à 1 000 ou 4 000 euros. L'outil ne pouvait pas regrouper les différents identifiants d'un même client. Neuf dossiers, puis vingt autres, auraient dû être déclarés à Tracfin, la plupart sur le site de bitcoins, pour des montants allant jusqu'à 228 000 euros sans rien savoir de l'origine des fonds. La Commission retient les huit griefs, dont un en partie. Sanction : un blâme et 80 000 euros (le Collège demandait au moins 100 000 euros), en tenant compte du changement de modèle récent et des corrections faites depuis.",
+  "identite": {
+    "etablissement": "Lemon Way",
+    "type_etablissement": "établissement de paiement",
+    "precision_type": "Société créée le 15 octobre 2007 pour vendre des logiciels de paiement, agréée le 24 décembre 2012 comme établissement de paiement « hybride ». Elle met sa plateforme de paiement à la disposition de sites partenaires : collecte en ligne (dont des cagnottes de mariage), financement participatif, places de marché et, jusqu'en décembre 2015, cartes prépayées et bitcoins. Active dans 29 pays européens depuis le 12 juillet 2013.",
+    "groupe": "non précisé",
+    "pays": "France",
+    "activite_et_taille": "Chiffre d'affaires, collecte et résultats masqués dans la décision (perte nette en 2016, suivie d'une augmentation de capital du même montant). 80 salariés à la date de la décision, contre 53 en juin 2016 et 11 en 2014. Changement « radical » de modèle intervenu en 2014.",
+    "pages": [2, 3, 11]
+  },
+  "controle": {
+    "controle_sur_place": "du 10 mars au 14 avril 2015",
+    "rapport_de_controle": "signé le 3 septembre 2015",
+    "ouverture_de_la_procedure": "décidée par le Collège (sous-collège sectoriel de la banque) le 20 mai 2016 ; lettre de saisine et notification des griefs du 3 juin 2016",
+    "antecedents": "non précisé (contrôle intervenu peu après l'agrément de la société)",
+    "pages": [1, 3, 11]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 80000,
+    "publication": "nominative",
+    "duree_publication_nominative": "non précisée : la décision ordonne une publication au registre de l'ACPR, sans limite de durée ; la société demandait une publication anonyme",
+    "proposition_du_college": "blâme et sanction pécuniaire d'au moins 100 000 euros, publication nominative",
+    "pages": [1, 2, 11]
+  },
+  "procedure": {
+    "questions_de_procedure": "Pas de question de procédure. Audience non publique le 13 mars 2017, à la demande de la société. Le rapporteur estimait tous les griefs établis. La société soutenait que ses manquements ne venaient pas d'une « volonté de nuire ou d'éluder la réglementation » mais de défaillances techniques ; la Commission répond qu'elle apprécie les manquements indépendamment de l'intention.",
+    "pages": [1, 8]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Des clients non identifiés sur deux sites partenaires",
+      "resume": "Sur un site de financement participatif, 50 clients n'avaient pas été identifiés, avec des noms « fantaisistes ». Comme la société leur faisait signer un contrat sans limite de durée, elle entrait en relation d'affaires avec eux et devait les identifier ; mais un seul avait vraiment utilisé son compte, et la société a depuis changé ses contrats : ce reproche est « largement relativisé ». Sur un site d'achat et de vente de bitcoins, l'identité de 34 clients n'avait pas été vérifiée. La reprise soudaine de 3 500 clients d'un autre établissement, dont 367 seulement avaient un dossier, ne l'excuse pas.",
+      "textes": ["CMF L. 561-5", "CMF L. 561-8", "CMF L. 561-2-1"],
+      "chiffres_cles": ["50 clients non identifiés sur le site de financement participatif T, dont un seul avait utilisé son compte de paiement", "34 clients du site de bitcoins U sans vérification d'identité", "transfert de 3 500 clients d'un autre établissement le 9 octobre 2013, dont 367 avec un dossier client"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Le grief 1 est établi, mais dans un périmètre réduit » (branche du financement participatif « largement relativisée »).",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "identification et vérification de l'identité",
+      "categories_secondaires": ["relation d'affaires et clients occasionnels"],
+      "pages": [3, 4]
+    },
+    {
+      "numero": "2",
+      "titre": "Des personnes politiquement exposées repérées seulement si elles se déclarent",
+      "resume": "La procédure ne prévoyait de rechercher les personnes politiquement exposées (PPE) qu'au-delà de 10 000 euros par an pour les clients des bitcoins, et 100 000 euros pour les autres. En pratique, la société ne le savait que si le client se déclarait lui-même, et n'utilisait aucune base de données externe. Un ancien ambassadeur n'a fait l'objet d'aucune mesure particulière. La société reconnaît que ses vérifications manuelles n'ont pas fonctionné de janvier 2013 à avril 2015.",
+      "textes": ["CMF R. 561-20 (II)"],
+      "chiffres_cles": ["recherche des PPE au-delà de 10 000 euros cumulés sur 12 mois (bitcoins) ou de 100 000 euros (autres clients)", "nouvelle procédure applicable à partir du 14 décembre 2015"],
+      "issue": "retenu",
+      "precision_issue": "Action correctrice « sans incidence sur le grief, qui est établi ».",
+      "categorie": "personnes politiquement exposées et vigilance renforcée",
+      "categorie_precision": "détection des PPE",
+      "categories_secondaires": [],
+      "pages": [5]
+    },
+    {
+      "numero": "3",
+      "titre": "Des fiches de connaissance du client vides",
+      "resume": "Sur 71 clients du site de bitcoins qui, selon les procédures internes, devaient fournir des renseignements au titre de la vigilance renforcée, 46 n'avaient pas été interrogés, et 30 dossiers n'avaient aucun justificatif de domicile. La société ne conteste pas et invoque le manque d'automatisation et de personnel face à la hausse du nombre de clients.",
+      "textes": ["CMF L. 561-6"],
+      "chiffres_cles": ["46 clients sur 71 sans demande de renseignements", "30 dossiers sans justificatif de domicile"],
+      "issue": "retenu",
+      "precision_issue": "Pas de phrase « le grief est établi » : les explications et mesures correctrices « sont sans conséquence sur la réalité du grief » ; constatations non contestées.",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "",
+      "categories_secondaires": ["personnes politiquement exposées et vigilance renforcée"],
+      "pages": [6]
+    },
+    {
+      "numero": "4",
+      "titre": "Un seuil de 100 000 euros pour des prêts de 1 000 euros",
+      "resume": "La vigilance renforcée ne commençait qu'au-delà de 100 000 euros par an. Or un particulier ne pouvait prêter que 1 000 ou 4 000 euros par projet en financement participatif, et aucun client n'a jamais atteint ce seuil. La société admet que le panier moyen d'un investisseur était inférieur à 200 euros. Même chose pour le rechargement de cartes prépayées, que Tracfin signalait comme risqué depuis 2013. Que l'État encourage le financement participatif ne dispense pas des obligations de LCB-FT.",
+      "textes": ["CMF R. 561-38 (I, 2°)", "arrêté du 3 novembre 2014, art. 59 à 61"],
+      "chiffres_cles": ["seuil de vigilance renforcée : 100 000 euros en un an", "plafond d'un prêt en financement participatif : 1 000 ou 4 000 euros", "panier moyen des investisseurs français en 2015 : moins de 200 euros"],
+      "issue": "retenu",
+      "precision_issue": "La modification de la classification « est sans conséquence sur le grief, qui est établi ».",
+      "categorie": "classification des risques",
+      "categorie_precision": "seuils inadaptés au financement participatif et aux cartes prépayées",
+      "categories_secondaires": [],
+      "pages": [6, 7]
+    },
+    {
+      "numero": "5",
+      "titre": "Un client, plusieurs identifiants, aucune vue d'ensemble",
+      "resume": "Les alertes reposaient sur des seuils par opération ou par an, et leur franchissement n'a parfois entraîné aucune analyse. Surtout, la société ne pouvait pas relier les différents identifiants d'un même client, donc ni additionner ses opérations ni repérer celles qui étaient atypiques. Exemples : un client participe le même jour à une cagnotte de mariage pour 8 000 euros sous plusieurs identifiants, au-delà du seuil de 2 500 euros ; d'autres rechargent des cartes prépayées par plusieurs comptes de paiement. Un dysfonctionnement informatique explique les faits sans les excuser.",
+      "textes": ["arrêté du 3 novembre 2014, art. 46"],
+      "chiffres_cles": ["dossiers B1 à B7", "8 000 euros versés le même jour à une collecte de mariage, pour un seuil de 2 500 euros cumulés sur un an", "13 870 euros versés entre mai 2014 et avril 2015 pour recharger des cartes prépayées (B6)", "5 820 euros les 18 août et 2 septembre 2014 (B7)"],
+      "issue": "retenu",
+      "precision_issue": "« Le manquement est établi. »",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "absence de suivi agrégé par client",
+      "categories_secondaires": ["analyse des alertes et examen renforcé"],
+      "pages": [7, 8]
+    },
+    {
+      "numero": "6",
+      "titre": "Neuf clients de bitcoins non déclarés",
+      "resume": "Neuf dossiers du site de bitcoins auraient dû être déclarés à Tracfin. Dans 7, la société ignorait les revenus et le patrimoine du client, pour des opérations de 28 000 à 228 000 euros. Dans les 2 autres, les montants étaient sans rapport avec la situation déclarée : un autoentrepreneur gagnant moins de 1 500 euros par mois réalise 31 000 euros d'opérations en 10 mois. Dans tous les cas, la société ne savait ni d'où venait l'argent des achats, ni comment le client avait obtenu les bitcoins vendus. Les déclarations n'ont été faites qu'après le contrôle.",
+      "textes": ["CMF L. 561-15 (I)"],
+      "chiffres_cles": ["9 dossiers (C1 à C9)", "7 dossiers sans revenus ni patrimoine connus, pour des montants de 28 000 à 228 000 euros", "C8 : 46 opérations pour 31 000 euros du 6 juin 2014 au 1er avril 2015, revenus mensuels inférieurs à 1 500 euros", "C9 : 31 opérations pour 239 500 euros du 19 novembre 2013 au 2 février 2015"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": ["connaissance du client à l'entrée en relation"],
+      "pages": [8, 9]
+    },
+    {
+      "numero": "7",
+      "titre": "Vingt autres dossiers non déclarés ni examinés",
+      "resume": "Vingt dossiers auraient dû faire au moins l'objet d'un examen renforcé, et en fait d'une déclaration. Quatorze concernent le site de bitcoins, pour 20 000 à 190 000 euros sans origine des fonds connue. Un client a versé le même jour 8 000 euros à une même cagnotte de mariage sous 4 identifiants différents et n'a jamais répondu aux questions. Une cliente sans profession ni revenus connus a mis 16 000 euros en 3 semaines dans des projets de financement participatif, où la plupart des versements sont bien plus faibles. Pour 4 dossiers, aucune déclaration n'avait encore été faite au moment de la décision.",
+      "textes": ["CMF L. 561-15 (I)", "CMF L. 561-10-2 (II)"],
+      "chiffres_cles": ["20 dossiers (D1 à D20)", "14 dossiers de bitcoins de 20 000 à 190 000 euros", "D15 : 8 000 euros le 19 juillet 2014 sous 4 identifiants", "D16 : 4 opérations pour 16 000 euros en 3 semaines", "D17 : 30 000 euros en 3 semaines", "D19 : 17 opérations pour 49 000 euros en 7 mois", "D20 : 59 599 euros du 18 avril au 14 août 2014", "4 dossiers sans déclaration après le contrôle"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 7 est entièrement établi » ; un défaut de déclaration est retenu dans les 20 dossiers.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": ["analyse des alertes et examen renforcé"],
+      "pages": [9, 10]
+    },
+    {
+      "numero": "8",
+      "titre": "Un filtrage de gel incomplet",
+      "resume": "Le filtrage ne reposait que sur la liste européenne et sur celle de l'OFAC (le service américain des sanctions). Les mesures de gel décidées par la France n'étaient donc pas appliquées. Et une base de clients mal identifiés empêchait de toute façon un filtrage fiable. La société ne conteste pas.",
+      "textes": ["arrêté du 3 novembre 2014, art. 47"],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "Action correctrice « sans conséquence sur le grief 8, qui est établi ».",
+      "categorie": "gel des avoirs et sanctions financières",
+      "categorie_precision": "mesures nationales de gel ; qualité de la base clients",
+      "categories_secondaires": [],
+      "pages": [10]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "Des défauts de déclaration « nombreux au regard du développement récent de l'activité », concernant pour une large part des opérations sur bitcoins, instrument au risque de blanchiment « particulièrement élevé ».", "pages": [10]}
+    ],
+    "elements_attenuants": [
+      {"texte": "La branche du grief 1 sur le site de financement participatif est « largement relativisée ».", "pages": [10]},
+      {"texte": "Le changement « radical » de modèle n'était intervenu qu'en 2014, peu avant le contrôle.", "pages": [11]},
+      {"texte": "Actions correctrices prises en compte « dans une certaine mesure » : dossiers des 34 clients mis à jour, fin des relations avec le site de bitcoins et deux partenaires de cartes prépayées, classification modifiée, suivi par client, procédures actualisées, gel des avoirs mis à niveau.", "pages": [10, 11]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Nomination en mars 2016 d'un directeur général venu du secteur bancaire ; plus du quart de la masse salariale consacré au contrôle.", "pages": [11]},
+      {"texte": "Suivi des opérations par client grâce à des développements informatiques en 2015 et 2016 ; détection automatisée des PPE.", "pages": [5, 8]},
+      {"texte": "Arrêt des opérations sur bitcoins et des contrats de cartes prépayées (2014 et décembre 2015) ; forte hausse des déclarations à Tracfin après le contrôle.", "pages": [7, 8, 11]}
+    ],
+    "situation_financiere": {"texte": "Montants masqués ; perte nette en 2016 compensée par une augmentation de capital. Amende fixée « au regard de l'assise financière » de la société.", "pages": [3, 11]},
+    "cause_profonde": {"texte": "En partie expliquée : la société elle-même attribue ses défaillances au manque d'automatisation et de personnel face à la hausse rapide du nombre de clients ; la Commission relève un changement de modèle intervenu peu avant le contrôle.", "pages": [6, 11]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Le dispositif LCB-FT est-il dimensionné avant d'ouvrir une nouvelle activité ou de reprendre en bloc des clients d'un autre établissement ?",
+      "L'identité de chaque client est-elle vérifiée avant toute opération, y compris sur les sites de partenaires ?",
+      "Les clients sont-ils comparés à une base de PPE à l'entrée en relation, sans attendre qu'ils se déclarent ?",
+      "Les seuils de vigilance sont-ils cohérents avec le montant habituel des opérations de chaque activité (par exemple un prêt participatif) ?",
+      "Les différents identifiants ou comptes d'un même client sont-ils rapprochés pour suivre l'ensemble de ses opérations ?",
+      "Pour les crypto-actifs, connaît-on l'origine des fonds à l'achat et l'origine des actifs vendus ?",
+      "Le filtrage du gel des avoirs couvre-t-il les mesures nationales françaises, en plus des listes européennes ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["établissement de paiement", "fintech", "plateforme de paiement", "financement participatif", "cagnotte en ligne", "bitcoins", "cartes prépayées", "relation d'affaires", "PPE", "identifiants multiples", "croissance rapide", "mesures nationales de gel"],
+    "pages_prioritaires": [
+      {"pages": [4], "pourquoi": "quand naît une relation d'affaires sur une plateforme de paiement"},
+      {"pages": [6, 7], "pourquoi": "les seuils inadaptés au financement participatif et aux cartes prépayées"},
+      {"pages": [8, 9], "pourquoi": "les dossiers de bitcoins non déclarés"},
+      {"pages": [10, 11], "pourquoi": "le raisonnement sur la sanction"}
+    ],
+    "confiance": "élevée",
+    "a_verifier": [
+      "Grief 3 : pas de phrase « le grief est établi » ; classé « retenu » (constatations non contestées, la Commission parle de « la réalité du grief »).",
+      "Le dossier D15 (grief 7) semble recouper les dossiers B4 et B5 du grief 5 (8 000 euros le même jour à une collecte de mariage). La décision ne le dit pas.",
+      "Les noms des sites partenaires sont masqués (T, U, Y, Z, W, X) ; je n'ai pas cherché à les retrouver.",
+      "Je n'ai repris ni le pays de résidence d'un client ni le détail d'un héritage cité au dossier D20."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Opus 5.5), à partir du texte extrait du PDF officiel", "date": "2026-11-13", "relue_par_mateo": false}
+}

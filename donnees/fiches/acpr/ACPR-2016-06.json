@@ -1,0 +1,191 @@
+{
+  "id": "ACPR-2016-06",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT",
+  "resume_court": "BNP Paribas est la maison mère d'un groupe présent dans 74 pays ; dès 2012, l'ACPR la décrivait comme le premier déclarant à Tracfin du pays. Le contrôle de 2015 portait sur ses déclarations de soupçon en France. La banque avait déplacé l'analyse des soupçons de sa cellule anti-blanchiment vers un nouveau pôle, sans mettre ses procédures à jour ni lui donner assez de personnel : 1 800 dossiers en attente en septembre 2015, et un délai moyen de 413 jours entre l'opération suspecte et la déclaration en 2014. Ses outils automatiques détectaient mal : en 2014, seules 688 déclarations sur 4 174 en venaient, et dans 18 dossiers sur 57, c'est la justice ou Tracfin qui avait alerté la banque. Les déclarants attendaient parfois en vain des réponses des agences ou des filiales. Plusieurs de ces défauts avaient déjà été relevés lors d'un contrôle de 2012. La Commission retient sept des huit griefs, dont un en partie, et en écarte un. Sanction : un blâme et 10 millions d'euros, alors que le Collège demandait un avertissement, une sanction moins lourde que le blâme, avec au moins 10 millions d'euros.",
+  "identite": {
+    "etablissement": "BNP Paribas",
+    "type_etablissement": "établissement de crédit",
+    "precision_type": "Société anonyme agréée comme établissement de crédit, maison mère du groupe BNP Paribas. Le contrôle visait la banque de détail en France : 8 directions de réseau, 84 groupes d'agences, 28 centres d'affaires, la banque privée, les filiales outre-mer et la banque en ligne, plus de 30 000 collaborateurs.",
+    "groupe": "groupe BNP Paribas",
+    "pays": "France",
+    "activite_et_taille": "En 2016, le groupe était présent dans 74 pays, comptait plus de 192 000 collaborateurs et disposait de 100 milliards d'euros de capitaux propres. Produit net bancaire de 43 milliards d'euros et résultat net de 7,7 milliards d'euros. En 2015, la banque a adressé 3 163 des 43 231 déclarations de soupçon reçues par Tracfin.",
+    "pages": [2, 3, 10, 11]
+  },
+  "controle": {
+    "controle_sur_place": "du 25 juin au 2 octobre 2015, consacré aux pratiques de déclaration de soupçon en France",
+    "rapport_de_controle": "signé le 26 janvier 2016",
+    "ouverture_de_la_procedure": "décidée par le Collège (formation restreinte) le 5 juillet 2016 ; lettre de saisine et notification des griefs du 25 juillet 2016",
+    "antecedents": "Un contrôle de 2012 sur la LCB-FT de la banque de détail en France (rapport du 8 juin 2012, lettre de suite du 21 septembre 2012, puis une mise en demeure) avait déjà relevé le pilotage insuffisant de la mise à jour des procédures, des délais de traitement trop longs, des informations insuffisantes sur les cas de blanchiment et l'efficacité insuffisante d'un outil de détection. Le contrôle de 2015 a eu lieu peu après la « très lourde sanction » prononcée contre la banque par les autorités américaines.",
+    "pages": [3, 4, 6, 7, 8, 10, 11]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 10000000,
+    "publication": "nominative",
+    "duree_publication_nominative": "non précisée : la décision ordonne une publication au registre de l'ACPR, sans limite de durée ; la banque demandait l'absence de publication ou une publication anonyme",
+    "proposition_du_college": "avertissement et sanction pécuniaire d'au moins 10 millions d'euros, publication nominative",
+    "pages": [1, 2, 11]
+  },
+  "procedure": {
+    "questions_de_procedure": "La banque soutenait qu'on ne pouvait pas lui appliquer l'arrêté du 3 novembre 2014 pour des opérations antérieures. La Commission répond que l'article visé reprend mot pour mot l'ancien règlement n° 97-02 : il ne s'agit pas d'une application rétroactive, et cette erreur de référence n'a pas gêné la défense. Audience non publique le 12 mai 2017, à la demande de la banque. Le rapporteur concluait que cinq griefs étaient entièrement établis, un dans un périmètre réduit, et qu'un autre devait être écarté.",
+    "pages": [1, 7]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Une réorganisation sans procédures à jour",
+      "resume": "De 2013 à mars 2015, l'analyse des propositions de déclaration de soupçon a été transférée de la cellule anti-blanchiment du groupe (CAB) à un pôle de la banque de détail (PIDOS), dans le cadre du projet « Cerise ». Les procédures n'ont pas suivi : le guide du nouveau pôle date de novembre 2015, la procédure d'ensemble n'a été diffusée qu'en septembre 2016. Le contrôle de 2012 avait déjà critiqué l'absence de pilotage de la mise à jour des procédures. Une grande réorganisation de la conformité après la sanction américaine ne dispensait pas la banque d'avoir des procédures exactes, et des présentations ponctuelles aux équipes ne les remplacent pas.",
+      "textes": ["CMF R. 561-38 (I, 4°)", "arrêté du 3 novembre 2014, art. 254 et 255"],
+      "chiffres_cles": ["transfert décidé en février 2013, mis en œuvre de juin 2013 à mars 2015", "guide opératoire du nouveau pôle établi en novembre 2015", "procédure validée le 31 mars 2016, diffusée le 20 septembre 2016 ; procédures Groupe et France actualisées en octobre 2016"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est donc établi. »",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "mise à jour des procédures de déclaration après une réorganisation",
+      "categories_secondaires": ["déclarations de soupçon à Tracfin"],
+      "pages": [3, 4]
+    },
+    {
+      "numero": "2",
+      "titre": "Des milliers de dossiers en attente faute de personnel",
+      "resume": "De janvier 2013 à septembre 2015, les équipes chargées des déclarations n'ont pas pu traiter le flux de propositions venues des agences. Le stock de la cellule centrale est passé de 206 à 2 079 dossiers en un an ; quand le travail a été transféré au nouveau pôle, le stock s'y est simplement déplacé, jusqu'à 1 800 dossiers en septembre 2015, puis 3 039 en février 2016. La banque ne conteste pas. Les effectifs des deux équipes sont passés de 7 personnes en 2012 à 105 en 2016, mais l'essentiel des recrutements a eu lieu après le contrôle. La Commission juge le manquement d'autant plus grave qu'il avait été signalé en 2012 et que les effectifs nécessaires sont faibles au regard de la taille de la banque.",
+      "textes": ["arrêté du 3 novembre 2014, art. 51"],
+      "chiffres_cles": ["cellule centrale : 16 agents permanents et 7 consultants en 2013, 14 et 9 en 2014", "stock de la cellule : 206 dossiers en janvier 2013, 2 079 en janvier 2014, 494 en janvier 2015, 28 en juillet 2015", "délai moyen de traitement par la cellule : 231 jours en 2014", "stock du nouveau pôle : 98 en janvier 2014, 527 en mai 2015, 1 278 en septembre 2015, plus 522 en cours d'attribution, soit 1 800 dossiers", "délai moyen du nouveau pôle : 55 jours en 2014, 68 jours sur les 8 premiers mois de 2015", "3 039 propositions en attente en février 2016 ; environ 425 fin 2016", "effectifs des deux équipes : 7 personnes en 2012, 35 fin 2015, 105 en 2016"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief […] est établi et apparaît d'autant plus grave » qu'il avait déjà été signalé en 2012.",
+      "categorie": "gouvernance, moyens et formation",
+      "categorie_precision": "moyens humains de l'analyse des propositions de déclaration",
+      "categories_secondaires": ["déclarations de soupçon à Tracfin"],
+      "pages": [4]
+    },
+    {
+      "numero": "3",
+      "titre": "L'indépendance des déclarants : grief écarté",
+      "resume": "Avant d'envoyer une déclaration, les déclarants Tracfin du nouveau pôle devaient obtenir l'accord du directeur du groupe d'agences concerné, sans procédure pour passer outre un refus. La Commission écarte le grief pour une raison juridique : l'article invoqué par la poursuite vise les agents qui analysent les alertes, pas les déclarants ; aucun texte n'exige pour eux un « positionnement adéquat », et les lignes directrices de l'ACPR ne peuvent pas, à elles seules, fonder une sanction. Les textes répressifs s'interprètent strictement.",
+      "textes": ["arrêté du 3 novembre 2014, art. 52"],
+      "chiffres_cles": [],
+      "issue": "écarté",
+      "precision_issue": "« Le grief ne peut en conséquence qu'être écarté. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "indépendance des déclarants Tracfin",
+      "categories_secondaires": ["gouvernance, moyens et formation"],
+      "pages": [5]
+    },
+    {
+      "numero": "4",
+      "titre": "Des déclarants qui attendaient les réponses des agences",
+      "resume": "Les déclarants n'avaient pas d'accès direct aux dossiers de tous les clients (filiales d'outre-mer, gestion de fortune) ni à toutes les alertes. Ils devaient interroger les agences ou les filiales, sans délai fixé ni procédure d'escalade en cas de silence. Dans 5 dossiers sur 57, les questions sont restées sans réponse ou ont reçu une réponse très tardive ; dans l'un, une alerte a même été close faute de réponse. La loi n'impose pas un accès direct, précise la Commission, mais des moyens pour obtenir l'information « facilement et promptement ».",
+      "textes": ["arrêté du 3 novembre 2014, art. 55"],
+      "chiffres_cles": ["5 dossiers sur les 57 examinés (A1 à A5)"],
+      "issue": "retenu",
+      "precision_issue": "Les actions correctrices, postérieures au contrôle, sont « sans conséquence sur le grief, qui est établi ».",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "accès des déclarants à l'information",
+      "categories_secondaires": ["dispositif de groupe, filiales et correspondance bancaire"],
+      "pages": [5, 6]
+    },
+    {
+      "numero": "5",
+      "titre": "Des soupçons découverts par la justice ou par Tracfin",
+      "resume": "Dans 18 des 57 dossiers examinés, l'analyse de la banque n'a commencé qu'à cause d'un événement extérieur : une réquisition de la justice, une demande de Tracfin ou, une fois, une découverte fortuite. Les opérations auraient dû déclencher une alerte par elles-mêmes. En 2014, seules 688 des 4 174 déclarations, soit 16 %, venaient des deux principaux outils de détection ; l'un d'eux n'a été déployé partout qu'au début de 2017. En 2016, la part des déclarations issues des outils est montée à 81 %, mais c'est après le contrôle.",
+      "textes": ["arrêté du 3 novembre 2014, art. 46", "règlement n° 97-02, art. 11-7"],
+      "chiffres_cles": ["18 dossiers sur 57 déclenchés par un événement extérieur", "2014 : 688 déclarations sur 4 174 issues des outils X et Y, soit 16 %", "2016 : 6 332 déclarations, dont 81 % issues de ces outils", "déploiement de l'outil X achevé début 2017"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 5 est donc établi. »",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "efficacité des outils de détection",
+      "categories_secondaires": [],
+      "pages": [6, 7]
+    },
+    {
+      "numero": "6",
+      "titre": "413 jours en moyenne avant de déclarer",
+      "resume": "Le délai moyen entre l'opération suspecte et la déclaration à Tracfin était de 285 jours en 2013, 413 jours en 2014 et encore 285 jours en 2015. Dans les 34 dossiers cités, il dépasse un an. Exemple : une société du bâtiment récente, aux opérations atypiques dès janvier 2012, repérée en octobre 2012 ; il a fallu presque un an pour que le pôle transmette la proposition, puis plus d'un an pour déclarer. Le délai est resté élevé en 2016 (271 jours en moyenne) et ne baissait qu'au début de 2017, loin des 84 jours des sept plus grandes banques. Le rapport de 2012 permettait déjà de voir le problème.",
+      "textes": ["CMF L. 561-16"],
+      "chiffres_cles": ["délai moyen déclaré : 285 jours en 2013, 413 jours en 2014, 285 jours en 2015 (méthode de calcul modifiée)", "34 dossiers avec un délai supérieur à un an", "2016 : 271 jours en moyenne, pic de 325 jours en septembre", "de 268 à 166 jours entre janvier et mars 2017", "délai moyen des 7 plus grands établissements bancaires : 84 jours, selon le représentant du Collège", "objectif de la banque : 60 jours, courant 2018", "en 2012 : 61 jours en moyenne au premier trimestre 2011 pour une norme interne de dix jours"],
+      "issue": "retenu",
+      "precision_issue": "« Ces explications ne sont pas de nature à remettre en cause le grief, qui est établi. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "déclarations tardives",
+      "categories_secondaires": [],
+      "pages": [7, 8]
+    },
+    {
+      "numero": "7",
+      "titre": "Six déclarations faites seulement après la justice ou Tracfin",
+      "resume": "La banque estimait qu'après une réquisition judiciaire ou une demande de Tracfin, elle n'avait plus à déclarer. La Commission répond qu'aucun texte ne prévoit cette dispense, et qu'il y a manquement si la déclaration aurait dû partir avant, ou si la réponse ne couvre pas tout. Six dossiers sont retenus : une entreprise aux flux sans rapport avec son activité ; un directeur de maison de retraite qui encaissait des chèques de son employeur signés par lui ; un ancien haut responsable de banque centrale, client politiquement exposé, qui refusait de dire s'il était bénéficiaire de la société luxembourgeoise qui le payait ; une société récente aux flux en forte hausse ; un client aux flux très supérieurs à ses revenus ; des virements venus d'un pays jugé très sensible par la banque. Un septième dossier est écarté.",
+      "textes": ["CMF L. 561-15 (I et III)"],
+      "chiffres_cles": ["7 dossiers reprochés sur 57, 6 retenus", "dossier A46 : 351 864 euros débités et 274 818 euros crédités en juillet 2012, pour un chiffre d'affaires prévisionnel d'environ 30 000 euros ; déclaration le 13 janvier 2016", "déclarations finalement envoyées entre le 30 décembre 2015 et le 11 octobre 2016"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Le grief 7 […] est établi dans un périmètre réduit à 6 dossiers » (dossier A52 écarté).",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "défauts de déclaration malgré une réquisition judiciaire ou un droit de communication",
+      "categories_secondaires": ["personnes politiquement exposées et vigilance renforcée"],
+      "pages": [8, 9, 10]
+    },
+    {
+      "numero": "8",
+      "titre": "Une déclaration complémentaire oubliée",
+      "resume": "En mars 2013, la banque avait déclaré un chèque et un virement au profit d'une société. Après l'annonce dans la presse de la mise en examen de son dirigeant, de très importants virements en sens inverse ont eu lieu en mars 2015. Cette information pouvait « infirmer, conforter ou modifier » la première déclaration : elle n'a été transmise à Tracfin que le 23 septembre 2015.",
+      "textes": ["CMF L. 561-15 (V)"],
+      "chiffres_cles": ["déclaration initiale le 7 mars 2013", "virements en sens inverse en mars 2015", "déclaration complémentaire le 23 septembre 2015"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est donc établi. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "déclaration complémentaire",
+      "categories_secondaires": [],
+      "pages": [10]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "Des « carences majeures » sur des aspects essentiels du processus de déclaration, de la détection à l'envoi ; vu le poids de la banque, premier déclarant national, elles affectent « nécessairement l'ensemble du dispositif français ».", "pages": [10, 11]},
+      {"texte": "Certaines carences avaient déjà été constatées lors du contrôle précédent, trois ans plus tôt.", "pages": [4, 11]}
+    ],
+    "elements_attenuants": [
+      {"texte": "Les dossiers sensibles (personnes politiquement exposées, terrorisme, banque privée) étaient traités « notablement plus » vite que la moyenne : 44, 65 et 47 jours en moyenne.", "pages": [11]},
+      {"texte": "Des mesures correctrices « substantielles », selon le représentant du Collège, dont certaines sont effectives, même si leur efficacité sur les délais doit encore être démontrée.", "pages": [11]},
+      {"texte": "Un contexte « particulier » (efforts en cours après la sanction américaine) est relevé, mais ne dispensait pas la banque de ses obligations.", "pages": [11]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Effectifs des équipes chargées des déclarations portés à 105 personnes en 2016 ; stock ramené à environ 425 dossiers fin 2016.", "pages": [4]},
+      {"texte": "Accès direct des déclarants à tous les outils et informations, y compris outre-mer ; délais d'échange et procédure d'escalade encadrés.", "pages": [6]},
+      {"texte": "Optimisation des outils de détection (mission « OPTIM », nouvel outil Z), pas encore achevée début 2017.", "pages": [7]}
+    ],
+    "situation_financiere": {"texte": "Groupe aux capitaux propres de 100 milliards d'euros, produit net bancaire de 43 milliards d'euros et résultat net de 7,7 milliards d'euros en 2016. Amende « limitée à 10 millions d'euros » au vu des éléments d'atténuation et « au regard de l'assise financière ».", "pages": [2, 3, 11]},
+    "cause_profonde": {"texte": "En partie expliquée : la Commission relie l'allongement des délais à l'insuffisance des moyens humains consacrés aux déclarations, pendant une réorganisation qui a déplacé le stock de dossiers d'une équipe à l'autre, et à des outils de détection peu efficaces.", "pages": [4, 8, 10]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Une réorganisation de la fonction de déclaration est-elle accompagnée de procédures mises à jour avant sa mise en œuvre ?",
+      "Le stock de propositions de déclaration en attente et son ancienneté sont-ils suivis chaque mois par la direction, avec un seuil d'alerte ?",
+      "Les effectifs de l'équipe de déclaration sont-ils dimensionnés à partir du flux réel de propositions ?",
+      "Les déclarants obtiennent-ils l'information des agences et des filiales dans un délai fixé, avec une escalade en cas de silence ?",
+      "Quelle part des déclarations vient des outils de détection, et combien de soupçons sont découverts seulement par une réquisition ou une demande de Tracfin ?",
+      "Après une réquisition judiciaire ou une demande de Tracfin, vérifie-t-on si une déclaration aurait dû partir avant, et si toutes les opérations suspectes sont couvertes ?",
+      "Une information de presse sur un client déjà déclaré déclenche-t-elle l'examen d'une déclaration complémentaire ?",
+      "Les recommandations d'un contrôle précédent de l'ACPR sont-elles suivies jusqu'à leur clôture ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["grande banque", "premier déclarant", "délais de déclaration", "stock de propositions", "moyens humains", "réorganisation de la conformité", "projet Cerise", "escalade", "outils de détection", "réquisition judiciaire", "droit de communication", "déclaration complémentaire", "sanction américaine"],
+    "pages_prioritaires": [
+      {"pages": [4], "pourquoi": "le stock de dossiers et les effectifs"},
+      {"pages": [5], "pourquoi": "pourquoi le grief sur l'indépendance des déclarants est écarté"},
+      {"pages": [7, 8], "pourquoi": "les délais de déclaration comparés aux autres grandes banques"},
+      {"pages": [9], "pourquoi": "pas de dispense de déclaration après une réquisition judiciaire"},
+      {"pages": [10, 11], "pourquoi": "le raisonnement sur la sanction"}
+    ],
+    "confiance": "élevée",
+    "a_verifier": [
+      "Le Collège demandait un avertissement et au moins 10 millions d'euros ; la Commission prononce un blâme (sanction plus lourde) et 10 millions d'euros. À retenir pour l'étude : la nature de la sanction dépasse ici la demande du Collège, pas le montant.",
+      "Page 1, le rapporteur parle de « sept griefs notifiés » (cinq établis, un réduit, un écarté), alors que la décision en examine huit. Je n'ai pas cherché à expliquer l'écart.",
+      "Grief 5 : la notification visait l'arrêté de 2014 pour des faits antérieurs ; la Commission juge l'erreur de référence sans effet (p. 7).",
+      "Dossiers du grief 7 : je n'ai repris ni la nationalité d'une cliente ni les liens d'un client avec une organisation politique, que la décision mentionne ; ils n'ajoutent rien au manquement retenu.",
+      "Les montants du grief 8 sont masqués dans la décision."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Opus 5.5), à partir du texte extrait du PDF officiel", "date": "2026-11-13", "relue_par_mateo": false}
+}

@@ -1,6 +1,6 @@
 # JOURNAL – Sanctions Conformité
 
-Journal de bord du projet, version courte (allégée le 13 novembre 2026 pour économiser le quota ; mise à jour au lot 9).
+Journal de bord du projet, version courte (allégée le 13 novembre 2026 pour économiser le quota ; mise à jour au lot 10).
 À redonner à Claude au début de chaque session, avec PROJET.md.
 Le détail lot par lot est dans `JOURNAL-ARCHIVE.md` : ne pas le relire au début d'une session, seulement au besoin.
 
@@ -17,7 +17,8 @@ Dépôt : https://github.com/Mateo180805/sanctions-conformite (public)
 - [x] Session 5 : collecte AMF (avec Opus 5.5). **454 décisions de la Commission des sanctions de l'AMF** (2004 à juillet 2026) ajoutées à la base et au site, mise à jour chaque lundi avec l'ACPR. Pas de fiches AMF.
 - [x] Lots 7a et 8 (13 novembre au soir, Opus 5.5) : 8 fiches de décisions d'avant 2019 (2018-01, 2017-01 à 2017-07). **39 fiches.** L'étude reste sur ses 31 décisions de 2019-2026.
 - [x] Lot 9 (13 novembre, Opus 5.5) : 2017-08, 2016-08, 2016-10, 2016-07, 2016-09. **44 fiches.**
-- [ ] Plus tard : les 23 décisions restantes LCB-FT de l'ACPR antérieures à 2019, les 44 fiches courtes « hors LCB-FT », des fiches AMF (en commençant par les 28 signalées blanchiment), puis CSSF et FINMA.
+- [x] Lot 10 (13 novembre, Opus 5.5) : 2016-06, 2016-05, 2016-01, 2016-03, 2015-08. **49 fiches.**
+- [ ] Plus tard : les 18 décisions restantes LCB-FT de l'ACPR antérieures à 2019, les 44 fiches courtes « hors LCB-FT », des fiches AMF (en commençant par les 28 signalées blanchiment), puis CSSF et FINMA.
 
 Les 31 fiches : 2024-06, 2024-02, 2024-01, 2023-01, 2022-07, 2022-06, 2022-05, 2022-04, 2022-03, 2022-02, 2022-01, 2021-05, 2021-01, 2020-11, 2020-09 (nominatives) ; 2020-08, 2020-06, 2020-05, 2020-03, 2020-02, 2020-01, 2019-08, 2019-07, 2019-06, 2019-04, 2018-08, 2018-06, 2018-05, 2018-04, 2018-03, 2017-10 (anonymisées).
 
@@ -168,6 +169,24 @@ Cinq fiches de plus. **44 fiches au total.** Même méthode (lecture avec `lire_
 - Corrigé au passage : le type « entreprise d'assurance » (fiches 2017-01 à 2017-03) n'était pas dans le regroupement `TYPES` de `analyse/etude.py` et tombait dans « Autre » sur le site ; ajouté à « Assurance ».
 - **Il reste 23 décisions LCB-FT de l'ACPR d'avant 2019** : 2016-06, 2016-05, 2016-01, 2016-03, 2015-08, 2015-10, 2015-07, 2015-06, 2014-10, 2014-07, 2014-08, 2015-01, 2013-06, 2014-06, 2012-08, 2013-01, 2012-05, 2012-04, 2011-03, 2011-02, 2011-01, 2010-05, 2010-01.
 
+## Lot 10 (13 novembre, Opus 5.5, même conversation que le lot 9)
+
+Cinq fiches de plus. **49 fiches au total.**
+
+| Décision | Établissement | Sanction (demande du Collège) | Griefs retenus / en partie / écartés |
+|---|---|---|---|
+| 2016-06 | BNP Paribas (déclarations de soupçon : stocks, délais, moyens) | blâme, 10 M€ (avertissement et au moins 10 M€) | 6 / 1 / 1 |
+| 2016-05 | Lemon Way (plateforme de paiement : financement participatif, bitcoins, cartes prépayées) | blâme, 80 000 € (au moins 100 000 €) | 7 / 1 / 0 |
+| 2016-01 | Saxo Banque France (courtage en ligne) | blâme, 900 000 € (2 M€) | 2 / 4 / 1 |
+| 2016-03 | Société d'exploitation Merson (changeur manuel) | blâme, 80 000 € (100 000 €) | 9 / 0 / 1 |
+| 2015-08 | AXA France Vie (assurance vie, bons de capitalisation au porteur) | blâme, 2,5 M€ (8 M€) | 7 / 6 / 0 |
+
+- **À retenir pour l'étude élargie** : en 2016-06, la Commission prononce un **blâme** alors que le Collège demandait un **avertissement** (sanction plus sévère sur la nature, même montant). En 2016-03, le non-respect d'une mise en demeure est écarté parce que la loi d'alors ne permettait pas de le sanctionner pour un changeur manuel.
+- Points de procédure utiles en entretien : absence de prescription (2015-08), « non bis in idem » dans une procédure unique (2015-08), qualification alternative « défaut de déclaration ou, à tout le moins, d'examen renforcé » (2016-01, 2016-03), règle appliquée pour la première fois mais jugée prévisible (2016-01, relevé d'identité bancaire).
+- 2015-08 (22 pages, 13 griefs) a une confiance « moyenne » : vérifier en priorité les issues des griefs 4, 6 et 8.
+- Arrondis et additions repérés et corrigés avant livraison (« vingt-neuf dossiers », « plus de vingt dossiers », « plus de 15 000 euros », « 113 millions »), ainsi qu'une déduction (« gagnant du Loto » remplacé par le texte : chèque de la Française des jeux).
+- **Il reste 18 décisions LCB-FT de l'ACPR d'avant 2019** : 2015-10, 2015-07, 2015-06, 2014-10, 2014-07, 2014-08, 2015-01, 2013-06, 2014-06, 2012-08, 2013-01, 2012-05, 2012-04, 2011-03, 2011-02, 2011-01, 2010-05, 2010-01.
+
 ## Thèmes repérés pendant la session 2
 
 - Décisions à part : 2019-08 (avertissement, sans amende, financement participatif) ; 2018-03 (blâme sans amende à cause de la situation financière) ; 2018-05 (radiation) ; 2020-09 (gel des avoirs seulement) ; 2019-07 (21 griefs dont beaucoup hors LCB-FT).
@@ -209,6 +228,6 @@ Cinq fiches de plus. **44 fiches au total.** Même méthode (lecture avec `lire_
 - ou des fiches AMF, en commençant par les 28 décisions signalées blanchiment (Fable 5.2 ; la grille du point 6 de PROJET.md devra être complétée pour les abus de marché) ;
 - ou la collecte de la CSSF puis de la FINMA (Opus 5.5 ou Sonnet 5.5).
 
-Message de reprise : « Lot 10 : lis PROJET.md et JOURNAL.md (pas l'archive), récupère le dépôt, puis fais les 5 fiches ACPR suivantes d'avant 2019 (2016-06, 2016-05, 2016-01, 2016-03, 2015-08), même méthode que les lots 8 et 9, avec analyse/lire_decision.py et analyse/verifier_nombres.py. »
+Message de reprise : « Lot 11 : lis PROJET.md et JOURNAL.md (pas l'archive), récupère le dépôt, puis fais les 5 fiches ACPR suivantes d'avant 2019 (2015-10, 2015-07, 2015-06, 2014-10, 2014-07), même méthode que les lots 8 à 10, avec analyse/lire_decision.py et analyse/verifier_nombres.py. »
 
 Modèle conseillé : Fable 5.2 pour les fiches et pour reprendre le texte de l'étude ; Opus 5.5 ou Sonnet 5.5 pour la collecte et le site.

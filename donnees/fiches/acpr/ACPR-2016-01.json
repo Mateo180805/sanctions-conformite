@@ -1,0 +1,173 @@
+{
+  "id": "ACPR-2016-01",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT",
+  "resume_court": "Saxo Banque France est la filiale française d'une banque danoise. Elle propose du courtage en ligne : ses clients, particuliers ou sociétés, passent eux-mêmes des ordres sur le marché des devises, sur des produits dérivés à fort effet de levier ou sur des actions. Lors du contrôle de 2014, son outil d'alerte tournait à vide : il comparait les dépôts aux revenus et aux intentions d'investissement des clients, mais ces informations manquaient pour 40 % et 45 % d'entre eux. Une société de décoration déclarant 108 000 euros d'actifs a ainsi pu déposer 878 000 euros sans alerte. Les comptes étaient ouverts à distance avec une seule vérification supplémentaire au lieu de deux, un relevé d'identité bancaire ne comptant pas comme seconde preuve. Des dossiers clients étaient incomplets ou jamais mis à jour, et huit dossiers, puis treize autres, avec des dépôts de plusieurs centaines de milliers d'euros d'origine inconnue, auraient dû être examinés de près ou déclarés à Tracfin. La Commission retient six des sept griefs, dont quatre en partie, et en écarte un. Sanction : un blâme et 900 000 euros (le Collège demandait 2 millions), en tenant compte d'une clientèle qui recherche des produits risqués et de montants élevés.",
+  "identite": {
+    "etablissement": "Saxo Banque France",
+    "type_etablissement": "établissement de crédit",
+    "precision_type": "Société par actions simplifiée agréée comme banque et prestataire de services d'investissement, issue du rachat par Saxo Bank de la société Cambiste.com, fondée en 2006. Courtage en ligne pour des particuliers et des institutionnels : accès à la plateforme de trading du groupe (devises, contrats sur différence ou « CFD », autres dérivés, actions et obligations). Aucun moyen de paiement ni crédit. Succursale à Bruxelles.",
+    "groupe": "filiale à 100 % de la banque danoise Saxo Bank",
+    "pays": "France (groupe danois)",
+    "activite_et_taille": "Effectifs, répartition des comptes, résultat et fonds propres masqués dans la décision.",
+    "pages": [2, 3]
+  },
+  "controle": {
+    "controle_sur_place": "du 10 septembre au 19 décembre 2014",
+    "rapport_de_controle": "signé le 9 avril 2015",
+    "ouverture_de_la_procedure": "décidée par le Collège (sous-collège sectoriel de la banque) le 11 janvier 2016 ; lettre de saisine et notification des griefs du 3 février 2016",
+    "antecedents": "non précisé",
+    "pages": [1, 3]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 900000,
+    "publication": "nominative",
+    "duree_publication_nominative": "non précisée : la décision ordonne une publication au registre de l'ACPR, sans limite de durée ; la banque demandait une publication anonyme",
+    "proposition_du_college": "blâme et 2 millions d'euros, publication nominative",
+    "pages": [1, 2, 13, 14]
+  },
+  "procedure": {
+    "questions_de_procedure": "La banque contestait la « qualification alternative » du grief 6 (défaut de déclaration ou, à tout le moins, défaut d'examen renforcé), qui l'obligeait selon elle à se défendre sur deux terrains. La Commission répond que tous les textes et faits figuraient dans la notification : les droits de la défense ont été respectés. Elle précise aussi que la référence de la poursuite à la valeur médiane des comptes ne crée pas un nouveau critère. Audience non publique le 14 décembre 2016. Le rapporteur concluait que 6 des 7 griefs étaient établis. La banque craignait qu'une publication nominative pousse les clients vers des acteurs non régulés ; la Commission ne retient pas l'argument.",
+    "pages": [1, 9, 10, 13]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "La classification des sociétés clientes : grief écarté",
+      "resume": "La poursuite reprochait une classification des risques qui ne tenait pas compte de la variété des sociétés clientes. La banque n'avait pas de document de classification à part, mais sa procédure distinguait déjà plusieurs critères pour les sociétés (pays, cotation, rencontre avec le représentant, lien avec une PPE, activité financière). La Commission écarte le grief : la poursuite ne disait pas quel critère manquait, ni quel risque particulier il aurait permis de traiter.",
+      "textes": ["CMF R. 561-38 (I, 2°)", "règlement n° 97-02, art. 11-7", "arrêté du 3 novembre 2014, art. 59"],
+      "chiffres_cles": [],
+      "issue": "écarté",
+      "precision_issue": "« Le grief 1, tel qu'il est formulé, ne peut qu'être écarté. »",
+      "categorie": "classification des risques",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [3]
+    },
+    {
+      "numero": "2",
+      "titre": "Des alertes automatiques sans données à comparer",
+      "resume": "Les alertes automatiques, en place depuis janvier 2014, comparaient les dépôts aux revenus et aux intentions d'investissement du client, mais ces données manquaient pour 40 % et 45 % des clients. Quatre dossiers aux dépôts très supérieurs aux revenus ou intentions n'ont donc déclenché aucune alerte. Rien ne repérait non plus les dépôts élevés de sociétés non financières (une société d'articles de décoration avec 108 000 euros d'actifs dépose 878 000 euros), ni un nombre d'ordres sans rapport avec celui annoncé (680 ordres par mois au lieu de 0 à 5). Un retrait total de 200 000 euros trois mois après l'ouverture, sans aucune opération, n'a pas été analysé. Le reproche sur un autre dossier est écarté.",
+      "textes": ["arrêté du 3 novembre 2014, art. 46", "règlement n° 97-02, art. 11-7"],
+      "chiffres_cles": ["revenus non renseignés pour 40 % des clients, intention d'investissement pour 45 %", "dossier A2 : 200 000 euros déposés, retrait total 3 mois après l'ouverture, sans opération de trading", "société A7 : dépôt de 878 000 euros, actif total déclaré de 108 000 euros, résultat déficitaire de 3 000 euros", "dossier A13 : 680 ordres par mois pour 0 à 5 annoncés", "reproche écarté pour le dossier A1 (retrait de 10 000 euros sur 12 100 euros déposés, analysé)"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Dans le périmètre légèrement réduit […], le grief 2 est établi » (dossier A1 écarté).",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "scénarios inopérants faute de données clients",
+      "categories_secondaires": ["analyse des alertes et examen renforcé"],
+      "pages": [4, 5]
+    },
+    {
+      "numero": "3",
+      "titre": "Des comptes ouverts à distance avec une seule vérification",
+      "resume": "Pour un compte ouvert à distance, la loi exige deux mesures de vigilance complémentaires. La banque exigeait que le premier versement vienne d'un compte bancaire au nom du client, et demandait aussi le relevé d'identité bancaire de ce compte, qu'elle comptait comme seconde mesure. La Commission juge que ce relevé n'apporte rien de plus que le virement lui-même : ce n'est pas une « pièce justificative supplémentaire » de l'identité. La seconde pièce d'identité n'était demandée qu'aux personnes politiquement exposées. Première application de cette règle, que la Commission juge assez claire et prévisible pour être sanctionnée.",
+      "textes": ["CMF L. 561-10 (1°)", "CMF R. 561-20 (I)"],
+      "chiffres_cles": ["toutes les ouvertures de compte postérieures au décret n° 2012-1125 du 3 octobre 2012"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est donc établi. »",
+      "categorie": "personnes politiquement exposées et vigilance renforcée",
+      "categorie_precision": "vigilance complémentaire : entrée en relation à distance",
+      "categories_secondaires": ["connaissance du client à l'entrée en relation"],
+      "pages": [5, 6]
+    },
+    {
+      "numero": "4",
+      "titre": "Des dossiers clients incomplets ou jamais mis à jour",
+      "resume": "Dans de nombreux dossiers, la profession, les revenus ou le patrimoine du client manquaient, ou étaient trop vagues (« gérant », « marketing »). Les comptes ouverts avant 2009 n'avaient pas été mis à jour avant le 4 septembre 2010 comme l'exigeait la loi, et d'autres dossiers n'étaient pas actualisés. La banque reconnaît l'essentiel ; quelques dossiers sont retirés, à la demande du Collège ou du rapporteur.",
+      "textes": ["CMF L. 561-6", "ordonnance n° 2009-104, art. 19"],
+      "chiffres_cles": ["profession manquante : manquement établi dans 15 dossiers sur 16", "profession trop imprécise : 3 dossiers sur 4", "revenus ou patrimoine inconnus : 3 dossiers sur 4", "comptes anciens non mis à jour avant le 4 septembre 2010 : 5 dossiers sur 6, plus un compte mis à jour seulement le 18 mars 2014", "3 dossiers non actualisés"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Dans le périmètre réduit […], le grief 4 est établi. »",
+      "categorie": "vigilance constante et mise à jour des dossiers",
+      "categorie_precision": "",
+      "categories_secondaires": ["connaissance du client à l'entrée en relation"],
+      "pages": [6, 7]
+    },
+    {
+      "numero": "5",
+      "titre": "Huit dossiers qui auraient dû être déclarés",
+      "resume": "Sur 11 dossiers reprochés, 3 sont abandonnés par la poursuite et 8 retenus. Exemples : deux sociétés étrangères déposent 458 000 dollars et 1 190 000 euros sans aucune donnée financière ; des clients résidant à l'étranger déposent 672 000 euros sans justificatif ; une cliente verse 640 000 euros sans rapport avec ses revenus, et son frère 536 000 euros, avec une procuration à leur père ; un client verse 148 000 euros depuis la Suisse, très au-delà de son salaire, sans élément sur la régularité fiscale des fonds. La plupart des déclarations n'ont été faites qu'après le contrôle.",
+      "textes": ["CMF L. 561-15 (I et II)", "CMF D. 561-32-1"],
+      "chiffres_cles": ["11 dossiers reprochés, 8 retenus (D3, D5 et D7 abandonnés)", "D1 et D1bis : 458 000 dollars et 1 190 000 euros, déclaration le 3 juin 2015", "D2 : 335 000 euros presque entièrement perdus, déclaration le 27 mai 2015", "D4 : 672 000 euros déposés, déclaration le 23 novembre 2015", "D6 : 640 000 euros d'octobre 2012 à octobre 2014, et 536 000 euros sur le compte de son frère", "D8 : 193 000 euros en 3 ans, dont 148 000 euros depuis la Suisse, pour un salaire net annuel de 46 000 euros", "D11 : 185 000 euros déposés pour 10 000 à 20 000 euros annoncés"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Dans un périmètre réduit à 8 cas […], le grief 5 est établi. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [8, 9]
+    },
+    {
+      "numero": "6",
+      "titre": "Treize dossiers sans examen renforcé ou sans déclaration",
+      "resume": "Sur 17 dossiers, 2 sont abandonnés et 2 écartés : un conseiller financier aux revenus élevés et vérifiés, et un retraité aisé dont la poursuite critiquait surtout les gains. Restent 8 défauts d'examen renforcé et 5 défauts de déclaration : une société luxembourgeoise qui dépose 2,8 millions d'euros sans lien avec son activité ; une société de négoce hors Union européenne qui alimente son compte depuis la Suisse sans lien apparent ; un client qui verse 772 000 euros par virements d'environ 10 000 euros depuis Monaco ; un agriculteur qui place plus de 500 000 euros pour des revenus de 75 000 à 100 000 euros ; un trader qui dépose 500 000 euros sans aucune information sur ses revenus.",
+      "textes": ["CMF L. 561-10-2 (II)", "CMF L. 561-15 (I)"],
+      "chiffres_cles": ["17 dossiers reprochés : 2 abandonnés, 2 écartés", "8 défauts d'examen renforcé et 5 défauts de déclaration retenus", "F2 : 2,8 millions d'euros déposés et 2,1 millions d'euros retirés", "F8 : 1 814 000 euros versés, pour un résultat net de 998 000 euros en 2009", "F6 : 772 000 euros jusqu'à fin 2014, par virements d'environ 10 000 euros", "F9 : plus de 500 000 euros, pour des revenus de 75 000 à 100 000 euros", "F14 : dépôt unique de 500 000 euros, 466 000 euros de pertes"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Le périmètre du grief 6 est réduit de 4 dossiers » ; sont « retenus à ce titre 8 défauts d'examen renforcé et 5 défauts de DS ».",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "qualification alternative : examen renforcé ou déclaration",
+      "categories_secondaires": ["déclarations de soupçon à Tracfin"],
+      "pages": [9, 10, 11, 12, 13]
+    },
+    {
+      "numero": "7",
+      "titre": "Une déclaration tardive",
+      "resume": "Un client sans profession ni patrimoine connus a déposé 682 000 euros et retiré 516 000 euros. En février 2014, il a alimenté son compte avec la carte bancaire d'une autre personne. Interrogé en février puis en août 2014, il a donné des explications peu pertinentes, et la banque n'a plus rien fait jusqu'à sa déclaration du 24 novembre 2014, jugée tardive.",
+      "textes": ["CMF L. 561-16"],
+      "chiffres_cles": ["682 000 euros déposés et 516 000 euros retirés", "aucune diligence entre le 5 août et le 24 novembre 2014"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "déclaration tardive",
+      "categories_secondaires": [],
+      "pages": [13]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "Des manquements « assez nombreux » aux obligations de déclaration ou d'examen renforcé, et un dispositif d'alertes automatisées insuffisant.", "pages": [13]}
+    ],
+    "elements_attenuants": [
+      {"texte": "Les reproches portant sur le dispositif lui-même sont « peu nombreux », et le grief sur la classification est écarté.", "pages": [13]},
+      {"texte": "Les montants, élevés en valeur absolue, sont relativisés par la spécialisation de la banque, qui recherche une clientèle connaissant les produits complexes et prête à prendre des risques.", "pages": [13]},
+      {"texte": "Actions correctrices prises en compte « dans une certaine mesure », attestées par un cabinet d'audit.", "pages": [13]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Mise à jour de la connaissance des clients achevée, selon un cabinet d'audit ; procédure interdisant les mouvements de fonds en provenance ou à destination de tiers.", "pages": [13]},
+      {"texte": "Bases de données clients désormais présentées comme « pleinement à jour » (à vérifier, selon la Commission).", "pages": [5]}
+    ],
+    "situation_financiere": {"texte": "Résultat net et fonds propres masqués dans la décision. Amende fixée « au regard de l'assise financière » de la banque.", "pages": [3, 13]},
+    "cause_profonde": {"texte": "Non précisé de façon explicite. La décision relève que l'outil d'alertes reposait sur des données clients qui n'avaient pas été saisies, ce qui le rendait en partie inopérant.", "pages": [4, 5]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Les données dont dépendent les scénarios d'alerte (revenus, patrimoine, intention d'investissement) sont-elles renseignées pour tous les clients avant la mise en service de l'outil ?",
+      "Un dépôt suivi d'un retrait sans aucune opération déclenche-t-il une analyse écrite ?",
+      "Les dépôts élevés d'une société non financière et un nombre d'ordres sans rapport avec celui annoncé déclenchent-ils une alerte ?",
+      "Pour une ouverture de compte à distance, deux mesures complémentaires réellement distinctes sont-elles appliquées ?",
+      "La profession est-elle recueillie de façon précise (pas seulement « gérant ») ?",
+      "Un client qui ne répond pas aux questions sur l'origine des fonds est-il déclaré à Tracfin ?",
+      "Un versement par la carte bancaire d'un tiers est-il bloqué et analysé ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["courtage en ligne", "banque en ligne", "Forex", "CFD", "effet de levier", "groupe danois", "entrée en relation à distance", "vigilance complémentaire", "relevé d'identité bancaire", "données clients manquantes", "qualification alternative", "examen renforcé"],
+    "pages_prioritaires": [
+      {"pages": [4, 5], "pourquoi": "des alertes qui ne marchent pas faute de données"},
+      {"pages": [6], "pourquoi": "pourquoi un relevé d'identité bancaire ne compte pas comme seconde vérification"},
+      {"pages": [9, 10], "pourquoi": "la qualification alternative et les droits de la défense"},
+      {"pages": [13], "pourquoi": "le raisonnement sur la sanction"}
+    ],
+    "confiance": "élevée",
+    "a_verifier": [
+      "Grief 4, page 7 : la décision dit que la profession manquait dans « 14 des 16 dossiers » « (7 dossiers) », puis retient le manquement dans 15 dossiers sur 16. Les chiffres intermédiaires sont confus ; j'ai repris la conclusion (15 sur 16).",
+      "Grief 6, pages 12 et 13 : la décision cite deux fois « L. 561-10-1 » pour des examens renforcés ; il s'agit sans doute de L. 561-10-2 (coquille probable, non corrigée).",
+      "Grief 6 : la Commission retient 13 dossiers (8 + 5) sur 17 reprochés ; ce sont ses propres chiffres (p. 13).",
+      "Je n'ai pas repris la nationalité des clients ni leurs pays de résidence quand ils n'expliquent pas le soupçon ; les liens familiaux du dossier D6 sont gardés car la décision en fait un motif de soupçon."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Opus 5.5), à partir du texte extrait du PDF officiel", "date": "2026-11-13", "relue_par_mateo": false}
+}

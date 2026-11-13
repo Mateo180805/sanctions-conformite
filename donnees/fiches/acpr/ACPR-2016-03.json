@@ -1,0 +1,211 @@
+{
+  "id": "ACPR-2016-03",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT et gel des avoirs",
+  "resume_court": "La Société d'exploitation Merson est un bureau de change parisien : change de devises, pièces de collection, or, et transfert d'argent. Elle réalise environ 120 opérations par jour, presque toutes de petit montant. Après un premier contrôle en 2012, l'ACPR l'avait mise en demeure en 2013 de corriger son dispositif ; en 2015, le travail n'était toujours pas fait. Son manuel de procédures ne disait pas quels documents demander aux sociétés clientes ; les contrôles internes étaient trop rares ; plusieurs clients n'avaient pas été identifiés correctement. Neuf clients ont changé entre 15 017 et 31 840 euros, soit bien plus que l'opération moyenne de 883 euros, sans qu'on leur demande d'où venait l'argent. Deux autres auraient dû être déclarés à Tracfin, et des clients déjà déclarés ont continué leurs opérations sans déclaration complémentaire. Le filtrage du gel des avoirs reposait sur la vigilance du guichetier. La Commission retient neuf des dix griefs et en écarte un : la loi ne permettait pas alors de sanctionner un changeur manuel pour une mise en demeure non respectée. Sanction : un blâme et 80 000 euros (le Collège demandait 100 000 euros).",
+  "identite": {
+    "etablissement": "Société d'exploitation Merson",
+    "type_etablissement": "changeur manuel",
+    "precision_type": "Changeur manuel créé en 2002, avec deux locaux : l'un pour le change, la numismatique (pièces et monnaies de collection) et l'or et les métaux précieux, l'autre pour le transfert de fonds. Clientèle surtout de particuliers, plus une dizaine de sociétés, principalement d'autres changeurs manuels. Environ 120 transactions par jour ; les opérations de plus de 8 000 euros ne représentaient que 0,3 % des opérations de 2014.",
+    "groupe": "capital de 38 000 euros détenu par une SARL luxembourgeoise",
+    "pays": "France",
+    "activite_et_taille": "10 salariés en plus de la gérante lors du contrôle. Chiffre d'affaires de 54,8 millions d'euros en 2013, 45,7 millions d'euros en 2014 et 40,4 millions d'euros en 2015 ; résultat net de 72 571 euros, 82 409 euros et 218 681 euros. Fonds propres de 2,6 millions d'euros fin 2015. Opération moyenne : 883 euros en 2014, 941 euros en 2013.",
+    "pages": [2, 5]
+  },
+  "controle": {
+    "controle_sur_place": "du 13 janvier au 20 février 2015",
+    "rapport_de_controle": "signé le 11 mai 2015, après une réunion de restitution le 18 mars 2015",
+    "ouverture_de_la_procedure": "décidée par le Collège (sous-collège sectoriel de la banque) le 7 mars 2016 ; lettre de saisine et notification des griefs du 22 mars 2016",
+    "antecedents": "Un contrôle de 2012 avait relevé l'absence d'examen renforcé des opérations inhabituellement élevées et l'absence d'informations sur la connaissance des clients. Une mise en demeure du 7 octobre 2013 lui demandait de corriger son dispositif de LCB-FT et son contrôle interne en 3 mois ; les actions n'ont été engagées « qu'avec beaucoup de retard ».",
+    "pages": [1, 3, 7, 8]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 80000,
+    "publication": "nominative",
+    "duree_publication_nominative": "non précisée : la décision ordonne une publication au registre de l'ACPR, sans limite de durée",
+    "proposition_du_college": "blâme et 100 000 euros, publication nominative",
+    "pages": [1, 2, 8, 9]
+  },
+  "procedure": {
+    "questions_de_procedure": "La société reconnaissait les défaillances mais soulignait que le contrôle n'avait examiné que 1 292 opérations sur 101 213. Elle contestait la « qualification alternative » du grief 6 (défaut de déclaration ou, à tout le moins, d'examen renforcé) : la Commission juge que tous les textes et faits figuraient dans la notification, sans atteinte aux droits de la défense. Audience non publique le 2 décembre 2016, à sa demande.",
+    "pages": [1, 5, 6, 8]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Un manuel de procédures incomplet",
+      "resume": "Le manuel d'octobre 2014 ne disait pas comment identifier une société cliente, ni comment trouver son bénéficiaire effectif, ni quels documents réunir pour connaître un client régulier, ni à quel rythme mettre son dossier à jour, ni quels justificatifs demander lors d'un examen renforcé, ni quand faire une déclaration complémentaire. La société ne conteste pas et fait état de corrections.",
+      "textes": ["CMF R. 561-38 (I, 4°)", "arrêté du 10 septembre 2009, art. 5"],
+      "chiffres_cles": ["au moins 14 clients personnes morales en relation d'affaires", "5 clients sans extrait Kbis suffisamment récent"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi. »",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "manuel de procédures LCB-FT",
+      "categories_secondaires": [],
+      "pages": [3]
+    },
+    {
+      "numero": "2",
+      "titre": "Des contrôles internes trop rares",
+      "resume": "Les contrôles par sondage prévus par le manuel étaient trop peu nombreux, et rien ne disait sur quoi ils devaient porter. Aucun contrôle n'avait vérifié l'attribution du statut de client habituel, le remplissage du formulaire client ou les opérations de plus de 15 000 euros. Le contrôle de l'ACPR a trouvé 8 opérations de plus de 5 000 euros sans relevé d'identité du client et 24 dossiers de plus de 15 000 euros sans le formulaire requis. Non contesté.",
+      "textes": ["CMF R. 561-38 (I, 5°)", "arrêté du 10 septembre 2009, art. 5"],
+      "chiffres_cles": ["8 opérations de plus de 5 000 euros sans relevé d'identité", "24 dossiers de plus de 15 000 euros sans formulaire"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief […] est établi. »",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "contrôle interne du dispositif LCB-FT",
+      "categories_secondaires": [],
+      "pages": [3, 4]
+    },
+    {
+      "numero": "3",
+      "titre": "Six clients occasionnels non identifiés",
+      "resume": "Un changeur manuel devait alors identifier tout client occasionnel dont l'opération dépassait 8 000 euros. Six clients ont fait de telles opérations sans que leur identité soit relevée et vérifiée. La société ne conteste pas et invoque des « problèmes informatiques » imprécis.",
+      "textes": ["CMF R. 561-10 (II, 2°)"],
+      "chiffres_cles": ["6 clients occasionnels, opérations de plus de 8 000 euros"],
+      "issue": "retenu",
+      "precision_issue": "« Les griefs 3 à 5 […] sont établis » ; non contestés.",
+      "categorie": "relation d'affaires et clients occasionnels",
+      "categorie_precision": "identification des clients occasionnels",
+      "categories_secondaires": [],
+      "pages": [4, 5]
+    },
+    {
+      "numero": "4",
+      "titre": "Des sociétés clientes sans Kbis récent ni pouvoirs",
+      "resume": "Pour 6 clients réguliers (des sociétés et une association), la société n'avait pas l'identité et les pouvoirs de la personne qui agissait pour eux, ou pas d'extrait Kbis (l'acte d'identité d'une société) de moins de 3 mois. Non contesté.",
+      "textes": ["CMF L. 561-5", "CMF R. 561-5"],
+      "chiffres_cles": ["6 clients en relation d'affaires", "Kbis de plus de 3 mois pour 4 sociétés"],
+      "issue": "retenu",
+      "precision_issue": "« Les griefs 3 à 5 […] sont établis » ; non contestés.",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "identification des personnes morales et de leurs représentants",
+      "categories_secondaires": [],
+      "pages": [4, 5]
+    },
+    {
+      "numero": "5",
+      "titre": "Des clients déjà déclarés toujours en vigilance normale",
+      "resume": "Pour 5 sociétés clientes, ni statuts ni informations à jour sur leur situation financière. Un particulier déjà déclaré à Tracfin a ensuite fait 11 opérations pour plus de 70 000 euros, en restant enregistré comme client occasionnel, sans aucune information sur lui. Trois autres clients déclarés à Tracfin étaient toujours classés en « vigilance normale ». Non contesté.",
+      "textes": ["CMF L. 561-6", "CMF R. 561-12"],
+      "chiffres_cles": ["5 sociétés sans statuts ni informations financières à jour", "11 opérations pour plus de 70 000 euros après une déclaration de soupçon", "3 clients déclarés restés en vigilance normale"],
+      "issue": "retenu",
+      "precision_issue": "« Les griefs 3 à 5 […] sont établis » ; non contestés.",
+      "categorie": "vigilance constante et mise à jour des dossiers",
+      "categorie_precision": "profil de risque non relevé après une déclaration de soupçon",
+      "categories_secondaires": ["connaissance du client à l'entrée en relation"],
+      "pages": [4, 5]
+    },
+    {
+      "numero": "6",
+      "titre": "Neuf gros changes sans question sur l'origine des fonds",
+      "resume": "Neuf clients ont changé de 15 017 à 31 840 euros sans qu'on leur demande de justificatif sur l'origine des fonds ni sur l'objet de l'opération. La société soutenait qu'il fallait comparer l'opération aux moyens du client, pas à l'opération moyenne de ses clients. La Commission répond que, pour des clients occasionnels qui n'ont souvent fait qu'une seule opération, la seule référence possible est le montant moyen des opérations du changeur (883 euros en 2014), ce qui était « largement prévisible ». Elle retient un défaut d'examen renforcé.",
+      "textes": ["CMF L. 561-10-2 (II)", "CMF L. 561-15 (I)"],
+      "chiffres_cles": ["9 clients (P1 à P9)", "opérations de 15 017 à 31 840 euros au total par client", "montant moyen des opérations : 883 euros en 2014, 941 euros en 2013", "8 des 9 clients n'ont fait qu'une seule opération"],
+      "issue": "retenu",
+      "precision_issue": "La société « a manqué à son obligation d'effectuer un examen renforcé » (qualification retenue parmi les deux proposées par la poursuite).",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "référence au montant moyen des opérations du changeur",
+      "categories_secondaires": [],
+      "pages": [5, 6]
+    },
+    {
+      "numero": "7",
+      "titre": "Deux clients qui auraient dû être déclarés",
+      "resume": "Une cliente, placée en vigilance accrue, a vendu des devises pour 22 861 euros en 3 passages sans jamais fournir les justificatifs demandés : ce refus suffisait à imposer une déclaration. Un agent de sécurité a acheté des dollars pour 35 998 euros en disant qu'il s'agissait de ses revenus, sans justificatif : la déclaration s'imposait dès cette première opération. Avoir fait 45 déclarations en 2013 et 2014 ne répond pas au reproche.",
+      "textes": ["CMF L. 561-15 (I et II)", "CMF D. 561-32-1"],
+      "chiffres_cles": ["22 861 euros en 3 opérations du 7 mai 2013 au 26 septembre 2014", "achat de dollars pour 35 998 euros le 13 mars 2013, puis 6 996 euros le 11 septembre 2014", "45 déclarations de soupçon en 2013 et 2014"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief, qui n'est pas sérieusement contesté, est établi. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [6, 7]
+    },
+    {
+      "numero": "8",
+      "titre": "Pas de déclaration complémentaire",
+      "resume": "Dans 5 dossiers, des clients déjà déclarés à Tracfin ont continué à faire des opérations sans que la société envoie de déclaration complémentaire.",
+      "textes": ["CMF L. 561-15 (V)"],
+      "chiffres_cles": ["5 dossiers"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief, qui n'est pas sérieusement contesté, est établi. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "déclarations complémentaires",
+      "categories_secondaires": [],
+      "pages": [7]
+    },
+    {
+      "numero": "9",
+      "titre": "Un filtrage du gel laissé au guichetier",
+      "resume": "Le manuel prévoyait une « consultation régulière » des pages du site du Trésor sur les personnes visées par des mesures de gel, sans dire à quelle fréquence ni quoi faire en cas d'homonymie, et renvoyait à des listes du GAFI qui ne concernent pas le gel. En pratique, tout reposait sur la vigilance du guichetier. Un logiciel a été installé depuis.",
+      "textes": ["CMF L. 562-3", "CMF R. 562-2"],
+      "chiffres_cles": ["logiciel installé sur 3 postes au guichet après le contrôle"],
+      "issue": "retenu",
+      "precision_issue": "Action correctrice « sans conséquence sur le grief, qui est établi ».",
+      "categorie": "gel des avoirs et sanctions financières",
+      "categorie_precision": "filtrage manuel, sans fréquence ni traitement des homonymies",
+      "categories_secondaires": [],
+      "pages": [7]
+    },
+    {
+      "numero": "10",
+      "titre": "La mise en demeure non respectée : grief écarté",
+      "resume": "La société n'avait pas pleinement suivi la mise en demeure d'octobre 2013, et ne le conteste pas. Mais la loi applicable aux changeurs manuels ne permettait pas de sanctionner, en tant que tel, le non-respect d'une mise en demeure, contrairement aux autres établissements. Le grief est donc écarté ; le retard pèse toutefois dans le choix de la sanction.",
+      "textes": ["CMF L. 612-31", "CMF L. 612-41 (II)"],
+      "chiffres_cles": ["mise en demeure du 7 octobre 2013, délai de 3 mois"],
+      "issue": "écarté",
+      "precision_issue": "« Le grief correspondant ne peut en conséquence qu'être écarté. »",
+      "categorie": "autre (à préciser)",
+      "categorie_precision": "non-respect d'une mise en demeure de l'ACPR",
+      "categories_secondaires": [],
+      "pages": [7, 8]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "Les anomalies, peu nombreuses en apparence, doivent être rapportées à l'échantillon examiné (1 292 opérations), et non aux 101 213 opérations de la période.", "pages": [8]},
+      {"texte": "Après le contrôle de 2012 et la mise en demeure de 2013, les actions correctrices n'ont été engagées « qu'avec beaucoup de retard ».", "pages": [8]},
+      {"texte": "L'assise financière s'est renforcée récemment, les résultats progressant malgré la baisse d'activité.", "pages": [8]}
+    ],
+    "elements_attenuants": [],
+    "mesures_correctrices": [
+      {"texte": "Manuel de procédures et outils de contrôle modifiés ; leur efficacité « reste à vérifier ».", "pages": [8]},
+      {"texte": "Logiciel de filtrage du gel des avoirs installé sur 3 postes au guichet.", "pages": [7]}
+    ],
+    "situation_financiere": {"texte": "Résultat net de 218 681 euros en 2015 et fonds propres de 2,6 millions d'euros fin 2015. L'amende tient compte de l'assise financière, renforcée par la hausse des marges.", "pages": [2, 8]},
+    "cause_profonde": {"texte": "Non précisé de façon explicite. La société invoque des « problèmes informatiques » et des raisons d'organisation, que la Commission juge imprécis et sans effet sur les manquements.", "pages": [4, 5, 8]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Le manuel de procédures dit-il précisément quels documents demander à une société cliente et à quel rythme mettre son dossier à jour ?",
+      "Le plan de contrôle interne vérifie-t-il les opérations au-delà des seuils de vigilance et la présence des formulaires requis ?",
+      "Toute opération au-dessus du seuil d'identification est-elle bloquée tant que l'identité n'est pas relevée ?",
+      "Un client déclaré à Tracfin passe-t-il automatiquement en vigilance renforcée ?",
+      "Les opérations très supérieures au montant moyen du guichet déclenchent-elles une demande de justificatif de l'origine des fonds ?",
+      "Un refus de fournir un justificatif entraîne-t-il une déclaration à Tracfin ?",
+      "Les nouvelles opérations d'un client déjà déclaré donnent-elles lieu à une déclaration complémentaire ?",
+      "Le filtrage du gel des avoirs est-il automatisé et fait-il à chaque opération, avec une règle pour les homonymies ?",
+      "Les demandes d'une mise en demeure de l'ACPR sont-elles suivies jusqu'à leur clôture, dans le délai fixé ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["changeur manuel", "or et métaux précieux", "transfert de fonds", "client occasionnel", "seuil de 8 000 euros", "montant moyen des opérations", "qualification alternative", "déclaration complémentaire", "mise en demeure", "gel des avoirs manuel"],
+    "pages_prioritaires": [
+      {"pages": [5, 6], "pourquoi": "le montant moyen des opérations comme référence pour l'examen renforcé"},
+      {"pages": [7, 8], "pourquoi": "la mise en demeure qui ne peut pas être sanctionnée"},
+      {"pages": [8], "pourquoi": "le raisonnement sur la sanction et l'échantillon"}
+    ],
+    "confiance": "élevée",
+    "a_verifier": [
+      "Grief 6 : la poursuite reprochait un défaut de déclaration « ou, à tout le moins », d'examen renforcé ; la Commission retient le défaut d'examen renforcé. Classé « retenu » en catégorie « analyse des alertes et examen renforcé ».",
+      "Page 5, la décision vise le « II de l'article L. 561-10-1 », puis L. 561-10-2 à la page 6 : coquille probable, non corrigée.",
+      "Grief 10 : écarté pour une raison purement juridique (la loi de l'époque), pas parce que la mise en demeure aurait été respectée.",
+      "Je n'ai pas repris le nom de la société luxembourgeoise actionnaire ; son gérant n'est désigné que par une lettre."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Opus 5.5), à partir du texte extrait du PDF officiel", "date": "2026-11-13", "relue_par_mateo": false}
+}
