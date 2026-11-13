@@ -1,0 +1,203 @@
+{
+  "id": "ACPR-2016-10",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT et gel des avoirs",
+  "resume_court": "Dirham Express est un établissement de paiement britannique qui fait du transfert d'argent depuis la France, surtout vers le Maroc, par une succursale, un site internet et 5 commerçants agents. Ses seuils d'alerte commençaient à 3 000 euros alors que plus de la moitié des envois font moins de 200 euros, et sa grille des risques ignorait les pays de destination comme le Sénégal. En dessous de ces seuils, la société ne demandait rien à ses clients : pour 520 clients ayant fait au moins 18 envois entre janvier 2014 et juin 2015, aucun justificatif de domicile ni de patrimoine. Les copies des pièces d'identité de 104 clients n'avaient pas été conservées. Pendant plusieurs mois, les déclarations à Tracfin reposaient sur des salariés de la filiale marocaine. Dix dossiers auraient dû être déclarés, dont des envois très supérieurs aux revenus connus, 17 envois en espèces d'un coup pour un promoteur immobilier marocain, et des envois vers un bénéficiaire signalé dans une base de données privée comme trafiquant de drogue ou membre d'un groupe terroriste. Les listes de gel françaises n'étaient pas filtrées. La Commission retient huit des neuf griefs, dont deux en partie, et en écarte un. Sanction : un blâme et 80 000 euros (le Collège demandait 100 000 euros), pour une société qui n'a jamais été bénéficiaire.",
+  "identite": {
+    "etablissement": "Dirham Express Limited France",
+    "type_etablissement": "établissement de paiement",
+    "precision_type": "Succursale française de Dirham Express Limited, établissement de paiement agréé au Royaume-Uni en 2011. Activité de transmission de fonds en France depuis 2012, par la succursale, une plate-forme internet et des commerçants agents de paiement (5 lors du contrôle), surtout « d'espèces vers espèces » ou « d'espèces vers comptes ». L'offre a été conçue pour des particuliers qui envoient de l'argent au Maroc ; le Sénégal est le deuxième pays de destination.",
+    "groupe": "groupe Dirham Express (une société de service du groupe, Dirham Express Maroc, est basée au Maroc)",
+    "pays": "Royaume-Uni (succursale en France)",
+    "activite_et_taille": "Nombre d'opérations, de clients et montants transférés masqués dans la décision. Résultat net toujours négatif depuis la création : perte nette de 1,1 million d'euros pour un chiffre d'affaires de 0,33 million d'euros sur l'exercice clos le 30 juin 2016. La maison mère peut financer la succursale, qui ne devrait pas être à l'équilibre avant deux ou trois ans.",
+    "pages": [2, 3, 5]
+  },
+  "controle": {
+    "controle_sur_place": "du 30 juin au 6 novembre 2015, avec un point d'attention particulier sur le risque de financement du terrorisme",
+    "rapport_de_controle": "signé le 19 avril 2016",
+    "ouverture_de_la_procedure": "décidée par le Collège (sous-collège sectoriel de la banque) le 7 novembre 2016 ; lettre de saisine du 29 novembre 2016 ; notification des griefs les 29 novembre 2016 et 9 janvier 2017",
+    "antecedents": "non précisé",
+    "pages": [1, 2, 3]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 80000,
+    "publication": "nominative",
+    "duree_publication_nominative": "non précisée : la décision ordonne une publication au registre de l'ACPR, sans limite de durée",
+    "proposition_du_college": "blâme et 100 000 euros, publication nominative",
+    "pages": [1, 2, 12]
+  },
+  "procedure": {
+    "questions_de_procedure": "Pas de question de procédure. Audience non publique le 18 octobre 2017, à la demande de la société. Le rapporteur concluait que 8 des 9 griefs étaient établis, dont 5 dans un périmètre réduit (griefs 1, 2, 3, 7 et 8), et que le grief 4 devait être écarté ; le représentant du Collège maintenait tout. La société soutenait que l'ACPR ne pouvait sanctionner qu'une « carence manifeste » en matière d'examen renforcé et de déclaration, et non substituer son appréciation à la sienne ; la Commission répond qu'il lui revient d'apprécier, dossier par dossier, si un examen renforcé ou une déclaration s'imposait.",
+    "pages": [1, 8]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Une grille des risques qui ignorait les pays de destination",
+      "resume": "La classification des risques ne retenait comme risque élevé que les personnes politiquement exposées. Elle ignorait le pays où l'argent est envoyé, alors que des fonds partaient vers le Sénégal et la Côte d'Ivoire, jugés à risque par le groupe régional ouest-africain de lutte contre le blanchiment (GIABA), et vers la République du Congo, visée par des mesures restrictives. Ses seuils de risque élevé (3 000, 7 000 et 10 000 euros) étaient « manifestement trop élevés » : plus de la moitié des envois font moins de 200 euros. Le reproche sur les clients personnes morales est écarté, la société ne s'adressant qu'à des particuliers.",
+      "textes": ["CMF R. 561-38 (I, 2°)"],
+      "chiffres_cles": ["seuils de risque élevé : 3 000 euros par opération ou, depuis le 1er avril 2015, en cumul sur 90 jours ; 7 000 euros par opération ou en cumul sur 180 jours ; 10 000 euros pour une opération", "plus de la moitié des opérations inférieures à 200 euros ; environ 1 % au-dessus de 3 000 euros"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Le grief 1 est établi avec une légère réduction de son périmètre » (branche sur les personnes morales écartée).",
+      "categorie": "classification des risques",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [3, 4]
+    },
+    {
+      "numero": "2",
+      "titre": "Des procédures muettes sur la connaissance du client",
+      "resume": "La procédure de « vigilance renforcée » classait tous les clients en relation d'affaires, mais n'exigeait aucun document en dessous de 3 000 euros. Au-dessus, elle se contentait d'un formulaire « source des fonds » rempli par le client, sans rubrique sur sa profession ni ses revenus. La procédure générale se bornait à demander « tout autre élément d'information pertinent », et aucune procédure ne fixait les règles de conservation des documents. Les reproches sur l'identification des personnes morales et des représentants de clients sont écartés : la société ne travaille qu'avec des particuliers et interdit les opérations par mandataire.",
+      "textes": ["CMF R. 561-38 (I, 4°)", "arrêté du 3 novembre 2014, art. 63, 64 et 70"],
+      "chiffres_cles": ["348 clients en relation d'affaires sans aucun élément de connaissance", "aucun document exigé en dessous de 3 000 euros par opération ou en cumul sur 90 jours", "formulaire « source des fonds » pour les opérations de 3 000 à 7 000 euros"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Dans un périmètre excluant les reproches relatifs […] [aux] personnes morales ou [aux] représentants de clients personnes physiques, le grief 2 est établi. »",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "procédures de connaissance du client et de conservation des documents",
+      "categories_secondaires": ["connaissance du client à l'entrée en relation"],
+      "pages": [4, 5]
+    },
+    {
+      "numero": "3",
+      "titre": "Des déclarants Tracfin installés au Maroc",
+      "resume": "D'octobre 2013 à juin 2014, après le départ du responsable de la conformité, les déclarants et correspondants Tracfin de la succursale étaient des salariés de la société de service du groupe au Maroc. La loi impose de les choisir parmi les dirigeants et salariés de l'établissement lui-même. La Commission admet qu'il n'est pas prouvé que des déclarations aient été empêchées, mais juge que cette organisation ne permettait pas de déclarer à temps dans tous les cas.",
+      "textes": ["CMF R. 561-23 (I)", "CMF R. 561-24"],
+      "chiffres_cles": ["d'octobre 2013 à juin 2014"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 3 est donc établi avec une portée réduite » : manquement non contesté, dont la portée est relativisée (période transitoire, pas d'impossibilité avérée de déclarer).",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "désignation du déclarant et correspondant Tracfin",
+      "categories_secondaires": ["dispositif de groupe, filiales et correspondance bancaire"],
+      "pages": [5]
+    },
+    {
+      "numero": "4",
+      "titre": "Le travail du responsable de la conformité : grief écarté",
+      "resume": "La poursuite reprochait au responsable de la conformité de n'avoir demandé qu'une seule extraction des opérations pour les contrôler, de laisser l'informatique modifier après coup une opération déjà exécutée, et de ne pas avoir vu des dossiers où la procédure de vigilance renforcée n'était pas appliquée (dont des opérations en espèces de 11 000 et 28 800 euros, au-delà de la limite de 10 000 euros). La Commission écarte le grief : d'autres demandes d'extraction sont prouvées, la modification des données n'est attestée que dans un cas très particulier (même si elle est « à proscrire »), et 3 opérations mal contrôlées ne suffisent pas à démontrer une carence générale.",
+      "textes": ["arrêté du 3 novembre 2014, art. 72"],
+      "chiffres_cles": ["4 dossiers cités, dont un abandonné par la poursuite", "opérations en espèces de 11 000 euros et de 28 800 euros, pour une limite de 10 000 euros"],
+      "issue": "écarté",
+      "precision_issue": "« Le grief sera en conséquence écarté. »",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "contrôle permanent par le responsable de la conformité",
+      "categories_secondaires": [],
+      "pages": [6]
+    },
+    {
+      "numero": "5",
+      "titre": "104 pièces d'identité non conservées",
+      "resume": "Pour un transfert d'argent, l'identité du client doit être vérifiée dès le premier euro. La société admet ne pas avoir conservé la copie numérisée des pièces d'identité de 104 clients, dont 25 avaient fait plusieurs opérations. Le profil d'un client contenait des erreurs, sans pièce d'identité. Les personnes venues au guichet pour le compte d'un promoteur immobilier marocain et de 17 particuliers n'ont pas été identifiées. Un blocage informatique empêche désormais une opération sans copie de la pièce.",
+      "textes": ["CMF L. 561-5", "CMF R. 561-5 (1°)", "CMF R. 561-10 (3°)"],
+      "chiffres_cles": ["104 clients sans vérification correcte de l'identité, dont 25 avec plusieurs opérations", "mandataires de 17 personnes physiques non identifiés"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief […] est établi » ; reproches non contestés.",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "identification et vérification de l'identité, conservation des pièces",
+      "categories_secondaires": ["relation d'affaires et clients occasionnels"],
+      "pages": [7]
+    },
+    {
+      "numero": "6",
+      "titre": "520 clients réguliers dont on ne savait rien",
+      "resume": "Pour 520 clients en relation d'affaires ayant fait au moins 18 envois entre janvier 2014 et juin 2015, la société n'avait recueilli aucun document sur leur domicile ou leur patrimoine. Elle invoquait sa marge d'appréciation et ses seuils internes. La Commission répond que des seuils trop élevés ne peuvent justifier qu'aucune information prévue par l'arrêté du 2 septembre 2009 ne soit recueillie. Faute de connaître ses clients, la société n'a pas vu les éléments communs à 4 relations d'affaires, ce qui prive ses analyses de leur pleine pertinence.",
+      "textes": ["CMF L. 561-6", "CMF R. 561-12", "arrêté du 2 septembre 2009"],
+      "chiffres_cles": ["520 clients ayant fait au moins 18 opérations du 1er janvier 2014 au 30 juin 2015", "éléments communs non détectés entre 4 relations d'affaires"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est donc établi. »",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "informations sur le domicile et le patrimoine des clients réguliers",
+      "categories_secondaires": ["vigilance constante et mise à jour des dossiers"],
+      "pages": [7, 8]
+    },
+    {
+      "numero": "7",
+      "titre": "Cinq dossiers sans examen renforcé",
+      "resume": "Dans 5 dossiers, des envois inhabituels au regard des revenus connus n'ont pas été examinés de près. Les justifications recueillies, sur simple déclaration du client (« épargne », « aide familiale », « travaux »), étaient trop générales. Exemples : un client au salaire d'un peu plus de 2 700 euros par mois envoie 23 450 euros au Maroc, alimentés par 3 chèques dont personne ne cherche l'origine ; 67 envois en espèces vers le Sénégal, 166 euros en moyenne, à plusieurs bénéficiaires réguliers ; un couple envoie 32 000 euros en espèces pour un « achat de bien immobilier » non documenté. Que la banque du client ait ses propres obligations ne dispense pas la société des siennes.",
+      "textes": ["CMF L. 561-10-2 (II)"],
+      "chiffres_cles": ["5 dossiers", "transferts de 13 984 euros en 2014 pour un client aux revenus annuels connus de 23 000 euros", "2 virements pour 23 450 euros en 2015, alimentés par 3 chèques pour 51 500 euros", "67 opérations pour 11 099 euros, 166 euros en moyenne, en 18 mois", "transfert en espèces de 8 250 euros le 18 février 2015, dans une série de 33 opérations", "envois de 6 500, 32 000 et 1 300 euros pour un revenu fiscal de 53 352 euros en 2013"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 7 est établi relativement aux 5 dossiers individuels » ; une opération du premier dossier (5 979 euros, après une indemnité de départ à la retraite) est retirée du reproche.",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [8, 9]
+    },
+    {
+      "numero": "8",
+      "titre": "Dix dossiers qui auraient dû être déclarés à Tracfin",
+      "resume": "Dans 10 dossiers, les envois dépassaient nettement les revenus connus du client, sans justificatif de l'origine des fonds : par exemple 28 942 euros en 30 envois pour un salaire de 1 252 euros par mois, ou 20 400 euros du 28 janvier au 15 avril 2015 pour un retraité. Le même jour, 17 envois en espèces pour 27 890 euros ont été faits au nom de particuliers vers le compte d'un promoteur immobilier marocain, présentés comme des arrhes versées lors d'un salon, sans identifier les personnes venues au guichet. Deux clients envoyaient de l'argent à un bénéficiaire qui figurait dans la base World-Check comme trafiquant de drogue ou membre d'Al-Qaida au Maghreb islamique. De nombreux envois de faible montant n'exonèrent pas de déclarer.",
+      "textes": ["CMF L. 561-15 (I)", "CMF L. 561-8"],
+      "chiffres_cles": ["10 dossiers", "19 248 euros en 15 mois, au-delà des revenus déclarés", "21 opérations pour 33 557 euros en 2014, pour des revenus connus de 21 461 euros en 2012", "20 400 euros du 28 janvier au 15 avril 2015 pour un retraité aux revenus de 1 165 euros par mois", "30 transferts, dont 27 en espèces, pour 28 942 euros, avec un salaire de 1 252 euros", "17 opérations en espèces pour 27 890 euros le 4 juin 2014 (promoteur immobilier A2)", "18 000 euros en 3 opérations, dont 11 000 euros le 5 mai 2014", "50 opérations, dont 44 en espèces, pour plus de 18 000 euros"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 8 est établi dans son intégralité. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": ["analyse des alertes et examen renforcé"],
+      "pages": [10, 11]
+    },
+    {
+      "numero": "9",
+      "titre": "Les mesures de gel françaises oubliées",
+      "resume": "Le filtrage ne tenait pas compte des mesures de gel des avoirs prises par la France (en plus des listes européennes et de l'ONU), et aucun filtrage n'était fait quand la société remboursait un client après une opération rejetée ou annulée. La société pensait que la liste de son prestataire était complète ; elle a corrigé les deux points après le contrôle.",
+      "textes": ["CMF L. 562-3", "arrêté du 3 novembre 2014, art. 47"],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "« Le grief […] est établi » ; matérialité non contestée.",
+      "categorie": "gel des avoirs et sanctions financières",
+      "categorie_precision": "mesures nationales de gel ; remboursements non filtrés",
+      "categories_secondaires": [],
+      "pages": [11]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "Des défauts de déclaration de soupçon « en nombre significatif au regard de la taille » de l'établissement ; les carences du dispositif ont entraîné « de nombreux manquements » d'identification et de connaissance des clients.", "pages": [12]}
+    ],
+    "elements_attenuants": [
+      {"texte": "Le grief 4 est écarté et le périmètre ou la portée des griefs 1 à 3 est réduit.", "pages": [12]},
+      {"texte": "Actions correctrices déjà mises en œuvre avec un cabinet d'audit, prises en compte « dans une certaine mesure ».", "pages": [12]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Dispositif de LCB-FT « entièrement revu », avec le concours d'un cabinet d'audit.", "pages": [1, 12]},
+      {"texte": "Blocage informatique empêchant une opération si la copie de la pièce d'identité n'est pas enregistrée.", "pages": [7]},
+      {"texte": "Filtrage complété par les mesures nationales de gel et étendu aux remboursements.", "pages": [11]}
+    ],
+    "situation_financiere": {"texte": "Résultat net toujours négatif ; perte nette de 1,1 million d'euros pour un chiffre d'affaires de 0,33 million d'euros sur l'exercice clos le 30 juin 2016. La maison mère peut financer la succursale.", "pages": [2]},
+    "cause_profonde": {"texte": "En partie expliquée : la Commission relie les défauts d'identification et de connaissance des clients aux « carences de son dispositif de LCB-FT », notamment des seuils fixés trop haut pour l'activité réelle, en dessous desquels rien n'était demandé au client.", "pages": [7, 8, 12]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Les seuils d'alerte et de vigilance sont-ils fixés à partir du montant réel des opérations de la clientèle (montant moyen, répartition) ?",
+      "La classification des risques tient-elle compte du pays de destination des fonds, à partir des listes du GAFI et des organismes régionaux ?",
+      "Un minimum d'informations (profession, revenus, domicile) est-il recueilli pour tout client régulier, même en dessous des seuils ?",
+      "La copie de la pièce d'identité est-elle obligatoire, techniquement, avant l'exécution d'un transfert ?",
+      "Le déclarant et correspondant Tracfin est-il un dirigeant ou un salarié de l'établissement lui-même, avec un suppléant désigné ?",
+      "Les envois cumulés d'un client sont-ils comparés à ses revenus connus, avec des justificatifs exigés au-delà d'un écart fixé ?",
+      "Plusieurs dépôts en espèces le même jour au profit d'un même bénéficiaire déclenchent-ils une alerte ?",
+      "Les bénéficiaires sont-ils comparés aux bases de données de personnes à risque, et une correspondance est-elle analysée par écrit ?",
+      "Le filtrage du gel des avoirs couvre-t-il les mesures nationales et toutes les sorties de fonds, remboursements compris ?",
+      "Les données d'une opération exécutée sont-elles protégées contre toute modification après coup ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["transmission de fonds", "établissement de paiement britannique", "succursale", "agents de paiement", "corridor Maroc", "Sénégal", "GIABA", "seuils inadaptés", "aide familiale", "formulaire source des fonds", "déclarant Tracfin hors de France", "World-Check", "mesures nationales de gel", "remboursements"],
+    "pages_prioritaires": [
+      {"pages": [3, 4], "pourquoi": "la classification des risques et les seuils trop élevés"},
+      {"pages": [6], "pourquoi": "pourquoi le grief sur le responsable de la conformité est écarté"},
+      {"pages": [8], "pourquoi": "la réponse à l'argument « l'ACPR ne peut pas substituer son appréciation »"},
+      {"pages": [10, 11], "pourquoi": "les dix dossiers non déclarés"}
+    ],
+    "confiance": "élevée",
+    "a_verifier": [
+      "Grief 3 : « établi avec une portée réduite ». La période n'est pas réduite, seule la portée est relativisée : classé « retenu » selon la règle du projet. Le rapporteur proposait un périmètre réduit et le récapitulatif p. 12 parle du « périmètre ou [de] la portée » des griefs 1 à 3.",
+      "Grief 7 : une opération du premier dossier est retirée du reproche, mais la Commission conclut que le grief est établi pour les 5 dossiers ; classé « retenu ».",
+      "Grief 7, premier dossier : la décision dit les transferts faits « entre le 14 février et le 23 décembre 2014 », puis cite une « dernière opération » du 21 mai 2015. Je n'ai pas cherché à expliquer l'écart.",
+      "Je n'ai pas repris la nationalité d'un client, ni sa situation familiale, ni la nature de ses pensions : ces détails n'ajoutent rien au manquement.",
+      "Grief 8 : les mentions World-Check et l'arrestation d'une personne portant le même nom qu'un bénéficiaire viennent de la décision ; aucun nom n'est repris."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Opus 5.5), à partir du texte extrait du PDF officiel", "date": "2026-11-13", "relue_par_mateo": false}
+}

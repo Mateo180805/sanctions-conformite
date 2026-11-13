@@ -48,6 +48,7 @@ TYPES = {
     "établissement de monnaie électronique": "Paiement et monnaie électronique",
     "prestataire de services de paiement (office des postes)": "Paiement et monnaie électronique",
     "assureur": "Assurance",
+    "entreprise d'assurance": "Assurance",
     "changeur manuel": "Change manuel",
     "intermédiaire en financement participatif": "Financement participatif",
 }

@@ -1,0 +1,190 @@
+{
+  "id": "ACPR-2016-08",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT et gel des avoirs",
+  "resume_court": "La National Bank of Pakistan, première banque commerciale du Pakistan, détenue majoritairement par l'État, a une succursale à Paris depuis 1975. Elle sert surtout l'ambassade du Pakistan et ses agents : 304 comptes, 13 salariés. Deux contrôles, en 2015 et 2016, décrivent une succursale désorganisée, où « les principes élémentaires du contrôle interne demeurent depuis des années lettre morte ». Plus aucun contrôle de second niveau depuis juillet 2013 ; pendant plusieurs mois, personne n'était désigné pour faire les déclarations à Tracfin ; les clients déjà en portefeuille n'étaient jamais comparés aux listes de gel des avoirs. Deux sociétés clientes d'un même groupe avaient des dossiers d'identité incomplets, et des virements inexpliqués entre elles n'ont pas été déclarés. Elles ont aussi reçu des découverts de plusieurs millions d'euros sans analyse financière, et la succursale n'a pas pu faire certifier et publier ses comptes 2014 à temps. La Commission retient les huit griefs, dont trois en partie. Sanction : un blâme et 700 000 euros, le montant demandé. Son directeur général, poursuivi personnellement, est mis hors de cause : sa responsabilité ne court qu'à partir de mars 2016, et aucun manquement ne peut lui être imputé depuis.",
+  "identite": {
+    "etablissement": "National Bank of Pakistan (succursale de Paris)",
+    "type_etablissement": "établissement de crédit",
+    "precision_type": "Succursale française d'une banque étrangère, l'une des 23 succursales à l'étranger de la National Bank of Pakistan. Elle propose des crédits, surtout documentaires, la tenue de comptes et des services de guichet, principalement pour l'ambassade du Pakistan à Paris et ses agents, et pour quelques autres particuliers et entreprises.",
+    "groupe": "National Bank of Pakistan, première banque commerciale du Pakistan, dont le capital est majoritairement détenu par l'État",
+    "pays": "Pakistan (succursale en France)",
+    "activite_et_taille": "Activité à Paris depuis 1975. En 2015 : 304 comptes et 17,14 millions d'euros de dépôts ; 13 collaborateurs début 2016. Pertes nettes de 2,8 millions d'euros en 2015 et de 1,8 million d'euros en 2016. Fonds propres de 8,5 millions d'euros au 30 juin 2017, renforcés de 3,5 millions d'euros en juin 2017 et devant être augmentés de 7 millions d'euros sur l'année.",
+    "pages": [2, 3]
+  },
+  "controle": {
+    "controle_sur_place": "deux contrôles : du 2 juillet au 3 septembre 2015, puis du 18 février au 17 mars 2016",
+    "rapport_de_controle": "signés le 26 octobre 2015 et le 25 mai 2016",
+    "ouverture_de_la_procedure": "décidée par le Collège (sous-collège sectoriel de la banque) le 5 septembre 2016 ; lettre de saisine et notifications des griefs du 26 septembre 2016, à la succursale et à deux de ses dirigeants",
+    "antecedents": "Un contrôle de 2010 avait déjà relevé des défaillances sur les documents comptables et prudentiels, le contrôle interne, la LCB-FT et le gel des avoirs ; selon le premier rapport de 2015, elles s'étaient « accentuées ». Le rapport de 2010 rappelait aussi qu'au début des années 2000, la succursale avait dû redéfinir son contrôle interne après de « graves défaillances » et abandonner le financement des entreprises et le crédit aux particuliers, après des « opérations délictueuses ». C'est toutefois la première fois que la succursale est mise en cause devant la Commission.",
+    "pages": [1, 3, 10, 11]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 700000,
+    "publication": "nominative",
+    "duree_publication_nominative": "non précisée : la décision ordonne une publication au registre de l'ACPR, sans limite de durée",
+    "proposition_du_college": "blâme et 700 000 euros pour la succursale ; suspension de fonctions d'un mois pour son directeur général ; publication nominative",
+    "pages": [1, 2, 11]
+  },
+  "procedure": {
+    "questions_de_procedure": "Deux dirigeants étaient aussi poursuivis personnellement ; le Collège a abandonné les poursuites contre l'un d'eux. L'autre, directeur général arrivé en France le 6 août 2015, soutenait que les faits étaient antérieurs à ses fonctions. La Commission retient le 1er mars 2016 comme date de début de sa responsabilité, parce que l'ACPR lui avait dit qu'il n'était pas considéré comme dirigeant effectif et ne lui avait pas envoyé le premier rapport ; elle le met hors de cause sur les quatre griefs qui le visaient (2, 3, 5 et 8). Audience non publique le 15 novembre 2017, à la demande de la banque. Le rapporteur concluait que tous les griefs étaient établis, avec un périmètre réduit pour la succursale.",
+    "pages": [1, 2, 9, 10, 11]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Des clients mal identifiés, et des actionnaires inconnus",
+      "resume": "Deux sociétés d'un même groupe, parmi les principaux clients, ont obtenu chacune un découvert autorisé d'un million d'euros avant que la succursale ait leur extrait Kbis (l'acte d'identité d'une société). Elle ne savait rien de leurs bénéficiaires effectifs, ni de la société devenue leur actionnaire majoritaire en 2014, et n'a pas identifié la nouvelle gérante de l'une d'elles. Pour une troisième société, l'un des deux associés n'a jamais été identifié. Chez les particuliers, 17 dossiers sur 25 n'avaient pas de pièce d'identité valide. La Commission réduit le reproche : le Kbis de l'une des sociétés était en fait plus ancien, des documents ont été produits, et 10 des 17 comptes étaient inactifs ; seuls 7 cas sont retenus.",
+      "textes": ["CMF L. 561-5", "CMF R. 561-5"],
+      "chiffres_cles": ["autorisations de découvert d'1 million d'euros (sociétés A1 et A2) accordées en octobre 2012, Kbis obtenus en 2013 selon la poursuite", "participation de la société B1 au capital : 89 % (A1) et 86 % (A2) après une augmentation de capital en 2014", "17 dossiers de particuliers sur 25 sans justificatif d'identité valide, dont 5 périmés depuis plus de 8 ans et 7 depuis 2 à 5 ans", "10 de ces 17 comptes inactifs depuis plus de 12 mois ; grief réduit aux 7 cas non contestés"],
+      "issue": "retenu en partie",
+      "precision_issue": "Sous-grief 1-1 établi « dans un périmètre réduit » ; sous-grief 1-3 établi « dans un périmètre réduit aux 7 cas qui ne sont pas contestés » ; sous-grief 1-2 sans phrase de conclusion, mais l'argument de la banque est rejeté.",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "identification des clients et des bénéficiaires effectifs",
+      "categories_secondaires": ["vigilance constante et mise à jour des dossiers"],
+      "pages": [3, 4]
+    },
+    {
+      "numero": "2",
+      "titre": "Plusieurs mois sans déclarant Tracfin",
+      "resume": "La personne désignée comme déclarant et correspondant Tracfin (celle qui envoie les déclarations de soupçon et répond à Tracfin) était absente depuis août 2015 et n'a pas été remplacée dans ce rôle. La banque disait que son directeur général adjoint jouait ce rôle, mais l'ACPR n'en avait jamais été avisée. La Commission réduit la période : elle ne court qu'à partir du recrutement de la remplaçante, le 5 novembre 2015, jusqu'à la désignation de deux dirigeants le 3 mars 2016.",
+      "textes": ["CMF R. 561-23", "CMF R. 561-24"],
+      "chiffres_cles": ["7 mois sans déclarant selon la poursuite, du 11 août 2015 au 3 mars 2016", "période retenue réduite : à partir du 5 novembre 2015 au plus tard"],
+      "issue": "retenu en partie",
+      "precision_issue": "Le grief « est établi, sur une période réduite ».",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "désignation du déclarant et correspondant Tracfin",
+      "categories_secondaires": ["gouvernance, moyens et formation"],
+      "pages": [5]
+    },
+    {
+      "numero": "3",
+      "titre": "Des virements inexpliqués entre sociétés clientes, jamais déclarés",
+      "resume": "Le reproche sur les espèces déposées par les deux principales sociétés clientes est écarté, car formulé en termes trop généraux. Mais le commissaire aux comptes et le contrôle interne avaient signalé des opérations incohérentes, et le contrôle interne proposait dès mai 2013 une déclaration de soupçon. En 2014, des virements circulaires entre les sociétés du groupe n'ont jamais été justifiés, et des chèques d'entreprises du bâtiment ont été encaissés par une société alors qu'ils figuraient dans la comptabilité de sa société sœur. Pour une troisième société du bâtiment, de nombreux chèques de montants ronds, aucune information financière et une demande de l'Urssaf sur une fraude possible n'ont donné lieu à aucune déclaration. Les trois déclarations n'ont été faites que le 4 mai 2016.",
+      "textes": ["CMF L. 561-15 (I)"],
+      "chiffres_cles": ["société A2 : 4,6 millions d'euros d'espèces pour un chiffre d'affaires de 15,68 millions d'euros en 2014 (reproche écarté)", "société A1 : 480 465 euros d'espèces pour 1,06 million d'euros de chiffre d'affaires en 2014 (reproche écarté)", "2014 : virement de 940 000 euros de A1 à A2, reversé 15 jours plus tard ; 360 000 euros vers la maison mère B1, puis 500 000 euros vers A2", "chèques d'entreprises du bâtiment pour 30 000 euros encaissés par A1 en septembre 2012", "société A3 : 9 chèques pour 60 000 euros du 28 mars au 6 octobre 2014 ; crédits de 58 253 euros et 15 612 euros en 2015 ; compte débiteur d'environ 12 000 euros", "déclarations adressées le 4 mai 2016 dans les trois dossiers"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Le grief 3 est établi dans un périmètre réduit » (sous-griefs 3-1 et 3-2 réduits, sous-grief 3-3 établi).",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": ["analyse des alertes et examen renforcé"],
+      "pages": [5, 6, 10]
+    },
+    {
+      "numero": "4",
+      "titre": "Les clients existants jamais filtrés contre les listes de gel",
+      "resume": "Depuis début 2013, le logiciel de filtrage n'était consulté que pour les ouvertures de compte et les transferts de fonds, jamais pour les clients déjà présents. Le premier contrôle a trouvé 5 clients dont les noms et prénoms étaient très proches de personnes visées par une mesure de gel, sans aucune vérification. La banque répondait que ces personnes n'étaient pas visées ; la Commission rappelle qu'on lui reproche de n'avoir rien vérifié. Le nouveau logiciel de mars 2017 est une simple mesure correctrice.",
+      "textes": ["arrêté du 3 novembre 2014, art. 47"],
+      "chiffres_cles": ["5 clients aux noms très proches de personnes visées par une mesure de gel, non repérés ni contrôlés", "nouveau logiciel prévu à partir de mars 2017"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief […] est établi. »",
+      "categorie": "gel des avoirs et sanctions financières",
+      "categorie_precision": "filtrage du stock de clients et traitement des homonymies",
+      "categories_secondaires": [],
+      "pages": [6]
+    },
+    {
+      "numero": "5",
+      "titre": "Plus de contrôle de second niveau depuis 2013",
+      "resume": "Les deux contrôles constatent qu'aucun contrôle permanent de second niveau n'est exercé depuis juillet 2013. La personne chargée du « contrôle interne / compliance » disait elle-même que ce n'était pas dans ses tâches, et sa remplaçante a écrit à la direction qu'elle ne pouvait pas le faire, faute d'accès aux dossiers. La banque produit des fiches de poste et un contrat de travail, mais rien qui montre des contrôles réellement faits. Une petite taille ne dispense pas d'avoir deux niveaux de contrôle.",
+      "textes": ["arrêté du 3 novembre 2014, art. 13"],
+      "chiffres_cles": ["aucun contrôle de second niveau depuis juillet 2013", "remplaçante recrutée le 5 novembre 2015, alerte écrite à la direction le 4 février 2016"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi. »",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "contrôle permanent de second niveau",
+      "categories_secondaires": [],
+      "pages": [7]
+    },
+    {
+      "numero": "6",
+      "titre": "Des comptes 2014 ni certifiés ni publiés",
+      "resume": "Après le départ du responsable comptable en janvier 2015, puis de son assistant, la succursale n'a plus eu de service comptable jusqu'en septembre 2015. Le commissaire aux comptes a refusé de certifier les comptes 2014, faute de rapprochements bancaires sur deux comptes et à cause d'une incertitude sur des garanties. Ces comptes n'ont été publiés qu'en octobre 2017. La Commission juge ce manquement d'une « particulière gravité ».",
+      "textes": ["CMF L. 511-37"],
+      "chiffres_cles": ["départ du responsable comptable le 27 janvier 2015, nouveau responsable en septembre 2015", "refus de certification le 21 septembre 2015", "comptes 2014 publiés en octobre 2017"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi » ; faits non contestés.",
+      "categorie": "autre (à préciser)",
+      "categorie_precision": "grief hors LCB-FT : publication des comptes annuels",
+      "categories_secondaires": [],
+      "pages": [7, 8, 10]
+    },
+    {
+      "numero": "7",
+      "titre": "Aucune procédure pour choisir les risques de crédit",
+      "resume": "Les deux contrôles constatent l'absence de procédure de sélection des risques de crédit : la procédure du groupe n'avait pas été adaptée à la succursale, et ses systèmes de mesure et de surveillance des risques n'étaient pas décrits. Des procédures étaient « en cours d'approbation au siège », ce qui ne compte que comme mesure correctrice.",
+      "textes": ["arrêté du 3 novembre 2014, art. 106 et 255"],
+      "chiffres_cles": ["nouvelle délégation de crédit du siège reçue en septembre 2015"],
+      "issue": "retenu",
+      "precision_issue": "Grief non contesté, « qui est établi ».",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "grief hors LCB-FT : procédures de sélection et de mesure du risque de crédit",
+      "categories_secondaires": [],
+      "pages": [8]
+    },
+    {
+      "numero": "8",
+      "titre": "Des découverts de plusieurs millions sans analyse",
+      "resume": "À partir de 2012, la succursale a accordé à ses deux principales sociétés clientes de gros découverts sans analyser leur situation financière, malgré les réserves du commissaire aux comptes et du responsable de la conformité. Celui de la seconde a continué de se creuser. La succursale acceptait des remises de chèques pour couvrir les prélèvements, un crédit de fait : les chèques impayés ont aggravé le découvert. Un virement reçu en 2015 a réduit le découvert de 120 000 euros avant d'être annulé 8 mois plus tard. Mettre en cause un ancien dirigeant n'exonère pas la banque.",
+      "textes": ["arrêté du 3 novembre 2014, art. 107, 115 et 118"],
+      "chiffres_cles": ["découverts au 20 août 2015 : 1,2 million d'euros (A1) et 4,5 millions d'euros (A2)", "découvert de A2 : 5,54 millions d'euros en février 2016", "chèques non recouvrés : 2,27 millions d'euros", "découvert minoré de 120 000 euros en 2015 par un virement extourné 8 mois plus tard"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi. »",
+      "categorie": "autre (à préciser)",
+      "categorie_precision": "grief hors LCB-FT : appréciation et gestion du risque de crédit",
+      "categories_secondaires": [],
+      "pages": [8, 9]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "Des « carences majeures » d'organisation, dans « un climat général de désorganisation et de laisser-aller », selon le premier rapport de contrôle.", "pages": [10]},
+      {"texte": "Des défaillances déjà relevées en 2010, y compris en LCB-FT et en gel des avoirs, et une promesse d'amélioration du contrôle interne restée sans effet.", "pages": [3, 10]},
+      {"texte": "L'impossibilité de publier ses comptes et l'absence de procédure de sélection des risques sont jugées d'une « particulière gravité » ; les deux relations d'affaires ont causé des pertes importantes au regard de la taille de la succursale.", "pages": [10]}
+    ],
+    "elements_attenuants": [
+      {"texte": "Manquements de LCB-FT « plus limités » en raison du faible nombre de clients concernés et de la réduction du périmètre de certains griefs.", "pages": [10]},
+      {"texte": "Actions correctrices prises en compte « dans une certaine mesure », même tardives ; première mise en cause de la succursale devant la Commission.", "pages": [10, 11]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Désignation de deux dirigeants comme déclarants et correspondants Tracfin le 3 mars 2016 ; déclarations de soupçon envoyées le 4 mai 2016 dans les trois dossiers.", "pages": [5, 10]},
+      {"texte": "Nouveau logiciel de filtrage prévu à partir de mars 2017.", "pages": [6]},
+      {"texte": "Reconstitution du service comptable et nouveaux auditeurs pour les comptes 2014 à partir de juin 2016 ; procédures de crédit en cours d'approbation au siège.", "pages": [7, 8, 9]}
+    ],
+    "situation_financiere": {"texte": "Pertes nettes de 2,8 millions d'euros en 2015 et de 1,8 million d'euros en 2016 ; fonds propres de 8,5 millions d'euros au 30 juin 2017, en cours de renforcement par le siège. Amende fixée « au regard de l'assise financière » de la succursale.", "pages": [3, 11]},
+    "cause_profonde": {"texte": "En partie expliquée : la décision relie les manquements à une désorganisation ancienne de la succursale, sans contrôle interne réel, avec des départs non remplacés (comptabilité, déclarant Tracfin) et une procédure de groupe jamais adaptée au niveau local.", "pages": [5, 7, 8, 10]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Aucun crédit ni découvert n'est-il accordé avant que le dossier d'identification du client et de ses bénéficiaires effectifs soit complet ?",
+      "Un changement d'actionnaire ou de dirigeant d'une société cliente déclenche-t-il la mise à jour de son dossier ?",
+      "Un déclarant et correspondant Tracfin suppléant est-il désigné, et l'ACPR et Tracfin sont-ils informés de chaque changement ?",
+      "Une proposition de déclaration de soupçon faite par le contrôle interne reçoit-elle une décision écrite dans un délai fixé ?",
+      "Les virements entre sociétés d'un même groupe client sont-ils analysés et justifiés ?",
+      "Tout le portefeuille de clients est-il filtré contre les listes de gel à chaque mise à jour, et chaque homonymie est-elle levée par écrit ?",
+      "Peut-on montrer des contrôles de second niveau effectivement réalisés, avec leurs résultats, même dans une petite entité ?",
+      "Le départ d'une personne qui tient une fonction clé (comptabilité, déclarant, conformité) est-il anticipé et remplacé sans délai ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["succursale de banque étrangère", "ambassade", "bénéficiaire effectif", "Kbis", "déclarant et correspondant Tracfin", "virements intragroupe", "filtrage du stock de clients", "homonymie", "contrôle de second niveau", "dirigeant effectif mis hors de cause", "risque de crédit", "comptes non certifiés"],
+    "pages_prioritaires": [
+      {"pages": [3, 4], "pourquoi": "l'identification des sociétés clientes et de leurs bénéficiaires effectifs"},
+      {"pages": [5, 6], "pourquoi": "les déclarations de soupçon manquées et le gel des avoirs"},
+      {"pages": [9, 10], "pourquoi": "pourquoi le directeur général est mis hors de cause"},
+      {"pages": [10, 11], "pourquoi": "le raisonnement sur la sanction"}
+    ],
+    "confiance": "élevée",
+    "a_verifier": [
+      "Page 4, la décision fait entrer les sociétés A1 et A2 en relation les 18 octobre 2011 et 19 juin 2012 ; au considérant 7, elle date du 18 octobre 2011 l'entrée en relation de A2. Coquille probable (les pages 5 et 6 confirment : compte de A2 ouvert le 19 juin 2012, de A1 le 18 octobre 2011). Non corrigée dans la fiche, qui évite ces dates.",
+      "Grief 1 : le sous-grief 1-2 n'a pas de phrase de conclusion propre ; le grief est classé « retenu en partie » à cause des sous-griefs 1-1 et 1-3, réduits.",
+      "Griefs 6, 7 et 8 sont hors LCB-FT (comptes annuels, risque de crédit). Le grief 5 (contrôle de second niveau) est compté comme les fiches 2019-04 et 2019-07.",
+      "Décision nominative pour la banque. La base indique une publication « à vérifier » parce que le titre cite aussi le directeur général : la fiche ne nomme aucune personne physique (dirigeants, salariés, associés des sociétés clientes).",
+      "J'ai remplacé « congé-maladie » par « absente » pour la déclarante Tracfin, et laissé de côté les « poursuites » visant un ancien dirigeant : ces détails personnels n'apportent rien au manquement."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Opus 5.5), à partir du texte extrait du PDF officiel", "date": "2026-11-13", "relue_par_mateo": false}
+}

@@ -1,0 +1,191 @@
+{
+  "id": "ACPR-2016-09",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT",
+  "resume_court": "La Caisse régionale de Crédit Agricole Atlantique Vendée est une banque coopérative de la région nantaise, avec environ 860 000 clients. Sa grille des risques de blanchiment était celle du groupe, recopiée sans adaptation, alors que l'inspection du groupe l'avait signalé dès 2012 : rien sur sa clientèle de banque privée, rien sur les clients britanniques et irlandais dont l'ouverture de compte était confiée à une autre caisse. Pour ses 15 clients « politiquement exposés », elle ignorait l'origine de leur patrimoine. Elle avait dispensé 251 clients de certains scénarios d'alerte sur les espèces, et 1 250 alertes sur 5 134 ont été closes en 2014 sans explication valable. Les examens renforcés se contentaient souvent des déclarations du client. Vingt-huit dossiers auraient dû être déclarés à Tracfin, comme un cordonnier qui dépose bien plus d'espèces que son chiffre d'affaires. La caisse soutenait que les petites fraudes fiscales n'avaient pas à être déclarées : la Commission répond que la loi ne fixe aucun seuil. Elle retient les huit griefs, dont deux en partie. Sanction : un blâme et 2 millions d'euros (le Collège en demandait 3), en tenant compte des moyens importants engagés depuis.",
+  "identite": {
+    "etablissement": "Caisse régionale de Crédit Agricole Mutuel Atlantique Vendée",
+    "type_etablissement": "établissement de crédit",
+    "precision_type": "Société coopérative à capital variable agréée comme établissement de crédit, née en janvier 2002 de la fusion des caisses de Loire-Atlantique et de Vendée. Elle a une activité de banque privée et confie l'ouverture de compte de clients anglais et irlandais (enseigne « Britline ») à la Caisse régionale de Normandie, et le contrôle de ses flux internationaux à un service de la Caisse régionale Anjou Maine.",
+    "groupe": "Groupe Crédit Agricole",
+    "pays": "France",
+    "activite_et_taille": "2 160 collaborateurs et environ 860 000 clients lors du contrôle. Fonds propres consolidés de 2,38 milliards d'euros fin 2015 et 2,5 milliards d'euros fin 2016. Produit net bancaire de 460 et 429 millions d'euros, résultat net part du groupe de 131 et 114 millions d'euros, en 2015 et 2016.",
+    "pages": [2, 3, 8]
+  },
+  "controle": {
+    "controle_sur_place": "du 12 janvier au 31 juillet 2015",
+    "rapport_de_controle": "signé le 22 février 2016",
+    "ouverture_de_la_procedure": "décidée par le Collège (sous-collège sectoriel de la banque) le 20 octobre 2016 ; lettre de saisine et notification des griefs du 14 novembre 2016",
+    "antecedents": "Pas de sanction antérieure mentionnée. Une mission de l'inspection générale du groupe Crédit Agricole avait relevé en 2012 que la caisse n'avait pas adapté la classification des risques du groupe.",
+    "pages": [1, 3]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 2000000,
+    "publication": "nominative",
+    "duree_publication_nominative": "non précisée : la décision ordonne une publication au registre de l'ACPR, sans limite de durée ; la caisse demandait l'absence de publication ou, à défaut, une publication anonyme",
+    "proposition_du_college": "blâme et 3 millions d'euros, publication nominative",
+    "pages": [1, 2, 12]
+  },
+  "procedure": {
+    "questions_de_procedure": "Pas de question de procédure. La caisse contestait une partie des griefs, soulignait l'absence d'intention et une réorganisation en cours, et demandait un simple avertissement. Audience non publique le 14 juin 2017, à sa demande. Le rapporteur concluait que 7 des 8 griefs étaient établis (la décision ne dit pas lequel il écartait). La poursuite a abandonné un dossier du grief 6 et un dossier du grief 8.",
+    "pages": [1, 7, 10]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "La grille des risques du groupe, recopiée sans adaptation",
+      "resume": "La caisse reprenait telle quelle la classification des risques du groupe, contrairement aux instructions du groupe lui-même et alors que son inspection générale l'avait relevé en 2012. Rien n'y couvrait les clients britanniques et irlandais (« Britline »), dont l'entrée en relation était confiée à la caisse de Normandie : confier une tâche à un autre ne supprime pas le risque. Rien non plus sur la banque privée, dont les risques avaient été soulignés par le GAFI en 2012 et par l'ACPR en 2014, et où 4 défauts de déclaration ont été relevés. La caisse ne conteste pas.",
+      "textes": ["CMF R. 561-38 (I, 2°)", "arrêté du 3 novembre 2014, art. 57 et 59"],
+      "chiffres_cles": ["mission de l'inspection générale du groupe en 2012", "4 défauts de déclaration de soupçon dans la clientèle de banque privée (A1 à A4)", "lignes directrices de l'ACPR sur la gestion de fortune de mars 2014"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief […] est établi. »",
+      "categorie": "classification des risques",
+      "categorie_precision": "",
+      "categories_secondaires": ["dispositif de groupe, filiales et correspondance bancaire"],
+      "pages": [3, 4]
+    },
+    {
+      "numero": "2",
+      "titre": "Des clients dont on ignorait les revenus",
+      "resume": "Dans 15 dossiers, certains ouverts dès 1966, la caisse ne connaissait pas les revenus du client ; dans 5 autres, ils n'avaient pas été mis à jour depuis 2007 ou 2008. Pour les clients déjà présents en 2009, ces informations devaient être réunies ou actualisées avant le 4 septembre 2010. Faits non contestés ; les dossiers ont depuis été complétés ou les relations arrêtées.",
+      "textes": ["CMF L. 561-6", "CMF R. 561-12", "ordonnance n° 2009-104, art. 19"],
+      "chiffres_cles": ["15 dossiers sans information sur les revenus (comptes ouverts de 1966 à 2013)", "5 dossiers sans mise à jour des revenus depuis 2007 ou 2008", "date limite de mise à jour des clients existants : 4 septembre 2010"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief […] est établi » ; constatations non contestées.",
+      "categorie": "vigilance constante et mise à jour des dossiers",
+      "categorie_precision": "",
+      "categories_secondaires": ["connaissance du client à l'entrée en relation"],
+      "pages": [4]
+    },
+    {
+      "numero": "3",
+      "titre": "Quinze clients politiquement exposés sans origine du patrimoine",
+      "resume": "Aucun des 15 dossiers de clients identifiés comme personnes politiquement exposées (PPE) ne contenait d'information sur l'origine de leur patrimoine et de leurs fonds. La caisse disait n'être que leur banque secondaire, avec de petites opérations. La Commission répond que cette vigilance complémentaire s'applique à toute PPE en relation d'affaires, quelle que soit l'importance des opérations.",
+      "textes": ["CMF R. 561-20 (II, 3°)"],
+      "chiffres_cles": ["15 dossiers de PPE (A25 à A39)"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief […] est établi » ; matérialité non contestée.",
+      "categorie": "personnes politiquement exposées et vigilance renforcée",
+      "categorie_precision": "origine du patrimoine et des fonds",
+      "categories_secondaires": [],
+      "pages": [4, 5]
+    },
+    {
+      "numero": "4",
+      "titre": "251 clients dispensés de scénarios d'alerte sur les espèces",
+      "resume": "Le groupe impose 24 scénarios d'alerte à ses caisses, qui peuvent en ajouter jusqu'à 13. La caisse en avait ajouté 6, mais avait dispensé 251 clients de certains scénarios, surtout ceux qui surveillent les versements d'espèces. Un commerce qui reçoit beaucoup d'espèces peut justifier une appréciation plus souple, pas une absence de surveillance, et 3 défauts de déclaration concernent ces clients. Un scénario pour la clientèle sous surveillance renforcée, avec un seuil de 8 000 euros, n'avait déclenché aucune alerte en 2014, preuve qu'il était mal réglé. Seule correction : 3 clients, et non 5, étaient dispensés à la fois des scénarios S03 et S08.",
+      "textes": ["arrêté du 3 novembre 2014, art. 46"],
+      "chiffres_cles": ["24 scénarios obligatoires et 13 optionnels ; 6 optionnels ajoutés", "251 clients exemptés, dont 89 du scénario S03, 112 du S07 et 24 du S08", "exemptions simultanées : 9 clients (S03 et S07) et 3 clients au lieu de 5 (S03 et S08)", "3 défauts de déclaration chez ces clients (A40 à A42)", "seuil de 8 000 euros du scénario S54 : aucune alerte en 2014"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 4 est établi » ; la légère réduction (3 clients au lieu de 5) « ne remet pas en cause » le grief.",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "exemptions de scénarios et seuil inadapté",
+      "categories_secondaires": [],
+      "pages": [5, 6]
+    },
+    {
+      "numero": "5",
+      "titre": "1 250 alertes closes sans explication",
+      "resume": "En 2014, 1 250 alertes sur 5 134 ont été clôturées sans justification valable, avec des commentaires comme « ras », « aucun commentaire », ou « fermeture de l'alerte pour la raison suivante » sans raison ensuite. D'autres commentaires décrivaient l'activité du client (« activité de restauration rapide ») sans analyser les opérations. La Commission juge qu'un taux aussi élevé d'alertes closes sans trace écrite révèle un défaut dans l'organisation même du suivi, indépendamment des moyens humains et techniques.",
+      "textes": ["arrêté du 3 novembre 2014, art. 46"],
+      "chiffres_cles": ["1 250 alertes sur 5 134 clôturées sans justification valable en 2014"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est donc établi. »",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "alertes closes sans analyse écrite",
+      "categories_secondaires": [],
+      "pages": [6, 7]
+    },
+    {
+      "numero": "6",
+      "titre": "Des examens renforcés sans justificatifs",
+      "resume": "Sur un échantillon de 26 des 520 examens renforcés déclarés à l'ACPR pour 2014, la plupart portaient sur d'importants dépôts d'espèces et ont été clos sans document sur l'origine des fonds. La caisse ne connaissait pas assez le client, se contentait de ses déclarations ou n'analysait rien. La Commission précise qu'un examen renforcé est une analyse détaillée, appuyée sur des justificatifs, qui finit par un classement ou une déclaration. Deux dossiers sont retirés : l'un abandonné par la poursuite, l'autre parce que la caisse avait bloqué l'opération quand le client refusait de répondre.",
+      "textes": ["CMF L. 561-10-2 (II)"],
+      "chiffres_cles": ["échantillon de 26 des 520 examens renforcés de 2014", "21 dossiers de dépôts d'espèces importants et 5 dossiers sans justificatifs suffisants", "périmètre ramené de 26 à 24 dossiers", "mode opératoire sur l'examen renforcé rédigé le 3 juin 2016"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Établi dans un périmètre ramené de 26 à 24 dossiers. »",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [7]
+    },
+    {
+      "numero": "7",
+      "titre": "Des pans entiers sans contrôle interne",
+      "resume": "Aucun contrôle permanent adapté sur les entrées en relation et les bilans patrimoniaux de la banque privée, ni de contrôle de second niveau sur les chèques. Les deux prestataires « essentiels », les caisses d'Anjou Maine et de Normandie, échappaient à tout contrôle permanent comme périodique : une clause dans une convention ne prouve pas qu'un contrôle a été fait. Le contrôle interne n'a pas vu les alertes closes sans analyse. Enfin, le programme de contrôle de 2014 n'a été que partiellement réalisé.",
+      "textes": ["arrêté du 3 novembre 2014, art. 71, 72 et 73"],
+      "chiffres_cles": ["14 typologies de contrôle sur 22 réalisées partiellement pour les entrées en relation en 2014", "8 typologies sur 12 réalisées partiellement pour le dispositif LCB-FT"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief […] est établi. »",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "contrôle permanent et périodique, prestataires externes",
+      "categories_secondaires": ["dispositif de groupe, filiales et correspondance bancaire"],
+      "pages": [8, 9]
+    },
+    {
+      "numero": "8",
+      "titre": "Vingt-huit déclarations manquées, même pour de « petites » fraudes",
+      "resume": "Dans 20 dossiers, des dépôts d'espèces ou des virements importants ne collaient pas avec les revenus ou l'activité connus, et la caisse admet le défaut de déclaration. Dans les dossiers de soupçon de fraude fiscale, la caisse soutenait qu'il ne fallait pas déclarer en dessous de 50 000 euros. La Commission répond que la loi ne fixe aucun montant, seulement des critères, et que le reproche porte sur le blanchiment du produit de la fraude. Exemples : un retraité aux revenus déclarés de 4 200 euros par an reçoit 138 000 euros en 2014 ; un cordonnier au chiffre d'affaires de 38 500 euros dépose 83 600 euros d'espèces ; six virements venus de Russie pour 125 520 euros. Trois dossiers sont écartés, dont celui d'une ostréicultrice dont l'activité varie fortement d'une année à l'autre.",
+      "textes": ["CMF L. 561-15 (I, II et V bis)", "CMF D. 561-32-1"],
+      "chiffres_cles": ["31 dossiers reprochés, grief retenu pour 28", "20 dossiers au titre du I ou du V bis, dont 15 de versements d'espèces où la caisse admet le défaut", "retraité : 4 200 euros de revenus annuels déclarés, 138 000 euros crédités en 2014 dont 74 000 euros en espèces", "cordonnier : chiffre d'affaires de 38 500 euros en 2013 ; 107 900 euros crédités en 2014, dont 83 600 euros de dépôts d'espèces", "6 virements de Russie pour 125 520 euros entre février et mars 2014", "entreprise au chiffre d'affaires de 479 000 euros en 2013 ; 1 468 000 euros crédités en 2014, dont 707 900 euros en espèces"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Le grief 8 est constitué pour 28 dossiers » sur 31 : A61 et A78 écartés, A77 abandonné par la poursuite.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "fraude fiscale : pas de seuil de montant",
+      "categories_secondaires": [],
+      "pages": [9, 10, 11]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "Des manquements « nombreux » en matière d'examen renforcé et de déclaration, qui concernent notamment des opérations ayant déclenché des alertes.", "pages": [11, 12]},
+      {"texte": "La caisse a reconnu que son dispositif « présentait des risques opérationnels et des risques de non-conformité ». La nomination récente d'un nouveau responsable de la conformité ne change rien : les règles s'appliquent de manière continue.", "pages": [12]}
+    ],
+    "elements_attenuants": [
+      {"texte": "La direction générale a « rapidement pris les décisions qui s'imposaient » et a marqué à l'audience son « ferme engagement » ; ces actions sont prises en compte « dans une certaine mesure ».", "pages": [12]},
+      {"texte": "Quelques reproches relatifs à des dossiers individuels ont été écartés.", "pages": [11]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Budget de 3 millions d'euros pour la LCB-FT et 1,4 million d'euros par an de dépenses supplémentaires, dont un renforcement « très significatif » des équipes de conformité ; nombreuses formations ; audit externe prévu.", "pages": [12]},
+      {"texte": "Suppression des exemptions de scénarios et révision des seuils de l'outil d'alerte.", "pages": [6]},
+      {"texte": "Dossiers clients complétés ou relations arrêtées ; clients PPE complétés, fermés ou mis sous vigilance renforcée ; déclaration envoyée à Tracfin dans chaque dossier reproché.", "pages": [4, 5, 11]}
+    ],
+    "situation_financiere": {"texte": "Fonds propres consolidés de 2,5 milliards d'euros fin 2016 ; résultat net part du groupe de 114 millions d'euros en 2016. Amende fixée « au regard de l'assise financière » de la caisse.", "pages": [2, 3, 12]},
+    "cause_profonde": {"texte": "Non précisé de façon explicite. La décision relève une classification du groupe jamais adaptée malgré une alerte de 2012, des activités confiées à d'autres caisses sorties du champ du contrôle, et des seuils internes que la caisse plaçait au-dessus de la loi (exemptions, seuil implicite pour la fraude fiscale).", "pages": [3, 5, 8, 10]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "La classification des risques du groupe a-t-elle été adaptée à l'entité (activités propres, clientèles particulières, activités confiées à un prestataire) ?",
+      "Une recommandation de l'inspection du groupe est-elle suivie jusqu'à sa mise en œuvre ?",
+      "Les revenus et le patrimoine des clients anciens ont-ils été recueillis et sont-ils mis à jour régulièrement ?",
+      "Le dossier de chaque PPE contient-il l'origine du patrimoine et des fonds, même si l'établissement n'est que sa banque secondaire ?",
+      "Chaque exemption de scénario d'alerte est-elle justifiée, limitée dans le temps et revue ?",
+      "Un scénario qui ne déclenche aucune alerte sur un an est-il réexaminé ?",
+      "Une alerte peut-elle être close sans un commentaire qui analyse les opérations ?",
+      "Un examen renforcé est-il clos seulement avec des justificatifs, ou par une déclaration à Tracfin ?",
+      "Les prestataires qui font une partie du dispositif (ouverture de compte, contrôle des flux) sont-ils dans le plan de contrôle permanent et périodique ?",
+      "Les soupçons de fraude fiscale sont-ils examinés selon les critères réglementaires, sans seuil de montant interne ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["caisse régionale", "classification des risques du groupe", "banque privée", "Britline", "externalisation", "personnes politiquement exposées", "exemptions de scénarios", "alertes closes sans analyse", "examen renforcé", "fraude fiscale", "critères de déclaration", "prestataires essentiels"],
+    "pages_prioritaires": [
+      {"pages": [3, 4], "pourquoi": "la classification non adaptée et les activités externalisées"},
+      {"pages": [5, 6], "pourquoi": "les exemptions de scénarios d'alerte"},
+      {"pages": [7], "pourquoi": "ce qu'est un examen renforcé selon la Commission"},
+      {"pages": [10], "pourquoi": "pourquoi il n'y a pas de seuil pour déclarer un soupçon de fraude fiscale"}
+    ],
+    "confiance": "élevée",
+    "a_verifier": [
+      "Grief 4 : « le grief 4 est établi » malgré une petite réduction (3 clients au lieu de 5) que la Commission juge sans effet : classé « retenu ».",
+      "Grief 8 : 28 dossiers sur 31, soit 20 sur 21 au titre du I et du V bis (A61 écarté) et 8 sur 10 au titre du II (A77 abandonné, A78 écarté) ; le total de 28 est celui de la décision (p. 11).",
+      "Grief 8 : le chiffre de 50 000 euros est celui que la caisse invoquait, pas une règle.",
+      "Le rapporteur proposait d'écarter un des 8 griefs, sans que la décision dise lequel.",
+      "Je n'ai pas repris la nationalité ni la situation familiale des clients cités (seulement leur profession quand elle explique l'incohérence)."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Opus 5.5), à partir du texte extrait du PDF officiel", "date": "2026-11-13", "relue_par_mateo": false}
+}

@@ -1,0 +1,124 @@
+{
+  "id": "ACPR-2017-08",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT",
+  "resume_court": "L'« établissement de crédit B » est une banque de détail généraliste. Fin 2016, Tracfin signale à l'ACPR une de ses clientes : elle avait fait 4 virements, pour 650 euros au total, à une personne détenue pour sa participation supposée à des faits de terrorisme, puis retiré beaucoup d'espèces juste après avoir obtenu un crédit à la consommation de 20 000 euros. La banque n'avait rien vu. Son outil de surveillance automatique n'avait aucun scénario pour repérer un crédit à la consommation suivi de retraits d'espèces, alors que ce risque de financement du terrorisme était signalé par les autorités depuis 2014 et figurait même dans sa propre procédure interne de 2015. En agence, la cliente a obtenu plusieurs relèvements du plafond de sa carte et retiré 9 000 euros en 3 jours, avec des explications parfois contradictoires, sans qu'on lui demande le moindre justificatif. Une recherche très simple sur son compte aurait fait apparaître les virements. Le personnel était mal informé et peu formé. La Commission retient les trois griefs, dont deux en partie. Sanction : un blâme et 8 millions d'euros (le Collège en demandait 10), publiés sans le nom de la banque, parce que les alertes des autorités sur ce risque étaient alors récentes et générales.",
+  "identite": {
+    "etablissement": "anonymisé (« établissement de crédit B »)",
+    "type_etablissement": "établissement de crédit",
+    "precision_type": "Société anonyme à conseil d'administration agréée comme établissement de crédit. La Commission la décrit comme un « établissement généraliste », qui distribue largement le crédit à la consommation, et la compare aux « établissements de crédit de taille comparable ». Elle applique une « instruction groupe » sur la LCB-FT.",
+    "groupe": "non précisé (la décision mentionne seulement une « instruction groupe »)",
+    "pays": "non précisé",
+    "activite_et_taille": "Non précisé. La décision ne donne ni le nombre de clients ni les résultats ; l'amende est fixée « au regard de l'assise financière » de la banque.",
+    "pages": [3, 4, 11]
+  },
+  "controle": {
+    "controle_sur_place": "du 27 décembre 2016 au 3 février 2017, à la suite d'une note du directeur de Tracfin du 19 décembre 2016 sur une cliente de la banque",
+    "rapport_de_controle": "signé le 17 mars 2017",
+    "ouverture_de_la_procedure": "décidée par le Collège (formation restreinte) le 11 juillet 2017 ; lettre de saisine et notification des griefs du 26 juillet 2017",
+    "antecedents": "non précisé",
+    "pages": [1, 2, 3]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 8000000,
+    "publication": "anonymisée",
+    "duree_publication_nominative": "aucune : publication anonyme décidée d'emblée, comme la banque le demandait, en raison des éléments d'atténuation",
+    "proposition_du_college": "blâme et 10 millions d'euros, publication nominative",
+    "pages": [1, 2, 11]
+  },
+  "procedure": {
+    "questions_de_procedure": "Pas de question de procédure. La banque contestait tous les griefs sauf l'information du personnel (sous-grief 3.1), et demandait que la Commission tienne compte des difficultés de toute la profession pour paramétrer des scénarios de détection du financement du terrorisme. Audience non publique le 22 février 2018, à sa demande. La Commission précise qu'elle juge les faits selon les textes en vigueur avant la réforme du 1er décembre 2016, dont les exigences sont au moins équivalentes. Le rapporteur concluait que les 3 griefs étaient entièrement établis, mais que la portée du grief 1 devait être relativisée.",
+    "pages": [1, 2, 3]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Aucun scénario pour un crédit à la consommation suivi de retraits d'espèces",
+      "resume": "L'outil automatique « Y », qui repère les opérations atypiques, n'avait aucun scénario lié au crédit à la consommation, et ne pouvait ni additionner les retraits d'espèces d'un même client sur un mois glissant, ni ceux faits sur plusieurs comptes. La banque disait que personne ne l'avait alertée sur ce risque. La Commission répond que les textes sont clairs, que Tracfin (rapport publié en juillet 2014), le ministère des finances (plan de mars 2015), les lignes directrices de l'ACPR et de Tracfin (novembre 2015) et la presse après les attentats de janvier 2015 l'avaient signalé, et que sa propre procédure de 2015 citait le crédit à la consommation comme moyen de financer le terrorisme. Elle juge aussi un tel scénario faisable : les deux scénarios ajoutés en juillet 2017 ont donné un nombre d'alertes exploitable. Le reproche d'un seuil de 50 000 euros par mois trop élevé est abandonné, ce scénario visant d'autres fraudes.",
+      "textes": ["arrêté du 3 novembre 2014, art. 46, 49 et 50"],
+      "chiffres_cles": ["seuil du scénario de retraits d'espèces des particuliers : 50 000 euros par mois (reproche abandonné)", "0,3 % des prêts à la consommation de janvier à novembre 2016 suivis, dans les 31 jours, de retraits de plus de 50 % du prêt et de plus de 10 000 euros", "scénarios ajoutés en juillet 2017 : 284 alertes, 27 déclarations de soupçon, dont 4 pour financement du terrorisme", "part des dispositifs automatiques dans la détection des cas possibles de financement du terrorisme : 26 % en 2016 et 12 % en 2017", "travaux sur un nouvel outil commencés en avril 2016 seulement"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Dans un périmètre très légèrement réduit » par l'abandon du reproche sur le seuil trop élevé, « le grief 1 est établi ».",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "risque de financement du terrorisme par crédit à la consommation et retraits d'espèces",
+      "categories_secondaires": [],
+      "pages": [3, 4, 5, 6]
+    },
+    {
+      "numero": "2",
+      "titre": "Une cliente qui retire son crédit en espèces, sans aucune question",
+      "resume": "La cliente obtient un crédit à la consommation non affecté de 20 000 euros, débloqué le 14 octobre 2016, soit environ 18 mois de salaire. Les jours suivants, elle obtient des relèvements du plafond de sa carte, après un « accrochage » avec le directeur d'agence, puis va dans une autre agence : 9 000 euros retirés en 3 jours. Ses explications varient (payer une partie d'une voiture, rembourser ses études à sa mère, financer des travaux dans un bar en Belgique) et ne collent pas avec le motif donné pour ouvrir un second compte. La banque s'est contentée de ses déclarations, sans justificatif, et lui a encore accordé un prêt renouvelable de 5 000 euros. Un examen du compte aurait montré les virements à une personne détenue pour terrorisme et des dépenses en Belgique depuis plusieurs mois. Faute de cet examen, la banque n'a pas pu faire de déclaration à Tracfin. La Commission précise que cet examen s'imposait même sans changement d'apparence de la cliente ni opération avec un pays à risque.",
+      "textes": ["CMF L. 561-6", "CMF L. 561-10-2 (II)", "CMF L. 561-15 (I)"],
+      "chiffres_cles": ["4 virements pour un montant total de 650 euros, du 25 juillet au 24 octobre 2016, au profit d'une personne détenue", "crédit à la consommation de 20 000 euros demandé le 29 septembre 2016, débloqué le 14 octobre 2016", "taux d'endettement après le prêt : 21,67 %", "retraits de 3 000 euros les 19, 20 et 21 octobre 2016 : 9 000 euros en 3 jours", "2 000 euros retirés le 10 novembre 2016 sur un second compte ouvert le 3 novembre 2016", "second prêt renouvelable de 5 000 euros, retiré à 40 % presque aussitôt"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 2 est entièrement établi » ; « le grief 2 est établi ».",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "opérations atypiques non examinées après un crédit à la consommation",
+      "categories_secondaires": ["vigilance constante et mise à jour des dossiers", "déclarations de soupçon à Tracfin"],
+      "pages": [3, 7, 8, 9]
+    },
+    {
+      "numero": "3",
+      "titre": "Un intranet pas à jour et des formations anciennes",
+      "resume": "Sous-grief 3.1, non contesté : au 3 février 2017, la page de l'intranet consacrée à la LCB-FT ne citait comme exemple de techniques de blanchiment qu'un rapport belge de 2010, et ignorait les rapports de Tracfin, les lignes directrices de 2015 de l'ACPR, celles sur le gel des avoirs et le décret de novembre 2016 sur le crédit à la consommation. Sous-grief 3.2 : tout le personnel des agences n'avait pas suivi la formation à distance mise à jour en 2015, et les deux directeurs d'agence du dossier n'avaient suivi que des modules anciens (2011, 2012, 2013), en dehors d'un module sur les sanctions internationales. La banque montre qu'une partie de la formation se faisait en salle, ce qui réduit le reproche, mais ne peut dire combien de salariés l'ont suivie. Des flashs d'information ne remplacent pas une formation.",
+      "textes": ["CMF L. 561-33", "arrêté du 3 novembre 2014, art. 45"],
+      "chiffres_cles": ["seule source citée par l'intranet pour les techniques de blanchiment : le rapport d'activités 2010 de la cellule de renseignement financier belge", "modules de formation à distance des deux directeurs d'agence : 2011, 2012, 2013"],
+      "issue": "retenu en partie",
+      "precision_issue": "Sous-grief 3.1 établi ; sous-grief 3.2 établi « dans un périmètre réduit » ; « sous réserve de cette réduction de périmètre, le grief 3 est établi ».",
+      "categorie": "gouvernance, moyens et formation",
+      "categorie_precision": "information et formation du personnel des agences",
+      "categories_secondaires": [],
+      "pages": [9, 10]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "La carence de l'outil automatique « n'a pas été palliée par la vigilance humaine » : les retraits de la cliente ont au contraire été « facilités » avant qu'un second crédit lui soit accordé. Le financement du terrorisme demande « un niveau de vigilance et de réactivité supérieur ».", "pages": [10]},
+      {"texte": "La banque avait elle-même identifié les relèvements de plafond de carte et les opérations liées au crédit à la consommation comme des « signaux faibles » à surveiller, et un dirigeant l'avait rappelé aux responsables conformité en novembre 2015.", "pages": [7, 8]}
+    ],
+    "elements_attenuants": [
+      {"texte": "D'« importants efforts » pour mettre à niveau le dispositif, avec le renforcement de l'outil existant et un nouvel outil.", "pages": [11]},
+      {"texte": "Les communications des autorités sur ce risque étaient « encore récentes et générales » : ce n'est qu'en février 2018 que les lignes directrices de l'ACPR et de Tracfin évoquent précisément les retraits d'espèces après un crédit à la consommation.", "pages": [11]},
+      {"texte": "Les établissements de taille comparable étaient, eux aussi, « en phase de réflexion et d'échange » sur ce risque, et le débat s'est poursuivi dans la profession (lettre de la Fédération bancaire française).", "pages": [11]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Deux scénarios sur les crédits à la consommation suivis de retraits d'espèces ajoutés à l'outil « Y » en juillet 2017.", "pages": [6]},
+      {"texte": "Nouvel outil de détection en expérimentation depuis 2016, alimenté avec les données des comptes des particuliers depuis avril 2017.", "pages": [6]},
+      {"texte": "Page de l'intranet consacrée à la lutte contre le financement du terrorisme, nouveaux modules de formation à distance, planning de formation du réseau et document diffusé en septembre 2017.", "pages": [9, 10]}
+    ],
+    "situation_financiere": {"texte": "Non chiffrée dans la décision. L'amende est fixée « dans le respect du principe de proportionnalité au regard de l'assise financière » de la banque.", "pages": [11]},
+    "cause_profonde": {"texte": "En partie expliquée : la Commission estime que le retard dans l'information et la formation du personnel « peut expliquer pour partie les carences relevées dans le dossier » de la cliente. Pour l'outil automatique, la banque a tardé à traduire en scénarios un risque qu'elle avait pourtant décrit dans sa procédure de 2015.", "pages": [5, 10]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Chaque risque décrit dans la procédure interne ou signalé par Tracfin a-t-il été traduit en scénario dans l'outil de surveillance, ou son absence est-elle justifiée par écrit ?",
+      "L'outil additionne-t-il les retraits d'espèces d'un même client sur une période glissante et sur tous ses comptes ?",
+      "Un crédit à la consommation suivi rapidement de retraits d'espèces importants déclenche-t-il une alerte ?",
+      "Une demande répétée de relèvement du plafond de carte est-elle signalée à la conformité, avec un justificatif demandé au client ?",
+      "Lors d'un examen renforcé, analyse-t-on l'historique du compte, y compris les bénéficiaires des virements ?",
+      "La veille réglementaire (rapports de Tracfin, lignes directrices de l'ACPR, nouveaux textes) est-elle reportée rapidement dans l'information du personnel ?",
+      "Peut-on prouver qui a suivi quelle formation LCB-FT, et quand, en particulier pour les directeurs d'agence ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["financement du terrorisme", "crédit à la consommation", "retraits d'espèces", "déplafonnement de carte", "signaux faibles", "scénario de détection", "agrégation des comptes", "examen renforcé", "formation du personnel", "veille réglementaire"],
+    "pages_prioritaires": [
+      {"pages": [4, 5], "pourquoi": "pourquoi l'argument « personne ne nous avait prévenus » est rejeté"},
+      {"pages": [6], "pourquoi": "la preuve qu'un scénario était faisable (alertes exploitables)"},
+      {"pages": [7, 8], "pourquoi": "le dossier de la cliente, retrait par retrait"},
+      {"pages": [10, 11], "pourquoi": "le raisonnement sur la sanction et l'anonymisation"}
+    ],
+    "confiance": "élevée",
+    "a_verifier": [
+      "Griefs 1 et 3 : « périmètre (très légèrement) réduit » est classé « retenu en partie », selon la règle du projet, alors que le rapporteur jugeait les trois griefs « entièrement établis ».",
+      "Page 3, la décision écrit que 9 000 euros ont été retirés « en trois jours à compter du 14 octobre 2016 » ; page 7, les retraits ont lieu les 19, 20 et 21 octobre (le 14 est la date du déblocage du prêt). J'ai suivi la page 7.",
+      "Grief 3 : page 9, la dernière formation des deux directeurs « date de 2011 » ; page 10, leurs modules datent de « 2011, 2012, 2013 ». J'ai repris la page 10.",
+      "Le motif « travaux dans un bar à chicha en Belgique » est résumé en « travaux dans un bar en Belgique » : le détail n'ajoute rien au manquement.",
+      "Je n'ai repris aucun détail sur la cliente au-delà de ce qui sert à comprendre les opérations ; elle n'est désignée que par « Mme X » dans la décision."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Opus 5.5), à partir du texte extrait du PDF officiel", "date": "2026-11-13", "relue_par_mateo": false}
+}
