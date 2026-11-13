@@ -41,6 +41,7 @@ ICI = Path(__file__).resolve().parent
 SORTIE = RACINE / "_site"
 ALERTES = RACINE / "_alertes.txt"
 LIEN_DEPOT = "https://github.com/Mateo180805/sanctions-conformite"
+ADRESSE_SITE = "https://mateo180805.github.io/sanctions-conformite/"
 NOM_SITE = "Sanctions Conformité"
 
 MOIS_COURTS = ["janv.", "févr.", "mars", "avr.", "mai", "juin", "juil.", "août",
@@ -333,10 +334,13 @@ MENU = [("index.html", "Accueil"), ("base.html", "Base"), ("analyse.html", "Anal
         ("methode.html", "Méthode"), ("lexique.html", "Lexique"), ("a-propos.html", "À propos")]
 
 
-def page(chemin, titre, contenu, description, collecte, actif=None, scripts=""):
-    """Écrit une page complète (en-tête, menu, contenu, pied de page) dans _site/."""
+def page(chemin, titre, contenu, description, collecte, actif=None, scripts="", absolu=False):
+    """Écrit une page complète (en-tête, menu, contenu, pied de page) dans _site/.
+
+    absolu=True : liens complets (sert à la page 404, qui peut s'afficher à n'importe quelle adresse).
+    """
     profondeur = chemin.count("/")
-    r = "../" * profondeur
+    r = ADRESSE_SITE if absolu else "../" * profondeur
     menu = "".join(
         f'<li><a href="{r}{lien}"{" aria-current=\"page\"" if lien == actif else ""}>{nom}</a></li>'
         for lien, nom in MENU)
@@ -349,6 +353,16 @@ def page(chemin, titre, contenu, description, collecte, actif=None, scripts=""):
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{e(titre_complet)}</title>
 <meta name="description" content="{e(description)}">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="fr_FR">
+<meta property="og:site_name" content="{NOM_SITE}">
+<meta property="og:title" content="{e(titre_complet)}">
+<meta property="og:description" content="{e(description)}">
+<meta property="og:url" content="{ADRESSE_SITE}{'' if chemin == 'index.html' else chemin}">
+<meta property="og:image" content="{ADRESSE_SITE}statique/apercu.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="preload" href="{r}statique/polices/public-sans.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="{r}statique/style.css">
 <link rel="icon" href="{r}statique/icone.svg" type="image/svg+xml">
@@ -770,6 +784,12 @@ def principal():
             fiche_page(l, glossaire, collecte)
     lexique_page(glossaire, collecte)
     pages_fixes(lignes, collecte)
+    page("404.html", "Page introuvable", """<div class="titre-page"><h1>Page introuvable</h1>
+<p class="chapo">Cette adresse ne correspond à aucune page du site. La fiche a peut-être changé d'adresse,
+ou elle a été retirée le temps d'être mise à jour.</p></div>
+<p><a class="bouton" href="base.html">Aller à la base des décisions</a></p>""".replace(
+        'href="base.html"', f'href="{ADRESSE_SITE}base.html"'),
+         "Page introuvable.", collecte, absolu=True)
 
     nb = sum(1 for l in lignes if l["fiche"])
     print(f"Site fabriqué dans _site/ : {len(lignes)} décisions, {nb} fiches publiées.")

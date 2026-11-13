@@ -12,7 +12,7 @@ Dépôt : https://github.com/Mateo180805/sanctions-conformite (public)
 
 - [x] Session 1 : collecte ACPR. Base de 111 décisions (2011 à 2026), mise à jour chaque lundi par GitHub Actions.
 - [x] Session 2 : fiches d'analyse, lots 1 à 6. **31 fiches sur 67 décisions LCB-FT** : toutes les décisions LCB-FT et gel des avoirs rendues entre janvier 2019 et avril 2026. Aucune n'a encore été relue par Matéo (statut « à lire »).
-- [~] Session 3 : le site (GitHub Pages). Construit le 13 novembre (Opus 5.5) ; **à mettre en ligne par Matéo** (activer Pages, déposer, vérifier), puis textes de Matéo et retouches.
+- [x] Session 3 : le site (GitHub Pages), construit avec Opus 5.5 et **en ligne depuis le 13 novembre** (31 fiches vérifiées sur le site publié). Reste : textes de Matéo, relecture de la page Méthode, questions 4, 5 et 13.
 - [ ] Session 4 : étude comparative et liste des points de contrôle, sur les 31 fiches.
 - [ ] Plus tard : les 36 décisions LCB-FT antérieures à 2019, les 44 fiches courtes « hors LCB-FT », puis AMF, CSSF, FINMA.
 
@@ -51,6 +51,7 @@ Lot 6 (13 novembre) :
 
 - **4.** Type d'établissement : regroupement provisoire pour le filtre du site (dictionnaire `TYPES` dans `site/construire.py`) : Banque ; Paiement et monnaie électronique (dont l'office des postes) ; Assurance ; Change manuel ; Financement participatif. La fiche garde le terme exact. À valider. Les décisions sans fiche sont « non renseigné ».
 - **5.** Appliqué sur le site : la fiche fait foi (`suivi.statut` ou `redaction.relue_par_mateo`). Le `statut` de `decisions.json` n'est plus utilisé. `mes_notes` n'est pas publié. À confirmer.
+- **13.** Lien « Source officielle » des décisions anonymisées dont l'adresse ACPR contient encore un nom : le garder, ou renvoyer vers la page du recueil ?
 - **6.** Faut-il une quatrième issue « abandonné par la poursuite » ? Trois griefs concernés (2020-06 grief 13, 2019-07 grief 11, 2017-10 grief 2), classés « écarté » avec précision. D'autres « écartés » ne valident rien non plus (erreur de base légale, preuve insuffisante). À trancher avant l'étude.
 - **10.** Fiche 2018-03 : la date exacte de la sanction de 2015 est tue et les deux fiches ne seront pas reliées sur le site. Choix provisoire de Claude, à confirmer.
 - **11.** Fiche 2018-06 : grief 11 « retenu » ou « retenu en partie » ? Grief 3 bien « hors LCB-FT » ?
@@ -69,7 +70,9 @@ Adresse prévue : https://mateo180805.github.io/sanctions-conformite/
 - **Textes de Matéo** : `site/textes/introduction.txt` et `site/textes/a-propos.txt` (texte simple ; lignes commençant par # ignorées ; une adresse web devient un lien). Tant qu'ils sont vides, un cadre « Emplacement réservé » s'affiche. Textes fixes : `site/pages/methode.html` (écrit à la première personne, **à relire par Matéo**) et `site/pages/analyse.html`.
 - **Garde-fous** : le site ne lit jamais `donnees/textes/`. Noms de personnes physiques retirés des noms d'établissement des décisions sans fiche (2011-03, 2015-01, 2015-04, 2016-08), vérifié sur tout le site. Si l'ACPR anonymise une décision dont la fiche garde un nom (2020-09 fin novembre 2026, 2020-11 février 2027), la fiche est retirée du site, le reste est publié, et la tâche « Site » passe au rouge (e-mail). Il faut alors anonymiser la fiche.
 - **Choix d'affichage** : sur une fiche publique, pas de « points à vérifier » ni de « mes notes » (notes de travail) ; on affiche le statut de relecture, le niveau de confiance, les pages à lire, les mots-clés. Les noms écrits TOUT EN CAPITALES dans le recueil sont remis en minuscules à l'affichage (sigles connus conservés). Le lien « Source officielle » garde l'adresse de l'ACPR, qui contient encore un nom pour quelques décisions anonymisées (visible au survol) : à trancher (remplacer par le lien du recueil ?).
-- **Reste à faire** : mise en ligne et contrôle par Matéo ; ses textes (introduction, À propos, lien LinkedIn) ; relecture de la page Méthode ; graphiques de la page Analyse en session 4.
+- **Ajouts du 13 novembre après mise en ligne** : fond blanc cassé (#faf7f2) et accent plus présent ; transitions discrètes (changement de page, ouverture des griefs, filtres), coupées si l'appareil demande moins d'animations ; aperçu de partage pour LinkedIn (balises Open Graph et image `site/statique/apercu.png`) ; page 404.
+- La base est triée par date de décision, pas par numéro de procédure : 2017-10, 2018-04 et 2018-05 (jugées en 2019) apparaissent parmi les lignes de 2019.
+- **Reste à faire** : textes de Matéo (introduction, À propos, lien LinkedIn) ; relecture de la page Méthode ; graphiques de la page Analyse en session 4.
 
 ## À savoir pour la session 4 (l'étude)
 
@@ -102,7 +105,7 @@ Adresse prévue : https://mateo180805.github.io/sanctions-conformite/
 
 ## Prochaine étape
 
-1. Matéo met le site en ligne (consignes données en session 3) et vérifie l'adresse ci-dessus sur ordinateur et téléphone. Retouches éventuelles dans la même conversation.
+1. Matéo tranche les questions 4, 5 et 13.
 2. Matéo écrit `introduction.txt` et `a-propos.txt`, et relit la page Méthode.
 3. **Session 4 – l'étude comparative**, dans une nouvelle conversation, après avoir tranché les questions 6 et 12.
 
