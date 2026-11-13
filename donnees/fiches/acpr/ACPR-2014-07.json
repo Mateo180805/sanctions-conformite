@@ -1,0 +1,239 @@
+{
+  "id": "ACPR-2014-07",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT",
+  "resume_court": "Generali Vie porte tous les contrats d'assurance vie, de retraite et de prévoyance du groupe Generali en France. Le contrôle de 2012-2013 a trouvé un dispositif très en retard. Les systèmes informatiques des différentes directions ne communiquaient pas, si bien que la conformité ne voyait jamais l'ensemble des contrats d'un même client ; l'outil de requêtes avait produit 34 075 réponses en 2011, dont 462 seulement ont été traitées ; la direction de gestion privée, qui avait collecté 1 milliard d'euros en neuf mois, échappait presque à toute surveillance. Les personnes politiquement exposées n'étaient repérées que si elles se déclaraient, dans une base de 3 millions de noms. Treize dossiers auraient dû être déclarés à Tracfin, dont certains portaient sur des dizaines de millions d'euros : un ancien cadre de l'assureur qui verse 12 millions d'euros sans explication claire, des contrats d'une famille annulés et redistribués en deux mois, et des bons de capitalisation de personnes âgées remboursés à la fille d'un ancien commercial. La Commission retient les douze griefs, dont trois en partie, et juge que ces carences ne s'expliquent que par une attention insuffisante portée au sujet avant le contrôle. Sanction : un blâme et 5 millions d'euros, le montant demandé, malgré un plan de mise à niveau d'environ 30 millions d'euros.",
+  "identite": {
+    "etablissement": "Generali Vie",
+    "type_etablissement": "entreprise d'assurance",
+    "precision_type": "Filiale à 99,99 % de Generali France Assurances, qui porte l'ensemble des contrats d'assurance de personnes (vie, retraite, prévoyance) du groupe en France, sauf ceux souscrits par Internet. Épargne individuelle gérée par plusieurs directions : Generali Gestion Privée (GGP), la direction de l'épargne et du patrimoine (DEP, 490 000 clients) et la direction des opérations d'assurance (DOA, réseaux salariés et agences).",
+    "groupe": "groupe italien Assicurazioni Generali, par Generali France Assurances, deuxième assureur généraliste en France",
+    "pays": "France",
+    "activite_et_taille": "Résultat net de 110 millions d'euros en 2014 et fonds propres de 3 milliards d'euros. GGP : 1 milliard d'euros de collecte brute sur les 9 premiers mois de 2012 ; DEP : environ 55 % du chiffre d'affaires. Base de clients de 3 millions de noms.",
+    "pages": [2, 3, 13]
+  },
+  "controle": {
+    "controle_sur_place": "du 27 septembre 2012 au 1er juillet 2013",
+    "rapport_de_controle": "signé le 28 mai 2014",
+    "ouverture_de_la_procedure": "décidée par le Collège (sous-collège sectoriel de l'assurance) le 10 juillet 2014 ; lettre de saisine du 29 juillet 2014",
+    "antecedents": "non précisé",
+    "pages": [1, 3]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 5000000,
+    "publication": "nominative",
+    "duree_publication_nominative": "non précisée : la décision ordonne une publication au registre de l'ACPR, sans limite de durée",
+    "proposition_du_college": "blâme et 5 millions d'euros, publication nominative",
+    "pages": [1, 2, 19]
+  },
+  "procedure": {
+    "questions_de_procedure": "L'assureur contestait la régularité du contrôle : propos du chef de mission dans la presse au début du contrôle, délais trop courts, absence de procès-verbaux, rapport « à charge ». La Commission rappelle que les droits de la défense ne s'imposent qu'à partir de la notification des griefs, les contrôleurs étant seulement tenus à la loyauté et à l'impartialité ; les propos tenus étaient généraux et aucun procès-verbal n'est obligatoire. Un mémoire tardif du représentant du Collège ne viole pas le contradictoire, l'assureur ayant pu répondre. L'argument d'imprécision des textes (griefs 1, 2, 8 et 12) est examiné grief par grief et rejeté, alors que le rapporteur l'aurait retenu pour les griefs 8 et 12. Audience du 3 juillet 2015.",
+    "pages": [1, 2, 3, 4, 5]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Une classification des risques incomplète et contradictoire",
+      "resume": "La classification rangeait les bons de capitalisation à la fois en risque moyen et, ailleurs, en risque élevé, sans traiter leur remboursement, alors que ces bons anonymes circulent de main en main. Elle ne considérait les rachats comme « précoces », donc à risque, que pendant 12 mois, avec un délai unique pour tous les clients. Elle ne traitait pas non plus les risques des sociétés clientes (14 % des contrats), comme les holdings patrimoniales ou les sociétés passant par une société de domiciliation. La Commission tient compte de ce qu'un délai plus long aurait pu produire trop d'alertes en période de baisse de la collecte.",
+      "textes": ["code des assurances A. 310-8 (I)"],
+      "chiffres_cles": ["rachats « précoces » limités à 12 mois, alors que le taux maximal d'imposition s'applique jusqu'à 48 mois", "personnes morales : 14 % des contrats"],
+      "issue": "retenu",
+      "precision_issue": "Les trois branches sont établies ; la branche sur les rachats précoces est appréciée en tenant compte du risque d'un nombre d'alertes trop élevé.",
+      "categorie": "classification des risques",
+      "categorie_precision": "bons de capitalisation, rachats précoces, personnes morales",
+      "categories_secondaires": [],
+      "pages": [5, 6, 7]
+    },
+    {
+      "numero": "2",
+      "titre": "Des systèmes qui ne se parlent pas et des alertes non traitées",
+      "resume": "Un même client pouvait être géré par plusieurs directions, sur des systèmes incompatibles : la directrice de la conformité n'avait aucune vue d'ensemble, un projet de référentiel client unique lancé en 2008 n'étant pas achevé. L'outil de contrôle avant exécution ne couvrait ni les rachats ni une partie des versements programmés. Les requêtes mensuelles (« Gelab ») n'avaient pas été mises à jour depuis 2008-2009 et gardaient un seuil fixe de 150 000 euros ; sur 34 075 réponses en 2011, 462 ont été traitées. La direction de gestion privée échappait presque à toute surveillance : un seul examen renforcé entre septembre 2010 et fin octobre 2012.",
+      "textes": ["code des assurances A. 310-8 (VI)"],
+      "chiffres_cles": ["Gelab : 34 075 réponses en 2011, dont 462 traitées ; 21 493 en 2012, dont 256 traitées", "seuil de 150 000 euros sur 12 mois glissants dans l'un des 18 scénarios", "un seul examen renforcé à GGP entre septembre 2010 et fin octobre 2012", "référentiel client unique lancé en 2008, non achevé"],
+      "issue": "retenu",
+      "precision_issue": "Branches 2.1 et 2.2 « établies » ; griefs 2.3 et 2.4 « fondés ».",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "systèmes non interopérables, outils incomplets, alertes non traitées",
+      "categories_secondaires": ["analyse des alertes et examen renforcé"],
+      "pages": [7, 8, 9]
+    },
+    {
+      "numero": "3",
+      "titre": "Des clients mal identifiés",
+      "resume": "Dans 21 dossiers, l'identification du client était insuffisante, à l'entrée en relation ou en cours de contrat ; pour des sociétés, l'identité ou les pouvoirs de leurs représentants n'étaient plus exacts. L'assureur ne conteste pas et met en cause sa direction de gestion privée. Deux dossiers sont écartés.",
+      "textes": ["CMF L. 561-5", "CMF R. 561-5"],
+      "chiffres_cles": ["21 dossiers reprochés, 2 écartés"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Dans ce périmètre légèrement réduit, le grief est établi. »",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "identification des clients et de leurs représentants",
+      "categories_secondaires": [],
+      "pages": [10]
+    },
+    {
+      "numero": "4",
+      "titre": "Des bénéficiaires effectifs mal cernés",
+      "resume": "La procédure ne prévoyait d'identifier le bénéficiaire effectif d'une société que s'il détenait plus de 25 % du capital, sans couvrir les autres formes de contrôle prévues par la loi. Dans au moins 10 des 34 dossiers de sociétés examinés, l'identification ou la vérification était incomplète, y compris après une déclaration de soupçon ou un examen renforcé.",
+      "textes": ["CMF R. 561-7", "CMF R. 561-1", "CMF R. 561-3"],
+      "chiffres_cles": ["au moins 10 dossiers sur 34 sociétés examinées"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief, qui n'est pas contesté […], est établi. »",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "identification des bénéficiaires effectifs",
+      "categories_secondaires": [],
+      "pages": [10, 11]
+    },
+    {
+      "numero": "5",
+      "titre": "Des revenus et patrimoines jamais mis à jour",
+      "resume": "Sur 85 dossiers de particuliers, 25 présentaient des lacunes : la fiche de mise à jour ne servait pas lors d'un rachat, même précoce, et ne prévoyait pas d'actualiser revenus et patrimoine. Pour les sociétés, rien n'était prévu sur leur situation financière : 26 dossiers sur 32 étaient lacunaires. La Commission rappelle que la connaissance du client doit rester à jour jusqu'à la fin de la relation, pour pouvoir analyser un rachat total.",
+      "textes": ["CMF L. 561-6", "CMF R. 561-12", "ordonnance n° 2009-104, art. 19"],
+      "chiffres_cles": ["150 dossiers examinés", "25 dossiers lacunaires sur 85 particuliers", "26 dossiers lacunaires sur 32 sociétés"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief […] est établi. »",
+      "categorie": "vigilance constante et mise à jour des dossiers",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [11, 12]
+    },
+    {
+      "numero": "6",
+      "titre": "Des personnes politiquement exposées repérées sur déclaration",
+      "resume": "La détection des personnes politiquement exposées (PPE) reposait sur la déclaration du client, sans procédure ni outil automatique, pour une base de 3 millions de noms. Le contrôle a trouvé 7 PPE, dont 2 que l'assureur aurait dû repérer, par exemple un parlementaire étranger qui se disait résident français. Aucun dossier ne comportait l'accord d'un dirigeant ni l'origine du patrimoine. Les 3 cas d'homonymie avec des PPE ne sont pas retenus contre l'assureur.",
+      "textes": ["CMF R. 561-20 (II)"],
+      "chiffres_cles": ["base de clients de 3 millions de noms", "7 PPE identifiées par le contrôle, dont 2 qui auraient dû être détectées", "3 homonymies non retenues"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Dans le périmètre légèrement réduit […], le grief est établi. »",
+      "categorie": "personnes politiquement exposées et vigilance renforcée",
+      "categorie_precision": "détection des PPE",
+      "categories_secondaires": [],
+      "pages": [12, 13]
+    },
+    {
+      "numero": "7",
+      "titre": "Des rachats de millions sans examen",
+      "resume": "Plusieurs dossiers auraient dû faire l'objet d'un examen renforcé : le rachat total d'un contrat de 2,8 millions d'euros 4 mois après la souscription ; un moniteur de ski au patrimoine déclaré de 2 à 5 millions d'euros qui rachète 1 million d'euros 8 mois après ; une souscription de 1 443 000 euros presque entièrement rachetée en moins de 9 mois ; une société en difficulté qui absorbe une autre société titulaire d'un contrat de 75 millions d'euros financé par un prêt luxembourgeois, 85 141 000 euros étant transférés.",
+      "textes": ["CMF L. 561-10-2 (II)"],
+      "chiffres_cles": ["rachat total d'un contrat de 2,8 millions d'euros 4 mois après la souscription", "rachat de 1 million d'euros sur un contrat de 1,5 million d'euros", "souscription de 1 443 000 euros en février 2011", "retraits de 677 000 euros entre février 2011 et octobre 2012", "contrat de 75 millions d'euros, prêt porté à 82 millions d'euros, 85 141 000 euros transférés"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi. »",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [13, 14]
+    },
+    {
+      "numero": "8",
+      "titre": "Treize déclarations manquées, dont des dizaines de millions",
+      "resume": "Treize dossiers auraient dû être déclarés à Tracfin. Huit ne sont pas contestés, dont un contrat de plus de 40 millions d'euros racheté puis transféré au Luxembourg et un contrat de plus de 60 millions d'euros nanti trois fois. Parmi les autres : un ancien cadre supérieur de l'assureur verse 12 millions d'euros sans explication claire puis rachète tout pour 17,5 millions d'euros ; un couple vivant aux États-Unis fait virer 430 000 euros à Hong Kong ; une famille annule et redistribue en deux mois 26 725 600 euros entre plusieurs sociétés, avec des rachats au profit de proches non identifiés ; des bons de capitalisation souscrits par des personnes âgées sont remboursés à des porteurs sans preuve de la façon dont ils les ont obtenus, dont la fille d'un ancien commercial, alors que le correspondant Tracfin avait lui-même évoqué un possible abus de faiblesse.",
+      "textes": ["CMF L. 561-15 (I)"],
+      "chiffres_cles": ["13 dossiers, dont 8 non contestés", "8.1 : versement de 12 millions d'euros en décembre 2012, rachat total de 17,5 millions d'euros en avril 2013", "8.2 : rachat de 430 000 euros viré à Hong Kong", "8.3 : versement initial de 26 725 600 euros le 15 septembre 2010, contrats annulés deux fois", "8.4 : 23 bons pour 26 000 euros remboursés le 22 juillet 2011", "8.5 : 80 bons, remboursés pour 3 400 euros puis 87 700 euros en 2012"],
+      "issue": "retenu",
+      "precision_issue": "Grief « fondé » pour 8 dossiers non contestés ; griefs 8.1 à 8.5 « établis ».",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [14, 15, 16, 17]
+    },
+    {
+      "numero": "9",
+      "titre": "Trois déclarations complémentaires oubliées",
+      "resume": "Dans 3 dossiers déjà déclarés, de nouveaux versements n'ont pas été signalés à Tracfin : par exemple 57 000 euros de versements après une déclaration portant sur un premier versement de 42 000 euros.",
+      "textes": ["CMF L. 561-15 (V)"],
+      "chiffres_cles": ["3 dossiers", "versement initial de 42 000 euros déclaré, puis 57 000 euros de versements complémentaires"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "déclarations complémentaires",
+      "categories_secondaires": [],
+      "pages": [17]
+    },
+    {
+      "numero": "10",
+      "titre": "Des déclarations faites deux ans après",
+      "resume": "Dans 4 dossiers, la déclaration n'a été envoyée qu'environ deux ans, voire plus, après une opération de versement à l'origine incertaine, une fois les fonds déjà rachetés. Non contesté.",
+      "textes": ["CMF L. 561-16"],
+      "chiffres_cles": ["4 dossiers", "note opérationnelle sur les déclarations diffusée le 23 juin 2014"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief […] est établi au moment du contrôle sur place. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "déclarations tardives",
+      "categories_secondaires": [],
+      "pages": [17]
+    },
+    {
+      "numero": "11",
+      "titre": "Des déclarations pauvres en informations",
+      "resume": "La plupart des 32 déclarations examinées étaient insuffisantes : revenus et patrimoine du client « inconnus » ou périmés, opérations pas toujours analysées. L'absence de remarque de Tracfin ne prouve pas que les déclarations étaient de bonne qualité.",
+      "textes": ["CMF R. 561-31 (I)"],
+      "chiffres_cles": ["23 dossiers sur 32 déclarations examinées"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "qualité des déclarations",
+      "categories_secondaires": [],
+      "pages": [18]
+    },
+    {
+      "numero": "12",
+      "titre": "Des déclarations « infirmatives » mal fondées",
+      "resume": "De 2010 à fin octobre 2012, l'assureur a envoyé 23 déclarations « infirmatives », pour lever un soupçon déjà déclaré, contre 71 déclarations initiales, une pratique que l'ACPR n'avait pas vue ailleurs. Certaines invoquaient la simple fin de la durée de conservation des données, ce qui ne lève aucun soupçon, et elles arrivaient le plus souvent longtemps après. Le reproche de ne pas avoir joint de justificatifs est écarté, aucun texte ne l'exigeant.",
+      "textes": ["CMF L. 561-15 (V)"],
+      "chiffres_cles": ["23 déclarations infirmatives pour 71 déclarations initiales, de 2010 à fin octobre 2012"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Dans le périmètre réduit […], le grief est établi » (branche sur les justificatifs écartée).",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "déclarations infirmatives",
+      "categories_secondaires": [],
+      "pages": [18, 19]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "Vu la taille de l'assureur et sa place sur le marché, ces carences « ne s'expliquent que par une attention insuffisante » portée au sujet avant le contrôle ; long délai pour appliquer la réforme de 2009.", "pages": [19]},
+      {"texte": "Les défauts de déclaration portent dans plusieurs cas sur des montants « particulièrement élevés » ; mettre en cause l'ancienne direction de gestion privée n'est pas une circonstance atténuante.", "pages": [19]}
+    ],
+    "elements_attenuants": [
+      {"texte": "Un plan d'action ambitieux lancé en 2013, suivi au plus haut niveau, est mis au crédit de l'assureur, mais ne remet pas en cause les griefs.", "pages": [19]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Environ 30 millions d'euros engagés de 2012 à 2017 pour mettre à niveau le dispositif, avec un achèvement prévu dans 2 ans ; traitement des bons amélioré depuis fin 2013 ; paramétrage des alertes revu.", "pages": [6, 9, 19]},
+      {"texte": "Référentiel client unique en cours ; note opérationnelle sur les déclarations du 23 juin 2014.", "pages": [8, 17]}
+    ],
+    "situation_financiere": {"texte": "Résultat net de 110 millions d'euros en 2014 et fonds propres de 3 milliards d'euros. Amende fixée « compte tenu de la situation financière ».", "pages": [3, 19]},
+    "cause_profonde": {"texte": "Expliquée par la Commission : « une attention insuffisante portée à ces questions dans la période antérieure au contrôle », aggravée par des systèmes informatiques multiples et une direction de gestion privée peu surveillée.", "pages": [7, 9, 19]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "La conformité peut-elle voir en un seul endroit tous les contrats et opérations d'un même client ?",
+      "Les outils de détection couvrent-ils toutes les opérations, rachats et versements programmés compris, et tous les réseaux de distribution ?",
+      "Chaque résultat d'une requête de détection est-il analysé et clos par écrit ?",
+      "Les paramètres de détection sont-ils mis à jour après chaque nouvelle classification des risques ?",
+      "La définition d'un rachat « précoce » tient-elle compte du profil du client et de l'objet annoncé du contrat ?",
+      "Revenus et patrimoine sont-ils mis à jour lors d'un rachat ou d'une avance ?",
+      "Les clients sont-ils filtrés contre une base de PPE, et l'entrée en relation avec une PPE est-elle validée par un dirigeant ?",
+      "Au remboursement d'un bon de capitalisation, vérifie-t-on comment le porteur l'a obtenu, surtout si le souscripteur est âgé ?",
+      "Une déclaration qui lève un soupçon repose-t-elle sur des éléments nouveaux, et part-elle sans délai ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["assurance vie", "grand assureur", "systèmes d'information", "référentiel client unique", "rachats précoces", "bons de capitalisation", "abus de faiblesse", "gestion privée", "PPE", "déclarations infirmatives", "contrôle sur place", "droits de la défense"],
+    "pages_prioritaires": [
+      {"pages": [3, 4, 5], "pourquoi": "la contestation de la régularité du contrôle"},
+      {"pages": [7, 8, 9], "pourquoi": "les systèmes qui ne communiquent pas et les alertes non traitées"},
+      {"pages": [14, 15, 16], "pourquoi": "les déclarations manquées sur des montants très élevés"},
+      {"pages": [18, 19], "pourquoi": "les déclarations infirmatives et le raisonnement sur la sanction"}
+    ],
+    "confiance": "moyenne",
+    "a_verifier": [
+      "Décision longue (19 pages, 12 griefs) : vérifier en priorité les issues des griefs 1, 2 et 8. Le grief 1 (rachats précoces) est « établi » mais apprécié avec indulgence ; classé « retenu ».",
+      "Le rapporteur proposait de réduire les griefs 8 et 12 et d'accueillir l'argument d'imprécision sur ces griefs ; la Commission retient le grief 8 en entier.",
+      "Grief 8 : les montants « plus de 40 millions » et « plus de 60 millions » sont les formulations de la décision (p. 14).",
+      "Je n'ai repris ni la situation familiale, ni la nationalité, ni les décès mentionnés, sauf le lien entre une porteuse de bons et un ancien commercial, qui fonde le soupçon."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Opus 5.5), à partir du texte extrait du PDF officiel", "date": "2026-11-13", "relue_par_mateo": false}
+}

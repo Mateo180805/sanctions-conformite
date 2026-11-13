@@ -1,6 +1,6 @@
 # JOURNAL – Sanctions Conformité
 
-Journal de bord du projet, version courte (allégée le 13 novembre 2026 pour économiser le quota ; mise à jour au lot 10).
+Journal de bord du projet, version courte (allégée le 13 novembre 2026 pour économiser le quota ; mise à jour au lot 11).
 À redonner à Claude au début de chaque session, avec PROJET.md.
 Le détail lot par lot est dans `JOURNAL-ARCHIVE.md` : ne pas le relire au début d'une session, seulement au besoin.
 
@@ -18,7 +18,8 @@ Dépôt : https://github.com/Mateo180805/sanctions-conformite (public)
 - [x] Lots 7a et 8 (13 novembre au soir, Opus 5.5) : 8 fiches de décisions d'avant 2019 (2018-01, 2017-01 à 2017-07). **39 fiches.** L'étude reste sur ses 31 décisions de 2019-2026.
 - [x] Lot 9 (13 novembre, Opus 5.5) : 2017-08, 2016-08, 2016-10, 2016-07, 2016-09. **44 fiches.**
 - [x] Lot 10 (13 novembre, Opus 5.5) : 2016-06, 2016-05, 2016-01, 2016-03, 2015-08. **49 fiches.**
-- [ ] Plus tard : les 18 décisions restantes LCB-FT de l'ACPR antérieures à 2019, les 44 fiches courtes « hors LCB-FT », des fiches AMF (en commençant par les 28 signalées blanchiment), puis CSSF et FINMA.
+- [x] Lot 11 (13 novembre, Opus 5.5) : 2015-10, 2015-07, 2015-06, 2014-10, 2014-07. **54 fiches.**
+- [ ] Plus tard : les 13 décisions restantes LCB-FT de l'ACPR antérieures à 2019, les 44 fiches courtes « hors LCB-FT », des fiches AMF (en commençant par les 28 signalées blanchiment), puis CSSF et FINMA.
 
 Les 31 fiches : 2024-06, 2024-02, 2024-01, 2023-01, 2022-07, 2022-06, 2022-05, 2022-04, 2022-03, 2022-02, 2022-01, 2021-05, 2021-01, 2020-11, 2020-09 (nominatives) ; 2020-08, 2020-06, 2020-05, 2020-03, 2020-02, 2020-01, 2019-08, 2019-07, 2019-06, 2019-04, 2018-08, 2018-06, 2018-05, 2018-04, 2018-03, 2017-10 (anonymisées).
 
@@ -187,6 +188,24 @@ Cinq fiches de plus. **49 fiches au total.**
 - Arrondis et additions repérés et corrigés avant livraison (« vingt-neuf dossiers », « plus de vingt dossiers », « plus de 15 000 euros », « 113 millions »), ainsi qu'une déduction (« gagnant du Loto » remplacé par le texte : chèque de la Française des jeux).
 - **Il reste 18 décisions LCB-FT de l'ACPR d'avant 2019** : 2015-10, 2015-07, 2015-06, 2014-10, 2014-07, 2014-08, 2015-01, 2013-06, 2014-06, 2012-08, 2013-01, 2012-05, 2012-04, 2011-03, 2011-02, 2011-01, 2010-05, 2010-01.
 
+## Lot 11 (13 novembre, Opus 5.5, même conversation que les lots 9 et 10)
+
+Cinq fiches de plus. **54 fiches au total.**
+
+| Décision | Établissement | Sanction (demande du Collège) | Griefs retenus / en partie / écartés |
+|---|---|---|---|
+| 2015-10 | Skandia Life S.A. (assureur vie luxembourgeois, succursale française) | blâme, 1,2 M€ (1,5 M€) | 7 / 1 / 0 |
+| 2015-07 | Quick Change (changeur manuel à Saint-Martin, casinos clients) | blâme, 40 000 € (au moins 40 000 €) | 9 / 0 / 0 |
+| 2015-06 | Isbank, succursale de Paris (banque allemande d'un groupe turc) | blâme, 150 000 € (150 000 €) | 3 / 3 / 1 |
+| 2014-10 | Ticket Surf International (monnaie électronique, tickets de 250 €) | blâme, 50 000 € (« de l'ordre de » 100 000 €) | 5 / 0 / 0 |
+| 2014-07 | Generali Vie | blâme, 5 M€ (5 M€) | 9 / 3 / 0 |
+
+- 2014-10 grief 1 (protection des fonds des clients) est « hors LCB-FT ». En 2014-10 et 2014-07, la Commission retient des griefs que le rapporteur proposait d'écarter ou de réduire.
+- 2015-07 : la Commission écrit que les manquements auraient pu justifier une radiation. 2015-06 : publication nominative pour la banque, mais dossiers de clients abrégés pour qu'ils ne soient pas reconnaissables.
+- 2015-10 et 2014-07 (contrôles contestés, 17 et 19 pages) ont une confiance « moyenne ». 2015-10 est utile pour la future session Luxembourg (le superviseur luxembourgeois n'avait pas ouvert de procédure).
+- Arrondis et calculs corrigés avant livraison (« plus de 5,4 millions », « plus d'un million », « plus de 26 millions », « quatre ans ») ; une lecture personnelle retirée du résumé (fractionnement en 2015-07 grief 8).
+- **Il reste 13 décisions LCB-FT de l'ACPR d'avant 2019** : 2014-08, 2015-01, 2013-06, 2014-06, 2012-08, 2013-01, 2012-05, 2012-04, 2011-03, 2011-02, 2011-01, 2010-05, 2010-01.
+
 ## Thèmes repérés pendant la session 2
 
 - Décisions à part : 2019-08 (avertissement, sans amende, financement participatif) ; 2018-03 (blâme sans amende à cause de la situation financière) ; 2018-05 (radiation) ; 2020-09 (gel des avoirs seulement) ; 2019-07 (21 griefs dont beaucoup hors LCB-FT).
@@ -228,6 +247,6 @@ Cinq fiches de plus. **49 fiches au total.**
 - ou des fiches AMF, en commençant par les 28 décisions signalées blanchiment (Fable 5.2 ; la grille du point 6 de PROJET.md devra être complétée pour les abus de marché) ;
 - ou la collecte de la CSSF puis de la FINMA (Opus 5.5 ou Sonnet 5.5).
 
-Message de reprise : « Lot 11 : lis PROJET.md et JOURNAL.md (pas l'archive), récupère le dépôt, puis fais les 5 fiches ACPR suivantes d'avant 2019 (2015-10, 2015-07, 2015-06, 2014-10, 2014-07), même méthode que les lots 8 à 10, avec analyse/lire_decision.py et analyse/verifier_nombres.py. »
+Message de reprise : « Lot 12 : lis PROJET.md et JOURNAL.md (pas l'archive), récupère le dépôt, puis fais les 5 fiches ACPR suivantes d'avant 2019 (2014-08, 2015-01, 2013-06, 2014-06, 2012-08), même méthode que les lots 8 à 11, avec analyse/lire_decision.py et analyse/verifier_nombres.py. »
 
 Modèle conseillé : Fable 5.2 pour les fiches et pour reprendre le texte de l'étude ; Opus 5.5 ou Sonnet 5.5 pour la collecte et le site.

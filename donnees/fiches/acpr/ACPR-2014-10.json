@@ -1,0 +1,143 @@
+{
+  "id": "ACPR-2014-10",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT",
+  "resume_court": "Ticket Surf International émet de la monnaie électronique sous forme de « tickets » prépayés de 250 euros au plus, vendus en points de vente ou utilisés pour payer sur des sites internet. Son activité principale, le « Direct Payment », consistait à encaisser des paiements par carte pour des sites marchands, en passant par des intermédiaires, avec des virements envoyés surtout vers Malte ou des pays nordiques. Pour un achat de plusieurs milliers d'euros, la société émettait après coup autant de tickets de 250 euros que nécessaire, chacun restant sous le seuil qui dispense d'identifier le client. La Commission juge que cette dispense ne pouvait pas s'appliquer : les clients, connus par un simple nom non vérifié et une adresse électronique, auraient dû être identifiés. La classification des risques ignorait 99 % de l'activité, aucune surveillance des opérations n'existait, et une seule déclaration de soupçon avait été faite, après des réquisitions judiciaires. Enfin, environ 11 millions d'euros de fonds de clients n'avaient pas été mis à l'abri sur le compte protégé prévu par la loi. La Commission retient les cinq griefs. Sanction : un blâme et 50 000 euros, au vu d'une direction et d'une organisation largement renouvelées depuis.",
+  "identite": {
+    "etablissement": "Ticket Surf International",
+    "type_etablissement": "établissement de monnaie électronique",
+    "precision_type": "Société anonyme créée en 2003, agréée en 2010 comme société financière habilitée à émettre de la monnaie électronique, devenue établissement de monnaie électronique avec la loi du 28 janvier 2013. Elle émet des tickets non rechargeables limités à 250 euros, distribués par des réseaux de points de vente, et exerce une activité de « Direct Payment » (encaissement de paiements par carte pour des sites marchands), qui représentait 81 % des flux.",
+    "groupe": "détenue par la holding SP2I, dont des fonds d'investissement gérés par Ardian détiennent ensemble 30,4 %",
+    "pays": "France",
+    "activite_et_taille": "Produit net bancaire de 5 936 000 euros et résultat net de 1 360 000 euros fin 2012 ; résultat net de 390 143 euros en 2014. Fonds propres de 1 864 134 euros fin 2014 après distribution.",
+    "pages": [2, 4]
+  },
+  "controle": {
+    "controle_sur_place": "du 18 septembre au 5 novembre 2013",
+    "rapport_de_controle": "signé le 17 avril 2014",
+    "ouverture_de_la_procedure": "décidée par le Collège (sous-collège sectoriel de la banque) le 6 octobre 2014 ; lettre de saisine du 4 novembre 2014",
+    "antecedents": "non précisé (une mise en demeure de protéger les fonds des clients a suivi le contrôle)",
+    "pages": [1, 2, 3]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 50000,
+    "publication": "nominative",
+    "duree_publication_nominative": "non précisée : la décision ordonne une publication au registre de l'ACPR, sans limite de durée ; la société faisait valoir que la publication lui causerait du tort",
+    "proposition_du_college": "blâme et sanction pécuniaire « de l'ordre de 100 000 euros », publication nominative ; à la fin de l'audience, le représentant du Collège s'en est remis à la Commission sur le montant et la publication",
+    "pages": [1, 2, 7]
+  },
+  "procedure": {
+    "questions_de_procedure": "Pas de question de procédure. Le rapporteur jugeait fondés les griefs 1, 2 et 5, le grief 4 en partie, et proposait d'écarter le grief 3 ; la Commission retient pourtant les griefs 3 et 4 en entier. Audience du 2 octobre 2015.",
+    "pages": [1, 5, 6]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Des fonds de clients qui n'étaient pas mis à l'abri",
+      "resume": "Un émetteur de monnaie électronique doit protéger l'argent de ses clients, par exemple sur un compte séparé (« cantonnement »), pour qu'il soit à l'abri en cas de faillite. Environ 11 millions d'euros sont arrivés au premier semestre 2013 sur un compte ordinaire au lieu du compte protégé, et les distributeurs gardaient les fonds plusieurs jours, voire plusieurs semaines : 5 453 415 euros étaient ainsi en simples « créances » au 30 juin 2013. Un distributeur s'est déclaré incapable de reverser 1 278 530,09 euros. Une garantie d'assurance conforme a été mise en place en mars 2015.",
+      "textes": ["CMF L. 526-32"],
+      "chiffres_cles": ["environ 11 millions d'euros crédités sur un compte non protégé au premier semestre 2013", "5 453 415 euros conservés par les distributeurs au 30 juin 2013", "1 278 530,09 euros que la société C n'a pas pu verser en juillet 2013", "garantie d'assurance en vigueur au 1er mars 2015"],
+      "issue": "retenu",
+      "precision_issue": "La régularisation « est toutefois sans conséquence sur le grief, qui est établi au moment du contrôle » ; non contesté.",
+      "categorie": "autre (à préciser)",
+      "categorie_precision": "grief hors LCB-FT : protection des fonds des clients",
+      "categories_secondaires": [],
+      "pages": [3]
+    },
+    {
+      "numero": "2",
+      "titre": "Une classification des risques qui ignorait 99 % de l'activité",
+      "resume": "La classification des risques ne traitait ni le « Direct Payment » ni la distribution par les points de vente, qui faisaient ensemble 99 % de l'activité. La société disait qu'elle « existait en pratique » ; la nouvelle classification de février 2015 est postérieure au contrôle.",
+      "textes": ["CMF R. 561-38 (I, 2°)"],
+      "chiffres_cles": ["activités non couvertes : 99 % de l'activité", "nouvelle classification du 17 février 2015"],
+      "issue": "retenu",
+      "precision_issue": "Mesures correctrices sans effet sur « le grief, qui est établi ».",
+      "categorie": "classification des risques",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [4]
+    },
+    {
+      "numero": "3",
+      "titre": "Des achats découpés en tickets de 250 euros",
+      "resume": "La loi dispense de vigilance la monnaie électronique de très faible montant, comme les tickets non rechargeables de 250 euros au plus. Mais pour un achat en ligne de plusieurs milliers d'euros, la société émettait après coup autant de tickets que nécessaire, et son système acceptait des transactions jusqu'à 100 000 euros. Plus de 40 % des transactions dépassaient 250 euros. La Commission juge que la dispense ne s'applique pas à une seule opération découpée ainsi, même si la société invoquait une simple limite technique.",
+      "textes": ["CMF R. 561-16 (5°)", "CMF L. 561-5", "CMF L. 561-6"],
+      "chiffres_cles": ["« Direct Payment » : 81 % des flux de monnaie électronique", "plus de 40 % des transactions au-dessus de 250 euros", "transactions autorisées jusqu'à 100 000 euros", "plus de la moitié du montant faite par environ 2 000 clients"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief […] est établi » (le rapporteur proposait de l'écarter).",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "dispense de la monnaie électronique mal appliquée",
+      "categories_secondaires": ["relation d'affaires et clients occasionnels"],
+      "pages": [4, 5]
+    },
+    {
+      "numero": "4",
+      "titre": "Des clients et des sites marchands non identifiés",
+      "resume": "Pour les clients, la société ne recueillait qu'une adresse électronique, un nom, une adresse de connexion et un code postal, sans vérification et parfois « fantaisistes », et presque jamais de justificatif. Elle ne pouvait pas se reposer sur les sites marchands sans contrat d'externalisation en règle. Les sites marchands eux-mêmes, et les intermédiaires par lesquels passaient les paiements, étaient des relations d'affaires qu'il fallait identifier, ce qui n'était pas fait systématiquement.",
+      "textes": ["CMF L. 561-5", "CMF L. 561-2-1", "règlement n° 97-02, art. 37-2"],
+      "chiffres_cles": ["nouveau contrat cadre avec les sites marchands en juin 2014", "nouvelle interface avec 14 points d'identification"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 4 […] est établi au moment du contrôle » (le rapporteur le jugeait partiellement fondé).",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "identification des clients finaux, des sites marchands et des intermédiaires",
+      "categories_secondaires": ["relation d'affaires et clients occasionnels"],
+      "pages": [5, 6]
+    },
+    {
+      "numero": "5",
+      "titre": "Aucune surveillance, une seule déclaration",
+      "resume": "De l'agrément en 2010 au contrôle, aucun dispositif ne permettait de repérer les opérations atypiques. Les besoins avaient pourtant été décrits en interne en juillet 2013. Une seule déclaration de soupçon avait été faite, après plusieurs réquisitions judiciaires. Les opérations des dix plus gros clients n'étaient pas suivies. Depuis, un rapport hebdomadaire à la direction, un comité des risques et un outil de LCB-FT ont été mis en place, et le nombre de déclarations a augmenté.",
+      "textes": ["règlement n° 97-02, art. 11-7"],
+      "chiffres_cles": ["une seule déclaration de soupçon avant le contrôle", "expression des besoins du 27 juillet 2013", "10 plus gros clients des 9 premiers mois de 2013 non suivis, dont 2 seulement avaient suscité des questions", "4 déclarations de juin 2013 à fin 2014"],
+      "issue": "retenu",
+      "precision_issue": "Mesures correctrices « sans conséquence sur le grief 5, qui est établi ».",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "absence de dispositif de suivi",
+      "categories_secondaires": ["déclarations de soupçon à Tracfin"],
+      "pages": [6]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "La protection des fonds des clients, « l'une des exigences essentielles » pour un émetteur de monnaie électronique, n'a pas été respectée « pendant une longue période » ; les lacunes de LCB-FT « appellent une sanction significative ».", "pages": [6, 7]}
+    ],
+    "elements_attenuants": [
+      {"texte": "Gouvernance et encadrement « substantiellement changés » ; actions correctrices déjà efficaces (garantie des fonds, classification, règles d'entrée en relation, surveillance) ; président-directeur général nommé en avril 2013 attaché au respect de la réglementation.", "pages": [7]},
+      {"texte": "La hausse récente du nombre de déclarations est un « élément favorable ».", "pages": [6]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Garantie d'une entreprise d'assurance pour protéger les fonds des clients, jugée conforme par le Collège le 13 avril 2015.", "pages": [3]},
+      {"texte": "Portefeuille électronique permettant de suivre les dépenses de chaque client sur l'année ; interface d'identification obligatoire pour les nouveaux sites marchands ; outil de détection des PPE.", "pages": [5, 6]}
+    ],
+    "situation_financiere": {"texte": "Résultat net de 390 143 euros en 2014 et fonds propres de 1 864 134 euros après distribution. La décision ne mentionne pas l'assise financière pour le montant.", "pages": [2]},
+    "cause_profonde": {"texte": "En partie expliquée : l'émission découpée en tickets de 250 euros résultait, selon la société, d'une limite technique d'origine ; la décision relève aussi l'absence d'interface automatique avec les distributeurs, qui empêchait de connaître en temps réel les fonds à protéger.", "pages": [3, 4, 5]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Les fonds des clients sont-ils protégés chaque jour, y compris ceux encore détenus par les distributeurs ?",
+      "La classification des risques couvre-t-elle toutes les activités, en particulier la plus importante ?",
+      "Une dispense de vigilance pour faible montant est-elle appliquée à l'opération réelle, et non à des fractions techniques ?",
+      "Les clients finaux sont-ils identifiés de façon vérifiable dès qu'un seuil est dépassé ?",
+      "Les sites marchands et intermédiaires sont-ils identifiés comme des relations d'affaires ?",
+      "Existe-t-il un dispositif d'alerte sur les plus gros clients et les opérations atypiques, et les déclarations à Tracfin partent-elles sans attendre une réquisition ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["monnaie électronique", "tickets prépayés", "paiement en ligne", "Direct Payment", "dispense de vigilance", "fractionnement", "cantonnement", "protection des fonds", "sites marchands", "intermédiaires", "Malte"],
+    "pages_prioritaires": [
+      {"pages": [3], "pourquoi": "la protection des fonds des clients"},
+      {"pages": [4, 5], "pourquoi": "le découpage en tickets et la dispense de vigilance"},
+      {"pages": [7], "pourquoi": "pourquoi la sanction reste modérée"}
+    ],
+    "confiance": "élevée",
+    "a_verifier": [
+      "Grief 1 (protection des fonds) est classé « hors LCB-FT » : il relève de la réglementation de la monnaie électronique, pas de la lutte contre le blanchiment.",
+      "La Commission retient les griefs 3 et 4 en entier alors que le rapporteur proposait d'écarter le 3 et de réduire le 4.",
+      "Page 7, la décision écrit « une sanction pécuniaire 50 000 euros » (mot manquant) ; coquille sans effet."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Opus 5.5), à partir du texte extrait du PDF officiel", "date": "2026-11-13", "relue_par_mateo": false}
+}

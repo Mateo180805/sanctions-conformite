@@ -1,0 +1,196 @@
+{
+  "id": "ACPR-2015-07",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT et gel des avoirs",
+  "resume_court": "Quick Change est un petit bureau de change de Saint-Martin, aux Antilles françaises, qui change surtout des dollars contre des euros. Ses clients réguliers comprenaient trois casinos de la partie néerlandaise de l'île. Au contrôle, rien ne fonctionnait : les opérations étaient notées à la main dans de vieux agendas recyclés, aux chiffres « inexploitables » ; le manuel de procédures était incomplet ; personne n'avait été formé, pas même le gérant, pourtant déclarant à Tracfin. Des clients changeant plus de 8 000 euros n'étaient pas identifiés, et l'on ignorait qui se cachait derrière les casinos, représentés par une seule personne munie d'un permis de conduire. Trois clients ont changé 43 900 euros le même jour, un autre 20 000 euros, sans justificatif ni déclaration. Aucun filtrage du gel des avoirs n'existait. Un contrôle de 2002 avait déjà relevé de graves carences. La Commission retient les neuf griefs et estime que ces manquements auraient pu justifier une radiation. Sanction : un blâme et 40 000 euros, le minimum demandé par le Collège, au vu des corrections récentes et de la fin des relations avec les casinos.",
+  "identite": {
+    "etablissement": "Quick Change",
+    "type_etablissement": "changeur manuel",
+    "precision_type": "SARL immatriculée le 1er juillet 2000, changeur manuel à Saint-Martin (Antilles françaises), surtout pour du change de dollars américains contre des euros. Clientèle essentiellement occasionnelle, plus des relations d'affaires avec des casinos de la partie néerlandaise de l'île. 4 salariés sur 2 sites lors du contrôle.",
+    "groupe": "aucun (capital de 38 000 euros détenu par ses dirigeants)",
+    "pays": "France (Saint-Martin)",
+    "activite_et_taille": "Chiffre d'affaires passé de 459 552 euros à 339 770 euros en 2013, résultat de 39 022 euros à 17 723 euros. Résultat net de 19 082 euros en 2014 et 9 293 euros en 2015, selon le gérant.",
+    "pages": [2]
+  },
+  "controle": {
+    "controle_sur_place": "non précisé (opérations examinées de mars 2013 à juillet 2014)",
+    "rapport_de_controle": "signé le 13 mai 2015, après observations sur un projet transmis le 10 avril 2015",
+    "ouverture_de_la_procedure": "décidée par le Collège (sous-collège sectoriel de la banque) le 7 septembre 2015 ; lettre de saisine du 16 septembre 2015",
+    "antecedents": "Un contrôle sur place de 2002 avait déjà constaté de graves carences du dispositif de LCB-FT.",
+    "pages": [1, 2, 3, 7]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 40000,
+    "publication": "nominative",
+    "duree_publication_nominative": "non précisée : la décision ordonne une publication au registre de l'ACPR, sans limite de durée",
+    "proposition_du_college": "blâme et sanction pécuniaire d'au moins 40 000 euros, publication nominative",
+    "pages": [1, 2, 7]
+  },
+  "procedure": {
+    "questions_de_procedure": "Pas de question de procédure. La société ne contestait aucun fait et espérait ne pas être sanctionnée vu ses corrections. Le rapporteur concluait que tous les griefs étaient établis. Audience non publique le 20 juin 2016 ; les dirigeants sont venus de Saint-Martin, ce que la Commission relève.",
+    "pages": [1, 2, 6, 7]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Des opérations notées dans de vieux agendas",
+      "resume": "Un changeur manuel doit inscrire chaque jour sur un registre la nature de chaque opération, les devises, les sommes et les cours, et porter immédiatement les grosses opérations dans une partie spéciale. Sur le site principal, les opérations étaient écrites à la main dans d'anciens agendas recyclés, aux chiffres inexploitables ; sur le second site, un tableur sans la nature des opérations ni les cours, limité aux euros et aux dollars. Plusieurs opérations, dont certaines de plus de 8 000 euros, n'étaient pas inscrites, et les bordereaux n'étaient pas horodatés.",
+      "textes": ["arrêté du 10 septembre 2009, art. 4"],
+      "chiffres_cles": ["opérations non retranscrites entre le 8 mars 2013 et le 21 juillet 2014, dont certaines de plus de 8 000 euros"],
+      "issue": "retenu",
+      "precision_issue": "« Tous les griefs notifiés […] sont établis » ; faits non contestés.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "registre des transactions du changeur manuel",
+      "categories_secondaires": [],
+      "pages": [2, 3]
+    },
+    {
+      "numero": "2",
+      "titre": "Un manuel incomplet et aucun contrôle interne",
+      "resume": "Le manuel de juin 2014 ne disait pas comment distinguer un client occasionnel d'un client régulier, comment identifier le bénéficiaire effectif des sociétés clientes (casinos, commerces), ni quand déclarer à Tracfin après un examen renforcé ou compléter une déclaration. Aucun contrôle interne ne vérifiait le respect des règles.",
+      "textes": ["CMF R. 561-38 (4°)", "arrêté du 10 septembre 2009, art. 5"],
+      "chiffres_cles": ["manuel de procédures du 12 juin 2014"],
+      "issue": "retenu",
+      "precision_issue": "« Tous les griefs notifiés […] sont établis » ; faits non contestés.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "manuel de procédures et contrôle interne",
+      "categories_secondaires": [],
+      "pages": [3]
+    },
+    {
+      "numero": "3",
+      "titre": "Personne n'était formé, pas même le gérant",
+      "resume": "Aucun salarié n'avait suivi de formation à la LCB-FT ni au gel des avoirs, pas même le gérant, qui était à la fois déclarant, correspondant Tracfin et responsable du dispositif.",
+      "textes": ["CMF L. 561-33"],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "« Tous les griefs notifiés […] sont établis » ; faits non contestés.",
+      "categorie": "gouvernance, moyens et formation",
+      "categorie_precision": "formation du personnel",
+      "categories_secondaires": [],
+      "pages": [3]
+    },
+    {
+      "numero": "4",
+      "titre": "Deux gros changes sans identification",
+      "resume": "Deux opérations de plus de 8 000 euros, le 3 avril 2013 et le 21 juillet 2014, ont été faites sans identifier le client, alors que c'était obligatoire au-delà de ce seuil.",
+      "textes": ["CMF R. 561-10 (II, 2°)"],
+      "chiffres_cles": ["2 opérations de plus de 8 000 euros"],
+      "issue": "retenu",
+      "precision_issue": "« Tous les griefs notifiés […] sont établis » ; faits non contestés.",
+      "categorie": "relation d'affaires et clients occasionnels",
+      "categorie_precision": "identification des clients occasionnels",
+      "categories_secondaires": [],
+      "pages": [4]
+    },
+    {
+      "numero": "5",
+      "titre": "Des clients réguliers traités comme des inconnus de passage",
+      "resume": "Sept clients revenaient régulièrement et auraient dû être traités comme des relations d'affaires, avec des informations sur leur situation. Rien n'avait été recueilli.",
+      "textes": ["CMF L. 561-2-1", "CMF L. 561-6"],
+      "chiffres_cles": ["7 clients"],
+      "issue": "retenu",
+      "precision_issue": "« Tous les griefs notifiés […] sont établis » ; faits non contestés.",
+      "categorie": "relation d'affaires et clients occasionnels",
+      "categorie_precision": "clients réguliers non traités comme des relations d'affaires",
+      "categories_secondaires": ["connaissance du client à l'entrée en relation"],
+      "pages": [4]
+    },
+    {
+      "numero": "6",
+      "titre": "Trois casinos dont on ne savait presque rien",
+      "resume": "Pour les trois casinos clients, les noms sur les bordereaux ne correspondaient pas aux sociétés des extraits de registre, sans lien démontré entre eux. Le dossier ne contenait que le permis de conduire d'une personne censée les représenter, sans vérification de ses pouvoirs, et rien sur les bénéficiaires effectifs, la situation financière ou l'origine des fonds.",
+      "textes": ["CMF L. 561-5", "CMF L. 561-6"],
+      "chiffres_cles": ["3 casinos en relation d'affaires"],
+      "issue": "retenu",
+      "precision_issue": "« Tous les griefs notifiés […] sont établis » ; faits non contestés.",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "identification des personnes morales, de leurs représentants et bénéficiaires effectifs",
+      "categories_secondaires": [],
+      "pages": [4, 5]
+    },
+    {
+      "numero": "7",
+      "titre": "Des changes de 20 000 à 43 900 euros non déclarés",
+      "resume": "Le même jour, trois personnes ont changé 43 900 euros contre des dollars, pour « acheter des marchandises » dans la partie néerlandaise de l'île, sans justificatif ni information sur leur profession. Un autre client a changé 20 000 euros avec la même explication. Une opération de 30 000 euros a été faite pour une société civile immobilière, payée par le chèque d'une autre, par l'intermédiaire d'un casino, sans aucune identification. Faute de justificatifs, il fallait déclarer.",
+      "textes": ["CMF L. 561-15 (I)"],
+      "chiffres_cles": ["43 900 euros changés le 18 octobre 2013 par 3 personnes (11 000, 18 000 et 14 900 euros)", "20 000 euros le 10 mars 2014", "30 000 euros le 3 avril 2013 pour une SCI"],
+      "issue": "retenu",
+      "precision_issue": "« Tous les griefs notifiés […] sont établis » ; faits non contestés.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [5, 6]
+    },
+    {
+      "numero": "8",
+      "titre": "Deux chèques de 4 000 euros le même jour",
+      "resume": "Deux opérations de change réglées le même jour par deux chèques de 4 000 euros du même client, sans identification ni question sur l'origine et la destination des fonds.",
+      "textes": ["CMF L. 561-10-2 (II)"],
+      "chiffres_cles": ["2 chèques de 4 000 euros remis le 31 décembre 2012"],
+      "issue": "retenu",
+      "precision_issue": "« Tous les griefs notifiés […] sont établis » ; faits non contestés.",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": ["relation d'affaires et clients occasionnels"],
+      "pages": [6]
+    },
+    {
+      "numero": "9",
+      "titre": "Aucun dispositif de gel des avoirs",
+      "resume": "La société n'avait rien mis en place pour repérer les personnes visées par une mesure de gel des avoirs.",
+      "textes": ["CMF L. 562-3"],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "« Tous les griefs notifiés […] sont établis » ; faits non contestés.",
+      "categorie": "gel des avoirs et sanctions financières",
+      "categorie_precision": "absence de dispositif",
+      "categories_secondaires": [],
+      "pages": [6]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "Les changeurs manuels sont « particulièrement exposés » au blanchiment ; ici, plusieurs obligations « essentielles » n'étaient pas respectées, avec parfois des montants élevés, notamment avec les casinos.", "pages": [6, 7]},
+      {"texte": "Sans réaction de la direction, ces manquements auraient pu justifier la radiation, d'autant qu'un contrôle de 2002 avait déjà relevé de graves carences.", "pages": [7]}
+    ],
+    "elements_attenuants": [
+      {"texte": "Mesures correctrices et réorientation de l'activité, dont la pertinence reste à vérifier ; manquements non contestés ; dirigeants venus de Saint-Martin pour l'audience.", "pages": [7]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Prestataire extérieur pour le contrôle et la veille réglementaire ; nouveau manuel de procédures en janvier 2016 ; logiciel spécialisé ; classification des risques et contrôle interne.", "pages": [6]},
+      {"texte": "Fermeture du second bureau et fin des relations avec les casinos.", "pages": [6]}
+    ],
+    "situation_financiere": {"texte": "Résultat net de 19 082 euros en 2014 et 9 293 euros en 2015, selon le gérant ; baisse d'activité liée aux corrections. Amende fixée « dans le respect du principe de proportionnalité ».", "pages": [2, 6, 7]},
+    "cause_profonde": {"texte": "Non précisé de façon explicite. La décision relève la « faiblesse des actions entreprises » sur une longue période, depuis le contrôle de 2002.", "pages": [7]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Le registre des transactions est-il tenu chaque jour, avec la nature de l'opération, les devises, les sommes et les cours ?",
+      "Les bordereaux sont-ils numérotés et horodatés ?",
+      "Le gérant et les guichetiers ont-ils suivi une formation LCB-FT et gel des avoirs, avec une trace écrite ?",
+      "Toute opération au-dessus du seuil d'identification est-elle bloquée tant que le client n'est pas identifié ?",
+      "Un client qui revient régulièrement est-il reconnu comme relation d'affaires ?",
+      "Pour une société cliente, a-t-on ses statuts, l'identité et les pouvoirs de son représentant et ses bénéficiaires effectifs ?",
+      "Plusieurs opérations du même client le même jour sont-elles additionnées pour appliquer les seuils ?",
+      "Les clients sont-ils comparés aux listes de gel avant chaque opération ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["changeur manuel", "outre-mer", "Saint-Martin", "casinos", "dollars", "registre des transactions", "seuil de 8 000 euros", "formation", "fractionnement", "radiation évitée"],
+    "pages_prioritaires": [
+      {"pages": [3], "pourquoi": "le registre tenu dans de vieux agendas"},
+      {"pages": [4, 5], "pourquoi": "les casinos clients"},
+      {"pages": [7], "pourquoi": "pourquoi la radiation est évitée"}
+    ],
+    "confiance": "élevée",
+    "a_verifier": [
+      "La décision ne donne pas les dates du contrôle sur place, seulement celles des opérations examinées et du rapport.",
+      "Je n'ai repris ni la nationalité des clients, ni la composition familiale du capital, ni les faits subis personnellement par le gérant, qu'il invoquait pour demander l'indulgence."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Opus 5.5), à partir du texte extrait du PDF officiel", "date": "2026-11-13", "relue_par_mateo": false}
+}

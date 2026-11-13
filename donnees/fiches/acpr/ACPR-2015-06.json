@@ -1,0 +1,172 @@
+{
+  "id": "ACPR-2015-06",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT",
+  "resume_court": "Isbank Paris est la petite succursale française (9 salariés, 1 060 comptes) d'une banque allemande qui regroupe les activités européennes d'une grande banque turque. Elle propose des services bancaires et des transferts d'argent, surtout à des particuliers liés à la Turquie. Après un premier contrôle en 2011, l'ACPR l'avait mise en demeure en 2012 de corriger 14 manquements. En 2013, beaucoup restaient : les clients de passage qui dépassaient les seuils fixés par la banque n'étaient pas traités comme des clients réguliers, faute d'alerte dans l'outil ; 93 dossiers de particuliers et 17 de sociétés n'avaient pas de fiche de connaissance client, et 77 clients jugés à haut risque étaient enregistrés en risque standard à cause d'un défaut informatique. Neuf dossiers auraient dû être déclarés à Tracfin, dont des versements d'espèces fractionnés par plusieurs clients vers une même société. Le contrôle des alertes se limitait à un récapitulatif mensuel sans détail. La Commission retient six des sept griefs, dont trois en partie, et en écarte un. Sanction : un blâme et 150 000 euros, le montant demandé, avec une présentation abrégée des dossiers de clients pour qu'ils ne puissent pas être reconnus.",
+  "identite": {
+    "etablissement": "Isbank (succursale de Paris)",
+    "type_etablissement": "établissement de crédit",
+    "precision_type": "Succursale française, créée en 1998, de la banque allemande Isbank AG, qui regroupe les filiales et succursales européennes d'une banque turque. Services de banque commerciale à dimension internationale (crédits à l'export et à l'import, crédits documentaires, garanties, services de paiement, transferts de fonds). Clientèle composée à environ 84 % de particuliers ayant des liens avec la Turquie et à 16 % de sociétés et professionnels.",
+    "groupe": "Isbank AG (Allemagne), groupe bancaire turc",
+    "pays": "Allemagne (succursale en France)",
+    "activite_et_taille": "En 2015 : 9 salariés, 1 060 comptes clients, total de bilan de 19 077 000 euros, résultat d'exploitation de 1 131 000 euros et perte nette de 508 000 euros.",
+    "pages": [3]
+  },
+  "controle": {
+    "controle_sur_place": "du 12 juillet au 8 novembre 2013 (après un premier contrôle au premier semestre 2011)",
+    "rapport_de_controle": "signé le 31 mars 2014",
+    "ouverture_de_la_procedure": "décidée par le Collège (sous-collège sectoriel de la banque) le 13 avril 2015 ; lettre de saisine du 28 avril 2015",
+    "antecedents": "Premier contrôle LCB-FT en 2011 (rapport du 9 juin 2011, lettre de recommandations du 7 novembre 2011), puis mise en demeure du 20 février 2012 de corriger en 3 ou 6 mois les 14 principaux manquements. Le second contrôle vérifiait cette mise en demeure.",
+    "pages": [1, 3]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 150000,
+    "publication": "nominative",
+    "duree_publication_nominative": "non précisée : publication nominative pour la banque, sans limite de durée ; présentation abrégée des dossiers de clients des griefs 4 et 5 pour qu'ils ne soient pas reconnaissables",
+    "proposition_du_college": "blâme et 150 000 euros, publication nominative",
+    "pages": [1, 2, 11, 12]
+  },
+  "procedure": {
+    "questions_de_procedure": "La banque invoquait le droit d'être informée « dans le plus court délai » de l'accusation, plus d'un an s'étant écoulé entre le rapport de contrôle et la notification des griefs. La Commission répond que cette garantie ne joue qu'à partir de l'accusation, c'est-à-dire de la notification des griefs. Elle rejette aussi l'idée que des formules du rapport (« largement conforme », « partiellement conforme ») porteraient atteinte à la sécurité juridique. Le rapporteur proposait d'écarter le grief 2 et de réduire plusieurs griefs. La banque demandait l'anonymat au nom du secret bancaire, certains clients étant connus en Turquie : la Commission publie le nom de la banque mais abrège les dossiers de clients. Audience du 18 avril 2016.",
+    "pages": [1, 2, 3, 4, 12]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Des clients de passage devenus réguliers sans le savoir",
+      "resume": "Depuis janvier 2013, un client de passage devait devenir une « relation d'affaires », avec un compte et un dossier complet, au-delà de 15 000 euros d'opérations dans l'année, de 8 000 euros en une opération ou de 6 opérations. Mais aucun outil ne signalait ces dépassements : tout reposait sur le guichetier. Au moins 36 dépassements n'ont pas eu de suite. La banque soutenait que seul le nombre d'opérations comptait ; la Commission relève que ses propres procédures et courriers disaient le contraire.",
+      "textes": ["CMF L. 561-2-1"],
+      "chiffres_cles": ["seuils : 15 000 euros cumulés dans l'année, 8 000 euros en une opération, ou 6 opérations", "11 dépassements au premier semestre 2013, dont 4 clients au-delà de 15 000 euros cumulés", "au moins 36 dépassements sur le second semestre 2012 et le premier semestre 2013", "système bloquant annoncé pour mai 2016"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi » (le rapporteur proposait un périmètre fortement réduit).",
+      "categorie": "relation d'affaires et clients occasionnels",
+      "categorie_precision": "seuils de passage en relation d'affaires non surveillés",
+      "categories_secondaires": [],
+      "pages": [4, 5]
+    },
+    {
+      "numero": "2",
+      "titre": "Identification des clients qui transfèrent de l'argent : grief abandonné",
+      "resume": "La poursuite reprochait deux dossiers de transferts de plus de 5 000 euros sans copie de la pièce d'identité. Elle a abandonné ce grief.",
+      "textes": ["CMF R. 561-10 (3°)"],
+      "chiffres_cles": ["2 dossiers sur 11 opérations de plus de 5 000 euros"],
+      "issue": "écarté",
+      "precision_issue": "Abandonné par la poursuite ; la Commission en donne acte.",
+      "categorie": "relation d'affaires et clients occasionnels",
+      "categorie_precision": "identification des clients occasionnels (transmission de fonds)",
+      "categories_secondaires": [],
+      "pages": [5]
+    },
+    {
+      "numero": "3",
+      "titre": "Des fiches clients manquantes et des scores faussés",
+      "resume": "Le niveau de risque de chaque client était calculé à la main dans une fiche « KYC » (« connaissance du client ») sur tableur. Faute de fiche, le client passait automatiquement en risque faible. Et le score enregistré dans le logiciel de la banque, qui alimente l'outil d'alerte, était souvent plus bas que celui de la fiche : 77 clients jugés à haut risque y figuraient en risque standard. Après tri des comptes techniques et des non-clients, la Commission retient encore 93 dossiers de particuliers et 17 de sociétés. Un « bug » informatique n'excuse rien.",
+      "textes": ["règlement n° 97-02, art. 11-7", "arrêté du 3 novembre 2014, art. 46"],
+      "chiffres_cles": ["210 particuliers et 34 sociétés sans fiche KYC selon le contrôle ; retenus : 93 particuliers et 17 sociétés", "171 particuliers (11,56 %) et 14 sociétés (6,28 %) avec un risque plus faible dans le logiciel que dans la fiche", "77 clients à haut risque enregistrés en risque standard"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Même si le nombre de dossiers en cause doit être réduit […], le grief 3 est établi » ; le récapitulatif le range parmi les griefs au périmètre réduit.",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "profil de risque erroné dans l'outil",
+      "categories_secondaires": ["classification des risques", "connaissance du client à l'entrée en relation"],
+      "pages": [5, 6, 7]
+    },
+    {
+      "numero": "4",
+      "titre": "Des dépôts d'espèces suivis de transferts sans examen",
+      "resume": "Une société dont le compte avait changé brusquement de fonctionnement, et quatre particuliers qui déposaient des espèces de 6 000 à 8 000 euros pour les transférer aussitôt, sans justificatif de l'origine des fonds, auraient dû faire l'objet d'un examen renforcé. Le reproche est écarté pour une seconde société, dont les opérations entre sociétés du même groupe étaient justifiées.",
+      "textes": ["CMF L. 561-10-2 (II)"],
+      "chiffres_cles": ["6 clients visés, 5 retenus", "remises d'espèces de 6 000 à 8 000 euros suivies de transferts"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Dans un périmètre réduit par l'exclusion des opérations effectuées par une des 2 personnes morales […], le grief est établi. »",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [7]
+    },
+    {
+      "numero": "5",
+      "titre": "Des versements fractionnés jamais déclarés",
+      "resume": "Huit déclarations de soupçon et une déclaration complémentaire manquaient. Plusieurs clients de passage, parfois de la même famille, déposaient des espèces de plusieurs milliers d'euros à transférer à l'étranger ; dans un autre dossier, divers clients ont versé 60 800 euros en 11 opérations au profit d'une même société. La banque devait repérer ces opérations possiblement fractionnées. D'autres dossiers : des dépôts d'espèces sans rapport avec l'activité de sociétés clientes, un compte fermé par le client juste après une demande de renseignements, le rachat d'une société financé avec des fonds d'origine inconnue.",
+      "textes": ["CMF L. 561-15 (I et V)"],
+      "chiffres_cles": ["8 défauts de déclaration initiale et 1 de déclaration complémentaire", "60 800 euros en 11 opérations versés par divers clients au profit d'une même société"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 5 est donc entièrement établi. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "opérations fractionnées non repérées",
+      "categories_secondaires": ["relation d'affaires et clients occasionnels"],
+      "pages": [7, 8]
+    },
+    {
+      "numero": "6",
+      "titre": "Un contrôle des alertes sur un simple récapitulatif",
+      "resume": "Le directeur validait chaque mois un état des alertes qui ne disait ni quelle opération avait déclenché l'alerte, ni quelles recherches avaient été faites, ni pourquoi elle avait été close. Aucun contrôle n'avait lieu avant l'envoi des déclarations : plusieurs ne précisaient pas l'objet et la nature de la relation, et une déclaration complémentaire est partie près de deux mois après la clôture du compte. Le reproche sur l'exclusion des clients de passage et celui sur les bénéficiaires effectifs sont écartés.",
+      "textes": ["règlement n° 97-02, art. 11-7", "arrêté du 3 novembre 2014, art. 71 et 72"],
+      "chiffres_cles": ["5 chèques pour 37 250 euros déclarés le 12 décembre 2012", "compte clôturé le 23 janvier 2013, déclaration complémentaire le 15 mars 2013"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Dans un périmètre réduit […] et en relativisant le reproche […], le grief 6 est établi. »",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "contrôle permanent des alertes et des déclarations",
+      "categories_secondaires": ["déclarations de soupçon à Tracfin"],
+      "pages": [8, 9]
+    },
+    {
+      "numero": "7",
+      "titre": "Une mise en demeure non respectée",
+      "resume": "En 2012, l'ACPR avait demandé à la banque, en 3 ou 6 mois, de distinguer clients de passage et clients réguliers (le premier contrôle avait trouvé 93 clients de passage avec au moins 20 opérations en un an), de compléter leurs dossiers, de fixer des seuils, de mettre en place un contrôle permanent et une classification des risques adaptée. Les seuils n'ont été appliqués qu'en janvier 2013, et les autres demandes n'étaient pas satisfaites lors du second contrôle.",
+      "textes": ["CMF L. 612-31"],
+      "chiffres_cles": ["mise en demeure du 20 février 2012", "93 clients occasionnels avec au moins 20 opérations, pour environ 2 millions d'euros", "7 anomalies sur un échantillon de 30 dossiers", "seuils appliqués à partir du 1er janvier 2013"],
+      "issue": "retenu",
+      "precision_issue": "« S'il repose sur des manquements dont certains ont vu leur périmètre réduit […], le grief 7 […] est établi. »",
+      "categorie": "autre (à préciser)",
+      "categorie_precision": "non-respect d'une mise en demeure de l'ACPR",
+      "categories_secondaires": [],
+      "pages": [10, 11]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "Les insuffisances relevées en 2011 n'avaient pas toutes été corrigées dans le délai de la mise en demeure ; plusieurs dossiers individuels montrent des défauts de déclaration ou d'examen.", "pages": [11, 12]}
+    ],
+    "elements_attenuants": [
+      {"texte": "Périmètre de plusieurs griefs réduit, grief 2 abandonné ; moyens humains et techniques « notablement renforcés » depuis plus de 2 ans.", "pages": [11]},
+      {"texte": "Nouvelle direction recentrée sur les sociétés actives dans les échanges entre la France et la Turquie, avec une forte baisse des transferts de fonds par des clients de passage.", "pages": [11]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Nouveau système informatique bloquant en cas de dépassement des seuils, annoncé pour mai 2016 ; vigilance standard minimale pour tous les clients depuis juillet 2014.", "pages": [5, 7]},
+      {"texte": "Recentrage de l'activité et réduction des transferts de fonds par des clients occasionnels.", "pages": [11]}
+    ],
+    "situation_financiere": {"texte": "Perte nette de 508 000 euros en 2015 pour un total de bilan de 19 077 000 euros. Amende fixée « au regard de l'assise financière ».", "pages": [3, 11]},
+    "cause_profonde": {"texte": "En partie expliquée : des contrôles manuels (guichetiers, fiches sur tableur) non reliés au logiciel de gestion de la maison mère, dont les données étaient jugées insuffisantes par le rapport de contrôle.", "pages": [4, 5, 6]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Le passage d'un client de passage en relation d'affaires est-il déclenché automatiquement par l'outil quand un seuil est franchi ?",
+      "Chaque client a-t-il un score de risque, et ce score est-il le même dans la fiche et dans l'outil d'alerte ?",
+      "Un client sans fiche de connaissance est-il traité par défaut en risque élevé plutôt que faible ?",
+      "Des dépôts d'espèces de plusieurs clients au profit d'un même bénéficiaire sont-ils rapprochés ?",
+      "Le contrôle des alertes porte-t-il sur l'opération, les recherches et le motif de clôture de chacune ?",
+      "Les déclarations sont-elles relues avant envoi (bénéficiaire effectif, objet de la relation) ?",
+      "Chaque demande d'une mise en demeure a-t-elle un responsable, un délai et une preuve de réalisation ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["succursale de banque étrangère", "transferts de fonds", "clients occasionnels", "relation d'affaires", "seuils", "fiche KYC", "scoring", "fractionnement", "mise en demeure", "plus court délai", "secret bancaire"],
+    "pages_prioritaires": [
+      {"pages": [4, 5], "pourquoi": "les seuils entre clients de passage et clients réguliers"},
+      {"pages": [6, 7], "pourquoi": "les scores de risque faussés"},
+      {"pages": [10, 11], "pourquoi": "la mise en demeure non respectée"},
+      {"pages": [12], "pourquoi": "publication nominative mais dossiers de clients abrégés"}
+    ],
+    "confiance": "élevée",
+    "a_verifier": [
+      "Grief 3 : la conclusion dit « le grief 3 est établi » malgré une réduction du nombre de dossiers ; classé « retenu en partie » car le récapitulatif (p. 11) range le grief 3 parmi ceux au périmètre réduit.",
+      "Grief 7 : la Commission retient le grief tout en notant que certains manquements sous-jacents sont réduits ; classé « retenu ».",
+      "La décision décrit les dossiers des griefs 4 et 5 de façon volontairement abrégée ; la fiche reste au même niveau de détail.",
+      "Le nom de la banque turque mère est abrégé dans le texte officiel ; je ne l'ai pas complété."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Opus 5.5), à partir du texte extrait du PDF officiel", "date": "2026-11-13", "relue_par_mateo": false}
+}

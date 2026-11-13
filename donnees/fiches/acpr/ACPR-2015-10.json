@@ -1,0 +1,188 @@
+{
+  "id": "ACPR-2015-10",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT et gel des avoirs",
+  "resume_court": "Skandia Life est un assureur vie luxembourgeois qui vend en France, par sa succursale, des contrats d'assurance vie distribués par des conseillers en gestion de patrimoine indépendants. Ses procédures ne disaient pas quoi faire de plus pour une personne politiquement exposée ou un client résidant dans un pays à risque, et ses fiches de suivi remplies à la main oubliaient des signaux qu'elle jugeait elle-même à risque élevé, comme un rachat moins de deux ans après la souscription. Un ancien président de parlement étranger président depuis janvier 2010, n'a été repéré comme personne politiquement exposée qu'en janvier 2014. Des clients ont versé puis retiré des centaines de milliers d'euros en peu de temps sans que l'assureur cherche à comprendre pourquoi ; jusqu'en 2013, sa procédure ne demandait l'origine des fonds qu'au-delà de 150 000 euros, alors que la loi avait supprimé ce type de seuil fixe en 2009. Plusieurs dossiers liés à de l'argent rapatrié de l'étranger auraient dû être déclarés à Tracfin. Enfin, 1 600 alertes de gel des avoirs attendaient toujours d'être analysées à la fin du contrôle. La Commission retient les huit griefs, dont un en partie. Sanction : un blâme et 1,2 million d'euros (le Collège demandait 1,5 million).",
+  "identite": {
+    "etablissement": "Skandia Life S.A. (succursale française)",
+    "type_etablissement": "entreprise d'assurance",
+    "precision_type": "Assureur vie établi au Luxembourg depuis le 28 avril 2011, qui exerce en France par une succursale. Contrats d'assurance vie multisupports distribués par des conseillers en gestion de patrimoine indépendants (CGPI).",
+    "groupe": "filiale à 100 % du groupe britannique Old Mutual jusqu'en 2015, puis du groupe APICIL (cession conclue le 2 février 2015)",
+    "pays": "Luxembourg (succursale en France)",
+    "activite_et_taille": "Fonds propres de 51 millions d'euros fin 2015 ; 80 salariés en France en mai 2016. Actifs sous gestion de 2,6 milliards d'euros en 2015 ; collecte brute de 325 millions d'euros en 2015. Perte réduite de 11 millions d'euros à 125 000 euros entre 2012 et 2014, après une restructuration.",
+    "pages": [2, 3]
+  },
+  "controle": {
+    "controle_sur_place": "du 17 juillet au 21 novembre 2014, à la succursale française",
+    "rapport_de_controle": "signé le 17 avril 2015",
+    "ouverture_de_la_procedure": "décidée par le Collège le 17 novembre 2015 ; lettre de saisine du 15 décembre 2015",
+    "antecedents": "non précisé (un rapport de contrôle interne de juillet 2013 avait déjà signalé les lacunes des fiches de suivi ; le superviseur luxembourgeois, après son propre contrôle au siège, n'avait pas ouvert de procédure)",
+    "pages": [1, 3, 6, 16]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 1200000,
+    "publication": "nominative",
+    "duree_publication_nominative": "non précisée : la décision ordonne une publication au registre de l'ACPR, sans limite de durée",
+    "proposition_du_college": "blâme et 1,5 million d'euros, publication nominative",
+    "pages": [1, 2, 17]
+  },
+  "procedure": {
+    "questions_de_procedure": "L'assureur demandait l'annulation de toute la procédure : des agents non désignés dans l'ordre de mission avaient assisté à des réunions et reçu des courriels, et un chef de service avait annoncé que la suite du contrôle « ne serait pas classique ». La Commission juge que la société, prévenue à l'avance, n'a été privée d'aucune garantie, et qu'un avis personnel ne décide rien, seul le Collège pouvant ouvrir une procédure. Elle rejette aussi le reproche de « mutation » des griefs et l'argument selon lequel l'assureur aurait été obligé de s'accuser lui-même. Le rapporteur concluait que les 8 griefs étaient établis. Audience non publique le 11 juillet 2016.",
+    "pages": [1, 2, 3, 4, 5]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Des procédures muettes sur les clients à risque",
+      "resume": "Les procédures, y compris celle mise à jour le 4 juillet 2014, ne précisaient pas les mesures supplémentaires à prendre pour les personnes politiquement exposées (PPE) ni pour les clients installés dans un pays listé par le GAFI, ni quels « documents additionnels » ou « contrôles approfondis » faire avant de transmettre un dossier à risque à la conformité. Transmettre le dossier ne remplaçait pas ces diligences.",
+      "textes": ["CMF R. 561-38 (I, 4°)", "code des assurances A. 310-8 (II)"],
+      "chiffres_cles": ["procédure mise à jour le 4 juillet 2014"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi. »",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "procédures de vigilance renforcée et complémentaire",
+      "categories_secondaires": ["personnes politiquement exposées et vigilance renforcée"],
+      "pages": [5]
+    },
+    {
+      "numero": "2",
+      "titre": "Des fiches de suivi qui oubliaient les signaux de risque",
+      "resume": "Le suivi reposait sur des fiches de liaison remplies à la main par le back-office et sur une alerte manuelle dans l'outil de gestion. Les fiches ne reprenaient pas tous les critères de risque élevé que l'assureur avait lui-même fixés (rachat moins de deux ans après la souscription, rachats rapprochés, plus de 3 contrats, bénéficiaire sans lien apparent), contenaient des erreurs, et des alertes qui auraient dû être posées ne l'ont pas été. Un contrôle interne de juillet 2013 l'avait déjà relevé.",
+      "textes": ["code des assurances A. 310-8 (VI)"],
+      "chiffres_cles": ["rapport de contrôle interne de juillet 2013"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi. »",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "suivi manuel par fiches de liaison",
+      "categories_secondaires": [],
+      "pages": [5, 6]
+    },
+    {
+      "numero": "3",
+      "titre": "Un président de parlement étranger repéré en 2014 seulement",
+      "resume": "Un client devenu en janvier 2010 président d'une assemblée parlementaire étrangère n'a été identifié comme personne politiquement exposée qu'en janvier 2014, lors d'un nouveau versement de 70 000 euros. Rien au dossier ne prouvait l'origine des fonds, et aucun dirigeant n'avait autorisé le maintien de la relation. Le chèque venait d'une autre banque française, ce qui ne dispensait pas l'assureur de ses propres contrôles.",
+      "textes": ["CMF R. 561-20 (II)"],
+      "chiffres_cles": ["souscription de 30 000 euros en octobre 2004", "PPE depuis janvier 2010, détectée le 3 janvier 2014", "versement complémentaire de 70 000 euros"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 3 est établi. »",
+      "categorie": "personnes politiquement exposées et vigilance renforcée",
+      "categorie_precision": "détection tardive d'une PPE",
+      "categories_secondaires": [],
+      "pages": [6, 7]
+    },
+    {
+      "numero": "4",
+      "titre": "Des clients à risque élevé sans vigilance renforcée",
+      "resume": "Pour des clients non résidents ou ayant fait des rachats précoces, donc classés à risque élevé par l'assureur lui-même, rien n'a été renforcé. Exemples : une cliente vivant en Angleterre verse 81 010 euros non documentés et rachète 45 000 euros six mois après ; un couple d'anciens restaurateurs verse 456 145 euros en 2 ans et fait 10 rachats précoces, malgré une alerte de la conformité ; un client résidant au Congo verse 265 000 euros sans justificatif précis. Un dossier est écarté (fonds justifiés par une prime de l'employeur), deux autres sont réduits.",
+      "textes": ["CMF L. 561-10-2 (I)"],
+      "chiffres_cles": ["8 dossiers, 7 retenus (4-2 écarté, 4-1 et 4-7 réduits)", "4-1 : 6 versements non documentés pour 81 010 euros ; rachat de 45 000 euros moins de 6 mois après la souscription", "4-5 : 456 145 euros versés en 2 ans, dont 142 000 euros non justifiés ; 10 rachats précoces pour 126 583 euros", "4-3 : 265 000 euros versés au total", "4-7 : rachat de 100 000 euros moins de 3 mois après la souscription"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Sous réserve de ce qui a été indiqué au sujet du sous-grief 4.2, qui n'est pas retenu, et du périmètre des sous-griefs 4-1 et 4-7, ce grief est établi. »",
+      "categorie": "personnes politiquement exposées et vigilance renforcée",
+      "categorie_precision": "vigilance renforcée : non-résidents et rachats précoces",
+      "categories_secondaires": [],
+      "pages": [7, 8, 9, 10]
+    },
+    {
+      "numero": "5",
+      "titre": "De gros versements sans examen",
+      "resume": "Trois dossiers auraient dû faire l'objet d'un examen renforcé : une cliente aux revenus modestes souscrit 300 000 euros sans justificatif ; une famille verse 340 000 euros en 14 mois sur trois contrats ; une cheffe d'entreprise place 1 million d'euros et renonce à son contrat dans le mois, sans explication. Jusqu'en 2013, la procédure ne demandait de justifier l'origine des fonds qu'au-delà de 150 000 euros, alors que la loi de 2009 avait supprimé ces seuils fixes.",
+      "textes": ["CMF L. 561-10-2 (II)"],
+      "chiffres_cles": ["5-1 : souscription de 300 000 euros en février 2011", "5-2 : 340 000 euros en 5 versements du 2 septembre 2011 au 8 novembre 2012", "5-3 : contrat de 1 million d'euros souscrit en décembre 2011, renonciation le 23 janvier 2012", "seuil interne de 150 000 euros jusqu'en 2013"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 5 est établi dans toutes ses parties. »",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [10, 11, 16]
+    },
+    {
+      "numero": "6",
+      "titre": "De l'argent rapatrié de l'étranger sans déclaration",
+      "resume": "Six dossiers auraient dû être déclarés à Tracfin et un septième examiné de près. Une cliente régularisait auprès du fisc des avoirs détenus à l'étranger, mais les fonds venaient d'un autre compte non déclaré ; une société civile familiale verse 1 150 000 euros venus de Suisse, sans preuve de régularisation fiscale ; une cliente verse puis rachète 810 000 euros, avec des fonds venant du compte de son mari ; des clients résidant en Afrique font des versements ou rachats depuis ou vers l'étranger sans justificatif. Quand l'examen renforcé ne lève pas le doute, la loi impose de déclarer.",
+      "textes": ["CMF L. 561-15 (I, II et III)", "CMF D. 561-32-1", "CMF L. 561-10-2 (II)"],
+      "chiffres_cles": ["6-1 : versements de 460 000 euros en septembre 2014 ; virement reçu de 478 052,17 euros", "6-2 : contrat de 550 000 euros, puis versement de 1 150 000 euros le 13 mars 2014", "6-3 : rachats de 810 000 euros entre le 27 mars et le 22 avril 2014", "6-5 : versement de 300 000 euros en septembre 2011 depuis un compte à l'étranger", "6-6 : versement de 190 000 euros le 4 juillet 2013", "6-7 : versement de 1,5 million d'euros 22 jours après la souscription, rachat total vers l'étranger en septembre 2014"],
+      "issue": "retenu",
+      "precision_issue": "Sous-griefs 6-1 à 6-6 « établis » (6-4 dans le périmètre précisé par la poursuite) ; pour 6-7, défaut d'examen renforcé établi.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "doute non levé après examen renforcé ; fonds rapatriés de l'étranger",
+      "categories_secondaires": ["analyse des alertes et examen renforcé"],
+      "pages": [11, 12, 13, 14, 15]
+    },
+    {
+      "numero": "7",
+      "titre": "Tracfin pas prévenu qu'une opération refusée avait finalement eu lieu",
+      "resume": "Dans 3 dossiers, l'assureur avait informé Tracfin qu'il refusait une opération, puis l'a exécutée sans le lui dire. Cette information modifiait la déclaration initiale et devait être transmise, même si Tracfin n'avait pas réagi.",
+      "textes": ["CMF L. 561-15 (V)"],
+      "chiffres_cles": ["3 dossiers"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "déclarations complémentaires",
+      "categories_secondaires": [],
+      "pages": [15]
+    },
+    {
+      "numero": "8",
+      "titre": "1 600 alertes de gel jamais analysées",
+      "resume": "L'outil de filtrage produisait des alertes d'homonymie trop nombreuses et inexploitables, sans procédure pour les traiter : plus de 1 000 alertes de février 2012 à juillet 2014 n'avaient pas été traitées. Le nouvel outil en avait déjà produit 600. Aucune de ces 1 600 alertes n'était analysée à la fin du contrôle. La Commission juge ces carences d'une « particulière gravité ».",
+      "textes": ["code des assurances A. 310-8 (VI, al. 2)", "CMF R. 562-2"],
+      "chiffres_cles": ["plus de 1 000 alertes non traitées de février 2012 à juillet 2014", "600 alertes du nouvel outil depuis juillet 2014", "1 600 alertes non analysées début novembre 2014"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi » ; lacunes non contestées pendant le contrôle.",
+      "categorie": "gel des avoirs et sanctions financières",
+      "categorie_precision": "traitement des homonymies",
+      "categories_secondaires": [],
+      "pages": [15, 16]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "Un seuil interne de 150 000 euros maintenu jusqu'en 2013 dénote « un retard fautif » dans l'application de la troisième directive anti-blanchiment.", "pages": [16]},
+      {"texte": "Les carences en matière de gel des avoirs sont d'une « particulière gravité » ; nombre significatif de défauts de déclaration.", "pages": [16, 17]},
+      {"texte": "Une restructuration avec réduction des effectifs entre 2012 et 2014 ne justifie pas ces carences ; l'absence de procédure au Luxembourg est sans incidence.", "pages": [16, 17]}
+    ],
+    "elements_attenuants": [
+      {"texte": "Périmètre de plusieurs sous-griefs réduit ou précisé ; un seul dossier de PPE, pour des montants peu élevés.", "pages": [17]},
+      {"texte": "Recentrage sur les conseillers les mieux structurés et actions correctrices prises en compte « dans une certaine mesure ».", "pages": [17]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Formation, renforcement des moyens en France et au Luxembourg, nouvelle procédure de LCB-FT.", "pages": [17]},
+      {"texte": "Raccordement au dispositif du nouvel actionnaire APICIL, avec un nouveau logiciel de conformité et de filtrage.", "pages": [16, 17]}
+    ],
+    "situation_financiere": {"texte": "Fonds propres de 51 millions d'euros fin 2015 ; perte ramenée à 125 000 euros en 2014. Amende fixée au vu notamment de « l'assise financière » de l'assureur.", "pages": [2, 3, 17]},
+    "cause_profonde": {"texte": "En partie expliquée : la Commission relève le maintien d'une procédure fondée sur un seuil fixe de 150 000 euros, contraire à l'approche par les risques introduite en 2009, et des outils (fiches manuelles, filtrage) mal adaptés.", "pages": [5, 6, 16]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Les procédures décrivent-elles précisément les diligences supplémentaires pour les PPE et les clients de pays listés par le GAFI ?",
+      "Tous les critères de risque élevé de la matrice des risques déclenchent-ils une alerte ou une action ?",
+      "La qualité de PPE est-elle vérifiée lors de toute opération, y compris un arbitrage, et pas seulement à la souscription ?",
+      "Un rachat précoce ou une renonciation à un contrat d'un montant élevé déclenche-t-il une demande de justification ?",
+      "Aucun seuil fixe ne dispense-t-il de demander l'origine des fonds quand l'opération paraît incohérente ?",
+      "Un examen renforcé qui ne lève pas le doute aboutit-il à une déclaration à Tracfin ?",
+      "Tracfin est-il prévenu quand une opération déclarée comme refusée est finalement exécutée ?",
+      "Les alertes du filtrage du gel sont-elles toutes traitées dans un délai fixé, avec une procédure pour les homonymies ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["assurance vie", "succursale d'un assureur luxembourgeois", "libre établissement", "CGPI", "rachats précoces", "renonciation", "PPE", "non-résidents", "seuil fixe", "régularisation fiscale", "homonymies", "gel des avoirs", "régularité du contrôle sur place"],
+    "pages_prioritaires": [
+      {"pages": [3, 4], "pourquoi": "la contestation de la régularité du contrôle sur place"},
+      {"pages": [7, 8, 9], "pourquoi": "les rachats précoces des clients à risque élevé"},
+      {"pages": [12, 13], "pourquoi": "les fonds rapatriés de l'étranger"},
+      {"pages": [15, 16], "pourquoi": "les 1 600 alertes de gel non traitées"}
+    ],
+    "confiance": "moyenne",
+    "a_verifier": [
+      "Grief 6 : pas de phrase de conclusion globale ; chaque sous-grief est « établi ». Classé « retenu ». Le récapitulatif p. 17 range le sous-grief 6-4 parmi ceux dont le périmètre a été précisé ; à vérifier s'il faut le compter « en partie ».",
+      "Sous-grief 6-2 : la notification indiquait 1,5 million d'euros, la décision corrige à 1 150 000 euros (« erreur de plume ») ; sous-grief 6-6 : les avances portaient sur 12 600 euros et non 50 000 euros.",
+      "Décision utile pour la future session Luxembourg : assureur luxembourgeois contrôlé en France, le superviseur luxembourgeois n'ayant pas ouvert de procédure.",
+      "Je n'ai repris ni l'âge, ni la profession médicale, ni les liens familiaux et successions des clients, sauf quand ils expliquent l'origine des fonds en cause."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Opus 5.5), à partir du texte extrait du PDF officiel", "date": "2026-11-13", "relue_par_mateo": false}
+}
