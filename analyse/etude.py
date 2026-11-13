@@ -57,13 +57,20 @@ TYPES = {
 # Lecture
 # --------------------------------------------------------------------------
 
+# Période couverte par l'étude, telle que l'annonce son texte (site/pages/analyse.html) :
+# les décisions rendues à partir de janvier 2019. Les fiches plus anciennes sont publiées
+# sur le site mais n'entrent dans l'étude que si l'on change cette date et le texte.
+DEBUT_ETUDE = "2019-01-01"
+
+
 def charger():
-    """Renvoie les fiches LCB-FT (dictionnaire id -> fiche) et la base des décisions."""
+    """Renvoie les fiches LCB-FT de la période étudiée (id -> fiche) et la base des décisions."""
     decisions = {d["id"]: d for d in json.loads(BASE.read_text(encoding="utf-8"))}
     fiches = {}
     for chemin in sorted(DOSSIER_FICHES.glob("*/*.json")):
         f = json.loads(chemin.read_text(encoding="utf-8"))
-        if f["perimetre"] != "hors LCB-FT":
+        date = (decisions.get(f["id"]) or {}).get("date_decision") or ""
+        if f["perimetre"] != "hors LCB-FT" and date >= DEBUT_ETUDE:
             fiches[f["id"]] = f
     return fiches, decisions
 

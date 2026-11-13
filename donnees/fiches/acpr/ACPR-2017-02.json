@@ -1,0 +1,185 @@
+{
+  "id": "ACPR-2017-02",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT et gel des avoirs",
+  "resume_court": "La « société A » était un assureur, filiale à 100 % de la « société B », qui l'a absorbée pendant la procédure. Elle avait émis des bons de capitalisation au porteur, vendus d'abord par le Trésor public puis par un réseau commercial. Ces titres se transmettent de main en main et peuvent être remboursés de façon anonyme sur le plan fiscal, parfois en espèces au guichet d'une trésorerie publique. Sa procédure ne déclenchait une vigilance particulière qu'au-delà de 150 000 euros, un seuil atteint par environ 1 % des opérations. Son outil d'alerte ne voyait que 4 % des remboursements. Une famille a racheté pour plus d'un million d'euros de bons dont on ignorait l'origine sans qu'aucune déclaration soit faite à Tracfin, alors même que l'examen interne concluait qu'on ne savait ni d'où venaient les titres ni où allaient les fonds. La Commission retient sept griefs, dont un en partie, et en écarte un, abandonné par la poursuite. Sanction : 200 000 euros, sans blâme, parce qu'après une absorption seule une amende peut viser la société absorbante.",
+  "identite": {
+    "etablissement": "anonymisé (« société B venant aux droits de la société A »)",
+    "type_etablissement": "entreprise d'assurance",
+    "precision_type": "Assureur créé en 1988 pour concevoir des produits d'assurance et de capitalisation, vendus exclusivement par le Trésor public, puis à partir de 2004 par un réseau commercial (« D », anciennement « C »). Bons au porteur émis de 1988 à 2008 ; vente sous forme anonyme arrêtée en 2003, sous forme nominative en 2008. Portefeuille transféré à la « société B » par fusion-absorption pendant la procédure.",
+    "groupe": "filiale à 100 % de la « société B » (non nommée)",
+    "pays": "France",
+    "activite_et_taille": "Encours de bons et montant des rachats masqués dans la décision.",
+    "pages": [2, 3]
+  },
+  "controle": {
+    "controle_sur_place": "du 31 décembre 2014 au 24 mars 2016",
+    "rapport_de_controle": "signé le 16 juin 2016",
+    "ouverture_de_la_procedure": "décidée par le Collège (sous-collège de l'assurance) le 16 février 2017 ; lettre de saisine et notification des griefs du 13 mars 2017",
+    "antecedents": "non précisé",
+    "pages": [1, 2]
+  },
+  "sanction": {
+    "nature": ["sanction pécuniaire"],
+    "montant_euros": 200000,
+    "publication": "anonymisée",
+    "duree_publication_nominative": "aucune : publication anonyme décidée d'emblée, la sanction visant la société absorbante",
+    "proposition_du_college": "blâme et 200 000 euros, publication anonyme",
+    "pages": [1, 2, 11, 12]
+  },
+  "procedure": {
+    "questions_de_procedure": "Mêmes questions préalables que dans la décision 2017-03, rendue le même jour. L'histoire de la société, liée à des partenaires publics, ne change rien à ses obligations. La présomption de bonne foi du porteur ne dispense pas de la vigilance. Une lettre du Collège dénonçant de « graves insuffisances » chez la maison mère et une « lettre de suite » du Secrétariat général ne préjugent pas de la décision. Après une fusion-absorption, la société absorbante ne peut recevoir qu'une amende, publiée sans la nommer. Le Collège a abandonné le grief 7. Audience non publique. Le rapporteur concluait que 7 griefs sur 8 étaient établis, dont les griefs 2, 4, 6 et 8 dans un périmètre réduit.",
+    "pages": [1, 3, 4, 11, 12]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Des remboursements de bons anonymes classés en risque normal",
+      "resume": "La classification des risques, reprise de la maison mère, plaçait en « risque normal » le remboursement d'un bon versé sur un compte au nom du porteur, sans tenir compte du régime fiscal. La Commission rappelle que les produits qui favorisent l'anonymat doivent toujours être classés à risque élevé, comme l'avaient souligné l'ACPR en 2010 et le GAFI en 2011. La correction faite pendant le contrôle ne change rien.",
+      "textes": ["CMF R. 561-38 (I, 2°)", "code des assurances A. 310-8 (I)", "CMF L. 561-10 (3°)", "CMF R. 561-19"],
+      "chiffres_cles": ["classification en vigueur depuis décembre 2010", "corrigée en juillet 2015, intégrée aux procédures en 2016"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief […] est établi. »",
+      "categorie": "classification des risques",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [5]
+    },
+    {
+      "numero": "2",
+      "titre": "Une vigilance déclenchée seulement au-delà de 150 000 euros",
+      "resume": "La procédure destinée au réseau commercial ne prévoyait de vigilance particulière que pour les rachats de plus de 150 000 euros, seul ou en cumul sur 12 mois, un montant bien supérieur au rachat moyen. Elle ne prévoyait pas non plus de mesure de vigilance complémentaire pour un remboursement en espèces sous le régime de l'anonymat fiscal. La Commission juge qu'un seuil fixe qui ne vise qu'environ 1 % des opérations n'est pas efficace et va contre l'approche par les risques. Elle écarte en revanche le reproche de ne pas exiger de justificatifs, car la vigilance renforcée ne l'impose pas forcément.",
+      "textes": ["CMF R. 561-38 (I, 4°)", "code des assurances A. 310-8 (II)", "CMF L. 561-10-2 (I)", "CMF R. 561-20 (I)"],
+      "chiffres_cles": ["procédure de juin 2012", "seuil de 150 000 euros, unitaire ou cumulé sur 12 mois", "seuil correspondant à 1 % des transactions"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Le grief est établi dans un périmètre réduit » : la branche sur le recueil de justificatifs est écartée.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "seuils de vigilance fixés dans la procédure",
+      "categories_secondaires": ["personnes politiquement exposées et vigilance renforcée"],
+      "pages": [6]
+    },
+    {
+      "numero": "3",
+      "titre": "Un seul scénario d'alerte, qui couvrait 4 % des remboursements",
+      "resume": "Le même scénario unique que dans la décision 2017-03 : une alerte seulement si un même compte recevait plus de 27 paiements et plus de 75 000 euros sur 12 mois. Il ne voyait ni les remboursements anonymes, ni ceux passés par le compte de passage d'une trésorerie publique, payables en espèces, ni les rachats d'un même porteur sur plusieurs années ou d'une même famille. Les cinq autres scénarios de l'outil ne traitaient pas de ces opérations.",
+      "textes": ["code des assurances A. 310-8 (VI)"],
+      "chiffres_cles": ["seuils du scénario : plus de 27 paiements et plus de 75 000 euros sur 12 mois glissants sur un même compte", "4 % des remboursements couverts", "dossiers d'illustration F1 à F5"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est donc établi. »",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [6, 7]
+    },
+    {
+      "numero": "4",
+      "titre": "Deux remboursements en espèces sans vérification supplémentaire",
+      "resume": "Dans deux dossiers, des bons ont été remboursés en espèces, sous le régime de l'anonymat fiscal, sans aucune des mesures de vigilance complémentaire prévues par la loi. Dans l'un, le porteur avait présenté une carte d'identité périmée depuis plusieurs années et un très vieux permis de conduire. Rappeler au réseau qu'il faut « une grande vigilance » ou vérifier l'authenticité du bon ne suffit pas.",
+      "textes": ["CMF L. 561-10 (3°)", "CMF R. 561-19", "CMF R. 561-20 (I)"],
+      "chiffres_cles": ["2 dossiers (G1 et G2)"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est donc établi », à apprécier au regard du petit nombre de dossiers par rapport aux bons remboursés en 2015.",
+      "categorie": "personnes politiquement exposées et vigilance renforcée",
+      "categorie_precision": "vigilance complémentaire pour les produits qui favorisent l'anonymat",
+      "categories_secondaires": [],
+      "pages": [7, 8]
+    },
+    {
+      "numero": "5",
+      "titre": "Des remboursements importants sans examen renforcé",
+      "resume": "Quatre clients ont été remboursés pour des montants inhabituellement élevés, sous le régime de l'anonymat fiscal, sans que l'on sache comment ils avaient obtenu les bons. Dans trois dossiers, les bons avaient été payés au départ en partie en espèces, et rien n'était connu des revenus ou du patrimoine du client. Dans le quatrième, une cliente aux revenus de 3 000 euros par mois avait acheté près de 85 000 euros de bons. La Commission rejette les arguments déjà vus dans la décision 2017-03 : l'examen renforcé vaut aussi pour les clients occasionnels, et il n'existe aucun seuil de 100 000 euros.",
+      "textes": ["CMF L. 561-10-2 (II)"],
+      "chiffres_cles": ["4 dossiers (H1 à H4), remboursements entre août 2012 et juillet 2014", "montants cumulés d'un peu moins de 85 000 à un peu plus de 145 000 euros", "dossier H2 : patrimoine total de plus de 500 000 euros, dont 20 000 euros d'épargne financière, revenus de 3 000 euros par mois"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief […] est établi. »",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [8, 9]
+    },
+    {
+      "numero": "6",
+      "titre": "Plus d'un million d'euros racheté par une famille, sans déclaration",
+      "resume": "Trois déclarations de soupçon seulement entre 2014 et la fin du contrôle. Quatre dossiers auraient dû être déclarés. Trois remboursements, faits pour l'essentiel sous le régime de l'anonymat fiscal, parfois en espèces par une trésorerie publique, par des clients dont on ignorait les revenus. Et surtout, une famille qui rachète près de 250 bons d'un souscripteur inconnu pour plus d'un million d'euros. Une première alerte a été classée sans suite. L'examen renforcé a ensuite conclu que l'on ne pouvait déterminer ni l'origine des titres ni la destination des fonds, et pourtant aucune déclaration n'a été faite.",
+      "textes": ["CMF L. 561-15 (I et III)"],
+      "chiffres_cles": ["3 déclarations de soupçon entre 2014 et la fin du contrôle", "3 dossiers au titre du soupçon (F1, G1, G2) : rachats de 2011 à 2014, d'un peu moins de 14 000 à un peu plus de 330 000 euros", "dossier F4 : près de 250 bons rachetés de 2012 à 2014 pour plus d'1 million d'euros, dont plus de 330 000 euros par une seule personne"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi dans sa totalité », alors que le rapporteur proposait un périmètre réduit.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [9, 10]
+    },
+    {
+      "numero": "7",
+      "titre": "Une déclaration de soupçon jugée incomplète",
+      "resume": "La poursuite reprochait une déclaration de mai 2015 qui ne disait pas que le porteur des bons et sa compagne étaient les locataires de la souscriptrice. Mais la société avait joint à la déclaration un acte de procédure qui le montrait clairement. Le Collège a abandonné ce grief.",
+      "textes": ["CMF R. 561-31 (I)"],
+      "chiffres_cles": ["dossier I1, déclaration du 19 mai 2015"],
+      "issue": "écarté",
+      "precision_issue": "Abandonné par le Collège, qui en a reçu acte.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "qualité des déclarations",
+      "categories_secondaires": [],
+      "pages": [10, 11]
+    },
+    {
+      "numero": "8",
+      "titre": "Gel des avoirs : les remboursements au guichet jamais filtrés",
+      "resume": "Aucun contrôle n'était fait avant un remboursement en espèces au guichet d'une trésorerie publique, des remboursements parfois faits malgré leur interdiction depuis 2011. Le nom du porteur n'existait que sur le formulaire papier, alors que le filtrage ne portait que sur la base informatique des personnes. Jusqu'en avril 2015, la liste des personnes gelées n'était mise à jour qu'une fois par mois. Les faits ne sont pas contestés.",
+      "textes": ["code des assurances A. 310-8 (VI)"],
+      "chiffres_cles": ["mise à jour mensuelle de la liste jusqu'en avril 2015", "aucune opération au profit d'une personne gelée détectée"],
+      "issue": "retenu",
+      "precision_issue": "Établi, à apprécier en tenant compte de ce qu'aucune personne gelée n'a été payée. Le rapporteur proposait un périmètre réduit ; la Commission ne le dit pas.",
+      "categorie": "gel des avoirs et sanctions financières",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [11]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [],
+    "elements_attenuants": [
+      {"texte": "Actions correctrices engagées depuis le début du contrôle, prises en compte « dans une certaine mesure ».", "pages": [12]},
+      {"texte": "Grief 4 limité à deux dossiers ; grief 8 sans personne gelée payée.", "pages": [8, 11]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Interdiction des remboursements de bons en espèces.", "pages": [12]},
+      {"texte": "Recueil d'informations sur l'origine des bons présentés au remboursement.", "pages": [12]},
+      {"texte": "Amélioration du dispositif de gel des avoirs.", "pages": [12]},
+      {"texte": "Remboursement de bons classé en risque élevé en juillet 2015.", "pages": [5]}
+    ],
+    "situation_financiere": {"texte": "Non précisé en chiffres : la sanction tient compte de « l'assise financière » de la société B.", "pages": [12]},
+    "cause_profonde": {"texte": "Non précisé de façon explicite. La décision montre une société qui reprenait la classification de sa maison mère et s'en remettait aux procédures du réseau public de distribution (« la plus grande prudence s'impose »).", "pages": [5, 8]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Les seuils de vigilance sont-ils calés sur le montant moyen des opérations réelles ? Quelle part des opérations les atteint ?",
+      "Un seuil unique et fixe est-il complété par des critères de risque (anonymat, espèces, cumul familial) ?",
+      "Les produits qui favorisent l'anonymat, même plus vendus, sont-ils classés à risque élevé au moment de leur remboursement ?",
+      "Une pièce d'identité périmée est-elle refusée comme mesure de vigilance complémentaire ?",
+      "Quand un examen renforcé conclut que l'origine des fonds reste inconnue, une déclaration à Tracfin est-elle obligatoirement envisagée et la décision tracée ?",
+      "Les rachats d'une même famille ou d'un même souscripteur sont-ils regroupés pour la surveillance ?",
+      "Les paiements faits par un partenaire extérieur (guichet public, distributeur) sont-ils filtrés contre les listes de gel avant exécution ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["assurance", "bons de capitalisation au porteur", "anonymat fiscal", "espèces", "Trésor public", "compte de passage", "seuil fixe", "approche par les risques", "vigilance complémentaire", "examen renforcé", "fusion-absorption", "grief abandonné", "décision jumelle 2017-03"],
+    "pages_prioritaires": [
+      {"pages": [6], "pourquoi": "pourquoi un seuil fixe de 150 000 euros ne suffit pas"},
+      {"pages": [10], "pourquoi": "le dossier familial de plus d'un million d'euros, examiné mais jamais déclaré"},
+      {"pages": [11, 12], "pourquoi": "gel des avoirs et fusion-absorption"}
+    ],
+    "confiance": "élevée",
+    "a_verifier": [
+      "Grief 7 : le Collège l'a abandonné et la Commission en donne acte (p. 11), mais le récapitulatif p. 12 cite encore une déclaration « incomplète » (grief 7) parmi les manquements. Probable erreur de rédaction de la décision. Je le classe « écarté ».",
+      "Grief 8 : le rapporteur proposait un périmètre réduit ; la Commission ne reprend pas ces mots. Classé « retenu ».",
+      "Grief 2 : « 1 % des transactions » est la formule de la Commission (p. 6) ; les nombres exacts sont masqués.",
+      "Cette décision et la 2017-03 ont été rendues le même jour, avec les mêmes avocats et une argumentation presque identique. Je ne les ai pas reliées davantage et je n'ai pas cherché à identifier les sociétés.",
+      "La décision nomme le Trésor public comme premier distributeur : je l'ai gardé parce qu'il figure dans le texte publié et explique le modèle d'affaires."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Opus 5.5), à partir du texte extrait du PDF officiel", "date": "2026-11-13", "relue_par_mateo": false}
+}

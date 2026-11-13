@@ -3,13 +3,17 @@
 # Qui tu es, pourquoi ce projet, ce que tu cherches. Laisse une ligne vide entre deux paragraphes.
 # Pour le lien LinkedIn, colle simplement l'adresse complète (https://www.linkedin.com/in/...) : elle deviendra un lien.
 # Tant qu'il n'y a pas de texte, le site affiche un emplacement réservé.
-Je m'appelle Matéo Bonnesoeur. Je suis en première année du master « Gestion d'actifs, contrôle des risques et conformité » à l'IAE de Caen, après plusieurs expériences en banque de détail, au Crédit Agricole et au Crédit Mutuel.
+Je m'appelle Matéo Bonnesoeur. Je suis en première année du master « Gestion d'actifs, contrôle des risques et conformité » à l'IAE de Caen, et je pars au deuxième semestre à Oslo, à OsloMet, pour un échange Erasmus.
 
-Ce qui m'intéresse le plus, c'est la lutte contre la criminalité financière : le blanchiment et le financement du terrorisme, les sanctions internationales et le gel des avoirs, les abus de marché. J'ai lancé ce projet pour apprendre ce métier à partir de cas réels, et pour arriver en entretien en sachant ce qu'un régulateur a déjà reproché à la banque en face de moi.
+Avant le master, j'ai surtout vu la banque depuis l'agence et le back-office. Au Crédit Agricole à Caen, j'ai fait un stage au middle office successions, puis un CDD de conseiller au centre de relation client. Avant ça, un stage au Crédit Mutuel. Dans ces postes, on applique des procédures sans toujours savoir d'où elles viennent : on demande un justificatif au client, on bloque une opération, on remplit une case, et on ne voit jamais la suite.
 
-La base se met à jour seule chaque semaine. Elle couvre l'ACPR et l'AMF ; viendront ensuite les régulateurs luxembourgeois (CSSF) et suisse (FINMA).
+C'est un peu de là qu'est parti ce site. En cours, on apprend les textes : les obligations de vigilance, les déclarations à Tracfin, le gel des avoirs. On voit beaucoup moins ce qui se passe quand ça ne marche pas. Les décisions de sanction racontent exactement ça. Un outil de surveillance mal réglé, des centaines de milliers d'alertes jamais traitées, un filtrage des sanctions qui ne repère que les noms écrits à l'identique. Je voulais comprendre ces échecs concrètement, cas par cas, plutôt que de rester sur la théorie.
 
-Je cherche un stage en conformité, en contrôle interne ou en LCB-FT, à Paris, au Luxembourg ou en Suisse.
+Ce qui m'attire, c'est la lutte contre la criminalité financière au sens large : le blanchiment, les sanctions internationales, et aussi les abus de marché, d'où l'ajout des décisions de l'AMF. J'aimerais travailler dans une grande banque, à Paris, au Luxembourg ou en Suisse.
+
+Côté technique, je ne suis pas développeur. Le site est hébergé sur GitHub : chaque lundi, un petit programme en Python va voir s'il y a de nouvelles décisions sur les sites de l'ACPR et de l'AMF, puis le site se reconstruit tout seul. J'ai monté l'ensemble avec Claude, une IA, qui m'a aussi aidé à rédiger les premières versions des fiches. Tout est expliqué sur la page Méthode.
+
+Je cherche un stage en conformité, en contrôle interne ou en LCB-FT. Si vous travaillez dans ce domaine et que le projet vous parle, ou si vous repérez une erreur dans une fiche, écrivez-moi : j'aurai plaisir à en discuter.
 
 # Colle ici l'adresse de ton profil LinkedIn (enlève le # au début de la ligne suivante) :
 # Mon profil LinkedIn : https://www.linkedin.com/in/...

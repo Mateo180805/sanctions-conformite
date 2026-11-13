@@ -52,8 +52,29 @@ URL_PAGE_LISTE = SITE + "/fr/sanction-transaction/Decisions-de-la-commission-des
 THEMES_PAR_DEFAUT = "91,184,183,325,90,461,89,242,86,462,181"
 URL_LISTE = SITE + "/fr/rest/listing_sanction/{themes}/all/all"
 
-# La liste comptait 454 décisions le 13 novembre 2026 (depuis 2004).
-MINIMUM_ATTENDU = 400
+# Période couverte : comme pour l'ACPR (première décision en janvier 2011), on garde
+# les décisions numérotées à partir de 2011. La loi de régulation bancaire et
+# financière du 22 octobre 2010 a profondément changé les sanctions de l'AMF
+# (plafond porté à 100 millions d'euros) : les décisions plus anciennes appliquent
+# un cadre dépassé.
+PREMIERE_ANNEE = 2011
+
+# Exceptions : décisions plus anciennes gardées parce qu'elles restent instructives.
+GARDEES_AVANT_2011 = {
+    # Les cinq montants totaux les plus élevés d'avant 2011 (de 4 à 9,6 millions d'euros).
+    "SAN-2006-14": "plus forte sanction totale d'avant 2011 (manipulation de marché)",
+    "SAN-2007-19": "manquement d'initié, 6,25 millions d'euros",
+    "SAN-2009-09": "manquement d'initié, 5,55 millions d'euros",
+    "SAN-2007-16": "obligation d'information, 5,1 millions d'euros",
+    "SAN-2010-04": "manquement d'initié, 4 millions d'euros",
+    # Les deux décisions anciennes qui portent nettement sur la lutte contre le blanchiment.
+    "SAN-2009-22": "lutte contre le blanchiment",
+    "SAN-2009-01": "lutte contre le blanchiment",
+}
+
+# La liste officielle comptait 454 décisions le 13 novembre 2026 (depuis 2004) ;
+# on en garde 280 (de 2011 à 2026, plus les exceptions).
+MINIMUM_ATTENDU = 250
 
 # Le texte des décisions n'est pas enregistré dans le dépôt (voir en haut du fichier).
 GARDER_TEXTE = False
@@ -227,6 +248,10 @@ def lister():
             "empreinte_ligne": hashlib.sha256(json.dumps(
                 [infos["text_egard"], infos["text"], pdf], ensure_ascii=False).encode("utf-8")).hexdigest()[:16],
         })
+
+    # Seulement la période couverte, plus les exceptions.
+    entrees = [e for e in entrees
+               if int(e["annee_recueil"]) >= PREMIERE_ANNEE or e["numero"] in GARDEES_AVANT_2011]
 
     # Du plus ancien au plus récent, comme pour l'ACPR.
     entrees.sort(key=lambda e: [int(x) for x in e["numero"].split("-")[1:]])

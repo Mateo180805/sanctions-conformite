@@ -399,7 +399,7 @@ def page(chemin, titre, contenu, description, collecte, actif=None, scripts="", 
 </main>
 <footer class="pied">
   <div class="cadre">
-    <p>Site personnel de Matéo Bonnesoeur, sans lien avec l'ACPR ni l'AMF. Les décisions sont publiées par
+    <p>Site personnel (<a href="{r}a-propos.html">à propos</a>), sans lien avec l'ACPR ni l'AMF. Les décisions sont publiées par
     les commissions des sanctions de ces deux autorités : seul leur texte officiel fait foi.</p>
     <p>Base mise à jour le {date_maj}. Code et données ouverts sur <a href="{LIEN_DEPOT}">GitHub</a>.</p>
   </div>
@@ -469,10 +469,9 @@ def accueil(lignes, collecte):
             if l["theme"]:
                 compte[l["theme"]] = compte.get(l["theme"], 0) + 1
         themes = [t for t, _ in sorted(compte.items(), key=lambda kv: -kv[1])[:3]]
-        annees_amf = sorted(l["annee"] for l in amf if l["annee"])
         phrase_amf = f"""
   <p class="chiffres">Elle compte aussi <strong>{len(amf)} décisions</strong> de la Commission des sanctions de
-  l'Autorité des marchés financiers (AMF), rendues de {annees_amf[0]} à {annees_amf[-1]}, classées par l'AMF
+  l'Autorité des marchés financiers (AMF), depuis 2011 et quelques décisions marquantes plus anciennes, classées par l'AMF
   surtout en {", ".join(themes[:-1])} et {themes[-1]}. Elles n'ont pas encore de fiche d'analyse.</p>"""
     contenu = f"""
 <section class="ouverture">
@@ -711,9 +710,7 @@ def fiche_page(l, glossaire, collecte):
     termes = lexique(json.dumps(visible, ensure_ascii=False), glossaire)
     lex = "".join(f"<dt>{e(t['terme'])}</dt><dd>{e(t['definition'])}</dd>" for t in termes)
 
-    # « mes_notes » reste privé : il n'est pas affiché sur le site.
-    statut = ("Fiche relue par Matéo." if relue else
-              "Cette fiche n'a pas encore été relue par Matéo.")
+    # « mes_notes » et le statut de relecture restent privés : ils ne sont pas affichés sur le site.
 
     contenu = f"""
 <nav class="fil" aria-label="Fil d'Ariane"><a href="../base.html">Base</a> <span aria-hidden="true">/</span> {e(l['regulateur'])} n°&nbsp;{e(l['procedure'])}</nav>
@@ -727,7 +724,7 @@ def fiche_page(l, glossaire, collecte):
     <div><dt>Griefs</dt><dd>{decompte(issues)}<span class="faits-bilan">{e(bilan(issues).split(' : ')[1]) if issues else 'non détaillés'}</span></dd></div>
     <div><dt>Périmètre</dt><dd>{e(f['perimetre'])}</dd></div>
   </dl>
-  <p class="avertissement">{statut} Rédigée avec Claude ({e(red['redigee_par'].split('(')[1].split(')')[0]) if '(' in red['redigee_par'] else 'IA'})
+  <p class="avertissement">Fiche rédigée avec Claude ({e(red['redigee_par'].split('(')[1].split(')')[0]) if '(' in red['redigee_par'] else 'IA'})
   à partir du PDF officiel ; chaque information renvoie à sa page. <a href="{e(pdf)}">Ouvrir la décision officielle</a></p>
 </header>
 <div class="fiche">
@@ -750,7 +747,6 @@ def fiche_page(l, glossaire, collecte):
       <dl class="tableau-def">
         <dt>Décision officielle</dt><dd><a href="{e(pdf)}">PDF publié par l'ACPR</a> ({d.get('nb_pages', '?')} pages)</dd>
         <dt>Rédaction</dt><dd>{e(red['redigee_par'])}, le {date_en_clair(red['date'])}.</dd>
-        <dt>Relecture</dt><dd>{statut}</dd>
         <dt>Confiance de l'analyse</dt><dd>{e(majuscule(m.get('confiance', 'non précisée')))}</dd>
       </dl>
     </section>
@@ -940,7 +936,7 @@ def points_page(donnees, chiffres, publiees, collecte):
     (SORTIE / "telechargements").mkdir(parents=True, exist_ok=True)
     etude.ecrire_csv(donnees, SORTIE / "telechargements" / "points-de-controle.csv")
 
-    relue = "" if donnees["redaction"].get("relu_par_mateo") else " Elle n'a pas encore été relue point par point."
+    relue = ""  # le statut de relecture n'est pas affiché sur le site
     contenu = f"""<div class="titre-page">
   <h1>Points de contrôle</h1>
   <p class="chapo">{len(donnees['points'])} questions à se poser sur un dispositif de lutte contre le blanchiment

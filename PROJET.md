@@ -1,6 +1,6 @@
 # PROJET – Sanctions Conformité
 
-Cahier des charges du projet. Version du 13 novembre 2026 (session 5 : collecte AMF ajoutée ; règle sur les personnes physiques au point 7).
+Cahier des charges du projet. Version du 13 novembre 2026 au soir (AMF limitée à 2011, prénom retiré du site sauf À propos, ordre des fiches au point 10).
 Ce fichier est à redonner à Claude au début de chaque session, avec JOURNAL.md.
 
 ## 1. Qui je suis
@@ -92,7 +92,7 @@ Les décisions qui ne portent ni sur la LCB-FT ni sur le gel des avoirs (protect
 - Avant de traiter un lot, tester la méthode sur quelques décisions et me montrer le résultat.
 - Signaler les doutes au lieu de les cacher.
 - Les fiches doivent pouvoir être lues par quelqu'un qui ne baigne pas dans le sujet : phrases simples, sigles développés, vocabulaire juridique et financier expliqué dans le lexique, sans passer son temps à faire des définitions ni perdre le détail.
-- Le site cite toujours la source officielle et a une page « Méthode » qui dit honnêtement que la collecte et la première analyse ont été faites avec Claude (Fable), puis relues par moi.
+- Le site cite toujours la source officielle et a une page « Méthode » qui dit honnêtement que la collecte et la première analyse ont été faites avec Claude. Mon prénom n'apparaît que sur la page À propos (pas de mention « pas encore relue » sur les fiches).
 
 ## 8. Le site
 
@@ -119,6 +119,6 @@ Textes : courts et factuels. Des emplacements clairement marqués sont laissés 
 3. Le site (GitHub Pages).
 4. Étude comparative et liste des points de contrôle.
 5. Collecte AMF (faite le 13 novembre 2026, sans fiches).
-6. Et suivantes : décisions ACPR d'avant 2019, fiches AMF, CSSF, FINMA.
+6. Et suivantes (ordre fixé le 13 novembre) : les fiches d'abord, sans nouveau régulateur ni développement du site. Décisions ACPR d'avant 2019 sur le blanchiment (lots de 3), puis fiches courtes ACPR hors LCB-FT, puis fiches AMF (décisions depuis 2011). CSSF et FINMA plus tard.
 
 L'ordre des sessions 2 à 5 peut changer ; le noter ici si c'est le cas.

@@ -1,0 +1,136 @@
+{
+  "id": "ACPR-2018-01",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "gel des avoirs",
+  "resume_court": "L'« établissement de crédit A » est une grande banque de détail française, qui proposait aussi des « mandats cash » : un service pour envoyer de l'argent en espèces à quelqu'un en France, avec ou sans compte dans la banque. En 2016, cela représentait 5,5 millions d'envois pour environ 1,3 milliard d'euros. Aucun de ces envois ne passait par le filtrage qui vérifie, avant l'opération, que l'expéditeur ou le destinataire n'est pas sur une liste de gel des avoirs, notamment pour terrorisme. La banque connaissait le problème depuis 2013. Son audit interne l'avait alerté en 2015 et le risque était jugé « critique », mais le projet informatique censé le régler a été repoussé d'année en année. Le comité des risques n'en a pas été informé, et la banque a déclaré à l'ACPR que son dispositif de gel couvrait tout. La Commission retient les quatre griefs et juge la carence massive et prolongée pendant environ huit ans. Sanction : un blâme et 50 millions d'euros, la plus forte amende de l'ACPR en matière de gel des avoirs.",
+  "identite": {
+    "etablissement": "anonymisé (« établissement de crédit A »)",
+    "type_etablissement": "établissement de crédit",
+    "precision_type": "Banque de détail de taille significative, filiale à 100 % d'un groupe (« groupe B »), que la Commission décrit comme appartenant au secteur public. Le service de « mandats cash » en cause était hérité du groupe.",
+    "groupe": "« groupe B » (non nommé)",
+    "pays": "France",
+    "activite_et_taille": "Près de 11 millions de clients en 2017, produit net bancaire de 5,7 milliards d'euros et résultat net part du groupe de 764 millions d'euros. Mandats cash nationaux en 2016 : 2,7 millions d'opérations « ordinaires » (522 millions d'euros) et 2,8 millions d'opérations « urgentes » (826 millions d'euros). 62 % des opérations étaient faites par des clients sans compte dans la banque. Activité déficitaire (perte masquée dans la décision). Montant moyen d'un mandat : moins de 300 euros.",
+    "pages": [2, 10]
+  },
+  "controle": {
+    "controle_sur_place": "du 2 mars au 28 juillet 2017",
+    "rapport_de_controle": "signé le 21 novembre 2017",
+    "ouverture_de_la_procedure": "décidée par le Collège le 15 mars 2018 ; lettre de saisine et notification des griefs du 5 avril 2018",
+    "antecedents": "Aucun contrôle ni aucune sanction antérieurs de l'ACPR ne sont mentionnés. Le défaut était connu en interne : audit interne fin 2014, inspection générale en juin 2015, fiche de risque « critique » créée en novembre 2013. Une note interne de 2013 indique que la réglementation avait été « rappelée par l'ACP ».",
+    "pages": [1, 3, 4, 8]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 50000000,
+    "publication": "anonymisée aujourd'hui",
+    "duree_publication_nominative": "décidée nominative pendant 5 ans, puis forme anonyme",
+    "proposition_du_college": "blâme et 50 millions d'euros, publication nominative",
+    "pages": [1, 2, 11]
+  },
+  "procedure": {
+    "questions_de_procedure": "Règle « non bis in idem » : la banque soutenait qu'on ne pouvait pas la poursuivre parce qu'une enquête pénale avait été ouverte pour les mêmes faits, selon la presse. La Commission écarte l'argument : la France a fait une réserve sur ce principe, qui n'empêche pas une sanction administrative en plus d'une procédure pénale ; aucun jugement définitif n'est intervenu ; et la procédure porte sur le dispositif de gel, pas sur les faits visés par l'enquête. Audience non publique à la demande de la banque. Le rapporteur concluait que les 4 griefs étaient établis.",
+    "pages": [1, 3]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Des millions de mandats cash jamais filtrés contre les listes de gel",
+      "resume": "Les mandats cash nationaux n'étaient intégrés ni dans le filtrage automatique ni dans le filtrage manuel de la banque. Elle ne pouvait donc pas savoir, avant d'exécuter un envoi, si l'expéditeur ou le bénéficiaire était visé par une mesure de gel, européenne ou nationale. La banque soutenait que la loi ne visait alors que les avoirs « détenus en compte », or ces envois se faisaient en espèces. La Commission répond que les fonds transitaient par la banque jusqu'à leur remise au bénéficiaire, donc qu'ils étaient bien « détenus auprès » d'elle. Elle ajoute qu'elle n'a pas à dire si des personnes gelées ont réellement été payées : les cas cités ne font qu'illustrer l'absence de dispositif.",
+      "textes": ["règlement n° 97-02, article 11-7 (2.2)", "arrêté du 3 novembre 2014, article 47", "CMF L. 562-1 à L. 562-5 (rédaction applicable aux faits)"],
+      "chiffres_cles": ["près de 25 millions de mandats exécutés entre le 1er janvier 2013 et le 31 mars 2017", "au moins 75 opérations entre le 1er décembre 2009 et le 13 mars 2017 pour 10 clients dont le nom, le prénom et la date de naissance correspondent à des personnes gelées, dans 9 cas sur 10 pour terrorisme", "certaines opérations repérées après coup, fin 2014 par l'audit interne et fin 2016 par la direction de la sécurité financière"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi », quelles que soient les mesures prises depuis. La détection après coup de certaines opérations ne change rien.",
+      "categorie": "gel des avoirs et sanctions financières",
+      "categorie_precision": "un produit entier (transmission de fonds en espèces) exclu du filtrage avant exécution",
+      "categories_secondaires": [],
+      "pages": [3, 4, 5, 6, 7]
+    },
+    {
+      "numero": "2",
+      "titre": "Un défaut connu depuis 2013 et jamais corrigé",
+      "resume": "Un projet de filtrage des mandats cash a été décidé en novembre 2013, pour une fin prévue en 2015. Il a ensuite été intégré à des projets informatiques plus vastes et repoussé à plusieurs reprises. En 2015, l'inspection générale de la banque a signalé un « risque avéré et élevé » et demandé que le comité des risques du groupe soit saisi, ce qui n'a pas été fait. En décembre 2016, une fiche interne qualifiait le risque de « critique » mais le déclarait « accepté », avec une correction prévue fin 2018. À la fin du contrôle, rien n'avait été corrigé. La Commission juge que des difficultés techniques ne peuvent pas justifier plusieurs années de retard.",
+      "textes": ["règlement n° 97-02, articles 5 (f) et 11-3", "arrêté du 3 novembre 2014, articles 11 (f) et 38"],
+      "chiffres_cles": ["projet décidé le 29 novembre 2013, fin prévue au troisième trimestre 2015", "budgets de la seconde phase non alloués en octobre 2014", "dérapage de plus de quinze mois constaté le 2 mars 2017", "fiche de risque de décembre 2016 : risque « critique » accepté, sanction possible estimée à 250 000 euros, correction prévue au 31 décembre 2018", "mandats urgents supprimés le 28 août 2017, mandats ordinaires entre particuliers le 31 décembre 2017"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est donc établi. » L'absence de réaction au rapport de l'inspection générale de juin 2015 est qualifiée de « carence d'une particulière gravité ».",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "suivi des actions correctrices",
+      "categories_secondaires": ["gouvernance, moyens et formation"],
+      "pages": [7, 8]
+    },
+    {
+      "numero": "3",
+      "titre": "Des réponses inexactes au questionnaire annuel de l'ACPR",
+      "resume": "Dans son questionnaire annuel sur la lutte contre le blanchiment pour 2016, la banque a répondu que son dispositif détectait toutes les opérations au bénéfice de personnes gelées, alors qu'elle savait que les mandats cash n'étaient pas filtrés. Elle soutenait que la Commission ne pouvait pas sanctionner le non-respect d'une simple instruction de l'ACPR. La Commission répond que l'ACPR a un pouvoir réglementaire pour fixer les informations qu'on doit lui transmettre, et que les faits ne sont pas contestés.",
+      "textes": ["instruction n° 2012-I-04 du 28 juin 2012 (tableaux « BLANCHIMT »)", "CMF L. 612-24", "CMF L. 612-39"],
+      "chiffres_cles": ["réponses aux questions 71, 72 et 73 du questionnaire 2016"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est donc établi » ; faits non contestés.",
+      "categorie": "autre (à préciser)",
+      "categorie_precision": "informations inexactes transmises au superviseur (questionnaire annuel LCB-FT)",
+      "categories_secondaires": ["gel des avoirs et sanctions financières"],
+      "pages": [9]
+    },
+    {
+      "numero": "4",
+      "titre": "Un comité des risques jamais informé",
+      "resume": "Les comptes rendus du comité des risques du conseil de surveillance en 2015 et 2016 ne montrent aucune information sur le risque lié à l'absence de filtrage des mandats cash. La banque rejetait la faute sur ses directions de la conformité et de la sécurité financière, qui n'auraient pas assez alerté le directoire. La Commission répond que des points généraux sur la lutte contre le blanchiment ne remplacent pas une information sur ce risque précis, et que le grief est établi quelle que soit la direction responsable.",
+      "textes": ["arrêté du 3 novembre 2014, article 253 (a)"],
+      "chiffres_cles": ["réunions du comité des risques de 2015 et 2016"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi, quelle que soit la direction à laquelle le défaut de transmission de l'information peut, le cas échéant, être imputé. »",
+      "categorie": "gouvernance, moyens et formation",
+      "categorie_precision": "information de l'organe de surveillance",
+      "categories_secondaires": [],
+      "pages": [9, 10]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "En matière de gel des avoirs, les banques ont une obligation de résultat. Exclure du filtrage une partie entière de son activité est « en soi une carence très grave ».", "pages": [10]},
+      {"texte": "Opérations très nombreuses, montants cumulés importants, mouvements d'espèces, et une clientèle souvent sans compte, donc mal connue : la carence avait un caractère « massif ».", "pages": [10]},
+      {"texte": "Carence prolongée pendant environ 8 ans ; les premières décisions concrètes ne sont venues qu'après le contrôle, et leur rapidité montre « a contrario » la négligence passée.", "pages": [10]},
+      {"texte": "Contexte d'aggravation de la menace terroriste et d'attention accrue au « micro-financement » du terrorisme.", "pages": [10]},
+      {"texte": "Comité des risques non saisi et informations erronées données à l'ACPR.", "pages": [10]},
+      {"texte": "Un établissement bancaire de taille significative, appartenant au secteur public, dont on pouvait attendre davantage.", "pages": [11]}
+    ],
+    "elements_attenuants": [
+      {"texte": "Aucun retenu. La Commission écarte les arguments de la banque : activité marginale et déficitaire, utile à une clientèle fragile peu bancarisée, autres activités non critiquées, investissements importants dans la lutte contre le blanchiment depuis 2014, appréciation favorable de services de renseignement.", "pages": [10, 11]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Suppression des mandats cash urgents le 28 août 2017, puis des mandats ordinaires entre particuliers le 31 décembre 2017.", "pages": [7, 8]},
+      {"texte": "Projet de remplacement lancé en 2017, avec une échéance mi-2018.", "pages": [8]}
+    ],
+    "situation_financiere": {"texte": "Produit net bancaire de 5,7 milliards d'euros et résultat net part du groupe de 764 millions d'euros en 2017. Le montant de 50 millions d'euros est fixé « au regard de l'assise financière » de la banque.", "pages": [2, 11]},
+    "cause_profonde": {"texte": "La décision décrit des projets informatiques successivement reportés ou fondus dans des projets plus larges (mutualisation des systèmes de paiement avec une autre banque, contraintes chez le prestataire), des budgets non alloués, et un risque formellement « accepté » plutôt que traité. Pour la banque, ses directions de contrôle n'avaient pas assez alerté le directoire. La Commission juge que ces difficultés ne justifient pas le retard.", "pages": [7, 8, 9, 10]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Existe-t-il une liste de tous les produits et flux, et chacun passe-t-il par le filtrage gel des avoirs avant exécution, y compris les opérations en espèces et celles des clients sans compte ?",
+      "Un nouveau produit, ou un produit hérité d'une autre entité du groupe, est-il vérifié contre le dispositif de gel avant d'être proposé ?",
+      "Un risque de non-conformité réglementaire peut-il être classé « accepté » ? Qui le décide, et l'organe de surveillance en est-il informé ?",
+      "Les recommandations de l'audit et de l'inspection générale ont-elles un responsable, une date et un suivi jusqu'à leur clôture ?",
+      "Quand un projet de mise en conformité dérape, une mesure provisoire (suspension du produit, contrôle manuel) est-elle décidée en attendant ?",
+      "Le comité des risques reçoit-il les risques de non-conformité précis, pas seulement un point général sur la LCB-FT ?",
+      "Les réponses au questionnaire annuel de l'ACPR sont-elles vérifiées contre les faiblesses connues avant envoi ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["gel des avoirs", "mandats cash", "transmission de fonds", "espèces", "clients sans compte", "terrorisme", "filtrage a priori", "obligation de résultat", "risque accepté", "audit interne", "comité des risques", "questionnaire annuel", "non bis in idem", "projet informatique", "secteur public"],
+    "pages_prioritaires": [
+      {"pages": [5, 6], "pourquoi": "pourquoi des fonds en espèces non inscrits en compte entrent quand même dans le gel"},
+      {"pages": [8], "pourquoi": "la fiche de risque « critique » acceptée, avec une estimation de l'amende à 250 000 euros"},
+      {"pages": [10, 11], "pourquoi": "le raisonnement sur la gravité et le montant de 50 millions d'euros"}
+    ],
+    "confiance": "élevée",
+    "a_verifier": [
+      "Décision anonymisée : je n'ai pas cherché à identifier la banque. J'ai laissé de côté certains détails de la page 2 (nombre de points de vente) et gardé ce qui sert à comprendre la sanction (taille, secteur public, cité p. 11).",
+      "« La plus forte amende de l'ACPR en matière de gel des avoirs » : c'est vrai dans la base actuelle (décisions depuis 2011), à revérifier si une décision plus récente la dépasse.",
+      "Périmètre « gel des avoirs » seul : les quatre griefs portent sur le dispositif de gel, même si le contrôle portait sur toute la LCB-FT.",
+      "Les montants de la perte du service et des investissements de la banque sont masqués dans le texte publié (« (…) »)."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Opus 5.5), à partir du texte extrait du PDF officiel", "date": "2026-11-13", "relue_par_mateo": false}
+}

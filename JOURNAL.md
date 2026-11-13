@@ -60,7 +60,7 @@ Matéo a validé le 13 novembre l'ensemble des propositions et laissé Claude tr
 - **12.** Appliquée le 13 novembre (session 4 ; un seul grief a changé : 2018-06 grief 7, passé en « vigilance constante et mise à jour des dossiers ») : identification des clients occasionnels -> « relation d'affaires et clients occasionnels » ; connaissance du client non mise à jour -> « vigilance constante et mise à jour des dossiers » ; les griefs « autre » restent « autre » avec leur précision.
 - **13.** Le lien « Source officielle » garde l'adresse de l'ACPR (c'est la source publique) ; le site n'affiche jamais le nom.
 - Longueur des fiches : inchangée.
-- Les fiches gardent la mention « pas encore relue par Matéo » tant que leur statut n'est pas passé à « lue » (règle d'honnêteté du point 7 de PROJET.md).
+- (Remplacé le 13 novembre au soir, à la demande de Matéo.) Le statut de relecture n'est plus affiché sur le site ; la page Méthode dit que les fiches sont une première analyse rédigée avec Claude.
 
 ## Le site (session 3)
 
@@ -108,6 +108,24 @@ Adresse prévue : https://mateo180805.github.io/sanctions-conformite/
   - menu avec la page en cours sur fond d'accent ; pied de page sombre ;
   - testé sur ordinateur et sur téléphone (390 px), sans erreur JavaScript ni débordement horizontal.
 
+## Soir du 13 novembre : décisions de Matéo et lot 7 (avec Opus 5.5, Fable épuisé)
+
+- **AMF limitée à 2011** (demande de Matéo) : on garde les décisions numérotées à partir de 2011, comme l'ACPR (première décision en janvier 2011), plus 7 exceptions définies dans `collecte/amf.py` (`PREMIERE_ANNEE`, `GARDEES_AVANT_2011`) : les 5 plus fortes sanctions d'avant 2011 (SAN-2006-14, 2007-19, 2009-09, 2007-16, 2010-04) et les 2 décisions anciennes sur le blanchiment (SAN-2009-22, 2009-01). **280 décisions AMF** au lieu de 454. La collecte du lundi applique le même filtre. Justification affichée sur la page Méthode : loi du 22 octobre 2010 (plafond porté à 100 millions d'euros).
+- **Plus de prénom sur le site, sauf À propos** (demande de Matéo) : suppression de « pas encore relue par Matéo » sur les fiches et de la ligne « Relecture » ; pied de page « Site personnel (à propos) » sans le nom ; compteur de fiches relues retiré de la page Méthode ; avertissements de l'étude reformulés sans mention de relecture. La page Méthode garde la phrase honnête : fiches, étude et points de contrôle sont une première analyse ; seul le texte officiel fait foi. Le statut « à lire » / « lue » reste dans les fichiers, non affiché. **Ceci remplace la règle « les fiches gardent la mention pas encore relue ».**
+- **Page À propos réécrite**, plus longue et moins formelle (parcours en banque, origine du projet, ce qu'il cherche, partie technique). Lien LinkedIn toujours à coller par Matéo.
+- **Priorité choisie par Matéo** : d'abord les 36 décisions LCB-FT de l'ACPR antérieures à 2019, même méthode que Fable, lots de 3. Ensuite seulement le reste (44 fiches courtes hors LCB-FT, puis AMF). Plus de développement du site ni de nouveau régulateur pour l'instant.
+- **Lot 7 (Opus 5.5)** : 3 fiches. Méthode inchangée (lecture complète, `analyse/fiches.py`, recherche de chaque nombre dans les pages citées, issues comparées aux phrases de conclusion). Le script de recherche des nombres est à refaire à chaque session (il était dans /tmp) : extraire les nombres des chiffres clés, résumés et précisions, et les chercher dans les pages citées du texte.
+
+| Décision | Établissement (anonymisé) | Sanction | Griefs retenus / en partie / écartés |
+|---|---|---|---|
+| 2018-01 | grande banque de détail, « mandats cash » non filtrés (gel des avoirs) | blâme, 50 M€ | 4 / 0 / 0 |
+| 2017-03 | assureur vie absorbé, bons de capitalisation au porteur | 800 000 € (pas de blâme : fusion-absorption) | 7 / 1 / 0 |
+| 2017-02 | assureur absorbé, même groupe et même jour que 2017-03 | 200 000 € (idem) | 6 / 1 / 1 |
+
+- Points à vérifier signalés dans les fiches : 2017-03 grief 6 (pas de phrase de conclusion propre, classé retenu) et deux coquilles probables du texte ; 2017-02 grief 7 abandonné mais cité dans le récapitulatif de la décision.
+- **L'étude reste sur sa période** : `analyse/etude.py` ne compte que les fiches de décisions rendues depuis le 1er janvier 2019 (`DEBUT_ETUDE`). Les chiffres de l'étude n'ont pas bougé (31 décisions) et aucun bandeau « Texte à mettre à jour » n'apparaît. Quand toutes les décisions d'avant 2019 auront leur fiche, il faudra décider d'élargir l'étude (changer la date et reprendre le texte).
+- Il reste **33 décisions LCB-FT de l'ACPR antérieures à 2019** sans fiche, des plus récentes aux plus anciennes : 2017-01 (CNP Assurances, 8 M€), 2017-04, 2017-07, 2017-06, 2017-05…
+
 ## Thèmes repérés pendant la session 2
 
 - Décisions à part : 2019-08 (avertissement, sans amende, financement participatif) ; 2018-03 (blâme sans amende à cause de la situation financière) ; 2018-05 (radiation) ; 2020-09 (gel des avoirs seulement) ; 2019-07 (21 griefs dont beaucoup hors LCB-FT).
@@ -149,6 +167,6 @@ Adresse prévue : https://mateo180805.github.io/sanctions-conformite/
 - ou des fiches AMF, en commençant par les 28 décisions signalées blanchiment (Fable 5.2 ; la grille du point 6 de PROJET.md devra être complétée pour les abus de marché) ;
 - ou la collecte de la CSSF puis de la FINMA (Opus 5.5 ou Sonnet 5.5).
 
-Message de reprise : « Session 6 : lis PROJET.md et JOURNAL.md (pas l'archive), récupère le dépôt, puis propose-moi le plan pour [les décisions ACPR d'avant 2019 / les fiches AMF / la collecte de la CSSF]. »
+Message de reprise : « Lot 8 : lis PROJET.md et JOURNAL.md (pas l'archive), récupère le dépôt, puis fais les 3 fiches ACPR suivantes d'avant 2019 (2017-01, 2017-04, 2017-07), même méthode que le lot 7. »
 
 Modèle conseillé : Fable 5.2 pour les fiches et pour reprendre le texte de l'étude ; Opus 5.5 ou Sonnet 5.5 pour la collecte et le site.
