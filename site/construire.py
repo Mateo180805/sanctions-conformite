@@ -362,6 +362,9 @@ def page(chemin, titre, contenu, description, collecte, actif=None, scripts="", 
         for lien, nom in MENU)
     date_maj = date_en_clair(max(c["date"] for c in collecte.values()))
     titre_complet = NOM_SITE if chemin == "index.html" else f"{titre} – {NOM_SITE}"
+    # Classe de la page (« p-base », « p-fiche »...) : chaque page a son propre bandeau (style.css).
+    classe = ("accueil" if chemin == "index.html" else "fiche" if chemin.startswith("decisions/")
+              else chemin.rsplit(".", 1)[0])
     texte = f"""<!doctype html>
 <html lang="fr">
 <head>
@@ -383,7 +386,7 @@ def page(chemin, titre, contenu, description, collecte, actif=None, scripts="", 
 <link rel="stylesheet" href="{r}statique/style.css">
 <link rel="icon" href="{r}statique/icone.svg" type="image/svg+xml">
 </head>
-<body>
+<body class="p-{classe}">
 <a class="evitement" href="#contenu">Aller au contenu</a>
 <header class="entete">
   <div class="cadre entete-cadre">

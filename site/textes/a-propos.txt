@@ -7,6 +7,9 @@ Je m'appelle Matéo Bonnesoeur. Je suis en première année du master « Gestion
 
 Ce qui m'intéresse le plus, c'est la lutte contre la criminalité financière : le blanchiment et le financement du terrorisme, les sanctions internationales et le gel des avoirs, les abus de marché. J'ai lancé ce projet pour apprendre ce métier à partir de cas réels, et pour arriver en entretien en sachant ce qu'un régulateur a déjà reproché à la banque en face de moi.
 
-La base se met à jour seule chaque semaine. Après l'ACPR viendront l'AMF, puis les régulateurs luxembourgeois (CSSF) et suisse (FINMA).
+La base se met à jour seule chaque semaine. Elle couvre l'ACPR et l'AMF ; viendront ensuite les régulateurs luxembourgeois (CSSF) et suisse (FINMA).
 
 Je cherche un stage en conformité, en contrôle interne ou en LCB-FT, à Paris, au Luxembourg ou en Suisse.
+
+# Colle ici l'adresse de ton profil LinkedIn (enlève le # au début de la ligne suivante) :
+# Mon profil LinkedIn : https://www.linkedin.com/in/...

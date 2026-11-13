@@ -99,6 +99,15 @@ Adresse prévue : https://mateo180805.github.io/sanctions-conformite/
 - Le texte d'introduction de Matéo (`site/textes/introduction.txt`) parle encore seulement de l'ACPR : à adapter par lui s'il le souhaite.
 - **Risque** : on ne sait pas encore si le site de l'AMF accepte les serveurs de GitHub. À vérifier lundi 16 novembre (onglet Actions). Si l'AMF refuse : plan B du README (`python collecte/lancer.py amf` depuis l'ordinateur).
 
+## Fin de journée du 13 novembre : textes et mise en forme
+
+- **Textes complétés à la place de Matéo** (à relire par lui) : l'introduction de l'accueil et la page À propos mentionnent maintenant l'AMF ; la présentation du README est écrite. Le lien LinkedIn reste à coller par Matéo : une ligne en commentaire l'attend à la fin de `site/textes/a-propos.txt` (enlever le # du début).
+- **Mise en forme, sans changer le contenu** (`site/statique/style.css`, bloc « Mise en forme générale » à la fin ; dans `site/construire.py`, seulement une classe `p-...` ajoutée à `<body>`) :
+  - chaque page a son bandeau d'en-tête, avec une petite mention au-dessus du titre : accueil sombre, Base beige, Analyse bleu pétrole foncé, Points de contrôle bleu pétrole très clair, fiche blanche avec ses chiffres clés encadrés, Méthode, Lexique et À propos blancs avec un filet ; un motif de « frise » à droite sur grand écran ;
+  - le contenu est rangé dans des blocs blancs bordés : filtres, tableau de la base, sections des fiches, sommaire, étude et graphiques, points de contrôle par catégorie, lettres du lexique (sur deux colonnes) ;
+  - menu avec la page en cours sur fond d'accent ; pied de page sombre ;
+  - testé sur ordinateur et sur téléphone (390 px), sans erreur JavaScript ni débordement horizontal.
+
 ## Thèmes repérés pendant la session 2
 
 - Décisions à part : 2019-08 (avertissement, sans amende, financement participatif) ; 2018-03 (blâme sans amende à cause de la situation financière) ; 2018-05 (radiation) ; 2020-09 (gel des avoirs seulement) ; 2019-07 (21 griefs dont beaucoup hors LCB-FT).

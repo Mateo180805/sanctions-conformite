@@ -446,3 +446,206 @@ table.graphe tbody tr:hover { background: var(--fond); }
   .fiche { display: block; }
   a { color: inherit; }
 }
+
+/* =====================================================================
+   Mise en forme générale (session 5, fin de journée)
+   - un bandeau d'en-tête propre à chaque page (classe p-... sur <body>) ;
+   - des blocs blancs bordés pour délimiter clairement le contenu.
+   Une seule couleur d'accent, déclinée en plus clair ou plus foncé.
+   ===================================================================== */
+:root {
+  --papier: #f4efe7;
+  --blanc: #fffefb;
+  --bord: #ddd3c4;
+  --nuit: #19272b;
+  --ombre: 0 1px 2px rgba(25, 39, 43, 0.05), 0 4px 14px rgba(25, 39, 43, 0.05);
+  --rayon: 6px;
+}
+html, body { overflow-x: clip; }
+main.cadre { padding-top: 0; }
+
+/* ---------- Menu : la page en cours est marquée plus nettement ---------- */
+.entete { box-shadow: 0 1px 0 var(--bord); position: relative; z-index: 2; }
+.entete nav a { padding: 0.35rem 0.6rem; border-radius: 4px; border-bottom: 0; }
+.entete nav ul { gap: 0.2rem 0.4rem; }
+.entete nav a:hover { background: var(--fond); }
+.entete nav a[aria-current="page"] { background: var(--accent); color: #fff; }
+
+/* ---------- Le bandeau de tête ---------- */
+.titre-page, .ouverture, .fiche-tete {
+  position: relative;
+  max-width: none;
+  margin: 0 calc(50% - 50vw) 2.5rem;
+  padding: 3.2rem calc(50vw - 50%) 2.6rem;
+  border-bottom: 1px solid var(--bord);
+  background: var(--blanc);
+}
+.titre-page > *, .ouverture > * { max-width: 46rem; position: relative; z-index: 1; }
+.titre-page > :last-child, .ouverture > :last-child { margin-bottom: 0; }
+.titre-page h1 { margin-bottom: 0.9rem; }
+
+/* Petite mention au-dessus du titre, différente sur chaque page. */
+.titre-page::before, .ouverture::before {
+  display: block; position: relative; z-index: 1;
+  font: 600 0.78rem/1.2 var(--texte); letter-spacing: 0.14em; text-transform: uppercase;
+  color: var(--accent); margin-bottom: 1rem;
+}
+.p-accueil .ouverture::before { content: "Décisions de sanction · ACPR et AMF"; }
+.p-base .titre-page::before { content: "Base de données"; }
+.p-analyse .titre-page::before { content: "Étude comparative"; }
+.p-points-de-controle .titre-page::before { content: "Outil de contrôle interne"; }
+.p-methode .titre-page::before { content: "Sources et méthode"; }
+.p-lexique .titre-page::before { content: "Glossaire"; }
+.p-a-propos .titre-page::before { content: "L'auteur"; }
+.p-404 .titre-page::before { content: "Erreur 404"; }
+
+/* Motif de « frise » (le signe du site) à droite du bandeau, sur grand écran. */
+.titre-page::after, .ouverture::after {
+  content: ""; position: absolute; bottom: 2.6rem;
+  right: max(1.25rem, calc((100% - 71.5rem) / 2));   /* aligné sur le bord droit du contenu */
+  width: 13rem; height: 4.5rem; opacity: 0.16; pointer-events: none;
+  background: repeating-linear-gradient(90deg, var(--accent) 0 7px, transparent 7px 13px);
+}
+@media (max-width: 1100px) { .titre-page::after, .ouverture::after { display: none; } }
+
+/* Accueil : bandeau sombre. */
+.p-accueil .ouverture { background: var(--nuit); color: #ece6db; border-bottom: 0; padding-bottom: 3.2rem; }
+.p-accueil .ouverture > * { max-width: 50rem; }
+.p-accueil .ouverture h1 { color: #fff; }
+.p-accueil .ouverture::before { color: #8cc6cc; }
+.p-accueil .ouverture::after { opacity: 0.5; width: 16rem; height: 7rem; bottom: 3.2rem;
+  background: repeating-linear-gradient(90deg, #5fa9b1 0 8px, transparent 8px 15px); }
+.p-accueil .chiffres { color: #cfc8bc; }
+.p-accueil .chiffres strong { color: #fff; }
+.p-accueil .ouverture a:not(.bouton) { color: #b7dfe3; }
+.p-accueil .ouverture .bouton { background: #fff; color: var(--nuit); }
+.p-accueil .ouverture .bouton:hover { background: var(--accent-pale); }
+.p-accueil .ouverture .reserve { color: #cfc8bc; border-color: #6b7a7e; }
+
+/* Base : bandeau beige, comme un registre. */
+.p-base .titre-page { background: var(--fond); }
+
+/* Analyse : bandeau couleur d'accent foncée. */
+.p-analyse .titre-page { background: var(--accent-fonce); color: #e6f0ef; border-bottom: 0; }
+.p-analyse .titre-page h1 { color: #fff; }
+.p-analyse .titre-page .chapo { color: #e6f0ef; }
+.p-analyse .titre-page::before { color: #a9d3d6; }
+.p-analyse .titre-page::after { opacity: 0.35; background: repeating-linear-gradient(90deg, #fff 0 7px, transparent 7px 13px); }
+
+/* Points de contrôle : bandeau couleur d'accent très claire. */
+.p-points-de-controle .titre-page { background: var(--accent-pale); border-bottom-color: #bcd6d4; }
+
+/* Méthode, Lexique, À propos : bandeau blanc avec un filet d'accent. */
+.p-methode .titre-page, .p-lexique .titre-page, .p-a-propos .titre-page, .p-404 .titre-page {
+  border-bottom: 3px solid var(--accent);
+}
+
+/* Fiche : le fil d'Ariane fait partie du bandeau. */
+.p-fiche .fil {
+  margin: 0 calc(50% - 50vw); padding: 1.4rem calc(50vw - 50%) 0;
+  background: var(--blanc);
+}
+.p-fiche .fiche-tete { padding-top: 1.4rem; border-bottom: 3px solid var(--accent); }
+.fiche-tete > * { max-width: 58rem; }
+.fiche-sur { text-transform: uppercase; letter-spacing: 0.1em; font-size: 0.8rem; }
+.faits {
+  border: 1px solid var(--bord); border-top: 3px solid var(--accent); border-radius: var(--rayon);
+  background: var(--papier); padding: 1.1rem 1.3rem;
+}
+.faits > div + div { border-left: 1px solid var(--bord); padding-left: 1.2rem; }
+@media (max-width: 700px) { .faits > div + div { border-left: 0; padding-left: 0; } }
+
+/* ---------- Les blocs de contenu ---------- */
+.filtres,
+table.base,
+.bloc,
+.sommaire,
+.fiche-corps > section,
+.points-corps > .texte,
+.points-corps > section,
+.etude,
+.p-methode main > .texte,
+.p-a-propos main > .texte,
+.lexique-page section {
+  background: var(--blanc);
+  border: 1px solid var(--bord);
+  border-radius: var(--rayon);
+  box-shadow: var(--ombre);
+}
+
+/* Accueil */
+.accueil-suite { margin-top: 0; gap: 1.5rem 2rem; grid-template-columns: minmax(0, 1fr) 19rem; }
+.bloc { padding: 1.5rem 1.7rem 0.6rem; max-width: none; }
+.recentes li:last-child { border-bottom: 0; }
+
+/* Base */
+.filtres { padding: 1.3rem 1.4rem; }
+table.base { border-collapse: separate; border-spacing: 0; overflow: hidden; }
+.base th { background: var(--fond); border-bottom: 2px solid var(--accent); }
+.base th:first-child, .base td:first-child { padding-left: 1.1rem; }
+.base th:last-child, .base td:last-child { padding-right: 1.1rem; }
+.base tbody tr:hover { background: #f1f7f6; }
+.base tbody tr:last-child td { border-bottom: 0; }
+@media (max-width: 760px) {
+  table.base { padding: 0 1rem; }
+  .base tr:last-child { border-bottom: 0; }
+}
+
+/* Fiche (et page Points de contrôle, qui reprend sa mise en page) */
+.sommaire { padding: 1rem 1.1rem 0.6rem; }
+.sommaire ul { border-left-color: var(--bord); }
+.fiche-corps { max-width: 48rem; }
+.fiche-corps > section, .points-corps > section, .points-corps > .texte {
+  padding: 1.6rem 1.9rem 1rem; margin: 0 0 1.25rem; scroll-margin-top: 1rem;
+}
+.fiche-corps > section > h2, .points-corps > section > h2 {
+  margin-top: 0; padding-bottom: 0.55rem; border-bottom: 1px solid var(--bord); margin-bottom: 1rem;
+}
+.points-corps h2 { border-bottom-color: var(--bord); }
+.points-corps > .texte { max-width: none; }
+.point:last-child { border-bottom: 0; }
+.deduit { background: var(--accent-pale); border-radius: 0 var(--rayon) var(--rayon) 0; }
+.decide { background: var(--papier); }
+.grief:last-of-type { border-bottom: 0; }
+@media (max-width: 600px) {
+  .fiche-corps > section, .points-corps > section, .points-corps > .texte { padding: 1.2rem 1.1rem 0.6rem; }
+  .bloc { padding: 1.2rem 1.1rem 0.4rem; }
+}
+
+/* Analyse : le texte dans un bloc, les graphiques dans des encadrés. */
+.etude { padding: 2rem 2.4rem 1.2rem; max-width: 52rem; }
+.etude > h2 { border-top: 1px solid var(--bord); padding-top: 1.8rem; margin-top: 2.4rem; }
+.graphique { background: var(--papier); border: 1px solid var(--bord); border-radius: var(--rayon); padding: 1.1rem 1.2rem 0.9rem; }
+.graphique table.graphe tbody tr:hover { background: var(--blanc); }
+@media (max-width: 600px) { .etude { padding: 1.3rem 1.1rem 0.8rem; } }
+
+/* Méthode et À propos : un seul bloc, des filets entre les parties. */
+.p-methode main > .texte, .p-a-propos main > .texte { padding: 2rem 2.4rem 1.2rem; max-width: 48rem; }
+.p-methode main > .texte > h2 { border-top: 1px solid var(--bord); padding-top: 1.6rem; margin-top: 2rem; }
+.p-methode main > .texte > h2:first-child { border-top: 0; padding-top: 0; margin-top: 0; }
+@media (max-width: 600px) { .p-methode main > .texte, .p-a-propos main > .texte { padding: 1.3rem 1.1rem 0.8rem; } }
+
+/* Lexique : une carte par lettre, sur deux colonnes en grand écran. */
+.lexique-page { max-width: none; display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 24rem), 1fr)); gap: 1.25rem; align-items: start; }
+.lexique-page section { padding: 1.2rem 1.5rem 1rem; }
+.lexique-page h2 { margin-top: 0; font-size: 2rem; border-bottom: 1px solid var(--bord); }
+.lettres { background: var(--blanc); border: 1px solid var(--bord); border-radius: var(--rayon); padding: 0.6rem 1rem; }
+
+/* Pied de page sombre, comme le bandeau de l'accueil. */
+.pied { background: var(--nuit); color: #b9b3a8; border-top: 0; margin-top: 2rem; }
+.pied a { color: #e6e0d5; }
+
+@media print {
+  .titre-page, .ouverture, .fiche-tete { margin: 0 0 1.5rem; padding: 0; background: none; color: inherit; }
+  .titre-page::after, .ouverture::after { display: none; }
+}
+.entete nav ul { margin-left: -0.6rem; }
+@media (max-width: 760px) {
+  .entete nav a { padding: 0.3rem 0.5rem; }
+  .entete nav ul { margin-left: -0.5rem; gap: 0.15rem 0.1rem; }
+  .base .c-date { white-space: normal; }
+  .base .c-date .proc { display: block; margin-left: 0; }
+}
+@media (max-width: 760px) {
+  .base th:first-child, .base td:first-child, .base th:last-child, .base td:last-child { padding-left: 0; padding-right: 0; }
+}

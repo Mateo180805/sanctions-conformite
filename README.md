@@ -3,7 +3,7 @@
 Base des décisions de sanction des régulateurs financiers, mise à jour chaque semaine.
 Projet personnel de Matéo Bonnesoeur (M1 Gestion d'actifs, contrôle des risques et conformité, IAE de Caen).
 
-> **[À écrire par Matéo : deux ou trois phrases de présentation.]**
+Les décisions de sanction montrent ce qui se passe quand un dispositif de conformité échoue : ce que le régulateur a contrôlé, ce qu'il reproche, et ce que cela coûte. Ce dépôt les rassemble, les met à jour chaque semaine et analyse celles qui portent sur la lutte contre le blanchiment. Le site public est ici : https://mateo180805.github.io/sanctions-conformite/
 
 Régulateurs couverts aujourd'hui : **ACPR** et **AMF** (commissions des sanctions).
 Prévus : CSSF (Luxembourg), FINMA (Suisse).
