@@ -1,0 +1,5 @@
+# Page « À propos », écrite par Matéo.
+# Les lignes qui commencent par # ne s'affichent pas : ce sont des consignes.
+# Qui tu es, pourquoi ce projet, ce que tu cherches. Laisse une ligne vide entre deux paragraphes.
+# Pour le lien LinkedIn, colle simplement l'adresse complète (https://www.linkedin.com/in/...) : elle deviendra un lien.
+# Tant qu'il n'y a pas de texte, le site affiche un emplacement réservé.

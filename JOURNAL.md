@@ -1,6 +1,6 @@
 # JOURNAL – Sanctions Conformité
 
-Journal de bord du projet, version courte (allégée le 13 novembre 2026 pour économiser le quota).
+Journal de bord du projet, version courte (allégée le 13 novembre 2026 pour économiser le quota ; mise à jour en fin de session 3).
 À redonner à Claude au début de chaque session, avec PROJET.md.
 Le détail lot par lot est dans `JOURNAL-ARCHIVE.md` : ne pas le relire au début d'une session, seulement au besoin.
 
@@ -8,11 +8,11 @@ Dépôt : https://github.com/Mateo180805/sanctions-conformite (public)
 
 ---
 
-## Où on en est (13 novembre 2026)
+## Où on en est (13 novembre 2026, session 3)
 
 - [x] Session 1 : collecte ACPR. Base de 111 décisions (2011 à 2026), mise à jour chaque lundi par GitHub Actions.
 - [x] Session 2 : fiches d'analyse, lots 1 à 6. **31 fiches sur 67 décisions LCB-FT** : toutes les décisions LCB-FT et gel des avoirs rendues entre janvier 2019 et avril 2026. Aucune n'a encore été relue par Matéo (statut « à lire »).
-- [ ] Session 3 : le site (GitHub Pages). **C'est la prochaine étape.**
+- [~] Session 3 : le site (GitHub Pages). Construit le 13 novembre (Opus 5.5) ; **à mettre en ligne par Matéo** (activer Pages, déposer, vérifier), puis textes de Matéo et retouches.
 - [ ] Session 4 : étude comparative et liste des points de contrôle, sur les 31 fiches.
 - [ ] Plus tard : les 36 décisions LCB-FT antérieures à 2019, les 44 fiches courtes « hors LCB-FT », puis AMF, CSSF, FINMA.
 
@@ -49,8 +49,8 @@ Lot 6 (13 novembre) :
 
 ## Questions ouvertes pour Matéo
 
-- **4.** Type d'établissement : les fiches reprennent le terme de la décision (une dizaine de libellés). À regrouper pour les filtres du site. Session 3.
-- **5.** `statut` et `mes_notes` existent dans la base et dans la fiche. Proposition : la fiche fait foi. Session 3.
+- **4.** Type d'établissement : regroupement provisoire pour le filtre du site (dictionnaire `TYPES` dans `site/construire.py`) : Banque ; Paiement et monnaie électronique (dont l'office des postes) ; Assurance ; Change manuel ; Financement participatif. La fiche garde le terme exact. À valider. Les décisions sans fiche sont « non renseigné ».
+- **5.** Appliqué sur le site : la fiche fait foi (`suivi.statut` ou `redaction.relue_par_mateo`). Le `statut` de `decisions.json` n'est plus utilisé. `mes_notes` n'est pas publié. À confirmer.
 - **6.** Faut-il une quatrième issue « abandonné par la poursuite » ? Trois griefs concernés (2020-06 grief 13, 2019-07 grief 11, 2017-10 grief 2), classés « écarté » avec précision. D'autres « écartés » ne valident rien non plus (erreur de base légale, preuve insuffisante). À trancher avant l'étude.
 - **10.** Fiche 2018-03 : la date exacte de la sanction de 2015 est tue et les deux fiches ne seront pas reliées sur le site. Choix provisoire de Claude, à confirmer.
 - **11.** Fiche 2018-06 : grief 11 « retenu » ou « retenu en partie » ? Grief 3 bien « hors LCB-FT » ?
@@ -59,15 +59,17 @@ Lot 6 (13 novembre) :
 
 Questions closes : 1 (pas de catégorie agents), 7 (anonymisation), 8 (COSI), 9 (griefs hors LCB-FT).
 
-## À traiter en session 3 (le site)
+## Le site (session 3)
 
-- **Noms résiduels** : plusieurs textes officiels anonymisés laissent passer un nom ou des détails qui resserrent l'identification (2020-05 p. 4, 2020-03 p. 7, 2020-01 p. 11, 2018-03 p. 7, 2018-06 p. 4, 2018-04 p. 8, 2017-10 p. 2 et 13). Le site ne doit ni afficher ni rendre cherchables les textes de `donnees/textes/` : il s'appuie sur les fiches.
-- **Adresses officielles qui trahissent un nom** : pour quelques décisions anonymisées, l'adresse de la page ou du PDF contient encore un nom. Proposition : afficher le numéro de procédure et un lien « source officielle ».
-- **Noms de personnes physiques** : certains titres et en-têtes de la base citent des dirigeants. Ne pas les mettre en avant.
-- **Fiches à anonymiser bientôt** : 2020-09 (MMA IARD, fin novembre 2026) et 2020-11 (février 2027). Quand l'ACPR retire le nom, la collecte retélécharge la décision ; il faut alors retirer le nom de la fiche. Une fiche ne doit pas garder un nom que l'ACPR a retiré.
-- Le site doit fonctionner avec 31 fiches complètes et 80 décisions sans fiche (statut clair : « fiche à venir »).
-- Page « Méthode » : dire quel modèle a fait quoi (fiches : Fable 5.2 ; site : le modèle utilisé en session 3), puis relecture par Matéo.
-- Emplacements à laisser pour les textes de Matéo (introduction, À propos).
+Adresse prévue : https://mateo180805.github.io/sanctions-conformite/
+
+- **Fonctionnement** : `site/construire.py` (Python sans bibliothèque à installer) lit `decisions.json`, les fiches et le glossaire, et fabrique les pages dans `_site/` (non enregistré dans le dépôt). `.github/workflows/site.yml` vérifie les fiches (`analyse/fiches.py`), fabrique le site et le publie à chaque dépôt sur `main`, après chaque collecte du lundi, ou avec « Run workflow ». Réglage GitHub nécessaire une fois : Settings > Pages > Source : « GitHub Actions ».
+- **Pages** : Accueil, Base (tableau, recherche, filtres régulateur / année / type / manquement retenu / montant / thème / « seulement analysées », tri date et montant, filtres recopiés dans l'adresse), une page par fiche, Analyse (attente de la session 4), Méthode, Lexique (114 termes), À propos.
+- **Style** : fond blanc, encre bleu-noir, un seul accent bleu pétrole (#0d5c64), titres en Newsreader, texte en Public Sans (polices libres, hébergées avec le site, licences dans `site/statique/polices/`). Signe distinctif : la « frise des griefs », une barre par grief (pleine = retenu, hachurée = en partie, vide = écarté). Testé sur ordinateur et téléphone (390 px), sans erreur JavaScript ; le site reste lisible sans JavaScript.
+- **Textes de Matéo** : `site/textes/introduction.txt` et `site/textes/a-propos.txt` (texte simple ; lignes commençant par # ignorées ; une adresse web devient un lien). Tant qu'ils sont vides, un cadre « Emplacement réservé » s'affiche. Textes fixes : `site/pages/methode.html` (écrit à la première personne, **à relire par Matéo**) et `site/pages/analyse.html`.
+- **Garde-fous** : le site ne lit jamais `donnees/textes/`. Noms de personnes physiques retirés des noms d'établissement des décisions sans fiche (2011-03, 2015-01, 2015-04, 2016-08), vérifié sur tout le site. Si l'ACPR anonymise une décision dont la fiche garde un nom (2020-09 fin novembre 2026, 2020-11 février 2027), la fiche est retirée du site, le reste est publié, et la tâche « Site » passe au rouge (e-mail). Il faut alors anonymiser la fiche.
+- **Choix d'affichage** : sur une fiche publique, pas de « points à vérifier » ni de « mes notes » (notes de travail) ; on affiche le statut de relecture, le niveau de confiance, les pages à lire, les mots-clés. Les noms écrits TOUT EN CAPITALES dans le recueil sont remis en minuscules à l'affichage (sigles connus conservés). Le lien « Source officielle » garde l'adresse de l'ACPR, qui contient encore un nom pour quelques décisions anonymisées (visible au survol) : à trancher (remplacer par le lien du recueil ?).
+- **Reste à faire** : mise en ligne et contrôle par Matéo ; ses textes (introduction, À propos, lien LinkedIn) ; relecture de la page Méthode ; graphiques de la page Analyse en session 4.
 
 ## À savoir pour la session 4 (l'étude)
 
@@ -100,8 +102,10 @@ Questions closes : 1 (pas de catégorie agents), 7 (anonymisation), 8 (COSI), 9 
 
 ## Prochaine étape
 
-**Session 3 – le site**, dans une nouvelle conversation, après dépôt du lot 6 sur GitHub.
+1. Matéo met le site en ligne (consignes données en session 3) et vérifie l'adresse ci-dessus sur ordinateur et téléphone. Retouches éventuelles dans la même conversation.
+2. Matéo écrit `introduction.txt` et `a-propos.txt`, et relit la page Méthode.
+3. **Session 4 – l'étude comparative**, dans une nouvelle conversation, après avoir tranché les questions 6 et 12.
 
-Message de reprise : « Session 3 : lis PROJET.md et JOURNAL.md (pas l'archive), récupère le dépôt, vérifie qu'il contient bien le lot 6 (31 fiches) et commence le site. Avant de coder, propose-moi le plan et la maquette de la page d'accueil et d'une fiche. »
+Message de reprise : « Session 4 : lis PROJET.md et JOURNAL.md (pas l'archive), récupère le dépôt, et propose-moi le plan de l'étude comparative et de la liste des points de contrôle avant de rédiger. »
 
-Modèle conseillé pour cette session : Opus 5.5, effort élevé pour la première demande (plan, structure, maquette), puis effort moyen pour les pages suivantes.
+Modèle conseillé : retouches du site avec Opus 5.5 (effort moyen) ; comptages et graphiques de l'étude avec Opus 5.5 ou Sonnet 5.5 ; texte de l'étude avec Fable 5.2 si le quota le permet.

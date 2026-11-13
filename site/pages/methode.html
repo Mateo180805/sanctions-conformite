@@ -1,0 +1,70 @@
+<!-- Texte de la page « Méthode ». Les {{repères}} sont remplacés par des chiffres à la fabrication du site. -->
+<div class="titre-page">
+  <h1>Méthode</h1>
+  <p class="chapo">D'où viennent les décisions, comment chaque fiche est construite, et ce qu'il faut savoir
+  avant de s'y fier.</p>
+</div>
+<div class="texte">
+
+<h2>Les sources</h2>
+<p>Les décisions viennent du <a href="https://acpr.banque-france.fr/fr/reglementation/recueil-des-sanctions">recueil des sanctions</a>
+publié par l'Autorité de contrôle prudentiel et de résolution (ACPR). Ce sont les décisions de sa Commission
+des sanctions, publiées sous forme nominative ou anonymisée. Chaque fiche renvoie au PDF officiel, et chaque
+information renvoie à la page de la décision d'où elle vient.</p>
+<p>La base compte {{nb_decisions}} décisions, dont {{nb_lcbft}} sur la lutte contre le blanchiment des capitaux
+et le financement du terrorisme (LCB-FT) ou sur le gel des avoirs. Les autres régulateurs (AMF, CSSF au
+Luxembourg, FINMA en Suisse) seront ajoutés ensuite.</p>
+
+<h2>La mise à jour</h2>
+<p>Chaque lundi, un programme vérifie le recueil de l'ACPR et ajoute les nouvelles décisions à la base. Il
+tourne seul sur les serveurs de GitHub et ne télécharge que ce qui est nouveau. Une nouvelle décision apparaît
+dans la base avec la mention « fiche à venir » ; sa fiche est rédigée et relue ensuite. Dernière vérification :
+{{date_collecte}}.</p>
+
+<h2>La grille d'analyse</h2>
+<p>Toutes les fiches suivent la même grille : un résumé en langage courant, l'identité de l'établissement, la
+sanction et les étapes de la procédure, la liste des griefs, le contexte (ce qui a pesé pour ou contre
+l'établissement, les mesures correctrices), puis un lexique.</p>
+<p>Un grief est un reproche examiné par la Commission. Pour chacun, la fiche indique s'il a été retenu,
+retenu en partie ou écarté, et le range dans une des treize catégories suivantes, les mêmes pour toutes les
+décisions :</p>
+<ul class="colonnes">{{categories}}</ul>
+<p>Ces catégories sont un choix d'analyse, pas celui de l'ACPR. Elles servent à comparer les décisions entre
+elles. Quand un grief d'une décision sur le blanchiment porte sur autre chose (protection de la clientèle,
+par exemple), il est signalé « hors LCB-FT ».</p>
+<p>Le bloc « Ce qui aurait dû être fait » est le seul qui ne vient pas directement de la décision : il traduit
+les manquements retenus en points de contrôle, et il est présenté comme tel.</p>
+
+<h2>Le rôle de l'intelligence artificielle</h2>
+<p>Ce projet a été construit avec Claude, l'assistant d'Anthropic, et je préfère le dire clairement.</p>
+<ul>
+  <li>Le programme de collecte a été écrit avec Claude.</li>
+  <li>La première version de chaque fiche a été rédigée par Claude (modèle Fable 5.2) à partir du texte du PDF
+  officiel, avec l'obligation de citer la page de chaque information et d'écrire « non précisé » plutôt que de
+  combler un vide. Des vérifications automatiques contrôlent ensuite les catégories, les pages citées et la
+  présence de chaque chiffre dans la page indiquée.</li>
+  <li>Le site a été conçu avec Claude (modèle Opus 5.5).</li>
+  <li>Chaque fiche est ensuite relue par moi. Fiches relues à ce jour : {{nb_relues}} sur {{nb_fiches}}. Une
+  fiche non relue l'indique en haut de page.</li>
+</ul>
+
+<h2>Anonymat</h2>
+<p>Quand l'ACPR publie une décision sous forme anonymisée, la fiche l'est aussi : aucune recherche n'est faite
+pour retrouver l'établissement. Quand l'ACPR retire le nom d'une décision publiée d'abord sous forme
+nominative, la fiche est retirée du site jusqu'à ce qu'elle soit anonymisée à son tour. Aucun nom de personne
+physique n'est mis en avant.</p>
+
+<h2>Limites</h2>
+<ul>
+  <li>Les fiches résument des décisions longues et techniques : elles peuvent contenir des erreurs. Seul le texte
+  officiel fait foi, et chaque fiche y renvoie.</li>
+  <li>Le texte des décisions est extrait automatiquement des PDF ; une coquille ou un montant mal lu reste
+  possible. Les doutes repérés sont signalés pendant la relecture.</li>
+  <li>Une décision anonymisée publie parfois des montants ou des chiffres masqués : ils restent masqués ici.</li>
+  <li>Ce site n'est pas un conseil juridique et n'a aucun lien avec l'ACPR.</li>
+</ul>
+
+<h2>Données ouvertes</h2>
+<p>Le code, la base (JSON et CSV) et les fiches sont publics sur
+<a href="https://github.com/Mateo180805/sanctions-conformite">GitHub</a>.</p>
+</div>

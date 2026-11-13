@@ -1,0 +1,4 @@
+# Introduction de la page d'accueil, écrite par Matéo.
+# Les lignes qui commencent par # ne s'affichent pas : ce sont des consignes.
+# Écris ton texte sous ces lignes (deux ou trois phrases). Laisse une ligne vide entre deux paragraphes.
+# Tant qu'il n'y a pas de texte, le site affiche un emplacement réservé.

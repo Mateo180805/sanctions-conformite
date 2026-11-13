@@ -22,6 +22,8 @@ Prévus : AMF, CSSF (Luxembourg), FINMA (Suisse).
 | `analyse/fiches.py` | Le programme qui vérifie les fiches et fabrique leur version lisible. |
 | `collecte/` | Le programme de collecte, en Python. |
 | `.github/workflows/collecte.yml` | La consigne donnée à GitHub : lancer la collecte chaque lundi. |
+| `site/` | Le site public : `construire.py` fabrique les pages, `statique/` contient le style, les scripts et les polices, `pages/` les textes fixes (Méthode, Analyse), `textes/` les textes écrits par Matéo. |
+| `.github/workflows/site.yml` | La consigne donnée à GitHub : refaire et publier le site après chaque dépôt et chaque collecte. |
 | `PROJET.md` | Le cahier des charges du projet. |
 | `JOURNAL.md` | Le journal de bord : ce qui est fait, les choix, la suite. |
 
@@ -69,6 +71,16 @@ Le champ `lcbft_indice` signale seulement que la liste officielle mentionne le b
 ## Plus tard : des résumés automatiques (non mis en place)
 
 Aujourd'hui, les nouvelles décisions arrivent avec le statut « à lire » et les fiches d'analyse sont préparées en session avec Claude, puis relues à la main. On pourrait automatiser le premier jet : après la collecte, une étape supplémentaire enverrait le texte de chaque nouvelle décision à un modèle de langage par une API, avec la grille d'analyse de `PROJET.md`, et rangerait la réponse dans un dossier `fiches/` avec le statut « à relire ». Il faudrait une clé d'API, enregistrée dans les « Secrets » du dépôt, et ce service est payant. Le projet devant rester gratuit, ce n'est pas fait.
+
+## Le site
+
+Le site est publié avec GitHub Pages : https://mateo180805.github.io/sanctions-conformite/
+
+`site/construire.py` lit la base et les fiches, et écrit des pages HTML toutes prêtes dans `_site/` (dossier non enregistré dans le dépôt). Il ne lit jamais `donnees/textes/` : certains textes anonymisés laissent passer des noms, le site ne s'appuie donc que sur les fiches. Aucun nom de personne physique n'est affiché. Si l'ACPR anonymise une décision dont la fiche garde le nom, la fiche est retirée du site et la tâche « Site » passe au rouge.
+
+Pour voir le site sur son ordinateur avant de déposer : `python site/construire.py`, puis ouvrir `_site/index.html`.
+
+Les textes de l'accueil et de la page « À propos » se modifient dans `site/textes/introduction.txt` et `site/textes/a-propos.txt`.
 
 ## Sources et méthode
 

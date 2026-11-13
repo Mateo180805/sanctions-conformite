@@ -1,0 +1,75 @@
+# Publication du site public (GitHub Pages).
+#
+# Ce fichier dit à GitHub : « à chaque dépôt de fichiers, et après chaque collecte
+# du lundi, fabrique les pages du site avec site/construire.py et mets-les en ligne ».
+# Les pages fabriquées ne sont pas enregistrées dans le dépôt : elles sont refaites à
+# chaque fois à partir des fiches, qui restent la seule source.
+
+name: Site
+
+on:
+  push:
+    branches: [main]
+  # La collecte enregistre ses changements avec le compte automatique de GitHub, ce qui ne
+  # déclenche pas « push » : on relance donc le site quand la collecte est terminée.
+  workflow_run:
+    workflows: ["Collecte hebdomadaire"]
+    types: [completed]
+  workflow_dispatch:   # bouton « Run workflow » pour republier à la main
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Une seule publication à la fois ; la plus récente gagne.
+concurrency:
+  group: site
+  cancel-in-progress: true
+
+jobs:
+  publier:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deploiement.outputs.page_url }}
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v5
+
+      - name: Installer Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      # Si une fiche a un problème (catégorie hors grille, page inexistante...), on s'arrête
+      # ici : le site en ligne reste dans son état précédent.
+      - name: Vérifier les fiches
+        run: python analyse/fiches.py
+
+      - name: Fabriquer le site
+        run: python site/construire.py
+
+      - name: Préparer la publication
+        uses: actions/configure-pages@v5
+
+      - name: Envoyer les pages
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+      - name: Mettre en ligne
+        id: deploiement
+        uses: actions/deploy-pages@v4
+
+      # Le site est déjà en ligne, sans les fiches à problème. Si une alerte a été écrite
+      # (par exemple une fiche qui garde un nom que l'ACPR a retiré), l'exécution passe au
+      # rouge pour que GitHub envoie un e-mail.
+      - name: Signaler les alertes
+        run: |
+          if [ -s _alertes.txt ]; then
+            while IFS= read -r ligne; do echo "::error::$ligne"; done < _alertes.txt
+            exit 1
+          fi
+          echo "Aucune alerte."
