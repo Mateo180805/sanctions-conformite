@@ -1,0 +1,222 @@
+{
+  "id": "ACPR-2017-10",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT et gel des avoirs",
+  "resume_court": "L'« établissement de paiement A » est la filiale irlandaise d'un groupe américain coté de transfert d'argent. En France, il travaille sous passeport européen, avec un réseau d'environ 1 200 agents, surtout pour des envois de fonds vers l'étranger. La Commission lui reproche d'avoir réglé sa surveillance sur des seuils sans rapport avec son activité : un examen approfondi n'était prévu qu'au-dessus de 6 000 euros par opération, alors que l'envoi moyen est de quelques centaines d'euros, et la recherche des personnes politiquement exposées ne se faisait qu'au-dessus du même seuil. Des clients qui envoyaient des dizaines de milliers d'euros à des inconnus au nom du « soutien familial » n'ont été ni interrogés sérieusement ni déclarés à Tracfin, y compris quand l'établissement avait lui-même fini par leur interdire toute opération. Mais trois griefs sur dix tombent, dont celui sur l'outil qui attribue un identifiant à chaque client, faute de preuve suffisante. Sanction : un blâme et un million d'euros, contre 1,5 million demandé.",
+  "identite": {
+    "etablissement": "anonymisé (« établissement de paiement A »)",
+    "type_etablissement": "établissement de paiement",
+    "precision_type": "Agréé en Irlande, il exerce en France sous passeport européen une activité de transmission de fonds, d'une part avec une société partenaire, d'autre part par un réseau d'environ 1 200 agents indépendants ; le contrôle n'a porté que sur ce réseau. Une succursale française avec un représentant permanent ; à Paris, une équipe LCB-FT d'un responsable et 6 collaborateurs. Les déclarations de soupçon sont préparées à l'étranger par des services du groupe.",
+    "groupe": "Groupe américain coté de transfert de fonds (« société Z », non nommée)",
+    "pays": "Irlande (agrément et siège) ; activité en cause exercée en France",
+    "activite_et_taille": "Chiffres masqués par l'ACPR. Le nombre de clients en France a plus que doublé entre 2015 et 2016. Les envois partent principalement vers la Turquie, le Maroc, le Sénégal, la Côte d'Ivoire et la Tunisie.",
+    "pages": [2]
+  },
+  "controle": {
+    "controle_sur_place": "du 23 novembre 2016 au 10 février 2017",
+    "rapport_de_controle": "signé le 6 juillet 2017",
+    "ouverture_de_la_procedure": "décidée le 8 novembre 2017, Commission saisie le 24 novembre 2017",
+    "antecedents": "non précisé",
+    "pages": [1, 2, 3]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 1000000,
+    "publication": "anonymisée aujourd'hui",
+    "duree_publication_nominative": "décidée nominative pendant 5 ans, puis forme anonyme",
+    "proposition_du_college": "blâme et 1,5 million d'euros, publication nominative",
+    "pages": [1, 2, 13, 14]
+  },
+  "procedure": {
+    "questions_de_procedure": "Pas d'exception de procédure, mais un point revient deux fois (griefs 1 et 4) : le Collège peut reprocher un fait que la version finale du rapport de contrôle ne critiquait pas. Le rapport ne le lie pas, et l'établissement a pu se défendre. La poursuite a abandonné le grief 2 en cours de procédure. Audience non publique, à la demande de l'établissement. Le rapporteur jugeait 9 griefs établis, dont 4 dans un périmètre réduit (1, 3, 8 et 10) ; la Commission va plus loin en écartant les griefs 3 et 10.",
+    "pages": [1, 3, 6]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "L'autorité qui a délivré la pièce d'identité n'était pas relevée",
+      "resume": "Les textes français demandent de noter, sur la pièce d'identité du client, qui l'a délivrée. Entre avril 2016 et mi-2018, après un changement d'outil informatique, l'établissement ne le relevait plus ; avant, le champ prévu était le plus souvent vide ou incomplet. Il jugeait cette information peu utile et propre à la France. La Commission répond que la règle est claire et s'applique à qui exerce en France.",
+      "textes": ["CMF R. 561-5", "CMF R. 561-10 (II)"],
+      "chiffres_cles": ["information non relevée d'avril 2016 à mi-2018"],
+      "issue": "retenu",
+      "precision_issue": "Établi. La Commission note ensuite qu'il ne touche qu'un aspect, « qui n'est pas le principal », de l'identification des clients (p. 13).",
+      "categorie": "relation d'affaires et clients occasionnels",
+      "categorie_precision": "éléments d'identité à relever pour les clients, en majorité occasionnels",
+      "categories_secondaires": ["connaissance du client à l'entrée en relation"],
+      "pages": [3, 13]
+    },
+    {
+      "numero": "2",
+      "titre": "Critères pour distinguer les clients en relation d'affaires",
+      "resume": "La poursuite reprochait des critères inadaptés à l'activité pour décider quels clients sont en relation d'affaires. Au vu de la défense, elle a abandonné ce grief.",
+      "textes": ["CMF L. 561-6", "CMF R. 561-12"],
+      "chiffres_cles": [],
+      "issue": "écarté",
+      "precision_issue": "Abandonné par la poursuite ; la Commission lui en donne acte. Ce n'est pas une validation des critères.",
+      "categorie": "relation d'affaires et clients occasionnels",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [4]
+    },
+    {
+      "numero": "3",
+      "titre": "Un identifiant client peu fiable : grief écarté faute de preuve",
+      "resume": "Un outil attribuait à chaque client un identifiant unique, qui sert à rattacher ses opérations et à déclencher les alertes. Selon la poursuite, un même identifiant couvrait parfois plusieurs clients, et un même client en avait parfois plusieurs. La Commission accepte le principe : un établissement qui traite des millions d'opérations doit avoir un outil fiable pour savoir qui fait quoi, et un outil défaillant peut constituer un manquement à la vigilance constante. Mais elle juge la preuve insuffisante : l'échantillon ne distingue pas les clients en relation d'affaires, seuls visés par le texte, des clients occasionnels ; comparer seulement nom, prénom et date de naissance produit beaucoup de fausses correspondances ; l'établissement a montré par une analyse statistique qu'une bonne part des cas n'en étaient probablement pas ; et aucun défaut concret de vigilance n'était démontré.",
+      "textes": ["CMF L. 561-6"],
+      "chiffres_cles": ["35 693 cas d'un identifiant pour plusieurs clients et 38 773 clients avec plusieurs identifiants, soit 74 466 cas selon la poursuite", "période : 1er janvier 2014 au 30 juin 2016", "selon l'analyse de l'établissement (échantillons de 2 400 et 1 010 cas) : 51 % et 90 % de ces cas n'en étaient probablement pas"],
+      "issue": "écarté",
+      "precision_issue": "Écarté « en l'état du dossier » : les données brutes ne suffisent pas à prouver le manquement.",
+      "categorie": "vigilance constante et mise à jour des dossiers",
+      "categorie_precision": "fiabilité de l'identifiant client",
+      "categories_secondaires": ["dispositif de surveillance des opérations (outils, scénarios, seuils)"],
+      "pages": [4, 5]
+    },
+    {
+      "numero": "4",
+      "titre": "Pas de vigilance renforcée pour les envois vers des pays à haut risque",
+      "resume": "Douze clients ont envoyé de l'argent à de nombreux bénéficiaires dans des pays alors inscrits sur les listes du GAFI. Onze n'étaient même pas classés en relation d'affaires, et ce qu'on savait d'eux reposait sur leurs seules déclarations. L'établissement invoquait ses filtres et ses règles sur ces pays. La Commission répond qu'une vigilance renforcée doit se voir : des diligences plus poussées que pour un client ordinaire. Or on demandait à ces clients la même chose qu'aux autres (profession, origine des fonds, objet).",
+      "textes": ["CMF L. 561-10-2 (I)", "CMF L. 561-10-1 (I)"],
+      "chiffres_cles": ["12 dossiers, tous retenus", "montants cumulés d'un peu moins de 20 000 à un peu moins de 75 000 euros par client"],
+      "issue": "retenu",
+      "precision_issue": "Établi.",
+      "categorie": "personnes politiquement exposées et vigilance renforcée",
+      "categorie_precision": "vigilance renforcée pour risque élevé (pays à haut risque)",
+      "categories_secondaires": [],
+      "pages": [5, 6]
+    },
+    {
+      "numero": "5",
+      "titre": "Personnes politiquement exposées recherchées seulement au-dessus de 6 000 euros",
+      "resume": "La qualité de personne politiquement exposée n'était vérifiée que pour les clients faisant une opération de plus de 6 000 euros ou déjà placés sous surveillance particulière. Les textes ne prévoient aucun seuil : il faut pouvoir repérer toute personne politiquement exposée parmi les clients en relation d'affaires. L'établissement invoquait une approche par les risques (la corruption porte sur de gros montants et passe plutôt par les banques) : cela ne justifie pas un seuil très supérieur à l'opération moyenne.",
+      "textes": ["CMF R. 561-20 (II, 1°)"],
+      "chiffres_cles": ["seuil de 6 000 euros par opération (7 500 dollars dans la politique mondiale du groupe)", "34 090 clients qui auraient dû être traités comme étant en relation d'affaires (plus de 31 opérations entre le 1er janvier 2014 et le 30 juin 2016) non vérifiés"],
+      "issue": "retenu",
+      "precision_issue": "Établi. Il est tenu compte de ce qu'aucune opération d'une personne politiquement exposée n'a été trouvée par les contrôleurs ; la Commission dit le grief « relativisé » (p. 13).",
+      "categorie": "personnes politiquement exposées et vigilance renforcée",
+      "categorie_precision": "détection ; seuil non prévu par les textes",
+      "categories_secondaires": [],
+      "pages": [6, 7, 13]
+    },
+    {
+      "numero": "6",
+      "titre": "Un seuil d'examen renforcé à 6 000 euros, facile à contourner",
+      "resume": "L'examen renforcé n'était déclenché qu'au-dessus de 6 000 euros par opération. La Commission juge qu'un seuil fixe en dessous duquel rien n'est examiné est, par principe, contraire à la loi, puisqu'une petite opération peut aussi être sans justification. Ce seuil est en outre bien trop haut pour l'activité et se contourne en découpant les envois : des clients ont envoyé deux fois un peu moins de 6 000 euros au même bénéficiaire en un ou deux jours, parfois à quelques minutes d'écart, sans alerte. Et pour 31 clients au-dessus du seuil, aucun examen n'a eu lieu à cause d'une panne informatique. Autres rappels : traiter une alerte n'est pas forcément faire un examen renforcé ; des explications recueillies oralement n'en tiennent pas lieu.",
+      "textes": ["CMF L. 561-10-2 (II)"],
+      "chiffres_cles": ["seuil : 6 000 euros par opération ; alerte de cumul seulement au-delà de 7 500 euros sur une journée", "53 dossiers cités : 22 de fractionnement (opérations de 5 500 à 6 000 euros) et 31 au-dessus du seuil sans examen, entre le 13 février 2014 et le 16 avril 2016", "7 dossiers exclus : 2 où l'intervenant n'était pas encore agent, 5 où une déclaration à Tracfin montre que l'examen a eu lieu"],
+      "issue": "retenu en partie",
+      "precision_issue": "Établi « dans un périmètre réduit » par l'exclusion de 7 dossiers.",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "seuil de déclenchement de l'examen renforcé ; fractionnement",
+      "categories_secondaires": ["analyse des alertes et examen renforcé"],
+      "pages": [7, 8]
+    },
+    {
+      "numero": "7",
+      "titre": "Dix-sept clients sans examen renforcé",
+      "resume": "Des opérations nettement supérieures aux habitudes du client ou à la moyenne de l'établissement, vers des pays que celui-ci jugeait lui-même très risqués, parfois à quelques minutes d'intervalle. Le motif déclaré, presque toujours le « soutien familial », n'a jamais été questionné, alors que le nom du bénéficiaire ne laissait supposer aucun lien de parenté. La profession déclarée, vague, changeait d'une fois à l'autre sans que personne réagisse : un client s'est dit salarié 17 fois et sans emploi 25 fois. La Commission précise que résider dans le pays d'origine de l'expéditeur ne prouve pas un lien familial, et que l'absence d'alerte ne prouve pas qu'il n'y avait rien à examiner.",
+      "textes": ["CMF L. 561-10-2 (II)"],
+      "chiffres_cles": ["17 dossiers, tous retenus, opérations de janvier 2014 à juin 2016"],
+      "issue": "retenu",
+      "precision_issue": "« Établi à l'égard des 17 dossiers ».",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [8, 9]
+    },
+    {
+      "numero": "8",
+      "titre": "Quinze dossiers qui auraient dû être déclarés à Tracfin",
+      "resume": "L'établissement disait suivre les recommandations de Tracfin en évitant les déclarations « de couverture », faites par précaution et mal étayées. La Commission juge dossier par dossier. Elle en écarte un : un grossiste en fleurs des Antilles qui paie un grossiste en fleurs en Équateur, l'activité explique les envois. Les quinze autres sont retenus. Les signaux qui reviennent : des dizaines ou des centaines d'envois au nom du soutien familial vers des personnes sans lien apparent ; des envois faits pour le compte de tiers ou d'un employeur ; des opérations découpées juste sous un plafond ; des alertes classées avec une formule type qui ne dit rien de l'analyse. Pour six clients, l'établissement avait fini par interdire toute opération après leur refus de fournir des justificatifs, sans rien déclarer : quand ce refus intervient pendant un examen renforcé et empêche de lever le doute, la rupture doit s'accompagner d'une déclaration.",
+      "textes": ["CMF L. 561-15 (I)", "CMF L. 561-15 (III)"],
+      "chiffres_cles": ["16 dossiers reprochés, 15 retenus : 4 sur 5 au titre du I, 11 sur 11 au titre du III", "exemples : 45 envois pour plus de 75 000 euros ; 182 opérations d'un montant moyen de 330 euros ; 175 transferts pour environ 75 000 euros ; 363 transferts pour un peu plus de 45 000 euros, montant moyen de 124 euros ; 8 transferts de 1 000 euros le même jour", "7 opérations de 1 500 euros vers un même pays, juste sous la limite fixée par l'établissement"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Établi dans 15 cas sur 16 ».",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [9, 10, 11]
+    },
+    {
+      "numero": "9",
+      "titre": "Trois clientes déjà déclarées qui continuent, sans nouvelle déclaration",
+      "resume": "Trois clientes avaient fait l'objet d'une déclaration à Tracfin, puis ont poursuivi les mêmes envois, en plus grand nombre encore. L'établissement les avait placées sous surveillance, ce qui ne remplace pas la déclaration complémentaire. Il soutenait que ne pas redéclarer était conforme à ses procédures : sans incidence. Le faible montant de chaque envoi ne compte pas non plus : la loi ne fixe aucun montant.",
+      "textes": ["CMF L. 561-15 (V)"],
+      "chiffres_cles": ["3 dossiers, tous retenus", "après une première déclaration : 151 nouvelles opérations pour 26 125 euros ; 90 opérations pour 16 436 euros ; 13 opérations pour plus de 25 000 euros en deux mois"],
+      "issue": "retenu",
+      "precision_issue": "« Intégralement établi ».",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "déclarations complémentaires",
+      "categories_secondaires": [],
+      "pages": [12]
+    },
+    {
+      "numero": "10",
+      "titre": "Une organisation internationale accusée de retarder les déclarations",
+      "resume": "Les projets de déclaration étaient préparés à l'étranger, par le siège du groupe ou par un centre de conformité situé dans un autre pays européen, puis traduits en français et vérifiés à Paris avant l'envoi à Tracfin. La poursuite y voyait une organisation incapable de déclarer « sans délai », avec cinq déclarations tardives en exemple. La Commission écarte le grief : rien ne montre que cette organisation empêche, par elle-même, de déclarer à temps ; cinq cas aux retards « très modestes » ne le prouvent pas ; et ces retards, présentés comme de simples illustrations, ne peuvent pas être sanctionnés pour eux-mêmes.",
+      "textes": ["CMF L. 561-16"],
+      "chiffres_cles": ["5 dossiers cités en illustration"],
+      "issue": "écarté",
+      "precision_issue": "Écarté : la preuve d'une défaillance générale n'est pas apportée.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "délais de déclaration",
+      "categories_secondaires": ["dispositif de groupe, filiales et correspondance bancaire"],
+      "pages": [12, 13]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "Nature et gravité des manquements ; assise financière de l'établissement.", "pages": [13]},
+      {"texte": "« Dans de nombreux dossiers », parfois pour des montants importants, aucune déclaration malgré un caractère atypique déjà détecté ; des alertes classées sans motivation compréhensible.", "pages": [13]},
+      {"texte": "Le groupe affirme respecter partout les standards internationaux et les règles locales ; la Commission constate que plusieurs dispositions françaises n'étaient pas respectées.", "pages": [13]}
+    ],
+    "elements_attenuants": [
+      {"texte": "Griefs 2, 3 et 10 non retenus.", "pages": [13]},
+      {"texte": "Grief 1 : un aspect secondaire de l'identification. Grief 5 relativisé. Grief 6 réduit.", "pages": [13]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "La décision ne détaille pas les mesures correctrices et ne les cite pas parmi les éléments d'atténuation. Elle indique seulement que le relevé de l'autorité émettrice des pièces d'identité a repris mi-2018.", "pages": [3]}
+    ],
+    "situation_financiere": {"texte": "Chiffres masqués par l'ACPR. L'amende est fixée « au regard de l'assise financière » de l'établissement, filiale d'un groupe coté.", "pages": [2, 13]},
+    "cause_profonde": {"texte": "La décision l'explique pour l'examen renforcé : les insuffisances viennent à la fois d'une connaissance insuffisante des clients, de seuils trop élevés au regard de l'opération moyenne, et d'une mauvaise application de ces seuils dans certains cas. Plus largement, des règles pensées au niveau mondial (seuils en dollars, politiques du groupe) étaient appliquées en France sans être ajustées aux textes français.", "pages": [6, 13]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Les seuils d'alerte sont-ils calés sur le montant moyen réel des opérations, et non sur un chiffre rond venu du groupe ?",
+      "Existe-t-il un scénario pour une opération isolée inhabituelle pour ce client, même petite ?",
+      "Le fractionnement est-il détecté sur plusieurs jours, vers un même bénéficiaire, et quand plusieurs clients envoient au même bénéficiaire ?",
+      "La recherche des personnes politiquement exposées couvre-t-elle tous les clients en relation d'affaires, sans seuil de montant ?",
+      "Pour les pays à haut risque : quelles diligences supplémentaires sont réellement faites, et sont-elles différentes de celles des autres clients ?",
+      "Le motif « soutien familial » est-il confronté au nom et au nombre des bénéficiaires ? Les changements de profession déclarée sont-ils repérés ?",
+      "Quand un client est interdit d'opérations après un refus de justificatifs, la question de la déclaration à Tracfin est-elle posée par écrit ?",
+      "Le classement d'une alerte est-il motivé par une analyse propre au dossier, et non par une formule type ?",
+      "Après une déclaration de soupçon, les opérations suivantes du client donnent-elles lieu à une déclaration complémentaire ?",
+      "Les politiques du groupe ont-elles été comparées, point par point, aux exigences françaises (éléments d'identité à relever, absence de seuil) ?",
+      "Les signalements des agents de terrain sont-ils suivis d'effet ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["transmission de fonds", "passeport européen", "Irlande", "groupe américain", "réseau d'agents", "clients occasionnels", "seuils trop élevés", "fractionnement", "soutien familial", "pays à haut risque", "GAFI", "identifiant client", "faux positifs", "charge de la preuve", "déclaration de couverture", "interdiction du client sans déclaration", "déclaration complémentaire", "politique de groupe", "grief abandonné", "agent et distributeur"],
+    "pages_prioritaires": [
+      {"pages": [5], "pourquoi": "comment un grief tombe faute de preuve : échantillon mal construit, analyse statistique de la défense"},
+      {"pages": [6, 7], "pourquoi": "pas de seuil pour rechercher les personnes politiquement exposées"},
+      {"pages": [8], "pourquoi": "un seuil fixe pour l'examen renforcé est contraire à la loi"},
+      {"pages": [9, 10, 11], "pourquoi": "seize dossiers de soupçon, très concrets, dans le transfert d'argent"},
+      {"pages": [13], "pourquoi": "le grief sur l'organisation internationale écarté ; la synthèse"}
+    ],
+    "confiance": "moyenne à élevée",
+    "a_verifier": [
+      "Décision anonymisée : je n'ai pas cherché à identifier l'établissement. Mais le texte officiel laisse beaucoup de détails (État d'enregistrement et place de cotation du groupe, ville du siège, villes des centres de conformité, noms de procédures internes en anglais). Je n'ai gardé que : filiale irlandaise d'un groupe américain coté, environ 1 200 agents. À toi de décider s'il faut alléger encore pour le site.",
+      "Grief 2 : la grille n'a que trois issues ; il est classé « écarté » avec la précision « abandonné par la poursuite » (question ouverte 6).",
+      "Grief 6 : la décision ne donne pas le nombre de dossiers retenus. 53 cités moins 7 exclus feraient 46 : c'est mon calcul.",
+      "Grief 8 : page 10, la décision annonce les dossiers 8.6 à 8.11 (six dossiers) puis parle de « ces 5 dossiers », et en détaille bien six. Incohérence du texte, non corrigée. Le partage « 4 sur 5 » et « 11 sur 11 » est mon décompte.",
+      "Griefs 1 et 5 : classés « retenu » ; la Commission les minore ensuite (aspect secondaire, relativisé).",
+      "Grief 1 : rangé dans « relation d'affaires et clients occasionnels », comme le grief 1 de la fiche 2018-05. À valider.",
+      "Grief 4 : la décision cite six pays comme figurant sur les listes du GAFI ; je ne les ai pas repris un par un et je n'ai pas vérifié ces listes.",
+      "Gel des avoirs : aucun grief sur ce sujet dans cette décision.",
+      "Publication : décidée nominative pour 5 ans (p. 14) ; le texte en ligne est aujourd'hui anonymisé."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Fable 5.2), à partir du texte extrait du PDF officiel", "date": "2026-11-13", "relue_par_mateo": false}
+}

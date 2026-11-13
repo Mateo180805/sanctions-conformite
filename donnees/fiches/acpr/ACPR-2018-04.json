@@ -1,0 +1,156 @@
+{
+  "id": "ACPR-2018-04",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT et gel des avoirs",
+  "resume_court": "L'« établissement A » est une grande banque coopérative régionale, membre d'un groupe bancaire : près de 1,6 million de clients particuliers, plus de 250 agences, plus de 3 000 salariés. Le cœur du dossier est simple : la banque ne connaissait pas assez ses clients. Les revenus manquaient dans le dossier de plus d'un client particulier sur deux, et près de 59 000 clients de plus de 40 ans étaient encore enregistrés comme « étudiants ». La Commission y voit des carences « massives », avec une conséquence directe : sur 312 dossiers examinés, 25 auraient dû être déclarés à Tracfin et ne l'ont pas été, souvent des dépôts d'espèces sans rapport avec la situation connue du client. S'y ajoutent un contrôle interne qui ne vérifiait qu'une partie des alertes et une classification des risques mise à jour tardivement. Deux reproches sont en revanche réduits ou relativisés. Sanction : un blâme et 2 millions d'euros, alors que la poursuite en demandait au moins 3.",
+  "identite": {
+    "etablissement": "anonymisé (« établissement de crédit A »)",
+    "type_etablissement": "établissement de crédit",
+    "precision_type": "Banque coopérative régionale, affiliée à un groupe doté d'un organe central (« groupe D »). Première banque des collectivités locales dans sa zone. Elle développe depuis plusieurs années le financement de l'immobilier, des énergies renouvelables et des bateaux. Elle a acquis en 2015 des établissements d'outre-mer. Elle utilise la classification des risques et les outils de surveillance du groupe.",
+    "groupe": "« groupe D » (non nommé), groupe bancaire doté d'un organe central",
+    "pays": "France",
+    "activite_et_taille": "Fin 2018 : près de 1,6 million de clients particuliers, plus de 250 agences, plus de 3 000 collaborateurs. Produit net bancaire, résultat et fonds propres masqués par l'ACPR.",
+    "pages": [2, 5]
+  },
+  "controle": {
+    "controle_sur_place": "du 18 avril au 6 octobre 2017",
+    "rapport_de_controle": "signé le 16 février 2018",
+    "ouverture_de_la_procedure": "décidée le 21 juin 2018, Commission saisie le 10 juillet 2018",
+    "antecedents": "Aucun contrôle ni sanction antérieurs de l'ACPR mentionnés. L'inspection générale du groupe avait signalé en septembre 2016 l'analyse insuffisante de certaines alertes (grief 2).",
+    "pages": [1, 2, 5]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 2000000,
+    "publication": "anonymisée aujourd'hui",
+    "duree_publication_nominative": "décidée nominative pendant 5 ans, puis forme anonyme",
+    "proposition_du_college": "blâme et sanction pécuniaire « qui ne saurait être inférieure à 3 millions d'euros », publication nominative",
+    "pages": [1, 2, 9]
+  },
+  "procedure": {
+    "questions_de_procedure": "La banque produisait un courriel d'un membre de l'équipe de contrôle de l'ACPR, envoyé quatre jours après la signature du rapport, qui disait ne pas partager les conclusions de la mission. Elle y voyait la preuve d'exagérations et d'une méthode contestable, et un doute sur le bien-fondé de la poursuite. La Commission écarte l'argument : elle ne juge pas la décision du Collège de poursuivre ; le courriel ne contient aucun élément précis ; et les droits de la défense ne s'appliquent qu'à partir de la notification des griefs, les contrôleurs n'étant tenus avant cela qu'à la loyauté et à l'impartialité. Audience non publique. Le rapporteur jugeait les 5 griefs établis, dont un à relativiser (grief 1).",
+    "pages": [1, 2, 3]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Une classification des risques incomplète et mise à jour tard",
+      "resume": "Trois reproches, trois réponses différentes. 1) Les montages de défiscalisation outre-mer dits « Girardin », que la banque proposait et sur lesquels Tracfin avait alerté, n'apparaissaient nulle part dans la classification : retenu. Mais comme on ne sait pas dans quelle catégorie la banque les rangeait en pratique, le reproche d'une note de risque trop basse est écarté ; et une seule opération de ce type figure au dossier pour 2017. 2) Les clients « joueurs réguliers » (casinos, paris) n'auraient pas été pris en compte : écarté. Dix cas sur 312 dossiers, et 14 casinos dans la région et non 33 comme l'affirmait la poursuite, cela ne prouve pas un risque particulier et permanent. 3) Le risque de financement du terrorisme par le crédit à la consommation, signalé par les autorités dès 2014, n'a été intégré qu'en octobre 2017, après le contrôle : retenu, avec une gravité atténuée parce que ces informations publiques étaient récentes. Rappel utile : appartenir à un groupe qui fournit la classification ne décharge pas la banque de ses propres obligations.",
+      "textes": ["CMF L. 561-4-1", "arrêté du 3 novembre 2014, art. 57 à 60"],
+      "chiffres_cles": ["classification mise à jour en novembre 2016, applicable en octobre 2017", "1 seule opération « Girardin » pour un client en 2017", "10 dossiers de joueurs sur un échantillon de 312 clients ; 14 casinos et non 33"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Établi, mais dans un périmètre réduit et en étant pour partie relativisé ».",
+      "categorie": "classification des risques",
+      "categorie_precision": "",
+      "categories_secondaires": ["dispositif de groupe, filiales et correspondance bancaire"],
+      "pages": [3, 4]
+    },
+    {
+      "numero": "2",
+      "titre": "Des alertes traitées trop tard ou closes parce que le client ne répondait pas",
+      "resume": "L'outil de surveillance, géré par le groupe, produisait des alertes dont certaines attendaient plus d'un an, et d'autres n'avaient pas encore reçu de première analyse des mois après. La banque l'expliquait par la reprise des clients des établissements d'outre-mer acquis en 2015, traités comme des clients sans historique : cela explique le retard sans l'excuser. Par ailleurs, 174 alertes avaient été closes avec pour seul commentaire « client injoignable ». Ce motif ne suffit pas : il faut garder la trace de ce qui a été fait et de l'analyse qui justifie le classement. Dans deux cas sur trois, rien n'avait été tenté après le constat que le client ne répondait pas.",
+      "textes": ["arrêté du 3 novembre 2014, art. 46"],
+      "chiffres_cles": ["58 alertes d'avant 2015 closes plus d'un an après leur création", "55 alertes encore en cours (4 de 2015, 51 de 2016) ; 63 alertes de 2016 et 411 du premier trimestre 2017 sans première analyse", "174 alertes closes « client injoignable » au premier semestre 2017", "à décharge : 0,19 % des alertes de la période ; délai moyen de traitement de 13,7 jours ; 0,28 % des alertes closes sans suite"],
+      "issue": "retenu",
+      "precision_issue": "Établi, mais « relativisé » : les cas en cause sont une très petite part des alertes.",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "délais de traitement et motivation des classements sans suite",
+      "categories_secondaires": [],
+      "pages": [4, 5]
+    },
+    {
+      "numero": "3",
+      "titre": "Un contrôle permanent qui laissait de côté un tiers des scénarios d'alerte",
+      "resume": "Le contrôle par sondage des alertes closes sans suite ne portait que sur 23 des 37 scénarios de l'outil, et laissait de côté des scénarios à risque élevé (remboursements anticipés de prêts, opérations de change importantes). En 2016, à peine plus de la moitié des alertes à contrôler l'ont été. Et le contrôle de second niveau ne regardait pas les délais de traitement. La banque répondait que la sélection était faite par un outil réglé au niveau du groupe : sans effet. La Commission pose la règle : le contrôle doit couvrir tous les scénarios, quitte à adapter la méthode au nombre d'alertes de chacun.",
+      "textes": ["arrêté du 3 novembre 2014, art. 11 et 71"],
+      "chiffres_cles": ["23 scénarios contrôlés sur 37, soit 62 %", "55 % des 7 545 alertes à contrôler l'ont été en 2016", "taux de contrôle porté à 90 % en août 2018 selon la banque (après le contrôle)"],
+      "issue": "retenu",
+      "precision_issue": "Établi.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "contrôle permanent des alertes",
+      "categories_secondaires": [],
+      "pages": [5, 6]
+    },
+    {
+      "numero": "4",
+      "titre": "Des dossiers clients incomplets et jamais mis à jour",
+      "resume": "Le revenu manquait dans le dossier de 55 % des clients particuliers. La profession, quand elle était renseignée, pouvait dater de l'ouverture du compte : des dizaines de milliers de clients de plus de 40 ans figuraient comme étudiants, la plupart clients depuis vingt ans au moins. L'outil de mise à jour installé en juin 2017 était inefficace : une alerte peu visible, qui ne bloquait rien, calculée sur la date de numérisation d'un document et non sur la date du document. La banque rappelait son rôle historique auprès d'une clientèle modeste, aux comptes peu actifs. La Commission répond qu'elle ne sait pas dire quels comptes sont réellement dormants depuis 2009, que sa catégorie de clients « distanciés » est définie trop largement pour les sortir d'office de la vigilance, et que les clients cités en exemple, eux, faisaient des opérations.",
+      "textes": ["CMF L. 561-6", "CMF L. 561-5-1", "CMF R. 561-12"],
+      "chiffres_cles": ["revenus absents pour 55 % des clients particuliers, qui forment 94 % de la clientèle", "58 905 clients de plus de 40 ans enregistrés comme étudiants (20 % de cette catégorie), dont 55 384 clients depuis 20 ans au moins", "45 % des comptes inactifs (11 %) ou très peu actifs (34 %) au 31 décembre 2018, selon la banque", "9 des dossiers de défaut de déclaration sans information sur les revenus"],
+      "issue": "retenu",
+      "precision_issue": "Établi ; le caractère incomplet et non actualisé des dossiers n'était pas contesté.",
+      "categorie": "vigilance constante et mise à jour des dossiers",
+      "categorie_precision": "connaissance du client incomplète et non actualisée",
+      "categories_secondaires": ["connaissance du client à l'entrée en relation"],
+      "pages": [6, 7]
+    },
+    {
+      "numero": "5",
+      "titre": "25 dossiers qui auraient dû être déclarés à Tracfin",
+      "resume": "Six dossiers relèvent du soupçon général, dix-neuf du soupçon de fraude fiscale. Le cas type : environ 1 000 euros versés chaque mois, souvent en espèces, sur le compte d'un client dont la situation connue ne l'explique pas (étudiant, agent de service, personne sans emploi). Autres exemples : un retraité qui reçoit environ 240 000 euros en un an, sans cohérence avec ce que la banque savait de lui ; une étudiante qui dépose plus de 30 000 euros en espèces en un mois. La Commission répond à quatre arguments. Chaque défaut de déclaration est un manquement en soi. Pour la fraude fiscale, la loi ne fixe aucun montant minimum : il suffit qu'un des critères du décret soit rempli. Une décision de justice civile favorable à une autre banque, produite par la défense, ne lie pas la Commission. Et regarder les opérations sur plus de deux ans ne gonfle pas artificiellement les montants : le caractère suspect apparaissait bien plus tôt.",
+      "textes": ["CMF L. 561-15 (I)", "CMF L. 561-15 (II)", "CMF D. 561-32-1 (critères 10 et 15)"],
+      "chiffres_cles": ["25 dossiers, tous retenus : 6 au titre du I, 19 au titre du II (fraude fiscale)", "25 dossiers sur 312 examinés, soit 8 % de l'échantillon", "environ 240 000 euros reçus en 2016 par un retraité ayant environ 45 000 euros de pension annuelle", "plus de 30 000 euros en deux dépôts d'espèces en juillet 2015"],
+      "issue": "retenu",
+      "precision_issue": "« Établi dans sa totalité ».",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [7, 8]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "Carences « massives » dans la collecte et la mise à jour des informations sur les clients.", "pages": [8]},
+      {"texte": "Défauts de déclaration « dans un nombre élevé de dossiers » au regard de l'échantillon.", "pages": [8]},
+      {"texte": "Nature et durée des manquements ; assise financière de la banque.", "pages": [9]}
+    ],
+    "elements_attenuants": [
+      {"texte": "Grief 1 réduit et en partie relativisé ; grief 2 relativisé.", "pages": [8]},
+      {"texte": "Actions correctrices prises en compte « dans une certaine mesure », notamment pour compléter et mettre à jour les dossiers clients.", "pages": [8]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Crédit à la consommation intégré à l'approche par les risques du groupe en octobre 2017.", "pages": [4]},
+      {"texte": "Corrections sur l'analyse des alertes, effectives en janvier 2018.", "pages": [5]},
+      {"texte": "Taux de contrôle des alertes porté à 90 % en août 2018, selon la banque.", "pages": [6]},
+      {"texte": "Actions pour compléter et actualiser les dossiers clients, engagées selon la banque depuis 2012.", "pages": [7, 8]}
+    ],
+    "situation_financiere": {"texte": "Chiffres masqués par l'ACPR. L'amende est fixée « au regard de l'assise financière » de la banque.", "pages": [2, 9]},
+    "cause_profonde": {"texte": "La décision la donne elle-même : les carences dans la connaissance des clients (grief 4) « ont eu pour conséquence » les défauts de déclaration (grief 5). On lit aussi, à plusieurs endroits, une banque qui s'en remet aux outils et aux réglages du groupe ; la Commission répète qu'elle reste responsable.", "pages": [4, 6, 8]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Quelle part des dossiers clients n'a ni revenu ni profession à jour ? Existe-t-il un indicateur suivi (par exemple : clients « étudiants » de plus de 30 ans) ?",
+      "La mise à jour des dossiers est-elle déclenchée par la date du justificatif, visible du conseiller, et bloquante au-delà d'un délai ?",
+      "Les comptes réellement dormants sont-ils identifiés un par un, plutôt qu'exclus par une catégorie large ?",
+      "Une alerte peut-elle être close avec « client injoignable » ? Que doit faire le conseiller dans ce cas ?",
+      "Combien d'alertes ont plus de trois mois, plus d'un an ? Le contrôle de second niveau suit-il ces délais ?",
+      "Le contrôle par sondage couvre-t-il tous les scénarios d'alerte, y compris les moins fréquents ?",
+      "La classification des risques fournie par le groupe couvre-t-elle tous les produits vendus localement ? Est-elle revue à chaque alerte publique de Tracfin ?",
+      "Après un rachat ou une migration de clients, le surcroît d'alertes est-il anticipé par des moyens supplémentaires ?",
+      "Les dépôts d'espèces réguliers sans rapport avec la profession connue font-ils l'objet d'un scénario, quel que soit leur montant ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["banque coopérative", "banque de détail", "groupe bancaire", "organe central", "outil du groupe", "connaissance du client", "mise à jour des dossiers", "clients étudiants", "client injoignable", "dépôts d'espèces", "fraude fiscale", "crédit à la consommation", "financement du terrorisme", "défiscalisation outre-mer", "casinos", "contrôle permanent", "scénarios", "courriel d'un contrôleur"],
+    "pages_prioritaires": [
+      {"pages": [2, 3], "pourquoi": "le courriel d'un contrôleur en désaccord : ce que la Commission en fait"},
+      {"pages": [4], "pourquoi": "une branche de grief écartée faute de preuve (les joueurs) ; le crédit à la consommation"},
+      {"pages": [5], "pourquoi": "« client injoignable » ne suffit pas à clore une alerte"},
+      {"pages": [6, 7], "pourquoi": "connaissance du client dans une grande banque de détail"},
+      {"pages": [7, 8], "pourquoi": "fraude fiscale : pas de montant minimum pour déclarer"}
+    ],
+    "confiance": "élevée",
+    "a_verifier": [
+      "Décision anonymisée : je n'ai pas cherché à identifier l'établissement ni le groupe. Le texte officiel contient plusieurs détails qui resserrent beaucoup le champ (forme juridique, région, ville d'une cour d'appel citée page 8). Je n'ai gardé que ce qui sert à comprendre. À toi de voir s'il faut alléger encore pour le site.",
+      "Grief 1 : classé « retenu en partie ». Deux branches sur trois sont retenues, une écartée, et un reproche secondaire de la première branche aussi.",
+      "Grief 2 : classé « retenu » ; la Commission le dit établi mais relativisé.",
+      "Grief 4 : rangé dans « vigilance constante et mise à jour des dossiers » (c'est le défaut de mise à jour qui domine), alors que le grief 7 de la fiche 2018-06, proche, est rangé dans « connaissance du client à l'entrée en relation ». À harmoniser si tu préfères.",
+      "Grief 5 : le partage 6 / 19 vient de la numérotation des dossiers (5.1 à 5.6 et 5.7 à 5.25).",
+      "Gel des avoirs : aucun grief sur ce sujet dans cette décision.",
+      "Publication : décidée nominative pour 5 ans (p. 9) ; le texte en ligne est aujourd'hui anonymisé."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Fable 5.2), à partir du texte extrait du PDF officiel", "date": "2026-11-13", "relue_par_mateo": false}
+}

@@ -1492,7 +1492,7 @@
     "sanction_texte": "Radiation de la liste mentionnée à l’article L. 612-21 du code monétaire et financier",
     "montant_euros": null,
     "themes_liste": "",
-    "lcbft_indice": false,
+    "lcbft_indice": true,
     "titre_liste": "Décision de la Commission des sanctions n° 2018-05 du 8 avril 2019 à l’égard de la société A",
     "annee_recueil": "2019",
     "url_page": "https://acpr.banque-france.fr/fr/publications-et-statistiques/publications/decision-de-la-commission-des-sanctions-ndeg-2018-05-du-8-avril-2019-legard-de-la-societe",

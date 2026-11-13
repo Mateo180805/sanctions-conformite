@@ -1,0 +1,134 @@
+{
+  "id": "ACPR-2018-05",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT et gel des avoirs",
+  "resume_court": "La « société A » est un petit bureau de change : un seul guichet, où l'on échange des billets contre des billets. Un changeur doit relever l'identité de tout client qui change plus de 1 000 euros. La société ne le faisait pas, y compris quand un client revenait quelques minutes plus tard pour une seconde opération qui lui faisait dépasser ce seuil. Elle n'a examiné aucune des opérations inhabituelles relevées par les contrôleurs, n'avait aucun moyen de repérer une personne visée par un gel des avoirs avant les derniers jours du contrôle, et avait pourtant répondu à l'ACPR, dans son questionnaire annuel, que ses contrôles étaient en place. Les quatre griefs sont retenus. La Commission y voit une défaillance « globale et persistante », incompatible avec un métier très exposé au blanchiment, et prononce la sanction la plus lourde : la radiation, c'est-à-dire l'interdiction d'exercer le change manuel.",
+  "identite": {
+    "etablissement": "anonymisé (« société A »)",
+    "type_etablissement": "changeur manuel",
+    "precision_type": "Société à responsabilité limitée inscrite sur la liste des changeurs manuels. Un guichet unique, à son siège ; uniquement des échanges de devises en espèces. Selon son avocat, le change représente environ les deux tiers de son activité.",
+    "groupe": "non précisé",
+    "pays": "France",
+    "activite_et_taille": "Entre 2015 et 2017 : plusieurs milliers d'opérations pour quelques millions d'euros (ordres de grandeur donnés par la décision, montants exacts masqués). Bénéfice en 2015 et 2016, perte en 2017. Moyens humains « limités ».",
+    "pages": [2, 4]
+  },
+  "controle": {
+    "controle_sur_place": "du 13 novembre au 20 décembre 2017",
+    "rapport_de_controle": "signé le 15 mars 2018",
+    "ouverture_de_la_procedure": "décidée le 9 juillet 2018, Commission saisie le 17 juillet 2018",
+    "antecedents": "non précisé",
+    "pages": [1, 2]
+  },
+  "sanction": {
+    "nature": ["radiation de la liste des changeurs manuels"],
+    "montant_euros": null,
+    "publication": "anonymisée aujourd'hui",
+    "duree_publication_nominative": "décidée nominative pendant 5 ans, puis forme anonyme",
+    "proposition_du_college": "radiation ou, à défaut, blâme et 40 000 euros ; publication nominative",
+    "pages": [1, 2, 4, 5]
+  },
+  "procedure": {
+    "questions_de_procedure": "Aucune question de procédure. Audience publique, ce qui est rare dans les décisions de la base. La société contestait les griefs et mettait en avant sa bonne foi et ses corrections. Le rapporteur jugeait les 4 griefs établis. Décision en « Considérant que ».",
+    "pages": [1, 2]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Des clients non identifiés au-dessus de 1 000 euros",
+      "resume": "Au premier trimestre 2016, la société a changé plus de 1 000 euros pour 42 clients de passage sans relever ni vérifier leur identité. En 2017, d'autres clients ont fait deux opérations dans la même devise à quelques minutes d'écart, dont le total dépassait le seuil : ces opérations liées devaient être additionnées. La société disait avoir gardé des copies papier des pièces d'identité. Invitée à les produire, elle n'en a fourni que 3 sur 42, et ses bordereaux portaient la mention « anonyme ».",
+      "textes": ["CMF R. 561-10 (II, 2°)", "CMF L. 561-12"],
+      "chiffres_cles": ["42 clients occasionnels entre le 1er janvier et le 15 avril 2016", "12 cas de deux opérations liées en une à 5 minutes, en 2017", "3 copies de pièces d'identité produites sur 42"],
+      "issue": "retenu",
+      "precision_issue": "Établi.",
+      "categorie": "relation d'affaires et clients occasionnels",
+      "categorie_precision": "identification des clients occasionnels au-dessus de 1 000 euros ; opérations liées",
+      "categories_secondaires": ["connaissance du client à l'entrée en relation"],
+      "pages": [2, 3]
+    },
+    {
+      "numero": "2",
+      "titre": "Dix clients aux opérations inhabituelles, sans examen renforcé",
+      "resume": "Dix clients ont changé chacun entre 7 900 et 15 000 euros, quand l'opération moyenne du bureau était de 225 euros à l'achat et 818 euros à la vente. Tous ont fait deux opérations coup sur coup, entre quelques secondes et 14 minutes. La société ne savait rien de leurs revenus, de leur patrimoine, de leur profession ni de l'objet de l'opération : chacune méritait un examen renforcé, qui n'a pas eu lieu.",
+      "textes": ["CMF L. 561-10-2 (II)"],
+      "chiffres_cles": ["10 dossiers, tous retenus, opérations de 2015 à 2017", "de 7 900 à 15 000 euros par client ; moyenne du bureau : 225 euros (achats) et 818 euros (ventes)"],
+      "issue": "retenu",
+      "precision_issue": "Établi.",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [3]
+    },
+    {
+      "numero": "3",
+      "titre": "Aucun dispositif de gel des avoirs avant la fin du contrôle",
+      "resume": "Les listes de personnes visées par un gel, européennes ou françaises, n'ont été intégrées que le 16 décembre 2017, par l'achat d'un logiciel quelques jours avant la fin du contrôle. Avant cette date, la société ne pouvait repérer aucune personne visée.",
+      "textes": ["CMF L. 562-3", "CMF L. 562-4"],
+      "chiffres_cles": ["logiciel acheté le 16 décembre 2017"],
+      "issue": "retenu",
+      "precision_issue": "Établi, non contesté. L'achat du logiciel est une action correctrice, sans effet sur le grief.",
+      "categorie": "gel des avoirs et sanctions financières",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [3]
+    },
+    {
+      "numero": "4",
+      "titre": "Des réponses inexactes au questionnaire annuel de l'ACPR",
+      "resume": "Dans son questionnaire sur l'année 2016, la société a déclaré avoir des contrôles sur le respect de ses obligations de vigilance et de déclaration, et sur la qualité de son registre des opérations. Aucune des fiches de contrôle prévues par son propre manuel n'a pu être montrée. Elle expliquait n'en remplir qu'en cas d'opération suspecte, et n'en avoir détecté aucune en 2016. La Commission répond qu'un contrôle se documente même quand il ne trouve rien.",
+      "textes": ["instruction ACPR n° 2013-I-10 du 3 octobre 2013"],
+      "chiffres_cles": ["questions 7 et 8 du questionnaire portant sur 2016"],
+      "issue": "retenu",
+      "precision_issue": "« Entièrement établi ».",
+      "categorie": "autre (à préciser)",
+      "categorie_precision": "informations inexactes transmises au superviseur (questionnaire annuel LCB-FT)",
+      "categories_secondaires": ["procédures et contrôle interne"],
+      "pages": [4]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "Quatre manquements « graves en eux-mêmes », qui révèlent une défaillance « globale et persistante » du dispositif.", "pages": [4]},
+      {"texte": "Le change manuel est particulièrement exposé au blanchiment et au financement du terrorisme : un changeur doit être très vigilant.", "pages": [4]},
+      {"texte": "La société exerce depuis de nombreuses années ; ses corrections sont tardives et insuffisantes, et elle ne présente aucune mesure qui lui permettrait de se mettre en règle à une date donnée.", "pages": [4]},
+      {"texte": "Des moyens limités n'excusent pas le non-respect d'obligations essentielles.", "pages": [4]}
+    ],
+    "elements_attenuants": [],
+    "mesures_correctrices": [
+      {"texte": "Achat d'un logiciel de filtrage pour le gel des avoirs (décembre 2017).", "pages": [3, 4]},
+      {"texte": "Selon la société, copie des pièces d'identité désormais enregistrée systématiquement dans le système informatique.", "pages": [4]}
+    ],
+    "situation_financiere": {"texte": "Montants masqués par l'ACPR. Bénéfice en 2015 et 2016, perte en 2017. La Commission ne s'appuie pas sur la situation financière : elle ne prononce pas d'amende mais la radiation.", "pages": [2, 4]},
+    "cause_profonde": {"texte": "non précisé. La décision constate une défaillance d'ensemble dans une très petite structure, sans en donner la cause.", "pages": [4]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "L'outil de caisse bloque-t-il une opération de change de plus de 1 000 euros tant que l'identité n'est pas saisie ?",
+      "Deux opérations rapprochées du même client sont-elles additionnées pour apprécier le seuil ?",
+      "La copie de la pièce d'identité est-elle conservée cinq ans et rattachée à l'opération ?",
+      "Une opération très supérieure à la moyenne du bureau déclenche-t-elle des questions écrites sur l'origine des fonds ?",
+      "Chaque client identifié est-il comparé aux listes de gel, avant l'opération ?",
+      "Les contrôles prévus par le manuel laissent-ils une trace datée, même quand ils ne révèlent rien ?",
+      "Les réponses au questionnaire annuel de l'ACPR peuvent-elles toutes être prouvées par une pièce ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["changeur manuel", "espèces", "clients occasionnels", "seuil de 1 000 euros", "opérations liées", "fractionnement", "bordereaux anonymes", "gel des avoirs", "questionnaire annuel", "radiation", "petite structure", "audience publique"],
+    "pages_prioritaires": [
+      {"pages": [2, 3], "pourquoi": "le seuil de 1 000 euros et les opérations liées"},
+      {"pages": [4], "pourquoi": "pourquoi la radiation plutôt qu'une amende"}
+    ],
+    "confiance": "élevée",
+    "a_verifier": [
+      "Décision anonymisée : je n'ai pas cherché à identifier l'établissement.",
+      "La base rangeait cette décision « hors LCB-FT » (le recueil de l'ACPR ne lui donne aucun thème). Son contenu est entièrement LCB-FT et gel des avoirs : j'ai fait une fiche complète et corrigé le champ `lcbft_indice` dans la base.",
+      "Grief 1 : rangé dans « relation d'affaires et clients occasionnels », comme le grief 1 de la fiche 2017-10. À valider.",
+      "Grief 4 : classé « autre », comme le grief 8 de la fiche 2018-03 (même reproche).",
+      "Éléments atténuants : la décision n'en retient aucun.",
+      "La radiation est la seule sanction ; la poursuite proposait à défaut un blâme et 40 000 euros.",
+      "Publication : décidée nominative pour 5 ans (p. 5) ; le texte en ligne est aujourd'hui anonymisé."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Fable 5.2), à partir du texte extrait du PDF officiel", "date": "2026-11-13", "relue_par_mateo": false}
+}
