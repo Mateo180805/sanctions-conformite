@@ -1,12 +1,195 @@
-<!-- Texte de la page « Analyse ». L'étude comparative remplacera ce texte en session 4. -->
+<!-- Texte de la page « Analyse » : l'étude comparative (session 4).
+     Les {{repères}} sont remplacés à la fabrication du site : graphiques et tableaux sont recalculés
+     à partir des fiches (analyse/etude.py). Un repère [[2020-05]] devient un lien vers la fiche,
+     [[2020-05#11]] un lien vers le grief 11 de cette fiche.
+     Les chiffres écrits dans les phrases, eux, sont ceux du 13 novembre 2026, sur 31 fiches :
+     si le nombre de fiches change, un bandeau le signale en haut de page et le texte est à reprendre. -->
 <div class="titre-page">
   <h1>Analyse</h1>
-  <p class="chapo">L'étude comparative des {{nb_fiches}} décisions analysées : ce qui est sanctionné, à quelle
-  fréquence, avec quelles sanctions, et la liste des points de contrôle qui reviennent le plus souvent.</p>
+  <p class="chapo">Trente et une décisions de la Commission des sanctions de l'ACPR, 236 griefs : ce qui est
+  reproché aux établissements en matière de lutte contre le blanchiment et de gel des avoirs, à quelle
+  fréquence, et avec quelles sanctions.</p>
 </div>
-<div class="texte">
-<div class="reserve">
-<p><strong>En préparation.</strong> L'étude est en cours de rédaction. En attendant, la
-<a href="base.html">base</a> permet déjà de filtrer les décisions par type de manquement retenu.</p>
-</div>
+{{note_actualite}}
+<div class="texte etude">
+
+<p class="avertissement">Étude rédigée le 13 novembre 2026 à partir des fiches du site. Ces fiches n'ont pas
+encore été relues une à une : les chiffres peuvent bouger à la marge. Chaque numéro de décision renvoie à
+sa fiche, et chaque fiche au texte officiel.</p>
+
+<h2 id="perimetre">Ce qui a été étudié</h2>
+<p>L'étude porte sur toutes les décisions rendues entre janvier 2019 et avril 2026 qui traitent de la lutte
+contre le blanchiment des capitaux et le financement du terrorisme (LCB-FT) ou du gel des avoirs. Il y en a
+31. Ce n'est pas un échantillon : c'est la totalité de la période. Dix-neuf portent sur les deux sujets, dix
+sur la LCB-FT seule et deux sur le gel des avoirs seul.</p>
+<p>Ces décisions examinent 236 griefs, c'est-à-dire 236 reproches distincts. La Commission en a retenu 162
+en entier, 63 en partie et en a écarté 11. Quatorze autres griefs, sans rapport avec la LCB-FT (comptabilité,
+liquidité, protection de la clientèle), figurent dans les fiches mais ne sont pas comptés ici.</p>
+<p>Trois précautions pour lire la suite.</p>
+<ul>
+  <li><strong>On compte d'abord en décisions.</strong> La question posée est : dans combien de décisions ce type
+  de manquement a-t-il été retenu, en entier ou en partie ? Le nombre de griefs est donné à côté, parce
+  qu'une seule décision peut en contenir dix sur le même sujet.</li>
+  <li><strong>Un grief écarté n'est pas une pratique validée.</strong> Il peut l'être faute de preuve, parce
+  que la poursuite y a renoncé ou pour une raison de droit.</li>
+  <li><strong>Trente et une décisions, c'est peu.</strong> Elles ne montrent que les dossiers que l'ACPR a
+  choisi de porter devant sa Commission des sanctions. Les écarts de quelques unités ne prouvent rien.</li>
+</ul>
+
+<h2 id="qui">Qui est sanctionné</h2>
+<p>Les établissements de paiement et de monnaie électronique sont les plus nombreux, devant les banques.
+Les assureurs sont rares mais lourdement sanctionnés : quatre décisions, 10,6 millions d'euros.</p>
+{{graph_types}}
+<p>Le rythme est irrégulier : sept décisions en 2021, deux en 2024, deux en 2025.</p>
+{{graph_annees}}
+<p>Quinze décisions sont encore publiées avec le nom de l'établissement. Les seize plus anciennes sont
+aujourd'hui anonymisées : la Commission ordonne le plus souvent une publication nominative pendant cinq ans,
+puis le nom est retiré. Ce site suit le texte en ligne et ne cherche jamais à retrouver un nom retiré.</p>
+
+<h2 id="quoi">Ce qui est reproché</h2>
+{{graph_categories}}
+<p><strong>La déclaration de soupçon arrive en tête</strong> : un défaut de déclaration à Tracfin est retenu
+dans 26 décisions sur 31. Parmi les cinq autres, deux ne portaient que sur le gel des avoirs. C'est logique :
+la déclaration est le bout de la chaîne, et tout ce qui ne marche pas avant finit par s'y voir.</p>
+<p><strong>La chaîne de détection est presque toujours en cause.</strong> Elle a trois maillons : un outil qui
+surveille les opérations, des analystes qui traitent les alertes et mènent un examen renforcé, puis la
+déclaration. Au moins un des trois est sanctionné dans 29 décisions : toutes, sauf les deux
+dossiers de gel des avoirs. Et dans 15 décisions, les trois le sont à la fois.</p>
+<p><strong>Le contrôle interne est le sujet qui produit le plus de griefs par décision</strong> : 36 griefs dans
+20 décisions, et 30 sont retenus en entier. Quand la Commission reproche l'absence d'un contrôle, il y a peu à
+discuter : le contrôle a été fait ou il ne l'a pas été.</p>
+<p><strong>Le gel des avoirs est sanctionné dans 18 des 21 décisions qui l'examinent</strong>, presque toujours
+en entier (20 griefs retenus sur 24). La Commission le répète : c'est une obligation de résultat.</p>
+<p><strong>Les griefs « retenus en partie » concernent surtout les dossiers individuels.</strong> Pour les
+déclarations de soupçon, 15 griefs sur 44 le sont en partie : la Commission regarde chaque dossier client et
+en retire quelques-uns. Même chose pour la mise à jour des dossiers et pour la classification des risques,
+où une branche du reproche tombe souvent faute de preuve.</p>
+<p><strong>Onze griefs sont écartés.</strong> Les raisons sont variées : la poursuite renonce en cours de
+procédure ([[2017-10#2]], [[2020-06#13]]), la preuve manque ([[2017-10#3]]), l'obligation n'était pas assez
+claire à l'époque ([[2023-01#2]]), ou le reproche est mal qualifié en droit ([[2022-07#6]]). Dans ce dernier
+cas, la Commission précise bien que les faiblesses existaient.</p>
+
+<h2 id="sanctions">Avec quelles sanctions</h2>
+<p>Vingt-huit décisions sur 31 prononcent un blâme et une amende. Les trois autres sont des cas à part : un
+blâme sans amende parce que l'établissement n'avait plus les fonds propres minimaux ([[2018-03]]), la
+radiation d'un changeur manuel ([[2018-05]]) et un simple avertissement pour une très petite plateforme de
+financement participatif ([[2019-08]]).</p>
+<p>Les amendes vont de 20 000 euros à 4 millions d'euros, pour un total de 32,76 millions. Dix-huit sur 28 ne
+dépassent pas un million. La plus forte, 4 millions d'euros, sanctionne un assureur dans un dossier qui ne
+porte que sur le gel des avoirs ([[2020-09]]).</p>
+{{graph_montants}}
+<p>La Commission ne dépasse jamais ce que demande le Collège de l'ACPR, qui joue le rôle de la poursuite.
+Sur les 28 amendes, 19 sont inférieures au montant proposé et 9 lui sont égales.</p>
+<p>Les décisions ne donnent pas de barème. Elles citent en revanche toujours les mêmes éléments.</p>
+<ul>
+  <li><strong>La taille et la situation financière.</strong> C'est ce qui explique les plus grands écarts.
+  Une très petite entreprise à la situation « fragile » reçoit 20 000 euros quand 90 000 étaient demandés
+  ([[2019-07]]) ; une autre, 150 000 euros au lieu de 500 000 au moins ([[2019-06]]).</li>
+  <li><strong>Les mesures correctrices.</strong> Elles sont prises en compte « dans une certaine mesure »,
+  formule qui revient dans sept décisions, et souvent sous réserve de vérification. Dépenser beaucoup après
+  le contrôle n'efface pas le manquement : deux établissements qui avaient engagé plus de 25 millions d'euros
+  de remise à niveau ont reçu 3 et 2,5 millions d'euros d'amende ([[2020-02]], [[2020-03]]).</li>
+  <li><strong>Les mêmes faits reprochés plusieurs fois.</strong> La Commission accepte qu'un même défaut fonde
+  plusieurs griefs, mais dit en tenir compte au moment de fixer la sanction ([[2018-03]], [[2019-07]],
+  [[2020-02]], [[2020-09]], [[2022-06]]).</li>
+  <li><strong>La gravité propre à certains sujets.</strong> Un filtrage trimestriel des clients contre les
+  listes de gel est qualifié de manquement « d'une particulière gravité » ([[2021-01#5]]) ; des déclarations
+  tardives sur des soupçons de financement du terrorisme sont une circonstance aggravante ([[2020-03#6]]).</li>
+</ul>
+
+<h2 id="lecons">Neuf leçons qui reviennent</h2>
+
+<h3>1. Bloquer un client n'est pas le déclarer</h3>
+<p>C'est le reproche le plus répété : dix décisions. L'établissement a vu le problème, il a bloqué la carte,
+fermé le compte ou interdit le client, et il s'est arrêté là. Dans un dossier, 55 déclarations manquaient,
+souvent après une clôture pour fraude ([[2022-07#4]]). Dans un autre, les directions commerciales fermaient
+des comptes pour motif LCB-FT sans prévenir la sécurité financière ([[2024-02#2]]). Un établissement avait
+même écrit à un client que son refus tenait à des « mesures anti blanchiment », sans rien envoyer à Tracfin
+([[2019-07#9]]). La règle est constante : se protéger soi-même ne remplace pas la déclaration.</p>
+
+<h3>2. Sans connaissance du client, rien ne fonctionne en aval</h3>
+<p>La Commission fait elle-même le lien. Les carences dans la connaissance des clients « ont eu pour
+conséquence » les défauts de déclaration, écrit-elle à propos d'une banque régionale ([[2018-04]]) ; elle
+reprend l'idée ailleurs ([[2018-06]], [[2024-06]]). Le mécanisme est simple : sans revenus ni profession au
+dossier, on ne peut pas dire qu'une opération est anormale. Dans dix décisions, l'outil de surveillance
+n'avait aucun scénario comparant les opérations aux revenus du client, ou ne pouvait pas le faire tourner
+faute de données.</p>
+
+<h3>3. Des seuils d'alerte sans rapport avec l'opération moyenne</h3>
+<p>Onze décisions. Les exemples sont parlants : un premier seuil à 1 500 euros quand le dépôt moyen est de
+170 euros ([[2019-04#3]]) ; 1 600 euros par mois quand le transfert mensuel moyen est de 256 euros
+([[2021-01#2]]) ; 14 000 euros par semaine pour des dépôts d'espèces de 400 à 700 euros en moyenne
+([[2021-05#2]]). Le seuil vient souvent du groupe, sans adaptation locale. La Commission donne la méthode :
+un seuil se fixe à partir du montant moyen des opérations et des écarts à ce montant. Elle juge aussi qu'un
+seuil fixe sous lequel rien n'est jamais examiné est contraire à la loi par principe ([[2017-10#6]]).</p>
+
+<h3>4. Les alertes s'empilent, les déclarations partent tard</h3>
+<p>Quand l'outil produit plus d'alertes que l'équipe ne peut en lire, tout le reste suit. Une banque en ligne
+recevait 470 alertes par jour et en traitait 130 : plus de 200 000 étaient en attente, pour une seule
+personne chargée des examens renforcés et des déclarations ([[2020-05#1]]). Chez un assureur, plus de 31 000
+alertes n'étaient pas analysées et les déclarations partaient en moyenne 434 jours après les faits
+([[2020-03#1]], [[2020-03#6]]). Ailleurs, 63 % des alertes d'une période étaient encore en attente au
+moment du contrôle ([[2024-01#3]]). La réponse de la Commission ne varie pas : un logiciel mal conçu, un
+rachat ou un lancement de produit expliquent le retard, ils ne l'excusent pas.</p>
+
+<h3>5. Classer une alerte sans écrire pourquoi</h3>
+<p>Une alerte close doit garder la trace de ce qui a été vérifié. On trouve 174 alertes fermées avec le seul
+commentaire « client injoignable » ([[2018-04#2]]), 58 % d'alertes closes sans aucun commentaire
+([[2020-08#6]]), des signalements d'agences classés « RAS » ([[2020-11#5]]) et, chez un agent que personne
+ne contrôlait, 585 alertes toutes classées sans suite ([[2022-05#3]]).</p>
+
+<h3>6. Le gel des avoirs ne tolère aucun raccourci</h3>
+<p>Quatre défauts reviennent. Un outil qui exige l'orthographe exacte du nom ([[2019-06#6]], [[2020-03#7]],
+[[2020-09#1]], [[2022-06#1]]). Une base de clients comparée trop rarement aux listes : une fois par mois, par
+trimestre, voire par an ([[2019-04#10]], [[2021-01#5]], [[2022-06#1]]). Un seuil de montant sous lequel on ne
+filtre pas, alors que le gel s'applique au premier euro ([[2019-06#6]], [[2024-02#9]]). Enfin l'oubli des
+mesures décidées par la France, à côté des listes européennes ([[2018-08#7]]). L'argument « nos clients sont
+modestes, ils ne ressemblent pas aux personnes visées » est rejeté : l'obligation vaut pour tous les clients
+([[2019-04#10]]).</p>
+
+<h3>7. Le groupe, l'agent et le prestataire n'excusent rien</h3>
+<p>Celui qui délègue reste responsable ([[2022-03#10]]). Un établissement contrôlait 32 alertes par an sur
+les 73 095 traitées par son prestataire ([[2022-04#10]]). Un autre faisait auditer ses sous-agents par ses
+propres agents : l'un de ces audits a conclu à « 0 % de défauts » là où des transactions suspectes
+continuaient ([[2024-06#8]]). Confier une tâche à une société sœur du groupe reste une externalisation, qui
+demande un contrat écrit ([[2020-06#4]]). Et un scénario fourni par le groupe doit être recalé sur la
+clientèle locale ([[2021-05#2]]).</p>
+
+<h3>8. Ce qui était déjà connu coûte plus cher</h3>
+<p>Dans douze décisions au moins, le défaut avait déjà été signalé avant le contrôle. Parfois par l'ACPR
+elle-même, après un contrôle précédent dont les demandes n'avaient pas été suivies ([[2018-06]], [[2020-01]],
+[[2024-01]], [[2024-06]]). Plus souvent par l'audit interne ou l'inspection du groupe ([[2018-03#6]],
+[[2018-04]], [[2020-02]], [[2020-09]], [[2022-01]], [[2022-04]], [[2022-07]], [[2023-01]]). Un engagement pris
+en 2019 et tenu seulement en 2024 est relevé comme tel ([[2024-06#1]]). Pour un contrôleur interne, la leçon
+est directe : une recommandation sans responsable ni échéance devient une pièce du dossier de sanction.</p>
+
+<h3>9. « Les textes n'étaient pas clairs » : presque jamais accepté</h3>
+<p>L'argument est rejeté quand l'établissement jugeait une règle peu utile ou propre à la France
+([[2017-10#1]]), quand il lisait comme facultative une liste d'informations à recueillir ([[2018-06#7]]) ou
+quand il regrettait l'absence de « cahier des charges » pour son outil de filtrage ([[2022-06#1]]). Il y a
+une exception nette : la Commission écarte le reproche de ne pas utiliser un fichier automatique
+d'informations négatives, parce que l'obligation n'était ni claire ni prévisible au moment du contrôle
+([[2023-01#2]]). Et deux jeunes entreprises aux produits nouveaux ont obtenu que leur difficulté à comprendre
+ce qu'on attendait d'elles pèse sur le montant, l'une étant prévenue qu'elle ne pourrait plus l'invoquer
+([[2019-06]], [[2019-08]]).</p>
+
+<h2 id="points">Des décisions aux points de contrôle</h2>
+<p>Ces constats ont été transformés en une liste de {{nb_points}} questions qu'un service de contrôle interne
+peut se poser, classées par thème, avec les décisions qui les illustrent.</p>
+<p><a class="bouton" href="points-de-controle.html">Voir la liste des points de contrôle</a></p>
+
+<h2 id="limites">Limites</h2>
+<ul>
+  <li>L'étude repose sur les fiches, pas sur une nouvelle lecture des décisions. Une erreur dans une fiche se
+  retrouve ici. Les fiches ont été rédigées avec Claude et je ne les ai pas encore toutes relues.</li>
+  <li>Chaque grief est rangé dans une seule catégorie principale. Certains pourraient l'être dans deux : un
+  défaut de connaissance du client découvert sur un vieux dossier relève à la fois de l'entrée en relation
+  et de la mise à jour.</li>
+  <li>Les 36 décisions LCB-FT rendues avant 2019 ne sont pas encore analysées. On ne peut donc rien dire de
+  l'évolution sur longue période.</li>
+  <li>Il n'y a pour l'instant que l'ACPR. Les comparaisons avec l'AMF, la CSSF et la FINMA viendront
+  ensuite.</li>
+  <li>Un montant d'amende dépend de la taille de l'établissement, que les décisions anonymisées masquent
+  souvent. Comparer deux montants sans cette information n'a pas de sens.</li>
+</ul>
 </div>

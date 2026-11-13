@@ -1,6 +1,6 @@
 # JOURNAL – Sanctions Conformité
 
-Journal de bord du projet, version courte (allégée le 13 novembre 2026 pour économiser le quota ; mise à jour en fin de session 3).
+Journal de bord du projet, version courte (allégée le 13 novembre 2026 pour économiser le quota ; mise à jour en fin de session 4).
 À redonner à Claude au début de chaque session, avec PROJET.md.
 Le détail lot par lot est dans `JOURNAL-ARCHIVE.md` : ne pas le relire au début d'une session, seulement au besoin.
 
@@ -8,12 +8,12 @@ Dépôt : https://github.com/Mateo180805/sanctions-conformite (public)
 
 ---
 
-## Où on en est (13 novembre 2026, session 3)
+## Où on en est (13 novembre 2026, session 4)
 
 - [x] Session 1 : collecte ACPR. Base de 111 décisions (2011 à 2026), mise à jour chaque lundi par GitHub Actions.
 - [x] Session 2 : fiches d'analyse, lots 1 à 6. **31 fiches sur 67 décisions LCB-FT** : toutes les décisions LCB-FT et gel des avoirs rendues entre janvier 2019 et avril 2026. Aucune n'a encore été relue par Matéo (statut « à lire »).
 - [x] Session 3 : le site (GitHub Pages), construit avec Opus 5.5 et **en ligne depuis le 13 novembre** (31 fiches vérifiées sur le site publié). Textes de l'accueil et de la page À propos rédigés par Claude et validés par Matéo.
-- [ ] Session 4 : étude comparative et liste des points de contrôle, sur les 31 fiches.
+- [x] Session 4 : étude comparative (page Analyse) et liste de 69 points de contrôle (nouvelle page), sur les 31 fiches. Rédigées avec Fable 5.2, **pas encore relues par Matéo**.
 - [ ] Plus tard : les 36 décisions LCB-FT antérieures à 2019, les 44 fiches courtes « hors LCB-FT », puis AMF, CSSF, FINMA.
 
 Les 31 fiches : 2024-06, 2024-02, 2024-01, 2023-01, 2022-07, 2022-06, 2022-05, 2022-04, 2022-03, 2022-02, 2022-01, 2021-05, 2021-01, 2020-11, 2020-09 (nominatives) ; 2020-08, 2020-06, 2020-05, 2020-03, 2020-02, 2020-01, 2019-08, 2019-07, 2019-06, 2019-04, 2018-08, 2018-06, 2018-05, 2018-04, 2018-03, 2017-10 (anonymisées).
@@ -51,12 +51,12 @@ Lot 6 (13 novembre) :
 
 Matéo a validé le 13 novembre l'ensemble des propositions et laissé Claude trancher le reste.
 
-- **4.** Types d'établissement regroupés pour le filtre du site : Banque ; Paiement et monnaie électronique ; Assurance ; Change manuel ; Financement participatif (dictionnaire `TYPES` de `site/construire.py`). La fiche garde le terme exact.
+- **4.** Types d'établissement regroupés pour le filtre du site : Banque ; Paiement et monnaie électronique ; Assurance ; Change manuel ; Financement participatif (dictionnaire `TYPES`, dans `analyse/etude.py` depuis la session 4). La fiche garde le terme exact.
 - **5.** La fiche fait foi pour le statut « lue » ; `mes_notes` n'est pas publié.
 - **6.** Pas de quatrième issue. Les griefs abandonnés par la poursuite restent « écarté » avec leur précision. Dans l'étude, les « écartés » sont comptés à part et ne sont jamais présentés comme des pratiques validées.
 - **10.** Fiche 2018-03 : la date de la sanction de 2015 reste tue et les deux fiches ne sont pas reliées.
 - **11.** Fiche 2018-06 : grief 11 laissé « retenu », grief 3 laissé « hors LCB-FT ».
-- **12.** À appliquer au début de la session 4, avant tout comptage : identification des clients occasionnels -> « relation d'affaires et clients occasionnels » ; connaissance du client non mise à jour -> « vigilance constante et mise à jour des dossiers » ; les griefs « autre » restent « autre » avec leur précision.
+- **12.** Appliquée le 13 novembre (session 4 ; un seul grief a changé : 2018-06 grief 7, passé en « vigilance constante et mise à jour des dossiers ») : identification des clients occasionnels -> « relation d'affaires et clients occasionnels » ; connaissance du client non mise à jour -> « vigilance constante et mise à jour des dossiers » ; les griefs « autre » restent « autre » avec leur précision.
 - **13.** Le lien « Source officielle » garde l'adresse de l'ACPR (c'est la source publique) ; le site n'affiche jamais le nom.
 - Longueur des fiches : inchangée.
 - Les fiches gardent la mention « pas encore relue par Matéo » tant que leur statut n'est pas passé à « lue » (règle d'honnêteté du point 7 de PROJET.md).
@@ -66,7 +66,7 @@ Matéo a validé le 13 novembre l'ensemble des propositions et laissé Claude tr
 Adresse prévue : https://mateo180805.github.io/sanctions-conformite/
 
 - **Fonctionnement** : `site/construire.py` (Python sans bibliothèque à installer) lit `decisions.json`, les fiches et le glossaire, et fabrique les pages dans `_site/` (non enregistré dans le dépôt). `.github/workflows/site.yml` vérifie les fiches (`analyse/fiches.py`), fabrique le site et le publie à chaque dépôt sur `main`, après chaque collecte du lundi, ou avec « Run workflow ». Réglage GitHub nécessaire une fois : Settings > Pages > Source : « GitHub Actions ».
-- **Pages** : Accueil, Base (tableau, recherche, filtres régulateur / année / type / manquement retenu / montant / thème / « seulement analysées », tri date et montant, filtres recopiés dans l'adresse), une page par fiche, Analyse (attente de la session 4), Méthode, Lexique (114 termes), À propos.
+- **Pages** : Accueil, Base (tableau, recherche, filtres régulateur / année / type / manquement retenu / montant / thème / « seulement analysées », tri date et montant, filtres recopiés dans l'adresse), une page par fiche, Analyse et Points de contrôle (session 4), Méthode, Lexique (114 termes), À propos.
 - **Style** : fond blanc, encre bleu-noir, un seul accent bleu pétrole (#0d5c64), titres en Newsreader, texte en Public Sans (polices libres, hébergées avec le site, licences dans `site/statique/polices/`). Signe distinctif : la « frise des griefs », une barre par grief (pleine = retenu, hachurée = en partie, vide = écarté). Testé sur ordinateur et téléphone (390 px), sans erreur JavaScript ; le site reste lisible sans JavaScript.
 - **Textes de Matéo** : `site/textes/introduction.txt` et `site/textes/a-propos.txt` (texte simple ; lignes commençant par # ignorées ; une adresse web devient un lien). Tant qu'ils sont vides, un cadre « Emplacement réservé » s'affiche. Textes fixes : `site/pages/methode.html` (écrit à la première personne, **à relire par Matéo**) et `site/pages/analyse.html`.
 - **Garde-fous** : le site ne lit jamais `donnees/textes/`. Noms de personnes physiques retirés des noms d'établissement des décisions sans fiche (2011-03, 2015-01, 2015-04, 2016-08), vérifié sur tout le site. Si l'ACPR anonymise une décision dont la fiche garde un nom (2020-09 fin novembre 2026, 2020-11 février 2027), la fiche est retirée du site, le reste est publié, et la tâche « Site » passe au rouge (e-mail). Il faut alors anonymiser la fiche.
@@ -74,11 +74,19 @@ Adresse prévue : https://mateo180805.github.io/sanctions-conformite/
 - **Ajouts du 13 novembre après mise en ligne** : fond blanc cassé (#faf7f2) et accent plus présent ; transitions discrètes (changement de page, ouverture des griefs, filtres), coupées si l'appareil demande moins d'animations ; aperçu de partage pour LinkedIn (balises Open Graph et image `site/statique/apercu.png`) ; page 404.
 - La base est triée par date de décision, pas par numéro de procédure : 2017-10, 2018-04 et 2018-05 (jugées en 2019) apparaissent parmi les lignes de 2019.
 - Le lien LinkedIn n'est pas encore sur la page À propos : l'ajouter à la fin de `site/textes/a-propos.txt` (adresse complète).
-- Graphiques de la page Analyse : session 4.
 
-## À savoir pour la session 4 (l'étude)
+## L'étude (session 4)
 
-- Compter sur la catégorie principale ; exclure les griefs « hors LCB-FT » ; ne pas lire un « écarté » comme une pratique validée (question 6).
+- **Programme** : `analyse/etude.py` compte à partir des fiches et écrit `donnees/etude/chiffres.json` ; il vérifie aussi la liste des points de contrôle et fabrique sa copie CSV. Le site appelle les mêmes fonctions : graphiques et tableaux suivent les fiches tout seuls. Le regroupement des types d'établissement (`TYPES`) est maintenant défini une seule fois, dans `analyse/etude.py`.
+- **Règles de comptage** : unité principale = la décision où le manquement est retenu, en entier ou en partie ; nombre de griefs donné à côté ; catégorie principale seulement ; griefs hors LCB-FT exclus (14) ; écartés comptés à part.
+- **Chiffres clés** : 31 décisions, 236 griefs (162 retenus, 63 en partie, 11 écartés). En tête : déclarations de soupçon (26 décisions), alertes et examen renforcé (22), surveillance (21), contrôle interne (20), gel des avoirs (18 sur les 21 qui l'examinent). 28 amendes, de 20 000 € à 4 M€, total 32,76 M€ ; jamais au-dessus de la demande du Collège (19 en dessous, 9 égales).
+- **Texte** : `site/pages/analyse.html`. Les repères `[[2020-05]]` et `[[2020-05#11]]` deviennent des liens vers la fiche ou le grief (pas de lien si la fiche est retirée du site). Aucun nom d'établissement dans le texte, pour ne pas dépendre de l'anonymisation. Les chiffres écrits dans les phrases sont ceux du 13 novembre sur 31 fiches : si le nombre de fiches change, un bandeau « Texte à mettre à jour » s'affiche (constantes `ETUDE_NB_FICHES` et `ETUDE_DATE` dans `site/construire.py`) et il faut reprendre le texte.
+- **Points de contrôle** : `donnees/etude/points_de_controle.json` est la source (69 points, identifiants du type DS-1, GEL-2). Chaque point a une question, une ligne « à demander » et les griefs qui l'illustrent. Le programme refuse un point qui cite un grief inexistant, écarté ou hors LCB-FT. Pour marquer la liste comme relue : passer `"relu_par_mateo"` à `true` dans ce fichier.
+- **Choix faits par Claude** (Matéo a laissé trancher) : page « Points de contrôle » à part, dans le menu ; étude publiée avec la mention « fiches pas encore relues » ; graphiques faits de tableaux HTML avec barres (lisibles sans JavaScript et sur téléphone), dans le style de la frise des griefs ; la sanction de 2015 de la fiche 2018-03 n'est pas citée dans l'étude (décision 10).
+- **Points à vérifier par Matéo** : la leçon 8 de l'étude (« douze décisions au moins » où le défaut était déjà signalé) est un décompte fait par Claude à partir du champ « antécédents » des fiches ; le montant demandé par le Collège est lu automatiquement dans une phrase de la fiche (vérifié à l'œil sur les 31) ; 2020-11 grief 5 (signalements classés sans analyse) est rangé en « vigilance constante », ce qui se discute.
+
+## Thèmes repérés pendant la session 2
+
 - Décisions à part : 2019-08 (avertissement, sans amende, financement participatif) ; 2018-03 (blâme sans amende à cause de la situation financière) ; 2018-05 (radiation) ; 2020-09 (gel des avoirs seulement) ; 2019-07 (21 griefs dont beaucoup hors LCB-FT).
 - Thèmes transversaux déjà repérés (détail et références dans l'archive) : mauvaise connaissance du client à l'origine des défauts de déclaration ; stocks d'alertes et délais ; alertes closes sans analyse écrite ; seuils sans rapport avec l'opération moyenne ; fractionnement ; bloquer un client ne remplace pas la déclaration ; déclarations complémentaires oubliées ; gel des avoirs (« exact match », mesures nationales, fréquence du filtrage, obligation de résultat) ; dispense de la monnaie électronique mal appliquée ; agents, distributeurs et prestataires qui n'excusent pas l'établissement ; outil ou règle du groupe ; argument « les textes n'étaient pas clairs », toujours rejeté ; petite structure et montant de l'amende ; plusieurs griefs pour les mêmes faits ; demandes d'un contrôle précédent restées sans suite.
 - Décisions utiles pour les futures sessions Luxembourg et Suisse : 2020-08, 2019-06 (établissements luxembourgeois, partage ACPR / CSSF), 2018-08 et 2017-10 (passeport européen, représentant permanent).
@@ -107,8 +115,12 @@ Adresse prévue : https://mateo180805.github.io/sanctions-conformite/
 
 ## Prochaine étape
 
-**Session 4 – l'étude comparative**, dans une nouvelle conversation.
+**Relecture par Matéo**, sans Claude : l'étude (page Analyse), la liste des points de contrôle, puis les fiches, en commençant par les plus citées dans l'étude (2020-05, 2020-03, 2019-06, 2024-06, 2022-07).
 
-Message de reprise : « Session 4 : lis PROJET.md et JOURNAL.md (pas l'archive), récupère le dépôt, applique d'abord les reclassements de la décision 12, puis propose-moi le plan de l'étude comparative et de la liste des points de contrôle avant de rédiger. »
+**Session 5**, dans une nouvelle conversation, au choix :
+- les 36 décisions LCB-FT de l'ACPR antérieures à 2019 (par lots de 3, avec Fable 5.2), puis mise à jour du texte de l'étude ;
+- ou un nouveau régulateur (AMF, CSSF, FINMA) : collecte d'abord, avec Opus 5.5 ou Sonnet 5.5.
 
-Modèle conseillé : Opus 5.5 pour le plan, les reclassements, les comptages, les graphiques et la page Analyse ; Fable 5.2 seulement pour relire ou réécrire le texte final de l'étude s'il reste du quota (jauge Fable à 76 % le 13 novembre ; accès à Fable peut-être limité au 16 novembre).
+Message de reprise : « Session 5 : lis PROJET.md et JOURNAL.md (pas l'archive), récupère le dépôt, puis propose-moi le plan pour [les décisions d'avant 2019 / la collecte de l'AMF]. »
+
+Modèle conseillé : Fable 5.2 pour les fiches et pour reprendre le texte de l'étude ; Opus 5.5 ou Sonnet 5.5 pour la collecte et le site.

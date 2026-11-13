@@ -1,6 +1,6 @@
 # PROJET – Sanctions Conformité
 
-Cahier des charges du projet. Version du 12 novembre 2026 (session 2 : grille complétée au point 6, règle d'accessibilité ajoutée au point 7).
+Cahier des charges du projet. Version du 13 novembre 2026 (session 4 : page « Points de contrôle » ajoutée au point 8).
 Ce fichier est à redonner à Claude au début de chaque session, avec JOURNAL.md.
 
 ## 1. Qui je suis
@@ -97,7 +97,7 @@ Les décisions qui ne portent ni sur la LCB-FT ni sur le gel des avoirs (protect
 
 Il s'adresse à des recruteurs en conformité, et à moi.
 
-Pages : Accueil (ce que c'est en deux phrases, quelques chiffres, les dernières décisions) ; Base (un tableau avec recherche et filtres : régulateur, année, type d'établissement, catégorie de manquement, montant) ; une fiche par décision ; Analyse (l'étude et ses graphiques) ; Méthode (sources, grille, mise à jour, limites, usage de l'IA) ; À propos (qui je suis, pourquoi ce projet, lien LinkedIn).
+Pages : Accueil (ce que c'est en deux phrases, quelques chiffres, les dernières décisions) ; Base (un tableau avec recherche et filtres : régulateur, année, type d'établissement, catégorie de manquement, montant) ; une fiche par décision ; Analyse (l'étude et ses graphiques) ; Points de contrôle (la liste déduite des décisions, téléchargeable en CSV) ; Méthode (sources, grille, mise à jour, limites, usage de l'IA) ; À propos (qui je suis, pourquoi ce projet, lien LinkedIn).
 
 Style : sobre et éditorial, comme une base juridique ou un site de journalisme de données. Fond clair, texte foncé, une seule couleur d'accent, typographie très lisible, tableaux aérés, graphiques simples. Pas d'emoji, pas de dégradés, pas d'effets à la mode, pas d'icônes décoratives, pas de phrases de marketing. Il doit être agréable sur téléphone, rapide et accessible, et surtout ne pas avoir l'air généré par une IA.
 

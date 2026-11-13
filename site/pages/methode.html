@@ -15,6 +15,15 @@ information renvoie à la page de la décision d'où elle vient.</p>
 et le financement du terrorisme (LCB-FT) ou sur le gel des avoirs. Les autres régulateurs (AMF, CSSF au
 Luxembourg, FINMA en Suisse) seront ajoutés ensuite.</p>
 
+<h2>L'étude et les points de contrôle</h2>
+<p>La page <a href="analyse.html">Analyse</a> compare les {{nb_fiches}} décisions qui ont une fiche. Ses
+graphiques sont recalculés à partir des fiches à chaque mise à jour du site. Un grief compte une fois, dans
+sa catégorie principale ; les griefs sans rapport avec la LCB-FT ne sont pas comptés ; un grief écarté est
+montré à part et n'est jamais présenté comme une pratique validée.</p>
+<p>Les <a href="points-de-controle.html">points de contrôle</a> sont déduits des griefs retenus. Ils ne
+viennent pas de l'ACPR. Un programme vérifie que chaque point cite des griefs qui existent et que la
+Commission a bien retenus, en entier ou en partie.</p>
+
 <h2>La mise à jour</h2>
 <p>Chaque lundi, un programme vérifie le recueil de l'ACPR et ajoute les nouvelles décisions à la base. Il
 tourne seul sur les serveurs de GitHub et ne télécharge que ce qui est nouveau. Une nouvelle décision apparaît
@@ -44,6 +53,8 @@ les manquements retenus en points de contrôle, et il est présenté comme tel.<
   combler un vide. Des vérifications automatiques contrôlent ensuite les catégories, les pages citées et la
   présence de chaque chiffre dans la page indiquée.</li>
   <li>Le site a été conçu avec Claude (modèle Opus 5.5).</li>
+  <li>L'étude comparative et la liste des points de contrôle ont été rédigées avec Claude (modèle Fable 5.2)
+  à partir des fiches. Je ne les ai pas encore relues en détail.</li>
   <li>Chaque fiche est ensuite relue par moi. Fiches relues à ce jour : {{nb_relues}} sur {{nb_fiches}}. Une
   fiche non relue l'indique en haut de page.</li>
 </ul>

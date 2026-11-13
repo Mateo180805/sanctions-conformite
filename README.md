@@ -20,6 +20,8 @@ Prévus : AMF, CSSF (Luxembourg), FINMA (Suisse).
 | `fiches/acpr/` | Les mêmes fiches en version lisible, fabriquées automatiquement. À lire à côté du PDF officiel. |
 | `donnees/glossaire.json` | Le glossaire commun : les termes techniques expliqués en une phrase. |
 | `analyse/fiches.py` | Le programme qui vérifie les fiches et fabrique leur version lisible. |
+| `analyse/etude.py` | Le programme de l'étude comparative : il compte, à partir des fiches, ce qui est sanctionné et avec quelles sanctions, et vérifie la liste des points de contrôle. |
+| `donnees/etude/` | Les résultats de l'étude : `chiffres.json` (comptages, refaits par le programme), `points_de_controle.json` (la liste, c'est la source) et sa copie `points_de_controle.csv` pour Excel. |
 | `collecte/` | Le programme de collecte, en Python. |
 | `.github/workflows/collecte.yml` | La consigne donnée à GitHub : lancer la collecte chaque lundi. |
 | `site/` | Le site public : `construire.py` fabrique les pages, `statique/` contient le style, les scripts et les polices, `pages/` les textes fixes (Méthode, Analyse), `textes/` les textes écrits par Matéo. |

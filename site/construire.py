@@ -9,6 +9,7 @@ Il lit :
   - donnees/fiches/*/*.json     les fiches d'analyse (la fiche fait foi) ;
   - donnees/glossaire.json      le glossaire commun (page Lexique et lexique des fiches) ;
   - site/pages/*.html           les textes fixes (Méthode, Analyse) ;
+  - donnees/etude/points_de_controle.json   la liste des points de contrôle (page du même nom) ;
   - site/textes/*.txt           les textes écrits par Matéo (introduction, À propos).
 
 Il ne lit JAMAIS donnees/textes/ (le texte intégral des décisions) : certains textes
@@ -30,11 +31,13 @@ import re
 import shutil
 import sys
 import unicodedata
+import urllib.parse
 from pathlib import Path
 
 RACINE = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(RACINE / "analyse"))
 from fiches import CATEGORIES, date_en_clair, lexique  # noqa: E402  (on réutilise le code des fiches)
+import etude  # noqa: E402  (les comptages de l'étude comparative : analyse/etude.py)
 
 DONNEES = RACINE / "donnees"
 ICI = Path(__file__).resolve().parent
@@ -49,17 +52,8 @@ MOIS_COURTS = ["janv.", "févr.", "mars", "avr.", "mai", "juin", "juil.", "août
 
 # Regroupement des types d'établissement pour le filtre de la base (question 4 du journal).
 # La fiche garde le terme exact de la décision ; ce tableau ne sert qu'au filtre.
-TYPES = {
-    "banque": "Banque",
-    "établissement de crédit": "Banque",
-    "établissement de crédit spécialisé": "Banque",
-    "établissement de paiement": "Paiement et monnaie électronique",
-    "établissement de monnaie électronique": "Paiement et monnaie électronique",
-    "prestataire de services de paiement (office des postes)": "Paiement et monnaie électronique",
-    "assureur": "Assurance",
-    "changeur manuel": "Change manuel",
-    "intermédiaire en financement participatif": "Financement participatif",
-}
+# Regroupement des types d'établissement : défini une seule fois, dans analyse/etude.py.
+TYPES = etude.TYPES
 NON_RENSEIGNE = "Non renseigné (fiche à venir)"
 
 # Tranches de montant pour le filtre de la base.
@@ -331,7 +325,7 @@ def etablissement_fiche(f):
 # --------------------------------------------------------------------------
 
 MENU = [("index.html", "Accueil"), ("base.html", "Base"), ("analyse.html", "Analyse"),
-        ("methode.html", "Méthode"), ("lexique.html", "Lexique"), ("a-propos.html", "À propos")]
+        ("points-de-controle.html", "Points de contrôle"), ("methode.html", "Méthode"), ("lexique.html", "Lexique"), ("a-propos.html", "À propos")]
 
 
 def page(chemin, titre, contenu, description, collecte, actif=None, scripts="", absolu=False):
@@ -746,6 +740,194 @@ Chaque fiche reprend en bas de page ceux qu'elle utilise.</p></div>
          collecte, actif="lexique.html")
 
 
+# --------------------------------------------------------------------------
+# L'étude comparative : page Analyse et page Points de contrôle
+# --------------------------------------------------------------------------
+
+# Le texte de site/pages/analyse.html a été écrit sur ce nombre de fiches. S'il change,
+# les graphiques suivent tout seuls, mais les phrases sont à relire : un bandeau le signale.
+ETUDE_NB_FICHES = 31
+ETUDE_DATE = "13 novembre 2026"
+
+
+def liens_fiches(texte, publiees):
+    """Remplace [[2020-05]] par un lien vers la fiche, et [[2020-05#11]] par un lien vers son
+    grief 11. Si la fiche n'est pas publiée (retirée le temps d'être anonymisée), pas de lien."""
+    def un_lien(m):
+        procedure, grief = m.group(1), m.group(2)
+        if "ACPR-" + procedure not in publiees:
+            return procedure
+        ancre = f"#grief-{grief}" if grief else ""
+        titre = f"Décision {procedure}, grief {grief}" if grief else f"Décision {procedure}"
+        return f'<a class="ref" href="decisions/acpr-{procedure}.html{ancre}" title="{titre}">{procedure}</a>'
+    return re.sub(r"\[\[(\d{4}-\d{2})(?:#(\d+))?\]\]", un_lien, texte)
+
+
+def millions(n):
+    """4000000 -> « 4 M€ » ; 150000 -> « 150 000 € » ; 0 -> « – »."""
+    if not n:
+        return "–"
+    if n >= 1_000_000:
+        return f"{n / 1_000_000:.2f}".rstrip("0").rstrip(".").replace(".", ",") + " M€"
+    return euros(n)
+
+
+def barre(valeur, maximum, classe="r"):
+    """Une barre horizontale dont la longueur est proportionnelle à la valeur."""
+    largeur = 100 * valeur / maximum if maximum else 0
+    return f'<span class="barre {classe}" style="width:{largeur:.1f}%"></span>'
+
+
+def graphique_categories(chiffres):
+    """Un tableau-graphique : une ligne par catégorie, une barre pour le nombre de décisions,
+    et les griefs découpés en retenus / en partie / écartés, comme la frise des fiches."""
+    n = chiffres["nb_decisions"]
+    lignes = []
+    for c in chiffres["categories"]:
+        d = len(c["decisions_sanctionnees"])
+        issues = (["retenu"] * c["retenus"] + ["retenu en partie"] * c["en_partie"]
+                  + ["écarté"] * c["ecartes"])
+        nom = "Autres obligations" if c["categorie"].startswith("autre") else majuscule(c["categorie"])
+        lien = "base.html?categorie=" + urllib.parse.quote(c["categorie"])
+        lignes.append(f"""<tr>
+  <th scope="row"><a href="{e(lien)}">{e(nom)}</a></th>
+  <td class="g-barre"><span class="piste">{barre(d, n)}</span></td>
+  <td class="g-nombre"><strong>{d}</strong><span class="sur"> / {n}</span></td>
+  <td class="g-griefs">{decompte(issues)}<span class="g-detail">{c['griefs']}</span></td>
+</tr>""")
+    return f"""<figure class="graphique">
+<figcaption><strong>Nombre de décisions où le manquement est retenu, en entier ou en partie</strong>
+<span>Sur {n} décisions. À droite, les griefs correspondants.</span></figcaption>
+<div class="defile"><table class="graphe graphe-categories">
+<thead><tr><th scope="col">Catégorie</th><th scope="col" colspan="2">Décisions</th><th scope="col">Griefs</th></tr></thead>
+<tbody>{''.join(lignes)}</tbody></table></div>
+{legende()}
+</figure>"""
+
+
+def graphique_simple(titre, sous_titre, entetes, rangees, classe=""):
+    """Tableau-graphique générique. rangees : liste de (libellé, valeur, texte de la valeur, colonnes en plus)."""
+    maximum = max(r[1] for r in rangees)
+    corps = "".join(
+        f"""<tr><th scope="row">{lib}</th>
+  <td class="g-barre"><span class="piste">{barre(v, maximum)}</span></td>
+  <td class="g-nombre"><strong>{txt}</strong></td>{''.join(f'<td class="g-plus">{x}</td>' for x in plus)}</tr>"""
+        for lib, v, txt, plus in rangees)
+    tetes = (f'<th scope="col">{entetes[0]}</th><th scope="col" colspan="2">{entetes[1]}</th>'
+             + "".join(f'<th scope="col">{x}</th>' for x in entetes[2:]))
+    return f"""<figure class="graphique">
+<figcaption><strong>{titre}</strong><span>{sous_titre}</span></figcaption>
+<div class="defile"><table class="graphe {classe}"><thead><tr>{tetes}</tr></thead><tbody>{corps}</tbody></table></div>
+</figure>"""
+
+
+def etude_pages(lignes, valeurs, collecte):
+    fiches_lcbft, decisions = etude.charger()
+    chiffres = etude.calculer(fiches_lcbft, decisions)
+    publiees = {l["id"] for l in lignes if l["fiche"]}
+
+    types = graphique_simple(
+        "Décisions par type d'établissement", f"{chiffres['nb_decisions']} décisions, de 2019 à 2026.",
+        ["Type", "Décisions", "Total des amendes"],
+        [(e(t), v["decisions"], str(v["decisions"]), [millions(v["montant_total"])])
+         for t, v in chiffres["par_type"].items()], "graphe-types")
+    annees = graphique_simple(
+        "Décisions par année", "Année de la décision, pas du contrôle. 2026 : jusqu'en avril.",
+        ["Année", "Décisions", "Total des amendes"],
+        [(a, v["decisions"], str(v["decisions"]), [millions(v["montant_total"])])
+         for a, v in chiffres["par_annee"].items()], "graphe-annees")
+    par_montant = sorted(chiffres["decisions"], key=lambda l: (-l["montant"], l["date"]))
+    montants = graphique_simple(
+        "Montant de l'amende, décision par décision",
+        "De la plus forte à la plus faible. Le type d'établissement est celui de la fiche.",
+        ["Décision", "Amende", "Établissement", "Demandé par le Collège"],
+        [(liens_fiches(f"[[{l['procedure']}]]", publiees), l["montant"],
+          millions(l["montant"]) if l["montant"] else e(" et ".join(l["nature"])),
+          [e(majuscule(l["type"])), millions(l["montant_propose"]) if l["montant"] else "–"])
+         for l in par_montant], "graphe-montants")
+
+    note = ""
+    if chiffres["nb_decisions"] != ETUDE_NB_FICHES:
+        note = (f'<div class="reserve"><p><strong>Texte à mettre à jour.</strong> Les graphiques portent sur '
+                f'{chiffres["nb_decisions"]} décisions, mais les phrases de cette page ont été écrites le '
+                f'{ETUDE_DATE} sur {ETUDE_NB_FICHES} décisions. Les chiffres cités dans le texte peuvent '
+                f'donc être dépassés.</p></div>')
+
+    donnees, problemes = etude.lire_points(fiches_lcbft)
+    if problemes:
+        sys.exit("La liste des points de contrôle a des problèmes :\n  - " + "\n  - ".join(problemes))
+
+    valeurs = dict(valeurs, graph_categories=graphique_categories(chiffres), graph_types=types,
+                   graph_annees=annees, graph_montants=montants, note_actualite=note,
+                   nb_points=len(donnees["points"]))
+    texte = re.sub(r"\A<!--.*?-->\s*", "", gabarit("analyse.html", valeurs), flags=re.S)  # note de travail
+    page("analyse.html", "Analyse", liens_fiches(texte, publiees),
+         "Étude comparative de 31 décisions de sanction de l'ACPR en matière de lutte contre le "
+         "blanchiment et de gel des avoirs.", collecte, actif="analyse.html")
+    points_page(donnees, chiffres, publiees, collecte)
+
+
+def points_page(donnees, chiffres, publiees, collecte):
+    """La liste des points de contrôle, rangée par catégorie, de la plus sanctionnée à la moins sanctionnée."""
+    sanctionnees = {c["categorie"]: len(c["decisions_sanctionnees"]) for c in chiffres["categories"]}
+    ordre = [c["categorie"] for c in chiffres["categories"]]
+    sommaire, sections = [], []
+    for k, cat in enumerate(ordre, 1):
+        points = [p for p in donnees["points"] if p["categorie"] == cat]
+        if not points:
+            continue
+        nom = "Autres obligations" if cat.startswith("autre") else majuscule(cat)
+        sommaire.append(f'<li><a href="#c{k}">{e(nom)}</a> <span>{len(points)}</span></li>')
+        items = []
+        for p in points:
+            refs = ", ".join(
+                liens_fiches(f"[[{proc}#{nums[0]}]]", publiees)
+                for proc, nums in sorted(p["sources"].items()))
+            items.append(f"""<li class="point" id="{e(p['id'].lower())}">
+  <p class="point-question"><span class="point-id">{e(p['id'])}</span> {e(p['question'])}</p>
+  <p class="point-preuve"><span>À demander</span><span class="v">{e(p['preuve'])}</span></p>
+  <p class="point-sources"><span>{pluriel(len(p['sources']), 'décision', 'décisions')}</span><span class="v">{refs}</span></p>
+</li>""")
+        sections.append(f"""<section id="c{k}">
+<h2>{e(nom)}</h2>
+<p class="avertissement">Manquement retenu dans {sanctionnees[cat]} des {chiffres['nb_decisions']} décisions étudiées.</p>
+<ol class="points">{''.join(items)}</ol>
+</section>""")
+
+    # La même liste en tableau, à télécharger.
+    (SORTIE / "telechargements").mkdir(parents=True, exist_ok=True)
+    etude.ecrire_csv(donnees, SORTIE / "telechargements" / "points-de-controle.csv")
+
+    relue = "" if donnees["redaction"].get("relu_par_mateo") else " Elle n'a pas encore été relue point par point."
+    contenu = f"""<div class="titre-page">
+  <h1>Points de contrôle</h1>
+  <p class="chapo">{len(donnees['points'])} questions à se poser sur un dispositif de lutte contre le blanchiment
+  et de gel des avoirs, tirées de ce que la Commission des sanctions de l'ACPR a réellement sanctionné.</p>
+</div>
+<div class="fiche">
+<nav class="sommaire" aria-label="Catégories">
+  <p>Catégories</p>
+  <ul class="sommaire-points">{''.join(sommaire)}</ul>
+</nav>
+<div class="fiche-corps points-corps">
+<div class="texte">
+<p><strong>Ces points ne sont pas écrits par l'ACPR.</strong> Ils sont déduits des griefs que sa Commission des
+sanctions a retenus, en entier ou en partie, dans les {chiffres['nb_decisions']} décisions de
+l'<a href="analyse.html">étude</a>. Chaque point renvoie aux décisions qui l'illustrent : le numéro mène au
+grief concerné. La ligne « À demander » suggère ce qu'un contrôleur peut réclamer comme preuve ; c'est une
+proposition, pas une exigence réglementaire.</p>
+<p>La liste a été établie avec Claude à partir des fiches, le {ETUDE_DATE}.{relue} Elle ne couvre que ce
+qui a été sanctionné : un sujet absent n'est pas un sujet sans risque.</p>
+<p><a class="bouton" href="telechargements/points-de-controle.csv" download>Télécharger la liste (CSV, pour Excel)</a></p>
+</div>
+{''.join(sections)}
+</div>
+</div>"""
+    page("points-de-controle.html", "Points de contrôle", contenu,
+         f"{len(donnees['points'])} points de contrôle LCB-FT et gel des avoirs, déduits des décisions de "
+         "sanction de l'ACPR.", collecte, actif="points-de-controle.html")
+
+
 def pages_fixes(lignes, collecte):
     avec_fiche = [l for l in lignes if l["fiche"]]
     relues = sum(1 for l in avec_fiche
@@ -758,8 +940,7 @@ def pages_fixes(lignes, collecte):
     }
     page("methode.html", "Méthode", gabarit("methode.html", valeurs),
          "Sources, grille d'analyse, mise à jour et limites du projet.", collecte, actif="methode.html")
-    page("analyse.html", "Analyse", gabarit("analyse.html", valeurs),
-         "Étude comparative des décisions de sanction.", collecte, actif="analyse.html")
+    etude_pages(lignes, valeurs, collecte)
     contenu = f"""<div class="titre-page"><h1>À propos</h1></div>
 <div class="texte">{texte_de_mateo("a-propos", "Qui est Matéo, pourquoi ce projet, et le lien vers son profil LinkedIn.")}</div>"""
     page("a-propos.html", "À propos", contenu, "Qui a construit ce site et pourquoi.", collecte,

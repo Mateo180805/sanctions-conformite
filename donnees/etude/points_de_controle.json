@@ -1,0 +1,1445 @@
+{
+ "avertissement": "Ces points de contrôle ne sont pas écrits par l'ACPR. Ils sont déduits des griefs que sa Commission des sanctions a retenus, en tout ou en partie, dans les décisions citées. La colonne « preuve » est une suggestion de ce qu'un contrôleur peut demander.",
+ "redaction": {
+  "auteur": "Claude (Fable 5.2)",
+  "date": "2026-11-13",
+  "relu_par_mateo": false,
+  "methode": "Regroupement des points de contrôle déduits dans les 31 fiches (bloc « Ce qui aurait dû être fait »), doublons fusionnés. Chaque point cite les griefs qui l'illustrent ; analyse/etude.py vérifie que ces griefs existent et qu'ils ont été retenus."
+ },
+ "points": [
+  {
+   "id": "DS-1",
+   "categorie": "déclarations de soupçon à Tracfin",
+   "question": "Quand un compte est bloqué ou clôturé, ou qu'un client est refusé pour un doute (fraude, justificatifs refusés), la décision de déclarer ou non à Tracfin est-elle prise par écrit ?",
+   "preuve": "La liste des comptes bloqués ou clôturés pour motif de fraude ou de LCB-FT sur un an, avec pour chacun la décision prise et sa date.",
+   "sources": {
+    "2017-10": [
+     "8"
+    ],
+    "2018-06": [
+     "9"
+    ],
+    "2018-08": [
+     "6"
+    ],
+    "2019-06": [
+     "5"
+    ],
+    "2019-07": [
+     "9"
+    ],
+    "2021-01": [
+     "3"
+    ],
+    "2022-02": [
+     "6"
+    ],
+    "2022-07": [
+     "4"
+    ],
+    "2024-01": [
+     "6"
+    ],
+    "2024-02": [
+     "2"
+    ]
+   }
+  },
+  {
+   "id": "DS-2",
+   "categorie": "déclarations de soupçon à Tracfin",
+   "question": "Le délai entre la détection d'une opération suspecte et l'envoi de la déclaration est-il mesuré, et les retards sont-ils expliqués ?",
+   "preuve": "Le délai moyen et le délai le plus long sur l'année, et pour les dossiers les plus lents la trace des diligences faites entre-temps.",
+   "sources": {
+    "2020-01": [
+     "3"
+    ],
+    "2020-03": [
+     "6"
+    ],
+    "2020-05": [
+     "11"
+    ],
+    "2022-02": [
+     "8"
+    ],
+    "2022-03": [
+     "9"
+    ],
+    "2022-07": [
+     "5"
+    ],
+    "2024-01": [
+     "5"
+    ],
+    "2024-02": [
+     "7"
+    ],
+    "2024-06": [
+     "6"
+    ]
+   }
+  },
+  {
+   "id": "DS-3",
+   "categorie": "déclarations de soupçon à Tracfin",
+   "question": "Une réquisition judiciaire, une demande de Tracfin ou d'un organisme social déclenche-t-elle une revue du compte et la question d'une déclaration ?",
+   "preuve": "Le registre des réquisitions et demandes reçues, avec la revue faite et sa conclusion pour chacune.",
+   "sources": {
+    "2019-06": [
+     "5"
+    ],
+    "2019-07": [
+     "9"
+    ],
+    "2020-02": [
+     "8"
+    ],
+    "2020-11": [
+     "5"
+    ],
+    "2022-02": [
+     "2",
+     "6"
+    ],
+    "2022-07": [
+     "4"
+    ],
+    "2023-01": [
+     "4"
+    ]
+   }
+  },
+  {
+   "id": "DS-4",
+   "categorie": "déclarations de soupçon à Tracfin",
+   "question": "Après une première déclaration, le client reste-t-il suivi, avec une déclaration complémentaire si les mêmes opérations continuent ?",
+   "preuve": "La liste des clients déclarés depuis deux ans, leurs opérations depuis la déclaration et les déclarations complémentaires envoyées.",
+   "sources": {
+    "2017-10": [
+     "9"
+    ],
+    "2018-06": [
+     "10"
+    ],
+    "2020-02": [
+     "9"
+    ],
+    "2022-02": [
+     "6"
+    ],
+    "2022-03": [
+     "8"
+    ],
+    "2023-01": [
+     "4"
+    ]
+   }
+  },
+  {
+   "id": "DS-5",
+   "categorie": "déclarations de soupçon à Tracfin",
+   "question": "Les déclarations sont-elles relues avant envoi : dates, noms et montants exacts, toutes les opérations et les personnes liées citées ?",
+   "preuve": "Un échantillon de déclarations envoyées, comparé au dossier d'analyse qui les a précédées.",
+   "sources": {
+    "2020-03": [
+     "5"
+    ],
+    "2020-05": [
+     "10"
+    ],
+    "2022-02": [
+     "7"
+    ]
+   }
+  },
+  {
+   "id": "DS-6",
+   "categorie": "déclarations de soupçon à Tracfin",
+   "question": "La procédure laisse-t-elle entendre qu'on ne déclare pas en dessous d'un certain montant ? La loi n'en fixe aucun.",
+   "preuve": "La procédure de déclaration, et quelques dossiers de petits montants classés sans déclaration.",
+   "sources": {
+    "2017-10": [
+     "9"
+    ],
+    "2018-04": [
+     "5"
+    ],
+    "2019-07": [
+     "9"
+    ]
+   }
+  },
+  {
+   "id": "DS-7",
+   "categorie": "déclarations de soupçon à Tracfin",
+   "question": "Pour une activité exercée en France depuis un autre pays européen : les déclarations partent-elles bien à Tracfin, et arrivent-elles ?",
+   "preuve": "Le rapprochement entre le nombre de déclarations décidées en interne et celui des déclarations réellement reçues par Tracfin.",
+   "sources": {
+    "2018-08": [
+     "5"
+    ],
+    "2019-06": [
+     "5"
+    ]
+   }
+  },
+  {
+   "id": "DS-8",
+   "categorie": "déclarations de soupçon à Tracfin",
+   "question": "Les opérations en espèces qui doivent être communiquées d'office à Tracfin (au-delà de 10 000 euros sur un mois) le sont-elles ?",
+   "preuve": "La requête mensuelle sur les versements et retraits d'espèces, et les communications envoyées.",
+   "sources": {
+    "2019-04": [
+     "8"
+    ]
+   }
+  },
+  {
+   "id": "ALE-1",
+   "categorie": "analyse des alertes et examen renforcé",
+   "question": "Le stock d'alertes en attente et son ancienneté sont-ils suivis, avec un seuil qui déclenche un renfort ?",
+   "preuve": "Le tableau de bord des alertes : nombre en attente, part de celles qui ont plus de trois mois, plus d'un an, et les décisions prises quand le stock a monté.",
+   "sources": {
+    "2018-04": [
+     "2"
+    ],
+    "2020-01": [
+     "3"
+    ],
+    "2020-03": [
+     "1"
+    ],
+    "2020-05": [
+     "1"
+    ],
+    "2020-08": [
+     "6"
+    ],
+    "2022-04": [
+     "6"
+    ],
+    "2024-01": [
+     "3"
+    ],
+    "2024-02": [
+     "2"
+    ]
+   }
+  },
+  {
+   "id": "ALE-2",
+   "categorie": "analyse des alertes et examen renforcé",
+   "question": "Le classement d'une alerte est-il motivé par une analyse propre au dossier, et pas par « RAS », « client injoignable » ou une formule type ?",
+   "preuve": "Un échantillon d'alertes classées sans suite, avec leur commentaire de clôture.",
+   "sources": {
+    "2017-10": [
+     "8"
+    ],
+    "2018-04": [
+     "2"
+    ],
+    "2020-08": [
+     "6"
+    ],
+    "2020-11": [
+     "5"
+    ],
+    "2022-05": [
+     "3"
+    ],
+    "2023-01": [
+     "1"
+    ]
+   }
+  },
+  {
+   "id": "ALE-3",
+   "categorie": "analyse des alertes et examen renforcé",
+   "question": "L'examen renforcé laisse-t-il une trace écrite : ce qui a été demandé au client, les justificatifs reçus sur l'origine et la destination des fonds, la conclusion ?",
+   "preuve": "Quelques dossiers d'examen renforcé complets. La procédure doit dire dans quels cas l'ouvrir et quels justificatifs exiger.",
+   "sources": {
+    "2017-10": [
+     "6",
+     "7"
+    ],
+    "2018-05": [
+     "2"
+    ],
+    "2019-07": [
+     "2"
+    ],
+    "2020-08": [
+     "1"
+    ],
+    "2022-01": [
+     "5"
+    ],
+    "2024-06": [
+     "5"
+    ]
+   }
+  },
+  {
+   "id": "ALE-4",
+   "categorie": "analyse des alertes et examen renforcé",
+   "question": "Que se passe-t-il quand le client ne répond pas à une demande de justificatif ? Y a-t-il un délai au bout duquel le dossier est tranché ?",
+   "preuve": "La règle écrite (relance, délai, décision) et la liste des demandes restées sans réponse depuis plus de deux mois.",
+   "sources": {
+    "2017-10": [
+     "8"
+    ],
+    "2018-04": [
+     "2"
+    ],
+    "2020-01": [
+     "3"
+    ],
+    "2022-03": [
+     "7"
+    ]
+   }
+  },
+  {
+   "id": "ALE-5",
+   "categorie": "analyse des alertes et examen renforcé",
+   "question": "Toutes les alertes sont-elles analysées, et dans un ordre qui dépend du risque ?",
+   "preuve": "La règle de priorité appliquée par les analystes ; vérifier qu'aucune alerte n'est classée par échantillonnage ou par simple ordre d'arrivée.",
+   "sources": {
+    "2020-05": [
+     "2"
+    ],
+    "2022-04": [
+     "6"
+    ],
+    "2024-02": [
+     "2"
+    ]
+   }
+  },
+  {
+   "id": "SUR-1",
+   "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+   "question": "Les seuils d'alerte sont-ils fixés à partir du montant moyen réel des opérations de la clientèle ?",
+   "preuve": "Pour chaque scénario : le seuil, le montant moyen des opérations visées, le nombre d'alertes produites sur un an. Un scénario qui ne se déclenche jamais est mal réglé.",
+   "sources": {
+    "2017-10": [
+     "6"
+    ],
+    "2019-04": [
+     "3"
+    ],
+    "2019-08": [
+     "6"
+    ],
+    "2020-06": [
+     "3"
+    ],
+    "2020-11": [
+     "2"
+    ],
+    "2021-01": [
+     "2"
+    ],
+    "2021-05": [
+     "2"
+    ],
+    "2022-01": [
+     "4"
+    ],
+    "2022-07": [
+     "2"
+    ],
+    "2023-01": [
+     "1"
+    ],
+    "2024-06": [
+     "4"
+    ]
+   }
+  },
+  {
+   "id": "SUR-2",
+   "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+   "question": "Existe-t-il un scénario qui compare les opérations aux revenus et au patrimoine connus du client ?",
+   "preuve": "La liste des scénarios et des données qu'ils utilisent ; la part des clients dont le revenu n'est pas renseigné dans l'outil.",
+   "sources": {
+    "2020-03": [
+     "1"
+    ],
+    "2020-06": [
+     "3"
+    ],
+    "2021-05": [
+     "2"
+    ],
+    "2022-01": [
+     "4"
+    ],
+    "2022-03": [
+     "5"
+    ],
+    "2022-04": [
+     "6"
+    ],
+    "2022-07": [
+     "2"
+    ],
+    "2023-01": [
+     "1"
+    ],
+    "2024-02": [
+     "1"
+    ],
+    "2024-06": [
+     "4"
+    ]
+   }
+  },
+  {
+   "id": "SUR-3",
+   "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+   "question": "Tous les produits, tous les flux et tous les moyens de paiement entrent-ils dans l'outil de surveillance ?",
+   "preuve": "Le tableau produits / scénarios, et le contrôle qui vérifie chaque jour que toutes les opérations ont bien été chargées.",
+   "sources": {
+    "2018-03": [
+     "2"
+    ],
+    "2020-01": [
+     "4"
+    ],
+    "2020-02": [
+     "4"
+    ],
+    "2020-06": [
+     "3"
+    ],
+    "2020-11": [
+     "2"
+    ],
+    "2022-02": [
+     "2"
+    ],
+    "2022-07": [
+     "2"
+    ]
+   }
+  },
+  {
+   "id": "SUR-4",
+   "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+   "question": "Le fractionnement est-il détecté : opérations rapprochées, cumul sur plusieurs jours, mêmes bénéficiaires ?",
+   "preuve": "Les scénarios de cumul, testés sur des cas d'opérations juste sous le seuil.",
+   "sources": {
+    "2017-10": [
+     "6"
+    ],
+    "2018-03": [
+     "7"
+    ],
+    "2018-05": [
+     "1"
+    ],
+    "2019-08": [
+     "6"
+    ],
+    "2022-07": [
+     "2"
+    ]
+   }
+  },
+  {
+   "id": "SUR-5",
+   "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+   "question": "Les scénarios tiennent-ils compte du pays d'origine et de destination des fonds, et du profil de risque du client ?",
+   "preuve": "Le paramétrage des scénarios, comparé à la liste interne des pays à risque.",
+   "sources": {
+    "2019-08": [
+     "6"
+    ],
+    "2020-02": [
+     "4"
+    ],
+    "2022-02": [
+     "2"
+    ],
+    "2024-02": [
+     "1"
+    ],
+    "2024-06": [
+     "4"
+    ]
+   }
+  },
+  {
+   "id": "SUR-6",
+   "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+   "question": "L'outil regroupe-t-il toutes les opérations d'une même personne (plusieurs comptes, plusieurs contrats, plusieurs agents) ?",
+   "preuve": "Un test sur des clients qui ont plusieurs identifiants ou plusieurs contrats.",
+   "sources": {
+    "2022-03": [
+     "4",
+     "5"
+    ],
+    "2022-07": [
+     "2"
+    ],
+    "2024-02": [
+     "1"
+    ]
+   }
+  },
+  {
+   "id": "SUR-7",
+   "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+   "question": "Un plafond par opération ou un outil anti-fraude tient-il lieu de surveillance LCB-FT ? Il ne la remplace pas.",
+   "preuve": "La description du dispositif : ce qui relève de la fraude, ce qui relève du blanchiment, et qui relit les alertes anti-fraude sous cet angle.",
+   "sources": {
+    "2021-01": [
+     "1"
+    ],
+    "2022-02": [
+     "2"
+    ],
+    "2022-07": [
+     "2"
+    ]
+   }
+  },
+  {
+   "id": "SUR-8",
+   "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+   "question": "Des comptes ou des catégories de clients sont-ils exclus de certains scénarios, ou des scénarios désactivés ? Chaque exclusion est-elle justifiée par écrit ?",
+   "preuve": "La liste des exclusions et des scénarios désactivés, avec leur justification et leur date de revue.",
+   "sources": {
+    "2022-03": [
+     "5"
+    ],
+    "2023-01": [
+     "1"
+    ]
+   }
+  },
+  {
+   "id": "SUR-9",
+   "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+   "question": "Un scénario repère-t-il un client qui envoie à de très nombreux bénéficiaires, ou des clients liés entre eux ?",
+   "preuve": "Les scénarios de liens (même adresse, mêmes bénéficiaires, virements réciproques) et leurs résultats.",
+   "sources": {
+    "2021-01": [
+     "2"
+    ],
+    "2022-02": [
+     "2"
+    ]
+   }
+  },
+  {
+   "id": "SUR-10",
+   "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+   "question": "L'alerte arrive-t-elle assez tôt pour suspendre l'opération quand un soupçon existe déjà ?",
+   "preuve": "Le moment où chaque scénario se déclenche par rapport à l'exécution, et quelques cas d'opérations suspendues avant déclaration.",
+   "sources": {
+    "2020-08": [
+     "6"
+    ],
+    "2024-02": [
+     "7"
+    ]
+   }
+  },
+  {
+   "id": "CI-1",
+   "categorie": "procédures et contrôle interne",
+   "question": "Le contrôle de second niveau couvre-t-il toutes les obligations LCB-FT et tous les scénarios, et est-il fait par d'autres personnes que celles qui exécutent ?",
+   "preuve": "Le plan de contrôle permanent, les comptes rendus datés et le nom de ceux qui les ont faits.",
+   "sources": {
+    "2018-04": [
+     "3"
+    ],
+    "2019-04": [
+     "5"
+    ],
+    "2019-07": [
+     "14"
+    ],
+    "2020-05": [
+     "4"
+    ],
+    "2020-11": [
+     "7"
+    ],
+    "2022-02": [
+     "4"
+    ],
+    "2022-06": [
+     "3"
+    ],
+    "2024-01": [
+     "7"
+    ],
+    "2024-02": [
+     "8"
+    ]
+   }
+  },
+  {
+   "id": "CI-2",
+   "categorie": "procédures et contrôle interne",
+   "question": "Les tâches confiées à un prestataire, à un agent ou à un distributeur sont-elles contrôlées sur le fond par l'établissement ?",
+   "preuve": "Les contrôles réellement faits sur le tiers : échantillon d'alertes qu'il a classées, pièces d'identité qu'il a validées, suites données.",
+   "sources": {
+    "2018-03": [
+     "5"
+    ],
+    "2018-08": [
+     "1"
+    ],
+    "2022-03": [
+     "10"
+    ],
+    "2022-04": [
+     "10"
+    ],
+    "2022-05": [
+     "3"
+    ],
+    "2024-06": [
+     "8"
+    ]
+   }
+  },
+  {
+   "id": "CI-3",
+   "categorie": "procédures et contrôle interne",
+   "question": "Un constat de l'audit interne, de l'inspection du groupe ou d'une lettre de suite de l'ACPR a-t-il un responsable, une échéance et un suivi jusqu'à sa clôture ?",
+   "preuve": "Le tableau de suivi des recommandations, avec les dates prévues et les dates réelles de clôture.",
+   "sources": {
+    "2018-03": [
+     "6"
+    ],
+    "2018-06": [
+     "5"
+    ],
+    "2020-11": [
+     "7"
+    ],
+    "2024-01": [
+     "3"
+    ],
+    "2024-06": [
+     "1"
+    ]
+   }
+  },
+  {
+   "id": "CI-4",
+   "categorie": "procédures et contrôle interne",
+   "question": "Les procédures disent-elles quoi faire pour chaque obligation : PPE, mise à jour des dossiers, examen renforcé, déclaration de soupçon, gel des avoirs, contrôle permanent ?",
+   "preuve": "Le sommaire des procédures, comparé à la liste des obligations ; pour le gel, qui fait quoi et qui valide.",
+   "sources": {
+    "2019-07": [
+     "2"
+    ],
+    "2019-08": [
+     "2"
+    ],
+    "2020-08": [
+     "1"
+    ],
+    "2020-09": [
+     "4"
+    ],
+    "2024-02": [
+     "8",
+     "9"
+    ]
+   }
+  },
+  {
+   "id": "CI-5",
+   "categorie": "procédures et contrôle interne",
+   "question": "Le plan d'audit couvre-t-il toutes les activités et tout le réseau sur un cycle raisonnable, avec les effectifs pour le tenir ?",
+   "preuve": "Le plan d'audit pluriannuel, son taux de réalisation, les entités ou agences non auditées depuis plus de trois ans.",
+   "sources": {
+    "2018-06": [
+     "5"
+    ],
+    "2019-07": [
+     "17"
+    ],
+    "2020-01": [
+     "8"
+    ],
+    "2024-06": [
+     "8"
+    ]
+   }
+  },
+  {
+   "id": "CI-6",
+   "categorie": "procédures et contrôle interne",
+   "question": "Chaque prestation externalisée, y compris au sein du groupe, a-t-elle un contrat écrit qui décrit les tâches, les délais et le contrôle ?",
+   "preuve": "Les contrats signés, y compris avec les sociétés sœurs et l'audit du groupe.",
+   "sources": {
+    "2019-04": [
+     "7"
+    ],
+    "2020-06": [
+     "4"
+    ],
+    "2022-04": [
+     "9"
+    ]
+   }
+  },
+  {
+   "id": "CI-7",
+   "categorie": "procédures et contrôle interne",
+   "question": "Les seuils et les règles écrits dans les procédures sont-ils ceux de la loi en vigueur ? Qui les revoit quand elle change ?",
+   "preuve": "Les procédures, comparées aux textes ; la date de leur dernière revue.",
+   "sources": {
+    "2017-10": [
+     "5"
+    ],
+    "2019-06": [
+     "1"
+    ]
+   }
+  },
+  {
+   "id": "CI-8",
+   "categorie": "procédures et contrôle interne",
+   "question": "Les interdictions et les plafonds que l'établissement s'est fixés sont-ils contrôlés ?",
+   "preuve": "Pour chaque règle interne (plafond, pays exclu, type d'opération interdit), le contrôle qui vérifie qu'elle est respectée.",
+   "sources": {
+    "2019-04": [
+     "6"
+    ],
+    "2020-06": [
+     "5"
+    ]
+   }
+  },
+  {
+   "id": "CI-9",
+   "categorie": "procédures et contrôle interne",
+   "question": "Avant le lancement d'un produit ou d'un service, la conformité a-t-elle rendu un avis écrit, et les procédures, les scénarios et le filtrage le couvrent-ils ?",
+   "preuve": "L'avis de conformité du dernier produit lancé et la version des procédures qui l'intègre.",
+   "sources": {
+    "2019-07": [
+     "1",
+     "13",
+     "15"
+    ]
+   }
+  },
+  {
+   "id": "GEL-1",
+   "categorie": "gel des avoirs et sanctions financières",
+   "question": "La base des clients est-elle comparée aux listes de gel à chaque mise à jour de celles-ci, et les nouvelles listes sont-elles chargées le jour même ?",
+   "preuve": "La date de chargement des dernières listes et la date du dernier passage de la base clients.",
+   "sources": {
+    "2019-04": [
+     "10"
+    ],
+    "2019-06": [
+     "6"
+    ],
+    "2019-07": [
+     "8"
+    ],
+    "2020-03": [
+     "7"
+    ],
+    "2020-09": [
+     "1"
+    ],
+    "2021-01": [
+     "5"
+    ],
+    "2022-06": [
+     "1"
+    ]
+   }
+  },
+  {
+   "id": "GEL-2",
+   "categorie": "gel des avoirs et sanctions financières",
+   "question": "Tout le monde est-il filtré : mandataires, dirigeants et bénéficiaires effectifs, tuteurs, bénéficiaires des paiements, personnes morales et associations ?",
+   "preuve": "La liste des catégories de personnes passées dans l'outil, comparée à la base des tiers.",
+   "sources": {
+    "2020-02": [
+     "10"
+    ],
+    "2020-03": [
+     "7"
+    ],
+    "2020-05": [
+     "12"
+    ],
+    "2020-09": [
+     "1"
+    ],
+    "2020-11": [
+     "8"
+    ],
+    "2022-06": [
+     "1"
+    ],
+    "2024-02": [
+     "9"
+    ]
+   }
+  },
+  {
+   "id": "GEL-3",
+   "categorie": "gel des avoirs et sanctions financières",
+   "question": "L'outil de filtrage tolère-t-il les variantes d'orthographe, l'inversion du nom et du prénom, les données manquantes ?",
+   "preuve": "Un test avec des noms présents sur les listes, volontairement déformés.",
+   "sources": {
+    "2018-06": [
+     "11"
+    ],
+    "2019-06": [
+     "6"
+    ],
+    "2020-03": [
+     "7"
+    ],
+    "2020-09": [
+     "1"
+    ],
+    "2022-06": [
+     "1"
+    ]
+   }
+  },
+  {
+   "id": "GEL-4",
+   "categorie": "gel des avoirs et sanctions financières",
+   "question": "Une alerte de gel est-elle analysée dans un délai court et suivi, et le Trésor est-il informé sans délai ?",
+   "preuve": "Le délai de traitement des alertes d'homonymie, congés compris, et les informations envoyées à la direction générale du Trésor.",
+   "sources": {
+    "2020-03": [
+     "7"
+    ],
+    "2020-09": [
+     "2"
+    ],
+    "2022-04": [
+     "5"
+    ],
+    "2022-06": [
+     "2"
+    ]
+   }
+  },
+  {
+   "id": "GEL-5",
+   "categorie": "gel des avoirs et sanctions financières",
+   "question": "Le filtrage est-il automatique et fait avant l'entrée en relation et avant l'opération ?",
+   "preuve": "Le déroulé d'une entrée en relation, et la preuve d'un filtrage avant la signature.",
+   "sources": {
+    "2018-05": [
+     "3"
+    ],
+    "2019-07": [
+     "8"
+    ],
+    "2020-05": [
+     "12"
+    ],
+    "2022-06": [
+     "1"
+    ]
+   }
+  },
+  {
+   "id": "GEL-6",
+   "categorie": "gel des avoirs et sanctions financières",
+   "question": "Existe-t-il un seuil de montant ou une dispense en dessous desquels on ne filtre pas ? Le gel s'applique dès le premier euro.",
+   "preuve": "Le paramétrage du filtrage et la procédure.",
+   "sources": {
+    "2019-06": [
+     "6"
+    ],
+    "2020-08": [
+     "9"
+    ],
+    "2024-02": [
+     "9"
+    ]
+   }
+  },
+  {
+   "id": "GEL-7",
+   "categorie": "gel des avoirs et sanctions financières",
+   "question": "Les données des clients permettent-elles le filtrage : date et lieu de naissance, noms complets ?",
+   "preuve": "Le taux de dossiers sans date de naissance, par canal de distribution.",
+   "sources": {
+    "2018-03": [
+     "3"
+    ],
+    "2020-09": [
+     "1",
+     "5"
+    ]
+   }
+  },
+  {
+   "id": "GEL-8",
+   "categorie": "gel des avoirs et sanctions financières",
+   "question": "Les listes utilisées comprennent-elles les mesures de gel décidées par la France, en plus des listes européennes ?",
+   "preuve": "La liste des sources chargées dans l'outil et le circuit par lequel elles arrivent.",
+   "sources": {
+    "2018-08": [
+     "7"
+    ],
+    "2019-06": [
+     "6"
+    ]
+   }
+  },
+  {
+   "id": "GEL-9",
+   "categorie": "gel des avoirs et sanctions financières",
+   "question": "Un traitement automatique (renouvellement de contrat, clôture pour impayé) peut-il lever un gel ou servir une personne visée ?",
+   "preuve": "La liste des traitements automatiques qui touchent les comptes gelés, et le rapprochement du tableau des gels avec les listes officielles.",
+   "sources": {
+    "2020-09": [
+     "3"
+    ],
+    "2022-02": [
+     "3"
+    ]
+   }
+  },
+  {
+   "id": "GEL-10",
+   "categorie": "gel des avoirs et sanctions financières",
+   "question": "Le contrôle interne teste-t-il l'efficacité de l'outil de filtrage, et pas seulement le fait que les contrôles sont faits ?",
+   "preuve": "Le dernier test de l'outil par le second niveau ; vérifier que celui qui contrôle les alertes de gel n'est pas celui qui les traite.",
+   "sources": {
+    "2022-02": [
+     "4"
+    ],
+    "2022-06": [
+     "3"
+    ]
+   }
+  },
+  {
+   "id": "PPE-1",
+   "categorie": "personnes politiquement exposées et vigilance renforcée",
+   "question": "La recherche des personnes politiquement exposées couvre-t-elle tous les clients, sans seuil de montant, à l'entrée en relation puis régulièrement ?",
+   "preuve": "Le périmètre du filtrage et son calendrier ; le délai de traitement des alertes par rapport au délai fixé en interne.",
+   "sources": {
+    "2017-10": [
+     "5"
+    ],
+    "2018-06": [
+     "2"
+    ],
+    "2020-05": [
+     "7"
+    ],
+    "2020-08": [
+     "5"
+    ],
+    "2022-03": [
+     "2"
+    ],
+    "2022-04": [
+     "4"
+    ]
+   }
+  },
+  {
+   "id": "PPE-2",
+   "categorie": "personnes politiquement exposées et vigilance renforcée",
+   "question": "La liste utilisée pour repérer les PPE est-elle fiable et adaptée au pays où l'on opère ?",
+   "preuve": "Un test de la base du fournisseur avec des PPE connues ; la revue des « faux positifs ».",
+   "sources": {
+    "2020-02": [
+     "6"
+    ],
+    "2020-06": [
+     "11"
+    ],
+    "2020-11": [
+     "6"
+    ],
+    "2022-01": [
+     "2"
+    ],
+    "2022-03": [
+     "2"
+    ]
+   }
+  },
+  {
+   "id": "PPE-3",
+   "categorie": "personnes politiquement exposées et vigilance renforcée",
+   "question": "Pour chaque PPE identifiée : décision d'un dirigeant tracée, origine du patrimoine et des fonds documentée ?",
+   "preuve": "Quelques dossiers de PPE complets.",
+   "sources": {
+    "2020-01": [
+     "2"
+    ],
+    "2020-05": [
+     "7"
+    ],
+    "2020-08": [
+     "5"
+    ],
+    "2022-01": [
+     "2"
+    ],
+    "2022-03": [
+     "3"
+    ]
+   }
+  },
+  {
+   "id": "PPE-4",
+   "categorie": "personnes politiquement exposées et vigilance renforcée",
+   "question": "Pour les clients et les opérations liés à un pays à haut risque : quelles diligences supplémentaires sont réellement faites, et la liste des pays est-elle à jour ?",
+   "preuve": "La liste interne des pays, comparée à celles du GAFI et de l'Union européenne, et quelques dossiers de clients concernés.",
+   "sources": {
+    "2017-10": [
+     "4"
+    ],
+    "2020-06": [
+     "10"
+    ],
+    "2022-01": [
+     "2"
+    ],
+    "2024-02": [
+     "3"
+    ],
+    "2024-06": [
+     "3"
+    ]
+   }
+  },
+  {
+   "id": "PPE-5",
+   "categorie": "personnes politiquement exposées et vigilance renforcée",
+   "question": "Quand l'établissement classe lui-même un client ou une opération en risque élevé, la vigilance renforcée est-elle réellement appliquée, sur tous ses comptes et contrats ?",
+   "preuve": "La liste des clients en risque élevé (dont ceux déjà déclarés à Tracfin) et le niveau de vigilance appliqué à chacun de leurs comptes.",
+   "sources": {
+    "2020-03": [
+     "2"
+    ],
+    "2022-03": [
+     "4"
+    ],
+    "2024-02": [
+     "4"
+    ]
+   }
+  },
+  {
+   "id": "PPE-6",
+   "categorie": "personnes politiquement exposées et vigilance renforcée",
+   "question": "Pour une ouverture de compte à distance : les mesures supplémentaires de vérification sont-elles appliquées à tous les dossiers ?",
+   "preuve": "Un échantillon d'ouvertures à distance.",
+   "sources": {
+    "2019-07": [
+     "6"
+    ]
+   }
+  },
+  {
+   "id": "KYC-1",
+   "categorie": "connaissance du client à l'entrée en relation",
+   "question": "La profession, les revenus et le patrimoine sont-ils demandés à tous les clients en relation d'affaires, et sont-ils assez précis pour juger leurs opérations ?",
+   "preuve": "La part des dossiers sans revenu ou sans profession, et quelques dossiers où la profession est notée de façon vague.",
+   "sources": {
+    "2018-08": [
+     "2"
+    ],
+    "2019-04": [
+     "2"
+    ],
+    "2019-07": [
+     "5"
+    ],
+    "2020-06": [
+     "8"
+    ],
+    "2020-11": [
+     "4"
+    ],
+    "2021-01": [
+     "1"
+    ],
+    "2024-06": [
+     "2"
+    ]
+   }
+  },
+  {
+   "id": "KYC-2",
+   "categorie": "connaissance du client à l'entrée en relation",
+   "question": "Les bénéficiaires effectifs des sociétés clientes sont-ils identifiés et vérifiés, et pas seulement déclarés ?",
+   "preuve": "Pour un échantillon de sociétés : statuts, extrait du registre des bénéficiaires effectifs, répartition du capital.",
+   "sources": {
+    "2018-06": [
+     "6"
+    ],
+    "2020-06": [
+     "7"
+    ],
+    "2020-08": [
+     "4"
+    ],
+    "2020-11": [
+     "3"
+    ],
+    "2022-04": [
+     "2"
+    ]
+   }
+  },
+  {
+   "id": "KYC-3",
+   "categorie": "connaissance du client à l'entrée en relation",
+   "question": "L'identité de chaque client est-elle vérifiée sur une pièce, y compris pour les comptes « de test » et les clients venus par un site partenaire ?",
+   "preuve": "Un échantillon de comptes ouverts récemment, avec la pièce d'identité validée et sa date.",
+   "sources": {
+    "2018-03": [
+     "7"
+    ],
+    "2019-06": [
+     "3"
+    ],
+    "2019-07": [
+     "4"
+    ],
+    "2020-06": [
+     "7"
+    ]
+   }
+  },
+  {
+   "id": "KYC-4",
+   "categorie": "connaissance du client à l'entrée en relation",
+   "question": "Quand un produit bénéficie d'une dispense ou d'une vigilance allégée, chaque condition est-elle vérifiée, et les plafonds sont-ils bloqués par le système ?",
+   "preuve": "L'analyse écrite des conditions de la dispense, et une requête sur les clients ou les cartes au-dessus des plafonds.",
+   "sources": {
+    "2018-03": [
+     "4"
+    ],
+    "2018-08": [
+     "1"
+    ],
+    "2020-08": [
+     "3"
+    ]
+   }
+  },
+  {
+   "id": "KYC-5",
+   "categorie": "connaissance du client à l'entrée en relation",
+   "question": "Les réponses du client à l'ouverture sont-elles confrontées entre elles et, selon le risque, appuyées par un justificatif ?",
+   "preuve": "Quelques dossiers où le revenu, le métier et l'âge déclarés peuvent être comparés.",
+   "sources": {
+    "2020-05": [
+     "6"
+    ],
+    "2020-06": [
+     "8"
+    ]
+   }
+  },
+  {
+   "id": "CLA-1",
+   "categorie": "classification des risques",
+   "question": "S'appuie-t-elle sur les publications du GAFI, de l'Union européenne et de Tracfin, avec un niveau de risque par pays ?",
+   "preuve": "Les sources citées dans la classification et la date à laquelle les dernières publications ont été reprises.",
+   "sources": {
+    "2018-04": [
+     "1"
+    ],
+    "2018-06": [
+     "1"
+    ],
+    "2019-04": [
+     "1"
+    ],
+    "2019-06": [
+     "2"
+    ],
+    "2020-01": [
+     "1"
+    ],
+    "2020-02": [
+     "1"
+    ]
+   }
+  },
+  {
+   "id": "CLA-2",
+   "categorie": "classification des risques",
+   "question": "La classification des risques couvre-t-elle tous les produits et toutes les activités réellement exercés, et est-elle revue quand l'un d'eux apparaît ou décolle ?",
+   "preuve": "La classification, comparée au catalogue des produits vendus ; sa date de dernière mise à jour.",
+   "sources": {
+    "2018-04": [
+     "1"
+    ],
+    "2019-08": [
+     "1"
+    ],
+    "2020-02": [
+     "1"
+    ],
+    "2020-06": [
+     "1"
+    ],
+    "2020-11": [
+     "1"
+    ]
+   }
+  },
+  {
+   "id": "CLA-3",
+   "categorie": "classification des risques",
+   "question": "Le profil de risque attribué à chaque client distingue-t-il vraiment les clients, et change-t-il quelque chose de concret (justificatifs, fréquence de revue, seuils) ?",
+   "preuve": "La répartition des clients par niveau de risque, et ce que chaque niveau entraîne dans les procédures et dans l'outil.",
+   "sources": {
+    "2020-02": [
+     "2"
+    ],
+    "2020-06": [
+     "2"
+    ],
+    "2022-07": [
+     "1"
+    ]
+   }
+  },
+  {
+   "id": "CLA-4",
+   "categorie": "classification des risques",
+   "question": "Le niveau de risque d'un client est-il relevé après un événement : déclaration de soupçon, réquisition, rappel de fonds pour fraude ?",
+   "preuve": "Quelques clients concernés par un tel événement, avec leur niveau de risque avant et après.",
+   "sources": {
+    "2022-01": [
+     "3"
+    ],
+    "2022-04": [
+     "3"
+    ]
+   }
+  },
+  {
+   "id": "MAJ-1",
+   "categorie": "vigilance constante et mise à jour des dossiers",
+   "question": "Tous les clients, y compris à risque faible, ont-ils une échéance de mise à jour de leur dossier, et est-elle tenue ?",
+   "preuve": "Le nombre de dossiers en retard de mise à jour par niveau de risque, et le dispositif qui déclenche la relance.",
+   "sources": {
+    "2018-04": [
+     "4"
+    ],
+    "2018-06": [
+     "7"
+    ],
+    "2020-02": [
+     "5"
+    ],
+    "2021-05": [
+     "1"
+    ],
+    "2022-01": [
+     "1"
+    ],
+    "2022-03": [
+     "1"
+    ],
+    "2022-04": [
+     "3"
+    ]
+   }
+  },
+  {
+   "id": "MAJ-2",
+   "categorie": "vigilance constante et mise à jour des dossiers",
+   "question": "Les comptes anciens ou peu actifs sont-ils remis à niveau quand ils se réactivent, ou clôturés ?",
+   "preuve": "La liste des comptes ouverts avant les règles actuelles et redevenus actifs, avec l'état de leur dossier.",
+   "sources": {
+    "2018-04": [
+     "4"
+    ],
+    "2018-06": [
+     "7"
+    ],
+    "2020-06": [
+     "9"
+    ]
+   }
+  },
+  {
+   "id": "AUT-1",
+   "categorie": "autre (à préciser)",
+   "question": "Sait-on, pour chaque chargement de monnaie électronique, comment il a été payé (espèces ou non), et les données sont-elles conservées cinq ans ?",
+   "preuve": "Une extraction des chargements avec leur mode de paiement, sur une période ancienne.",
+   "sources": {
+    "2018-03": [
+     "1"
+    ],
+    "2018-08": [
+     "3"
+    ],
+    "2019-08": [
+     "5"
+    ]
+   }
+  },
+  {
+   "id": "AUT-2",
+   "categorie": "autre (à préciser)",
+   "question": "Les transferts de fonds portent-ils les informations exigées sur le donneur d'ordre et le bénéficiaire, et les virements reçus sont-ils contrôlés sur ce point ?",
+   "preuve": "Un échantillon de transferts émis et reçus ; le suivi des banques qui envoient régulièrement des informations incomplètes.",
+   "sources": {
+    "2020-02": [
+     "3"
+    ],
+    "2021-01": [
+     "4"
+    ]
+   }
+  },
+  {
+   "id": "AUT-3",
+   "categorie": "autre (à préciser)",
+   "question": "Les réponses au questionnaire annuel de l'ACPR peuvent-elles toutes être prouvées par une pièce ?",
+   "preuve": "Le dernier questionnaire envoyé et, pour chaque réponse, la pièce qui la justifie.",
+   "sources": {
+    "2018-03": [
+     "8"
+    ],
+    "2018-05": [
+     "4"
+    ]
+   }
+  },
+  {
+   "id": "GOUV-1",
+   "categorie": "gouvernance, moyens et formation",
+   "question": "Les effectifs LCB-FT sont-ils proportionnés au nombre d'alertes, d'examens renforcés et de déclarations à traiter, et le responsable a-t-il le temps et le rang nécessaires ?",
+   "preuve": "Le nombre d'alertes par analyste et par an, et la place du responsable LCB-FT dans l'organigramme.",
+   "sources": {
+    "2020-01": [
+     "3"
+    ],
+    "2020-05": [
+     "1"
+    ],
+    "2020-11": [
+     "2"
+    ],
+    "2022-04": [
+     "1"
+    ]
+   }
+  },
+  {
+   "id": "GOUV-2",
+   "categorie": "gouvernance, moyens et formation",
+   "question": "Les dirigeants, les salariés et le personnel des agents ont-ils été formés, avec un contenu propre aux produits vendus ?",
+   "preuve": "Le registre des formations et leur contenu.",
+   "sources": {
+    "2019-08": [
+     "7"
+    ],
+    "2020-08": [
+     "2"
+    ]
+   }
+  },
+  {
+   "id": "GOUV-3",
+   "categorie": "gouvernance, moyens et formation",
+   "question": "Le conseil d'administration reçoit-il des chiffres sur le dispositif (stock d'alertes, délais, effectifs) ?",
+   "preuve": "Les procès-verbaux du conseil et les documents qui lui ont été remis.",
+   "sources": {
+    "2020-05": [
+     "3"
+    ]
+   }
+  },
+  {
+   "id": "OCC-1",
+   "categorie": "relation d'affaires et clients occasionnels",
+   "question": "Le critère qui fait passer un client occasionnel en relation d'affaires est-il comparé au comportement réel de la clientèle, et bien appliqué par l'outil ?",
+   "preuve": "Le critère, le nombre moyen d'opérations par client et par an, et un test sur les clients les plus actifs encore classés « occasionnels ».",
+   "sources": {
+    "2024-01": [
+     "4"
+    ],
+    "2024-06": [
+     "1"
+    ]
+   }
+  },
+  {
+   "id": "OCC-2",
+   "categorie": "relation d'affaires et clients occasionnels",
+   "question": "Un client occasionnel est-il identifié dès le seuil légal, en additionnant ses opérations rapprochées, et la copie de sa pièce est-elle conservée ?",
+   "preuve": "Les opérations au-dessus du seuil sur une période, avec la pièce d'identité rattachée à chacune.",
+   "sources": {
+    "2017-10": [
+     "1"
+    ],
+    "2018-05": [
+     "1"
+    ]
+   }
+  },
+  {
+   "id": "GRP-1",
+   "categorie": "dispositif de groupe, filiales et correspondance bancaire",
+   "question": "Les outils, les scénarios et les règles fournis par le groupe ont-ils été adaptés à la clientèle locale et aux exigences françaises ?",
+   "preuve": "L'analyse d'écart entre le dispositif du groupe et les textes français, et le recalibrage des seuils sur la clientèle locale.",
+   "sources": {
+    "2017-10": [
+     "1",
+     "5"
+    ],
+    "2021-05": [
+     "2"
+    ],
+    "2022-03": [
+     "2"
+    ],
+    "2024-06": [
+     "4"
+    ]
+   }
+  },
+  {
+   "id": "GRP-2",
+   "categorie": "dispositif de groupe, filiales et correspondance bancaire",
+   "question": "Le siège contrôle-t-il lui-même le dispositif de ses succursales et de ses filiales à l'étranger, et l'échange d'informations LCB-FT est-il organisé par écrit ?",
+   "preuve": "La procédure d'échange d'informations, et les contrôles du siège sur chaque implantation avec un accès direct à leurs outils.",
+   "sources": {
+    "2019-07": [
+     "3",
+     "16"
+    ],
+    "2020-01": [
+     "7"
+    ],
+    "2020-05": [
+     "5"
+    ],
+    "2024-01": [
+     "7"
+    ]
+   }
+  }
+ ]
+}
