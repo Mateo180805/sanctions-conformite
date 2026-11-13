@@ -2,3 +2,6 @@
 # Les lignes qui commencent par # ne s'affichent pas : ce sont des consignes.
 # Écris ton texte sous ces lignes (deux ou trois phrases). Laisse une ligne vide entre deux paragraphes.
 # Tant qu'il n'y a pas de texte, le site affiche un emplacement réservé.
+En cours, on apprend les règles de conformité, mais on voit rarement ce qui se passe quand un dispositif échoue. Les décisions de sanction le montrent noir sur blanc : ce que le régulateur a contrôlé, ce qu'il reproche à l'établissement, et ce que ça lui coûte.
+
+J'ai donc réuni ici toutes les décisions de la Commission des sanctions de l'ACPR, et je les analyse une par une, avec la même grille pour toutes.

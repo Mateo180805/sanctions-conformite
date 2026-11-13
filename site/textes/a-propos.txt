@@ -3,3 +3,10 @@
 # Qui tu es, pourquoi ce projet, ce que tu cherches. Laisse une ligne vide entre deux paragraphes.
 # Pour le lien LinkedIn, colle simplement l'adresse complète (https://www.linkedin.com/in/...) : elle deviendra un lien.
 # Tant qu'il n'y a pas de texte, le site affiche un emplacement réservé.
+Je m'appelle Matéo Bonnesoeur. Je suis en première année du master « Gestion d'actifs, contrôle des risques et conformité » à l'IAE de Caen, après plusieurs expériences en banque de détail, au Crédit Agricole et au Crédit Mutuel.
+
+Ce qui m'intéresse le plus, c'est la lutte contre la criminalité financière : le blanchiment et le financement du terrorisme, les sanctions internationales et le gel des avoirs, les abus de marché. J'ai lancé ce projet pour apprendre ce métier à partir de cas réels, et pour arriver en entretien en sachant ce qu'un régulateur a déjà reproché à la banque en face de moi.
+
+La base se met à jour seule chaque semaine. Après l'ACPR viendront l'AMF, puis les régulateurs luxembourgeois (CSSF) et suisse (FINMA).
+
+Je cherche un stage en conformité, en contrôle interne ou en LCB-FT, à Paris, au Luxembourg ou en Suisse.
