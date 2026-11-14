@@ -1,0 +1,198 @@
+{
+  "id": "ACPR-2014-08",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT et gel des avoirs",
+  "resume_court": "La « société A » est un assureur vie ancien, d'une cinquantaine de salariés, longtemps tourné vers la clientèle d'un seul secteur professionnel, qu'il a ouvert à d'autres clients à partir de 2006. Le contrôle de 2013 montre un dispositif anti-blanchiment resté très en retard. Ses seuls critères de risque étaient la nationalité et le pays de résidence, alors que 99,8 % des clients sont français et vivent en France. Le seuil d'alerte était de 70 000 euros pour des versements moyens d'environ 6 000 euros, et les opérations n'étaient examinées qu'une fois par an. L'assureur a accepté des versements de 860 000 et 114 000 euros sans rien savoir de ses clients. Des clients qui ne répondaient pas aux demandes de justificatifs n'étaient pas déclarés à Tracfin, et d'autres déclarations arrivaient un an après les faits. L'assureur contestait tout et soulevait de nombreuses questions de procédure, toutes rejetées. La Commission retient les neuf griefs, deux sur un périmètre réduit, et prononce un avertissement et 500 000 euros, contre un blâme et 1,5 million d'euros demandés, au vu de sa petite taille et des corrections engagées.",
+  "identite": {
+    "etablissement": "anonymisé (« société A »)",
+    "type_etablissement": "assureur",
+    "precision_type": "Organisme d'assurance créé il y a 150 ans, agréé pour la vie-décès, la capitalisation et les assurances liées à des fonds d'investissement (branches 20, 22 et 24) ; produits d'épargne et, depuis peu, prévoyance individuelle. La décision cite le code de la mutualité parmi les textes qui lui sont applicables. Clientèle historiquement issue d'un secteur professionnel précis (masqué dans la version publiée), élargie à partir de 2006. Une cinquantaine de salariés.",
+    "groupe": "non précisé",
+    "pays": "France",
+    "activite_et_taille": "En 2014 : résultat net de 21,2 millions d'euros, 235 millions d'euros de fonds propres, 2,934 milliards d'euros d'actifs gérés, 113 745 clients et 159 392 contrats, dont 115 828 contrats d'épargne.",
+    "pages": [2, 6, 7, 17]
+  },
+  "controle": {
+    "controle_sur_place": "du 19 mars au 12 juillet 2013",
+    "rapport_de_controle": "rapport définitif signé le 16 décembre 2013, après un projet du 19 septembre 2013",
+    "ouverture_de_la_procedure": "décidée par le Collège (sous-collège sectoriel de l'assurance) le 10 juillet 2014 ; notification des griefs et saisine de la Commission le 29 juillet 2014",
+    "antecedents": "non précisé",
+    "pages": [1, 2]
+  },
+  "sanction": {
+    "nature": ["avertissement", "sanction pécuniaire"],
+    "montant_euros": 500000,
+    "publication": "anonymisée aujourd'hui",
+    "duree_publication_nominative": "la décision ordonne une publication nominative, sans limite de durée ; la version en ligne est aujourd'hui anonymisée",
+    "proposition_du_college": "blâme et sanction pécuniaire de 1,5 million d'euros, publication nominative",
+    "pages": [1, 2, 17, 18]
+  },
+  "procedure": {
+    "questions_de_procedure": "L'assureur contestait tout et soulevait de nombreuses exceptions, toutes écartées : (1) le contrôle était présenté comme préventif, ce qui l'aurait amené à « s'auto-incriminer » : tout contrôle peut déboucher sur une procédure, et le principe de non-auto-incrimination ne s'applique pas à ce type de contrôle (Conseil d'État, 2007) ; (2) la décision d'ouvrir la procédure ne lui avait pas été communiquée : la lettre de griefs suffit ; (3) le rapport de contrôle n'avait repris qu'une partie de ses réponses : il a pu tout produire devant la Commission ; (4) le délai de 30 jours pour répondre serait trop court : il a eu trois mois ; (5) les griefs seraient imprécis ; (6) un arrêté d'application prévu par le code de la mutualité n'avait pas été pris : les textes du CMF étaient assez précis pour s'appliquer ; (7) l'ACPR ne pouvait s'écarter de sa propre doctrine : ses principes d'application sectoriels sont seulement explicatifs et les griefs reposent sur la loi. Audience non publique le 5 juin 2015. Le rapporteur estimait tous les griefs établis, le grief 8 sur un périmètre réduit.",
+    "pages": [1, 3, 4, 5, 6, 7]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Des critères de risque qui ne distinguaient personne",
+      "resume": "La classification des risques n'avait pas suivi l'élargissement de la clientèle. Ses seuls critères, la nationalité et le pays de résidence, ne servaient à rien puisque 99,8 % des clients sont français et vivent en France. Le seuil de vigilance renforcée de 70 000 euros, appliqué par contrat et non par client, était sans rapport avec le montant moyen des opérations, de l'ordre de 6 000 euros, et un seuil fixe ne correspond pas à l'approche par les risques. L'assureur l'avait reconnu. Les mentions d'un bulletin de souscription ne remplacent pas une classification.",
+      "textes": ["CMF R. 561-38 (I, 2°)"],
+      "chiffres_cles": ["99,8 % de clients de nationalité française résidant en France", "seuil de 70 000 euros par contrat", "montant moyen des opérations de l'ordre de 6 000 euros", "nouvelle politique LCB-FT du 30 avril 2014"],
+      "issue": "retenu",
+      "precision_issue": "« Ces actions ne remettent donc pas en cause les constats qui fondent le présent grief, qui est établi. »",
+      "categorie": "classification des risques",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [7, 8]
+    },
+    {
+      "numero": "2",
+      "titre": "Des procédures muettes sur l'essentiel",
+      "resume": "Les procédures internes ne disaient rien de la déclaration de soupçon, de l'examen renforcé ni de la mise à jour des informations sur les clients. L'assureur n'apportait aucun élément contraire.",
+      "textes": ["CMF R. 561-38 (I, 4°)"],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi. »",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "procédures LCB-FT incomplètes",
+      "categories_secondaires": [],
+      "pages": [8]
+    },
+    {
+      "numero": "3",
+      "titre": "Des tranches de revenus trop larges",
+      "resume": "Les formulaires ne prévoyaient que trois tranches de revenus annuels du foyer (jusqu'à 50 000 euros, de 50 000 à 150 000 euros, au-delà), alors que la plupart des clients, employés ou agents de maîtrise, sont dans la première ; de même pour le patrimoine. Les catégories socioprofessionnelles des nouveaux clients n'ont été créées qu'au second semestre 2012. Connaître la grille salariale du secteur d'origine ne suffit pas.",
+      "textes": ["CMF L. 561-6", "CMF R. 561-12", "arrêté du 2 septembre 2009"],
+      "chiffres_cles": ["3 tranches de revenus : 0 à 50 000 euros, 50 à 150 000 euros, au-dessus de 150 000 euros", "nouvelles catégories socioprofessionnelles à partir du second semestre 2012"],
+      "issue": "retenu",
+      "precision_issue": "Les mesures prévues « sont sans conséquence sur les faits sur lesquels se fonde le grief, qui est établi ».",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "informations recueillies inadaptées à la clientèle",
+      "categories_secondaires": [],
+      "pages": [8, 9]
+    },
+    {
+      "numero": "4",
+      "titre": "Des dossiers jamais mis à jour",
+      "resume": "La profession, les revenus et le patrimoine n'étaient renseignés que pour environ 40 % des clients, et rien n'était mis à jour, même lors d'un gros versement imprévu. Exemples : une famille de 4 personnes a versé 138 000 euros en 5 versements imprévus sans que l'on connaisse les membres autres que la souscriptrice ; un client a versé 89 100 euros sans élément sur lui ; un jeune client, souscripteur depuis qu'il était mineur, a versé 110 000 euros payés par ses parents. Que les fonds viennent du compte des parents ne dispense pas de mettre à jour les dossiers, et l'assureur doit conserver les copies des pièces d'identité.",
+      "textes": ["CMF L. 561-6", "CMF R. 561-12", "ordonnance n° 2009-104, art. 19"],
+      "chiffres_cles": ["environ 40 % des clients renseignés", "5 versements imprévus pour 138 000 euros entre octobre 2010 et février 2012 (famille de 4 personnes, 6 contrats)", "versement de 89 100 euros en février 2011", "versement de 110 000 euros en août 2011"],
+      "issue": "retenu",
+      "precision_issue": "« Ainsi, le grief est établi. »",
+      "categorie": "vigilance constante et mise à jour des dossiers",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [9]
+    },
+    {
+      "numero": "5",
+      "titre": "Une surveillance une fois par an",
+      "resume": "Quatre défauts : (5.1) les opérations atypiques n'étaient recherchées qu'une fois par an, en début d'année, parfois après la clôture du contrat ; (5.2) le seuil était calculé par année civile et par contrat, alors que près de 25 % des clients ont au moins deux contrats d'épargne, et il a été relevé de 70 000 à 100 000 euros en 2013 sans justification ; (5.3) des alertes n'ont pas été traitées dans 6 dossiers, par exemple un contrat alimenté par une multitude de payeurs pour plus de 55 000 euros, ou un rachat de 50 000 euros un mois après un versement de près de 130 000 euros ; (5.4) les clients déjà déclarés à Tracfin n'étaient pas surveillés de plus près.",
+      "textes": ["CMF R. 561-38 (I, 3° et 4°)"],
+      "chiffres_cles": ["détection annuelle depuis 2011", "près de 25 % des clients avec au moins deux contrats", "seuil relevé de 70 000 à 100 000 euros en 2013", "6 dossiers d'alertes non traitées", "plus de 55 000 euros versés par des payeurs différents", "rachat de 50 000 euros environ 1 mois après un versement de près de 130 000 euros"],
+      "issue": "retenu",
+      "precision_issue": "Les quatre parties du grief sont « établies ».",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "fréquence annuelle, seuil par contrat et par année civile",
+      "categories_secondaires": ["analyse des alertes et examen renforcé", "vigilance constante et mise à jour des dossiers"],
+      "pages": [9, 10, 11]
+    },
+    {
+      "numero": "6",
+      "titre": "Des versements acceptés sans rien savoir du client",
+      "resume": "Un client de 1992, dont on ignorait l'activité, les revenus et le patrimoine, a versé 860 000 euros par chèque le 24 septembre 2010 ; l'assureur a encaissé, puis déclaré à Tracfin le jour même. Une cliente a versé 114 000 euros en février 2011 dans les mêmes conditions. Sans information sur l'objet de la relation, il fallait refuser l'opération. L'assureur pensait pouvoir choisir entre refuser et exécuter puis déclarer ; la Commission répond que cette possibilité est encadrée et que les conditions n'étaient pas réunies.",
+      "textes": ["CMF L. 561-8", "CMF L. 561-16"],
+      "chiffres_cles": ["versement de 860 000 euros le 24 septembre 2010", "versement de 114 000 euros en février 2011"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi » ; la déclaration à Tracfin peut être mise au crédit de l'assureur mais est « sans conséquence sur le grief ».",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "opération exécutée sans information sur l'objet de la relation (obligation de s'abstenir)",
+      "categories_secondaires": [],
+      "pages": [11, 12]
+    },
+    {
+      "numero": "7",
+      "titre": "Des versements sans rapport avec les revenus déclarés",
+      "resume": "Un retraité déclarant moins de 50 000 euros de revenus a versé 168 000 euros, racheté 10 000 et 158 000 euros en moins d'un an, puis versé 79 000 euros en 2013 : il fallait un examen renforcé. Un autre retraité a versé 130 000 euros en janvier 2011 puis racheté 50 000 euros en mars 2011 pour acheter « de manière urgente » un appartement, sans justificatif probant. La troisième partie (le transfert du contrat d'une cliente très âgée vers celui de sa fille) est écartée.",
+      "textes": ["CMF L. 561-10-2 (II)"],
+      "chiffres_cles": ["versement de 168 000 euros le 20 avril 2011, rachats de 10 000 et 158 000 euros, versement de 79 000 euros en février 2013", "versement de 130 000 euros en janvier 2011, rachat de 50 000 euros en mars 2011", "transfert de 44 500 euros (partie écartée)"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Dans un périmètre réduit […], le grief 7 est établi » ; partie 7.2 écartée.",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [12, 13]
+    },
+    {
+      "numero": "8",
+      "titre": "Le silence du client aurait dû suffire",
+      "resume": "Sept dossiers poursuivis, cinq retenus. Une étudiante a versé 116 000 euros en cinq mois, sans rapport avec sa situation. Un couple a versé plus de 352 000 euros sur les contrats de la famille, très au-delà de son patrimoine déclaré, avec un compromis de vente non daté pour justificatif. Deux clients n'ont jamais répondu aux demandes de justificatifs après des versements de 99 000 et 89 100 euros. Un autre a justifié 89 100 euros par des bulletins de salaire étrangers de 2010. Pour la Commission, le silence d'un client face aux demandes de justification doit en principe faire naître le soupçon. Deux dossiers sont écartés, l'assureur ayant pu ne pas avoir de doute ou disposant d'un justificatif.",
+      "textes": ["CMF L. 561-15", "CMF D. 561-32-1 (15°)"],
+      "chiffres_cles": ["7 dossiers poursuivis, 2 écartés", "7 versements pour 130 000 euros, dont 116 000 euros en cinq mois", "plus de 352 000 euros versés entre fin 2010 et juillet 2012", "versement de 99 000 euros sans réponse aux demandes d'août et octobre 2011", "versement de 89 100 euros en février 2011 sans réponse", "versement de 89 100 euros en septembre 2012"],
+      "issue": "retenu en partie",
+      "precision_issue": "Parties 8.3 à 8.7 « établies », parties 8.1 et 8.2 « écartées ». La Commission parle d'un périmètre « légèrement réduit ».",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "silence du client après une demande de justificatifs",
+      "categories_secondaires": [],
+      "pages": [13, 14, 15, 16, 17]
+    },
+    {
+      "numero": "9",
+      "titre": "Des déclarations envoyées un an plus tard",
+      "resume": "Plusieurs déclarations ont été envoyées très tard sans enquête qui le justifie : le 2 juillet 2012 pour des versements de 80 000 euros du 25 juillet 2011 et de 75 000 euros du 26 juillet 2011, et le 6 juin 2013, à la demande de la mission, pour un contrat alimenté par 50 payeurs différents. Un formulaire coché « donation – héritage » sans pièce ne justifie pas d'attendre.",
+      "textes": ["CMF L. 561-16"],
+      "chiffres_cles": ["versement de 80 000 euros le 25 juillet 2011, déclaré le 2 juillet 2012", "versement de 75 000 euros le 26 juillet 2011, déclaré le 2 juillet 2012", "25 payeurs différents en 2012, 50 entre le 11 juin 2010 et le 31 mars 2013", "déclaration le 6 juin 2013"],
+      "issue": "retenu",
+      "precision_issue": "« Ainsi, le grief est établi en toutes ses parties. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "délais de déclaration",
+      "categories_secondaires": [],
+      "pages": [16, 17]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "Plusieurs années après l'ordonnance de 2009, des obligations « essentielles » n'étaient respectées que « très imparfaitement » ; en mars 2015, le cabinet d'audit choisi par l'assureur jugeait encore le dispositif pas pleinement satisfaisant.", "pages": [17]}
+    ],
+    "elements_attenuants": [
+      {"texte": "Travaux engagés dès février 2013, avant le contrôle ; recours à un cabinet d'audit ; dirigeants décidés à poursuivre.", "pages": [17]},
+      {"texte": "Petite structure d'une cinquantaine de salariés ; pas de volonté de ne pas respecter la réglementation mais un « degré de préoccupation insuffisant » ; périmètre des griefs 7 et 8 légèrement réduit.", "pages": [17]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Plan d'actions d'octobre 2013 et nouvelle « Politique et procédure de LCB-FT » du 30 avril 2014, avec une classification fondée sur les risques.", "pages": [7, 8]}
+    ],
+    "situation_financiere": {"texte": "Résultat net de 21,2 millions d'euros et 235 millions d'euros de fonds propres en 2014.", "pages": [2]},
+    "cause_profonde": {"texte": "Selon la décision, non pas une volonté de ne pas respecter la réglementation, mais un « degré de préoccupation insuffisant » pour la LCB-FT avant le contrôle, alors que la clientèle s'élargissait depuis 2006.", "pages": [7, 17]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Les critères de risque permettent-ils vraiment de distinguer les clients entre eux ?",
+      "Le seuil d'alerte est-il fixé par rapport au montant moyen des versements, par client et sur 12 mois glissants ?",
+      "La détection des opérations atypiques est-elle faite au fil de l'eau, et non une fois par an ?",
+      "Un versement libre important et imprévu déclenche-t-il une mise à jour du dossier du client ?",
+      "Refuse-t-on un versement quand on ne sait rien de l'objet de la relation ou du client ?",
+      "Un client qui ne répond pas à une demande de justificatifs est-il déclaré à Tracfin ?",
+      "Le délai entre l'opération et la déclaration est-il suivi, et chaque retard justifié par une analyse écrite ?",
+      "Les clients déjà déclarés sont-ils placés sous surveillance renforcée ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["assurance vie", "versements libres", "rachats", "seuil fixe", "seuil par contrat", "détection annuelle", "abstention (L. 561-8)", "silence du client", "délai de déclaration", "exceptions de procédure", "principes d'application sectoriels"],
+    "pages_prioritaires": [
+      {"pages": [3, 4, 5, 6, 7], "pourquoi": "toutes les exceptions de procédure et leurs réponses"},
+      {"pages": [11, 12], "pourquoi": "l'obligation de refuser une opération sans information"},
+      {"pages": [13, 14], "pourquoi": "quand un rachat doit faire naître un soupçon, et le silence du client"},
+      {"pages": [17], "pourquoi": "pourquoi un avertissement et non un blâme"}
+    ],
+    "confiance": "moyenne",
+    "a_verifier": [
+      "Décision anonymisée : la fiche ne reprend rien des passages masqués (secteur professionnel d'origine).",
+      "Grief 8 : la décision ne donne pas de phrase de conclusion pour l'ensemble du grief ; classé « retenu en partie » (5 parties établies, 2 écartées).",
+      "La Commission prononce un avertissement alors que le Collège demandait un blâme : une sanction moins sévère sur la nature.",
+      "Je n'ai repris ni l'âge ou l'année de naissance des clients, ni leur employeur, ni la langue des bulletins de salaire, ni le détail du lien familial établi par jugement dans la partie 8.2 (écartée)."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Opus 5.5), à partir du texte extrait du PDF officiel", "date": "2026-11-14", "relue_par_mateo": false}
+}

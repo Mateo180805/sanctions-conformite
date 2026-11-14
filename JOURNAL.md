@@ -1,6 +1,6 @@
 # JOURNAL – Sanctions Conformité
 
-Journal de bord du projet, version courte (allégée le 13 novembre 2026 pour économiser le quota ; mise à jour au lot 11).
+Journal de bord du projet, version courte (allégée le 13 novembre 2026 pour économiser le quota ; mise à jour au lot 12).
 À redonner à Claude au début de chaque session, avec PROJET.md.
 Le détail lot par lot est dans `JOURNAL-ARCHIVE.md` : ne pas le relire au début d'une session, seulement au besoin.
 
@@ -19,7 +19,8 @@ Dépôt : https://github.com/Mateo180805/sanctions-conformite (public)
 - [x] Lot 9 (13 novembre, Opus 5.5) : 2017-08, 2016-08, 2016-10, 2016-07, 2016-09. **44 fiches.**
 - [x] Lot 10 (13 novembre, Opus 5.5) : 2016-06, 2016-05, 2016-01, 2016-03, 2015-08. **49 fiches.**
 - [x] Lot 11 (13 novembre, Opus 5.5) : 2015-10, 2015-07, 2015-06, 2014-10, 2014-07. **54 fiches.**
-- [ ] Plus tard : les 13 décisions restantes LCB-FT de l'ACPR antérieures à 2019, les 44 fiches courtes « hors LCB-FT », des fiches AMF (en commençant par les 28 signalées blanchiment), puis CSSF et FINMA.
+- [x] Lot 12 (14 novembre, Opus 5.5) : 2014-08, 2015-01, 2013-06, 2014-06, 2012-08. **59 fiches.**
+- [ ] Plus tard : les 8 décisions restantes LCB-FT de l'ACPR antérieures à 2019, les 44 fiches courtes « hors LCB-FT », des fiches AMF (en commençant par les 28 signalées blanchiment), puis CSSF et FINMA.
 
 Les 31 fiches : 2024-06, 2024-02, 2024-01, 2023-01, 2022-07, 2022-06, 2022-05, 2022-04, 2022-03, 2022-02, 2022-01, 2021-05, 2021-01, 2020-11, 2020-09 (nominatives) ; 2020-08, 2020-06, 2020-05, 2020-03, 2020-02, 2020-01, 2019-08, 2019-07, 2019-06, 2019-04, 2018-08, 2018-06, 2018-05, 2018-04, 2018-03, 2017-10 (anonymisées).
 
@@ -206,6 +207,26 @@ Cinq fiches de plus. **54 fiches au total.**
 - Arrondis et calculs corrigés avant livraison (« plus de 5,4 millions », « plus d'un million », « plus de 26 millions », « quatre ans ») ; une lecture personnelle retirée du résumé (fractionnement en 2015-07 grief 8).
 - **Il reste 13 décisions LCB-FT de l'ACPR d'avant 2019** : 2014-08, 2015-01, 2013-06, 2014-06, 2012-08, 2013-01, 2012-05, 2012-04, 2011-03, 2011-02, 2011-01, 2010-05, 2010-01.
 
+## Lot 12 (14 novembre, Opus 5.5, nouvelle conversation)
+
+Cinq fiches de plus. **59 fiches au total.** Même méthode (lecture avec `lire_decision.py`, `fiches.py`, `verifier_nombres.py`, issues comparées aux phrases de conclusion, décompte des issues vérifié par programme). L'étude ne bouge pas (décisions d'avant 2019).
+
+| Décision | Établissement | Sanction (demande du Collège) | Griefs retenus / en partie / écartés |
+|---|---|---|---|
+| 2014-08 | anonymisé (« société A »), assureur vie d'une cinquantaine de salariés | avertissement, 500 000 € (blâme, 1,5 M€) | 7 / 2 / 0 |
+| 2015-01 | Ambition des Frères (changeur manuel parisien) et son gérant | radiation, 10 000 € ; gérant interdit d'exercer 10 ans (idem) | 8 / 0 / 0 |
+| 2013-06 | Bank of Africa France (filiale d'un groupe panafricain, clientèle « diaspora ») | avertissement, 100 000 € (blâme, 150 000 €) | 9 / 4 / 3 |
+| 2014-06 | Or et Change (changeur manuel, or et métaux précieux) | blâme, 20 000 € (blâme, 80 000 €) | 4 / 0 / 0 |
+| 2012-08 | Banque Chaâbi du Maroc (transferts vers le Maroc) | blâme, 1 M€ (blâme, 1,5 M€) | 18 / 1 / 0 |
+
+- **À retenir pour l'étude élargie** : en 2014-08 et 2013-06, la Commission prononce un **avertissement** alors que le Collège demandait un **blâme** (l'inverse de 2016-06). 2015-01 est la seule décision du lot qui sanctionne aussi le dirigeant (interdiction d'exercer, paiement solidaire de l'amende) ; ni la société ni le gérant ne se sont défendus.
+- 2013-06 : griefs 1 à 5 « hors LCB-FT » (fonds propres, injonction, liquidité, piste d'audit). Grief 5 classé « retenu en partie » sans phrase « établi » (« largement relativisé ») : signalé.
+- 2014-08 : nombreuses exceptions de procédure, toutes rejetées (contrôle « préventif » et auto-incrimination, décision d'ouverture non communiquée, délai de 30 jours, arrêté d'application non pris, valeur des principes d'application sectoriels) : utile en entretien. Grief 8 sans phrase de conclusion d'ensemble (5 parties établies, 2 écartées) : « retenu en partie ».
+- Leçons fortes du lot : fermer un compte ne remplace pas la déclaration (2012-08, griefs 5 et 6 ; le client continue ailleurs) ; une demande de Tracfin ne dispense pas de déclarer (2012-08 grief 6) ; le silence du client après une demande de justificatifs doit faire naître le soupçon (2014-08) ; il faut refuser une opération quand on ne sait rien de l'objet de la relation (2014-08 grief 6) ; la déclaration d'argent liquide faite à la douane n'est pas un justificatif (2014-06).
+- Personnes physiques : la fiche 2015-01 ne reprend que le nom de la société (le titre officiel cite le gérant) ; vérifié sur tout le site fabriqué. Détails personnels non repris (âges, nationalités, employeur, procédure judiciaire visant un client, nature des faits reprochés à un autre).
+- Arrondis et conversions corrigés avant livraison (« 445 000 euros » au lieu de 445 k€, « deux mois plus tard ») ; montants en « k€ » de 2012-08 écrits en « milliers d'euros ».
+- **Il reste 8 décisions LCB-FT de l'ACPR d'avant 2019** : 2013-01, 2012-05, 2012-04, 2011-03, 2011-02, 2011-01, 2010-05, 2010-01. Attention : 2011-03 a un nom d'établissement qui contient des noms de personnes physiques (à ne pas reprendre) et pas de montant lu.
+
 ## Thèmes repérés pendant la session 2
 
 - Décisions à part : 2019-08 (avertissement, sans amende, financement participatif) ; 2018-03 (blâme sans amende à cause de la situation financière) ; 2018-05 (radiation) ; 2020-09 (gel des avoirs seulement) ; 2019-07 (21 griefs dont beaucoup hors LCB-FT).
@@ -247,6 +268,6 @@ Cinq fiches de plus. **54 fiches au total.**
 - ou des fiches AMF, en commençant par les 28 décisions signalées blanchiment (Fable 5.2 ; la grille du point 6 de PROJET.md devra être complétée pour les abus de marché) ;
 - ou la collecte de la CSSF puis de la FINMA (Opus 5.5 ou Sonnet 5.5).
 
-Message de reprise : « Lot 12 : lis PROJET.md et JOURNAL.md (pas l'archive), récupère le dépôt, puis fais les 5 fiches ACPR suivantes d'avant 2019 (2014-08, 2015-01, 2013-06, 2014-06, 2012-08), même méthode que les lots 8 à 11, avec analyse/lire_decision.py et analyse/verifier_nombres.py. »
+Message de reprise : « Lot 13 : lis PROJET.md et JOURNAL.md (pas l'archive), récupère le dépôt, puis fais les 5 fiches ACPR suivantes d'avant 2019 (2013-01, 2012-05, 2012-04, 2011-03, 2011-02), même méthode que les lots 8 à 12, avec analyse/lire_decision.py et analyse/verifier_nombres.py. » Le lot 14 (2011-01, 2010-05, 2010-01) terminera les décisions LCB-FT de l'ACPR ; il faudra ensuite décider d'élargir l'étude à toutes les années.
 
 Modèle conseillé : Fable 5.2 pour les fiches et pour reprendre le texte de l'étude ; Opus 5.5 ou Sonnet 5.5 pour la collecte et le site.

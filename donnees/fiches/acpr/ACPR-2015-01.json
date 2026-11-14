@@ -1,0 +1,179 @@
+{
+  "id": "ACPR-2015-01",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT et gel des avoirs",
+  "resume_court": "Ambition des Frères est un petit bureau de change parisien qui vend aussi des souvenirs. Les Douanes, agissant pour le compte de l'ACPR, avaient déjà relevé de graves carences en 2012 et 2013. Lors du contrôle de l'ACPR, en 2014, rien n'avait changé. Le logiciel d'enregistrement était si ancien que n'importe quel employé pouvait modifier ou effacer une opération sans laisser de trace. Presque toutes les opérations étaient anonymes, y compris un change de plus de 18 000 euros, alors que le client doit être identifié au-delà de 8 000 euros. Il n'y avait ni classification des risques, ni procédures, ni formation, ni filtrage du gel des avoirs, et les réponses fournies à l'ACPR dans le questionnaire annuel étaient inexactes. Ni la société ni son gérant ne se sont défendus ni présentés à l'audience. La Commission retient les huit griefs, radie la société de la liste des changeurs manuels, lui inflige 10 000 euros d'amende, que le gérant doit payer avec elle, et interdit à celui-ci d'exercer ce métier pendant dix ans, la durée maximale.",
+  "identite": {
+    "etablissement": "Ambition des Frères",
+    "type_etablissement": "changeur manuel",
+    "precision_type": "SARL autorisée à exercer comme changeur manuel le 7 septembre 2011, avec une autre activité de vente de souvenirs. Deux salariés pour le change, deux pour les souvenirs. La procédure vise aussi personnellement son gérant, en fonctions depuis novembre 2012.",
+    "groupe": "aucun (capital de 38 500 euros détenu par des personnes physiques)",
+    "pays": "France (Paris)",
+    "activite_et_taille": "En 2013, environ 1,5 million d'euros d'achats et 1,3 million d'euros de ventes de devises. Montant moyen d'une opération : 300 euros à l'achat, 600 euros à la vente.",
+    "pages": [1, 2, 5]
+  },
+  "controle": {
+    "controle_sur_place": "du 17 septembre au 17 octobre 2014",
+    "rapport_de_controle": "rapport définitif signé le 12 novembre 2014",
+    "ouverture_de_la_procedure": "décidée par le Collège (sous-collège sectoriel de la banque) le 23 décembre 2014, par procédure écrite ; notification des griefs du 2 janvier 2015",
+    "antecedents": "Enquête de la direction générale des Douanes, agissant pour le compte de l'ACPR : procès-verbaux des 14 septembre 2012, 11 et 15 avril 2013 et rapport du 30 mai 2013. La plupart des faits reprochés y étaient déjà consignés.",
+    "pages": [1, 2, 3]
+  },
+  "sanction": {
+    "nature": ["radiation de la liste des changeurs manuels", "sanction pécuniaire", "interdiction d'exercer la profession de changeur manuel pendant dix ans (gérant)"],
+    "montant_euros": 10000,
+    "publication": "nominative",
+    "duree_publication_nominative": "non précisée : la décision ordonne une publication au registre de l'ACPR, sans limite de durée",
+    "proposition_du_college": "radiation et sanction pécuniaire d'au moins 10 000 euros, le gérant étant tenu solidairement au paiement ; interdiction d'exercer pendant dix ans pour le gérant ; publication nominative",
+    "pages": [1, 2, 7]
+  },
+  "procedure": {
+    "questions_de_procedure": "Ni la société ni son gérant n'ont présenté de défense ni ne se sont présentés à l'audience publique du 11 mai 2015 ; la Commission juge que cela ne l'empêche pas de statuer. Le rapporteur concluait que tous les griefs étaient établis. La procédure engageait aussi la responsabilité « directe et personnelle » du gérant, seul dirigeant depuis le 9 novembre 2012 : il est tenu de payer l'amende avec la société (« solidairement ») et interdit d'exercer.",
+    "pages": [1, 2, 6, 7]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Un registre que n'importe qui pouvait modifier",
+      "resume": "Les opérations étaient saisies dans un logiciel très ancien, impossible à faire évoluer, où tout employé pouvait modifier ou supprimer une opération sans laisser de trace. Le double papier des bordereaux n'était pas conservé et le récapitulatif quotidien ne donnait que des totaux par devise. La mission a trouvé de nombreuses anomalies (dates irréalistes, numérotation interrompue, sens des opérations erroné, cours incohérents), surtout depuis l'arrivée du gérant. Le nouveau logiciel promis lors de l'enquête des Douanes n'avait pas été installé ; le gérant invoquait son coût et son intention d'arrêter le change.",
+      "textes": ["arrêté du 10 septembre 2009, art. 4"],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "« Ce grief, qui n'a été contesté ni par la SARL ADF, ni par son gérant, est établi. » Faits déjà relevés par les Douanes.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "registre des transactions du changeur manuel",
+      "categories_secondaires": [],
+      "pages": [3]
+    },
+    {
+      "numero": "2",
+      "titre": "Aucune classification des risques",
+      "resume": "La société n'avait aucune classification des risques indiquant quelles opérations et quels clients demandaient une vigilance particulière.",
+      "textes": ["arrêté du 10 septembre 2009, art. 5"],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "Griefs 2 et 3 « établis », non contestés ; faits déjà relevés par les Douanes.",
+      "categorie": "classification des risques",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [4]
+    },
+    {
+      "numero": "3",
+      "titre": "Ni règles écrites ni contrôle interne",
+      "resume": "La société n'avait ni règles écrites internes ni procédures de contrôle interne pour assurer le respect de ses obligations de LCB-FT.",
+      "textes": ["arrêté du 10 septembre 2009, art. 5"],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "Griefs 2 et 3 « établis », non contestés ; faits déjà relevés par les Douanes.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "absence de procédures écrites et de contrôle interne",
+      "categories_secondaires": [],
+      "pages": [4]
+    },
+    {
+      "numero": "4",
+      "titre": "Un correspondant Tracfin qui connaît mal ses obligations",
+      "resume": "Le guichetier désigné comme déclarant et correspondant Tracfin depuis le 1er janvier 2013 ne connaissait que très imparfaitement les règles de l'examen renforcé et des déclarations. Rien ne montrait qu'une formation à la LCB-FT ait été donnée au personnel.",
+      "textes": ["CMF L. 561-33"],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "« Ce grief, qui n'a été contesté ni par la SARL ADF, ni par son dirigeant, est établi. » Faits déjà relevés par les Douanes.",
+      "categorie": "gouvernance, moyens et formation",
+      "categorie_precision": "formation du personnel et du correspondant Tracfin",
+      "categories_secondaires": [],
+      "pages": [4]
+    },
+    {
+      "numero": "5",
+      "titre": "Des opérations presque toutes anonymes",
+      "resume": "La société ne gardait pas de copie des pièces d'identité. Le logiciel signalait les opérations de plus de 7 623 euros, mais sans les bloquer si l'identité n'était pas saisie : un change de plus de 18 000 euros, le 31 décembre 2013, a été fait sans identification. Rien n'était prévu pour les opérations liées dépassant ensemble 8 000 euros. À deux exceptions près, toutes les opérations depuis le 20 novembre 2012 étaient anonymes. La société n'avait repéré aucun fractionnement, alors que la mission a trouvé deux opérations de 7 400 euros faites à une minute d'intervalle, sans identité.",
+      "textes": ["CMF R. 561-10 (II, 2°)"],
+      "chiffres_cles": ["alerte du logiciel au-dessus de 7 623 euros, non bloquante", "1 opération de plus de 18 000 euros le 31 décembre 2013 sans identification", "2 opérations identifiées seulement depuis le 20 novembre 2012", "2 opérations de 7 400 euros à une minute d'intervalle"],
+      "issue": "retenu",
+      "precision_issue": "« Ce grief, qui n'a été contesté ni par la SARL ADF ni par son dirigeant, est établi. » Faits déjà relevés par les Douanes.",
+      "categorie": "relation d'affaires et clients occasionnels",
+      "categorie_precision": "identification des clients occasionnels au-delà de 8 000 euros, opérations liées",
+      "categories_secondaires": ["dispositif de surveillance des opérations (outils, scénarios, seuils)"],
+      "pages": [4, 5]
+    },
+    {
+      "numero": "6",
+      "titre": "Un change de 18 000 euros sans examen",
+      "resume": "La surveillance reposait sur des guichetiers sans formation, sans classification des risques ni consignes. Le change de plus de 18 000 euros du 31 décembre 2013 n'a fait l'objet d'aucun examen renforcé, alors que l'opération moyenne était de 300 euros à l'achat et 600 euros à la vente. Même pour une seule opération, le manquement est constitué.",
+      "textes": ["CMF L. 561-10-2 (II)"],
+      "chiffres_cles": ["1 opération de plus de 18 000 euros", "opération moyenne : 300 euros à l'achat, 600 euros à la vente"],
+      "issue": "retenu",
+      "precision_issue": "« De tels faits, même s'ils ne portent que sur une seule opération, sont constitutifs d'un manquement […] le grief est établi. »",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [5]
+    },
+    {
+      "numero": "7",
+      "titre": "Aucun dispositif de gel des avoirs",
+      "resume": "La société n'avait aucun moyen de repérer les opérations faites au profit de personnes visées par une mesure de gel des avoirs.",
+      "textes": ["CMF L. 562-3"],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "« Ce grief, qui n'a été contesté ni par la SARL ADF, ni par son dirigeant, est établi. »",
+      "categorie": "gel des avoirs et sanctions financières",
+      "categorie_precision": "absence de dispositif",
+      "categories_secondaires": [],
+      "pages": [6]
+    },
+    {
+      "numero": "8",
+      "titre": "Un questionnaire annuel en retard et inexact",
+      "resume": "Les tableaux « Blanchiment » sur l'année 2013 devaient être remis à l'ACPR au plus tard le 30 avril 2014. Ils n'avaient pas été envoyés au début du contrôle. Les tableaux remis le 8 octobre 2014, signés par le gérant, n'étaient pas les bons et contenaient des réponses contraires aux constats de la mission ou non justifiées, dont une sur l'enregistrement des opérations liées qui contredisait ce que le gérant avait dit pendant le contrôle.",
+      "textes": ["instruction ACPR n° 2013-I-10, art. 1er et 4"],
+      "chiffres_cles": ["tableaux dus au plus tard le 30 avril 2014", "remis le 8 octobre 2014"],
+      "issue": "retenu",
+      "precision_issue": "« Ce grief, qui n'a été contesté ni par la SARL ADF, ni par son dirigeant, est établi. »",
+      "categorie": "autre (à préciser)",
+      "categorie_precision": "informations inexactes ou tardives transmises au superviseur (questionnaire LCB-FT annuel)",
+      "categories_secondaires": [],
+      "pages": [6]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "Les constats de l'enquête des Douanes de 2012-2013 n'ont « aucunement été pris en compte » ; le gérant n'a pas profité de ce délai pour corriger.", "pages": [6, 7]},
+      {"texte": "Les changeurs manuels sont « particulièrement exposés » au blanchiment : même avec peu de personnel, ils ne peuvent ignorer leurs obligations essentielles.", "pages": [7]},
+      {"texte": "Aucune information sur une correction, même partielle ; ampleur et durée des carences.", "pages": [6, 7]}
+    ],
+    "elements_attenuants": [],
+    "mesures_correctrices": [],
+    "situation_financiere": {"texte": "Non précisé.", "pages": []},
+    "cause_profonde": {"texte": "Non précisé. La décision relève l'absence de toute action du gérant après l'enquête des Douanes, et l'argument du coût d'un nouveau logiciel.", "pages": [3, 7]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Le logiciel d'enregistrement empêche-t-il de modifier ou supprimer une opération sans laisser de trace ?",
+      "Les bordereaux sont-ils conservés et le registre permet-il de retrouver chaque opération, pas seulement des totaux ?",
+      "L'alerte d'identification bloque-t-elle l'opération tant que l'identité n'est pas saisie et vérifiée ?",
+      "Les opérations rapprochées d'un même client sont-elles additionnées pour appliquer le seuil de 8 000 euros ?",
+      "Le correspondant Tracfin a-t-il été formé, et peut-il expliquer quand faire un examen renforcé et une déclaration ?",
+      "Les réponses du questionnaire annuel envoyé au superviseur sont-elles vérifiées avant signature ?",
+      "Les constats d'un contrôle précédent ont-ils donné lieu à un plan d'action suivi jusqu'au bout ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["changeur manuel", "radiation", "interdiction d'exercer", "responsabilité du dirigeant", "Douanes", "registre des transactions", "logiciel", "seuil de 8 000 euros", "fractionnement", "tableaux Blanchiment", "absence de défense"],
+    "pages_prioritaires": [
+      {"pages": [3], "pourquoi": "le logiciel où tout pouvait être effacé"},
+      {"pages": [4, 5], "pourquoi": "l'identification des clients et le fractionnement"},
+      {"pages": [6, 7], "pourquoi": "la responsabilité personnelle du gérant et le choix des sanctions"}
+    ],
+    "confiance": "élevée",
+    "a_verifier": [
+      "La décision est nominative et vise aussi le gérant, personne physique : la fiche ne reprend que le nom de la société.",
+      "Je n'ai pas repris la composition familiale du capital.",
+      "Le grief 8 (questionnaire annuel) est classé « autre », faute de catégorie pour les informations transmises au superviseur."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Opus 5.5), à partir du texte extrait du PDF officiel", "date": "2026-11-14", "relue_par_mateo": false}
+}

@@ -1,0 +1,129 @@
+{
+  "id": "ACPR-2014-06",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT et gel des avoirs",
+  "resume_court": "Or et Change est un petit bureau de change qui achète et vend des devises, de l'or et d'autres métaux précieux, surtout à des particuliers, avec trois employés. Lors du contrôle de 2013, la mission a trouvé 21 dossiers de clients qui changeaient des sommes très élevées, sans rapport avec ce que font d'habitude des touristes, sans qu'on leur ait demandé de justificatif. Le bureau se contentait de leur pièce d'identité, parfois du formulaire de déclaration d'argent liquide rempli à la douane, qui ne dit presque rien sur l'origine des fonds. Un client déjà signalé à Tracfin a ensuite vendu des yens à neuf reprises pour 1 004 529 euros sans que Tracfin en soit informé. Le manuel de procédures n'avait été écrit qu'en 2012 et restait incomplet, et les contrôles internes prévus n'étaient pas faits. La société reconnaissait tout. La Commission retient les quatre griefs et prononce un blâme et 20 000 euros, contre 80 000 euros demandés par le Collège, en tenant compte des efforts engagés et de la baisse du résultat.",
+  "identite": {
+    "etablissement": "Société d'exploitation Or et Change",
+    "type_etablissement": "changeur manuel",
+    "precision_type": "Changeur manuel qui fait aussi des transactions sur l'or et d'autres métaux précieux. Le change manuel représente 91 % de ses opérations en volume (87 % en valeur). Clientèle surtout de particuliers ; trois employés, dont deux au contact des clients.",
+    "groupe": "aucun (capital détenu par deux personnes physiques, dont le gérant)",
+    "pays": "France",
+    "activite_et_taille": "Résultat avant impôt passé d'un peu plus de 50 000 euros en 2012 à un peu plus de 10 000 euros en 2013, stable en 2014 selon le gérant.",
+    "pages": [2, 5]
+  },
+  "controle": {
+    "controle_sur_place": "du 25 avril au 31 mai 2013 (dossiers examinés du deuxième trimestre 2011 au premier trimestre 2013)",
+    "rapport_de_controle": "signé le 23 juillet 2013, après observations sur un projet du 2 juillet 2013",
+    "ouverture_de_la_procedure": "décidée par le Collège (sous-collège sectoriel de la banque) le 11 avril 2014 ; notification des griefs du 28 avril 2014 ; Commission saisie le 29 avril 2014",
+    "antecedents": "non précisé",
+    "pages": [1, 2, 3]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 20000,
+    "publication": "nominative",
+    "duree_publication_nominative": "non précisée : la décision ordonne une publication au registre de l'ACPR, sans limite de durée",
+    "proposition_du_college": "blâme et sanction pécuniaire de 80 000 euros, publication nominative",
+    "pages": [2, 5, 6]
+  },
+  "procedure": {
+    "questions_de_procedure": "Pas de question de procédure. La société reconnaissait le bien-fondé des griefs et décrivait ses mesures de régularisation. Le rapporteur estimait les quatre griefs établis. Audience non publique, à la demande de la société, le 17 décembre 2014 ; le gérant est venu avec une collaboratrice et un salarié de l'éditeur de son logiciel de change.",
+    "pages": [1, 2]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "21 gros changes sans justificatif ni déclaration",
+      "resume": "Le bureau avait fait des déclarations de soupçon (3 en 2010, 10 en 2011, 27 en 2012, 12 de janvier à mi-mai 2013), mais 21 dossiers examinés portaient sur des montants très élevés, sans rapport avec les opérations habituelles de touristes, sans justificatif. Les dossiers ne contenaient le plus souvent qu'une pièce d'identité, parfois la déclaration d'argent liquide faite à la douane, dont les rubriques sur la provenance et la destination des fonds étaient très imprécises. Les opérations cumulées d'un client dépassaient 1 million d'euros. Un reçu de retrait bancaire ne prouve pas l'origine des fonds, et les vérifications faites par la banque qui a émis un chèque ne dispensent pas le changeur des siennes. Faute de justificatif, il fallait déclarer chaque cas à Tracfin.",
+      "textes": ["CMF L. 561-15 (I)"],
+      "chiffres_cles": ["21 dossiers sans déclaration (deuxième trimestre 2011 au premier trimestre 2013)", "déclarations faites : 3 en 2010, 10 en 2011, 27 en 2012, 12 de janvier à mi-mai 2013", "opérations cumulées de plus de 1 million d'euros pour un client"],
+      "issue": "retenu",
+      "precision_issue": "« Les défaillances ainsi constatées caractérisent une méconnaissance du I de l'article L. 561-15 du CMF » ; grief non contesté.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "la déclaration d'argent liquide faite à la douane ne remplace pas un justificatif d'origine des fonds",
+      "categories_secondaires": ["analyse des alertes et examen renforcé"],
+      "pages": [3, 4]
+    },
+    {
+      "numero": "2",
+      "titre": "Un client déjà déclaré revend pour 1 million d'euros de yens",
+      "resume": "Avant juillet 2011, l'outil informatique ne signalait pas les clients déjà déclarés à Tracfin, ce qui empêchait en pratique les déclarations complémentaires. Un client déclaré après une opération du 9 mars 2011 a ensuite vendu des yens à neuf reprises, entre le 26 août 2011 et le 5 novembre 2012, pour 1 004 529 euros. Son dossier se résumait à un passeport, des déclarations d'argent liquide sans détail sur l'origine des fonds et une fiche indiquant un métier de guide touristique et l'achat de produits de luxe pour les revendre. Aucune information n'a été transmise à Tracfin.",
+      "textes": ["CMF L. 561-15 (V)"],
+      "chiffres_cles": ["9 ventes de yens entre le 26 août 2011 et le 5 novembre 2012", "1 004 529 euros au total", "déclaration initiale après une opération du 9 mars 2011"],
+      "issue": "retenu",
+      "precision_issue": "« Le manquement aux dispositions du V de l'article L. 561-15 du CMF est établi. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "déclaration complémentaire",
+      "categories_secondaires": ["vigilance constante et mise à jour des dossiers"],
+      "pages": [4]
+    },
+    {
+      "numero": "3",
+      "titre": "Un manuel tardif et incomplet",
+      "resume": "Le manuel de procédures n'a été écrit qu'en mai 2012, ce que la Commission juge tardif. Au moment du contrôle, il ne disait rien de la différence entre client occasionnel et relation d'affaires, du gel des avoirs, de l'examen renforcé ni des obligations de déclaration, y compris complémentaire. Le nouveau document de juillet 2014 est une mesure de remédiation sans effet sur le grief.",
+      "textes": ["CMF R. 561-38 (4°)", "arrêté du 10 septembre 2009, art. 5"],
+      "chiffres_cles": ["manuel rédigé en mai 2012", "nouveau document de procédures daté de juillet 2014"],
+      "issue": "retenu",
+      "precision_issue": "« Ces évolutions […] apparaissent comme des mesures de remédiation, sans conséquence sur le grief 3, qui est établi. »",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "manuel de procédures",
+      "categories_secondaires": [],
+      "pages": [4, 5]
+    },
+    {
+      "numero": "4",
+      "titre": "Des contrôles prévus sur le papier, jamais faits",
+      "resume": "Les contrôles internes, permanent et périodique, étaient décrits dans une grille détaillée mais n'étaient pas réalisés. La nouvelle organisation et l'audit annuel mis en place après le contrôle ne changent rien au grief.",
+      "textes": ["CMF R. 561-38 (5°)", "arrêté du 10 septembre 2009, art. 5"],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "« Ces éléments […] sont sans influence sur la caractérisation du grief, qui est établi. »",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "contrôle permanent et périodique",
+      "categories_secondaires": [],
+      "pages": [5]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "Les changeurs manuels sont « particulièrement exposés » au blanchiment et doivent rechercher les motifs des opérations d'un montant inhabituellement élevé.", "pages": [3]},
+      {"texte": "La société a « gravement manqué » à ses obligations, avec de nombreuses opérations qui auraient dû être déclarées ; procédures et contrôles « inexistants ou incomplets ».", "pages": [5]}
+    ],
+    "elements_attenuants": [
+      {"texte": "Mise à niveau du dispositif engagée ; part des transactions de plus de 50 000 euros réduite, alors que c'est sur elles que les carences étaient les plus sérieuses.", "pages": [5]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Réévaluation du risque des clients concernés, jugée « très tardive ».", "pages": [3, 4]},
+      {"texte": "Nouveau document de procédures internes (juillet 2014), contrôles permanent et périodique désormais réalisés, audit annuel.", "pages": [5]}
+    ],
+    "situation_financiere": {"texte": "Résultat avant impôt d'un peu plus de 50 000 euros en 2012, d'un peu plus de 10 000 euros en 2013, stable en 2014 selon le gérant ; la Commission en tient compte.", "pages": [5]},
+    "cause_profonde": {"texte": "Non précisé. La décision relève que l'outil informatique ne signalait pas, avant juillet 2011, les clients déjà déclarés à Tracfin.", "pages": [4]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Pour une opération d'un montant inhabituel, demande-t-on un justificatif de l'origine des fonds, au-delà de la pièce d'identité ?",
+      "La déclaration d'argent liquide faite à la douane est-elle traitée comme une simple information, et non comme un justificatif ?",
+      "Les clients déjà déclarés à Tracfin sont-ils signalés dans l'outil, pour que leurs nouvelles opérations soient examinées ?",
+      "Les opérations répétées d'un même client sont-elles additionnées et comparées à ce qu'on sait de lui (métier, revenus) ?",
+      "Le manuel de procédures couvre-t-il toutes les obligations : relation d'affaires, gel des avoirs, examen renforcé, déclarations initiales et complémentaires ?",
+      "Les contrôles prévus dans la grille de contrôle sont-ils réellement faits, avec une trace écrite ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["changeur manuel", "or et métaux précieux", "déclaration d'argent liquide", "douane", "déclaration complémentaire", "yens", "justificatif d'origine des fonds", "manuel de procédures", "contrôle interne"],
+    "pages_prioritaires": [
+      {"pages": [3], "pourquoi": "pourquoi la déclaration faite à la douane ne suffit pas"},
+      {"pages": [4], "pourquoi": "le client déjà déclaré qui continue à vendre des yens"},
+      {"pages": [5], "pourquoi": "le montant de l'amende"}
+    ],
+    "confiance": "élevée",
+    "a_verifier": [
+      "La décision ne mentionne aucun contrôle ni aucune sanction antérieurs.",
+      "Je n'ai pas repris la nationalité du client du grief 2, sans lien avec le manquement."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Opus 5.5), à partir du texte extrait du PDF officiel", "date": "2026-11-14", "relue_par_mateo": false}
+}

@@ -1,0 +1,291 @@
+{
+  "id": "ACPR-2013-06",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT et gel des avoirs",
+  "resume_court": "Bank of Africa France est une petite banque parisienne, agréée en 2010, filiale d'un grand groupe bancaire panafricain. Elle sert surtout la « diaspora » : des clients qui ont un compte dans une banque africaine du groupe et viennent dans ses agences de Paris et Marseille pour envoyer ou recevoir de l'argent, souvent en espèces. Le contrôle de fin 2012 a d'abord relevé des problèmes de solidité : elle n'avait pas respecté l'ordre de l'ACPR de détenir au moins 4 millions d'euros de fonds propres et ses déclarations prudentielles contenaient des erreurs. Sur le blanchiment, la classification des risques et les procédures étaient lacunaires, 17 dossiers étaient manquants ou sans pièce d'identité valable et 81 manquaient de justificatif de domicile ou d'une profession exacte. Les seuils d'alerte ne tenaient compte ni de cette clientèle de particuliers ni du montant moyen de ses opérations. Neuf clients versaient des espèces sans rapport avec leur métier, sans déclaration à Tracfin. Le contrôle reposait sur moins de deux personnes à temps plein. La Commission écarte ou réduit une partie des griefs, et prononce un avertissement et 100 000 euros, contre un blâme et 150 000 euros demandés par le Collège.",
+  "identite": {
+    "etablissement": "Bank of Africa France",
+    "type_etablissement": "établissement de crédit spécialisé",
+    "precision_type": "Établissement de crédit spécialisé agréé le 16 avril 2010 : crédits documentaires et garanties, crédits à la consommation, transferts de fonds vers et depuis les pays du groupe, correspondance bancaire. Clientèle « diaspora » titulaire de comptes dans l'une des 14 banques du groupe en Afrique. 4 agences (3 à Paris, 1 à Marseille), une agence entreprise et, depuis juillet 2013, une agence à distance. 21 personnes au 30 juin 2012, 26 ensuite.",
+    "groupe": "groupe Bank of Africa, deuxième groupe bancaire panafricain ; seule filiale opérationnelle hors d'Afrique. Holding luxembourgeoise détenue à 65 % par la Banque marocaine du commerce extérieur (BMCE). Capital détenu par huit filiales du groupe (80,8 %), Proparco, filiale de l'Agence française de développement (11,1 %), et Agora Holding (7,6 %).",
+    "pays": "France ; groupe africain",
+    "activite_et_taille": "Capital porté de 3,2 millions d'euros en 2010 à 14 millions d'euros en mai 2013. Pertes nettes d'environ 1,5 million d'euros en 2011 et 2012, 0,79 million d'euros en 2013 et 0,82 million d'euros en 2014.",
+    "pages": [1, 3, 4, 15]
+  },
+  "controle": {
+    "controle_sur_place": "du 24 septembre au 18 décembre 2012 (données au 30 juin 2012)",
+    "rapport_de_controle": "rapport définitif signé le 22 avril 2013",
+    "ouverture_de_la_procedure": "décidée par le Collège (sous-collège sectoriel de la banque) le 16 décembre 2013 ; notification des griefs du 23 décembre 2013",
+    "antecedents": "Injonction de l'ACPR du 4 juillet 2011 imposant, à compter du 30 septembre 2011, un ratio de solvabilité sur fonds propres de base d'au moins 12 % et au moins 4 millions d'euros de fonds propres de base. Le comité d'audit et des risques de la banque signalait dès octobre 2011 le besoin de renforcer les moyens de contrôle.",
+    "pages": [1, 3, 4, 14]
+  },
+  "sanction": {
+    "nature": ["avertissement", "sanction pécuniaire"],
+    "montant_euros": 100000,
+    "publication": "nominative",
+    "duree_publication_nominative": "non précisée : la décision ordonne une publication au registre de l'ACPR, sans limite de durée",
+    "proposition_du_college": "blâme et sanction pécuniaire de 150 000 euros, publication nominative",
+    "pages": [2, 15]
+  },
+  "procedure": {
+    "questions_de_procedure": "Audience non publique le 14 janvier 2015, à la demande de la banque, qui demandait aussi que la décision ne soit pas publiée (refusé). En cours de procédure, le représentant du Collège a abandonné les griefs 3 et 4 et réduit les griefs 2 et 12 ; à l'audience, il a aussi proposé d'écarter le grief 11. Le rapporteur proposait d'écarter les deux premières parties du grief 2 et les griefs 3, 4 et 11, et de réduire les griefs 1, 5 (première partie), 9 et 12. La Commission retient pourtant le grief 1 en entier.",
+    "pages": [1, 2, 6, 11]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Une injonction sur les fonds propres non respectée",
+      "resume": "L'ACPR avait ordonné à la banque de détenir en permanence au moins 4 millions d'euros de fonds propres de base à compter du 30 septembre 2011. Elle en a déclaré 3,047 millions d'euros au 31 décembre 2011 et 3,788 millions d'euros au 30 juin 2012, chiffre lui-même erroné ; au 30 septembre 2011, le montant corrigé était de 3,764 millions d'euros et non de 4,243 millions d'euros. L'injonction n'a donc pas été respectée pendant au moins 9 mois, malgré plusieurs augmentations de capital, à cause des pertes.",
+      "textes": ["CMF L. 511-41-3 (II)", "règlement n° 90-02, art. 6 ter"],
+      "chiffres_cles": ["minimum de 4 millions d'euros de fonds propres de base à compter du 30 septembre 2011", "3,047 millions d'euros déclarés au 31 décembre 2011", "3,788 millions d'euros déclarés au 30 juin 2012", "3,764 millions d'euros au 30 septembre 2011 (et non 4,243 millions)", "au moins 9 mois"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi. » La Commission tient compte de l'abandon d'une partie du grief 2, du soutien des actionnaires (fonds propres supérieurs à 5 millions d'euros depuis août 2013), du petit nombre d'échéances concernées et d'un ratio de solvabilité resté nettement au-dessus de 12 %.",
+      "categorie": "autre (à préciser)",
+      "categorie_precision": "grief hors LCB-FT : non-respect d'une injonction sur les fonds propres",
+      "categories_secondaires": [],
+      "pages": [4]
+    },
+    {
+      "numero": "2",
+      "titre": "Des fonds propres et un ratio de solvabilité mal calculés",
+      "resume": "La mission a relevé de nombreuses erreurs dans le calcul des fonds propres de base et du ratio de solvabilité au 30 juin 2012 : elle ramenait les fonds propres de 3,788 à 1,748 million d'euros et le ratio de 53,8 % à 29,3 %. La plus grosse erreur, sur des engagements envers deux sociétés, est abandonnée par la poursuite elle-même ; les autres ont eu peu de conséquences, sauf le calcul des crédits documentaires, qui doublait l'exposition apparente.",
+      "textes": ["arrêté du 20 février 2007, art. 2.1", "règlement n° 90-02, art. 6 ter"],
+      "chiffres_cles": ["fonds propres de base ramenés de 3,788 à 1,748 million d'euros par la mission", "ratio de solvabilité déclaré de 53,8 %, recalculé à 29,3 %", "engagements de 823 000 euros et 1 177 000 euros envers deux sociétés (déduction non retenue)"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Le champ de ce grief doit être fortement réduit. »",
+      "categorie": "autre (à préciser)",
+      "categorie_precision": "grief hors LCB-FT : calcul des fonds propres et du ratio de solvabilité",
+      "categories_secondaires": [],
+      "pages": [4, 5]
+    },
+    {
+      "numero": "3",
+      "titre": "Le coefficient de liquidité",
+      "resume": "Le coefficient de liquidité déclaré (216,7 %) était presque égal à celui recalculé par la mission (214,2 %), mais par compensation d'erreurs. Une erreur de pondération jouait contre la banque, une autre est expliquée, et le coefficient est toujours resté au-dessus du minimum de 100 %.",
+      "textes": ["arrêté du 5 mai 2009, art. 7", "instruction n° 2009-05, art. 2"],
+      "chiffres_cles": ["216,7 % déclaré au 30 juin 2012", "214,2 % recalculé", "minimum de 100 %"],
+      "issue": "écarté",
+      "precision_issue": "« La Commission estime, de même que le représentant du Collège, que ce grief ne peut être retenu. »",
+      "categorie": "autre (à préciser)",
+      "categorie_precision": "grief hors LCB-FT : coefficient de liquidité",
+      "categories_secondaires": [],
+      "pages": [5, 6]
+    },
+    {
+      "numero": "4",
+      "titre": "Un contrôle interne qui n'a pas vu les erreurs prudentielles",
+      "resume": "Le grief reprochait au contrôle interne de n'avoir pas repéré les erreurs des griefs 1 à 3 dans les déclarations prudentielles. Ces griefs étant écartés ou réduits, celui-ci tombe aussi.",
+      "textes": ["règlement n° 97-02, art. 5 (c)"],
+      "chiffres_cles": [],
+      "issue": "écarté",
+      "precision_issue": "Écarté « conformément à la proposition du représentant du Collège ».",
+      "categorie": "autre (à préciser)",
+      "categorie_precision": "grief hors LCB-FT : contrôle de l'information transmise au superviseur",
+      "categories_secondaires": [],
+      "pages": [6]
+    },
+    {
+      "numero": "5",
+      "titre": "Une comptabilité difficile à retracer",
+      "resume": "Les documents administratifs, comptables et juridiques étaient mal gérés (dossiers dispersés, incomplets ou manquants), et les procédures comptables et d'archivage du groupe n'étaient ni à jour ni adaptées. En revanche, plusieurs anomalies comptables reprochées sont écartées et la piste d'audit n'apparaît pas « gravement compromise ».",
+      "textes": ["règlement n° 97-02, art. 12"],
+      "chiffres_cles": [],
+      "issue": "retenu en partie",
+      "precision_issue": "« Ce grief doit être largement relativisé. » La décision ne dit pas expressément « établi » ; le rapporteur le proposait sous réserve d'une réduction de sa première partie.",
+      "categorie": "autre (à préciser)",
+      "categorie_precision": "grief hors LCB-FT : piste d'audit comptable",
+      "categories_secondaires": [],
+      "pages": [7]
+    },
+    {
+      "numero": "6",
+      "titre": "Une classification des risques très incomplète",
+      "resume": "La classification des risques ne couvrait pas toutes les activités exposées et ne tenait compte ni des services offerts, ni des conditions des opérations, ni des canaux de distribution, ni des caractéristiques de la clientèle. La « cartographie des risques » adoptée le 16 juillet 2013 est jugée tardive.",
+      "textes": ["CMF R. 561-38 (I, 2°)"],
+      "chiffres_cles": ["cartographie des risques adoptée le 16 juillet 2013"],
+      "issue": "retenu",
+      "precision_issue": "« Elle est tardive et sans conséquence sur le grief, qui est établi. »",
+      "categorie": "classification des risques",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [7, 8]
+    },
+    {
+      "numero": "7",
+      "titre": "Des procédures pas à jour",
+      "resume": "La procédure LCB-FT n'avait pas suivi l'évolution des textes. Rien n'encadrait la mise à jour des informations sur les clients, ni l'entrée en relation avec des sociétés qui collectent des espèces auprès de membres de communautés africaines vivant en France, pourtant à risque élevé. Le manuel de connaissance du client n'a été appliqué qu'en janvier 2014.",
+      "textes": ["CMF R. 561-38 (I, 4°)", "règlement n° 97-02, art. 11-7"],
+      "chiffres_cles": ["manuel de connaissance du client appliqué en janvier 2014"],
+      "issue": "retenu",
+      "precision_issue": "Mesures postérieures au contrôle « sans conséquence sur le grief, qui est établi ».",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "procédures LCB-FT non mises à jour ; sociétés collectrices de fonds",
+      "categories_secondaires": [],
+      "pages": [8]
+    },
+    {
+      "numero": "8",
+      "titre": "Des clients identifiés par les banques du groupe en Afrique",
+      "resume": "Pour ouvrir les comptes des clients communs, la banque s'en remettait aux autres banques du groupe en Afrique, situées dans des pays qui ne figuraient pas sur la liste des pays aux règles équivalentes. Elle a corrigé cette pratique le 13 novembre 2012, avant la fin du contrôle. Les conventions passées avec ces banques ne suffisent pas.",
+      "textes": ["CMF L. 561-7", "arrêté du 27 juillet 2011"],
+      "chiffres_cles": ["pratique corrigée le 13 novembre 2012"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi » ; gravité relativisée vu le « très faible nombre (quelques unités) » de cas.",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "recours à un tiers introducteur situé dans un pays non équivalent",
+      "categories_secondaires": ["dispositif de groupe, filiales et correspondance bancaire"],
+      "pages": [9]
+    },
+    {
+      "numero": "9",
+      "titre": "17 dossiers sans pièce d'identité valable",
+      "resume": "Sur 182 dossiers de clients demandés, 23 n'avaient pas été fournis à la mission. Après les pièces produites devant la Commission, le reproche reste fondé pour 4 dossiers toujours manquants et 13 sans pièce d'identité officielle valide avec photographie : 17 dossiers, près de 10 % de l'échantillon.",
+      "textes": ["CMF L. 561-5 (I)"],
+      "chiffres_cles": ["182 dossiers demandés", "23 non communiqués à la mission", "4 dossiers toujours manquants", "13 dossiers sans pièce d'identité valide", "17 dossiers défaillants, près de 10 %"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Dans le périmètre ainsi réduit, le grief est établi. »",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "identification et vérification d'identité",
+      "categories_secondaires": [],
+      "pages": [9, 10]
+    },
+    {
+      "numero": "10",
+      "titre": "81 dossiers sans domicile ou profession fiables",
+      "resume": "Sur les 182 dossiers, 81 n'avaient pas de justificatif de domicile et une profession absente ou inexacte ; plusieurs n'indiquaient pas les revenus. Une bonne connaissance des clients était pourtant nécessaire vu les transferts de fonds et les opérations en espèces. La situation de la clientèle « diaspora » et le transfert de dossiers venus d'une banque du groupe au Mali n'excusent pas ces lacunes.",
+      "textes": ["CMF L. 561-6"],
+      "chiffres_cles": ["81 dossiers sur 182"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi. »",
+      "categorie": "vigilance constante et mise à jour des dossiers",
+      "categorie_precision": "connaissance de la relation d'affaires (domicile, profession, revenus)",
+      "categories_secondaires": ["connaissance du client à l'entrée en relation"],
+      "pages": [10]
+    },
+    {
+      "numero": "11",
+      "titre": "Les personnes politiquement exposées",
+      "resume": "Le grief reprochait un dispositif de détection des personnes politiquement exposées inadapté, à partir de deux dossiers. La banque a montré qu'elle connaissait leur qualité dès l'ouverture du compte et suivait leurs opérations.",
+      "textes": ["CMF L. 561-10 (2°)", "CMF R. 561-18", "CMF R. 561-20 (II)"],
+      "chiffres_cles": ["2 dossiers"],
+      "issue": "écarté",
+      "precision_issue": "Écarté « conformément à la proposition du représentant du Collège à l'audience ».",
+      "categorie": "personnes politiquement exposées et vigilance renforcée",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [11]
+    },
+    {
+      "numero": "12",
+      "titre": "Des outils qui ne regroupaient pas les opérations d'un client",
+      "resume": "La banque avait deux outils de LCB-FT, mais l'outil de filtrage des opérations n'était pas relié à l'autre et ne permettait pas de suivre les opérations par client, donc d'en voir le caractère inhabituel. La partie du grief sur l'absence des listes françaises de gel des avoirs est écartée : la banque a prouvé qu'elle les utilisait.",
+      "textes": ["règlement n° 97-02, art. 11-7 (2.2)"],
+      "chiffres_cles": [],
+      "issue": "retenu en partie",
+      "precision_issue": "« Dans ce périmètre réduit, le grief est établi » ; partie sur le gel des avoirs écartée.",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "pas de vue consolidée des opérations par client",
+      "categories_secondaires": ["gel des avoirs et sanctions financières"],
+      "pages": [11, 12]
+    },
+    {
+      "numero": "13",
+      "titre": "Des seuils sans rapport avec la clientèle",
+      "resume": "Les procédures prévoyaient de demander le motif des transferts de plus de 3 000 euros et des opérations de plus de 4 000 euros par jour, et de les bloquer en attendant : ce n'était pas fait systématiquement, ni justifié. L'examen renforcé partait de seuils fixes de 150 000 euros pour un client régulier et 8 000 euros pour un client occasionnel, inadaptés à une clientèle de particuliers et au montant moyen des opérations, et alors que la loi avait supprimé ces seuils fixes en 2009. L'usage fréquent des espèces par cette clientèle n'allège pas les obligations.",
+      "textes": ["règlement n° 97-02, art. 11-7 (2.2)", "ordonnance n° 2009-104 du 30 janvier 2009"],
+      "chiffres_cles": ["justificatif prévu au-delà de 3 000 euros (transferts) et 4 000 euros par jour", "seuils d'examen renforcé : 150 000 euros (relation d'affaires), 8 000 euros (client occasionnel)", "classification des risques en place seulement en juillet 2013"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi. »",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "seuils fixes inadaptés ; justificatifs non collectés",
+      "categories_secondaires": ["analyse des alertes et examen renforcé"],
+      "pages": [12, 13]
+    },
+    {
+      "numero": "14",
+      "titre": "Neuf clients aux espèces sans rapport avec leur métier",
+      "resume": "Neuf dossiers auraient dû être déclarés à Tracfin : versements d'espèces ou remises de chèques suivies de retraits d'espèces, importants au regard du métier et des revenus connus. Dans six d'entre eux, des fonds étaient remis à plusieurs reprises par un tiers dont le lien avec le client n'était pas toujours connu. Des mentions comme « commerçant » ou « manager » sont trop vagues. La banque a depuis fait les déclarations.",
+      "textes": ["CMF L. 561-15 (I)"],
+      "chiffres_cles": ["9 défauts de déclaration sur 182 dossiers", "6 dossiers avec des fonds remis par un tiers"],
+      "issue": "retenu",
+      "precision_issue": "« Le constat d'un défaut de DS dans 9 des 182 dossiers […] traduit une carence » ; faits non contestés.",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": ["connaissance du client à l'entrée en relation"],
+      "pages": [13]
+    },
+    {
+      "numero": "15",
+      "titre": "Deux clients sans examen renforcé",
+      "resume": "Un client se disant ouvrier a transféré 53 543 euros en espèces en 5 mois ; le placer sur une liste de surveillance et lui demander des justificatifs ne vaut pas examen renforcé. Un autre, domicilié au Mali, a reçu 11 versements d'espèces pour 41,9 milliers d'euros en 14 mois, expliqués après coup par des versements de la famille « afin de financer la construction (?) ». Que seuls 2 dossiers sur 182 soient concernés ne change rien.",
+      "textes": ["CMF L. 561-10-2"],
+      "chiffres_cles": ["53 543 euros de transferts en espèces en 5 mois (10,7 milliers d'euros par mois)", "11 versements d'espèces pour 41,9 milliers d'euros en 14 mois (10 de 4 000 euros et 1 de 2 000 euros)", "2 dossiers sur 182"],
+      "issue": "retenu",
+      "precision_issue": "« Sans conséquence sur le grief, qui est établi. »",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [13, 14]
+    },
+    {
+      "numero": "16",
+      "titre": "Moins de deux personnes pour tout contrôler",
+      "resume": "Le contrôle permanent, la conformité, la filière risques et la LCB-FT reposaient sur le contrôleur général, aussi dirigeant responsable, déclarant et correspondant Tracfin, aidé d'une personne du back-office à 15 % de son temps : moins de deux personnes à temps plein. Le cumul était connu du superviseur et la banque admettait le besoin de renfort, signalé par son comité d'audit dès octobre 2011.",
+      "textes": ["règlement n° 97-02, art. 9"],
+      "chiffres_cles": ["une personne du back-office à 15 % de son temps", "moins de deux personnes en équivalent temps plein", "besoin signalé par le comité d'audit dès octobre 2011", "plan triennal 2014-2016"],
+      "issue": "retenu",
+      "precision_issue": "La réorganisation et le plan triennal « ne sont pas de nature à remettre en cause le grief, qui est établi ».",
+      "categorie": "gouvernance, moyens et formation",
+      "categorie_precision": "moyens du contrôle permanent, de la conformité et de la LCB-FT ; cumul de fonctions",
+      "categories_secondaires": ["procédures et contrôle interne"],
+      "pages": [14]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "Le non-respect d'une injonction est « en soi un manquement grave », surtout sur les exigences prudentielles.", "pages": [4]},
+      {"texte": "Les insuffisances de LCB-FT, surtout sur les déclarations de soupçon, viennent au moins en partie de moyens de contrôle permanent inadaptés.", "pages": [15]}
+    ],
+    "elements_attenuants": [
+      {"texte": "Une partie significative des griefs est écartée ou réduite.", "pages": [15]},
+      {"texte": "Défaillances constatées peu de temps après l'agrément ; réactivité de la banque après le contrôle ; restructuration annoncée pour renforcer les services centraux.", "pages": [15]},
+      {"texte": "Soutien constant des actionnaires ; ratio de solvabilité toujours nettement au-dessus du niveau exigé.", "pages": [4]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Cartographie des risques LCB-FT (16 juillet 2013), manuel LCB-FT revu en février 2014, clients classés en 3 niveaux de risque, fiche d'entretien client, nouvel outil de détection des opérations inhabituelles.", "pages": [8, 10]},
+      {"texte": "Déclarations à Tracfin faites après le contrôle, renfort des équipes, nomination d'une responsable de la sécurité financière à plein temps, plan triennal 2014-2016.", "pages": [13, 14]}
+    ],
+    "situation_financiere": {"texte": "Résultats encore négatifs : pertes nettes d'environ 1,5 million d'euros en 2011 et 2012, 0,79 million d'euros en 2013 et 0,82 million d'euros en 2014, malgré des fonds propres renforcés.", "pages": [15]},
+    "cause_profonde": {"texte": "Selon la décision, les insuffisances de LCB-FT résultent « au moins pour partie de l'inadaptation des moyens » consacrés au contrôle permanent.", "pages": [15]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "La classification des risques tient-elle compte des produits, des canaux de distribution, des pays et du type de clientèle ?",
+      "Quand l'identification est confiée à une autre entité du groupe, celle-ci est-elle dans un pays aux règles équivalentes ?",
+      "Chaque dossier a-t-il une pièce d'identité valide, un justificatif de domicile et une profession précise ?",
+      "Les seuils d'alerte sont-ils fixés à partir du montant habituel des opérations de la clientèle, et non d'un seuil fixe ?",
+      "L'outil de surveillance permet-il de voir toutes les opérations d'un même client ?",
+      "Les versements d'espèces réguliers par un tiers sont-ils examinés ?",
+      "Les fonctions de contrôle ont-elles assez de personnes, et le correspondant Tracfin n'a-t-il pas trop de casquettes ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["diaspora", "transfert de fonds", "espèces", "groupe bancaire africain", "tiers introducteur", "pays équivalents", "seuils fixes", "injonction de fonds propres", "moyens du contrôle", "jeune établissement"],
+    "pages_prioritaires": [
+      {"pages": [9], "pourquoi": "l'identification confiée aux banques du groupe"},
+      {"pages": [12, 13], "pourquoi": "les seuils d'alerte et les déclarations manquantes"},
+      {"pages": [14, 15], "pourquoi": "les moyens du contrôle et le choix de la sanction"}
+    ],
+    "confiance": "moyenne",
+    "a_verifier": [
+      "Grief 5 : la décision dit « largement relativisé » sans écrire « établi » ; je l'ai classé « retenu en partie ».",
+      "Grief 8 : « établi » mais de gravité « relativisée » ; classé « retenu », selon la règle du projet.",
+      "Griefs 1 à 5 (fonds propres, liquidité, comptabilité) marqués « hors LCB-FT ». Le grief 16 mêle contrôle permanent, filière risques et LCB-FT : je l'ai gardé en LCB-FT.",
+      "La Commission prononce un avertissement alors que le Collège demandait un blâme : une sanction moins sévère sur la nature.",
+      "Je n'ai pas repris les fonctions des deux personnes politiquement exposées du grief 11, écarté."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Opus 5.5), à partir du texte extrait du PDF officiel", "date": "2026-11-14", "relue_par_mateo": false}
+}
