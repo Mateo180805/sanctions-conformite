@@ -1,0 +1,210 @@
+{
+  "id": "ACPR-2012-05",
+  "version_grille": 1,
+  "suivi": {"statut": "à lire", "mes_notes": ""},
+  "perimetre": "LCB-FT et gel des avoirs",
+  "resume_court": "L'Auxiliaire parisienne de services financiers (APSF) est un bureau de change parisien. Le contrôle de 2011 montre qu'il changeait de grosses sommes en dollars ou en livres sans rien demander d'autre qu'une pièce d'identité, et qu'il n'avait fait aucune déclaration à Tracfin entre janvier 2009 et mai 2011. Pourtant, ses employés avaient préparé des projets de déclaration pour quatre clients, et noté « DS » en marge du registre pour quatorze autres : rien n'a été envoyé. Un client a vendu 154 547 euros de livres en un an, déclaré seulement pendant le contrôle. Un client a changé 161 000 euros en deux mois sans examen. Le bureau ne vérifiait pas l'identité de plusieurs sociétés, acceptait des passeports périmés, ne repérait pas les personnes politiquement exposées, dont un chef d'État étranger, et avait répondu « oui » à tort dans son questionnaire annuel à l'ACP. La Commission écarte les faits antérieurs à l'entrée en vigueur des nouvelles règles, retient les dix griefs, dont trois en partie, et prononce un blâme et 70 000 euros, contre 100 000 euros demandés.",
+  "identite": {
+    "etablissement": "Auxiliaire parisienne de services financiers (APSF)",
+    "type_etablissement": "changeur manuel",
+    "precision_type": "Changeur manuel installé à Paris, avec plusieurs lieux d'exploitation (agences parisiennes réimplantées au moment de la procédure). Change de dollars américains et de livres sterling, avec des clients occasionnels et des clients habituels, dont des sociétés.",
+    "groupe": "non précisé",
+    "pays": "France (Paris)",
+    "activite_et_taille": "Non précisé ; l'établissement invoquait sa « taille modeste » et ses « moyens modestes ».",
+    "pages": [1, 4, 11, 13]
+  },
+  "controle": {
+    "controle_sur_place": "du 23 mai au 27 juin 2011",
+    "rapport_de_controle": "rapport d'inspection du 3 janvier 2012 ; l'établissement n'a pas répondu au projet de rapport",
+    "ouverture_de_la_procedure": "décidée par le Collège de l'ACP (sous-collège banque) le 3 mai 2012 ; notification des griefs du 4 juin 2012",
+    "antecedents": "Selon le rapport d'inspection, cité par le rapporteur, une partie des carences avait déjà été constatée lors d'un précédent contrôle (date non précisée).",
+    "pages": [1, 2, 3, 9]
+  },
+  "sanction": {
+    "nature": ["blâme", "sanction pécuniaire"],
+    "montant_euros": 70000,
+    "publication": "nominative",
+    "duree_publication_nominative": "non précisée : la décision ordonne une publication au registre de l'ACP, sans limite de durée ; la demande de publication anonyme est rejetée",
+    "proposition_du_college": "blâme et sanction pécuniaire de 100 000 euros, publication nominative",
+    "pages": [2, 13]
+  },
+  "procedure": {
+    "questions_de_procedure": "Décision rendue par la Commission des sanctions de l'Autorité de contrôle prudentiel (ACP, devenue ACPR). Trois questions générales : (1) application dans le temps : les nouvelles obligations de vigilance issues de l'ordonnance du 30 janvier 2009 ne peuvent être sanctionnées qu'à partir du 4 septembre 2010 pour la clientèle existante ; avant l'ordonnance, une déclaration complémentaire n'était due que si l'information modifiait l'appréciation, pas pour la simple poursuite des opérations ; (2) l'établissement reprochait à la poursuite des « déductions abusives » tirées des mentions « DS » : examiné dossier par dossier ; (3) la petite taille d'un changeur manuel ne l'exonère pas, le législateur ayant déjà adapté son régime. Audience non publique le 24 janvier 2013. L'établissement dénonçait aussi une inversion de la charge de la preuve et une application rétroactive des règles.",
+    "pages": [1, 2, 3, 4]
+  },
+  "griefs": [
+    {
+      "numero": "1.1",
+      "titre": "Des projets de déclaration jamais envoyés",
+      "resume": "Pour quatre clients achetant des dollars sans autre justificatif qu'une pièce d'identité (jusqu'à 68 419 euros en cinq fois), l'établissement avait préparé des projets de déclaration à Tracfin sans les envoyer. Pour quatorze autres, une mention « DS » figurait en marge du registre des opérations de plus de 8 000 euros : par exemple 149 364 euros de livres en 18 achats, 139 230 euros en 18 achats pour une société, 127 782 euros de dollars vendus en douze fois. Seules des pièces d'identité et parfois une explication sommaire (« touriste ») figuraient au dossier. Aucune déclaration entre janvier 2009 et mai 2011.",
+      "textes": ["CMF L. 561-15 (I)"],
+      "chiffres_cles": ["4 projets de déclaration non envoyés", "68 419 euros en 5 achats de dollars", "14 dossiers marqués « DS » sur le registre", "149 364 euros en 18 achats de livres", "139 230 euros en 18 achats pour une société", "127 782 euros de dollars vendus en 12 fois", "aucune déclaration entre janvier 2009 et mai 2011"],
+      "issue": "retenu",
+      "precision_issue": "« Ainsi elle a méconnu son obligation déclarative » ; « le grief est donc établi ».",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "soupçon détecté mais non déclaré",
+      "categories_secondaires": [],
+      "pages": [5, 6]
+    },
+    {
+      "numero": "1.2",
+      "titre": "Des clients déjà déclarés qui continuent",
+      "resume": "Trois clients déclarés en 2008 ont continué après l'ordonnance de 2009 : 31 241 euros, 18 000 euros, et pour le troisième 927 511 euros en de multiples opérations jusqu'en avril 2011. Il fallait informer Tracfin. Pour un quatrième client, une seule nouvelle vente le 2 janvier 2009, avant l'ordonnance, ne pouvait pas être reprochée.",
+      "textes": ["CMF L. 561-15 (V)"],
+      "chiffres_cles": ["31 241 euros les 20 février et 25 mai 2009", "18 000 euros les 20 juillet et 12 septembre 2009", "927 511 euros entre le 5 février 2009 et le 26 avril 2011", "1 dossier écarté"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Dans le périmètre ainsi réduit, le grief est établi. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "déclaration complémentaire",
+      "categories_secondaires": [],
+      "pages": [6, 7]
+    },
+    {
+      "numero": "1.3",
+      "titre": "154 547 euros de livres déclarés pendant le contrôle",
+      "resume": "Un client invoquant un commerce de vêtements avec l'Angleterre a vendu des livres à 20 reprises pour 154 547 euros entre avril 2010 et avril 2011. Une mention « DS 7/09/10 » figurait au registre, mais la déclaration n'est partie que le 21 juin 2011, pendant le contrôle. Que la plupart des opérations soient sous 8 000 euros n'allège rien.",
+      "textes": ["CMF L. 561-16"],
+      "chiffres_cles": ["20 ventes de livres pour 154 547 euros", "opérations de 10 665 et 12 626 euros marquées « DS 7/09/10 »", "déclaration le 21 juin 2011"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief de tardiveté de la DS est donc établi. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "déclaration tardive",
+      "categories_secondaires": [],
+      "pages": [7]
+    },
+    {
+      "numero": "2.1",
+      "titre": "161 000 euros changés en deux mois sans examen",
+      "resume": "Sur 19 dossiers poursuivis, 9 sont écartés : leurs opérations dataient d'avant le 4 septembre 2010, quand l'examen renforcé ne visait que les opérations de plus de 150 000 euros. Pour les 10 autres, des montants inhabituels en peu de temps (161 000 euros en 7 opérations sur deux mois, 79 396 euros en 6 opérations en cinq jours…) n'ont donné lieu qu'à la copie d'une pièce d'identité. Dans un dossier, une commande de travaux au nom d'un tiers pouvait laisser penser que le client n'agissait pas pour lui-même.",
+      "textes": ["CMF L. 561-10-2 (II)", "CMF L. 561-12", "CMF R. 561-22"],
+      "chiffres_cles": ["19 dossiers poursuivis, 9 écartés, 10 retenus", "161 000 euros en 7 opérations sur deux mois", "113 801 euros en 12 opérations en neuf mois", "79 396 euros en 6 opérations en cinq jours", "35 000 euros en une opération"],
+      "issue": "retenu en partie",
+      "precision_issue": "9 dossiers écartés (« le grief doit donc être écarté ») ; pour les 10 autres, « le grief est donc établi ».",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [7, 8]
+    },
+    {
+      "numero": "2.2",
+      "titre": "Des sociétés non vérifiées et des passeports périmés",
+      "resume": "L'établissement n'avait pas vérifié l'identité de cinq sociétés clientes habituelles ni de trois sociétés clientes occasionnelles au-delà de 8 000 euros ; pour deux autres, les extraits Kbis dataient du 17 juin 2011, pendant le contrôle. Ni la notoriété des clients ni l'ancienneté de la relation ne dispensent de la vérification. Pour six particuliers, les pièces produites devant la Commission sont vues comme une régularisation après coup. Quatre clients avaient présenté un passeport ou une carte de séjour expirés, parfois depuis des années.",
+      "textes": ["CMF L. 561-5", "CMF R. 561-5", "CMF R. 561-10"],
+      "chiffres_cles": ["5 sociétés en relation d'affaires non vérifiées", "2 extraits Kbis édités le 17 juin 2011", "3 sociétés clientes occasionnelles", "6 particuliers sans vérification justifiée", "4 pièces d'identité expirées"],
+      "issue": "retenu",
+      "precision_issue": "Personnes morales : « le grief […] est donc établi » ; personnes physiques et pièces expirées : « le grief est établi ».",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "identification et vérification d'identité (sociétés, documents périmés)",
+      "categories_secondaires": ["relation d'affaires et clients occasionnels"],
+      "pages": [8, 9, 10]
+    },
+    {
+      "numero": "2.3",
+      "titre": "Des clients habituels réduits à une pièce d'identité",
+      "resume": "Pour 42 clients habituels, la vigilance se limitait à vérifier l'identité. Les 20 dont toutes les opérations dataient d'avant le 4 septembre 2010 sont écartés ; le grief vaut pour les 22 autres. Pour deux clients, les rares informations notées n'étaient étayées par aucune pièce : l'une a vendu des dollars à 12 reprises pour 161 948 euros.",
+      "textes": ["CMF L. 561-6", "CMF R. 561-12", "CMF L. 561-8"],
+      "chiffres_cles": ["42 clients poursuivis, 20 écartés, 22 retenus", "12 ventes de dollars pour 161 948 euros"],
+      "issue": "retenu en partie",
+      "precision_issue": "« Dans ce périmètre réduit le grief est donc établi » ; deuxième partie « établi ».",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "objet et nature de la relation d'affaires",
+      "categories_secondaires": ["vigilance constante et mise à jour des dossiers"],
+      "pages": [10]
+    },
+    {
+      "numero": "2.4",
+      "titre": "Un chef d'État et des princesses traités comme tout le monde",
+      "resume": "L'établissement a fait des opérations avec des personnes politiquement exposées sans procédure pour les repérer, sans décision d'un dirigeant et sans rechercher l'origine des fonds : un chef d'État étranger (32 150 euros en trois fois, sa fonction figurant sur son passeport), un ambassadeur (46 575 euros) et cinq princesses étrangères (par exemple 79 790 euros en 7 opérations). La mise à jour informatique ultérieure est une régularisation.",
+      "textes": ["CMF L. 561-10 (2°)", "CMF R. 561-18", "CMF R. 561-20"],
+      "chiffres_cles": ["32 150 euros en 3 ventes de dollars (chef d'État)", "46 575 euros en 4 opérations (ambassadeur)", "5 princesses, dont 79 790 euros en 7 opérations"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est donc établi. »",
+      "categorie": "personnes politiquement exposées et vigilance renforcée",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [11]
+    },
+    {
+      "numero": "3",
+      "titre": "Des consignes écrites d'avant 2009",
+      "resume": "Les règles internes, réunies dans un classeur dans chaque agence, dataient d'avant la transposition de la troisième directive. Elles ne disaient rien des mesures à prendre à l'entrée en relation, de l'examen renforcé, de la conservation des documents, de la déclaration complémentaire ni de l'interdiction de prévenir le client d'une déclaration. L'argument selon lequel elles s'adressent « à des cambistes », pas à des juristes, est rejeté.",
+      "textes": ["CMF R. 561-38 (I, 4°)", "arrêté du 10 septembre 2009, art. 5"],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est donc établi. »",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "règles écrites internes",
+      "categories_secondaires": [],
+      "pages": [11, 12]
+    },
+    {
+      "numero": "4",
+      "titre": "Aucun contrôle interne",
+      "resume": "Aucun contrôle ne vérifiait que les procédures étaient appliquées et que les opérations suspectes étaient repérées. L'établissement ne le contestait pas.",
+      "textes": ["CMF R. 561-38 (I, 5°)", "arrêté du 10 septembre 2009, art. 5"],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "Grief non contesté ; la décision ne contient pas de phrase « établi » propre à ce grief, mais la conclusion le retient.",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "contrôle interne",
+      "categories_secondaires": [],
+      "pages": [12]
+    },
+    {
+      "numero": "5",
+      "titre": "Un questionnaire en retard, coché « oui » à tort",
+      "resume": "Les tableaux annuels sur le dispositif anti-blanchiment ont été remis le 18 octobre 2011 au lieu du 2 septembre 2011. L'établissement y répondait « oui » à des questions sur la détection, l'identification, le contrôle interne et les règles écrites, alors que le contrôle montrait le contraire, par exemple en affirmant déclarer à Tracfin alors qu'il n'avait rien déclaré entre janvier 2009 et mai 2011.",
+      "textes": ["instruction ACP n° 2011-I-04"],
+      "chiffres_cles": ["tableaux remis le 18 octobre 2011 au lieu du 2 septembre 2011"],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi. »",
+      "categorie": "autre (à préciser)",
+      "categorie_precision": "informations inexactes ou tardives transmises au superviseur (questionnaire LCB-FT annuel)",
+      "categories_secondaires": [],
+      "pages": [12, 13]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {"texte": "L'établissement a « gravement manqué » à ses obligations, notamment pour de nombreuses opérations de montants élevés ; identification déficiente ; pratiques non mises à niveau après la troisième directive.", "pages": [13]},
+      {"texte": "Les changeurs manuels sont « particulièrement exposés » au blanchiment et doivent rechercher les motifs des opérations de montant inhabituellement élevé.", "pages": [5]}
+    ],
+    "elements_attenuants": [
+      {"texte": "Mise à niveau engagée, en même temps que la réimplantation des agences parisiennes ; l'établissement dit refuser désormais les gros changes sans s'inquiéter de l'origine et de la destination des fonds.", "pages": [13]},
+      {"texte": "Une partie des faits, antérieure à l'entrée en vigueur des nouvelles obligations, est écartée.", "pages": [7, 8, 10]}
+    ],
+    "mesures_correctrices": [
+      {"texte": "Manuel de conformité, mise à jour informatique pour repérer les personnes politiquement exposées, recours prévu chaque année à des professionnels de la réglementation.", "pages": [11, 12, 13]}
+    ],
+    "situation_financiere": {"texte": "Non précisé dans la décision, au-delà des « moyens modestes » invoqués par l'établissement.", "pages": [1]},
+    "cause_profonde": {"texte": "Non précisé. La décision relève que les pratiques et procédures n'avaient pas été mises à niveau après la transposition de la troisième directive.", "pages": [13]}
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Quand un guichetier signale une opération (« DS » en marge, projet de déclaration), quelqu'un décide-t-il par écrit de déclarer ou non, dans un délai fixé ?",
+      "Le nombre de déclarations à Tracfin est-il suivi ? Une longue période sans aucune déclaration est-elle un signal d'alerte ?",
+      "Les clients déjà déclarés sont-ils repérés quand ils reviennent ?",
+      "Pour une société cliente, a-t-on un extrait d'immatriculation récent et l'identité de la personne qui agit pour elle ?",
+      "La date de validité des pièces d'identité est-elle contrôlée avant l'opération ?",
+      "Les clients sont-ils comparés à une liste de personnes politiquement exposées, et la mention d'une fonction sur un passeport déclenche-t-elle une vigilance renforcée ?",
+      "Les réponses au questionnaire annuel du superviseur sont-elles relues et vérifiées avant d'être envoyées ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": ["changeur manuel", "Paris", "registre Tracfin", "projets de déclaration non envoyés", "déclaration complémentaire", "application dans le temps", "4 septembre 2010", "personnes politiquement exposées", "pièces d'identité périmées", "questionnaire annuel"],
+    "pages_prioritaires": [
+      {"pages": [3, 4], "pourquoi": "l'application des règles de 2009 dans le temps"},
+      {"pages": [5, 6], "pourquoi": "les mentions « DS » restées sans déclaration"},
+      {"pages": [11], "pourquoi": "les personnes politiquement exposées"}
+    ],
+    "confiance": "moyenne",
+    "a_verifier": [
+      "La décision n'est pas numérotée en griefs 1 à N : la fiche reprend sa propre numérotation par parties (1.1 à 5).",
+      "Grief 4 : pas de phrase de conclusion propre ; classé « retenu » (non contesté, repris dans la conclusion générale).",
+      "Le rapporteur proposait de relativiser plusieurs parties (identité de 4 personnes, personnes politiquement exposées) ; la Commission retient pourtant les griefs 2.2 et 2.4 en entier.",
+      "Je n'ai repris ni les nationalités, ni les professions alléguées, ni l'identité ou le pays des personnes politiquement exposées."
+    ]
+  },
+  "redaction": {"redigee_par": "Claude (Opus 5.5), à partir du texte extrait du PDF officiel", "date": "2026-11-14", "relue_par_mateo": false}
+}

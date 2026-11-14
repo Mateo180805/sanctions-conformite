@@ -1,0 +1,745 @@
+{
+  "id": "ACPR-2013-01",
+  "version_grille": 1,
+  "suivi": {
+    "statut": "à lire",
+    "mes_notes": ""
+  },
+  "perimetre": "LCB-FT et gel des avoirs",
+  "resume_court": "La Caisse d'épargne du Languedoc-Roussillon est une grande banque régionale du groupe BPCE, avec 183 agences et 1,2 million de clients. Le contrôle de 2011-2012 porte sur la façon dont elle repère et traite les opérations suspectes. Son outil a produit 60 476 alertes en 2011, classées sans suite à 98 %, souvent par les agences sans rien demander au client. Un peu moins de 2 % remontaient au service anti-blanchiment, où un seul agent les examinait. Résultat : des livrets d'enfants alimentés en espèces ou par les chèques d'un parent, des artisans retirant des dizaines de milliers d'euros en liquide, sans déclaration à Tracfin, ou avec des déclarations envoyées plus d'un an après les premières opérations. La Caisse plaidait que le dispositif était celui de BPCE : la Commission répond que chaque établissement doit adapter les outils du groupe à ses propres risques. Elle rejette toutes les questions de procédure, retient 23 des 28 griefs et sous-griefs, dont 7 en partie, et prononce un blâme et 1 million d'euros, contre 2 millions demandés.",
+  "identite": {
+    "etablissement": "Caisse d'épargne et de prévoyance du Languedoc-Roussillon",
+    "type_etablissement": "banque",
+    "precision_type": "Banque coopérative régionale (société coopérative à directoire et conseil de surveillance), issue de la fusion de 8 caisses d'épargne, affiliée à l'organe central BPCE. 183 agences et 2 centres d'affaires (Montpellier et Perpignan) ; banque de détail et banque de développement régional pour les entreprises de plus de 1,5 million d'euros de chiffre d'affaires, surtout des PME et des collectivités.",
+    "groupe": "groupe BPCE (organe central)",
+    "pays": "France",
+    "activite_et_taille": "1,2 million de clients en juin 2012. Produit net bancaire de 272,4 millions d'euros et résultat net de 35,2 millions d'euros en 2012.",
+    "pages": [
+      3,
+      22,
+      23
+    ]
+  },
+  "controle": {
+    "controle_sur_place": "du 28 septembre 2011 au 19 janvier 2012",
+    "rapport_de_controle": "rapport définitif du 10 août 2012",
+    "ouverture_de_la_procedure": "décidée par le Collège de l'ACP (sous-collège banque) le 17 décembre 2012 ; notification des griefs du 15 janvier 2013",
+    "antecedents": "non précisé",
+    "pages": [
+      1,
+      3
+    ]
+  },
+  "sanction": {
+    "nature": [
+      "blâme",
+      "sanction pécuniaire"
+    ],
+    "montant_euros": 1000000,
+    "publication": "nominative",
+    "duree_publication_nominative": "non précisée : la décision ordonne une publication au registre de l'ACPR, sans limite de durée ; la demande de publication anonyme est rejetée",
+    "proposition_du_college": "blâme et sanction pécuniaire de 2 millions d'euros, publication nominative",
+    "pages": [
+      2,
+      23
+    ]
+  },
+  "procedure": {
+    "questions_de_procedure": "La Caisse demandait de poser une question à la Cour de justice de l'Union européenne sur le droit, pendant un contrôle sur place, d'être informé de pouvoir se faire assister d'un avocat et de garder le silence. Refusé : la Commission peut être une « juridiction » au sens du droit européen, mais ses décisions sont susceptibles de recours devant le Conseil d'État, et le contrôle de l'ACPR n'est pas une enquête de police (pas de coercition, locaux professionnels seulement). Les droits de la défense ne s'appliquent pleinement qu'à partir de la notification des griefs ; avant, il faut seulement qu'il n'y ait pas d'atteinte « irrémédiable ». Exceptions de nullité (charte de contrôle non respectée, réponse non transmise au Collège, rapport non signé) écartées : la charte est purement informative. Sur le fond, être affilié à BPCE ne dispense pas la Caisse de ses obligations propres, et l'absence de détection d'une opération atypique est en soi un manquement. Audience non publique le 4 novembre 2013. Le rapporteur proposait d'écarter les griefs 2.4 et 3 et de retenir les griefs 12 et 19 ; la Commission décide l'inverse sur ces points.",
+    "pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "La classification du groupe, sans adaptation locale",
+      "resume": "La Caisse s'en tenait à la classification des risques définie par son organe central, BPCE, sans l'adapter à sa région ni compléter la liste des professions à risque. Une classification faite seulement au niveau central n'est pertinente que si tous les établissements affiliés courent les mêmes risques. En revanche, il n'est pas établi que cela ait fait manquer des opérations atypiques.",
+      "textes": [
+        "CMF R. 561-38 (I, 2°)",
+        "règlement n° 97-02, art. 11-7"
+      ],
+      "chiffres_cles": [],
+      "issue": "retenu en partie",
+      "precision_issue": "« Dans ce périmètre réduit, le grief 1 est établi. »",
+      "categorie": "classification des risques",
+      "categorie_precision": "outil du groupe non adapté localement",
+      "categories_secondaires": [
+        "dispositif de groupe, filiales et correspondance bancaire"
+      ],
+      "pages": [
+        8,
+        9
+      ]
+    },
+    {
+      "numero": "2.1",
+      "titre": "Trop d'alertes, mais pas de faute pour autant",
+      "resume": "L'outil a produit 39 200 alertes en 2010 (dont 38 416 classées sans suite) et 60 476 en 2011, classées sans suite à 98 %. Un grand nombre d'alertes ne suffit pas à prouver un mauvais paramétrage, tant qu'on ne reproche pas d'opérations non détectées ; il faut alors les moyens de toutes les traiter (grief 3.4).",
+      "textes": [
+        "règlement n° 97-02, art. 11-7 (2.2)"
+      ],
+      "chiffres_cles": [
+        "39 200 alertes en 2010, dont 38 416 classées « clos RAS AG »",
+        "60 476 alertes en 2011",
+        "98 % classées sans suite en 2010 et 2011"
+      ],
+      "issue": "écarté",
+      "precision_issue": "« Le grief 2.1 doit donc être écarté. »",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "volume d'alertes",
+      "categories_secondaires": [],
+      "pages": [
+        9
+      ]
+    },
+    {
+      "numero": "2.2",
+      "titre": "Pas de deuxième alerte pour un client déjà signalé",
+      "resume": "Tant que le cumul des opérations atypiques d'un client n'était pas redescendu sous le seuil de la première alerte, aucune nouvelle alerte ne se déclenchait : d'autres opérations pouvaient passer sans que le conseiller le sache. Que l'outil soit conçu par BPCE ne décharge pas la Caisse.",
+      "textes": [
+        "règlement n° 97-02, art. 11-7 (2.2)"
+      ],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 2.2 n'en est pas moins établi. »",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "règle de redéclenchement des alertes",
+      "categories_secondaires": [],
+      "pages": [
+        10
+      ]
+    },
+    {
+      "numero": "2.3",
+      "titre": "Deux catégories de clients seulement",
+      "resume": "Le paramétrage ne distinguait que « particuliers » et « professionnels et entreprises », sans tenir compte des professions qui manient beaucoup d'espèces. C'est contraire à l'approche par les risques, même si l'effet sur les alertes n'est pas démontré.",
+      "textes": [
+        "règlement n° 97-02, art. 11-7 (2.2)"
+      ],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 2.3 est établi mais doit être relativisé. »",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "segmentation trop grossière de la clientèle",
+      "categories_secondaires": [],
+      "pages": [
+        10
+      ]
+    },
+    {
+      "numero": "2.4",
+      "titre": "Un seuil unique de 30 000 € pour les chèques",
+      "resume": "Tout chèque de plus de 30 000 € déclenchait une alerte, sans adaptation au type de client, à l'émetteur ou au cumul. Le rapporteur proposait d'écarter ce grief ; la Commission le retient en le relativisant.",
+      "textes": [
+        "règlement n° 97-02, art. 11-7 (2.2)"
+      ],
+      "chiffres_cles": [
+        "seuil de 30 000 € par chèque"
+      ],
+      "issue": "retenu",
+      "precision_issue": "« Celui-ci n'en est pas moins établi » ; relativisé.",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "seuil fixe sur les chèques",
+      "categories_secondaires": [],
+      "pages": [
+        10,
+        11
+      ]
+    },
+    {
+      "numero": "2.5",
+      "titre": "Le score de risque des clients non utilisé",
+      "resume": "Les alertes ne tenaient pas compte du score vert-orange-rouge du client : des clients « rouges » étaient moins surveillés qu'ils auraient dû l'être. La nouvelle version de l'outil, en service le 5 décembre 2011, a corrigé ce point : le manquement ne vaut que du 28 septembre au 4 décembre 2011.",
+      "textes": [
+        "règlement n° 97-02, art. 11-7 (2.2)"
+      ],
+      "chiffres_cles": [
+        "nouvelle version en service le 5 décembre 2011",
+        "manquement limité du 28 septembre au 4 décembre 2011"
+      ],
+      "issue": "retenu",
+      "precision_issue": "« Dans cette période de temps très limitée, et ainsi relativisé, le grief 2.5 est établi. »",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "profil de risque du client non pris en compte",
+      "categories_secondaires": [
+        "classification des risques"
+      ],
+      "pages": [
+        11
+      ]
+    },
+    {
+      "numero": "3.1",
+      "titre": "Une procédure de traitement des alertes, même éparse",
+      "resume": "Il était reproché l'absence de procédure de traitement des alertes. La Caisse a montré plusieurs documents (guide de bonnes pratiques de mai 2011, communiqué de décembre 2009) : même épars et imparfaits, ils existent, et aucun texte n'impose un document unique.",
+      "textes": [
+        "CMF R. 561-38 (I, 4°)",
+        "règlement n° 97-02, art. 11-7 (5)"
+      ],
+      "chiffres_cles": [
+        "guide de bonnes pratiques de mai 2011",
+        "communiqué du 7 décembre 2009"
+      ],
+      "issue": "écarté",
+      "precision_issue": "« Le grief 3.1, tel que formulé dans la notification de griefs, doit être écarté. »",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "procédure de traitement des alertes",
+      "categories_secondaires": [],
+      "pages": [
+        12
+      ]
+    },
+    {
+      "numero": "3.2",
+      "titre": "Des agences qui ne demandent rien au client",
+      "resume": "Quand une alerte ne pouvait être traitée avec le dossier, l'agence ne demandait des justificatifs au client que si le service anti-blanchiment le lui demandait. La très grande majorité des alertes était donc close sans aucune pièce. Aucune procédure n'obligeait les agences à réunir d'elles-mêmes les informations : un « manquement sérieux ».",
+      "textes": [
+        "CMF R. 561-38 (I, 4°)",
+        "règlement n° 97-02, art. 11-7 (2.2)"
+      ],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 3.2 est donc établi. »",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "alertes closes sans recueil de justificatifs",
+      "categories_secondaires": [],
+      "pages": [
+        12,
+        13
+      ]
+    },
+    {
+      "numero": "3.3",
+      "titre": "La qualité du traitement des alertes",
+      "resume": "Commentaires succincts ou absents dans des alertes liées à des déclarations de 2010 et 2011. Un échantillon de dossiers ayant donné lieu à une déclaration ne suffit pas à démontrer l'inadaptation des procédures.",
+      "textes": [
+        "CMF R. 561-38 (I, 4°)"
+      ],
+      "chiffres_cles": [],
+      "issue": "écarté",
+      "precision_issue": "« Le grief 3.3, tel que formulé, doit être écarté. »",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [
+        13
+      ]
+    },
+    {
+      "numero": "3.4",
+      "titre": "2 % des alertes remontées, sans contrôle des classements",
+      "resume": "En 2011, 1 142 alertes sur 60 476, un peu moins de 2 %, ont été transmises au service anti-blanchiment, où un seul agent les examinait. Certains classements montraient l'absence d'analyse (« motif inconnu mais tout est possible, pas de doute »). Le grief vaut pour l'absence de contrôle des classements faits en agence ; les effectifs du service suffisaient pour les alertes qu'il recevait.",
+      "textes": [
+        "règlement n° 97-02, art. 11-7 (2.3)"
+      ],
+      "chiffres_cles": [
+        "1 142 alertes transmises sur 60 476 en 2011",
+        "un seul agent pour l'examen des alertes"
+      ],
+      "issue": "retenu en partie",
+      "precision_issue": "« Dans ce périmètre réduit, le grief 3.4 est établi. »",
+      "categorie": "gouvernance, moyens et formation",
+      "categorie_precision": "moyens d'analyse des alertes ; contrôle des classements en agence",
+      "categories_secondaires": [
+        "analyse des alertes et examen renforcé"
+      ],
+      "pages": [
+        13,
+        14
+      ]
+    },
+    {
+      "numero": "4",
+      "titre": "Des livrets d'enfants alimentés en espèces",
+      "resume": "Deux livrets A d'enfants mineurs ont enregistré de nombreux versements et retraits d'espèces : sur le premier, 55 100 € versés et 46 200 € retirés ; sur le second, 12 000 € versés et 17 000 € retirés, souvent aux mêmes dates. Les alertes ont été closes avec des explications incohérentes (« origine salaire » pour un versement d'espèces de 10 000 €). La situation bancaire de la mère n'explique ni l'origine des espèces ni l'usage de comptes de mineurs.",
+      "textes": [
+        "CMF L. 561-15"
+      ],
+      "chiffres_cles": [
+        "55 100 € versés et 46 200 € retirés sur le premier livret",
+        "12 000 € versés et 17 000 € retirés sur le second"
+      ],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 4 est établi. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "comptes de mineurs",
+      "categories_secondaires": [
+        "analyse des alertes et examen renforcé"
+      ],
+      "pages": [
+        15
+      ]
+    },
+    {
+      "numero": "5",
+      "titre": "Des chèques du père encaissés sur les livrets des enfants",
+      "resume": "Deux livrets A de mineurs ont reçu des chèques venant des comptes personnel et professionnel de leur père (102 000 € et 123 000 €), aussitôt retirés en espèces (62 200 € et 121 000 €). Des fonds passant d'un compte professionnel au compte d'un mineur sont « nécessairement suspects » ; que les chèques viennent d'une autre banque n'exonère pas la Caisse, la seule à voir l'ensemble. Un échange informel avec Tracfin ne remplace pas la déclaration. La notification parlait à tort de dépôts d'espèces.",
+      "textes": [
+        "CMF L. 561-15"
+      ],
+      "chiffres_cles": [
+        "102 000 € de chèques et 80 retraits d'espèces pour 62 200 €",
+        "123 000 € de chèques et 121 000 € de retraits d'espèces"
+      ],
+      "issue": "retenu en partie",
+      "precision_issue": "« Dans le périmètre réduit par l'abandon du reproche relatif aux dépôts d'espèces, le grief est établi. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "comptes de mineurs",
+      "categories_secondaires": [],
+      "pages": [
+        15,
+        16
+      ]
+    },
+    {
+      "numero": "6",
+      "titre": "Les chèques d'un artisan sur le livret de son enfant",
+      "resume": "Le livret A d'un mineur a reçu 26 400 € de chèques, beaucoup à l'ordre du père, artisan, retirés en espèces pour le même montant. Ce fonctionnement s'écartait de celui d'un compte de mineur.",
+      "textes": [
+        "CMF L. 561-15"
+      ],
+      "chiffres_cles": [
+        "26 400 € de chèques remis et de retraits d'espèces"
+      ],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "comptes de mineurs",
+      "categories_secondaires": [],
+      "pages": [
+        16
+      ]
+    },
+    {
+      "numero": "7",
+      "titre": "Des espèces « pour payer des matériaux en Espagne »",
+      "resume": "Un maçon a retiré 67 200 € en espèces en un an, justifiés par des achats de matériaux en Espagne. Ses chèques correspondaient à peu près à son chiffre d'affaires, mais rien n'imposait de payer en espèces en Espagne, et l'explication n'avait pas été vérifiée. Des paiements en espèces peuvent révéler une fraude fiscale.",
+      "textes": [
+        "CMF L. 561-15 (II)",
+        "CMF D. 561-32-1 (8°)"
+      ],
+      "chiffres_cles": [
+        "67 200 € de retraits d'espèces du 1er juillet 2010 au 30 juin 2011",
+        "35 050 € en 2010 et 59 419 € en 2011"
+      ],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "retraits d'espèces sur un compte professionnel",
+      "categories_secondaires": [],
+      "pages": [
+        16,
+        17
+      ]
+    },
+    {
+      "numero": "8",
+      "titre": "93 400 € retirés en espèces par un maçon",
+      "resume": "Un autre maçon a retiré 93 400 € en espèces en un an, sans pièce justificative. Attendre les comptes de l'exercice 2011 ne justifiait pas de déclarer seulement le 21 septembre 2012.",
+      "textes": [
+        "CMF L. 561-15"
+      ],
+      "chiffres_cles": [
+        "93 400 € de retraits d'espèces",
+        "déclaration le 21 septembre 2012"
+      ],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [
+        17
+      ]
+    },
+    {
+      "numero": "9",
+      "titre": "Un salarié qui se fait des chèques à lui-même",
+      "resume": "Un mécanicien gagnant environ 1 400 € net remettait des chèques dont il était à la fois bénéficiaire et tireur, aussitôt retirés en espèces (28 000 € de retraits), avec des comptes dans au moins trois banques. La Caisse s'était contentée d'explications orales.",
+      "textes": [
+        "CMF L. 561-15"
+      ],
+      "chiffres_cles": [
+        "chèques remis et émis pour 51 200 €",
+        "28 000 € de retraits d'espèces",
+        "revenu d'environ 1 400 € net",
+        "virement familial de 15 000 €"
+      ],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [
+        17
+      ]
+    },
+    {
+      "numero": "10",
+      "titre": "Des retraits deux fois supérieurs aux dépenses déclarées",
+      "resume": "Une entreprise artisanale du bâtiment déclarant 60 000 € de chiffre d'affaires en 2010 a fait passer 336 400 € de chèques et retiré 68 700 € en espèces, « plus du double » de ses achats et salaires. La déclaration n'a été faite que le 25 octobre 2012.",
+      "textes": [
+        "CMF L. 561-15"
+      ],
+      "chiffres_cles": [
+        "chèques pour 336 400 €",
+        "68 700 € de retraits d'espèces",
+        "chiffre d'affaires de 60 000 € en 2010",
+        "achats et salaires : 31 300 €",
+        "déclaration le 25 octobre 2012"
+      ],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [
+        17,
+        18
+      ]
+    },
+    {
+      "numero": "11",
+      "titre": "Un retrait de 30 000 € non justifié",
+      "resume": "Pour un autre maçon, les chèques semblaient cohérents avec l'activité, mais pas les 51 400 € de retraits d'espèces, dont 30 000 € en janvier 2010 attribués à l'achat d'un véhicule sans justificatif. Le compte n'a été placé en vigilance renforcée qu'après le contrôle.",
+      "textes": [
+        "CMF L. 561-15"
+      ],
+      "chiffres_cles": [
+        "51 400 € de retraits d'espèces",
+        "retrait de 30 000 € en janvier 2010"
+      ],
+      "issue": "retenu en partie",
+      "precision_issue": "« Dans le périmètre réduit aux retraits d'espèces, le grief est établi. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [
+        18
+      ]
+    },
+    {
+      "numero": "12",
+      "titre": "Une cliente peut-être vulnérable",
+      "resume": "Le compte d'une cliente a enregistré 48 500 € de retraits d'espèces entre avril et août 2011. La Caisse soupçonnait que la cliente était sous influence et avait fait un signalement en 2009 ; les fonds venaient d'un autre compte de la cliente. Rien ne laissait soupçonner une origine illicite.",
+      "textes": [
+        "CMF L. 561-10-2 (II)"
+      ],
+      "chiffres_cles": [
+        "48 500 € de retraits d'espèces entre avril et août 2011"
+      ],
+      "issue": "écarté",
+      "precision_issue": "« Le grief doit en conséquence être écarté. »",
+      "categorie": "analyse des alertes et examen renforcé",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [
+        18
+      ]
+    },
+    {
+      "numero": "13",
+      "titre": "Une déclaration plus d'un an après les premiers retraits",
+      "resume": "Un entrepreneur du bâtiment a retiré 105 100 € en espèces entre février 2009 et février 2011 ; déclaration le 8 mars 2011. Le grief est limité aux retraits postérieurs au décret de juillet 2009 sur la fraude fiscale. Tout retard doit être justifié par les diligences faites pour passer « du doute au soupçon ».",
+      "textes": [
+        "CMF L. 561-15",
+        "CMF D. 561-32-1"
+      ],
+      "chiffres_cles": [
+        "28 retraits d'espèces pour 105 100 €",
+        "déclaration le 8 mars 2011"
+      ],
+      "issue": "retenu en partie",
+      "precision_issue": "« Dans le périmètre réduit à ces mouvements d'espèces, le grief est établi. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "déclaration tardive",
+      "categories_secondaires": [],
+      "pages": [
+        19
+      ]
+    },
+    {
+      "numero": "14",
+      "titre": "150 000 € de chèques et 67 000 € d'espèces en 24 mois",
+      "resume": "Une cliente a reçu en 24 mois 150 000 € de chèques et 67 000 € d'espèces. La Caisse soupçonnait une fraude fiscale mais n'a déclaré que le 10 février 2011 ; les versements de 2009 postérieurs au décret auraient dû l'être.",
+      "textes": [
+        "CMF L. 561-15 (II)",
+        "CMF D. 561-32-1 (15°)"
+      ],
+      "chiffres_cles": [
+        "150 000 € par chèques et 67 000 € en espèces sur 24 mois",
+        "déclaration le 10 février 2011"
+      ],
+      "issue": "retenu en partie",
+      "precision_issue": "« Dans ce périmètre réduit, le grief est établi. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "déclaration tardive",
+      "categories_secondaires": [],
+      "pages": [
+        19,
+        20
+      ]
+    },
+    {
+      "numero": "15",
+      "titre": "Plus de 55 000 € de chèques pour une retraitée",
+      "resume": "Une veuve retraitée à faibles revenus a encaissé plus de 55 000 € de chèques entre juillet 2010 et septembre 2011 ; la Caisse soupçonnait une fraude sociale et fiscale mais n'a déclaré que le 8 septembre 2011.",
+      "textes": [
+        "CMF L. 561-15"
+      ],
+      "chiffres_cles": [
+        "plus de 55 000 € de chèques",
+        "déclaration le 8 septembre 2011"
+      ],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "déclaration tardive",
+      "categories_secondaires": [],
+      "pages": [
+        20
+      ]
+    },
+    {
+      "numero": "16",
+      "titre": "20 000 € d'espèces pour une retraite de 900 €",
+      "resume": "Un retraité touchant 900 € par mois a déposé 20 000 € d'espèces en 2009 et en 2010 ; déclaration le 9 février 2011. Le grief est limité aux versements de 2010.",
+      "textes": [
+        "CMF L. 561-15"
+      ],
+      "chiffres_cles": [
+        "dépôts d'espèces de 20 000 € en 2009 et en 2010",
+        "retraite de 900 € par mois",
+        "déclaration le 9 février 2011"
+      ],
+      "issue": "retenu en partie",
+      "precision_issue": "« Limité aux versements effectués en 2010, le grief est établi. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "déclaration tardive",
+      "categories_secondaires": [],
+      "pages": [
+        20
+      ]
+    },
+    {
+      "numero": "17",
+      "titre": "50 versements d'espèces en quatre mois",
+      "resume": "Un commerçant a fait 50 versements d'espèces sur son compte personnel entre le 1er janvier et le 10 mai 2011, pour 29 420 € ; le service anti-blanchiment soupçonnait une fraude fiscale, mais la déclaration n'est partie que le 12 mai 2011.",
+      "textes": [
+        "CMF L. 561-15"
+      ],
+      "chiffres_cles": [
+        "50 versements d'espèces pour 29 420 €",
+        "déclaration le 12 mai 2011"
+      ],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "déclaration tardive",
+      "categories_secondaires": [],
+      "pages": [
+        20
+      ]
+    },
+    {
+      "numero": "18",
+      "titre": "Trois agences sans contrôle permanent",
+      "resume": "Sur 31 agences choisies parce que mal notées par l'audit, 3 n'avaient pas fait les contrôles prévus par l'outil de pilotage du groupe. La maladie de deux responsables explique la carence sans exonérer la Caisse.",
+      "textes": [
+        "CMF R. 561-38 (I, 5°)"
+      ],
+      "chiffres_cles": [
+        "3 agences sur 31"
+      ],
+      "issue": "retenu",
+      "precision_issue": "« Le grief […] est établi, même s'il porte, dans deux de ces agences, sur une période de temps très limitée. »",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "contrôle permanent de premier niveau",
+      "categories_secondaires": [],
+      "pages": [
+        21
+      ]
+    },
+    {
+      "numero": "19",
+      "titre": "Les preuves des contrôles en agence",
+      "resume": "Il était reproché aux responsables d'agence de ne pas garder de dossier justifiant leurs contrôles. La procédure interne n'imposait pas d'archiver les pièces examinées, et les contrôles restaient vérifiables dans les outils. Le rapporteur proposait de retenir ce grief.",
+      "textes": [
+        "CMF R. 561-38 (I, 5°)"
+      ],
+      "chiffres_cles": [],
+      "issue": "écarté",
+      "precision_issue": "« Le grief doit être écarté. »",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "traces du contrôle de premier niveau",
+      "categories_secondaires": [],
+      "pages": [
+        21
+      ]
+    },
+    {
+      "numero": "20",
+      "titre": "Des contrôles déclaratifs sur des échantillons choisis par l'agence",
+      "resume": "Le contrôle de second niveau reposait sur les déclarations des responsables d'agence, sur des échantillons qu'ils choisissaient eux-mêmes, ce qui introduit un biais, et rien ne contrôlait les alertes traitées par le responsable lui-même. Une procédure de groupe n'exonère pas la Caisse.",
+      "textes": [
+        "CMF R. 561-38 (I, 5°)"
+      ],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi. »",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "contrôle de second niveau déclaratif",
+      "categories_secondaires": [],
+      "pages": [
+        21,
+        22
+      ]
+    },
+    {
+      "numero": "21",
+      "titre": "Un contrôle des alertes superficiel",
+      "resume": "Vu le volume d'alertes, leur traitement par les agences n'était contrôlé que sur un échantillon réduit, de façon formelle et peu approfondie. Les faits recoupent le grief 3.4, mais la qualification n'est pas la même.",
+      "textes": [
+        "règlement n° 97-02, art. 6 (a)"
+      ],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi. »",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "contrôle de second niveau du traitement des alertes",
+      "categories_secondaires": [
+        "gouvernance, moyens et formation"
+      ],
+      "pages": [
+        22
+      ]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {
+        "texte": "Les carences d'organisation ont entraîné de nombreux défauts de déclaration et des déclarations tardives ; le contrôle permanent présentait des insuffisances à ses deux niveaux.",
+        "pages": [
+          22,
+          23
+        ]
+      }
+    ],
+    "elements_attenuants": [
+      {
+        "texte": "Les manquements dans les dossiers individuels « ne portent pas sur des montants particulièrement élevés » ; plusieurs griefs écartés ou réduits.",
+        "pages": [
+          22,
+          23
+        ]
+      }
+    ],
+    "mesures_correctrices": [
+      {
+        "texte": "Nouvelle version de l'outil de détection tenant compte du score de risque des clients (5 décembre 2011) ; commentaires des alertes encadrés par menus déroulants depuis mai 2012 ; déclarations faites après le contrôle.",
+        "pages": [
+          11,
+          12,
+          15,
+          17,
+          18
+        ]
+      }
+    ],
+    "situation_financiere": {
+      "texte": "Produit net bancaire de 272,4 millions d'euros et résultat net de 35,2 millions d'euros en 2012 ; la Commission tient compte de cette « assise financière ».",
+      "pages": [
+        23
+      ]
+    },
+    "cause_profonde": {
+      "texte": "Selon la décision, des carences d'organisation : outils du groupe non adaptés, absence de procédure obligeant les agences à analyser les alertes, moyens d'analyse insuffisants.",
+      "pages": [
+        22,
+        23
+      ]
+    }
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "La classification des risques et la liste des professions à risque du groupe ont-elles été adaptées à la clientèle locale, avec une trace écrite ?",
+      "Une nouvelle opération atypique d'un client déjà en alerte déclenche-t-elle une nouvelle alerte ?",
+      "Les seuils d'alerte tiennent-ils compte du profil de risque du client et de son activité ?",
+      "Les agences doivent-elles demander des justificatifs avant de clore une alerte, sans attendre le service anti-blanchiment ?",
+      "Les classements sans suite faits en agence sont-ils contrôlés, et pas seulement les alertes remontées ?",
+      "Les comptes de mineurs sont-ils surveillés pour les dépôts d'espèces et les chèques de tiers ?",
+      "Le délai entre le premier soupçon et la déclaration est-il suivi et justifié par écrit ?",
+      "Les échantillons du contrôle de second niveau sont-ils choisis par le contrôleur, et non par l'agence contrôlée ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": [
+      "Caisse d'épargne",
+      "BPCE",
+      "organe central",
+      "outil du groupe",
+      "volume d'alertes",
+      "classement sans suite",
+      "comptes de mineurs",
+      "artisans du bâtiment",
+      "espèces",
+      "fraude fiscale",
+      "déclaration tardive",
+      "contrôle de second niveau",
+      "question préjudicielle",
+      "droit de garder le silence"
+    ],
+    "pages_prioritaires": [
+      {
+        "pages": [
+          3,
+          4,
+          5
+        ],
+        "pourquoi": "la question à la Cour de justice et les droits pendant un contrôle"
+      },
+      {
+        "pages": [
+          7,
+          8
+        ],
+        "pourquoi": "la responsabilité propre d'un établissement affilié à un organe central"
+      },
+      {
+        "pages": [
+          13,
+          14
+        ],
+        "pourquoi": "2 % des alertes remontées et les moyens d'analyse"
+      },
+      {
+        "pages": [
+          15,
+          16
+        ],
+        "pourquoi": "les comptes de mineurs"
+      }
+    ],
+    "confiance": "moyenne",
+    "a_verifier": [
+      "La décision numérote 21 griefs, dont deux découpés en sous-griefs (2.1 à 2.5, 3.1 à 3.4) sur lesquels la Commission statue un par un : la fiche compte 28 entrées.",
+      "Griefs 2.3, 2.4 et 2.5 « établis » mais « relativisés » : classés « retenu » selon la règle du projet.",
+      "D'après le recueil de l'ACPR, le recours de la Caisse a été rejeté par le Conseil d'État le 20 janvier 2016 (arrêt non lu).",
+      "Je n'ai repris ni les noms des agences, ni la situation bancaire personnelle d'une mère de famille (grief 4), ni les détails sur la vulnérabilité de la cliente du grief 12."
+    ]
+  },
+  "redaction": {
+    "redigee_par": "Claude (Opus 5.5), à partir du texte extrait du PDF officiel",
+    "date": "2026-11-14",
+    "relue_par_mateo": false
+  }
+}

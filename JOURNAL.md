@@ -1,6 +1,6 @@
 # JOURNAL – Sanctions Conformité
 
-Journal de bord du projet, version courte (allégée le 13 novembre 2026 pour économiser le quota ; mise à jour au lot 12).
+Journal de bord du projet, version courte (allégée le 13 novembre 2026 pour économiser le quota ; mise à jour au lot 13).
 À redonner à Claude au début de chaque session, avec PROJET.md.
 Le détail lot par lot est dans `JOURNAL-ARCHIVE.md` : ne pas le relire au début d'une session, seulement au besoin.
 
@@ -20,7 +20,8 @@ Dépôt : https://github.com/Mateo180805/sanctions-conformite (public)
 - [x] Lot 10 (13 novembre, Opus 5.5) : 2016-06, 2016-05, 2016-01, 2016-03, 2015-08. **49 fiches.**
 - [x] Lot 11 (13 novembre, Opus 5.5) : 2015-10, 2015-07, 2015-06, 2014-10, 2014-07. **54 fiches.**
 - [x] Lot 12 (14 novembre, Opus 5.5) : 2014-08, 2015-01, 2013-06, 2014-06, 2012-08. **59 fiches.**
-- [ ] Plus tard : les 8 décisions restantes LCB-FT de l'ACPR antérieures à 2019, les 44 fiches courtes « hors LCB-FT », des fiches AMF (en commençant par les 28 signalées blanchiment), puis CSSF et FINMA.
+- [x] Lot 13 (14 novembre, Opus 5.5) : 2013-01, 2012-05, 2012-04, 2011-03. **63 fiches.** 2011-02 reportée (54 griefs).
+- [ ] Plus tard : les 4 décisions restantes LCB-FT de l'ACPR antérieures à 2019, les 44 fiches courtes « hors LCB-FT », des fiches AMF (en commençant par les 28 signalées blanchiment), puis CSSF et FINMA.
 
 Les 31 fiches : 2024-06, 2024-02, 2024-01, 2023-01, 2022-07, 2022-06, 2022-05, 2022-04, 2022-03, 2022-02, 2022-01, 2021-05, 2021-01, 2020-11, 2020-09 (nominatives) ; 2020-08, 2020-06, 2020-05, 2020-03, 2020-02, 2020-01, 2019-08, 2019-07, 2019-06, 2019-04, 2018-08, 2018-06, 2018-05, 2018-04, 2018-03, 2017-10 (anonymisées).
 
@@ -227,6 +228,29 @@ Cinq fiches de plus. **59 fiches au total.** Même méthode (lecture avec `lire_
 - Arrondis et conversions corrigés avant livraison (« 445 000 euros » au lieu de 445 k€, « deux mois plus tard ») ; montants en « k€ » de 2012-08 écrits en « milliers d'euros ».
 - **Il reste 8 décisions LCB-FT de l'ACPR d'avant 2019** : 2013-01, 2012-05, 2012-04, 2011-03, 2011-02, 2011-01, 2010-05, 2010-01. Attention : 2011-03 a un nom d'établissement qui contient des noms de personnes physiques (à ne pas reprendre) et pas de montant lu.
 
+## Lot 13 (14 novembre, Opus 5.5, même conversation que le lot 12)
+
+Quatre fiches. **63 fiches au total.** La cinquième prévue, 2011-02 (36 pages, 54 griefs, la plus longue de la base), est reportée à une conversation neuve.
+
+| Décision | Établissement | Sanction (demande du Collège) | Griefs retenus / en partie / écartés |
+|---|---|---|---|
+| 2013-01 | Caisse d'épargne et de prévoyance du Languedoc-Roussillon (groupe BPCE) | blâme, 1 M€ (blâme, 2 M€) | 16 / 7 / 5 (28 entrées : griefs 2 et 3 découpés en 2.1 à 2.5 et 3.1 à 3.4) |
+| 2012-05 | Auxiliaire parisienne de services financiers, APSF (changeur manuel) | blâme, 70 000 € (blâme, 100 000 €) | 7 / 3 / 0 (numérotation de la décision : 1.1 à 5) |
+| 2012-04 | Banque populaire Côte d'Azur | blâme, 500 000 € (blâme, 800 000 €) | 6 / 6 / 0 (12 entrées ; le grief 1 regroupe 9 dossiers) |
+| 2011-03 | Bank Tejarat Paris (succursale d'une banque iranienne) | blâme, 300 000 € ; directeur général adjoint suspendu 3 mois (blâme, 600 000 € ; démission d'office des deux dirigeants) | 31 / 0 / 2 (33 griefs) |
+
+- **Numérotation** : quand la décision découpe un grief en sous-griefs jugés un par un (2013-01, 2012-05, 2012-04), la fiche garde ces numéros (« 2.1 », « 3.4 »). Le site les affiche sans problème (ancres `grief-2.1`). Pour l'étude élargie, cela pèsera sur le nombre de griefs : à garder en tête.
+- **À retenir pour l'étude élargie** :
+  - 2012-04 : première sanction de la Commission bancaire (2009, blâme et 600 000 €) annulée après la décision du Conseil constitutionnel n° 2011-200 QPC ; l'ACP reprend les mêmes faits ; questions de constitutionnalité irrecevables, non bis in idem rejeté.
+  - 2013-01 : demande de question à la Cour de justice de l'Union européenne (droit au silence et à l'avocat pendant un contrôle) refusée ; affiliation à BPCE : chaque établissement doit adapter les outils du groupe. La Commission s'écarte du rapporteur dans les deux sens (retient 2.4, 3.2, 3.4 qu'il écartait ; écarte 12 et 19 qu'il retenait).
+  - 2011-03 : sanctions contre l'Iran (gel des avoirs, autorisations du Trésor, crédits documentaires, assureurs et transporteurs sanctionnés) ; responsabilité personnelle des dirigeants (deux dirigeants qui décident ensemble, « contrôle mutuel »). C'est la seule décision du lot à toucher aux sanctions internationales : très utile en entretien.
+  - 2012-05 : application des règles de 2009 dans le temps (vigilance sanctionnable à partir du 4 septembre 2010 pour la clientèle existante).
+- **Hors LCB-FT** : 2011-03 griefs 25, 27, 28, 29, 31 et 33 (conformité générale, audit externalisé, rapport annuel) ; 2012-04 grief 8 (intermédiaires sans mandat). Les griefs de contrôle interne qui touchent la LCB-FT sont gardés : choix signalé dans les fiches.
+- **Personnes physiques** : 2011-03 vise nommément deux dirigeants ; la fiche ne garde que le nom de la banque. Vérifié sur tout le site fabriqué (aucun nom de dirigeant).
+- **Base à corriger un jour (non bloquant)** : `decisions.json` n'a pas de montant pour 2011-03 (l'en-tête du PDF ne donne pas la sanction) ; c'est 300 000 € (page 15). La fiche, elle, a le bon montant.
+- Arrondis et calculs corrigés avant livraison (« plus de 100 000 euros », « plus de deux ans », « 217 000 € », « deux ans plus tard », « en trois mois », « des centaines de chèques »).
+- **Il reste 4 décisions LCB-FT de l'ACPR d'avant 2019** : 2011-02 (36 pages, 54 griefs, anonymisée « établissement de crédit A », banque privée d'un grand groupe, contrôle étendu à l'étranger jugé irrégulier), 2011-01, 2010-05, 2010-01.
+
 ## Thèmes repérés pendant la session 2
 
 - Décisions à part : 2019-08 (avertissement, sans amende, financement participatif) ; 2018-03 (blâme sans amende à cause de la situation financière) ; 2018-05 (radiation) ; 2020-09 (gel des avoirs seulement) ; 2019-07 (21 griefs dont beaucoup hors LCB-FT).
@@ -268,6 +292,6 @@ Cinq fiches de plus. **59 fiches au total.** Même méthode (lecture avec `lire_
 - ou des fiches AMF, en commençant par les 28 décisions signalées blanchiment (Fable 5.2 ; la grille du point 6 de PROJET.md devra être complétée pour les abus de marché) ;
 - ou la collecte de la CSSF puis de la FINMA (Opus 5.5 ou Sonnet 5.5).
 
-Message de reprise : « Lot 13 : lis PROJET.md et JOURNAL.md (pas l'archive), récupère le dépôt, puis fais les 5 fiches ACPR suivantes d'avant 2019 (2013-01, 2012-05, 2012-04, 2011-03, 2011-02), même méthode que les lots 8 à 12, avec analyse/lire_decision.py et analyse/verifier_nombres.py. » Le lot 14 (2011-01, 2010-05, 2010-01) terminera les décisions LCB-FT de l'ACPR ; il faudra ensuite décider d'élargir l'étude à toutes les années.
+Message de reprise : « Lot 14 : lis PROJET.md et JOURNAL.md (pas l'archive), récupère le dépôt, puis fais la fiche ACPR-2011-02 (36 pages, 54 griefs), même méthode que les lots 8 à 13, avec analyse/lire_decision.py et analyse/verifier_nombres.py. » Puis, dans une autre conversation, le lot 15 (2011-01, 2010-05, 2010-01), qui terminera les décisions LCB-FT de l'ACPR ; il faudra ensuite décider d'élargir l'étude à toutes les années.
 
 Modèle conseillé : Fable 5.2 pour les fiches et pour reprendre le texte de l'étude ; Opus 5.5 ou Sonnet 5.5 pour la collecte et le site.

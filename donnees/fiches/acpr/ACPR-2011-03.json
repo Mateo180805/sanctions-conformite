@@ -1,0 +1,811 @@
+{
+  "id": "ACPR-2011-03",
+  "version_grille": 1,
+  "suivi": {
+    "statut": "à lire",
+    "mes_notes": ""
+  },
+  "perimetre": "LCB-FT et gel des avoirs",
+  "resume_court": "Bank Tejarat Paris est la succursale française d'une banque iranienne, avec 16 salariés, surtout spécialisée dans les crédits documentaires, qui financent le commerce international. Le contrôle de 2011 a lieu en plein durcissement des sanctions européennes contre l'Iran. La succursale a reçu 34,6 M€ d'une banque iranienne dont les fonds devaient être gelés sans attendre l'autorisation du Trésor, transféré des fonds vers une banque chinoise sans autorisation, et caché au Trésor la présence d'assureurs ou de transporteurs sanctionnés dans des crédits documentaires. Pour la Commission, elle a ainsi « sciemment » méconnu les mesures restrictives. Son filtrage était mal réglé, les alertes restaient sans analyse, plusieurs opérations suspectes n'ont pas été déclarées à Tracfin, les dossiers clients étaient vides et le contrôle interne presque inexistant, avec des documents en farsi que les contrôleurs ne pouvaient pas lire. La Commission retient 31 griefs sur 33 et prononce un blâme et 300 000 €, contre 600 000 € demandés, en tenant compte du gel des avoirs qui fragilise la succursale. Le directeur général adjoint est suspendu trois mois ; le directeur général, déjà démis par sa banque, ne peut plus être sanctionné.",
+  "identite": {
+    "etablissement": "Bank Tejarat Paris",
+    "type_etablissement": "banque",
+    "precision_type": "Succursale française de la banque iranienne Tejarat. Activité principale : crédits documentaires (souvent comme banque notificatrice), plus des comptes de particuliers et de sociétés, sans réseau d'agences. 16 salariés au moment du contrôle. Placée sous administrateur provisoire par l'ACP le 23 janvier 2012.",
+    "groupe": "Bank Tejarat (Iran)",
+    "pays": "France ; banque iranienne",
+    "activite_et_taille": "16 agents à la date du contrôle. Situation financière fragilisée par le gel de ses avoirs, qui empêche la poursuite normale de ses activités.",
+    "pages": [
+      2,
+      8,
+      13,
+      14,
+      15
+    ]
+  },
+  "controle": {
+    "controle_sur_place": "du 24 janvier au 5 avril 2011",
+    "rapport_de_controle": "rapport d'inspection du 8 juillet 2011",
+    "ouverture_de_la_procedure": "décidée par le Collège de l'ACP (sous-collège banque) le 12 décembre 2011, contre la succursale et ses deux dirigeants ; notifications des griefs du 23 décembre 2011",
+    "antecedents": "Contrôle de la Commission bancaire en 2007, qui relevait déjà l'insuffisante documentation des dossiers clients ; un cabinet avait ensuite rédigé des procédures, non appliquées.",
+    "pages": [
+      1,
+      2,
+      8
+    ]
+  },
+  "sanction": {
+    "nature": [
+      "blâme",
+      "sanction pécuniaire",
+      "suspension du directeur général adjoint pendant trois mois"
+    ],
+    "montant_euros": 300000,
+    "publication": "nominative",
+    "duree_publication_nominative": "non précisée : la décision ordonne une publication au registre de l'ACP, sans limite de durée",
+    "proposition_du_college": "blâme et sanction pécuniaire de 600 000 € ; démission d'office des deux dirigeants ; publication nominative",
+    "pages": [
+      2,
+      15
+    ]
+  },
+  "procedure": {
+    "questions_de_procedure": "Décision de la Commission des sanctions de l'Autorité de contrôle prudentiel (ACP, devenue ACPR). Audience non publique le 16 novembre 2012. La procédure visait aussi personnellement le directeur général et le directeur général adjoint, pour 20 des griefs. Le rapporteur proposait d'écarter les griefs 2 et 9 et de mettre les dirigeants hors de cause ; la Commission ne le suit pas. Le directeur général, démis par la maison mère le 21 janvier 2012, n'est plus dirigeant : la Commission ne peut ni le suspendre ni le démettre, et la loi ne lui permet pas d'interdire d'exercer. Le directeur général adjoint soutenait n'avoir que des tâches opérationnelles : la loi impose deux dirigeants qui décident ensemble (« contrôle mutuel »), et celui qui est empêché d'exercer doit agir tant qu'il porte le titre. Il est responsable sauf pour les virements de fin 2008. La mise sous administrateur provisoire, mesure conservatoire, ne lui retire pas sa qualité de dirigeant.",
+    "pages": [
+      1,
+      2,
+      13,
+      14,
+      15
+    ]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Des fonds d'une banque sanctionnée reçus sans attendre l'autorisation",
+      "resume": "Fin décembre 2008, la succursale a reçu de Bank Melli Iran, inscrite le 23 juin 2008 sur la liste des personnes dont les fonds doivent être gelés, le règlement de 127 créances (34,6 M€) sans attendre l'autorisation demandée au Trésor le 2 septembre 2008, et sans geler les fonds. L'autorisation est arrivée le 29 décembre 2008, très peu après. Des opérations semblables ont eu lieu les 16 mars et 30 avril 2009 (2 132 k€ et 322 k€). L'urgence et des créances antérieures au gel relativisent le manquement sans le justifier.",
+      "textes": [
+        "règlement (CE) n° 423/2007, art. 7, 9, 11 et 13",
+        "règlement (UE) n° 961/2010, art. 16, 19, 20 et 31"
+      ],
+      "chiffres_cles": [
+        "127 créances pour 34,6 M€",
+        "autorisation demandée le 2 septembre 2008, délivrée le 29 décembre 2008",
+        "opérations des 16 mars et 30 avril 2009 : 2 132 k€ et 322 k€"
+      ],
+      "issue": "retenu",
+      "precision_issue": "« Ainsi le grief 1 est établi » ; portée relativisée.",
+      "categorie": "gel des avoirs et sanctions financières",
+      "categorie_precision": "opération sans autorisation de la direction générale du Trésor",
+      "categories_secondaires": [],
+      "pages": [
+        3
+      ]
+    },
+    {
+      "numero": "2",
+      "titre": "Un virement bloqué mais pas signalé",
+      "resume": "Informée le 2 novembre 2010 d'une demande de virement de 49 000 € depuis le compte d'une banque inscrite sur la liste de gel (Sina Bank), la succursale a refusé, ce qui appliquait bien le gel, mais n'en a pas informé le Trésor. Or toute tentative de contourner un gel doit être signalée ; ce n'est pas à la banque de juger de l'utilité de l'information.",
+      "textes": [
+        "règlement (UE) n° 961/2010, art. 31"
+      ],
+      "chiffres_cles": [
+        "virement de 49 000 €",
+        "information du 2 novembre 2010"
+      ],
+      "issue": "retenu",
+      "precision_issue": "« Même s'il doit être relativisé […] le grief 2 est établi » (un seul exemple, virement refusé).",
+      "categorie": "gel des avoirs et sanctions financières",
+      "categorie_precision": "information de l'autorité sur une tentative de contournement",
+      "categories_secondaires": [],
+      "pages": [
+        4
+      ]
+    },
+    {
+      "numero": "3",
+      "titre": "Des assureurs et transporteurs sanctionnés non signalés",
+      "resume": "Sollicitée pour des crédits documentaires où intervenait, comme assureur ou transporteur, une personne visée par le gel, la succursale répondait « Delete or change » (supprimer ou changer ce nom) sans informer le Trésor. Il n'est pas établi qu'elle ait violé l'interdiction elle-même, mais en taisant ces informations sensibles, elle est regardée comme ayant participé « volontairement et consciemment » à des activités de contournement.",
+      "textes": [
+        "règlement (CE) n° 423/2007, art. 13",
+        "règlement (UE) n° 961/2010, art. 31"
+      ],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 3 est donc établi. »",
+      "categorie": "gel des avoirs et sanctions financières",
+      "categorie_precision": "crédits documentaires, information de l'autorité, contournement",
+      "categories_secondaires": [
+        "dispositif de groupe, filiales et correspondance bancaire"
+      ],
+      "pages": [
+        4
+      ]
+    },
+    {
+      "numero": "4",
+      "titre": "Des transferts vers une banque chinoise sans autorisation",
+      "resume": "Le règlement de 2010 imposait une autorisation préalable du Trésor pour tout transfert de plus de 40 000 € avec une entité iranienne. En décembre 2010, la succursale a transféré des montants supérieurs entre le compte de son siège à Téhéran et une banque chinoise, en invoquant à tort une autorisation permanente qui ne visait que d'autres banques. Le passage par le système de paiement Target de la Banque de France ne remplace pas l'autorisation.",
+      "textes": [
+        "règlement (UE) n° 961/2010, art. 21 (I, c)"
+      ],
+      "chiffres_cles": [
+        "seuil de 40 000 €",
+        "transferts de décembre 2010"
+      ],
+      "issue": "retenu",
+      "precision_issue": "« Ainsi a été méconnue l'obligation de recueillir l'autorisation préalable à ces transferts. »",
+      "categorie": "gel des avoirs et sanctions financières",
+      "categorie_precision": "autorisation préalable des transferts avec l'Iran",
+      "categories_secondaires": [
+        "dispositif de groupe, filiales et correspondance bancaire"
+      ],
+      "pages": [
+        5
+      ]
+    },
+    {
+      "numero": "5",
+      "titre": "Une obligation d'information appliquée avec deux mois de retard",
+      "resume": "Depuis le 27 octobre 2010, les succursales de banques iraniennes devaient informer le Trésor de tout transfert effectué ou reçu. La succursale ne l'a fait correctement qu'à partir du 1er janvier 2011, ce qui « dénote un manque de zèle ».",
+      "textes": [
+        "règlement (UE) n° 961/2010, art. 22"
+      ],
+      "chiffres_cles": [
+        "obligation en vigueur le 27 octobre 2010",
+        "information correcte à partir du 1er janvier 2011"
+      ],
+      "issue": "retenu",
+      "precision_issue": "Pas de phrase « établi » propre ; la décision relève un « manque de zèle » et le rapporteur estimait ce grief constitué.",
+      "categorie": "gel des avoirs et sanctions financières",
+      "categorie_precision": "information du Trésor sur les transferts",
+      "categories_secondaires": [],
+      "pages": [
+        5
+      ]
+    },
+    {
+      "numero": "6",
+      "titre": "Un filtrage mal paramétré par un prestataire",
+      "resume": "Le logiciel de filtrage du gel des avoirs, installé par un prestataire, utilisait des critères d'orthographe trop restrictifs, et la succursale ne maîtrisait pas son paramétrage. Elle ne peut se décharger sur son fournisseur : une banque qui externalise reste « pleinement responsable » et doit garder l'expertise pour contrôler la prestation. Le dispositif de détection est une obligation de résultat.",
+      "textes": [
+        "règlement n° 97-02, art. 11-7 (2.2) et 37-2"
+      ],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "« Les carences du dispositif relevées par le rapport établissent donc le grief 6. »",
+      "categorie": "gel des avoirs et sanctions financières",
+      "categorie_precision": "paramétrage du filtrage (orthographe), prestataire",
+      "categories_secondaires": [
+        "dispositif de surveillance des opérations (outils, scénarios, seuils)"
+      ],
+      "pages": [
+        5,
+        6
+      ]
+    },
+    {
+      "numero": "7",
+      "titre": "Des alertes envoyées au directeur général, sans analyse",
+      "resume": "Les alertes du filtrage étaient transmises chaque jour au directeur général sans information sur l'opération ni la cause de l'alerte, et restaient sans suite. La petite taille de la banque ne dispense pas d'une procédure écrite de traitement des alertes, sans laquelle le superviseur ne peut rien vérifier.",
+      "textes": [
+        "règlement n° 97-02, art. 11-7 (2.2)"
+      ],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "Pas de phrase « établi » propre ; la Commission suit le représentant du Collège.",
+      "categorie": "gel des avoirs et sanctions financières",
+      "categorie_precision": "traitement des alertes de filtrage",
+      "categories_secondaires": [
+        "analyse des alertes et examen renforcé"
+      ],
+      "pages": [
+        6
+      ]
+    },
+    {
+      "numero": "8",
+      "titre": "Les mesures de gel françaises et libyennes oubliées",
+      "resume": "Le filtrage automatique ne couvrait pas les mesures de gel complémentaires décidées par le ministre : intégration tardive des arrêtés des 19 novembre et 14 décembre 2010, et aucune intégration des mesures contre la Libye.",
+      "textes": [
+        "règlement n° 97-02, art. 11-7 (2.2)",
+        "CMF L. 562-1"
+      ],
+      "chiffres_cles": [
+        "arrêtés des 19 novembre et 14 décembre 2010"
+      ],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 8 est donc établi. »",
+      "categorie": "gel des avoirs et sanctions financières",
+      "categorie_precision": "mesures nationales de gel, listes incomplètes",
+      "categories_secondaires": [],
+      "pages": [
+        6
+      ]
+    },
+    {
+      "numero": "9",
+      "titre": "Des pièces de minibus vendues par un groupe d'armement",
+      "resume": "Pour des lettres de crédit sur l'exportation vers l'Iran de pièces automobiles par un grand groupe sud-coréen qui vend aussi des missiles, la succursale a fait préciser les pièces (des minibus pour le transport de personnes), cohérentes avec l'activité de l'importateur. Ces précisions ont pu lever le doute.",
+      "textes": [
+        "CMF L. 561-15 (I)",
+        "règlement (UE) n° 961/2010, art. 23"
+      ],
+      "chiffres_cles": [],
+      "issue": "écarté",
+      "precision_issue": "« Le grief 9 n'est donc pas établi. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "biens à double usage",
+      "categories_secondaires": [],
+      "pages": [
+        6,
+        7
+      ]
+    },
+    {
+      "numero": "10",
+      "titre": "100 000 € venus d'un circuit compliqué",
+      "resume": "En janvier 2011, un compte ouvert à une société de la zone franche de Dubaï, dans le commerce d'équipements pétroliers et gaziers, a reçu 100 000 € via la succursale de Guernesey d'une banque suisse, sur ordre d'une banque allemande. L'autorisation du Trésor obtenue ne dispensait pas de déclarer à Tracfin, faute d'information sur l'origine des fonds et vu ce circuit.",
+      "textes": [
+        "CMF L. 561-15 (I)"
+      ],
+      "chiffres_cles": [
+        "crédit de 100 000 € en janvier 2011"
+      ],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 10 est donc établi. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [
+        7
+      ]
+    },
+    {
+      "numero": "11",
+      "titre": "Le compte d'un professeur pour une conférence",
+      "resume": "Un professeur iranien a ouvert un compte avec un chèque de banque de 18 000 € pour organiser une conférence en France ; le compte, sans mouvement, a été fermé à l'abandon du projet. Que les fonds viennent d'une banque iranienne ne suffisait pas à imposer une déclaration.",
+      "textes": [
+        "CMF L. 561-15 (I)"
+      ],
+      "chiffres_cles": [
+        "chèque de banque de 18 000 €",
+        "compte fermé le 1er septembre 2010"
+      ],
+      "issue": "écarté",
+      "precision_issue": "« Le grief 11 n'est donc pas établi. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [
+        7
+      ]
+    },
+    {
+      "numero": "12",
+      "titre": "Refuser un virement ne remplace pas la déclaration",
+      "resume": "Deux ordres de virement de 39 000 €, les 22 et 29 décembre 2010, pour « l'achat de biens immobiliers et des frais de vie » d'un particulier : la succursale a exécuté le premier, refusé le second après avoir fait part de ses doutes à son siège, sans enquêter ni déclarer à Tracfin.",
+      "textes": [
+        "CMF L. 561-15 (I)"
+      ],
+      "chiffres_cles": [
+        "2 ordres de 39 000 € les 22 et 29 décembre 2010"
+      ],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 12 est donc établi. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "refuser l'opération ne remplace pas la déclaration",
+      "categories_secondaires": [],
+      "pages": [
+        7
+      ]
+    },
+    {
+      "numero": "13",
+      "titre": "Deux commandes d'acier annulées au premier doute",
+      "resume": "En août et septembre 2010, la succursale devait émettre des lettres de crédit identiques (au total 4 fois 3,94 M€) pour de l'acier russe acheté par une société iranienne, via une société de Dubaï puis une autre d'une zone franche iranienne. Aux premières questions, les deux ont demandé l'annulation. Cette succession « étrange » devait être déclarée.",
+      "textes": [
+        "CMF L. 561-15 (I)"
+      ],
+      "chiffres_cles": [
+        "4 fois 3,94 M€",
+        "août et septembre 2010"
+      ],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 13 est donc établi. »",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [
+        7
+      ]
+    },
+    {
+      "numero": "14",
+      "titre": "Des dossiers clients sans objet ni origine des fonds",
+      "resume": "Après un contrôle de 2007 qui relevait déjà des dossiers insuffisants, un cabinet avait rédigé des procédures, jamais diffusées ni appliquées. Les dossiers ne disaient ni pourquoi le client ouvrait un compte dans cette banque sans réseau d'agences, ni les opérations prévues, ni l'origine des fonds, ni la situation financière des sociétés.",
+      "textes": [
+        "CMF L. 561-6",
+        "CMF L. 561-8",
+        "CMF R. 561-12"
+      ],
+      "chiffres_cles": [
+        "contrôle précédent en 2007"
+      ],
+      "issue": "retenu",
+      "precision_issue": "« Les griefs 14 et 15 sont établis. »",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [
+        8
+      ]
+    },
+    {
+      "numero": "15",
+      "titre": "Les comptes ouverts par la direction ou sur demande de l'ambassade",
+      "resume": "Le défaut de documentation était particulièrement marqué pour les comptes ouverts directement par la direction ou sur instruction de l'ambassade d'Iran à Paris. Un passeport diplomatique, une recommandation de l'ambassade ou l'éloignement du client ne dispensent de rien.",
+      "textes": [
+        "CMF L. 561-6",
+        "CMF R. 561-12"
+      ],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "« Les griefs 14 et 15 sont établis. »",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "comptes ouverts par la direction ou sur recommandation",
+      "categories_secondaires": [
+        "personnes politiquement exposées et vigilance renforcée"
+      ],
+      "pages": [
+        8
+      ]
+    },
+    {
+      "numero": "16",
+      "titre": "Les exportateurs des crédits documentaires mal connus",
+      "resume": "La succursale montait des crédits documentaires sans s'informer assez de l'activité de l'exportateur. Être seulement « banque notificatrice » ne réduit pas la vigilance : elle doit couvrir toute la chaîne de l'opération commerciale.",
+      "textes": [
+        "CMF L. 561-6"
+      ],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "« Les griefs 16, 17 et 18 sont établis. »",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "crédit documentaire : exportateur",
+      "categories_secondaires": [
+        "gel des avoirs et sanctions financières"
+      ],
+      "pages": [
+        8,
+        9
+      ]
+    },
+    {
+      "numero": "17",
+      "titre": "Les importateurs mal connus",
+      "resume": "Même reproche pour l'importateur ou l'intermédiaire agissant pour son compte.",
+      "textes": [
+        "CMF L. 561-6"
+      ],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "« Les griefs 16, 17 et 18 sont établis. »",
+      "categorie": "connaissance du client à l'entrée en relation",
+      "categorie_precision": "crédit documentaire : importateur et intermédiaire",
+      "categories_secondaires": [
+        "gel des avoirs et sanctions financières"
+      ],
+      "pages": [
+        8,
+        9
+      ]
+    },
+    {
+      "numero": "18",
+      "titre": "Des crédits mis en place sans les relances prévues",
+      "resume": "Des crédits documentaires étaient mis en place sans les relances prévues par les propres procédures de la succursale.",
+      "textes": [
+        "CMF L. 561-6"
+      ],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "« Les griefs 16, 17 et 18 sont établis. »",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "procédures internes non appliquées (crédit documentaire)",
+      "categories_secondaires": [],
+      "pages": [
+        8,
+        9
+      ]
+    },
+    {
+      "numero": "19",
+      "titre": "Une notation des risques où personne n'est risqué",
+      "resume": "La cartographie des risques prévoyait de noter donneurs d'ordre et bénéficiaires, mais la notation ne distinguait personne : aucune relation n'était à risque élevé, et l'absence d'information sur le donneur d'ordre, pourtant critère de risque très élevé, ne changeait rien.",
+      "textes": [
+        "règlement n° 97-02, art. 11-7 (2.2)"
+      ],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "« Les griefs 19 et 20 sont donc établis. »",
+      "categorie": "classification des risques",
+      "categorie_precision": "profil des relations d'affaires",
+      "categories_secondaires": [],
+      "pages": [
+        9
+      ]
+    },
+    {
+      "numero": "20",
+      "titre": "Aucune vigilance renforcée",
+      "resume": "Aucune relation n'était placée en vigilance renforcée, alors que plusieurs présentaient un risque élevé, et les mesures prévues pour les entrées en relation à distance n'étaient pas appliquées.",
+      "textes": [
+        "règlement n° 97-02, art. 11-7 (2.2)"
+      ],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "« Les griefs 19 et 20 sont donc établis. »",
+      "categorie": "personnes politiquement exposées et vigilance renforcée",
+      "categorie_precision": "vigilance renforcée, entrée en relation à distance",
+      "categories_secondaires": [],
+      "pages": [
+        9
+      ]
+    },
+    {
+      "numero": "21",
+      "titre": "Aucun outil de suivi des relations",
+      "resume": "Le responsable du contrôle permanent n'avait aucun outil pour repérer les opérations anormales et devait examiner les opérations une à une ; vu sa surcharge, l'argument de la petite taille ne tient pas.",
+      "textes": [
+        "règlement n° 97-02, art. 11-7 (2.2)"
+      ],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 21 est donc établi. »",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "",
+      "categories_secondaires": [],
+      "pages": [
+        9
+      ]
+    },
+    {
+      "numero": "22",
+      "titre": "Un contrôleur qui contrôle son propre travail",
+      "resume": "Le responsable du contrôle permanent n'était pas indépendant : il gérait aussi les annulations de lettres de crédit et l'identification des clients au titre de la LCB-FT.",
+      "textes": [
+        "règlement n° 97-02, art. 6 (a), 7-1 et 10"
+      ],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "« Les griefs 22, 23 et 24 sont donc établis. »",
+      "categorie": "gouvernance, moyens et formation",
+      "categorie_precision": "indépendance du contrôle permanent",
+      "categories_secondaires": [
+        "procédures et contrôle interne"
+      ],
+      "pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "numero": "23",
+      "titre": "Un contrôleur sans moyens et sans traduction",
+      "resume": "Il avait peu de moyens et peu de temps pour contrôler, n'avait pas accès aux informations en farsi non traduites des dossiers clients, et ne recevait pas les rapports en farsi de l'audit du groupe, transmis au directeur général.",
+      "textes": [
+        "règlement n° 97-02, art. 6"
+      ],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "« Les griefs 22, 23 et 24 sont donc établis. »",
+      "categorie": "gouvernance, moyens et formation",
+      "categorie_precision": "moyens du contrôle permanent ; documents non traduits",
+      "categories_secondaires": [],
+      "pages": [
+        10
+      ]
+    },
+    {
+      "numero": "24",
+      "titre": "Des pans entiers sans contrôle permanent",
+      "resume": "Faute d'indépendance et de moyens, la comptabilité, l'informatique, la continuité d'activité, la tenue des comptes et les transferts de fonds n'étaient pas contrôlés régulièrement ; seuls les crédits documentaires l'étaient.",
+      "textes": [
+        "règlement n° 97-02, art. 6 (a)"
+      ],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "« Les griefs 22, 23 et 24 sont donc établis. »",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "périmètre du contrôle permanent",
+      "categories_secondaires": [],
+      "pages": [
+        10
+      ]
+    },
+    {
+      "numero": "25",
+      "titre": "Aucun contrôle de conformité hors blanchiment",
+      "resume": "Aucune procédure ni aucun contrôle de conformité n'existait, sauf pour la LCB-FT.",
+      "textes": [
+        "règlement n° 97-02, art. 6 et 11-1"
+      ],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "« Les griefs 25, 26 et 27 sont établis. »",
+      "categorie": "autre (à préciser)",
+      "categorie_precision": "grief hors LCB-FT : contrôle de la conformité (hors LCB-FT)",
+      "categories_secondaires": [],
+      "pages": [
+        10,
+        11
+      ]
+    },
+    {
+      "numero": "26",
+      "titre": "Aucune formation, même anti-blanchiment",
+      "resume": "Le personnel n'avait reçu aucune formation à la conformité, y compris à la LCB-FT, et aucune n'était prévue.",
+      "textes": [
+        "règlement n° 97-02, art. 11-4",
+        "CMF L. 561-33"
+      ],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "« Les griefs 25, 26 et 27 sont établis. »",
+      "categorie": "gouvernance, moyens et formation",
+      "categorie_precision": "formation",
+      "categories_secondaires": [],
+      "pages": [
+        10,
+        11
+      ]
+    },
+    {
+      "numero": "27",
+      "titre": "Pas de moyen de signaler un dysfonctionnement",
+      "resume": "Aucune procédure ne permettait au personnel de faire part au responsable de la conformité de ses questions sur d'éventuels dysfonctionnements.",
+      "textes": [
+        "règlement n° 97-02, art. 11-2"
+      ],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "« Les griefs 25, 26 et 27 sont établis. »",
+      "categorie": "autre (à préciser)",
+      "categorie_precision": "grief hors LCB-FT : procédure de signalement des dysfonctionnements de conformité",
+      "categories_secondaires": [],
+      "pages": [
+        10,
+        11
+      ]
+    },
+    {
+      "numero": "28",
+      "titre": "Un contrat d'audit externalisé incomplet",
+      "resume": "Le contrat confiant l'audit interne à un cabinet en février 2009 ne prévoyait ni niveau de qualité, ni confidentialité, ni accès du superviseur ; la simple mention du règlement ne suffit pas, quelle que soit la notoriété du cabinet.",
+      "textes": [
+        "règlement n° 97-02, art. 37-2"
+      ],
+      "chiffres_cles": [
+        "contrat de février 2009"
+      ],
+      "issue": "retenu",
+      "precision_issue": "« Bien que formel, le grief 28 est établi. »",
+      "categorie": "autre (à préciser)",
+      "categorie_precision": "grief hors LCB-FT : externalisation du contrôle périodique",
+      "categories_secondaires": [],
+      "pages": [
+        11
+      ]
+    },
+    {
+      "numero": "29",
+      "titre": "Pas de programme d'audit",
+      "resume": "Sans programme formalisé, la continuité d'activité n'était jamais auditée, la comptabilité et l'informatique pas régulièrement. Externaliser l'audit ne transfère pas la responsabilité.",
+      "textes": [
+        "règlement n° 97-02, art. 9"
+      ],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 29 est établi. »",
+      "categorie": "autre (à préciser)",
+      "categorie_precision": "grief hors LCB-FT : programme du contrôle périodique",
+      "categories_secondaires": [],
+      "pages": [
+        11,
+        12
+      ]
+    },
+    {
+      "numero": "30",
+      "titre": "Un auditeur qui ne lit pas le farsi",
+      "resume": "L'auditeur externe n'avait pas accès, faute de traduction, aux informations en farsi des dossiers clients ni aux rapports de l'audit du groupe.",
+      "textes": [
+        "règlement n° 97-02, art. 9"
+      ],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 30 est établi. »",
+      "categorie": "gouvernance, moyens et formation",
+      "categorie_precision": "moyens du contrôle périodique ; documents non traduits",
+      "categories_secondaires": [
+        "procédures et contrôle interne"
+      ],
+      "pages": [
+        12
+      ]
+    },
+    {
+      "numero": "31",
+      "titre": "Des recommandations d'audit sans suivi",
+      "resume": "Personne ne suivait de façon formalisée les recommandations de l'auditeur externe.",
+      "textes": [
+        "règlement n° 97-02, art. 9-1"
+      ],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 31 est établi. »",
+      "categorie": "autre (à préciser)",
+      "categorie_precision": "grief hors LCB-FT : suivi des recommandations du contrôle périodique",
+      "categories_secondaires": [],
+      "pages": [
+        12
+      ]
+    },
+    {
+      "numero": "32",
+      "titre": "Des procédures « livresques » jamais diffusées",
+      "resume": "Les procédures, notamment sur la gestion des comptes (2008) et la LCB-FT (2010), n'étaient ni diffusées au personnel ni appliquées.",
+      "textes": [
+        "règlement n° 97-02, art. 40"
+      ],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 32 est établi. »",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "diffusion des procédures",
+      "categories_secondaires": [],
+      "pages": [
+        12
+      ]
+    },
+    {
+      "numero": "33",
+      "titre": "Un rapport annuel de contrôle interne inexact",
+      "resume": "Le rapport annuel de contrôle interne sur 2010 contenait des informations inexactes (contrôle de conformité, habilitations informatiques, suivi des recommandations d'audit). La notification visait par erreur l'article 40 au lieu de l'article 42.",
+      "textes": [
+        "règlement n° 97-02, art. 42"
+      ],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "« Le grief 33 est donc établi. »",
+      "categorie": "autre (à préciser)",
+      "categorie_precision": "grief hors LCB-FT : rapport annuel de contrôle interne inexact",
+      "categories_secondaires": [],
+      "pages": [
+        13
+      ]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {
+        "texte": "Succursale d'une banque iranienne, qui devait donc être « particulièrement attentive » aux mesures restrictives contre l'Iran ; elle les a « sciemment méconnues à plusieurs reprises ».",
+        "pages": [
+          14,
+          15
+        ]
+      },
+      {
+        "texte": "Vu la très petite taille de la succursale, les manquements n'ont pu être commis qu'avec le « concours actif ou l'abstention fautive » du directeur général, qui recevait tous les messages SWIFT entrants.",
+        "pages": [
+          13
+        ]
+      }
+    ],
+    "elements_attenuants": [
+      {
+        "texte": "Plusieurs griefs relativisés ou non établis ; régularisations engagées.",
+        "pages": [
+          15
+        ]
+      },
+      {
+        "texte": "Situation financière fragilisée par le gel des avoirs de la succursale.",
+        "pages": [
+          15
+        ]
+      }
+    ],
+    "mesures_correctrices": [
+      {
+        "texte": "Sous l'administrateur provisoire : contrôleur permanent déchargé de la plupart de ses tâches opérationnelles, plan d'action avec un cabinet, traduction systématique des documents en farsi, nouveau cabinet d'audit, programme de formation annoncé.",
+        "pages": [
+          8,
+          10,
+          11,
+          12
+        ]
+      }
+    ],
+    "situation_financiere": {
+      "texte": "Situation financière fragilisée par le gel des avoirs, qui fait obstacle à la poursuite normale des activités ; la Commission en tient compte.",
+      "pages": [
+        15
+      ]
+    },
+    "cause_profonde": {
+      "texte": "Non précisé de façon explicite. La décision relève des procédures rédigées par un cabinet mais jamais diffusées, un contrôleur permanent absorbé par des tâches opérationnelles et des documents en farsi inaccessibles aux contrôleurs.",
+      "pages": [
+        8,
+        10,
+        12
+      ]
+    }
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Avant de recevoir des fonds d'une entité sous gel, l'autorisation de la direction générale du Trésor est-elle obtenue par écrit ?",
+      "Une tentative d'opération refusée à cause d'un gel est-elle signalée à l'autorité ?",
+      "Dans un crédit documentaire, tous les intervenants (assureur, transporteur, intermédiaires) sont-ils filtrés ?",
+      "Les transferts soumis à autorisation sont-ils repérés par montant et par pays, sans s'appuyer sur une autorisation générale mal comprise ?",
+      "Le paramétrage du filtrage (tolérance orthographique, listes nationales et européennes) est-il maîtrisé par la banque, même s'il est confié à un prestataire ?",
+      "Chaque alerte de filtrage est-elle analysée et documentée selon une procédure écrite ?",
+      "Les documents en langue étrangère des dossiers clients sont-ils traduits pour les contrôleurs ?",
+      "Le responsable du contrôle permanent est-il libre de toute tâche opérationnelle ?",
+      "Un contrat d'externalisation de l'audit prévoit-il qualité, confidentialité et accès du superviseur ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": [
+      "Iran",
+      "sanctions financières internationales",
+      "gel des avoirs",
+      "autorisation du Trésor",
+      "crédit documentaire",
+      "assureurs et transporteurs",
+      "contournement",
+      "filtrage",
+      "prestataire",
+      "farsi",
+      "responsabilité des dirigeants",
+      "administrateur provisoire"
+    ],
+    "pages_prioritaires": [
+      {
+        "pages": [
+          3,
+          4
+        ],
+        "pourquoi": "les opérations avec des banques iraniennes sanctionnées"
+      },
+      {
+        "pages": [
+          5,
+          6
+        ],
+        "pourquoi": "le filtrage externalisé et le traitement des alertes"
+      },
+      {
+        "pages": [
+          13,
+          14
+        ],
+        "pourquoi": "la responsabilité personnelle des deux dirigeants"
+      }
+    ],
+    "confiance": "moyenne",
+    "a_verifier": [
+      "Décision nominative qui vise aussi deux dirigeants nommés : la fiche ne reprend que le nom de la banque.",
+      "Griefs 5 et 7 : pas de phrase « établi » propre ; classés « retenu ».",
+      "Griefs 25, 27, 28, 29, 31 et 33 (conformité générale, audit externalisé, rapport annuel) marqués « hors LCB-FT » ; les griefs 22 à 24, 26, 30 et 32 (contrôle permanent, formation, procédures) sont gardés en LCB-FT. Choix discutable.",
+      "La base (decisions.json) n'a pas de montant pour cette décision (l'en-tête du PDF ne donne pas la sanction) : 300 000 € selon le dispositif, page 15.",
+      "La décision cite les banques iraniennes visées par le gel (entités, pas des personnes) ; la fiche les reprend."
+    ]
+  },
+  "redaction": {
+    "redigee_par": "Claude (Opus 5.5), à partir du texte extrait du PDF officiel",
+    "date": "2026-11-14",
+    "relue_par_mateo": false
+  }
+}

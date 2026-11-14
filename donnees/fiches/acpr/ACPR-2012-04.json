@@ -1,0 +1,449 @@
+{
+  "id": "ACPR-2012-04",
+  "version_grille": 1,
+  "suivi": {
+    "statut": "à lire",
+    "mes_notes": ""
+  },
+  "perimetre": "LCB-FT et gel des avoirs",
+  "resume_court": "La Banque populaire Côte d'Azur est une banque régionale de 95 agences. Contrôlée fin 2007, elle avait d'abord été sanctionnée en 2009 par la Commission bancaire (blâme et 600 000 €). Cette sanction a été annulée en 2012, après que le Conseil constitutionnel a jugé que la Commission bancaire ne séparait pas la poursuite du jugement. L'ACP a alors rouvert une procédure sur les mêmes faits. La banque soulevait des questions de constitutionnalité et invoquait la règle qui interdit de juger deux fois les mêmes faits : tout est rejeté. Sur le fond, la banque laissait passer des opérations très suspectes sans déclaration à Tracfin : retraits d'espèces présentés comme un « dessous de table », très nombreux chèques d'un casino, clients liés selon elle au PKK. Seules 3 % environ des alertes étaient traitées, deux personnes s'occupaient de tout, les alertes du filtrage antiterroriste n'étaient plus examinées et 85 dossiers sur 199 étaient incomplets. La Commission retient les douze griefs, dont six en partie, et prononce un blâme et 500 000 €, contre 800 000 € demandés.",
+  "identite": {
+    "etablissement": "Banque populaire Côte d'Azur",
+    "type_etablissement": "banque",
+    "precision_type": "Banque populaire régionale (réseau de 95 agences), affiliée à l'organe central du groupe, alors la Banque fédérale des banques populaires.",
+    "groupe": "Banques populaires (organe central : BFBP, aujourd'hui BPCE)",
+    "pays": "France",
+    "activite_et_taille": "Non précisé, au-delà des 95 agences.",
+    "pages": [
+      20,
+      22
+    ]
+  },
+  "controle": {
+    "controle_sur_place": "du 29 octobre 2007 au 11 janvier 2008",
+    "rapport_de_controle": "rapport d'inspection du 2 avril 2008 (pré-rapport transmis le 4 mars 2008, réponse de la banque le 25 mars 2008)",
+    "ouverture_de_la_procedure": "décidée par le Collège de l'ACP (sous-collège banque) le 3 mai 2012 ; notification des griefs du 10 mai 2012",
+    "antecedents": "Sanction de la Commission bancaire du 18 décembre 2009 (blâme et 600 000 €) sur le même rapport, annulée par le Conseil d'État le 11 avril 2012 à la suite de la décision n° 2011-200 QPC du Conseil constitutionnel du 2 décembre 2011.",
+    "pages": [
+      1,
+      2,
+      3,
+      6
+    ]
+  },
+  "sanction": {
+    "nature": [
+      "blâme",
+      "sanction pécuniaire"
+    ],
+    "montant_euros": 500000,
+    "publication": "nominative",
+    "duree_publication_nominative": "non précisée : la décision ordonne une publication au registre de l'ACP, sans limite de durée",
+    "proposition_du_college": "blâme et sanction pécuniaire de 800 000 €, publication nominative",
+    "pages": [
+      3,
+      24,
+      25
+    ]
+  },
+  "procedure": {
+    "questions_de_procedure": "Procédures n° 2012-04 et 2012-04 bis. (1) Trois questions prioritaires de constitutionnalité (absence de prescription, séparation des fonctions au sein de l'ACP) : irrecevables, la Commission n'étant pas une juridiction au sens du droit interne ; (2) la décision du Conseil constitutionnel de 2011 entraîne l'annulation des sanctions de la Commission bancaire, mais pas l'impossibilité de poursuivre de nouveau les mêmes faits devant l'ACP, avec l'échelle de sanctions la plus douce ; (3) règle non bis in idem : la première sanction, y compris sa publication, a été annulée et n'est donc pas « définitive » ; (4) contradictoire pendant le contrôle : respecté ; (5) textes abrogés : il y a continuité des obligations dans les nouveaux textes. Audience publique seulement pour ces questions préalables, le 18 décembre 2012. La banque a aussi demandé un renvoi pour préparer une nouvelle question de constitutionnalité, refusé.",
+    "pages": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  "griefs": [
+    {
+      "numero": "1",
+      "titre": "Neuf dossiers non déclarés à Tracfin",
+      "resume": "Exemples : des retraits d'espèces de 25 000 € expliqués au crayon dans le dossier par un « dessous de table » ; une cliente non résidente ayant reçu 642 379 € de virements depuis la Suisse sans motif apparent ; un dirigeant de sociétés de négoce de viande encaissant de très nombreux chèques d'un casino puis retirant des espèces ; un capitaine de yacht retirant 595 000 € en espèces entre mars et juin 2006 ; deux clients que la banque elle-même rattachait au PKK, alors inscrit sur la liste européenne des organisations terroristes, déposant des chèques parfois falsifiés. Il faut déclarer un soupçon, pas une certitude, et pas seulement pour des personnes inscrites sur une liste. Mettre un compte sous surveillance ou le fermer ne remplace pas la déclaration, et une déclaration faite neuf mois plus tard « équivaut à un défaut de DS ». Un dossier est écarté (client visé par des réquisitions judiciaires, mais opérations expliquées) et un autre réduit aux seules espèces.",
+      "textes": [
+        "CMF L. 562-2 (ancien)",
+        "CMF L. 561-15"
+      ],
+      "chiffres_cles": [
+        "9 dossiers poursuivis, 1 écarté, 1 réduit",
+        "retraits de 25 000 € et virement de 200 000 € (seules les espèces retenues)",
+        "4 virements pour 642 379 €",
+        "6 retraits de caisse pour 595 000 € entre le 14 mars et le 14 juin 2006",
+        "32 chèques pour 44 700 €",
+        "déclaration faite neuf mois après les faits"
+      ],
+      "issue": "retenu en partie",
+      "precision_issue": "Sept dossiers « établis », un réduit « aux mouvements d'espèces », un écarté (« le grief doit être écarté »).",
+      "categorie": "déclarations de soupçon à Tracfin",
+      "categorie_precision": "déclaration de soupçon, pas de certitude ; surveillance ou fermeture ne remplacent pas la déclaration",
+      "categories_secondaires": [
+        "gel des avoirs et sanctions financières",
+        "analyse des alertes et examen renforcé"
+      ],
+      "pages": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "numero": "2",
+      "titre": "Un virement de 800 000 USD pour une cliente déjà déclarée",
+      "resume": "Une cliente déclarée à Tracfin en 2005 a vu arriver en 2007, sur le même compte, un virement de 800 000 USD de membres de sa famille, expliqué par la clôture d'un compte en Suisse. Vu la nature des premiers soupçons (sociétés dans des paradis fiscaux) et le patrimoine connu de la famille, une déclaration complémentaire n'était pas obligatoire. Mais rien au dossier ne confirmait l'explication : la banque a manqué de vigilance.",
+      "textes": [
+        "CMF L. 562-3 (ancien)",
+        "règlement CRB n° 91-07, art. 2"
+      ],
+      "chiffres_cles": [
+        "virement de 800 000 USD en septembre 2007",
+        "déclaration initiale du 23 février 2005"
+      ],
+      "issue": "retenu en partie",
+      "precision_issue": "Pas de défaut de déclaration complémentaire ; « seule la qualification de défaut de vigilance est finalement retenue ».",
+      "categorie": "vigilance constante et mise à jour des dossiers",
+      "categorie_precision": "",
+      "categories_secondaires": [
+        "déclarations de soupçon à Tracfin"
+      ],
+      "pages": [
+        12
+      ]
+    },
+    {
+      "numero": "3.1",
+      "titre": "Douze dossiers sans réaction et 85 dossiers incomplets",
+      "resume": "Dans douze dossiers, des opérations incohérentes avec ce que la banque savait du client n'ont suscité aucune surveillance : 206 800 € d'espèces versés en 2007 par une cliente vivant en Italie, retirés en partie le jour même ; un chèque de 190 000 € suivi de retraits d'espèces de 40 000 € répétés ; des retraits d'un parlementaire étranger signalés deux fois par l'agence ; une société civile achetant une villa sans rien savoir de son mandataire, alors que le bénéficiaire effectif devait déjà être recherché. Sur 199 dossiers examinés dans cinq agences, 85 (près de 43 %) étaient incomplets (domicile, revenus, pièce d'identité, documents des sociétés).",
+      "textes": [
+        "règlement CRB n° 91-07, art. 2",
+        "CMF L. 561-6",
+        "CMF R. 561-3 (ancien)"
+      ],
+      "chiffres_cles": [
+        "12 dossiers individuels, dont 1 réduit",
+        "206 800 € d'espèces en 2007",
+        "chèque de 190 000 € puis retraits de 40 000 €",
+        "85 dossiers incomplets sur 199, près de 43 %"
+      ],
+      "issue": "retenu en partie",
+      "precision_issue": "Onze dossiers « établis », un « dans le périmètre ainsi réduit » ; 85 dossiers : « établi ».",
+      "categorie": "vigilance constante et mise à jour des dossiers",
+      "categorie_precision": "",
+      "categories_secondaires": [
+        "connaissance du client à l'entrée en relation",
+        "personnes politiquement exposées et vigilance renforcée"
+      ],
+      "pages": [
+        13,
+        14,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "numero": "3.2",
+      "titre": "Deux personnes pour toutes les alertes",
+      "resume": "Le service anti-blanchiment et fraudes ne comptait que deux personnes à temps plein, trop peu pour analyser les nombreuses alertes ; les responsables d'agence ne contrôlaient pas les fiches envoyées et ne savaient pas quels clients étaient surveillés ou déjà déclarés. Porter l'effectif à quatre en 2008 confirme l'insuffisance. Une partie du grief, fondée sur une confusion entre deux responsables, est écartée.",
+      "textes": [
+        "règlement CRB n° 91-07, art. 2",
+        "règlement n° 97-02, art. 11-7"
+      ],
+      "chiffres_cles": [
+        "2 personnes à temps plein",
+        "4 personnes courant 2008"
+      ],
+      "issue": "retenu en partie",
+      "precision_issue": "« Dans le périmètre ainsi réduit, le grief est établi. »",
+      "categorie": "gouvernance, moyens et formation",
+      "categorie_precision": "moyens humains de la LCB-FT",
+      "categories_secondaires": [],
+      "pages": [
+        17,
+        18
+      ]
+    },
+    {
+      "numero": "3.3",
+      "titre": "3 % des alertes traitées",
+      "resume": "Sur environ 30 000 alertes en 2007 (20 700 selon la banque), seules 3 % environ (5 % selon la banque) ont été traitées. Les agences n'avaient aucun outil de requête, certaines requêtes oubliaient les virements internationaux, l'historique ne dépassait pas un mois et il n'y avait pas de profilage des comptes, déployé seulement en juin 2008.",
+      "textes": [
+        "règlement CRB n° 91-07, art. 2",
+        "règlement n° 97-02, art. 11-7"
+      ],
+      "chiffres_cles": [
+        "environ 30 000 alertes en 2007 (20 700 selon la banque)",
+        "environ 3 % traitées (5 % selon la banque)",
+        "outil de profilage déployé en juin 2008"
+      ],
+      "issue": "retenu",
+      "precision_issue": "« Le manquement est par suite établi. »",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "",
+      "categories_secondaires": [
+        "analyse des alertes et examen renforcé"
+      ],
+      "pages": [
+        18
+      ]
+    },
+    {
+      "numero": "3.4",
+      "titre": "Des alertes « terroristes » plus traitées depuis 2006",
+      "resume": "Après un premier filtrage de la base clients en 2006 (plus d'un millier d'alertes, aucune justifiée), le service ne contrôlait plus les alertes de filtrage, jugées non prioritaires ; leur traitement a été interrompu plusieurs mois en 2007. Les nouveaux clients n'étaient pas comparés aux listes à l'ouverture du compte. En revanche, aucun texte n'imposait de bloquer l'ouverture du compte : bloquer empêcherait au contraire de geler les avoirs.",
+      "textes": [
+        "règlement CRB n° 91-07, art. 2",
+        "règlements (CE) n° 2580/2001 et n° 881/2002"
+      ],
+      "chiffres_cles": [
+        "plus d'un millier d'alertes traitées en 2006",
+        "traitement repris en novembre 2007"
+      ],
+      "issue": "retenu en partie",
+      "precision_issue": "« Dans le périmètre ainsi réduit par l'abandon de sa partie relative au blocage de l'ouverture des comptes, le grief est établi. »",
+      "categorie": "gel des avoirs et sanctions financières",
+      "categorie_precision": "alertes de filtrage non traitées ; pas de filtrage à l'entrée en relation",
+      "categories_secondaires": [],
+      "pages": [
+        19
+      ]
+    },
+    {
+      "numero": "4",
+      "titre": "Des procédures ni complètes ni à jour",
+      "resume": "La circulaire anti-blanchiment était incomplète et pas mise à jour, la procédure de contrôle des chèques obsolète, et les agences n'avaient pas de consignes sur les diligences à faire et les informations à transmettre. Renvoyer au site de l'organe central ne suffit pas : les procédures du groupe doivent être adaptées à chaque banque.",
+      "textes": [
+        "CMF R. 563-3 (ancien)",
+        "CMF R. 561-38"
+      ],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est donc établi. »",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "procédures non adaptées ni mises à jour",
+      "categories_secondaires": [
+        "dispositif de groupe, filiales et correspondance bancaire"
+      ],
+      "pages": [
+        19,
+        20
+      ]
+    },
+    {
+      "numero": "5",
+      "titre": "Le programme de contrôle des chèques à moitié appliqué",
+      "resume": "Le service faisait moins de contrôles que prévu : états des chèques entre 80 000 et 150 000 € et états mensuels non exploités, au-dessus de 150 000 € en partie seulement. Les chèques des clients surveillés n'étaient pas isolés, et ceux des clients déclarés à Tracfin n'étaient pas examinés « pour des raisons de coût ».",
+      "textes": [
+        "règlement CRBF n° 2002-01, art. 4 et 11"
+      ],
+      "chiffres_cles": [
+        "états entre 80 000 et 150 000 € non exploités"
+      ],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est donc établi. »",
+      "categorie": "dispositif de surveillance des opérations (outils, scénarios, seuils)",
+      "categorie_precision": "contrôle des chèques",
+      "categories_secondaires": [],
+      "pages": [
+        20,
+        21
+      ]
+    },
+    {
+      "numero": "6",
+      "titre": "Un questionnaire annuel trop optimiste",
+      "resume": "Plusieurs réponses au questionnaire annuel sur le dispositif anti-blanchiment pour 2006 étaient inexactes (détection, identification des bénéficiaires effectifs, procédures écrites, monnaie électronique). L'intention n'est pas un élément du manquement, et ce grief peut s'ajouter aux autres : il porte sur l'information du superviseur, pas sur le dispositif. Une réponse, sur la date de mise à jour du manuel, était exacte.",
+      "textes": [
+        "instruction CB n° 2000-09"
+      ],
+      "chiffres_cles": [
+        "questionnaire QLB 3 pour 2006"
+      ],
+      "issue": "retenu en partie",
+      "precision_issue": "« Dans le périmètre réduit par l'abandon du reproche relatif à la réponse à la question 214 du QLB 3, le grief est établi. »",
+      "categorie": "autre (à préciser)",
+      "categorie_precision": "informations inexactes transmises au superviseur (questionnaire LCB-FT annuel)",
+      "categories_secondaires": [],
+      "pages": [
+        21,
+        22
+      ]
+    },
+    {
+      "numero": "7.1",
+      "titre": "25 agences contrôlées sur 95",
+      "resume": "Les fiches d'autocontrôle manquaient souvent, les contrôles des directeurs d'agence étaient inexistants ou non écrits, et le second niveau, avec deux personnes, n'a contrôlé que 25 agences sur 95 en 2007 (50 jours de travail sur environ 180 prévus), sans surveiller les flux. Appartenir à un groupe ne dispense pas d'avoir ses propres équipes.",
+      "textes": [
+        "règlement n° 97-02, art. 6 (a)"
+      ],
+      "chiffres_cles": [
+        "25 agences sur 95 contrôlées en 2007",
+        "50 jours/hommes au lieu d'environ 180"
+      ],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est établi à la date du contrôle. »",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "contrôle permanent",
+      "categories_secondaires": [
+        "gouvernance, moyens et formation"
+      ],
+      "pages": [
+        22,
+        23
+      ]
+    },
+    {
+      "numero": "7.2",
+      "titre": "Un audit en agence tous les six ou sept ans",
+      "resume": "L'audit ne voyait chaque agence qu'environ tous les six à sept ans, trois jours sur place ; 12 agences auditées en 2005, 17 en 2006 ; dix agences n'avaient pas été auditées depuis cinq ans. Le volet anti-blanchiment se résumait à quelques questions et à un questionnaire de huit questions, sans examen des flux ni des opérations.",
+      "textes": [
+        "règlement n° 97-02, art. 6 (b) et 9"
+      ],
+      "chiffres_cles": [
+        "12 agences auditées en 2005, 17 en 2006",
+        "10 agences non auditées depuis moins de cinq ans",
+        "environ trois jours sur place par mission"
+      ],
+      "issue": "retenu",
+      "precision_issue": "« Le grief est donc établi. »",
+      "categorie": "procédures et contrôle interne",
+      "categorie_precision": "contrôle périodique",
+      "categories_secondaires": [],
+      "pages": [
+        23
+      ]
+    },
+    {
+      "numero": "8",
+      "titre": "Des apporteurs de crédits sans mandat",
+      "resume": "La banque recourait à des intermédiaires externes pour des crédits immobiliers sans leur délivrer le mandat exigé par la loi, avec une simple convention de partenariat. Le risque de blanchiment de ces dossiers était faible.",
+      "textes": [
+        "CMF L. 519-2",
+        "règlement n° 97-02, art. 5 (a)"
+      ],
+      "chiffres_cles": [],
+      "issue": "retenu",
+      "precision_issue": "« S'il doit être relativisé […], le grief est donc établi. »",
+      "categorie": "autre (à préciser)",
+      "categorie_precision": "grief hors LCB-FT : intermédiaires en opérations de banque sans mandat",
+      "categories_secondaires": [],
+      "pages": [
+        23,
+        24
+      ]
+    }
+  ],
+  "contexte": {
+    "elements_aggravants": [
+      {
+        "texte": "« Carences nombreuses affectant plusieurs aspects essentiels de la LCB-FT » ; réponses erronées au questionnaire, qui n'ont pas correctement informé le superviseur.",
+        "pages": [
+          24
+        ]
+      }
+    ],
+    "elements_attenuants": [
+      {
+        "texte": "Périmètre de plusieurs griefs réduit et un dossier écarté ; nombreuses mesures de régularisation depuis le rapport de 2008.",
+        "pages": [
+          24
+        ]
+      }
+    ],
+    "mesures_correctrices": [
+      {
+        "texte": "Effectif du service anti-blanchiment porté à quatre personnes en 2008, outil de profilage déployé en juin 2008, procédures et contrôle des chèques revus, contrôles permanent et périodique renforcés en 2008 et 2009.",
+        "pages": [
+          18,
+          20,
+          21,
+          23,
+          24
+        ]
+      }
+    ],
+    "situation_financiere": {
+      "texte": "Non précisé.",
+      "pages": []
+    },
+    "cause_profonde": {
+      "texte": "Non précisé. La décision relève des procédures du groupe non adaptées, des moyens humains et techniques insuffisants et un contrôle interne qui ne surveillait pas les flux.",
+      "pages": [
+        18,
+        20,
+        23
+      ]
+    }
+  },
+  "deduit_par_claude": {
+    "avertissement": "Ce bloc n'est pas dans la décision : ce sont des points de contrôle déduits des manquements retenus.",
+    "points_de_controle": [
+      "Un commentaire d'agence qui évoque une pratique illégale (« dessous de table ») déclenche-t-il une déclaration ?",
+      "Un client que la banque associe elle-même à une organisation terroriste fait-il l'objet d'une déclaration, même sans certitude ?",
+      "Quel pourcentage des alertes est réellement analysé, et par combien de personnes ?",
+      "Les alertes de filtrage des listes de gel sont-elles traitées en continu, y compris à l'ouverture des comptes ?",
+      "Les chèques des clients déjà déclarés à Tracfin sont-ils examinés un par un ?",
+      "Les procédures du groupe sont-elles adaptées et complétées localement ?",
+      "Chaque agence est-elle auditée sur la LCB-FT à un rythme raisonnable, avec un examen des flux ?",
+      "Les réponses au questionnaire annuel du superviseur sont-elles vérifiées avant envoi ?"
+    ]
+  },
+  "pour_moi": {
+    "mots_cles": [
+      "Banque populaire",
+      "sanction de la Commission bancaire annulée",
+      "QPC",
+      "non bis in idem",
+      "casino",
+      "yacht",
+      "financement du terrorisme",
+      "PKK",
+      "filtrage",
+      "contrôle des chèques",
+      "questionnaire QLB",
+      "audit des agences",
+      "intermédiaires sans mandat"
+    ],
+    "pages_prioritaires": [
+      {
+        "pages": [
+          3,
+          4,
+          5,
+          6
+        ],
+        "pourquoi": "pourquoi la banque peut être poursuivie une seconde fois"
+      },
+      {
+        "pages": [
+          10,
+          11
+        ],
+        "pourquoi": "les clients liés à une organisation terroriste"
+      },
+      {
+        "pages": [
+          18,
+          19
+        ],
+        "pourquoi": "3 % des alertes traitées et le filtrage abandonné"
+      }
+    ],
+    "confiance": "moyenne",
+    "a_verifier": [
+      "La fiche suit le découpage de la décision en 12 griefs (1, 2, 3.1 à 3.4, 4 à 6, 7.1, 7.2, 8). Le grief 1 regroupe 9 dossiers individuels et le grief 3.1 regroupe 12 dossiers et un échantillon de 199.",
+      "Grief 2 : la poursuite reprochait un défaut de déclaration complémentaire « et, à tout le moins » de vigilance ; seul le défaut de vigilance est retenu, d'où « retenu en partie ».",
+      "Grief 8 (intermédiaires sans mandat) marqué « hors LCB-FT ».",
+      "D'après le recueil de l'ACPR, le Conseil d'État a refusé de transmettre les questions de constitutionnalité le 25 juillet 2013 et rejeté le recours de la banque le 15 décembre 2014 (arrêts non lus).",
+      "Je n'ai repris ni les nationalités, ni les professions sans rapport, ni les antécédents judiciaires ou personnels attribués à des clients."
+    ]
+  },
+  "redaction": {
+    "redigee_par": "Claude (Opus 5.5), à partir du texte extrait du PDF officiel",
+    "date": "2026-11-14",
+    "relue_par_mateo": false
+  }
+}
